@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ascension-seton",
+    "name": "Ascension Seton (Austin hospitals)",
+    "type": "hospital",
+    "locations": "Seton Medical Center Austin, Dell Seton at UT, Seton Northwest, Seton Southwest",
+    "address": "1201 W 38th St, Austin, TX 78705 (Seton Medical Center)",
+    "source_url": "https://itemized.health/hospital/ascension-seton-medical-austin",
+    "source_label": "Hospital price-transparency file via Itemized",
+    "how": "Ask Ascension Seton billing for the published self-pay (cash) price for your CPT code before scheduling."
+  },
+  {
+    "id": "stdavids-main",
+    "name": "St. David's Medical Center",
+    "type": "hospital",
+    "locations": "Central Austin",
+    "address": "919 E 32nd St, Austin, TX 78705",
+    "source_url": "https://itemized.health/hospital/st-davids-medical-center",
+    "source_label": "Hospital price-transparency file via Itemized; insurer ranges via MedRates",
+    "how": "Ask St. David's for the self-pay price for your CPT code; ask about prompt-pay discounts."
+  },
+  {
+    "id": "stdavids-south",
+    "name": "St. David's South Austin Medical Center",
+    "type": "hospital",
+    "locations": "South Austin",
+    "address": "901 W Ben White Blvd, Austin, TX 78704",
+    "source_url": "https://itemized.health/hospital/st-davids-south-austin-medical-center",
+    "source_label": "Hospital price-transparency file via Itemized",
+    "how": "Ask St. David's for the self-pay price for your CPT code; ask about prompt-pay discounts."
+  },
+  {
+    "id": "bsw-austin",
+    "name": "Baylor Scott & White Medical Center - Austin",
+    "type": "hospital",
+    "locations": "North Austin",
+    "address": "5245 W US Hwy 290 Service Rd, Austin, TX 78735",
+    "source_url": "https://uninsuredcost.com/austin-tx/hospitals/baylor-scott-white-austin/",
+    "source_label": "Hospital price file dated 2026-06-13 via UninsuredCost",
+    "how": "Ask Baylor Scott & White for the published cash price and a written estimate before you schedule."
+  },
+  {
+    "id": "radiology-assist",
+    "name": "Radiology Assist partner imaging centers",
+    "type": "imaging-network",
+    "locations": "711 W 38th St Ste B1; 900 W 38th St Ste 100; 2745 Bee Caves Rd Ste 102 (Rollingwood)",
+    "address": "Multiple Austin-area imaging centers",
+    "source_url": "https://radiologyassist.com/facility-locations-rates/locations-by-city/mri/austin-tx-mri/",
+    "source_label": "Radiology Assist published program rates",
+    "how": "Book through Radiology Assist (free program, doctor referral required). Prices include the radiologist's report."
+  },
+  {
+    "id": "mdsave",
+    "name": "MDsave marketplace (Austin)",
+    "type": "marketplace",
+    "locations": "Akumin / Preferred Imaging of Austin, 711 W 38th St, and other Austin providers",
+    "address": "Online purchase, redeem at local provider",
+    "source_url": "https://www.mdsave.com/procedures/mri-without-contrast/d781f5c9/texas/austin-tx",
+    "source_label": "MDsave listed prices, Austin region",
+    "how": "Buy the procedure voucher online at MDsave, then schedule with the listed provider. For patients paying out of pocket."
+  },
+  {
+    "id": "ulta",
+    "name": "Ulta Lab Tests (Quest draw centers)",
+    "type": "lab-direct",
+    "locations": "Quest Diagnostics draw centers across Austin",
+    "address": "Order online, walk in for the draw",
+    "source_url": "https://www.ultalabtests.com/",
+    "source_label": "Ulta Lab Tests published prices (checked via CompareLabTests and Ulta product pages)",
+    "how": "Order the test online, then walk into a Quest draw center. A $12.95 draw fee is added at checkout."
+  }
+]

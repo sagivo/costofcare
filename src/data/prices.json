@@ -1,0 +1,129 @@
+{
+  "retrieved": "2026-10-21",
+  "area": "Austin, Texas metro",
+  "rows": [
+    {"service":"cmp","provider":"ascension-seton","cash_min":95,"cash_max":95},
+    {"service":"cmp","provider":"bsw-austin","cash_min":214,"cash_max":214,"insured_typ":116,"insured_low":12},
+    {"service":"cmp","provider":"stdavids-south","cash_min":241,"cash_max":1602},
+    {"service":"cmp","provider":"stdavids-main","cash_min":975,"cash_max":975,"insured_low":9,"insured_high":878},
+    {"service":"cmp","provider":"ulta","cash_min":34.9,"cash_max":34.9,"note":"$21.95 test + $12.95 draw fee"},
+
+    {"service":"bmp","provider":"bsw-austin","cash_min":156,"cash_max":156,"insured_typ":87.18,"insured_low":10.15},
+
+    {"service":"cbc","provider":"ascension-seton","cash_min":35,"cash_max":60},
+    {"service":"cbc","provider":"bsw-austin","cash_min":67.31,"cash_max":67.31,"insured_typ":50.54,"insured_low":9.32},
+    {"service":"cbc","provider":"stdavids-main","insured_low":7,"insured_high":67,"note":"No cash price published"},
+    {"service":"cbc","provider":"ulta","cash_min":31.9,"cash_max":31.9,"note":"$18.95 test + $12.95 draw fee"},
+
+    {"service":"lipid","provider":"ascension-seton","cash_min":203,"cash_max":203},
+    {"service":"lipid","provider":"bsw-austin","cash_min":186,"cash_max":186,"insured_typ":114,"insured_low":12},
+    {"service":"lipid","provider":"stdavids-south","cash_min":399,"cash_max":1160},
+    {"service":"lipid","provider":"stdavids-main","cash_min":662,"cash_max":1106},
+    {"service":"lipid","provider":"ulta","cash_min":35.9,"cash_max":35.9,"note":"$22.95 test + $12.95 draw fee"},
+
+    {"service":"tsh","provider":"ascension-seton","cash_min":47,"cash_max":47},
+    {"service":"tsh","provider":"bsw-austin","cash_min":177,"cash_max":177,"insured_typ":122,"insured_low":12},
+    {"service":"tsh","provider":"stdavids-main","cash_min":1061,"cash_max":1061},
+    {"service":"tsh","provider":"stdavids-south","cash_min":1422,"cash_max":1561},
+    {"service":"tsh","provider":"ulta","cash_min":35.9,"cash_max":35.9,"note":"$22.95 test + $12.95 draw fee"},
+
+    {"service":"a1c","provider":"ascension-seton","cash_min":63,"cash_max":70},
+    {"service":"a1c","provider":"bsw-austin","cash_min":124,"cash_max":124,"insured_typ":78.57,"insured_low":11.65},
+    {"service":"a1c","provider":"stdavids-main","cash_min":440,"cash_max":440},
+    {"service":"a1c","provider":"stdavids-south","cash_min":538,"cash_max":538},
+    {"service":"a1c","provider":"ulta","cash_min":35.9,"cash_max":35.9,"note":"$22.95 test + $12.95 draw fee"},
+
+    {"service":"vitd","provider":"bsw-austin","cash_min":210,"cash_max":210,"insured_typ":182,"insured_low":12},
+    {"service":"vitd","provider":"ulta","cash_min":59.9,"cash_max":59.9,"note":"$46.95 test + $12.95 draw fee"},
+
+    {"service":"psa","provider":"bsw-austin","cash_min":151,"cash_max":151,"insured_typ":116,"insured_low":12},
+
+    {"service":"urinalysis","provider":"bsw-austin","cash_min":77.87,"cash_max":77.87,"insured_typ":40.11,"insured_low":3.8},
+    {"service":"urinalysis","provider":"stdavids-main","cash_min":421,"cash_max":421,"insured_low":379,"insured_high":379},
+
+    {"service":"urine-culture","provider":"bsw-austin","cash_min":122,"cash_max":122,"insured_typ":72.57,"insured_low":9.68},
+
+    {"service":"mri-brain","provider":"radiology-assist","cash_min":270.76,"cash_max":270.76,"note":"Flat program rate, radiologist report included"},
+    {"service":"mri-brain","provider":"mdsave","cash_min":365,"cash_max":580,"note":"Austin-region vouchers, any MRI without contrast"},
+    {"service":"mri-brain","provider":"ascension-seton","cash_min":611,"cash_max":1493},
+    {"service":"mri-brain","provider":"bsw-austin","cash_min":2557,"cash_max":2557,"insured_typ":2025,"insured_low":288},
+    {"service":"mri-brain","provider":"stdavids-main","cash_min":4903,"cash_max":4903},
+    {"service":"mri-brain","provider":"stdavids-south","cash_min":7204,"cash_max":7204},
+
+    {"service":"mri-brain-contrast","provider":"ascension-seton","cash_min":1749,"cash_max":2711},
+    {"service":"mri-brain-contrast","provider":"bsw-austin","cash_min":3969,"cash_max":3969,"insured_typ":2025,"insured_low":421},
+    {"service":"mri-brain-contrast","provider":"stdavids-main","cash_min":6941,"cash_max":6941},
+    {"service":"mri-brain-contrast","provider":"stdavids-south","cash_min":8116,"cash_max":8116},
+
+    {"service":"mri-neck","provider":"radiology-assist","cash_min":263.22,"cash_max":263.22,"note":"Flat program rate, radiologist report included"},
+    {"service":"mri-neck","provider":"mdsave","cash_min":365,"cash_max":580,"note":"Austin-region vouchers, any MRI without contrast"},
+    {"service":"mri-neck","provider":"bsw-austin","cash_min":2539,"cash_max":2539,"insured_typ":2025,"insured_low":288},
+
+    {"service":"mri-lumbar","provider":"radiology-assist","cash_min":264.1,"cash_max":264.1,"note":"Flat program rate, radiologist report included"},
+    {"service":"mri-lumbar","provider":"mdsave","cash_min":365,"cash_max":580,"note":"Austin-region vouchers, any MRI without contrast"},
+    {"service":"mri-lumbar","provider":"ascension-seton","cash_min":1144,"cash_max":1144},
+    {"service":"mri-lumbar","provider":"bsw-austin","cash_min":2066,"cash_max":2066,"insured_typ":1894,"insured_low":288},
+    {"service":"mri-lumbar","provider":"stdavids-main","cash_min":5439,"cash_max":5439,"insured_low":197,"insured_high":4895},
+    {"service":"mri-lumbar","provider":"stdavids-south","cash_min":7458,"cash_max":7458},
+
+    {"service":"mri-knee","provider":"radiology-assist","cash_min":279.38,"cash_max":279.38,"note":"Flat program rate, radiologist report included"},
+    {"service":"mri-knee","provider":"mdsave","cash_min":365,"cash_max":580,"note":"Austin-region vouchers, any MRI without contrast"},
+    {"service":"mri-knee","provider":"ascension-seton","cash_min":728,"cash_max":728},
+    {"service":"mri-knee","provider":"bsw-austin","cash_min":2257,"cash_max":2257,"insured_typ":2025,"insured_low":288},
+    {"service":"mri-knee","provider":"stdavids-main","cash_min":4903,"cash_max":9804},
+    {"service":"mri-knee","provider":"stdavids-south","cash_min":7151,"cash_max":10044},
+
+    {"service":"mri-shoulder","provider":"radiology-assist","cash_min":279.38,"cash_max":279.38,"note":"Program knee rate shown; joint MRIs fall in the $263-$280 band, confirm exact joint"},
+    {"service":"mri-shoulder","provider":"mdsave","cash_min":365,"cash_max":580,"note":"Austin-region vouchers, any MRI without contrast"},
+    {"service":"mri-shoulder","provider":"bsw-austin","cash_min":2312,"cash_max":2312,"insured_typ":2025,"insured_low":288},
+
+    {"service":"ct-head","provider":"radiology-assist","cash_min":130,"cash_max":130,"note":"CT without contrast program rate starts at $130"},
+    {"service":"ct-head","provider":"bsw-austin","cash_min":1975,"cash_max":1975,"insured_typ":1733,"insured_low":126},
+    {"service":"ct-head","provider":"stdavids-main","cash_min":2374,"cash_max":2374,"insured_low":105,"insured_high":2612},
+
+    {"service":"ct-abd-pelvis","provider":"ascension-seton","cash_min":3447,"cash_max":3447},
+    {"service":"ct-abd-pelvis","provider":"bsw-austin","cash_min":3842,"cash_max":3842,"insured_typ":1845,"insured_low":421},
+    {"service":"ct-abd-pelvis","provider":"stdavids-main","cash_min":7076,"cash_max":7076,"insured_low":270,"insured_high":6368},
+    {"service":"ct-abd-pelvis","provider":"stdavids-south","cash_min":15623,"cash_max":15623},
+
+    {"service":"ct-abd-pelvis-wo","provider":"bsw-austin","cash_min":3629,"cash_max":3629,"insured_typ":1733,"insured_low":288},
+    {"service":"ct-abd-pelvis-wo","provider":"radiology-assist","cash_min":130,"cash_max":130,"note":"CT without contrast program rate starts at $130"},
+
+    {"service":"xray-chest","provider":"radiology-assist","cash_min":33,"cash_max":33,"note":"2-view X-ray program rate"},
+    {"service":"xray-chest","provider":"ascension-seton","cash_min":269,"cash_max":301,"cpt":"71045"},
+    {"service":"xray-chest","provider":"bsw-austin","cash_min":413,"cash_max":413,"insured_typ":350,"insured_low":105},
+    {"service":"xray-chest","provider":"stdavids-south","cash_min":833,"cash_max":833,"cpt":"71045"},
+    {"service":"xray-chest","provider":"stdavids-main","cash_min":881,"cash_max":1105,"cpt":"71045/71046","insured_low":34,"insured_high":994},
+
+    {"service":"us-abdomen","provider":"radiology-assist","cash_min":115,"cash_max":115,"note":"Ultrasound program rate, most body parts"},
+    {"service":"us-abdomen","provider":"ascension-seton","cash_min":292,"cash_max":292},
+    {"service":"us-abdomen","provider":"bsw-austin","cash_min":537,"cash_max":537,"insured_typ":472,"insured_low":126},
+    {"service":"us-abdomen","provider":"stdavids-south","cash_min":1477,"cash_max":2417},
+    {"service":"us-abdomen","provider":"stdavids-main","cash_min":1583,"cash_max":1599,"insured_low":79,"insured_high":1439},
+
+    {"service":"us-thyroid","provider":"radiology-assist","cash_min":115,"cash_max":115,"note":"Ultrasound program rate, most body parts"},
+    {"service":"us-thyroid","provider":"ascension-seton","cash_min":417,"cash_max":417},
+    {"service":"us-thyroid","provider":"bsw-austin","cash_min":645,"cash_max":645,"insured_typ":541,"insured_low":126},
+    {"service":"us-thyroid","provider":"stdavids-south","cash_min":893,"cash_max":1833},
+    {"service":"us-thyroid","provider":"stdavids-main","cash_min":957,"cash_max":967},
+
+    {"service":"mammogram","provider":"radiology-assist","cash_min":140,"cash_max":140,"note":"Screening or diagnostic program rate"},
+    {"service":"mammogram","provider":"ascension-seton","cash_min":135,"cash_max":193},
+    {"service":"mammogram","provider":"bsw-austin","cash_min":238,"cash_max":238,"insured_typ":244,"insured_low":144},
+    {"service":"mammogram","provider":"stdavids-south","cash_min":520,"cash_max":520},
+    {"service":"mammogram","provider":"stdavids-main","cash_min":267,"cash_max":788,"insured_low":13,"insured_high":709},
+
+    {"service":"dexa","provider":"ascension-seton","cash_min":301,"cash_max":301},
+    {"service":"dexa","provider":"bsw-austin","cash_min":370,"cash_max":370,"insured_typ":310,"insured_low":103},
+    {"service":"dexa","provider":"stdavids-south","cash_min":784,"cash_max":784},
+    {"service":"dexa","provider":"stdavids-main","cash_min":808,"cash_max":832},
+
+    {"service":"er-3","provider":"bsw-austin","cash_min":1006,"cash_max":1006,"insured_typ":1058,"insured_low":329,"note":"Facility fee only; doctors bill separately"},
+    {"service":"er-3","provider":"stdavids-main","cash_min":2253,"cash_max":2253,"insured_low":47,"insured_high":2476,"note":"Facility fee only; doctors bill separately"},
+
+    {"service":"er-4","provider":"bsw-austin","cash_min":1676,"cash_max":1676,"insured_typ":1886,"insured_low":503,"note":"Facility fee only; doctors bill separately"},
+    {"service":"er-4","provider":"stdavids-main","cash_min":4868,"cash_max":4868,"insured_low":69,"insured_high":4381,"note":"Facility fee only; doctors bill separately"},
+
+    {"service":"er-5","provider":"bsw-austin","cash_min":2378,"cash_max":2378,"insured_typ":2675,"insured_low":718,"note":"Facility fee only; doctors bill separately"}
+  ]
+}

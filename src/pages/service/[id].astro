@@ -1,0 +1,123 @@
+---
+import Base from '../../layouts/Base.astro';
+import services from '../../data/services.json';
+import providers from '../../data/providers.json';
+import prices from '../../data/prices.json';
+
+export function getStaticPaths() {
+  return services.map((s) => ({ params: { id: s.id } }));
+}
+const { id } = Astro.params;
+const s = services.find((x) => x.id === id);
+const prov = Object.fromEntries(providers.map((p) => [p.id, p]));
+
+const rows = prices.rows
+  .filter((r) => r.service === id)
+  .map((r) => ({ ...r, p: prov[r.provider] }))
+  .sort((a, b) => (a.cash_min ?? Infinity) - (b.cash_min ?? Infinity));
+
+const fmt = (n) => '$' + Number(n).toLocaleString('en-US', { minimumFractionDigits: n % 1 ? 2 : 0, maximumFractionDigits: n % 1 ? 2 : 0 });
+const range = (r) => (r.cash_min == null ? 'Not published' : r.cash_min === r.cash_max ? fmt(r.cash_min) : `${fmt(r.cash_min)} - ${fmt(r.cash_max)}`);
+
+const cashRows = rows.filter((r) => r.cash_min != null);
+const mins = cashRows.map((r) => r.cash_min);
+const low = Math.min(...mins);
+const high = Math.max(...cashRows.map((r) => r.cash_max));
+const sorted = [...mins].sort((a, b) => a - b);
+const median = sorted.length % 2 ? sorted[(sorted.length - 1) / 2] : (sorted[sorted.length / 2 - 1] + sorted[sorted.length / 2]) / 2;
+const insRows = rows.filter((r) => r.insured_typ != null);
+const insMedian = insRows.length
+  ? (() => { const v = insRows.map((r) => r.insured_typ).sort((a, b) => a - b); return v.length % 2 ? v[(v.length - 1) / 2] : (v[v.length / 2 - 1] + v[v.length / 2]) / 2; })()
+  : null;
+const insLow = rows.reduce((m, r) => (r.insured_low != null && (m == null || r.insured_low < m) ? r.insured_low : m), null);
+const insHigh = rows.reduce((m, r) => (r.insured_high != null && (m == null || r.insured_high > m) ? r.insured_high : m), null);
+const catLabel = { labs: 'Blood work & labs', imaging: 'Imaging', visits: 'ER visits' }[s.category];
+---
+<Base title={`${s.short} cost in Austin, TX - CostOfCare`} description={`Compare real published prices for ${s.name} (CPT ${s.cpt}) across Austin hospitals, imaging centers and labs.`}>
+  <nav class="muted" style="margin-bottom:10px"><a href="/">Home</a> / <a href={`/#${s.category}`}>{catLabel}</a></nav>
+  <span class="pill">CPT {s.cpt}</span>
+  <h1 style="font-size:1.7rem; margin-top:10px">{s.name}</h1>
+  <p class="sub">{s.blurb}</p>
+
+  <div class="grid cols3" style="margin-top:20px;">
+    <div class="card" style="border-color:var(--good); background:#f0faf7;">
+      <div class="muted">Cheapest published price</div>
+      <div class="price" style="font-size:1.6rem; color:var(--good);">{fmt(low)}</div>
+      <div class="muted">{cashRows.find((r) => r.cash_min === low)?.p.name}</div>
+    </div>
+    <div class="card">
+      <div class="muted">Typical (median) self-pay</div>
+      <div class="price" style="font-size:1.6rem;">{fmt(median)}</div>
+      <div class="muted">across {cashRows.length} published prices</div>
+    </div>
+    <div class="card" style="border-color:var(--accent); background:var(--warn-bg);">
+      <div class="muted">Most expensive published</div>
+      <div class="price" style="font-size:1.6rem; color:var(--accent);">{fmt(high)}</div>
+      <div class="muted">Shop around: save up to <strong>{fmt(high - low)}</strong></div>
+    </div>
+  </div>
+
+  {(insMedian != null || insLow != null) && (
+    <div class="card" style="margin-top:12px;">
+      <strong>Using insurance?</strong>
+      <span class="muted">
+        {insMedian != null && <> The typical negotiated rate at providers that publish it is <strong>{fmt(insMedian)}</strong>.</>}
+        {insLow != null && insHigh != null && <> Plan-negotiated rates in the data run from {fmt(insLow)} to {fmt(insHigh)} - your share depends on your plan and deductible. If you have a high deductible, the self-pay price can be cheaper than your plan's rate; you can ask to pay cash instead.</>}
+      </span>
+    </div>
+  )}
+
+  <h2>Provider-by-provider prices</h2>
+  <div class="card" style="padding:6px 12px; overflow-x:auto;">
+    <table>
+      <thead>
+        <tr><th>Provider</th><th>Self-pay price</th><th>With insurance*</th><th>How to get this price</th></tr>
+      </thead>
+      <tbody>
+        {rows.map((r, i) => (
+          <tr class={r.cash_min === low ? 'best' : ''}>
+            <td>
+              <strong>{r.p.name}</strong>
+              <div class="muted">{r.p.address}</div>
+              {r.cpt && <div class="muted">CPT {r.cpt}</div>}
+            </td>
+            <td>
+              <span class="price">{range(r)}</span>
+              {r.cash_min === low && <span class="best-tag">BEST</span>}
+              {r.note && <div class="muted">{r.note}</div>}
+            </td>
+            <td class="muted">
+              {r.insured_typ != null && <>Typical {fmt(r.insured_typ)} · lowest {fmt(r.insured_low)}</>}
+              {r.insured_typ == null && r.insured_low != null && (
+                r.insured_high != null && r.insured_high !== r.insured_low ? `${fmt(r.insured_low)} - ${fmt(r.insured_high)} by plan` : `${fmt(r.insured_low)} by plan`
+              )}
+              {r.insured_typ == null && r.insured_low == null && '-'}
+            </td>
+            <td class="muted" style="min-width:200px">{r.p.how}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+    <p class="muted" style="padding:10px 8px;">* Negotiated rates vary by insurance plan. "Typical" and "lowest" are what insurers actually paid in the provider's published file. Ranges are the lowest-highest negotiated rate across plans.</p>
+  </div>
+
+  <h2>Before you book</h2>
+  <div class="card">
+    <ul style="padding-left:18px; display:grid; gap:6px;">
+      <li>Tell the provider the <strong>CPT code {s.cpt}</strong> and ask for their self-pay (cash) price in writing - you have a right to a good-faith estimate under the No Surprises Act.</li>
+      <li>Hospital prices often exclude the doctor's reading fee (radiologist, pathologist). Ask: "Is that the total, including the professional fee?"</li>
+      <li>Insured? Compare your plan's negotiated rate against the cash price - with a high deductible, paying cash is often cheaper.</li>
+      <li>Prices change. Confirm the current price when you schedule.</li>
+    </ul>
+  </div>
+
+  <h2>Sources</h2>
+  <div class="card">
+    <ul style="padding-left:18px; display:grid; gap:6px;">
+      {[...new Map(rows.map((r) => [r.p.source_url, r.p])).values()].map((p) => (
+        <li><a href={p.source_url}>{p.source_label}</a> <span class="muted">({p.name}, retrieved {prices.retrieved})</span></li>
+      ))}
+      <li><span class="muted">Austin-area context: <a href="https://www.carepriceguide.com/tx/austin/mri">CarePriceGuide Austin</a></span></li>
+    </ul>
+  </div>
+</Base>
