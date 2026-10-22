@@ -32,7 +32,7 @@ for (const s of services) {
     <span class="pill">Austin, TX · Real published prices</span>
     <h1 style="margin-top:12px">Know what care costs<br/>before you go.</h1>
     <p class="sub">Hospitals and insurers are required by federal law to publish their prices - they just bury them in giant files. We read those files for you. Compare real prices from Austin hospitals, imaging centers and labs, and see exactly how much you can save.</p>
-    <p style="margin-top:14px" class="muted">Example: a knee MRI in Austin ranges from <strong>{fmt(hero.st.low)}</strong> to <strong>{fmt(hero.st.high)}</strong> for the same scan - a {Math.round(hero.ratio)}x spread. <a href={"/service/" + hero.s.id}>See it</a></p>
+    <p style="margin-top:14px" class="muted">Example: {hero.s.short} in Austin ranges from <strong>{fmt(hero.st.low)}</strong> to <strong>{fmt(hero.st.high)}</strong> depending on where you go - a {Math.round(hero.ratio)}x spread for the exact same CPT code. <a href={"/service/" + hero.s.id}>See it</a></p>
   </section>
 
   <section style="margin: 22px 0 8px;">
