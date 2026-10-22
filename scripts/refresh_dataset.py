@@ -138,6 +138,7 @@ def main():
     with ThreadPoolExecutor(max_workers=workers) as ex:
         futs = {ex.submit(process, r, targets, hosp_dir, max_bytes): r for r in recs}
         for fut in as_completed(futs):
+            if fut.cancelled(): continue
             res = fut.result()
             results.append(res)
             done += 1

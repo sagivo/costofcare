@@ -27,3 +27,7 @@ npm run build
 `.github/workflows/refresh.yml` runs once a day. It expands URL discovery incrementally, attempts discovered primary files, and commits successful extraction snapshots and failure audits. It has a 5-hour cap and 700MB per-source download cap; files above that cap are explicitly failed. A daily job is not a guarantee all sources were refreshed daily. Previous good data survives failures. No paid service is provisioned.
 
 Insurance rates are not patient out-of-pocket estimates or evidence of network eligibility. Ranges may span settings, billing classes, modifiers and plans. No medical advice. Verify exact code and all-in estimate with the provider.
+
+## Expanded public sources
+
+See [data coverage and limitations](docs/DATA_COVERAGE.md). `scripts/refresh_public_sources.py` and the separate daily public-sources workflow refresh insurer file catalogs, hospital locators, CMS price/payment catalog metadata, the CMS facility directory, NADAC latest-per-NDC benchmarks, and historical Medicare inpatient/outpatient provider/service rows. These are distinct data layers, not additional local price coverage. Large catalogs use normal gzip JSONL shards with manifests. No hacks or giant raw files.
