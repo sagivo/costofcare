@@ -1,0 +1,19 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Explore hospital price data | CostOfCare">
+<h1>Explore care prices</h1><p class="sub">Search in plain language, then narrow the published rates.</p>
+<form id="search" class="search-form" style="margin-top:22px"><label for="q" class="sr-only">Treatment, city, insurance</label><input id="q" name="q" type="search" placeholder="MRI Austin or blood work NYC Aetna"/><button>Search</button></form>
+<div class="filters">
+<label>City<select id="city"><option value="">All cities</option></select></label>
+<label>Provider<select id="provider"><option value="">All providers</option></select></label>
+<label>Treatment type<select id="category"><option value="">All types</option></select></label>
+<label>Price / insurance<select id="payer"><option value="">Cash / self-pay</option></select></label>
+</div>
+<div id="interpretation" class="muted" role="status"></div>
+<p class="muted" style="margin:12px 0">Insurance prices are negotiated amounts across published plans, not your out-of-pocket cost or proof of in-network coverage. Facility and professional charges may differ. Confirm the exact code, setting and total with the provider.</p>
+<div style="display:flex;justify-content:space-between;align-items:center"><p id="count" role="status">Loading dataset…</p><button id="download" style="background:transparent;color:var(--brand);padding:8px">Download CSV</button></div>
+<div id="results"></div><button id="more" hidden>Show more</button>
+<p class="muted" style="margin-top:24px"><a href="/data/dataset.json">Download full JSON</a> · <a href="/about-data">Source coverage and limitations</a></p>
+<script src="../scripts/explore.js"></script>
+</Base>

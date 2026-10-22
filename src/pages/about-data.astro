@@ -1,46 +1,14 @@
 ---
 import Base from '../layouts/Base.astro';
-import providers from '../data/providers.json';
-import prices from '../data/prices.json';
+import summary from '../data/summary.json';
 ---
-<Base title="About the data - CostOfCare">
-  <h1 style="font-size:1.7rem;">Where the prices come from</h1>
-  <p class="sub">Every price on this site is a real, published number - never an invented estimate. Here is exactly where each one comes from and how fresh it is.</p>
-
-  <h2>The law that makes this possible</h2>
-  <div class="card">
-    <p>Since 2021, the <strong>CMS Hospital Price Transparency Rule</strong> requires every US hospital to publish its prices - cash prices and insurer-negotiated rates - in machine-readable files. The <strong>Transparency in Coverage</strong> rules require insurers to publish negotiated rates too. And since 2023, the <strong>No Surprises Act</strong> gives uninsured and self-pay patients the right to a written good-faith estimate before scheduled care.</p>
-    <p class="muted" style="margin-top:8px">The catch: those files are enormous - insurer Transparency in Coverage feeds alone run to terabytes of raw JSON per month. So we take the practical route: hospital price-transparency files (the same prices, thousands of times smaller), providers' published self-pay rates, and independent services that parse the big insurer files, and we show you the source and date on every number. Direct insurer TiC feeds (each insurer publishes them - search "&lt;insurer name&gt; Transparency in Coverage files") are on the roadmap as we add cities.</p>
-  </div>
-
-  <h2>Sources and dates</h2>
-  <div class="card">
-    <ul style="padding-left:18px; display:grid; gap:10px;">
-      {providers.map((p) => (
-        <li>
-          <strong>{p.name}</strong> - <a href={p.source_url}>{p.source_label}</a>
-          <div class="muted">Retrieved {prices.retrieved}. {p.locations}</div>
-        </li>
-      ))}
-      <li>
-        <strong>Austin-area benchmarks</strong> - <a href="https://www.carepriceguide.com/tx/austin/mri">CarePriceGuide</a> (city medians computed from 14 Austin-area hospitals' files) and <a href="https://medrates.fyi/hospital/st-davids-medical-center">MedRates</a> (per-plan negotiated-rate ranges).
-        <div class="muted">Retrieved {prices.retrieved}.</div>
-      </li>
-    </ul>
-  </div>
-
-  <h2>How to read these prices</h2>
-  <div class="card">
-    <ul style="padding-left:18px; display:grid; gap:6px;">
-      <li><strong>Self-pay price</strong>: the provider's published cash price, or a published direct-pay program rate. Ranges mean the provider published more than one cash rate (for example by setting).</li>
-      <li><strong>With insurance</strong>: negotiated rates from the provider's own file - "typical" is the rate most plans cluster around, "lowest" is the cheapest negotiated rate published. Your plan's rate may differ, and what <em>you</em> pay depends on your deductible and copay/coinsurance.</li>
-      <li><strong>Hospital prices</strong> are often the facility fee only. Radiologists, anesthesiologists and pathologists may bill separately.</li>
-      <li><strong>Prices go stale.</strong> Hospitals update these files on their own schedule (the law requires at least yearly; many update monthly). Each source above shows when we read it - confirm the current price with the provider before you book.</li>
-    </ul>
-  </div>
-
-  <h2>What this site is not</h2>
-  <div class="card">
-    <p>This is price information, not medical advice, and not a quote. Coverage today: Austin, TX metro, common labs, imaging and ER facility fees. More cities and services are planned.</p>
-  </div>
+<Base title="Dataset coverage and sources | CostOfCare">
+<h1>The data is the product.</h1><p class="sub">Our own extraction pipeline reads hospital-published machine-readable files. Every searchable price retains its original source and dates.</p>
+<section class="coverage"><div><strong>{summary.providers}</strong><span>source files parsed</span></div><div><strong>{summary.cities}</strong><span>cities resolved</span></div><div><strong>{summary.rows}</strong><span>hospital / code records</span></div></section>
+<h2>What is included today</h2><p>Published cash prices and explicit dollar-denominated insurance rates for {summary.procedures} target CPT codes, including MRI, blood tests, scans, office visits and procedures. Search filters insurers when that hospital actually publishes matching rates. We do not fill gaps with invented estimates.</p>
+<h2>What these numbers mean</h2><p>Cash prices are the source's discounted cash charges. Insurance rates are negotiated charges across the source's plans. They are not your deductible, copay or final bill. A published insurer rate does not establish that a provider is in your plan's network.</p><p style="margin-top:12px">Ranges can include different settings, billing classes, modifiers and plans for the same CPT code. Facility fees, physicians, radiology interpretation, anesthesia, drugs and follow-up care may be billed separately. A procedure code is not necessarily a complete treatment bundle. Ask for a written estimate for your exact care.</p>
+<h2>Refresh: separate the dates</h2><p>Each record shows the date the hospital says its file was updated and the date our pipeline extracted it. Rechecking a file today does not make its underlying prices new. The refresh workflow runs daily, attempts primary-source files, preserves successful snapshots when a source fails and records failures. The first full automated run is still being tested. A daily schedule is not a guarantee every source refreshes within 24 hours.</p>
+<h2>Coverage is growing, not complete</h2><p>The source-discovery registry currently contains {summary.registry_locations} location records. Only successfully parsed source files appear in search. Some files cover multiple locations; we do not count those locations as independently verified price coverage. Missing data, blocked downloads and unsupported formats are not evidence that care is unavailable.</p><p style="margin-top:12px">We have not yet reached the nationwide thousands-of-hospitals target. Insurer Transparency in Coverage feeds, pharmacy prices, insurance eligibility and personal out-of-pocket estimates are not included in this release.</p>
+<h2>Sources and downloads</h2><ul style="padding-left:20px"><li>Hospital-published MRFs, linked directly on every search result.</li><li><a href="https://referencesource.org/hospital-price-transparency-mrf-index/">ReferenceSource MRF URL index</a>, used as a discovery seed, not as a source of prices. Its license position is listed as unknown; we collect pricing from hospital sources rather than republishing its prose.</li><li><a href="https://www.cms.gov/priorities/key-initiatives/hospital-price-transparency">CMS Hospital Price Transparency</a>, the underlying reporting program.</li><li><a href="/data/dataset.json">Download current JSON dataset and failure audit</a>.</li></ul>
+<p class="muted" style="margin-top:24px">Search dataset assembled: {summary.generated_at}. This is an early research tool, not medical, legal or financial advice.</p>
 </Base>

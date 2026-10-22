@@ -1,119 +1,17 @@
 ---
 import Base from '../layouts/Base.astro';
-import services from '../data/services.json';
-import providers from '../data/providers.json';
-import prices from '../data/prices.json';
-
-const cats = [
-  { id: 'labs', label: 'Blood work & labs', blurb: 'Common blood tests and panels' },
-  { id: 'imaging', label: 'Imaging', blurb: 'MRI, CT, X-ray, ultrasound, mammogram' },
-  { id: 'visits', label: 'ER visits', blurb: 'Emergency room facility fees' },
-];
-const byCat = (c) => services.filter((s) => s.category === c);
-
-function stats(serviceId) {
-  const rows = prices.rows.filter((r) => r.service === serviceId && r.cash_min != null);
-  if (!rows.length) return null;
-  const mins = rows.map((r) => r.cash_min).sort((a, b) => a - b);
-  const maxs = rows.map((r) => r.cash_max).sort((a, b) => a - b);
-  return { low: mins[0], high: maxs[maxs.length - 1], n: rows.length };
-}
-const fmt = (n) => '$' + n.toLocaleString('en-US', { maximumFractionDigits: 0 });
-
-// biggest spread for hero
-let hero = null;
-for (const s of services) {
-  const st = stats(s.id);
-  if (st && st.n >= 4 && (!hero || st.high / st.low > hero.ratio)) hero = { s, st, ratio: st.high / st.low };
-}
+import summary from '../data/summary.json';
 ---
-<Base>
-  <section style="padding: 28px 0 8px;">
-    <span class="pill">Austin, TX · Real published prices</span>
-    <h1 style="margin-top:12px">Know what care costs<br/>before you go.</h1>
-    <p class="sub">Hospitals and insurers are required by federal law to publish their prices - they just bury them in giant files. We read those files for you. Compare real prices from Austin hospitals, imaging centers and labs, and see exactly how much you can save.</p>
-    <p style="margin-top:14px" class="muted">Example: {hero.s.short} in Austin ranges from <strong>{fmt(hero.st.low)}</strong> to <strong>{fmt(hero.st.high)}</strong> depending on where you go - a {Math.round(hero.ratio)}x spread for the exact same CPT code. <a href={"/service/" + hero.s.id}>See it</a></p>
-  </section>
-
-  <section style="margin: 22px 0 8px;">
-    <div class="card" style="padding:14px 16px;">
-      <label for="q" style="font-weight:700; font-size:0.95rem;">Describe what you need in plain words</label>
-      <input id="q" type="search" placeholder='e.g. "blood work", "knee MRI", "cholesterol", "back scan"...' autocomplete="off"
-        style="width:100%; margin-top:8px; padding:14px; font-size:1.05rem; border:1.5px solid var(--line); border-radius:10px;" />
-      <div id="hits" style="margin-top:6px;"></div>
-    </div>
-  </section>
-
-  {cats.map((c) => (
-    <section id={c.id} style="margin-top:26px;">
-      <h2 style="margin:0 0 2px">{c.label}</h2>
-      <p class="muted" style="margin-bottom:12px">{c.blurb}</p>
-      <div class="grid cols3">
-        {byCat(c.id).map((s) => {
-          const st = stats(s.id);
-          return (
-            <a href={"/service/" + s.id} class="card" style="text-decoration:none; color:inherit; display:block;">
-              <div style="font-weight:700">{s.short}</div>
-              <div class="muted" style="margin-top:2px">CPT {s.cpt}</div>
-              {st && (
-                <div style="margin-top:8px">
-                  <span class="price">{st.low === st.high ? fmt(st.low) : `${fmt(st.low)} - ${fmt(st.high)}`}</span>
-                  <div class="muted">{st.n} {st.n === 1 ? 'provider' : 'providers'} compared</div>
-                </div>
-              )}
-            </a>
-          );
-        })}
-      </div>
-    </section>
-  ))}
-
-  <section style="margin-top:34px;">
-    <h2>Why prices differ so much</h2>
-    <div class="grid cols2">
-      <div class="card">
-        <strong>Same scan, 36x price gap.</strong>
-        <p class="muted" style="margin-top:6px">A knee MRI costs $279 through a self-pay imaging program and up to $10,044 at an Austin hospital. Hospitals set high list prices; independent imaging centers and labs charge a fraction of them.</p>
-      </div>
-      <div class="card">
-        <strong>Every number has a source.</strong>
-        <p class="muted" style="margin-top:6px">Each price links to the hospital's own price-transparency file or the provider's published rate, with the date we read it. No estimates pulled from thin air - <a href="/about-data">see the data</a>.</p>
-      </div>
-    </div>
-  </section>
-
-  <script define:vars={{ services }}>
-    const input = document.getElementById('q');
-    const hits = document.getElementById('hits');
-    const norm = (s) => s.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
-    const idx = services.map((s) => ({
-      id: s.id, short: s.short, cpt: s.cpt,
-      hay: norm([s.name, s.short, s.cpt, ...(s.synonyms || [])].join(' ')),
-    }));
-    input.addEventListener('input', () => {
-      const q = norm(input.value);
-      hits.innerHTML = '';
-      if (q.length < 2) return;
-      const words = q.split(' ');
-      const scored = idx
-        .map((it) => {
-          let score = 0;
-          for (const w of words) {
-            if (it.hay.includes(w)) score += w.length >= 4 ? 2 : 1;
-            else if (w.length >= 4 && it.hay.split(' ').some((t) => t.startsWith(w.slice(0, 4)))) score += 0.5;
-          }
-          return { ...it, score };
-        })
-        .filter((it) => it.score > 0)
-        .sort((a, b) => b.score - a.score)
-        .slice(0, 6);
-      if (!scored.length) {
-        hits.innerHTML = '<div class="muted" style="padding:10px 2px;">No match yet - try "MRI", "blood test", "cholesterol", "mammogram", "ER".</div>';
-        return;
-      }
-      hits.innerHTML = scored
-        .map((it) => `<a href="/service/${it.id}" style="display:flex; justify-content:space-between; padding:12px 6px; border-bottom:1px solid var(--line); text-decoration:none; color:inherit;"><span style="font-weight:600">${it.short}</span><span class="muted">CPT ${it.cpt}</span></a>`)
-        .join('');
-    });
-  </script>
+<Base description="Search hospital-published cash prices and insurance-negotiated rates by treatment, city and insurer.">
+<section class="search-hero">
+ <span class="pill">Hospital prices, without the guesswork</span>
+ <h1>What will it cost?</h1>
+ <p class="sub">A treatment. A city. Your insurance, if you have it.</p>
+ <form action="/explore" class="search-form"><label class="sr-only" for="q">Search treatment, city and insurance</label><input id="q" name="q" type="search" autofocus placeholder="MRI Austin or blood work NYC Aetna" required/><button>Search prices <span aria-hidden="true">→</span></button></form>
+ <div class="examples"><a href="/explore?q=MRI%20Austin">MRI Austin</a><a href="/explore?q=blood%20work%20Miami">Blood work Miami</a><a href="/explore?q=MRI%20Aetna">MRI Aetna</a></div>
+ <p class="muted">Published rates, not your final bill. No account. No personal health details needed.</p>
+</section>
+<section class="coverage"><div><strong>{summary.providers}</strong><span>primary-source files parsed</span></div><div><strong>{summary.cities}</strong><span>cities with prices</span></div><div><strong>{summary.rows.toLocaleString()}</strong><span>hospital / treatment records</span></div></section>
+<section class="card" style="margin:36px 0"><h2 style="margin-top:0">Explore the dataset</h2><p class="sub">Filter by hospital, city, treatment and insurer. Inspect the source behind every price or download the data.</p><p style="margin-top:16px"><a class="button" href="/explore">Open data explorer →</a> <a style="margin-left:16px" href="/about-data">Coverage & methodology</a></p></section>
+<p class="muted">Building nationwide coverage. The discovery registry contains {summary.registry_locations} locations, but only the successfully parsed files above are searchable. A daily refresh job is being tested; individual source dates remain visible. We have not yet reached thousands of hospitals.</p>
 </Base>
