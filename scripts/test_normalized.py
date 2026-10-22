@@ -12,4 +12,9 @@ class NormalizedTests(unittest.TestCase):
   with tempfile.NamedTemporaryFile(mode='w',delete=False) as f:json.dump(source,f);path=f.name
   try:self.assertEqual(list(n.extract(path,{'70551':{}})),[])
   finally:os.unlink(path)
+ def test_truncated_json_rejected(self):
+  with tempfile.NamedTemporaryFile(mode='w',delete=False) as f:f.write('{"standard_charge_information":[{"code_information":[]}');path=f.name
+  try:
+   with self.assertRaises(Exception):list(n.extract(path,{'70551':{}}))
+  finally:os.unlink(path)
 if __name__=='__main__':unittest.main()

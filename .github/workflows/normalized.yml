@@ -1,0 +1,43 @@
+name: Daily row-preserving primary extraction
+on:
+  schedule:
+    - cron: '31 10 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Primary files in this bounded tranche
+        default: '40'
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: normalized-primary
+  cancel-in-progress: false
+jobs:
+  normalized:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/test_normalized.py
+      - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '40' }}"
+      - uses: actions/checkout@v4
+        with:
+          path: publication
+          ref: main
+      - name: Publish normalized data and current measured QA
+        run: |
+          cp -a data/normalized publication/data/
+          cp -a data/normalized-attempts publication/data/
+          cd publication
+          python scripts/quality_report.py
+          git config user.name 'CostOfCare normalized data'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/normalized data/normalized-attempts data/quality
+          git diff --cached --quiet && exit 0
+          git commit -m 'data: row-preserving primary extraction tranche'
+          git push origin HEAD:main

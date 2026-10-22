@@ -17,6 +17,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - run: pip install -r scripts/requirements.txt
       - run: python scripts/refresh_public_sources.py
       - name: Refresh row-preserving primary pilot
         run: python scripts/normalize_mrf.py --id avala --url https://avala.com/wp-content/uploads/2026/03/721426390_fairway-medical-center_standardcharges.csv

@@ -14,7 +14,7 @@ function render(infer=false){
  const requestedCity=['New York','Austin','Chicago','Los Angeles','Boston','Seattle','San Francisco','Houston','Dallas','Miami','Minneapolis','Charlotte','Scranton'].find(c=>new RegExp(`\\b${norm(c)}\\b`).test(q));
  const inferredCity=cities.find(c=>new RegExp(`\\b${norm(c)}\\b`).test(q));
  const payerNames=[...new Set(data.rows.flatMap(r=>Object.keys(r.payers||{})))].sort((a,b)=>b.length-a.length);
- const inferredPayer=payerNames.find(p=>q.includes(norm(p)));
+ const inferredPayer=payerNames.find(p=>{const name=norm(p);return name.length>=4 && (' '+q+' ').includes(' '+name+' ')});
  if(inferredCity){if(infer)$('city').value=inferredCity;remaining=remaining.replace(norm(inferredCity),'')}
  if(inferredPayer){if(infer)$('payer').value=inferredPayer;remaining=remaining.replace(norm(inferredPayer),'')}
  const words=remaining.trim().split(' ').filter(w=>w&&!['in','near','cost','price','prices','for','of'].includes(w));
