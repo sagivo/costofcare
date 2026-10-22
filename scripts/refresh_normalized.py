@@ -18,7 +18,9 @@ def main():
  directory=ROOT+'/data/normalized';os.makedirs(directory,exist_ok=True)
  def age(d):
   path=directory+'/'+d['id']+'.jsonl.gz.manifest.json'
-  return json.load(open(path)).get('extracted_at','') if os.path.exists(path) else ''
+  if os.path.exists(path): return json.load(open(path)).get('extracted_at','')
+  attempt=ROOT+'/data/normalized-attempts/'+d['id']+'.json'
+  return json.load(open(attempt)).get('checked_at','') if os.path.exists(attempt) else ''
  candidates.sort(key=lambda d:(age(d),d.get('bytes',10**12),d['id']))
  selected=candidates[:a.limit] if a.limit else candidates
  def process(d):
