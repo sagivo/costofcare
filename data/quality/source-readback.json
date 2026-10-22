@@ -1,42 +1,91 @@
 {
-  "checked_at": "2026-10-22T07:48:54.167447+00:00",
-  "sampling": "five smallest eligible direct CSV sources <=3MB; first three matching source records each; not random or representative",
+  "checked_at": "2026-10-22T13:12:04.668370+00:00",
+  "sampling": "up to twelve distinct-host direct CSV sources <=3MB, deterministic URL-hash ordering; first/middle/last preserved record per file; excludes source holds; not random or representative",
   "scope": "independent full original CSV header/value readback and source hash; not clinical equivalence, provider attribution or source truth certification",
   "results": [
     {
-      "source_url": "https://greenvilleash.com/30-0347987_ALLEGIANCE-SPECIALTY-HOSPITAL-OF-GREENVILLE_standardcharges.csv",
-      "snapshot_sha256": "21779b6e2d33dac6a8e9c8ee6721f88a34333c18e051b1c61a494d0be76eff33",
-      "readback_sha256": "21779b6e2d33dac6a8e9c8ee6721f88a34333c18e051b1c61a494d0be76eff33",
+      "source_url": "https://www.claritycgc.org/standard-charges.csv",
+      "snapshot_sha256": "f6608faad1336ab7fdaedab9674fee37929d6ad31d638f44eb9eef9a88fd9f6f",
+      "readback_sha256": "f6608faad1336ab7fdaedab9674fee37929d6ad31d638f44eb9eef9a88fd9f6f",
+      "status": "exact_source_readback_match",
+      "records_compared": 1
+    },
+    {
+      "source_url": "https://bmgh.org/resources/public-pricing/880186024_BattleMountainGeneralHospital_standardcharges-2026.csv",
+      "snapshot_sha256": "af7d1e821a066de48d6a03ad42231bf89b539fd9020a23e9c5f5218fc9132eb6",
+      "readback_sha256": "af7d1e821a066de48d6a03ad42231bf89b539fd9020a23e9c5f5218fc9132eb6",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://comanchecountyhospital.com/vimages/shared/vnews/stories/60187d4dbaf14/486057762_Comanche-County-Hospital_standardcharges.csv",
+      "snapshot_sha256": "74a3a72b9e80da9aea34bd08630ac0378aac1cc36f75735b4d96c41bf94cad68",
+      "readback_sha256": "74a3a72b9e80da9aea34bd08630ac0378aac1cc36f75735b4d96c41bf94cad68",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://www.cdvcmc.com/wp-content/uploads/2026/03/920139171_cordova-community-medical-center_standardcharges.csv",
+      "snapshot_sha256": "bdd918e6107621cef14501e875df3c48db1cb7f2c53a830be4c78aa95a4fc199",
+      "readback_sha256": "bdd918e6107621cef14501e875df3c48db1cb7f2c53a830be4c78aa95a4fc199",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://www.earh.org/wp-content/uploads/2026/06/916001963_east-adams-rural-hospital_standardcharges.csv",
+      "snapshot_sha256": "f0528c3b63c063c0571f8efbeab89330ea3f309c5682cbfb2bf22596c90eeda4",
+      "readback_sha256": "f0528c3b63c063c0571f8efbeab89330ea3f309c5682cbfb2bf22596c90eeda4",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://www.highlandspringshealth.com/docs/bhhighlandspringslibraries/dec2025/611746887-highland_springs-standardcharges.csv",
+      "snapshot_sha256": "4b4806f50f2d80ba9700167b1a7fe9fd52b1e6ac2ae9e7afc27961450a6d223d",
+      "readback_sha256": "4b4806f50f2d80ba9700167b1a7fe9fd52b1e6ac2ae9e7afc27961450a6d223d",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://www.hardtnermedical.com/wp-content/uploads/2025/01/720652984_lasalle-parish-hospital-service-disctrict-no-1_standardcharges.csv",
+      "snapshot_sha256": "69d661d8161122c9fe21f26b9744cedc94afd52dbf5cbfb2ff964cad263fd11b",
+      "readback_sha256": "69d661d8161122c9fe21f26b9744cedc94afd52dbf5cbfb2ff964cad263fd11b",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://www2.novanthealth.org/Public_Files/regulatory/334072561_novant-health-stokes-medical-center_standardcharges_6-2026.csv",
+      "snapshot_sha256": "45d6e475458ff77ea42d900a9f16c2edf6bfadebf11e28959624a7bd2c2de3f0",
+      "readback_sha256": "45d6e475458ff77ea42d900a9f16c2edf6bfadebf11e28959624a7bd2c2de3f0",
       "status": "source_values_match_header_whitespace_trimmed",
       "records_compared": 3
     },
     {
-      "source_url": "https://apibhs.com/website-compliance/Alvarado-Parkway-Institute_standardcharges.csv",
-      "snapshot_sha256": "b59f4976e26728c4edd3484b84cceac35211e7790e8e5fa0b27c182aa669e751",
-      "readback_sha256": "b59f4976e26728c4edd3484b84cceac35211e7790e8e5fa0b27c182aa669e751",
+      "source_url": "https://files.trueaccess.care/broadlawns/426005830_eastuniversity_standardcharges.csv",
+      "snapshot_sha256": "a1ee306dc1ef60f9eab524e4fbe896135dcfdb6a02313c0a03a54a2d8422f825",
+      "readback_sha256": "a1ee306dc1ef60f9eab524e4fbe896135dcfdb6a02313c0a03a54a2d8422f825",
       "status": "exact_source_readback_match",
       "records_compared": 3
     },
     {
-      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381576680_henry-ford-brighton-center-for-recovery_standardcharges.csv",
-      "snapshot_sha256": "a40828daeaf4913194032027aace62f71777ad48322584f809f5e87b807ffa23",
-      "readback_sha256": "a40828daeaf4913194032027aace62f71777ad48322584f809f5e87b807ffa23",
+      "source_url": "http://cchospital.org/61-0624096_cumberlandcountyhospitalinc_standardcharges.csv",
+      "snapshot_sha256": "6059bdf11fa6e55e5ba00962590b13f707b696d64022f3a3f9d174a3672c522f",
+      "readback_sha256": "6059bdf11fa6e55e5ba00962590b13f707b696d64022f3a3f9d174a3672c522f",
       "status": "exact_source_readback_match",
       "records_compared": 3
     },
     {
-      "source_url": "https://uhsfilecdn.eskycity.net/bh/232238962_arbour_standardcharges.csv",
-      "snapshot_sha256": "5b9ed02b016db67b82e668643dd09b6ea6193c491958ac26e5ac33e1ec8e794a",
-      "readback_sha256": "5b9ed02b016db67b82e668643dd09b6ea6193c491958ac26e5ac33e1ec8e794a",
+      "source_url": "https://beaconbh.com/wp-content/uploads/2026/04/853294023-273977201-1760437131_new-orleans-hospital_standardcharges_2026_westbank.csv",
+      "snapshot_sha256": "393c6d05e2be7c561d351704f4c69e8f1f7d53580ada88c08c85896a8d369a85",
+      "readback_sha256": "393c6d05e2be7c561d351704f4c69e8f1f7d53580ada88c08c85896a8d369a85",
       "status": "exact_source_readback_match",
       "records_compared": 3
     },
     {
-      "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/231548822_philhaven-hospital_standardcharges.csv",
-      "snapshot_sha256": "a5c4f78b825c8ab20ed84b678a4829091302669137b2ca8087966a5702031cd7",
-      "readback_sha256": "a5c4f78b825c8ab20ed84b678a4829091302669137b2ca8087966a5702031cd7",
+      "source_url": "https://www.edgertonhospital.com/media/2923/390819992-1326192261_ehhs-milton-clinic_standardchargescsv.csv",
+      "snapshot_sha256": "0e88794800d32ee3937575590354dccffbce8ada5d3e4e362b4b28582116ef4a",
+      "readback_sha256": "0e88794800d32ee3937575590354dccffbce8ada5d3e4e362b4b28582116ef4a",
       "status": "exact_source_readback_match",
-      "records_compared": 2
+      "records_compared": 3
     }
   ]
 }
