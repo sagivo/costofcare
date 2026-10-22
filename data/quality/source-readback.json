@@ -1,0 +1,42 @@
+{
+  "checked_at": "2026-10-22T07:46:36.535146+00:00",
+  "sampling": "five smallest eligible direct CSV sources <=3MB; first three matching source records each; not random or representative",
+  "scope": "independent full original CSV header/value readback and source hash; not clinical equivalence, provider attribution or source truth certification",
+  "results": [
+    {
+      "source_url": "https://greenvilleash.com/30-0347987_ALLEGIANCE-SPECIALTY-HOSPITAL-OF-GREENVILLE_standardcharges.csv",
+      "snapshot_sha256": "21779b6e2d33dac6a8e9c8ee6721f88a34333c18e051b1c61a494d0be76eff33",
+      "readback_sha256": "21779b6e2d33dac6a8e9c8ee6721f88a34333c18e051b1c61a494d0be76eff33",
+      "status": "failed",
+      "error": "full row/header mismatch at 2"
+    },
+    {
+      "source_url": "https://apibhs.com/website-compliance/Alvarado-Parkway-Institute_standardcharges.csv",
+      "snapshot_sha256": "b59f4976e26728c4edd3484b84cceac35211e7790e8e5fa0b27c182aa669e751",
+      "readback_sha256": "b59f4976e26728c4edd3484b84cceac35211e7790e8e5fa0b27c182aa669e751",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381576680_henry-ford-brighton-center-for-recovery_standardcharges.csv",
+      "snapshot_sha256": "a40828daeaf4913194032027aace62f71777ad48322584f809f5e87b807ffa23",
+      "readback_sha256": "a40828daeaf4913194032027aace62f71777ad48322584f809f5e87b807ffa23",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://uhsfilecdn.eskycity.net/bh/232238962_arbour_standardcharges.csv",
+      "snapshot_sha256": "5b9ed02b016db67b82e668643dd09b6ea6193c491958ac26e5ac33e1ec8e794a",
+      "readback_sha256": "5b9ed02b016db67b82e668643dd09b6ea6193c491958ac26e5ac33e1ec8e794a",
+      "status": "exact_source_readback_match",
+      "records_compared": 3
+    },
+    {
+      "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/231548822_philhaven-hospital_standardcharges.csv",
+      "snapshot_sha256": "a5c4f78b825c8ab20ed84b678a4829091302669137b2ca8087966a5702031cd7",
+      "readback_sha256": "a5c4f78b825c8ab20ed84b678a4829091302669137b2ca8087966a5702031cd7",
+      "status": "exact_source_readback_match",
+      "records_compared": 2
+    }
+  ]
+}

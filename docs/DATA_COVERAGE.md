@@ -47,3 +47,7 @@ Priority order: source provenance and correct semantics, row-preserving ingestio
 ### Encoding failures are held out
 
 Strict UTF-8 errors are audited, not silently decoded with replacement characters. A valid source-encoding declaration or independently checked encoding conversion is needed before accepting these files. They remain in failed-attempt coverage, even where a more permissive summary parser previously produced aggregates. Artifact audit success says nothing about excluded-source completeness.
+
+## Independent source readback sample
+
+`source_readback.py` independently downloads up to five small direct CSV sources and uses Python's CSV reader to compare complete header/value arrays at preserved source ordinals. It does not invoke the extraction parser for those comparisons. The sample is deliberately small and biased toward small files; it is not a representative accuracy percentage and cannot validate hospital-authored prices, clinical comparability or attribution. Failures and changed source hashes remain in the published report.
