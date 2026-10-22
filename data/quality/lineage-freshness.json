@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-22T21:19:08.429572+00:00",
-  "normalized_files": 2310,
+  "generated_at": "2026-10-22T22:17:46.958213+00:00",
+  "normalized_files": 2393,
   "parser_versions": {
-    "row-preserving-1.2": 1665,
+    "row-preserving-1.2": 1748,
     "row-preserving-1.1": 645
   },
   "extraction_age_buckets": {
-    "within_24h": 2310
+    "within_24h": 2393
   },
   "failed_attempt_classes": {
-    "strict_encoding": 240,
-    "csv_width": 33,
+    "strict_encoding": 247,
+    "csv_width": 35,
     "other": 12,
     "timeout": 23,
     "http_429": 1
@@ -20,9 +20,9 @@
     {
       "source_url": "https://cdn.hs.uab.edu/static/63-6005396_University-of-Alabama-Hospital_standardcharges.zip",
       "normalized_sha256": "0d4bc183a4b2b7e78ebbceccb6917cd948d1c2076625ce5be8b9f12f3d25c62c",
-      "summary_sha256": "d81f34d756358b0d6851f332515aae16ec938e207aaa8a380453072266cbd67f",
+      "summary_sha256": "4b4fb8953e8b66881a46c9af96d17bc3451364ca32e69fcd46302413328938e4",
       "normalized_extracted_at": "2026-10-22T05:49:45Z",
-      "summary_extracted_at": "2026-10-22T15:36:39Z"
+      "summary_extracted_at": "2026-10-22T21:46:51Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251737079_canonsburg-general-hospital_standardcharges.csv",
@@ -85,7 +85,7 @@
       "normalized_sha256": "9911daf73fc8a7ac7a7cb39bee21c4388d3357eed7207a0cddb62a687dddf0aa",
       "summary_sha256": "5dcc085a9e207707254e5926868c2b165bf73ce8a4fc075a757c5b482bb9c3f3",
       "normalized_extracted_at": "2026-10-22T05:37:46Z",
-      "summary_extracted_at": "2026-10-22T15:26:30Z"
+      "summary_extracted_at": "2026-10-22T21:38:20Z"
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-beaver_standardcharges-April-2026.csv",
@@ -104,15 +104,15 @@
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251340370_grove-city-medical-center_standardcharges.csv",
       "normalized_sha256": "e376ff58fd62a4435683612c3363098321d69b914e2a1d3487e7c28d08c74486",
-      "summary_sha256": "9c86c76e1097c9e13dd519efaeadae887bcad664053af79af8aaf5dad79b429a",
+      "summary_sha256": "edfa68f708da6f1e678e80ee2dbcf1b36c9a823d66b712a72bb57e1b8758e4c3",
       "normalized_extracted_at": "2026-10-22T17:03:23Z",
-      "summary_extracted_at": "2026-10-22T15:24:32Z"
+      "summary_extracted_at": "2026-10-22T21:36:05Z"
     }
   ],
   "normalized_without_successful_summary": [],
   "refresh_policy": {
     "normalized_scheduled_max_files_per_day": 40,
-    "nominal_full_rotation_days_at_current_file_count": 58,
+    "nominal_full_rotation_days_at_current_file_count": 60,
     "caveat": "Lower-bound rotation estimate only: failures, new sources, scheduling and manual tranches change cadence; this is not a freshness guarantee."
   },
   "interpretation": "Matching hashes indicate the same downloaded bytes, not correct prices or clinical equivalence. Different hashes can reflect newer source versions or nondeterministic containers and require review. Age is extraction age, not hospital update age. Legacy parser 1.1 trims CSV header whitespace; 1.2 preserves exact headers."
