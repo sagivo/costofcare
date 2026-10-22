@@ -1,10 +1,66 @@
 {
-  "generated_at": "2026-10-22T11:55:37.286121+00:00",
-  "records_scanned": 2511324,
+  "generated_at": "2026-10-22T12:58:22.375080+00:00",
+  "records_scanned": 2714020,
   "flag_counts": {
-    "large_published_amount_review": 293
+    "large_published_amount_review": 300
   },
   "review_examples": [
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-guadalupe_county_hospital-e99c1",
+      "source_record_ordinal": 10,
+      "source_sha256": "519931415954468d39cf25e6825b82c719db3c819fe7b438e09b6630ca891980",
+      "field": "standard_charge_dollar",
+      "raw_value": 1797768
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-guadalupe_county_hospital-e99c1",
+      "source_record_ordinal": 48,
+      "source_sha256": "519931415954468d39cf25e6825b82c719db3c819fe7b438e09b6630ca891980",
+      "field": "standard_charge_dollar",
+      "raw_value": 1177470
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-guadalupe_county_hospital-e99c1",
+      "source_record_ordinal": 49,
+      "source_sha256": "519931415954468d39cf25e6825b82c719db3c819fe7b438e09b6630ca891980",
+      "field": "standard_charge_dollar",
+      "raw_value": 1176336
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-guadalupe_county_hospital-e99c1",
+      "source_record_ordinal": 50,
+      "source_sha256": "519931415954468d39cf25e6825b82c719db3c819fe7b438e09b6630ca891980",
+      "field": "standard_charge_dollar",
+      "raw_value": 1176336
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-guadalupe_county_hospital-e99c1",
+      "source_record_ordinal": 57,
+      "source_sha256": "519931415954468d39cf25e6825b82c719db3c819fe7b438e09b6630ca891980",
+      "field": "standard_charge_dollar",
+      "raw_value": 1123038
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-guadalupe_county_hospital-e99c1",
+      "source_record_ordinal": 58,
+      "source_sha256": "519931415954468d39cf25e6825b82c719db3c819fe7b438e09b6630ca891980",
+      "field": "standard_charge_dollar",
+      "raw_value": 1116990
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-guadalupe_county_hospital-e99c1",
+      "source_record_ordinal": 60,
+      "source_sha256": "519931415954468d39cf25e6825b82c719db3c819fe7b438e09b6630ca891980",
+      "field": "standard_charge_dollar",
+      "raw_value": 1107162
+    },
     {
       "flag": "large_published_amount_review",
       "source_id": "oria-crescent_regional_hospital-b540f",
@@ -108,74 +164,18 @@
       "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
       "field": "standard_charge|max",
       "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693546,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693547,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693548,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693549,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693551,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|negotiated_dollar",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693551,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693552,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
     }
   ],
   "populated_qualifier_counts": {
-    "setting": 2509016,
-    "billing_class": 2008239,
-    "json_source_records": 45126,
-    "json_payer_name": 529285,
-    "json_plan_name": 529285,
-    "json_methodology": 529285,
-    "modifiers": 306383,
-    "payer_name": 2411678,
-    "plan_name": 2411756
+    "setting": 2711718,
+    "billing_class": 2152806,
+    "json_source_records": 48267,
+    "json_payer_name": 575896,
+    "json_plan_name": 575896,
+    "json_methodology": 575896,
+    "modifiers": 360926,
+    "payer_name": 2601709,
+    "plan_name": 2601787
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."
 }
