@@ -13,7 +13,7 @@ Usage:
   refresh_dataset.py [--limit N] [--workers N] [--max-minutes N] [--ids a,b,c]
                      [--data-dir DIR] [--registry PATH|URL]
 """
-import json, os, re, sys, time, urllib.request, subprocess, tempfile
+import json, os, re, sys, time, urllib.request, urllib.parse, subprocess, tempfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -109,6 +109,8 @@ def main():
     os.makedirs(hosp_dir, exist_ok=True)
     targets, _ = mrf_extract.load_codes(os.path.join(HERE, "target_codes.json"))
     recs = load_registry(registry_src)
+    holds={r['hostname'] for r in json.load(open(ROOT+'/data/source-holds.json'))['holds']}
+    recs=[r for r in recs if urllib.parse.urlsplit(r.get('mrf_url','')).hostname not in holds]
     if only_ids:
         recs = [r for r in recs if r["id"] in only_ids]
 

@@ -1,0 +1,1 @@
+{"holds":[{"hostname":"whs.org","reason":"HTTP 429 Too Many Requests observed during primary normalization; no automated retries until reviewed","observed_at":"2026-10-22T06:13:00Z","scope":"all download pipelines","release_condition":"new external evidence that access limit cleared and permitted cadence established"}]}

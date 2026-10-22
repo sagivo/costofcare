@@ -5,15 +5,16 @@ Run a small explicit tranche. Existing normalized manifests drive oldest-first
 ordering; failures are separate from last-good data. Every output is code-filtered,
 never counted as full-file all-service coverage. Hard caps are audited.
 """
-import argparse,datetime,glob,json,os,subprocess,sys,tempfile,time
+import argparse,datetime,glob,json,os,subprocess,sys,tempfile,time,urllib.parse
 from concurrent.futures import ThreadPoolExecutor,as_completed
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def main():
  p=argparse.ArgumentParser();p.add_argument('--limit',type=int,default=40);p.add_argument('--workers',type=int,default=3);p.add_argument('--max-mb',type=int,default=700);a=p.parse_args()
+ holds={r['hostname'] for r in json.load(open(ROOT+'/data/source-holds.json'))['holds']}
  candidates=[];seen=set()
  for f in glob.glob(ROOT+'/data/hospitals/*.json'):
   d=json.load(open(f));u=d.get('mrf_url')
-  if d.get('status')!='ok' or u in seen:continue
+  if d.get('status')!='ok' or u in seen or urllib.parse.urlsplit(u or '').hostname in holds:continue
   seen.add(u);candidates.append(d)
  directory=ROOT+'/data/normalized';os.makedirs(directory,exist_ok=True)
  def age(d):
