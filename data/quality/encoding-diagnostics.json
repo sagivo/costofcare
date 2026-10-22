@@ -1,0 +1,78 @@
+{
+  "checked_at": "2026-10-22T09:05:18.751230+00:00",
+  "scope": "First 64KiB of first six sorted direct-CSV encoding failures (compressed sources excluded); HTTP encoding declaration and BOM evidence only. A valid prefix does not validate the full source. No conversion performed.",
+  "results": [
+    {
+      "source_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_united-hospital_standardcharges.csv",
+      "id": "allina-health-united-hospital-hastings-regina-campus",
+      "http_status": 200,
+      "content_type": "text/csv",
+      "declared_charset": null,
+      "sample_bytes": 65536,
+      "sample_sha256": "6742c4cd8f7c7a7b0fafff58f0459d6d3d3435447d333f0d9738f40637f4be93",
+      "bom": null,
+      "sample_strict_utf8": "pass",
+      "disposition": "held: no fallback encoding authorized by this diagnostic"
+    },
+    {
+      "source_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2026/540620889_inova-alexandria-hospital_standardcharges.csv",
+      "id": "inova-alexandria-hospital",
+      "http_status": 206,
+      "content_type": "text/csv",
+      "declared_charset": null,
+      "sample_bytes": 65536,
+      "sample_sha256": "420039c321348089806fb0e16220bc7cbc8433b3f9d936e891c4b24d72096d1a",
+      "bom": null,
+      "sample_strict_utf8": "pass",
+      "disposition": "held: no fallback encoding authorized by this diagnostic"
+    },
+    {
+      "source_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2026/540620889_inova-fair-oaks-hospital_standardcharges.csv",
+      "id": "inova-fair-oaks-hospital",
+      "http_status": 206,
+      "content_type": "text/csv",
+      "declared_charset": null,
+      "sample_bytes": 65536,
+      "sample_sha256": "bea298b5347fd8c7154830d67c90051d4772929ca26584ae4d92aa5969ee5700",
+      "bom": null,
+      "sample_strict_utf8": "pass",
+      "disposition": "held: no fallback encoding authorized by this diagnostic"
+    },
+    {
+      "source_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2026/540620889_inova-fairfax-hospital_standardcharges.csv",
+      "id": "inova-fairfax-hospital",
+      "http_status": 206,
+      "content_type": "text/csv",
+      "declared_charset": null,
+      "sample_bytes": 65536,
+      "sample_sha256": "f23e5bdd0e0586dea5e956db9b7f45f92ab2645c9ac7d69844259135d5054387",
+      "bom": null,
+      "sample_strict_utf8": "pass",
+      "disposition": "held: no fallback encoding authorized by this diagnostic"
+    },
+    {
+      "source_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2026/540620889_inova-loudoun-hospital_standardcharges.csv",
+      "id": "inova-loudoun-hospital",
+      "http_status": 206,
+      "content_type": "text/csv",
+      "declared_charset": null,
+      "sample_bytes": 65536,
+      "sample_sha256": "45e06c686cd16e981b876f1191d09d11ffc648171a7b864c6f3760ccb7e0e314",
+      "bom": null,
+      "sample_strict_utf8": "pass",
+      "disposition": "held: no fallback encoding authorized by this diagnostic"
+    },
+    {
+      "source_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2026/540620889_inova-mount-vernon-hospital_standardcharges.csv",
+      "id": "inova-mount-vernon-hospital",
+      "http_status": 206,
+      "content_type": "text/csv",
+      "declared_charset": null,
+      "sample_bytes": 65536,
+      "sample_sha256": "72ae6dc8a4f67b051261dffa077362cbf54af5be951ae4a86fea99f0a7a26635",
+      "bom": null,
+      "sample_strict_utf8": "pass",
+      "disposition": "held: no fallback encoding authorized by this diagnostic"
+    }
+  ]
+}

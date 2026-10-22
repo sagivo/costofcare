@@ -53,3 +53,7 @@ Strict UTF-8 errors are audited, not silently decoded with replacement character
 `source_readback.py` independently downloads up to five small direct CSV sources and uses Python's CSV reader to compare complete header/value arrays at preserved source ordinals. It does not invoke the extraction parser for those comparisons. The sample is deliberately small and biased toward small files; it is not a representative accuracy percentage and cannot validate hospital-authored prices, clinical comparability or attribution. Failures and changed source hashes remain in the published report.
 
 The initial readback found one header difference caused by extraction trimming header whitespace. The original source values matched exactly. Parser version `row-preserving-1.2` now preserves original header strings while using a separate trimmed lookup for matching; existing 1.1 snapshots retain trimmed headers until refreshed. The readback report distinguishes that known transformation from exact header matches.
+
+## Encoding diagnostics
+
+`diagnose_encoding.py` records bounded original HTTP charset/BOM evidence for six direct CSV failures. Compressed containers are excluded from prefix decoding. No automatic legacy-encoding fallback is inferred from byte values. Even a valid UTF-8 prefix does not validate an entire file; these sources remain excluded from the normalized layer until a full strict parse succeeds with supported encoding evidence.
