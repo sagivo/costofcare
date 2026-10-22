@@ -37,6 +37,7 @@ jobs:
           cd publication
           python scripts/quality_report.py
           python scripts/validate_normalized.py
+          python scripts/semantic_qa.py
           git config user.name 'CostOfCare normalized data'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add data/normalized data/normalized-attempts data/quality

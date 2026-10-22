@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-10-22T05:27:04.934063+00:00",
+  "records_scanned": 223656,
+  "flag_counts": {},
+  "review_examples": [],
+  "populated_qualifier_counts": {
+    "setting": 223768,
+    "billing_class": 177720,
+    "payer_name": 209788,
+    "plan_name": 209788,
+    "modifiers": 32226,
+    "json_source_records": 1168
+  },
+  "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."
+}
