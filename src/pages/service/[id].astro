@@ -34,6 +34,7 @@ const insHigh = rows.reduce((m, r) => (r.insured_high != null && (m == null || r
 const catLabel = { labs: 'Blood work & labs', imaging: 'Imaging', visits: 'ER visits' }[s.category];
 ---
 <Base title={`${s.short} cost in Austin, TX - CostOfCare`} description={`Compare real published prices for ${s.name} (CPT ${s.cpt}) across Austin hospitals, imaging centers and labs.`}>
+<div class="card" style="background:#fef6e7;margin-bottom:20px">Legacy Austin comparison, manually collected October 21, 2026 from secondary sources. These prices are not part of the new primary-source refresh pipeline. <a href="/explore">Open the current data explorer</a>.</div>
   <nav class="muted" style="margin-bottom:10px"><a href="/">Home</a> / <a href={`/#${s.category}`}>{catLabel}</a></nav>
   <span class="pill">CPT {s.cpt}</span>
   <h1 style="font-size:1.7rem; margin-top:10px">{s.name}</h1>

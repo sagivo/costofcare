@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '17 9 * * *'
   workflow_dispatch:
+    inputs:
+      limit:
+        description: Number of source files to attempt (0 for all)
+        default: '30'
+        required: true
 permissions:
   contents: write
 concurrency:
@@ -20,7 +25,7 @@ jobs:
       - name: Expand primary-source discovery
         run: python scripts/discover_sources.py
       - name: Download and parse hospital-published MRFs
-        run: python scripts/refresh_dataset.py --workers 4 --max-mb 700 --registry data/registry.json
+        run: python scripts/refresh_dataset.py --limit "${{ github.event.inputs.limit || '0' }}" --max-minutes 240 --workers 4 --max-mb 700 --registry data/registry.json
       - name: Build search dataset
         if: always()
         run: python scripts/build_dataset.py

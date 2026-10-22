@@ -13,7 +13,7 @@ Usage:
   refresh_dataset.py [--limit N] [--workers N] [--max-minutes N] [--ids a,b,c]
                      [--data-dir DIR] [--registry PATH|URL]
 """
-import json, os, re, sys, time, urllib.request
+import json, os, re, sys, time, urllib.request, subprocess, tempfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -50,18 +50,25 @@ def process(rec, targets, out_dir, max_bytes):
               "extracted_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     t0 = time.time()
     try:
-        path, total = mrf_extract.download(rec["mrf_url"], max_bytes)
-        result["bytes"] = total
-        try:
-            accs, meta = mrf_extract.extract(path, targets)
-        finally:
-            os.unlink(path)
-        result.update(meta)
+        # Isolate each large source in a process with a hard wall-clock cap.
+        # Temp downloads are cleaned even when a slow/invalid source is killed.
+        with tempfile.TemporaryDirectory() as temp:
+            parsed_path = os.path.join(temp, "parsed.json")
+            child = subprocess.run([sys.executable, os.path.join(HERE, "mrf_extract.py"),
+                rec["mrf_url"], parsed_path, "--max-bytes", str(max_bytes)],
+                capture_output=True, text=True, timeout=180,
+                env=dict(os.environ, TMPDIR=temp))
+            if child.returncode != 0 or not os.path.exists(parsed_path):
+                raise ValueError("extractor failed: " + child.stderr[-200:])
+            parsed = json.load(open(parsed_path))
+            if parsed.get("status") == "failed":
+                raise ValueError(parsed.get("error", "source extraction failed"))
+            result.update(parsed)
+        meta = result
         city, state = parse_city_state(meta.get("hospital_address"))
         loc = (meta.get("location_name") or "").split("|")[0].strip()
         result["display_name"] = loc or meta.get("hospital_name") or rec.get("location_name") or hid
         result["city"], result["state"] = city or rec.get("city"), state or rec.get("state")
-        result["codes"] = {c: a.out() for c, a in sorted(accs.items()) if a.rows}
         result["status"] = "ok" if result["codes"] else "no_target_codes"
     except Exception as e:
         result["error"] = f"{type(e).__name__}: {e}"[:300]
@@ -89,7 +96,7 @@ def main():
         return args[args.index(name) + 1] if name in args else default
     limit = int(opt("--limit", "0")) or None
     workers = int(opt("--workers", "6"))
-    max_minutes = float(opt("--max-minutes", "0")) or None
+    max_minutes = float(opt("--max-minutes", "240")) or None
     data_dir = opt("--data-dir", os.path.join(ROOT, "data"))
     registry_src = opt("--registry", REGISTRY_URL)
     only_ids = set(filter(None, (opt("--ids", "") or "").split(",")))
