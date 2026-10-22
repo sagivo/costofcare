@@ -8,6 +8,10 @@ on:
         description: Primary files in this bounded tranche
         default: '40'
         required: true
+      only_unattempted:
+        description: Skip files already attempted
+        default: 'false'
+        required: true
 permissions:
   contents: write
 concurrency:
@@ -24,7 +28,7 @@ jobs:
           python-version: '3.12'
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/test_normalized.py
-      - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '40' }}"
+      - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '40' }}" ${{ github.event.inputs.only_unattempted == 'true' && '--only-unattempted' || '' }}
       - run: python scripts/validate_normalized.py
       - uses: actions/checkout@v4
         with:
