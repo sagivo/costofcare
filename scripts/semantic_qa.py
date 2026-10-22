@@ -33,6 +33,15 @@ def main():
       for key in ['gross_charge','discounted_cash','minimum','maximum']:
        v=sc.get(key)
        if isinstance(v,(float,int)) and v<0:flag('negative_published_amount',r,key,v)
+      for pi in sc.get('payers_information',[]):
+       for key in ['payer_name','plan_name','methodology']:
+        if pi.get(key):coverage['json_'+key]+=1
+       value=pi.get('standard_charge_dollar')
+       if value is not None:
+        if not isinstance(value,(int,float)):flag('nonnumeric_published_dollar_field',r,'standard_charge_dollar',value)
+        elif value<0:flag('negative_published_amount',r,'standard_charge_dollar',value)
+        elif value==0:flag('zero_published_amount_review',r,'standard_charge_dollar',value)
+        elif value>1_000_000:flag('large_published_amount_review',r,'standard_charge_dollar',value)
      coverage['json_source_records']+=1
  report={'generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'records_scanned':records,'flag_counts':dict(counts),'review_examples':examples,'populated_qualifier_counts':dict(coverage),'interpretation':'Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged.'}
  json.dump(report,open(ROOT+'/data/quality/semantic-review.json','w'),indent=2);print(records,'records scanned',dict(counts))

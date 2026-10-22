@@ -43,3 +43,7 @@ Priority order: source provenance and correct semantics, row-preserving ingestio
 ## Row-preserving expansion
 
 `refresh_normalized.py` and `normalized.yml` process a bounded tranche of previously parsed primary sources, prioritizing missing/old normalized manifests. Every record preserves original qualifiers and byte hash; incomplete parses, invalid CSV widths and files above the output/download/time budget are failures, not silently partial successes. Failure audit is separate and last-good snapshots survive. JSON is validated by a streaming parser, including truncated-document rejection. Daily tranche refresh is not a promise of whole-corpus daily normalization. Original raw fields are preserved rather than normalized into unverified payer/network/provider identities.
+
+### Encoding failures are held out
+
+Strict UTF-8 errors are audited, not silently decoded with replacement characters. A valid source-encoding declaration or independently checked encoding conversion is needed before accepting these files. They remain in failed-attempt coverage, even where a more permissive summary parser previously produced aggregates. Artifact audit success says nothing about excluded-source completeness.
