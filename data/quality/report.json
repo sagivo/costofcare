@@ -1,134 +1,134 @@
 {
-  "generated_at": "2026-10-22T19:11:38.928854+00:00",
+  "generated_at": "2026-10-22T19:39:36.615818+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
-    "attempted_registry_entries": 3456,
-    "successful_entries": 2341,
-    "distinct_successful_mrf_urls": 2341,
-    "extracted_within_24h": 2341,
-    "sources_over_365_days_old": 131,
-    "source_date_unparseable": 101,
-    "hospital_code_aggregates": 101549,
+    "attempted_registry_entries": 3671,
+    "successful_entries": 2503,
+    "distinct_successful_mrf_urls": 2503,
+    "extracted_within_24h": 2503,
+    "sources_over_365_days_old": 136,
+    "source_date_unparseable": 112,
+    "hospital_code_aggregates": 108603,
     "row_preserving_records": 5211509
   },
   "status_counts": {
-    "ok": 2345,
-    "failed": 682,
-    "no_target_codes": 429
+    "ok": 2509,
+    "failed": 717,
+    "no_target_codes": 445
   },
   "successful_entries_by_state": {
     "AR": 22,
-    "GA": 66,
-    "MI": 58,
+    "GA": 71,
+    "MI": 62,
     "MD": 18,
     "NE": 46,
-    "MA": 27,
+    "MA": 29,
     "WI": 93,
     "NM": 19,
     "IN": 61,
-    "unresolved": 138,
-    "PA": 118,
-    "LA": 64,
-    "CA": 173,
+    "unresolved": 139,
+    "PA": 132,
+    "CT": 16,
+    "LA": 70,
+    "CA": 190,
     "UT": 33,
-    "SC": 54,
-    "TX": 248,
-    "TN": 48,
-    "OK": 42,
-    "OH": 74,
-    "MN": 55,
-    "MO": 41,
-    "WA": 33,
-    "MS": 38,
-    "AZ": 43,
-    "ND": 17,
-    "FL": 69,
-    "IA": 53,
-    "IL": 89,
-    "VA": 35,
-    "KY": 36,
-    "VT": 8,
-    "NJ": 39,
-    "OR": 35,
-    "NC": 31,
-    "KS": 30,
-    "AL": 39,
-    "NV": 21,
-    "CO": 50,
+    "SC": 56,
+    "TX": 271,
+    "TN": 51,
+    "OK": 43,
+    "OH": 82,
+    "MN": 56,
+    "MO": 45,
+    "WA": 42,
+    "MS": 41,
+    "AZ": 45,
+    "ND": 20,
+    "FL": 74,
+    "IA": 55,
+    "IL": 93,
+    "VA": 42,
+    "KY": 39,
+    "VT": 9,
+    "NJ": 40,
+    "OR": 36,
+    "NC": 32,
+    "KS": 33,
+    "CO": 54,
+    "AL": 42,
+    "NV": 23,
     "WV": 7,
+    "NY": 48,
     "SD": 15,
-    "NY": 39,
     "ID": 15,
-    "CT": 15,
     "RI": 5,
-    "WY": 9,
+    "WY": 10,
     "HI": 9,
     "AK": 6,
-    "ME": 16,
+    "ME": 18,
     "PR": 3,
-    "PO": 9,
+    "PO": 10,
     "DE": 6,
-    "MT": 15,
+    "MT": 17,
     "NW": 2,
     "DC": 3,
-    "NH": 3
+    "NH": 4
   },
   "hospital_entries_per_code": {
-    "29881": 1545,
-    "43239": 1855,
-    "45378": 1835,
-    "45385": 1816,
-    "47562": 1626,
-    "49505": 1622,
-    "58150": 1149,
-    "70450": 2178,
-    "71045": 2202,
-    "71046": 2203,
-    "74176": 2160,
-    "74177": 2168,
-    "76536": 2157,
-    "76700": 2188,
-    "77080": 1978,
-    "80048": 2200,
-    "80053": 2204,
-    "80061": 2196,
-    "81001": 2162,
-    "81002": 1866,
-    "83036": 2210,
-    "84153": 2166,
-    "84443": 2204,
-    "85025": 2191,
-    "87086": 2126,
-    "90834": 1462,
-    "93000": 1003,
-    "93306": 2118,
-    "93880": 2137,
-    "99203": 1640,
-    "99204": 1673,
-    "99213": 1755,
-    "99214": 1760,
-    "99283": 2067,
-    "99284": 2070,
-    "99285": 2072,
-    "27130": 1448,
-    "27447": 1481,
-    "29848": 1254,
-    "30520": 1367,
-    "52353": 1331,
-    "55700": 1449,
-    "59400": 936,
-    "59510": 889,
-    "64483": 1770,
-    "66984": 1324,
-    "70551": 2105,
-    "70553": 2105,
-    "72141": 2096,
-    "72148": 2108,
-    "73221": 2055,
-    "73721": 2051,
-    "77067": 1936,
-    "82306": 2185,
-    "95810": 1695
+    "29881": 1659,
+    "43239": 1992,
+    "45378": 1965,
+    "45385": 1945,
+    "47562": 1742,
+    "49505": 1739,
+    "58150": 1221,
+    "70450": 2333,
+    "71045": 2358,
+    "71046": 2359,
+    "74176": 2316,
+    "74177": 2324,
+    "76536": 2307,
+    "76700": 2340,
+    "77080": 2123,
+    "80048": 2358,
+    "80053": 2362,
+    "80061": 2354,
+    "81001": 2315,
+    "81002": 1999,
+    "83036": 2368,
+    "84153": 2322,
+    "84443": 2363,
+    "85025": 2349,
+    "87086": 2277,
+    "90834": 1534,
+    "93000": 1045,
+    "93306": 2262,
+    "93880": 2280,
+    "99203": 1760,
+    "99204": 1794,
+    "99213": 1880,
+    "99214": 1887,
+    "99283": 2212,
+    "99284": 2215,
+    "99285": 2218,
+    "27130": 1555,
+    "27447": 1590,
+    "29848": 1340,
+    "30520": 1468,
+    "52353": 1417,
+    "55700": 1546,
+    "59400": 993,
+    "59510": 946,
+    "64483": 1895,
+    "66984": 1405,
+    "70551": 2249,
+    "70553": 2249,
+    "72141": 2241,
+    "72148": 2254,
+    "73221": 2184,
+    "73721": 2181,
+    "77067": 2072,
+    "82306": 2340,
+    "95810": 1801
   },
   "qa_flags": [
     {
@@ -333,6 +333,125 @@
       "payer": "WPPA Unified Health Plan",
       "flag": "wide_payer_range_review",
       "ratio": 2449.0
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "76536",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "77067",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "80061",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "81001",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "82306",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "83036",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "84153",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "84443",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "85025",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "87086",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "99203",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "99204",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "99213",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "99214",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "99283",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "99284",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "excluded_from_search": true,
+      "code": "99285",
+      "flag": "range_inverted",
+      "field": "neg_min"
     },
     {
       "id": "baylor-scott-white-medical-center-round-rock",
@@ -1084,11 +1203,58 @@
       "ratio": 1349.0
     },
     {
+      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
+      "code": "77067",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 512.1
+    },
+    {
+      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
+      "code": "77067",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 507.15
+    },
+    {
+      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.52
+    },
+    {
+      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
+      "code": "82306",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.01
+    },
+    {
+      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
+      "code": "82306",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.5
+    },
+    {
+      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.24
+    },
+    {
       "id": "oria-public_hospital_district_no_1_of_king_county_washington_dba_valley_medical_cente-9b791",
       "code": "47562",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
       "ratio": 4288.35
+    },
+    {
+      "id": "oria-smp_health_st_andrews-efc0f",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "mercy-primary-care-bloomfield",
@@ -1123,6 +1289,11 @@
     {
       "id": "oria-rural_wellness_fairfax-fc93c",
       "flag": "unresolved_geography"
+    },
+    {
+      "id": "oria-southwest_health_system-9c0a2",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "oria-methodist_hospitals_northlake_campus-d057d",
@@ -1692,6 +1863,1203 @@
       "ratio": 1085.63
     },
     {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.58
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.58
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.71
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "BLUE CARE NETWORK",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.75
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 512.59
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.28
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.17
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 215.88
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.17
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27130",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.05
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.81
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.81
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 183.22
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "BLUE CARE NETWORK",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.79
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 444.86
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.57
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.41
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 210.92
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.2
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "27447",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.34
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "29881",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 173.0
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "29881",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 367.73
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "29881",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.15
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "47562",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 504.0
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.38
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "47562",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.83
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "47562",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "47562",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.35
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "47562",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.18
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "49505",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.41
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 650.86
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "49505",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.72
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "49505",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.89
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "49505",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.07
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "49505",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.24
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "49505",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.45
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "58150",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.26
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "59510",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.27
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "1199 NATIONAL BENEFIT FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "ACCLAIM",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "ADMINISTRATIVE CONCEPTS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "ALLEGEANT",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "ALLIED BENEFIT SYSTEMS",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "ALLIED NATIONAL GLOBAL CARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AMERIBEN",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AMERICAN FAMILY",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AMERICAN HEALTHCARE ALLIANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AMERICAN NATIONAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AMERICAN REPUBLIC",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "ASRM - RELIANCE STANDARD LIFE INSURANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AULTCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AUTOMATED BENEFIT SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AUXIANT",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 451.74
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "AmeriHealth",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "BENEFIT ADMINISTRATIVE SYSTEMS,LLC",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "BOON CHAPMAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CAM ADMINISTRATIVE SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CHRISTIAN BROTHER SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CHRISTIAN BROTHERS HOLY CROSS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CHRISTIAN CARE MINISTRY",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CLAIMCHOICE ADMINSTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "COMPREHENSIVE BENEFITS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CONSOCIATE",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CONTINENTAL LIFE INSURANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "COVENTRY",
+      "flag": "wide_payer_range_review",
+      "ratio": 676.7
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CUSTOM BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "CYPRESS BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 585.99
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "DEAN HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "EMPLOYEE BENEFIT CONCEPTS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "EMPLOYEE BENEFIT MANAGEMENT",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "ENTERPRISE GROUP PLANNING",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "FALLON HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "FAMILY LIFE INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "FIRST HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 552.44
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "FOREST COUNTY POTAWATOMI",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "FREEDOM LIFE INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "GROUP ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "GROUP MARKETING SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "GROUP PENSION ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 541.36
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "GUARDIAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HAP",
+      "flag": "wide_payer_range_review",
+      "ratio": 626.36
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTH AMERICA",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTH CHOICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTH PARTNERS",
+      "flag": "wide_payer_range_review",
+      "ratio": 626.36
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTH SMART",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTHCARE MANAGEMENT ADMIN",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTHEZ",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTHGRAM",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "HEALTHSCOPE",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "INSIGHT",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "INTERCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "INTERNATIONAL BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "JFP BENEFIT MANAGEMENT",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "JP FARLEY CORPORATION",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "KEY BENEFIT ADMINISTRATOR",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "LIBERTY UNION LIFE ASSURANCE CO",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "LIFETIME BENEFIT SOLUTIONS",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "LUCENT HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "LUMINARE HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MAGNACARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MANHATTAN LIFE",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MEDBEN",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MEDCOST",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MEDICAL MUTUAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MUTUAL HEALTH SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MUTUAL OF OMAHA",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.14
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "NCAS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "NIPPON LIFE INS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "NOVA",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PAI",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PAINTERS UNION INSURANCE FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PAN-AMERICAN LIFE",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PHCS",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PHYSICIANS MUTUAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PLUMBERS LOCAL 98 INSURANCE FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PRAIRIE STATES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PREFERRED ONE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PRIMARY PHYSICIAN CARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "PROFESSIONAL BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "SECUREONE PREFERRED UNITED PLANS",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "SIHO INSURANCE SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "SISCO BENEFITS",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "THE HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "THE LOOMIS COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "TRINITY HEALTH SHARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.01
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "TRUSTMARK SMALL BUSINESS BENEFITS",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "TUFTS HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 626.36
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "UNICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "UNIFIED GROUP SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "US HEALTH AND LIFE",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 738.02
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "VALENZ",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC ACCIDENT FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC ADVANTAGE",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC AIG",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC ALLIED",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC AMERISURE",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC AMTRUST",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC ASU RISK MGT",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC BERKLEY ADMIN",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC BROADSPIRE",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC BUNCH & ASSOCIATES",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC CCMSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC EMC INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC ESIS",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC FCCI",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC FEDERATED",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC GALLAGHER BASSETT",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC GENEX CARE FOR OHIO",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC GUARD INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC HARTFORD",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC LIBERTY MUTUAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC MEIJERS",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC MITCHELL FRANKENMUTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC PMA",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC SEDGWICK",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC SENTRY",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC TRAVELERS",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC TRISTAR",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC WALMART",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WC ZURICH",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.68
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WEBTPA",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.19
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WESTERN & SOUTHERN FINANCIAL GROUP",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
+      "id": "oria-st_mary_mercy_livonia-d7cfd",
+      "code": "99284",
+      "payer": "WPS",
+      "flag": "wide_payer_range_review",
+      "ratio": 537.13
+    },
+    {
       "id": "oria-glen_rose_medical_center-bd514",
       "flag": "source_update_date_unparseable",
       "value": null
@@ -1702,6 +3070,34 @@
       "payer": "Humana",
       "flag": "wide_payer_range_review",
       "ratio": 311.82
+    },
+    {
+      "id": "oria-st_john_s_camarillo_hospital-55bcb",
+      "code": "82306",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.06
+    },
+    {
+      "id": "oria-st_john_s_camarillo_hospital-55bcb",
+      "code": "83036",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.59
+    },
+    {
+      "id": "oria-st_john_s_camarillo_hospital-55bcb",
+      "code": "84153",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 161.48
+    },
+    {
+      "id": "oria-st_john_s_camarillo_hospital-55bcb",
+      "code": "84443",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 166.4
     },
     {
       "id": "oria-coffey_county_hospital-4e8c0",
@@ -1717,6 +3113,11 @@
     },
     {
       "id": "oria-butler_county_health-728a5",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
+      "id": "oria-st_catherine_s_west_rehabilitation_hospital-fb8da",
       "flag": "source_update_date_unparseable",
       "value": null
     },
@@ -6545,6 +7946,34 @@
       "flag": "unresolved_geography"
     },
     {
+      "id": "oria-st_bernardine_medical_center-ae67c",
+      "code": "84153",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.8
+    },
+    {
+      "id": "oria-st_bernardine_medical_center-ae67c",
+      "code": "84153",
+      "payer": "Healthsmart",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.8
+    },
+    {
+      "id": "oria-st_bernardine_medical_center-ae67c",
+      "code": "84153",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.8
+    },
+    {
+      "id": "oria-st_bernardine_medical_center-ae67c",
+      "code": "84153",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.8
+    },
+    {
       "id": "oria-mercy_hospital_of_folsom-4f9f5",
       "code": "83036",
       "payer": "BCBS",
@@ -7566,6 +8995,13 @@
       "ratio": 115.75
     },
     {
+      "id": "oria-st_anthony_community_hospital-e486f",
+      "code": "99213",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.9
+    },
+    {
       "id": "henry-ford-st-john-hospital",
       "flag": "unresolved_geography"
     },
@@ -7902,6 +9338,188 @@
       "payer": "wise network",
       "flag": "wide_payer_range_review",
       "ratio": 36434.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "80048",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1025.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "80053",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1278.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "80061",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1620.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "81001",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 334.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "81002",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 270.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "82306",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 3117.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "83036",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1022.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "84153",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1935.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "84443",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1769.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "85025",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 818.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "87086",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 850.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "90834",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 41186.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "90834",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 19079.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99203",
+      "payer": "FIRST HEALTH [1000130]",
+      "flag": "wide_payer_range_review",
+      "ratio": 47639.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99203",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 15425.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99203",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 44571.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99204",
+      "payer": "FIRST HEALTH [1000130]",
+      "flag": "wide_payer_range_review",
+      "ratio": 69708.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99204",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 22570.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99204",
+      "payer": "TUFTS HEALTH PUBLIC PLANS [1010213]",
+      "flag": "wide_payer_range_review",
+      "ratio": 41186.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99204",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 65219.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99213",
+      "payer": "FIRST HEALTH [1000130]",
+      "flag": "wide_payer_range_review",
+      "ratio": 35767.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99213",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 11581.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99213",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 33464.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99214",
+      "payer": "FIRST HEALTH [1000130]",
+      "flag": "wide_payer_range_review",
+      "ratio": 38811.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99214",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 12566.0
+    },
+    {
+      "id": "oria-st_luke_s_hospital-b9d33",
+      "code": "99214",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 36312.0
     },
     {
       "id": "mercy-primary-care-new-madrid",
@@ -10194,6 +11812,412 @@
       "payer": "IOWA DEPT OF PUBLIC HEALTH",
       "flag": "wide_payer_range_review",
       "ratio": 882.73
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.2
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "Ambetter/Centene",
+      "flag": "wide_payer_range_review",
+      "ratio": 177.97
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 340.7
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "GROUP PENSION ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.38
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "JEFFERSON HEALTH PLAN COMMERCIAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.84
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.19
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 489.33
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 283.3
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "PRIME HEALTHCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 197.15
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27130",
+      "payer": "REEDMAN TOLL",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.38
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "Ambetter/Centene",
+      "flag": "wide_payer_range_review",
+      "ratio": 178.29
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 341.32
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "GROUP PENSION ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.64
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "JEFFERSON HEALTH PLAN COMMERCIAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.18
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1299.79
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 283.8
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "PRIME HEALTHCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 197.49
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "27447",
+      "payer": "REEDMAN TOLL",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.64
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29848",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29848",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.28
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29848",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.84
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29848",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.15
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29848",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.05
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.22
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "Ambetter/Centene",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.25
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.73
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "JEFFERSON HEALTH PLAN COMMERCIAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.92
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.16
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.34
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 162.76
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "29881",
+      "payer": "PRIME HEALTHCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.26
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "Ambetter/Centene",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.56
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 295.24
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "GROUP PENSION ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.85
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "JEFFERSON HEALTH PLAN COMMERCIAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 168.11
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 274.27
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 244.45
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "PRIME HEALTHCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.09
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "REEDMAN TOLL",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.85
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "47562",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.16
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "Ambetter/Centene",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.17
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 220.56
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "JEFFERSON HEALTH PLAN COMMERCIAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 123.9
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.69
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.15
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "49505",
+      "payer": "PRIME HEALTHCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.37
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "52353",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 502.64
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "55700",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 115.43
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "55700",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.99
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "55700",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 152.0
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "58150",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.31
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "71045",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 472.03
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "99284",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 280.62
+    },
+    {
+      "id": "oria-st_mary_medical_center-2ecc0",
+      "code": "99284",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 174.86
     },
     {
       "id": "intermountain-health-riverton-hospital",
@@ -16510,6 +18534,1035 @@
       "ratio": 563.42
     },
     {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.33
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "47562",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.78
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "47562",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.35
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "47562",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.12
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "49505",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.85
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "49505",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.65
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "49505",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.83
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "49505",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.32
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "49505",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.24
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "49505",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.38
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "58150",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.12
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "58150",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.84
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "1199 NATIONAL BENEFIT FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "ACCLAIM",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "ADMINISTRATIVE CONCEPTS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "ALLEGEANT",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "ALLIED BENEFIT SYSTEMS",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "ALLIED NATIONAL GLOBAL CARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AMERIBEN",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AMERICAN FAMILY",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AMERICAN HEALTHCARE ALLIANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AMERICAN NATIONAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AMERICAN REPUBLIC",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "ASRM - RELIANCE STANDARD LIFE INSURANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AULTCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AUTOMATED BENEFIT SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AUXIANT",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 487.57
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "AmeriHealth",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "BENEFIT ADMINISTRATIVE SYSTEMS,LLC",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "BOON CHAPMAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CAM ADMINISTRATIVE SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CHRISTIAN BROTHER SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CHRISTIAN BROTHERS HOLY CROSS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CHRISTIAN CARE MINISTRY",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CLAIMCHOICE ADMINSTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "COMPREHENSIVE BENEFITS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CONSOCIATE",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CONTINENTAL LIFE INSURANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "COVENTRY",
+      "flag": "wide_payer_range_review",
+      "ratio": 637.62
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CUSTOM BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "CYPRESS BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 579.03
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "DEAN HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "EMPLOYEE BENEFIT CONCEPTS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "EMPLOYEE BENEFIT MANAGEMENT",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "ENTERPRISE GROUP PLANNING",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "FALLON HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "FAMILY LIFE INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "FIRST HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 637.62
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "FOREST COUNTY POTAWATOMI",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "FREEDOM LIFE INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "GROUP ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "GROUP MARKETING SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "GROUP PENSION ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 575.19
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "GUARDIAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HAP",
+      "flag": "wide_payer_range_review",
+      "ratio": 743.49
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTH AMERICA",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTH CHOICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTH PARTNERS",
+      "flag": "wide_payer_range_review",
+      "ratio": 743.49
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTH SMART",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTHCARE MANAGEMENT ADMIN",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTHEZ",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTHGRAM",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "HEALTHSCOPE",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "INSIGHT",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "INTERCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "INTERNATIONAL BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "JFP BENEFIT MANAGEMENT",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "JP FARLEY CORPORATION",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "KEY BENEFIT ADMINISTRATOR",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "LIBERTY UNION LIFE ASSURANCE CO",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "LIFETIME BENEFIT SOLUTIONS",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "LUCENT HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "LUMINARE HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "LUMINARE HEALTH (DETROIT)",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MAGNACARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MANHATTAN LIFE",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MCLAREN HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 448.84
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MEDBEN",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MEDCOST",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MUTUAL HEALTH SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MUTUAL OF OMAHA",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "NCAS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "NIPPON LIFE INS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "NOVA",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PAI",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PAINTERS UNION INSURANCE FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PAN-AMERICAN LIFE",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PHCS",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PHYSICIANS MUTUAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PLUMBERS LOCAL 98 INSURANCE FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PRAIRIE STATES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PREFERRED ONE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PRIMARY PHYSICIAN CARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "PROFESSIONAL BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "SECUREONE PREFERRED UNITED PLANS",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "SIHO INSURANCE SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "SISCO BENEFITS",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "THE HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "THE LOOMIS COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "TRINITY HEALTH SHARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 497.26
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "TRUSTMARK SMALL BUSINESS BENEFITS",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "TUFTS HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 743.49
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "UNICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "UNIFIED GROUP SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "US HEALTH AND LIFE",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 863.52
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "VALENZ",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC ACCIDENT FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC ADVANTAGE",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC AIG",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC ALLIED",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC AMERISURE",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC AMTRUST",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC ASU RISK MGT",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC BERKLEY ADMIN",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC BROADSPIRE",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC BUNCH & ASSOCIATES",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC CCMSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC EMC INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC ESIS",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC FCCI",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC FEDERATED",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC GALLAGHER BASSETT",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC GENEX CARE FOR OHIO",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC GUARD INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC HARTFORD",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC LIBERTY MUTUAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC MEIJERS",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC MITCHELL FRANKENMUTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC PMA",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC SEDGWICK",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC SENTRY",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC TRAVELERS",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC TRISTAR",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC WALMART",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WC ZURICH",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WEBTPA",
+      "flag": "wide_payer_range_review",
+      "ratio": 372.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WESTERN & SOUTHERN FINANCIAL GROUP",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99284",
+      "payer": "WPS",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.87
+    },
+    {
+      "id": "oria-st_joseph_mercy_oakland-63a1a",
+      "code": "99285",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.92
+    },
+    {
       "id": "nyu-langone-hospital-long-island",
       "code": "80053",
       "payer": "Emblem",
@@ -16798,6 +19851,11 @@
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
       "ratio": 16068.0
+    },
+    {
+      "id": "oria-southeast_colorado_hospital_district-c0327",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "oria-piedmont_augusta-1bed1",
@@ -22013,6 +25071,20 @@
       "ratio": 170.67
     },
     {
+      "id": "oria-st_luke_s_health_sugar_land_hospital-d0af6",
+      "code": "80048",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.2
+    },
+    {
+      "id": "oria-st_luke_s_health_sugar_land_hospital-d0af6",
+      "code": "80053",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.84
+    },
+    {
       "id": "upmc-passavant-cranberry",
       "code": "82306",
       "payer": "Cigna",
@@ -22506,6 +25578,11 @@
     {
       "id": "oria-rural_wellness_stroud-c8b9e",
       "flag": "unresolved_geography"
+    },
+    {
+      "id": "oria-sedgwick_county_health_center-61311",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "oria-methodist_richardson_campus_for_continuing_care-37948",
@@ -24231,6 +27308,433 @@
       "ratio": 122.33
     },
     {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.8
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.8
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 209.59
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 214.81
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 246.17
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 2296.75
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 204.02
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 396.85
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "US FAMILY HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.69
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27130",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 223.44
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.95
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.97
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.92
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 215.14
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 123.23
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 297.89
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 204.35
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 397.44
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "US FAMILY HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.89
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "27447",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 223.69
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "29881",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "29881",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 123.11
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "29881",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 157.5
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "29881",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.33
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "29881",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.91
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "29881",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 227.43
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "29881",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.95
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "45378",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.97
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.02
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.09
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.5
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 187.33
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 119.22
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 177.91
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 349.0
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "US FAMILY HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 140.41
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "47562",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.42
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 144.16
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 182.02
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 257.72
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 234.01
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 302.73
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 206.24
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 222.23
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 441.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "US FAMILY HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.25
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "49505",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 274.75
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 152.92
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.1
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "US FAMILY HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 162.4
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "71045",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 151.88
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "81001",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.46
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.46
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "81001",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.46
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "81001",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.46
+    },
+    {
+      "id": "oria-st_josephs_hospital_health_center-058b2",
+      "code": "99283",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.3
+    },
+    {
       "id": "oria-cobre_valley_community_hospital-3e72d",
       "code": "81002",
       "payer": "Allwell Advantage",
@@ -24309,6 +27813,11 @@
     },
     {
       "id": "oria-catawba_valley_health_system-d2908",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
+      "id": "oria-skokie_hospital-cbef9",
       "flag": "source_update_date_unparseable",
       "value": null
     },
@@ -24717,6 +28226,11 @@
       "age_days": 408
     },
     {
+      "id": "oria-star_valley_health-0dc39",
+      "flag": "source_over_365_days_old",
+      "age_days": 709
+    },
+    {
       "id": "intermountain-health-utah-valley-hospital",
       "code": "27130",
       "payer": "selecthealth",
@@ -24811,6 +28325,34 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 101.19
+    },
+    {
+      "id": "oria-st_catherine_of_siena_hospital-d2695",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 238.28
+    },
+    {
+      "id": "oria-st_catherine_of_siena_hospital-d2695",
+      "code": "72141",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 276.6
+    },
+    {
+      "id": "oria-st_catherine_of_siena_hospital-d2695",
+      "code": "72148",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 255.09
+    },
+    {
+      "id": "oria-st_catherine_of_siena_hospital-d2695",
+      "code": "95810",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 320.72
     },
     {
       "id": "oria-cleveland_area_hospital-57453",
@@ -26954,6 +30496,20 @@
       "ratio": 134.93
     },
     {
+      "id": "oria-slidell_memorial_hospital-362a7",
+      "code": "76536",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 168.12
+    },
+    {
+      "id": "oria-slidell_memorial_hospital-362a7",
+      "code": "77067",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 239.53
+    },
+    {
       "id": "oria-piedmont_columbus_regional_midtown-28d03",
       "code": "80053",
       "payer": "BCBS",
@@ -27076,6 +30632,209 @@
       "id": "oria-holyoke_medical_center-9cf49",
       "flag": "source_over_365_days_old",
       "age_days": 638
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "71045",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 562.93
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "71046",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 427.65
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "77080",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 373.57
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "80048",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 2168.56
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "80053",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 1737.31
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "80061",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 1370.13
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "81001",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 5787.38
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
+      "payer": "Connected Care",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.12
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
+      "payer": "Healthsmart",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.12
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.12
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 2293.25
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.13
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
+      "payer": "Connected Care",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
+      "payer": "Healthsmart",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 3669.2
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "84153",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 3669.2
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "84443",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 2293.25
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "85025",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 2361.13
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "87086",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 2273.36
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "47562",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 929.18
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "47562",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 542.89
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "47562",
+      "payer": "CARESOURCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.64
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "47562",
+      "payer": "FRIDAY HEALTH PLANS",
+      "flag": "wide_payer_range_review",
+      "ratio": 119.27
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.18
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "47562",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 598.94
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "99284",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 169.04
+    },
+    {
+      "id": "oria-st_marys_sacred_heart_hospital-12c44",
+      "code": "99284",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.3
     },
     {
       "id": "oria-cascade_valley_hospital-7c991",
@@ -29010,6 +32769,188 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 563.42
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.81
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.75
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.76
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "epic_health_plan",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "exclusive_care",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "health_net",
+      "flag": "wide_payer_range_review",
+      "ratio": 172.82
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "heritage",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.76
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "palomar",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "primecare",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "rady_children's_hospital",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "sharp_health_plan",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "80053",
+      "payer": "united_health_care",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.75
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.82
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.84
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "epic_health_plan",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "exclusive_care",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "health_net",
+      "flag": "wide_payer_range_review",
+      "ratio": 150.73
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "heritage",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.84
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "palomar",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "primecare",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "rady_children's_hospital",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "sharp_health_plan",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
+    },
+    {
+      "id": "oria-southwest_healthcare-d3797",
+      "code": "83036",
+      "payer": "united_health_care",
+      "flag": "wide_payer_range_review",
+      "ratio": 143.33
     },
     {
       "id": "mercy-hospital-logan-county",
@@ -32712,6 +36653,11 @@
       "ratio": 8698.25
     },
     {
+      "id": "oria-springfield_hospital-430b9",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
       "id": "oria-chi_st_luke_s_health_memorial_livingston-1adb1",
       "code": "80053",
       "payer": "Aetna",
@@ -33792,8 +37738,209 @@
       "flag": "unresolved_geography"
     },
     {
+      "id": "oria-slidell_memorial_hospital_east_campus-a17f9",
+      "code": "76536",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 168.12
+    },
+    {
+      "id": "oria-slidell_memorial_hospital_east_campus-a17f9",
+      "code": "77067",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 239.53
+    },
+    {
+      "id": "oria-st_luke_s_health_the_woodlands_hospital-26ec9",
+      "code": "80048",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.2
+    },
+    {
+      "id": "oria-st_luke_s_health_the_woodlands_hospital-26ec9",
+      "code": "80053",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.84
+    },
+    {
+      "id": "oria-stafford_hospital-49827",
+      "flag": "source_over_365_days_old",
+      "age_days": 661
+    },
+    {
       "id": "mercy-hospital-tishomingo",
       "flag": "unresolved_geography"
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80048",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 526.17
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80048",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80048",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80048",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80048",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80053",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 447.25
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80053",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.73
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80053",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80053",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80053",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80061",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 284.66
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80061",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.64
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80061",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80061",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "80061",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "81001",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 405.3
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "81001",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.01
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "81001",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "81001",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "81001",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "83036",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.02
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "84153",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.83
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "85025",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 238.92
+    },
+    {
+      "id": "oria-south_texas_health_system_heart-867ce",
+      "code": "87086",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 149.55
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -34501,6 +38648,34 @@
       "payer": "medica health system",
       "flag": "wide_payer_range_review",
       "ratio": 16531.0
+    },
+    {
+      "id": "oria-st_john_s_regional_medical_center-06871",
+      "code": "82306",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.06
+    },
+    {
+      "id": "oria-st_john_s_regional_medical_center-06871",
+      "code": "83036",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.59
+    },
+    {
+      "id": "oria-st_john_s_regional_medical_center-06871",
+      "code": "84153",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 161.48
+    },
+    {
+      "id": "oria-st_john_s_regional_medical_center-06871",
+      "code": "84443",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 166.4
     },
     {
       "id": "buffalo-hospital",
@@ -36467,6 +40642,20 @@
       "age_days": 492
     },
     {
+      "id": "oria-st_luke_s_health_lakeside_hospital-45d24",
+      "code": "80048",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.2
+    },
+    {
+      "id": "oria-st_luke_s_health_lakeside_hospital-45d24",
+      "code": "80053",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.84
+    },
+    {
       "id": "cleveland-clinic-florida-weston-hospital",
       "code": "45378",
       "payer": "BCBS",
@@ -36846,6 +41035,11 @@
     },
     {
       "id": "oria-macon_community_hospital-5e860",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
+      "id": "oria-smp_health_st_kateri-685bc",
       "flag": "source_update_date_unparseable",
       "value": null
     },
@@ -37734,6 +41928,10 @@
       "age_days": 657
     },
     {
+      "id": "oria-st_mary_s_hospital-11401",
+      "flag": "unresolved_geography"
+    },
+    {
       "id": "baptist-health-hospital-doral",
       "code": "80048",
       "payer": "Aetna",
@@ -37940,6 +42138,174 @@
       "ratio": 114.43
     },
     {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80048",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 526.17
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80048",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80048",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80048",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80048",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80053",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 447.25
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80053",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.73
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80053",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80053",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80053",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80061",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 284.66
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80061",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.64
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80061",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80061",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "80061",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "81001",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 405.3
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "81001",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.01
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "81001",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "81001",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "81001",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "83036",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.02
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "84153",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.83
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "85025",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 238.92
+    },
+    {
+      "id": "oria-south_texas_health_system_edinburg-45722",
+      "code": "87086",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 149.55
+    },
+    {
       "id": "baylor-scott-white-medical-center-marble-falls",
       "code": "52353",
       "payer": "BCBS",
@@ -38092,6 +42458,11 @@
       "id": "oria-changes_westpark_springs-f1e61",
       "flag": "source_over_365_days_old",
       "age_days": 395
+    },
+    {
+      "id": "oria-spencer_municipal_hospital-d925b",
+      "flag": "source_over_365_days_old",
+      "age_days": 843
     },
     {
       "id": "intermountain-health-alta-view-hospital",
@@ -38574,6 +42945,27 @@
       "payer": "WEBTPA",
       "flag": "wide_payer_range_review",
       "ratio": 262.76
+    },
+    {
+      "id": "oria-sedan_city_hospital-b6f21",
+      "excluded_from_search": true,
+      "code": "76536",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-sedan_city_hospital-b6f21",
+      "excluded_from_search": true,
+      "code": "82306",
+      "flag": "range_inverted",
+      "field": "neg_min"
+    },
+    {
+      "id": "oria-sedan_city_hospital-b6f21",
+      "excluded_from_search": true,
+      "code": "93306",
+      "flag": "range_inverted",
+      "field": "neg_min"
     },
     {
       "id": "oria-medical_center_of_southeast_texas-20313",
@@ -39508,6 +43900,20 @@
       "ratio": 129.75
     },
     {
+      "id": "oria-skagit_regional_health_skagit_valley_hospital-8b4e9",
+      "code": "71045",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 251.38
+    },
+    {
+      "id": "oria-skagit_regional_health_skagit_valley_hospital-8b4e9",
+      "code": "81002",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 258.71
+    },
+    {
       "id": "oria-mercyone_elkader_medical_center-a8ed3",
       "code": "43239",
       "payer": "Aetna",
@@ -40354,6 +44760,11 @@
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
       "ratio": 250.54
+    },
+    {
+      "id": "oria-smp_health_st_aloisius-42614",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "oria-crescent_regional_hospital-b540f",
@@ -41478,6 +45889,11 @@
       "id": "oria-comanche_county_hospital-222ad",
       "flag": "source_over_365_days_old",
       "age_days": 581
+    },
+    {
+      "id": "oria-st_anthony_s_rehabilitation_hospital-9428e",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "oria-edgerton_hospital_and_health_services-50d6a",
@@ -45686,6 +50102,13 @@
       "age_days": 395
     },
     {
+      "id": "oria-st_joseph_warren_hospital-4507c",
+      "code": "71045",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.11
+    },
+    {
       "id": "oria-ochiltree_general_hospital-7c8ac",
       "flag": "source_update_date_unparseable",
       "value": null
@@ -45699,6 +50122,11 @@
       "id": "oria-community_medical_center-fa51a",
       "flag": "source_update_date_unparseable",
       "value": null
+    },
+    {
+      "id": "oria-shepherd_center-a35e5",
+      "flag": "source_over_365_days_old",
+      "age_days": 542
     },
     {
       "id": "oria-ascension_seton_williamson-7985a",
@@ -48742,6 +53170,741 @@
       "ratio": 169.57
     },
     {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.93
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.93
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 144.54
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "BLUE CARE NETWORK",
+      "flag": "wide_payer_range_review",
+      "ratio": 146.45
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 740.06
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.73
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 140.45
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 228.02
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.68
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27130",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.46
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.57
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.57
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "BLUE CARE NETWORK",
+      "flag": "wide_payer_range_review",
+      "ratio": 115.05
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.09
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 149.07
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.83
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 197.62
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.2
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "27447",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.84
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "29848",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.15
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "29848",
+      "payer": "PRIORITY HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.98
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "29848",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.23
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "29881",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.16
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "29881",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.15
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "47562",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.73
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.81
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "47562",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "47562",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.3
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "47562",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.35
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "47562",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.6
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "49505",
+      "payer": "BCCCP-MICHIGAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.18
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "49505",
+      "payer": "U OF M HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.24
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "71045",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 725.51
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "71045",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 953.88
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "71045",
+      "payer": "Molina",
+      "flag": "wide_payer_range_review",
+      "ratio": 798.66
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "71045",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 952.25
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "ACCLAIM",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "ADMINISTRATIVE CONCEPTS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "ALLEGEANT",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AMERIBEN",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AMERICAN FAMILY",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AMERICAN HEALTHCARE ALLIANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AMERICAN NATIONAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AMERICAN REPUBLIC",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AULTCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AUTOMATED BENEFIT SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AUXIANT",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "AmeriHealth",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "BENEFIT ADMINISTRATIVE SYSTEMS,LLC",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "BOON CHAPMAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "CAM ADMINISTRATIVE SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "CHRISTIAN BROTHER SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "CHRISTIAN BROTHERS HOLY CROSS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "COMPREHENSIVE BENEFITS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "CONTINENTAL LIFE INSURANCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "COVENTRY",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "CUSTOM BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "EMPLOYEE BENEFIT CONCEPTS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "EMPLOYEE BENEFIT MANAGEMENT",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "ENTERPRISE GROUP PLANNING",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "FIRST HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.17
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "FREEDOM LIFE INSURANCE COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "GROUP ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "GROUP MARKETING SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "GROUP PENSION ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "GUARDIAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "HAP",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.33
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "HEALTH AMERICA",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "HEALTH CHOICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "HEALTHCARE MANAGEMENT ADMIN",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "HEALTHEZ",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "INSIGHT",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "INTERCARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "JFP BENEFIT MANAGEMENT",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "JP FARLEY CORPORATION",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "KEY BENEFIT ADMINISTRATOR",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "LIBERTY UNION LIFE ASSURANCE CO",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "LUCENT HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "LUMINARE HEALTH",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "LUMINARE HEALTH (DETROIT)",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "MAGNACARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "MEDBEN",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "MEDCOST",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "MEDICAL MUTUAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "MUTUAL HEALTH SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "MUTUAL OF OMAHA",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "NCAS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "NIPPON LIFE INS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "NOVA",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "PAINTERS UNION INSURANCE FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "PHYSICIANS MUTUAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "PLUMBERS LOCAL 98 INSURANCE FUND",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "PRAIRIE STATES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "PREFERRED ONE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "PRIMARY PHYSICIAN CARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "PROFESSIONAL BENEFIT ADMINISTRATORS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "SIHO INSURANCE SERVICES",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "THE LOOMIS COMPANY",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "UNICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "US HEALTH AND LIFE",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "VALENZ",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "WESTERN & SOUTHERN FINANCIAL GROUP",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
+      "id": "oria-st_joseph_mercy_ann_arbor-93e34",
+      "code": "99284",
+      "payer": "WPS",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.4
+    },
+    {
       "id": "mercy-hospital-springfield",
       "flag": "unresolved_geography"
     },
@@ -49002,6 +54165,13 @@
       "ratio": 148.9
     },
     {
+      "id": "oria-st_francis_medical_center-f06a7",
+      "code": "58150",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 790.65
+    },
+    {
       "id": "oria-oklahoma_heart_hospital_south-d5f40",
       "code": "71045",
       "payer": "Ambetter/Centene",
@@ -49123,6 +54293,18 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 104.86
+    },
+    {
+      "id": "oria-st_joseph_medical_center-da348",
+      "flag": "source_over_365_days_old",
+      "age_days": 668
+    },
+    {
+      "id": "oria-st_joseph_medical_center-da348",
+      "code": "80053",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.06
     },
     {
       "id": "oria-big_sky_medical_center-10e82",
@@ -50729,6 +55911,20 @@
       "ratio": 100.16
     },
     {
+      "id": "oria-st_luke_s_health_the_vintage_hospital-d451e",
+      "code": "80048",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.2
+    },
+    {
+      "id": "oria-st_luke_s_health_the_vintage_hospital-d451e",
+      "code": "80053",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.84
+    },
+    {
       "id": "oria-samaritan_hospital-d992e",
       "flag": "source_update_date_unparseable",
       "value": null
@@ -50999,6 +56195,321 @@
     {
       "id": "mercy-hospital-northwest-arkansas",
       "flag": "unresolved_geography"
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "27447",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 667.49
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "27447",
+      "payer": "Ambetter/Centene",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.24
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "27447",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 366.78
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "27447",
+      "payer": "CARESOURCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 138.09
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "27447",
+      "payer": "FRIDAY HEALTH PLANS",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.9
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.95
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "27447",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 417.17
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "47562",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 573.46
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "47562",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 335.05
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "47562",
+      "payer": "CARESOURCE",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.63
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "47562",
+      "payer": "FRIDAY HEALTH PLANS",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.93
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.09
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "47562",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 369.65
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "47562",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.46
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 424.57
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "49505",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 249.62
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "49505",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 276.61
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "49505",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.32
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "71045",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.5
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "71045",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 238.09
+    },
+    {
+      "id": "oria-st_marys_health_care_system-ffdd8",
+      "code": "99284",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.33
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80048",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 526.17
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80048",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80048",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80048",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80048",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.9
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80053",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 447.25
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80053",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.73
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80053",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80053",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80053",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.77
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80061",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 284.66
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80061",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.64
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80061",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80061",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "80061",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.69
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "81001",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 405.3
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "81001",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.01
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "81001",
+      "payer": "first_health_network",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "81001",
+      "payer": "multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "81001",
+      "payer": "sharyland_isd",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.75
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "83036",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 170.02
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "84153",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.83
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "85025",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 238.92
+    },
+    {
+      "id": "oria-south_texas_health_system_mcallen-3cfbd",
+      "code": "87086",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 149.55
     },
     {
       "id": "henry-ford-madison-heights-hospital",
@@ -53729,6 +59240,445 @@
       "ratio": 101.19
     },
     {
+      "id": "oria-st_elizabeth_community_hospital-1c6a5",
+      "code": "80053",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.03
+    },
+    {
+      "id": "oria-st_elizabeth_community_hospital-1c6a5",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.21
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27130",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.75
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27130",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 796.29
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 207.72
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27130",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 418.24
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.87
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "HEALTHBRIDGE FINANCIAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "IHA IDAHO SELF PAY INFORMATIONAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "IHA INDIANA SELF PAY INFORMATIONAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "IHA IOWA SELF PAY INFORMATIONAL",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 931.49
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 208.06
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX AQUINATA MARYWOOD",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX CMH DISCHARGE",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX DETROIT FORMULARY",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX FIRST FILL PROGRAM",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX HARBOR HOMECARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX LIPC/MCHP",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX LIPC/MCHP COPAY",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX MCAULEY CLINIC",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX NET RX",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX NY NALOXONE COPAY",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "RX PATIENT SUPPORT PROGRAM",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.5
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "27447",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 418.85
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "29848",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.62
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "29848",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 269.57
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "29848",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.33
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "29881",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 159.07
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "29881",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 304.56
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "29881",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.79
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "29881",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 331.73
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "30520",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.84
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "47562",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 177.39
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "47562",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 382.8
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 181.14
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "47562",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 448.65
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 165.28
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 295.76
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "49505",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 226.28
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "49505",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 464.87
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "52353",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 416.68
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "59510",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 178.34
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 146.37
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 394.31
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 432.68
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "CAPITAL DISTRICT PHYSICIANS HEALTH PLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 361.09
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 238.87
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "EDDY SENIORCARE PACE",
+      "flag": "wide_payer_range_review",
+      "ratio": 171.37
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.34
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 308.46
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "MVP",
+      "flag": "wide_payer_range_review",
+      "ratio": 274.48
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1304.71
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 552.49
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 1150.9
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 654.91
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "71045",
+      "payer": "WELLPATH",
+      "flag": "wide_payer_range_review",
+      "ratio": 385.57
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "73221",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.78
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "73721",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.73
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "77080",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 223.46
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "99284",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.3
+    },
+    {
+      "id": "oria-st_peters_hospital-75773",
+      "code": "99284",
+      "payer": "TRICARE",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.71
+    },
+    {
+      "id": "oria-st_catherine_s_rehabilitation_hospital-f6b92",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
       "id": "mercy-hospital-ardmore",
       "flag": "unresolved_geography"
     },
@@ -53863,6 +59813,97 @@
     }
   ],
   "quarantined_sources": [
+    {
+      "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
+      "source_url": "https://www.swarmc.org/wp-content/uploads/2026/05/994554436_southwest-arkansas-regional-medical-center_standardcharges.csv",
+      "issues": [
+        {
+          "code": "76536",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "77067",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "80061",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "81001",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "82306",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "83036",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "84153",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "84443",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "85025",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "87086",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "99203",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "99204",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "99213",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "99214",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "99283",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "99284",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "99285",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        }
+      ]
+    },
     {
       "id": "oria-paulding_county_hospital-40256",
       "source_url": "https://pauldingcountyhospital.com/wp-content/uploads/2025/11/346405718_Paulding-County-Hospital_standardcharges.csv",
@@ -53999,6 +60040,27 @@
         },
         {
           "code": "99285",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        }
+      ]
+    },
+    {
+      "id": "oria-sedan_city_hospital-b6f21",
+      "source_url": "https://sedancityhospital.org/standardcharges.csv",
+      "issues": [
+        {
+          "code": "76536",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "82306",
+          "flag": "range_inverted",
+          "field": "neg_min"
+        },
+        {
+          "code": "93306",
           "flag": "range_inverted",
           "field": "neg_min"
         }
