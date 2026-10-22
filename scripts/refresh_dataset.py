@@ -70,7 +70,7 @@ def process(rec, targets, out_dir, max_bytes):
         meta = result
         city, state = parse_city_state(meta.get("hospital_address"))
         loc = (meta.get("location_name") or "").split("|")[0].strip()
-        result["display_name"] = loc or meta.get("hospital_name") or rec.get("location_name") or hid
+        result["display_name"] = rec.get("location_name") or loc or meta.get("hospital_name") or hid
         result["city"], result["state"] = city or rec.get("city"), state or rec.get("state")
         result["status"] = "ok" if result["codes"] else "no_target_codes"
     except Exception as e:
