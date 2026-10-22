@@ -1,0 +1,461 @@
+{
+  "generated_at": "2026-10-22T04:49:35.066837+00:00",
+  "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
+  "counts": {
+    "attempted_registry_entries": 38,
+    "successful_entries": 13,
+    "distinct_successful_mrf_urls": 13,
+    "extracted_within_24h": 13,
+    "sources_over_365_days_old": 0,
+    "source_date_unparseable": 0,
+    "hospital_code_aggregates": 592,
+    "row_preserving_records": 262
+  },
+  "status_counts": {
+    "failed": 25,
+    "ok": 13
+  },
+  "successful_entries_by_state": {
+    "MN": 1,
+    "unresolved": 1,
+    "NC": 1,
+    "IL": 1,
+    "CA": 2,
+    "MS": 1,
+    "FL": 1,
+    "NY": 2,
+    "LA": 1,
+    "PA": 1,
+    "TX": 1
+  },
+  "hospital_entries_per_code": {
+    "64483": 13,
+    "70450": 13,
+    "70551": 13,
+    "70553": 13,
+    "71045": 13,
+    "71046": 13,
+    "72141": 13,
+    "72148": 13,
+    "73221": 13,
+    "73721": 13,
+    "74176": 13,
+    "74177": 13,
+    "76536": 13,
+    "76700": 13,
+    "77067": 12,
+    "77080": 12,
+    "80048": 12,
+    "80053": 12,
+    "80061": 12,
+    "81001": 11,
+    "82306": 12,
+    "83036": 12,
+    "84153": 12,
+    "84443": 12,
+    "85025": 12,
+    "87086": 11,
+    "90834": 10,
+    "93306": 12,
+    "93880": 13,
+    "95810": 11,
+    "99213": 8,
+    "99214": 8,
+    "99283": 12,
+    "99284": 12,
+    "99285": 12,
+    "27130": 8,
+    "27447": 8,
+    "29848": 9,
+    "29881": 9,
+    "30520": 9,
+    "43239": 11,
+    "45378": 11,
+    "45385": 11,
+    "47562": 9,
+    "49505": 10,
+    "52353": 9,
+    "55700": 10,
+    "58150": 9,
+    "59400": 5,
+    "59510": 5,
+    "66984": 9,
+    "81002": 9,
+    "93000": 5,
+    "99203": 7,
+    "99204": 7
+  },
+  "qa_flags": [
+    {
+      "id": "abbott-northwestern-hospital",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "abbott-northwestern-hospital",
+      "code": "90834",
+      "payer": "medica ubh (a)",
+      "flag": "wide_payer_range_review",
+      "ratio": 25809.0
+    },
+    {
+      "id": "abbott-northwestern-hospital",
+      "code": "99213",
+      "payer": "medica ubh (a)",
+      "flag": "wide_payer_range_review",
+      "ratio": 25074.0
+    },
+    {
+      "id": "abbott-northwestern-hospital",
+      "code": "99214",
+      "payer": "medica ubh (a)",
+      "flag": "wide_payer_range_review",
+      "ratio": 29932.0
+    },
+    {
+      "id": "bellevue-medical-center",
+      "flag": "unresolved_geography"
+    },
+    {
+      "id": "bellevue-medical-center",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "55700",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 165400.0
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "66984",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.12
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.17
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "80061",
+      "payer": "HEALTH PARTNERS MCR ADV",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.69
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "81001",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.71
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.64
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "81001",
+      "payer": "HEALTH PARTNERS MCR ADV",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.0
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "99203",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 26000.0
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "99204",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 32000.0
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "99213",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 22000.0
+    },
+    {
+      "id": "bellevue-medical-center",
+      "code": "99214",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 31000.0
+    },
+    {
+      "id": "novant-health-ballantyne-medical-center",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "alton-memorial-hospital",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "stanford-health-care-tri-valley",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "ochsner-rush-medical-center",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "baptist-hospital",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "80048",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.47
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "80048",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 135.54
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "80053",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 184.06
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "80053",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 236.55
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "81001",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.96
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "81001",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.94
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "83036",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 123.64
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "83036",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 159.2
+    },
+    {
+      "id": "baptist-hospital",
+      "code": "85025",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.6
+    },
+    {
+      "id": "providence-cedars-sinai-tarzana-medical-center",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "80053",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 138.72
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "81001",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.21
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "81001",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 529.65
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "81001",
+      "payer": "hip",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.06
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "83036",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 176.33
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "83036",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 161.45
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "83036",
+      "payer": "hip",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.17
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "85025",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 166.04
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "85025",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.3
+    },
+    {
+      "id": "nyu-langone-tisch-hospital",
+      "code": "85025",
+      "payer": "hip",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.28
+    },
+    {
+      "id": "oria-avala-89128",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "80053",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 617.25
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "80053",
+      "payer": "hip",
+      "flag": "wide_payer_range_review",
+      "ratio": 413.67
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "81001",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 2056.54
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "81001",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 370.77
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "81001",
+      "payer": "hip",
+      "flag": "wide_payer_range_review",
+      "ratio": 1378.27
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "83036",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 671.4
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "83036",
+      "payer": "Humana",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.02
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "83036",
+      "payer": "hip",
+      "flag": "wide_payer_range_review",
+      "ratio": 449.96
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "85025",
+      "payer": "Emblem",
+      "flag": "wide_payer_range_review",
+      "ratio": 839.08
+    },
+    {
+      "id": "nyu-langone-hospital-brooklyn",
+      "code": "85025",
+      "payer": "hip",
+      "flag": "wide_payer_range_review",
+      "ratio": 562.35
+    },
+    {
+      "id": "geisinger-community-medical-center",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "baylor-scott-white-medical-center-austin",
+      "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "baylor-scott-white-medical-center-austin",
+      "code": "52353",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.43
+    }
+  ],
+  "limitations": [
+    "Primary summaries collapse settings, billing classes, modifiers and plans. Do not rank them as equivalent treatment bundles.",
+    "Raw payer strings and plan identity are lost in legacy summary layer. New normalized records preserve them.",
+    "A parser success is not confirmation that a hospital published correct prices.",
+    "Insurer catalogs and CMS benchmarks are separate layers and do not increase primary local price coverage.",
+    "No claim of best-in-world accuracy, completeness or freshness is supported."
+  ]
+}

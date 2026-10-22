@@ -8,7 +8,7 @@ Never invents data: only rows matching the target code set are emitted, with the
 dollar amounts exactly as published (negotiated percentages/algorithms are counted
 but not converted to dollars).
 """
-import csv, gzip, io, json, os, re, sys, tempfile, time, urllib.request, zipfile
+import csv, gzip, io, json, os, re, sys, tempfile, time, urllib.request, zipfile, hashlib
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_CODES = os.path.join(HERE, "target_codes.json")
@@ -387,6 +387,13 @@ def main():
     try:
         path, total = download(url, max_bytes)
         result["bytes"] = total
+        digest = hashlib.sha256()
+        with open(path, "rb") as source:
+            for chunk in iter(lambda: source.read(1024 * 1024), b""):
+                digest.update(chunk)
+        result["source_sha256"] = digest.hexdigest()
+        result["parser_schema_version"] = "summary-1.1"
+        result["aggregation_warning"] = "Ranges collapse settings, modifiers, billing classes and plans; not comparable all-in offers"
         try:
             accs, meta = extract(path, targets)
         finally:

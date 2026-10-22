@@ -8,7 +8,7 @@ def build():
   d=json.load(open(p)); attempts.append({k:d.get(k) for k in ['id','status','extracted_at','error','last_attempt','last_error']})
   if d.get('status')!='ok' or d.get('mrf_url') in seen: continue
   seen.add(d['mrf_url']); i=len(providers)
-  providers.append({k:d.get(k) for k in ['id','display_name','city','state','hospital_address','mrf_url','source_page_url','last_updated_on','extracted_at']})
+  providers.append({k:d.get(k) for k in ['id','display_name','city','state','hospital_address','mrf_url','source_page_url','last_updated_on','extracted_at','source_sha256','parser_schema_version','aggregation_warning']})
   for code,v in d.get('codes',{}).items():
    if not any(v.get(k) for k in ['cash_min','payers','neg_min']): continue
    rows.append(dict(provider=i,code=code,**v))

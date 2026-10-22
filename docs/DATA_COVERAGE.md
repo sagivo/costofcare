@@ -31,3 +31,11 @@ There is no verified exhaustive central list of every public healthcare price so
 - `scripts/tic_extract.py`: streaming extraction for an explicitly selected in-network TiC file. Install `scripts/requirements.txt`. Retains provider references and price qualifiers; does not pretend unresolved references are local providers. Output capped by row count and marked incomplete when capped. This parser is fixture-tested, not yet validated on a useful production rate sample. No TiC price rows currently power patient search.
 
 Raw nationwide hospital and insurer data can be terabytes. This repository does not contain all raw files. It stores source locators, provenance, bounded normalized outputs and benchmarks. Expanding to every raw source will require a storage/compute design and measured capacity. No paid storage is provisioned, no spending authorized by this implementation.
+
+## Accuracy-first quality work
+
+`data/quality/report.json` reports actual primary-file success counts, per-state/code coverage, source freshness, unresolved geography, missing byte hashes and anomalous ranges. Passing structural checks does not prove clinical equivalence or hospital accuracy. Wide ranges are flagged for review rather than deleted or replaced with a guessed price.
+
+The legacy summary data is not an analytical gold standard: it loses original payer strings and combines plans/settings/modifiers. `scripts/normalize_mrf.py` begins a row-preserving replacement, with an explicit code filter, complete-file scan status, original header/value alignment, source-row ordinal and SHA-256 of downloaded source bytes. `schemas/normalized-record.schema.json` defines the record contract. AVALA is the first real validated-format pilot; nationwide normalized coverage is not claimed.
+
+Priority order: source provenance and correct semantics, row-preserving ingestion, independently checked fixtures and sampled source readback, geography/provider identity, payer/plan/network identity, freshness and revision history, then breadth and applications. A large count with mixed semantics is not a quality achievement.
