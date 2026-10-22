@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-22T05:38:44.410608+00:00",
+  "generated_at": "2026-10-22T06:03:30.358823+00:00",
   "status": "pass",
-  "validated_files": 268,
-  "validated_records": 528107,
+  "validated_files": 461,
+  "validated_records": 1138344,
   "source_formats": {
-    "cms-json": 4173,
-    "cms-csv": 523934
+    "cms-json": 7931,
+    "cms-csv": 1130413
   },
   "populated_field_counts": {
-    "description": 528107,
-    "code_information": 4173,
-    "standard_charges": 4173,
-    "code|1": 523921,
-    "code|1|type": 523921,
-    "code|2": 461243,
-    "code|2|type": 461243,
-    "code|3": 345126,
-    "code|3|type": 345126,
-    "billing_class": 422970,
-    "setting": 523934,
-    "standard_charge|gross": 487180,
-    "standard_charge|discounted_cash": 476111,
-    "payer_name": 505421,
-    "plan_name": 505421,
-    "standard_charge|negotiated_dollar": 477464,
-    "standard_charge|negotiated_algorithm": 197409,
-    "count": 340559,
-    "standard_charge|methodology": 504752,
-    "standard_charge|min": 492565,
-    "standard_charge|max": 492565,
-    "count_of_compared_rates": 90648,
-    "additional_generic_notes": 385116,
-    "footnote": 44337,
-    "standard_charge|negotiated_percentage": 172327,
-    "median_amount": 30248,
-    "10th_percentile": 30058,
-    "90th_percentile": 30058,
-    "modifiers": 69855,
+    "description": 1138344,
+    "code_information": 7931,
+    "standard_charges": 7931,
+    "code|1": 1130400,
+    "code|1|type": 1130400,
+    "code|2": 994598,
+    "code|2|type": 994598,
+    "code|3": 785470,
+    "code|3|type": 785470,
+    "billing_class": 943128,
+    "setting": 1130413,
+    "standard_charge|gross": 1026448,
+    "standard_charge|discounted_cash": 969019,
+    "payer_name": 1105465,
+    "plan_name": 1105465,
+    "standard_charge|negotiated_dollar": 1027108,
+    "standard_charge|negotiated_algorithm": 271718,
+    "count": 556852,
+    "standard_charge|methodology": 1104796,
+    "standard_charge|min": 989929,
+    "standard_charge|max": 989929,
+    "count_of_compared_rates": 111185,
+    "additional_generic_notes": 688176,
+    "footnote": 54191,
+    "standard_charge|negotiated_percentage": 300379,
+    "median_amount": 47074,
+    "10th_percentile": 46062,
+    "90th_percentile": 46062,
+    "modifiers": 131777,
     "standard_charge|Aetna|Commercial|negotiated_dollar": 148,
     "standard_charge|Aetna | Commercial|methodology": 54,
     "standard_charge|BCBSNC|Commercial|negotiated_dollar": 54,
@@ -91,25 +91,27 @@
     "10th_percentile|HealthTeam |Commercial": 22,
     "90th_percentile|HealthTeam | Commercial": 22,
     "count|HealthTeam | Commercial": 22,
-    "standard_charge|MEDIGAP|MEDIGAP|negotiated_dollar": 338,
-    "standard_charge|MEDIGAP|MEDIGAP|methodology": 338,
+    "code|4": 7800,
+    "code|4|type": 7800,
+    "standard_charge|MEDIGAP|MEDIGAP|negotiated_dollar": 470,
+    "standard_charge|MEDIGAP|MEDIGAP|methodology": 470,
     "standard_charge|OTHER BLUE CROSS (100 Percent POM)|OTHER BLUE CROSS|negotiated_dollar": 338,
     "standard_charge|OTHER BLUE CROSS (100 Percent POM)|OTHER BLUE CROSS|methodology": 338,
-    "standard_charge|SELF-PAY|SELF-PAY|negotiated_dollar": 338,
-    "standard_charge|SELF-PAY|SELF-PAY|methodology": 338,
+    "standard_charge|SELF-PAY|SELF-PAY|negotiated_dollar": 404,
+    "standard_charge|SELF-PAY|SELF-PAY|methodology": 404,
     "standard_charge|AETNA|AETNA|negotiated_dollar": 168,
     "standard_charge|AETNA|AETNA|methodology": 168,
     "standard_charge|AETNA PEBTF|AETNA PEBTF|negotiated_dollar": 168,
     "standard_charge|AETNA PEBTF|AETNA PEBTF|methodology": 168,
-    "additional_payer_notes|CIGNA|CIGNA": 8,
+    "additional_payer_notes|CIGNA|CIGNA": 49,
     "standard_charge|INDEPENDENCE BLUE CROSS HMO PPO|INDEPENDENCE BLUE CROSS HMO PPO|negotiated_dollar": 169,
     "standard_charge|INDEPENDENCE BLUE CROSS HMO PPO|INDEPENDENCE BLUE CROSS HMO PPO|methodology": 169,
     "standard_charge|INDEPENDENCE BLUE CROSS HMO TIERED|INDEPENDENCE BLUE CROSS HMO TIERED|negotiated_dollar": 169,
     "standard_charge|INDEPENDENCE BLUE CROSS HMO TIERED|INDEPENDENCE BLUE CROSS HMO TIERED|methodology": 169,
     "standard_charge|INDEPENDENCE BLUE CROSS TRADITIONAL|INDEPENDENCE BLUE CROSS TRADITIONAL|negotiated_dollar": 169,
     "standard_charge|INDEPENDENCE BLUE CROSS TRADITIONAL|INDEPENDENCE BLUE CROSS TRADITIONAL|methodology": 169,
-    "standard_charge|TRICARE|TRICARE|negotiated_dollar": 169,
-    "standard_charge|TRICARE|TRICARE|methodology": 169,
+    "standard_charge|TRICARE|TRICARE|negotiated_dollar": 192,
+    "standard_charge|TRICARE|TRICARE|methodology": 192,
     "standard_charge|UNITED HEALTHCARE|UNITED HEALTHCARE|negotiated_dollar": 1040,
     "standard_charge|UNITED HEALTHCARE|UNITED HEALTHCARE|methodology": 1040,
     "standard_charge|AETNA|AETNA|negotiated_algorithm": 7,
@@ -121,10 +123,8 @@
     "standard_charge|AETNA PEBTF|AETNA PEBTF|negotiated_algorithm": 7,
     "count|AETNA PEBTF|AETNA PEBTF": 7,
     "additional_payer_notes|AETNA PEBTF|AETNA PEBTF": 8,
-    "standard_charge|CIGNA|CIGNA|negotiated_dollar": 161,
-    "standard_charge|CIGNA|CIGNA|methodology": 161,
-    "code|4": 1467,
-    "code|4|type": 1467,
+    "standard_charge|CIGNA|CIGNA|negotiated_dollar": 227,
+    "standard_charge|CIGNA|CIGNA|methodology": 227,
     "standard_charge|AETNA MEDICARE ADVANTAGE|AETNA MEDICARE ADVANTAGE|negotiated_dollar": 159,
     "standard_charge|AETNA MEDICARE ADVANTAGE|AETNA MEDICARE ADVANTAGE|methodology": 159,
     "standard_charge|AMBETTER|AMBETTER|negotiated_dollar": 159,
@@ -135,8 +135,8 @@
     "standard_charge|HIGHMARK INDEMNITY/MANAGED CARE|HIGHMARK INDEMNITY/MANAGED CARE|methodology": 159,
     "standard_charge|HIGHMARK-BC CENTRAL|HIGHMARK-BC CENTRAL|negotiated_dollar": 146,
     "standard_charge|HIGHMARK-BC CENTRAL|HIGHMARK-BC CENTRAL|methodology": 146,
-    "standard_charge|Medicare|Medicare|negotiated_dollar": 159,
-    "standard_charge|Medicare|Medicare|methodology": 159,
+    "standard_charge|Medicare|Medicare|negotiated_dollar": 182,
+    "standard_charge|Medicare|Medicare|methodology": 182,
     "standard_charge|OTHER BLUE CROSS (100 Percent POM)|OTHER BLUE CROSS (100 Percent POM)|negotiated_dollar": 159,
     "standard_charge|OTHER BLUE CROSS (100 Percent POM)|OTHER BLUE CROSS (100 Percent POM)|methodology": 159,
     "standard_charge|OTHER BLUE CROSS MED ADV|OTHER BLUE CROSS MED ADV|negotiated_dollar": 159,
@@ -147,6 +147,50 @@
     "90th_percentile|UNITED HEALTHCARE|UNITED HEALTHCARE": 11,
     "count|UNITED HEALTHCARE|UNITED HEALTHCARE": 586,
     "additional_payer_notes|UNITED HEALTHCARE|UNITED HEALTHCARE": 828,
+    "standard_charge|Aetna|Commercial/HMO/PPO/POS|negotiated_dollar": 132,
+    "standard_charge|Aetna|Commercial/HMO/PPO/POS|methodology": 132,
+    "standard_charge|BCBS|Commercial/HMO/PPO/Select|negotiated_dollar": 126,
+    "standard_charge|BCBS|Commercial/HMO/PPO/Select|methodology": 126,
+    "standard_charge|BCBS|Managed Medicaid|negotiated_dollar": 33,
+    "standard_charge|BCBS|Managed Medicaid|methodology": 33,
+    "standard_charge|BCBS|Value|negotiated_dollar": 33,
+    "standard_charge|BCBS|Value|methodology": 33,
+    "standard_charge|Carolina Complete Health|Managed Medicaid|negotiated_dollar": 33,
+    "standard_charge|Carolina Complete Health|Managed Medicaid|methodology": 33,
+    "standard_charge|Cigna|Commercial/HMO/PPO|negotiated_dollar": 33,
+    "standard_charge|Cigna|Commercial/HMO/PPO|methodology": 33,
+    "standard_charge|MedCost|negotiated_dollar": 33,
+    "standard_charge|MedCost|methodology": 33,
+    "standard_charge|United Healthcare|Commercial/EPO/PPO|negotiated_dollar": 31,
+    "standard_charge|United Healthcare|Commercial/EPO/PPO|methodology": 31,
+    "standard_charge|United Healthcare|Options|negotiated_dollar": 32,
+    "standard_charge|United Healthcare|Options|methodology": 32,
+    "standard_charge|Vaya|Managed Medicaid|negotiated_dollar": 33,
+    "standard_charge|Vaya|Managed Medicaid|methodology": 33,
+    "standard_charge|Wellcare|Managed Medicaid|negotiated_dollar": 33,
+    "standard_charge|Wellcare|Managed Medicaid|methodology": 33,
+    "standard_charge|Ambetter|negotiated_dollar": 26,
+    "standard_charge|Ambetter|methodology": 26,
+    "standard_charge|Humana|Medicare Advantage|negotiated_dollar": 675,
+    "standard_charge|Humana|Medicare Advantage|methodology": 679,
+    "standard_charge|United Healthcare|Medicare Advantage|negotiated_dollar": 675,
+    "standard_charge|United Healthcare|Medicare Advantage|methodology": 679,
+    "standard_charge|Wellcare|Medicare Advantage|negotiated_dollar": 19,
+    "standard_charge|Wellcare|Medicare Advantage|methodology": 19,
+    "standard_charge|Aetna|Commercial/HMO/PPO/POS|negotiated_percentage": 81,
+    "standard_charge|Aetna|Commercial/HMO/PPO/POS|negotiated_algorithm": 51,
+    "count|Aetna|Commercial/HMO/PPO/POS": 99,
+    "additional_payer_notes|Aetna|Commercial/HMO/PPO/POS": 99,
+    "standard_charge|BCBS|Commercial/HMO/PPO/Select|negotiated_percentage": 61,
+    "standard_charge|BCBS|Commercial/HMO/PPO/Select|negotiated_algorithm": 65,
+    "count|BCBS|Commercial/HMO/PPO/Select": 93,
+    "additional_payer_notes|BCBS|Commercial/HMO/PPO/Select": 93,
+    "median_amount|Aetna|Commercial/HMO/PPO/POS": 19,
+    "10th_percentile|Aetna|Commercial/HMO/PPO/POS": 19,
+    "90th_percentile|Aetna|Commercial/HMO/PPO/POS": 19,
+    "median_amount|BCBS|Commercial/HMO/PPO/Select": 12,
+    "10th_percentile|BCBS|Commercial/HMO/PPO/Select": 12,
+    "90th_percentile|BCBS|Commercial/HMO/PPO/Select": 12,
     "standard_charge|AETNA|AETNA HMO/EPO|negotiated_dollar": 729,
     "standard_charge|AETNA|AETNA HMO/EPO|negotiated_percentage": 666,
     "count|AETNA|AETNA HMO/EPO": 666,
@@ -257,10 +301,10 @@
     "count|FIRST CHOICE HEALTH|HEALTHCOMP TPA": 194,
     "standard_charge|FIRST CHOICE HEALTH|HEALTHCOMP TPA|methodology": 354,
     "additional_payer_notes|FIRST CHOICE HEALTH|HEALTHCOMP TPA": 326,
-    "standard_charge|GEHA|GEHA|negotiated_dollar": 872,
+    "standard_charge|GEHA|GEHA|negotiated_dollar": 895,
     "standard_charge|GEHA|GEHA|negotiated_percentage": 570,
     "count|GEHA|GEHA": 570,
-    "standard_charge|GEHA|GEHA|methodology": 872,
+    "standard_charge|GEHA|GEHA|methodology": 895,
     "additional_payer_notes|GEHA|GEHA": 812,
     "standard_charge|MERITAIN HEALTH|MERITAIN HEALTH|negotiated_dollar": 588,
     "standard_charge|MERITAIN HEALTH|MERITAIN HEALTH|negotiated_percentage": 410,
@@ -1363,8 +1407,8 @@
     "count|UNITED HEALTHCARE|SUREST": 268,
     "standard_charge|UNITED HEALTHCARE|SUREST|methodology": 398,
     "additional_payer_notes|UNITED HEALTHCARE|SUREST": 338,
-    "standard_charge|AARP|AARP|negotiated_dollar": 96,
-    "standard_charge|AARP|AARP|methodology": 96,
+    "standard_charge|AARP|AARP|negotiated_dollar": 119,
+    "standard_charge|AARP|AARP|methodology": 119,
     "median_amount|ALLEGIANCE|CIGNA SCLHS EMPLOYEES": 42,
     "10th_percentile|ALLEGIANCE|CIGNA SCLHS EMPLOYEES": 42,
     "90th_percentile|ALLEGIANCE|CIGNA SCLHS EMPLOYEES": 42,
@@ -1517,8 +1561,8 @@
     "count|UofU|Health Plus Marketplace": 100,
     "standard_charge|UofU|Health Plus Marketplace|methodology": 100,
     "additional_payer_notes|UofU|Health Plus Marketplace": 100,
-    "standard_charge|Tricare|Tricare|negotiated_dollar": 49,
-    "standard_charge|Tricare|Tricare|methodology": 49,
+    "standard_charge|Tricare|Tricare|negotiated_dollar": 103,
+    "standard_charge|Tricare|Tricare|methodology": 103,
     "standard_charge|OptumHealth Medicaid|Behavioral Health|negotiated_dollar": 1,
     "standard_charge|OptumHealth Medicaid|Behavioral Health|methodology": 1,
     "standard_charge|Deseret Mutual|Connected Utah|negotiated_dollar": 264,
@@ -1627,15 +1671,125 @@
     "standard_charge|Geisinger|Medicaid|methodology": 102,
     "standard_charge|US|Family|Health|Plan|negotiated_dollar": 94,
     "standard_charge|US|Family|Health|Plan|methodology": 102,
-    "location_internal": 258999,
-    "contract_internal": 258999,
-    "LPP_ID_internal": 33876,
-    "pricing_detail_internal": 258999,
-    "xr_detail_internal": 258999,
-    "count_internal\"": 96733,
+    "additional_payer_notes": 7745,
+    "location_internal": 412216,
+    "contract_internal": 412216,
+    "LPP_ID_internal": 113773,
+    "pricing_detail_internal": 502772,
+    "xr_detail_internal": 502772,
+    "count_internal\"": 196800,
     "count_internal": 135914,
-    "additional_generic_notes_with_LPP": 6827,
-    "algorithm_factors_internal": 6197,
+    "additional_generic_notes_with_LPP": 35065,
+    "algorithm_factors_internal": 30878,
+    "standard_charge|Aetna Direct/Indirect Network|Aetna Direct/Indirect Network (N R)|negotiated_dollar": 340,
+    "standard_charge|Aetna Direct/Indirect Network|Aetna Direct/Indirect Network (N R)|methodology": 340,
+    "standard_charge|Aetna|Aetna Elevate (N R)|negotiated_dollar": 340,
+    "standard_charge|Aetna|Aetna Elevate (N R)|methodology": 340,
+    "standard_charge|Aetna|Aetna Performance (N R)|negotiated_dollar": 340,
+    "standard_charge|Aetna|Aetna Performance (N R)|methodology": 340,
+    "standard_charge|All Other Contracted Care (A B C D E G H N O R S U)|All Other Contracted Care (A B C D M H N O R S U V)|negotiated_dollar": 340,
+    "standard_charge|All Other Contracted Care (A B C D E G H N O R S U)|All Other Contracted Care (A B C D M H N O R S U V)|methodology": 340,
+    "standard_charge|Americas PPO (Araz) (B D N H O R S)|Americas PPO (Araz) (B D N H O R S V)|negotiated_dollar": 340,
+    "standard_charge|Americas PPO (Araz) (B D N H O R S)|Americas PPO (Araz) (B D N H O R S V)|methodology": 340,
+    "standard_charge|Americas PPO (Araz)(B D N O R S V)|Americas PPO (Araz)(B D N O R S V)|negotiated_dollar": 340,
+    "standard_charge|Americas PPO (Araz)(B D N O R S V)|Americas PPO (Araz)(B D N O R S V)|methodology": 340,
+    "standard_charge|First Health (A C E G H U B D N O R S)|First Health (ABDMNOSURV)|negotiated_dollar": 340,
+    "standard_charge|First Health (A C E G H U B D N O R S)|First Health (ABDMNOSURV)|methodology": 340,
+    "standard_charge|Medica UBH (N)|Medica UBH (N)|negotiated_dollar": 158,
+    "standard_charge|Medica UBH (N)|Medica UBH (N)|methodology": 158,
+    "standard_charge|All Other Medicaid|All Other Medicaid (N)|negotiated_dollar": 79,
+    "standard_charge|All Other Medicaid|All Other Medicaid (N)|methodology": 79,
+    "standard_charge|Medicare Other|All Other Medicare (N)|negotiated_dollar": 79,
+    "standard_charge|Medicare Other|All Other Medicare (N)|methodology": 79,
+    "standard_charge|BCBS|BC AEHP (N)|negotiated_dollar": 79,
+    "standard_charge|BCBS|BC AEHP (N)|negotiated_algorithm": 79,
+    "standard_charge|BCBS|BC AEHP (N)|methodology": 79,
+    "median_amount|BCBS|BC AEHP (N)": 29,
+    "10th_percentile|BCBS|BC AEHP (N)": 29,
+    "90th_percentile|BCBS|BC AEHP (N)": 29,
+    "count|BCBS|BC AEHP (N)": 79,
+    "additional_payer_notes|BCBS|BC AEHP (N)": 79,
+    "standard_charge|BC AWARE/Blue Plus (NR)|BC AWARE/Blue Plus (NR)|negotiated_dollar": 170,
+    "standard_charge|BC AWARE/Blue Plus (NR)|BC AWARE/Blue Plus (NR)|negotiated_algorithm": 170,
+    "standard_charge|BC AWARE/Blue Plus (NR)|BC AWARE/Blue Plus (NR)|methodology": 170,
+    "count|BC AWARE/Blue Plus (NR)|BC AWARE/Blue Plus (NR)": 170,
+    "additional_payer_notes|BC AWARE/Blue Plus (NR)|BC AWARE/Blue Plus (NR)": 170,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)|negotiated_dollar": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)|negotiated_algorithm": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)|methodology": 79,
+    "median_amount|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)": 35,
+    "10th_percentile|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)": 35,
+    "90th_percentile|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)": 35,
+    "count|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)": 79,
+    "additional_payer_notes|Blue Cross Blue Shield of Minnesota|BC High Value/Performance Network (N)": 79,
+    "standard_charge|BCBS|BC Medicare (N)|negotiated_dollar": 79,
+    "standard_charge|BCBS|BC Medicare (N)|methodology": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC PMAP (N)|negotiated_dollar": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC PMAP (N)|negotiated_algorithm": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC PMAP (N)|methodology": 79,
+    "median_amount|Blue Cross Blue Shield of Minnesota|BC PMAP (N)": 33,
+    "10th_percentile|Blue Cross Blue Shield of Minnesota|BC PMAP (N)": 33,
+    "90th_percentile|Blue Cross Blue Shield of Minnesota|BC PMAP (N)": 33,
+    "count|Blue Cross Blue Shield of Minnesota|BC PMAP (N)": 79,
+    "additional_payer_notes|Blue Cross Blue Shield of Minnesota|BC PMAP (N)": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC Premier(N)|negotiated_dollar": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC Premier(N)|negotiated_algorithm": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC Premier(N)|methodology": 79,
+    "median_amount|Blue Cross Blue Shield of Minnesota|BC Premier(N)": 26,
+    "10th_percentile|Blue Cross Blue Shield of Minnesota|BC Premier(N)": 26,
+    "90th_percentile|Blue Cross Blue Shield of Minnesota|BC Premier(N)": 26,
+    "count|Blue Cross Blue Shield of Minnesota|BC Premier(N)": 79,
+    "additional_payer_notes|Blue Cross Blue Shield of Minnesota|BC Premier(N)": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)|negotiated_dollar": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)|negotiated_algorithm": 79,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)|methodology": 79,
+    "median_amount|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)": 30,
+    "10th_percentile|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)": 30,
+    "90th_percentile|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)": 30,
+    "count|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)": 79,
+    "additional_payer_notes|Blue Cross Blue Shield of Minnesota|BC State Health Plan (N)": 79,
+    "standard_charge|HPI-CIGNA|HPI CIGNA (N)|negotiated_dollar": 79,
+    "standard_charge|HPI-CIGNA|HPI CIGNA (N)|negotiated_algorithm": 79,
+    "standard_charge|HPI-CIGNA|HPI CIGNA (N)|methodology": 79,
+    "median_amount|HPI-CIGNA|HPI CIGNA (N)": 27,
+    "10th_percentile|HPI-CIGNA|HPI CIGNA (N)": 27,
+    "90th_percentile|HPI-CIGNA|HPI CIGNA (N)": 27,
+    "count|HPI-CIGNA|HPI CIGNA (N)": 79,
+    "additional_payer_notes|HPI-CIGNA|HPI CIGNA (N)": 79,
+    "standard_charge|Medica Health System|Medica Dual Solutions (R)|negotiated_dollar": 170,
+    "standard_charge|Medica Health System|Medica Dual Solutions (R)|methodology": 170,
+    "standard_charge|Medica|Medica Medicare (R)|negotiated_dollar": 170,
+    "standard_charge|Medica|Medica Medicare (R)|methodology": 170,
+    "standard_charge|Medica Health System|Medica PMAP (N)|negotiated_dollar": 77,
+    "standard_charge|Medica Health System|Medica PMAP (N)|methodology": 77,
+    "standard_charge|Medica UBH PMAP|Medica UBH PMAP (N)|negotiated_dollar": 79,
+    "standard_charge|Medica UBH PMAP|Medica UBH PMAP (N)|methodology": 79,
+    "standard_charge|Medicaid|Medicaid MA (N)|negotiated_dollar": 79,
+    "standard_charge|Medicaid|Medicaid MA (N)|negotiated_algorithm": 79,
+    "standard_charge|Medicaid|Medicaid MA (N)|methodology": 79,
+    "median_amount|Medicaid|Medicaid MA (N)": 33,
+    "10th_percentile|Medicaid|Medicaid MA (N)": 33,
+    "90th_percentile|Medicaid|Medicaid MA (N)": 33,
+    "count|Medicaid|Medicaid MA (N)": 79,
+    "additional_payer_notes|Medicaid|Medicaid MA (N)": 79,
+    "standard_charge|South Country Health Alliance|SCHA MSHO (N)|negotiated_dollar": 79,
+    "standard_charge|South Country Health Alliance|SCHA MSHO (N)|methodology": 79,
+    "standard_charge|South Country Health Alliance|SCHA PMAP (N)|negotiated_dollar": 79,
+    "standard_charge|South Country Health Alliance|SCHA PMAP (N)|negotiated_algorithm": 79,
+    "standard_charge|South Country Health Alliance|SCHA PMAP (N)|methodology": 79,
+    "count|South Country Health Alliance|SCHA PMAP (N)": 79,
+    "additional_payer_notes|South Country Health Alliance|SCHA PMAP (N)": 79,
+    "standard_charge|UCare PMAP (A B C D E G N O S U R H)|UCare PMAP (ABDMNORSUV)|negotiated_dollar": 170,
+    "standard_charge|UCare PMAP (A B C D E G N O S U R H)|UCare PMAP (ABDMNORSUV)|methodology": 170,
+    "standard_charge|Allina Aetna Medicare (N)|Allina Aetna Medicare (N)|negotiated_dollar": 75,
+    "standard_charge|Allina Aetna Medicare (N)|Allina Aetna Medicare (N)|methodology": 75,
+    "standard_charge|Medicare|Medicare (N)|negotiated_dollar": 75,
+    "standard_charge|Medicare|Medicare (N)|methodology": 75,
+    "additional_payer_notes||Medica Applause (N R)": 4,
+    "additional_payer_notes|Medica Choice (N R)|Medica Choice (N R)": 4,
+    "additional_payer_notes|Medica|Medica Essentials (N R)": 4,
+    "additional_payer_notes|Medica MHPS|Medica MHPS (N R)": 4,
+    "additional_payer_notes|Medica Health System|Medica PMAP (N)": 2,
     "standard_charge|Aetna Better Health|Managed Medicaid|negotiated_algorithm": 661,
     "count|Aetna Better Health|Managed Medicaid": 661,
     "standard_charge|Aetna Better Health|Managed Medicaid|methodology": 661,
@@ -1775,8 +1929,6 @@
     "count|Humana|Healthy Horizons Medicaid Transplant Agre": 661,
     "standard_charge|Humana|Healthy Horizons Medicaid Transplant Agre|methodology": 661,
     "additional_payer_notes|Humana|Healthy Horizons Medicaid Transplant Agre": 661,
-    "standard_charge|Humana|Medicare Advantage|negotiated_dollar": 657,
-    "standard_charge|Humana|Medicare Advantage|methodology": 661,
     "additional_payer_notes|Humana|Medicare Advantage": 661,
     "count|Humana|Transplant Agreement": 661,
     "additional_payer_notes|Humana|Transplant Agreement": 661,
@@ -1806,8 +1958,6 @@
     "standard_charge|United Healthcare|All Payer Appendix|negotiated_dollar": 440,
     "standard_charge|United Healthcare|All Payer Appendix|methodology": 509,
     "additional_payer_notes|United Healthcare|All Payer Appendix": 661,
-    "standard_charge|United Healthcare|Medicare Advantage|negotiated_dollar": 657,
-    "standard_charge|United Healthcare|Medicare Advantage|methodology": 661,
     "additional_payer_notes|United Healthcare|Medicare Advantage": 661,
     "count|Valir Pace Foundation|Governmental": 661,
     "additional_payer_notes|Valir Pace Foundation|Governmental": 661,
@@ -1926,8 +2076,8 @@
     "standard_charge | gross": 691,
     "standard_charge | discounted_cash": 691,
     "standard_charge | negotiated_dollar": 669,
-    "standard_charge | min": 669,
-    "standard_charge | max": 669,
+    "standard_charge | min": 89025,
+    "standard_charge | max": 89025,
     "standard_charge | methodology": 669,
     "standard_charge|AETNA_MEDICARE_OPEN_PLAN|MEDICARE|negotiated_dollar": 72,
     "standard_charge|AETNA_MEDICARE_OPEN_PLAN|MEDICARE|negotiated_percentage": 72,
@@ -1997,6 +2147,135 @@
     "10th_percentile|UNITED_HEALTHCARE_MEDICARE_SOLUTIONS_PLAN|MEDICARE": 3,
     "90th_percentile|UNITED_HEALTHCARE_MEDICARE_SOLUTIONS_PLAN|MEDICARE": 3,
     "drug_information": 1,
+    "standard_charge|Aetna|Aetna|negotiated_dollar": 178,
+    "standard_charge|Aetna|Aetna|methodology": 178,
+    "standard_charge|CHS Group Health Plan BCBST|CHS Group Health Plan BCBST|negotiated_dollar": 101,
+    "standard_charge|CHS Group Health Plan BCBST|CHS Group Health Plan BCBST|methodology": 101,
+    "standard_charge|Cigna|Cigna ALL|negotiated_dollar": 101,
+    "standard_charge|Cigna|Cigna ALL|methodology": 101,
+    "standard_charge|Coventry|Coventry|negotiated_dollar": 101,
+    "standard_charge|Coventry|Coventry|methodology": 101,
+    "standard_charge|Evolutions Healthcare Systems|Evolutions Healthcare Systems|negotiated_dollar": 101,
+    "standard_charge|Evolutions Healthcare Systems|Evolutions Healthcare Systems|methodology": 101,
+    "standard_charge|First Health|First Health|negotiated_dollar": 101,
+    "standard_charge|First Health|First Health|methodology": 101,
+    "standard_charge|Healthcare Highways|Healthcare Highways|negotiated_dollar": 101,
+    "standard_charge|Healthcare Highways|Healthcare Highways|methodology": 101,
+    "standard_charge|Multiplan|Multiplan Complementary|negotiated_dollar": 101,
+    "standard_charge|Multiplan|Multiplan Complementary|methodology": 101,
+    "standard_charge|Multiplan|MultiPlan Primary|negotiated_dollar": 101,
+    "standard_charge|Multiplan|MultiPlan Primary|methodology": 101,
+    "standard_charge|NODE VA|NODE VA|negotiated_dollar": 101,
+    "standard_charge|NODE VA|NODE VA|methodology": 101,
+    "standard_charge|Preferred Community Choice PPO|Preferred Community Choice PPO|negotiated_dollar": 101,
+    "standard_charge|Preferred Community Choice PPO|Preferred Community Choice PPO|methodology": 101,
+    "standard_charge|Self Pay|Self Pay|negotiated_dollar": 101,
+    "standard_charge|Self Pay|Self Pay|methodology": 101,
+    "standard_charge|Aetna BetterHealth Medicaid OK|Aetna BetterHealth Medicaid OK|negotiated_dollar": 52,
+    "standard_charge|Aetna BetterHealth Medicaid OK|Aetna BetterHealth Medicaid OK|methodology": 52,
+    "standard_charge|Centene OK Complete Health Medicaid OK|Centene OK Complete Health Medicaid OK|negotiated_dollar": 52,
+    "standard_charge|Centene OK Complete Health Medicaid OK|Centene OK Complete Health Medicaid OK|methodology": 52,
+    "standard_charge|GlobalHealth|GlobalHealth|negotiated_dollar": 52,
+    "standard_charge|GlobalHealth|GlobalHealth|methodology": 52,
+    "standard_charge|HealthChoice|HealthChoice|negotiated_dollar": 52,
+    "standard_charge|HealthChoice|HealthChoice|methodology": 52,
+    "standard_charge|Humana Healthy Horizons Medicaid OK|Humana Healthy Horizons Medicaid OK|negotiated_dollar": 52,
+    "standard_charge|Humana Healthy Horizons Medicaid OK|Humana Healthy Horizons Medicaid OK|methodology": 52,
+    "standard_charge|NODE BCBSOK Native Blue MCR ADV|NODE BCBSOK Native Blue MCR ADV|negotiated_dollar": 52,
+    "standard_charge|NODE BCBSOK Native Blue MCR ADV|NODE BCBSOK Native Blue MCR ADV|methodology": 52,
+    "standard_charge|NODE Global Health MCR ADV|NODE Global Health MCR ADV|negotiated_dollar": 52,
+    "standard_charge|NODE Global Health MCR ADV|NODE Global Health MCR ADV|methodology": 52,
+    "standard_charge|NODE Humana MCR ADV|NODE Humana MCR ADV|negotiated_dollar": 52,
+    "standard_charge|NODE Humana MCR ADV|NODE Humana MCR ADV|methodology": 52,
+    "standard_charge|NODE Indian Health Service Managed Care|NODE Indian Health Service Managed Care|negotiated_dollar": 52,
+    "standard_charge|NODE Indian Health Service Managed Care|NODE Indian Health Service Managed Care|methodology": 52,
+    "standard_charge|NODE Medicare Non Par|NODE Medicare Non Par|negotiated_dollar": 52,
+    "standard_charge|NODE Medicare Non Par|NODE Medicare Non Par|methodology": 52,
+    "standard_charge|NODE Medicare Traditional|NODE Medicare Traditional|negotiated_dollar": 52,
+    "standard_charge|NODE Medicare Traditional|NODE Medicare Traditional|methodology": 52,
+    "standard_charge|NODE UHC MCR ADV|NODE UHC MCR ADV|negotiated_dollar": 51,
+    "standard_charge|NODE UHC MCR ADV|NODE UHC MCR ADV|methodology": 51,
+    "standard_charge|NODE United Optum VA CCN|NODE United Optum VA CCN|negotiated_dollar": 51,
+    "standard_charge|NODE United Optum VA CCN|NODE United Optum VA CCN|methodology": 51,
+    "standard_charge|NODE US Dept of Labor|NODE US Dept of Labor|negotiated_dollar": 52,
+    "standard_charge|NODE US Dept of Labor|NODE US Dept of Labor|methodology": 52,
+    "standard_charge|OK Medicaid|OK Medicaid Non Par|negotiated_dollar": 52,
+    "standard_charge|OK Medicaid|OK Medicaid Non Par|methodology": 52,
+    "standard_charge|OK Medicaid|OK Medicaid SoonerCare|negotiated_dollar": 52,
+    "standard_charge|OK Medicaid|OK Medicaid SoonerCare|methodology": 52,
+    "standard_charge|PHCS|PHCS Savility|negotiated_dollar": 52,
+    "standard_charge|PHCS|PHCS Savility|methodology": 52,
+    "standard_charge|UHC|UHC APA|negotiated_dollar": 51,
+    "standard_charge|UHC|UHC APA|methodology": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueChoice|negotiated_dollar": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueChoice|negotiated_algorithm": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueChoice|methodology": 51,
+    "count|BCBSOK|BCBSOK BlueChoice": 51,
+    "additional_payer_notes|BCBSOK|BCBSOK BlueChoice": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueLincs|negotiated_dollar": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueLincs|negotiated_algorithm": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueLincs|methodology": 51,
+    "count|BCBSOK|BCBSOK BlueLincs": 51,
+    "additional_payer_notes|BCBSOK|BCBSOK BlueLincs": 51,
+    "standard_charge|BCBSOK|BCBSOK BluePreferred|negotiated_dollar": 51,
+    "standard_charge|BCBSOK|BCBSOK BluePreferred|negotiated_algorithm": 51,
+    "standard_charge|BCBSOK|BCBSOK BluePreferred|methodology": 51,
+    "count|BCBSOK|BCBSOK BluePreferred": 51,
+    "additional_payer_notes|BCBSOK|BCBSOK BluePreferred": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueTraditional|negotiated_dollar": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueTraditional|negotiated_algorithm": 51,
+    "standard_charge|BCBSOK|BCBSOK BlueTraditional|methodology": 51,
+    "count|BCBSOK|BCBSOK BlueTraditional": 51,
+    "additional_payer_notes|BCBSOK|BCBSOK BlueTraditional": 51,
+    "standard_charge|NODE ChampVA|NODE ChampVA|negotiated_dollar": 47,
+    "standard_charge|NODE ChampVA|NODE ChampVA|methodology": 47,
+    "standard_charge|NODE Tricare|NODE Tricare|negotiated_dollar": 47,
+    "standard_charge|NODE Tricare|NODE Tricare|methodology": 47,
+    "standard_charge|OK Work Comp|OK Work Comp|negotiated_dollar": 19,
+    "standard_charge|OK Work Comp|OK Work Comp|methodology": 19,
+    "standard_charge|UHC|UHC APA|negotiated_algorithm": 9,
+    "count|UHC|UHC APA": 9,
+    "additional_payer_notes|UHC|UHC APA": 9,
+    "median_amount|Aetna|Aetna": 1,
+    "10th_percentile|Aetna|Aetna": 1,
+    "90th_percentile|Aetna|Aetna": 1,
+    "count|Aetna|Aetna": 3,
+    "count|CHS Group Health Plan BCBST|CHS Group Health Plan BCBST": 3,
+    "additional_payer_notes|CHS Group Health Plan BCBST|CHS Group Health Plan BCBST": 3,
+    "count|Cigna|Cigna ALL": 3,
+    "additional_payer_notes|Cigna|Cigna ALL": 3,
+    "count|Coventry|Coventry": 3,
+    "additional_payer_notes|Coventry|Coventry": 3,
+    "count|Evolutions Healthcare Systems|Evolutions Healthcare Systems": 3,
+    "additional_payer_notes|Evolutions Healthcare Systems|Evolutions Healthcare Systems": 3,
+    "count|First Health|First Health": 3,
+    "additional_payer_notes|First Health|First Health": 3,
+    "count|GlobalHealth|GlobalHealth": 3,
+    "additional_payer_notes|GlobalHealth|GlobalHealth": 3,
+    "count|Healthcare Highways|Healthcare Highways": 3,
+    "additional_payer_notes|Healthcare Highways|Healthcare Highways": 3,
+    "standard_charge|Multiplan|Multiplan Complementary|negotiated_algorithm": 3,
+    "count|Multiplan|Multiplan Complementary": 3,
+    "additional_payer_notes|Multiplan|Multiplan Complementary": 3,
+    "standard_charge|Multiplan|MultiPlan Primary|negotiated_algorithm": 3,
+    "count|Multiplan|MultiPlan Primary": 3,
+    "additional_payer_notes|Multiplan|MultiPlan Primary": 3,
+    "standard_charge|OK Work Comp|OK Work Comp|negotiated_algorithm": 3,
+    "count|OK Work Comp|OK Work Comp": 3,
+    "additional_payer_notes|OK Work Comp|OK Work Comp": 3,
+    "count|PHCS|PHCS Savility": 3,
+    "additional_payer_notes|PHCS|PHCS Savility": 3,
+    "count|Preferred Community Choice PPO|Preferred Community Choice PPO": 3,
+    "additional_payer_notes|Preferred Community Choice PPO|Preferred Community Choice PPO": 3,
+    "count|Self Pay|Self Pay": 3,
+    "additional_payer_notes|Self Pay|Self Pay": 3,
+    "median_amount|BCBSOK|BCBSOK BluePreferred": 1,
+    "10th_percentile|BCBSOK|BCBSOK BluePreferred": 1,
+    "90th_percentile|BCBSOK|BCBSOK BluePreferred": 1,
+    "median_amount|BCBSOK|BCBSOK BlueTraditional": 1,
+    "10th_percentile|BCBSOK|BCBSOK BlueTraditional": 1,
+    "90th_percentile|BCBSOK|BCBSOK BlueTraditional": 1,
+    "additional_payer_notes|Aetna|Aetna": 19,
     "standard_charge|Aetna Medicare Advantage|Default|methodology": 95,
     "standard_charge|Aetna Medicare Advantage|Default|negotiated_percentage": 95,
     "estimated_amount|Aetna Medicare Advantage|Default": 95,
@@ -2041,6 +2320,456 @@
     "standard_charge|UHC Group Medicare Advantage|Default|negotiated_percentage": 95,
     "estimated_amount|UHC Group Medicare Advantage|Default": 95,
     "additional_payer_notes|UHC Group Medicare Advantage|Default": 95,
+    "additional_payer_notes|AARP|AARP": 23,
+    "standard_charge|AARP MEDICARE ADVANTAGE|AARP MEDICARE ADVANTAGE|negotiated_dollar": 23,
+    "standard_charge|AARP MEDICARE ADVANTAGE|AARP MEDICARE ADVANTAGE|methodology": 23,
+    "additional_payer_notes|AARP MEDICARE ADVANTAGE|AARP MEDICARE ADVANTAGE": 23,
+    "standard_charge|AARP Medicare Complete|AARP Medicare Complete|negotiated_dollar": 23,
+    "standard_charge|AARP Medicare Complete|AARP Medicare Complete|methodology": 23,
+    "additional_payer_notes|AARP Medicare Complete|AARP Medicare Complete": 23,
+    "standard_charge|AARP Supplemental|AARP Supplemental|negotiated_dollar": 23,
+    "standard_charge|AARP Supplemental|AARP Supplemental|methodology": 23,
+    "additional_payer_notes|AARP Supplemental|AARP Supplemental": 23,
+    "standard_charge|AETNA ENTERGY|AETNA ENTERGY|negotiated_dollar": 23,
+    "standard_charge|AETNA ENTERGY|AETNA ENTERGY|methodology": 23,
+    "standard_charge|AETNA INS|AETNA INS|negotiated_dollar": 23,
+    "standard_charge|AETNA INS|AETNA INS|methodology": 23,
+    "standard_charge|AETNA LIFE INSURANCE COMP|AETNA LIFE INSURANCE COMP|negotiated_dollar": 23,
+    "standard_charge|AETNA LIFE INSURANCE COMP|AETNA LIFE INSURANCE COMP|methodology": 23,
+    "standard_charge|AETNA MEDICARE|AETNA MEDICARE|negotiated_dollar": 23,
+    "standard_charge|AETNA MEDICARE|AETNA MEDICARE|methodology": 23,
+    "additional_payer_notes|AETNA MEDICARE|AETNA MEDICARE": 23,
+    "standard_charge|Aetna Medicare Advantage|Aetna Medicare Advantage|negotiated_dollar": 23,
+    "standard_charge|Aetna Medicare Advantage|Aetna Medicare Advantage|methodology": 23,
+    "additional_payer_notes|Aetna Medicare Advantage|Aetna Medicare Advantage": 23,
+    "standard_charge|AETNA SENIOR SUPL INS|AETNA SENIOR SUPL INS|negotiated_dollar": 23,
+    "standard_charge|AETNA SENIOR SUPL INS|AETNA SENIOR SUPL INS|methodology": 23,
+    "additional_payer_notes|AETNA SENIOR SUPL INS|AETNA SENIOR SUPL INS": 23,
+    "standard_charge|AETNA SENIOR SUPP|AETNA SENIOR SUPP|negotiated_dollar": 23,
+    "standard_charge|AETNA SENIOR SUPP|AETNA SENIOR SUPP|methodology": 23,
+    "additional_payer_notes|AETNA SENIOR SUPP|AETNA SENIOR SUPP": 23,
+    "standard_charge|AETNA SENIOR SUPPLEMENT|AETNA SENIOR SUPPLEMENT|negotiated_dollar": 23,
+    "standard_charge|AETNA SENIOR SUPPLEMENT|AETNA SENIOR SUPPLEMENT|methodology": 23,
+    "additional_payer_notes|AETNA SENIOR SUPPLEMENT|AETNA SENIOR SUPPLEMENT": 23,
+    "standard_charge|Aetna Senior Supplemental|Aetna Senior Supplemental|negotiated_dollar": 23,
+    "standard_charge|Aetna Senior Supplemental|Aetna Senior Supplemental|methodology": 23,
+    "additional_payer_notes|Aetna Senior Supplemental|Aetna Senior Supplemental": 23,
+    "standard_charge|AETNA US HEALTHCARE|AETNA US HEALTHCARE|negotiated_dollar": 23,
+    "standard_charge|AETNA US HEALTHCARE|AETNA US HEALTHCARE|methodology": 23,
+    "standard_charge|AETNASENIORPRODUCTS|AETNASENIORPRODUCTS|negotiated_dollar": 23,
+    "standard_charge|AETNASENIORPRODUCTS|AETNASENIORPRODUCTS|methodology": 23,
+    "additional_payer_notes|AETNASENIORPRODUCTS|AETNASENIORPRODUCTS": 23,
+    "standard_charge|All Savers|All Savers|negotiated_dollar": 23,
+    "standard_charge|All Savers|All Savers|methodology": 23,
+    "standard_charge|ALL SAVERS INSURANCE|ALL SAVERS INSURANCE|negotiated_dollar": 23,
+    "standard_charge|ALL SAVERS INSURANCE|ALL SAVERS INSURANCE|methodology": 23,
+    "standard_charge|Allegiance|Allegiance|negotiated_dollar": 23,
+    "standard_charge|Allegiance|Allegiance|methodology": 23,
+    "standard_charge|ALLIANZ RESOLUTION MANAGE|ALLIANZ RESOLUTION MANAGE|negotiated_dollar": 23,
+    "standard_charge|ALLIANZ RESOLUTION MANAGE|ALLIANZ RESOLUTION MANAGE|methodology": 23,
+    "additional_payer_notes|ALLIANZ RESOLUTION MANAGE|ALLIANZ RESOLUTION MANAGE": 23,
+    "standard_charge|ALLIED BENEFIT SYSTEM|ALLIED BENEFIT SYSTEM|negotiated_dollar": 23,
+    "standard_charge|ALLIED BENEFIT SYSTEM|ALLIED BENEFIT SYSTEM|methodology": 23,
+    "standard_charge|ALLWELL|ALLWELL|negotiated_dollar": 23,
+    "standard_charge|ALLWELL|ALLWELL|methodology": 23,
+    "additional_payer_notes|ALLWELL|ALLWELL": 23,
+    "standard_charge|Ambetter of Arkansas|Ambetter of Arkansas|negotiated_dollar": 23,
+    "standard_charge|Ambetter of Arkansas|Ambetter of Arkansas|methodology": 23,
+    "standard_charge|American Continental Life|American Continental Life|negotiated_dollar": 23,
+    "standard_charge|American Continental Life|American Continental Life|methodology": 23,
+    "standard_charge|AMERICO|AMERICO|negotiated_dollar": 23,
+    "standard_charge|AMERICO|AMERICO|methodology": 23,
+    "additional_payer_notes|AMERICO|AMERICO": 23,
+    "standard_charge|AMERICO MEDICARE SUPPL|AMERICO MEDICARE SUPPL|negotiated_dollar": 23,
+    "standard_charge|AMERICO MEDICARE SUPPL|AMERICO MEDICARE SUPPL|methodology": 23,
+    "additional_payer_notes|AMERICO MEDICARE SUPPL|AMERICO MEDICARE SUPPL": 23,
+    "standard_charge|AMERICO MEDICARE SUPPLEME|AMERICO MEDICARE SUPPLEME|negotiated_dollar": 23,
+    "standard_charge|AMERICO MEDICARE SUPPLEME|AMERICO MEDICARE SUPPLEME|methodology": 23,
+    "additional_payer_notes|AMERICO MEDICARE SUPPLEME|AMERICO MEDICARE SUPPLEME": 23,
+    "standard_charge|ANTHEM BLUE CROSS|ANTHEM BLUE CROSS|negotiated_dollar": 23,
+    "standard_charge|ANTHEM BLUE CROSS|ANTHEM BLUE CROSS|methodology": 23,
+    "standard_charge|APWU|APWU|negotiated_dollar": 23,
+    "standard_charge|APWU|APWU|methodology": 23,
+    "standard_charge|APWU HEALTH PLAN|APWU HEALTH PLAN|negotiated_dollar": 23,
+    "standard_charge|APWU HEALTH PLAN|APWU HEALTH PLAN|methodology": 23,
+    "standard_charge|ARKIDS-MEDICAID|ARKIDS-MEDICAID|negotiated_dollar": 21,
+    "standard_charge|ARKIDS-MEDICAID|ARKIDS-MEDICAID|methodology": 23,
+    "standard_charge|Bankers Fidelity|Bankers Fidelity|negotiated_dollar": 23,
+    "standard_charge|Bankers Fidelity|Bankers Fidelity|methodology": 23,
+    "additional_payer_notes|Bankers Fidelity|Bankers Fidelity": 23,
+    "standard_charge|Bankers Life and Casualty|Bankers Life and Casualty|negotiated_dollar": 23,
+    "standard_charge|Bankers Life and Casualty|Bankers Life and Casualty|methodology": 23,
+    "additional_payer_notes|Bankers Life and Casualty|Bankers Life and Casualty": 23,
+    "standard_charge|BCBS|BCBS|negotiated_dollar": 23,
+    "standard_charge|BCBS|BCBS|methodology": 23,
+    "standard_charge|BCBS IL PPO|BCBS IL PPO|negotiated_dollar": 23,
+    "standard_charge|BCBS IL PPO|BCBS IL PPO|methodology": 23,
+    "standard_charge|BCBS True Blue PPO|BCBS True Blue PPO|negotiated_dollar": 23,
+    "standard_charge|BCBS True Blue PPO|BCBS True Blue PPO|methodology": 23,
+    "standard_charge|BCBS WESTERN NEW YORK|BCBS WESTERN NEW YORK|negotiated_dollar": 23,
+    "standard_charge|BCBS WESTERN NEW YORK|BCBS WESTERN NEW YORK|methodology": 23,
+    "standard_charge|BCBS WESTERN NEW YORK MC|BCBS WESTERN NEW YORK MC|negotiated_dollar": 23,
+    "standard_charge|BCBS WESTERN NEW YORK MC|BCBS WESTERN NEW YORK MC|methodology": 23,
+    "additional_payer_notes|BCBS WESTERN NEW YORK MC|BCBS WESTERN NEW YORK MC": 23,
+    "standard_charge|BIND|BIND|negotiated_dollar": 23,
+    "standard_charge|BIND|BIND|methodology": 23,
+    "standard_charge|BLUE ADVANTAGE|BLUE ADVANTAGE|negotiated_dollar": 23,
+    "standard_charge|BLUE ADVANTAGE|BLUE ADVANTAGE|methodology": 23,
+    "standard_charge|BLUE CROSS|BLUE CROSS|negotiated_dollar": 23,
+    "standard_charge|BLUE CROSS|BLUE CROSS|methodology": 23,
+    "standard_charge|BLUE CROSS BLUE SHIELD|BLUE CROSS BLUE SHIELD|negotiated_dollar": 23,
+    "standard_charge|BLUE CROSS BLUE SHIELD|BLUE CROSS BLUE SHIELD|methodology": 23,
+    "standard_charge|BLUE CROSS BLUE SHIELD/AR|BLUE CROSS BLUE SHIELD/AR|negotiated_dollar": 23,
+    "standard_charge|BLUE CROSS BLUE SHIELD/AR|BLUE CROSS BLUE SHIELD/AR|methodology": 23,
+    "standard_charge|BLUE CROSS CALIFORNIA|BLUE CROSS CALIFORNIA|negotiated_dollar": 23,
+    "standard_charge|BLUE CROSS CALIFORNIA|BLUE CROSS CALIFORNIA|methodology": 23,
+    "standard_charge|BLUE CROSS FEDERAL|BLUE CROSS FEDERAL|negotiated_dollar": 23,
+    "standard_charge|BLUE CROSS FEDERAL|BLUE CROSS FEDERAL|methodology": 23,
+    "standard_charge|BLUE CROSS OF ARKANSAS|BLUE CROSS OF ARKANSAS|negotiated_dollar": 23,
+    "standard_charge|BLUE CROSS OF ARKANSAS|BLUE CROSS OF ARKANSAS|methodology": 23,
+    "standard_charge|BLUE CROSS OF MISSISSIPPI|BLUE CROSS OF MISSISSIPPI|negotiated_dollar": 23,
+    "standard_charge|BLUE CROSS OF MISSISSIPPI|BLUE CROSS OF MISSISSIPPI|methodology": 23,
+    "standard_charge|BMI BENEFITS LLC (UMR)|BMI BENEFITS LLC (UMR)|negotiated_dollar": 23,
+    "standard_charge|BMI BENEFITS LLC (UMR)|BMI BENEFITS LLC (UMR)|methodology": 23,
+    "standard_charge|CARE FIRST|CARE FIRST|negotiated_dollar": 23,
+    "standard_charge|CARE FIRST|CARE FIRST|methodology": 23,
+    "standard_charge|Cigna|Cigna|negotiated_dollar": 77,
+    "standard_charge|Cigna|Cigna|methodology": 77,
+    "standard_charge|CIGNA DME GOVERNMENT|CIGNA DME GOVERNMENT|negotiated_dollar": 23,
+    "standard_charge|CIGNA DME GOVERNMENT|CIGNA DME GOVERNMENT|methodology": 23,
+    "standard_charge|CIGNA HEALTHCARE|CIGNA HEALTHCARE|negotiated_dollar": 23,
+    "standard_charge|CIGNA HEALTHCARE|CIGNA HEALTHCARE|methodology": 23,
+    "standard_charge|CIGNA HEALTHSPRING|CIGNA HEALTHSPRING|negotiated_dollar": 23,
+    "standard_charge|CIGNA HEALTHSPRING|CIGNA HEALTHSPRING|methodology": 23,
+    "additional_payer_notes|CIGNA HEALTHSPRING|CIGNA HEALTHSPRING": 23,
+    "standard_charge|CIGNA LOYAL AMERICAN LIFE|CIGNA LOYAL AMERICAN LIFE|negotiated_dollar": 23,
+    "standard_charge|CIGNA LOYAL AMERICAN LIFE|CIGNA LOYAL AMERICAN LIFE|methodology": 23,
+    "standard_charge|Cigna Medicare Supplement|Cigna Medicare Supplement|negotiated_dollar": 23,
+    "standard_charge|Cigna Medicare Supplement|Cigna Medicare Supplement|methodology": 23,
+    "additional_payer_notes|Cigna Medicare Supplement|Cigna Medicare Supplement": 23,
+    "standard_charge|CIGNA PPO|CIGNA PPO|negotiated_dollar": 89,
+    "standard_charge|CIGNA PPO|CIGNA PPO|methodology": 89,
+    "standard_charge|CIGNA SUPP PLAN|CIGNA SUPP PLAN|negotiated_dollar": 23,
+    "standard_charge|CIGNA SUPP PLAN|CIGNA SUPP PLAN|methodology": 23,
+    "additional_payer_notes|CIGNA SUPP PLAN|CIGNA SUPP PLAN": 23,
+    "standard_charge|CIGNA SUPPLEMENT INS|CIGNA SUPPLEMENT INS|negotiated_dollar": 23,
+    "standard_charge|CIGNA SUPPLEMENT INS|CIGNA SUPPLEMENT INS|methodology": 23,
+    "additional_payer_notes|CIGNA SUPPLEMENT INS|CIGNA SUPPLEMENT INS": 23,
+    "standard_charge|CIGNA TRUE CHOICE MEDICAR|CIGNA TRUE CHOICE MEDICAR|negotiated_dollar": 23,
+    "standard_charge|CIGNA TRUE CHOICE MEDICAR|CIGNA TRUE CHOICE MEDICAR|methodology": 23,
+    "additional_payer_notes|CIGNA TRUE CHOICE MEDICAR|CIGNA TRUE CHOICE MEDICAR": 23,
+    "standard_charge|CSI MEDICARE|CSI MEDICARE|negotiated_dollar": 23,
+    "standard_charge|CSI MEDICARE|CSI MEDICARE|methodology": 23,
+    "additional_payer_notes|CSI MEDICARE|CSI MEDICARE": 23,
+    "standard_charge|FREEDOM LIFE USHEALTH|FREEDOM LIFE USHEALTH|negotiated_dollar": 23,
+    "standard_charge|FREEDOM LIFE USHEALTH|FREEDOM LIFE USHEALTH|methodology": 23,
+    "standard_charge|GOLDEN RULE|GOLDEN RULE|negotiated_dollar": 23,
+    "standard_charge|GOLDEN RULE|GOLDEN RULE|methodology": 23,
+    "standard_charge|GOLDEN RULE INS|GOLDEN RULE INS|negotiated_dollar": 23,
+    "standard_charge|GOLDEN RULE INS|GOLDEN RULE INS|methodology": 23,
+    "standard_charge|GOLDEN RULE INSURANCE|GOLDEN RULE INSURANCE|negotiated_dollar": 23,
+    "standard_charge|GOLDEN RULE INSURANCE|GOLDEN RULE INSURANCE|methodology": 23,
+    "standard_charge|HEALTH ADVANTAGE|HEALTH ADVANTAGE|negotiated_dollar": 23,
+    "standard_charge|HEALTH ADVANTAGE|HEALTH ADVANTAGE|methodology": 23,
+    "standard_charge|HEALTHSCOPE BENEFITS|HEALTHSCOPE BENEFITS|negotiated_dollar": 23,
+    "standard_charge|HEALTHSCOPE BENEFITS|HEALTHSCOPE BENEFITS|methodology": 23,
+    "standard_charge|Healthspring|Healthspring|negotiated_dollar": 23,
+    "standard_charge|Healthspring|Healthspring|methodology": 23,
+    "additional_payer_notes|Healthspring|Healthspring": 23,
+    "standard_charge|HMO AARP MEDICARE|HMO AARP MEDICARE|negotiated_dollar": 23,
+    "standard_charge|HMO AARP MEDICARE|HMO AARP MEDICARE|methodology": 23,
+    "additional_payer_notes|HMO AARP MEDICARE|HMO AARP MEDICARE": 23,
+    "standard_charge|HMO CIGNA MEDICARE|HMO CIGNA MEDICARE|negotiated_dollar": 23,
+    "standard_charge|HMO CIGNA MEDICARE|HMO CIGNA MEDICARE|methodology": 23,
+    "additional_payer_notes|HMO CIGNA MEDICARE|HMO CIGNA MEDICARE": 23,
+    "standard_charge|HMO HUMANA GOLD|HMO HUMANA GOLD|negotiated_dollar": 23,
+    "standard_charge|HMO HUMANA GOLD|HMO HUMANA GOLD|methodology": 23,
+    "additional_payer_notes|HMO HUMANA GOLD|HMO HUMANA GOLD": 23,
+    "standard_charge|HMO HUMANA GOLD MEDICARE|HMO HUMANA GOLD MEDICARE|negotiated_dollar": 23,
+    "standard_charge|HMO HUMANA GOLD MEDICARE|HMO HUMANA GOLD MEDICARE|methodology": 23,
+    "additional_payer_notes|HMO HUMANA GOLD MEDICARE|HMO HUMANA GOLD MEDICARE": 23,
+    "standard_charge|HMO MEDIPAK ADV|HMO MEDIPAK ADV|negotiated_dollar": 23,
+    "standard_charge|HMO MEDIPAK ADV|HMO MEDIPAK ADV|methodology": 23,
+    "additional_payer_notes|HMO MEDIPAK ADV|HMO MEDIPAK ADV": 23,
+    "standard_charge|HMO MEDIPAK ADV PLAN|HMO MEDIPAK ADV PLAN|negotiated_dollar": 23,
+    "standard_charge|HMO MEDIPAK ADV PLAN|HMO MEDIPAK ADV PLAN|methodology": 23,
+    "additional_payer_notes|HMO MEDIPAK ADV PLAN|HMO MEDIPAK ADV PLAN": 23,
+    "standard_charge|HMO UHC AARP|HMO UHC AARP|negotiated_dollar": 23,
+    "standard_charge|HMO UHC AARP|HMO UHC AARP|methodology": 23,
+    "additional_payer_notes|HMO UHC AARP|HMO UHC AARP": 23,
+    "standard_charge|HUMANA CHOICE MEDICARE|HUMANA CHOICE MEDICARE|negotiated_dollar": 23,
+    "standard_charge|HUMANA CHOICE MEDICARE|HUMANA CHOICE MEDICARE|methodology": 23,
+    "additional_payer_notes|HUMANA CHOICE MEDICARE|HUMANA CHOICE MEDICARE": 23,
+    "standard_charge|HUMANA GOLD MEDICARE|HUMANA GOLD MEDICARE|negotiated_dollar": 23,
+    "standard_charge|HUMANA GOLD MEDICARE|HUMANA GOLD MEDICARE|methodology": 23,
+    "additional_payer_notes|HUMANA GOLD MEDICARE|HUMANA GOLD MEDICARE": 23,
+    "standard_charge|HUMANA HMO MEDICARE|HUMANA HMO MEDICARE|negotiated_dollar": 23,
+    "standard_charge|HUMANA HMO MEDICARE|HUMANA HMO MEDICARE|methodology": 23,
+    "additional_payer_notes|HUMANA HMO MEDICARE|HUMANA HMO MEDICARE": 23,
+    "standard_charge|HUMANA MEDICARE HMO|HUMANA MEDICARE HMO|negotiated_dollar": 23,
+    "standard_charge|HUMANA MEDICARE HMO|HUMANA MEDICARE HMO|methodology": 23,
+    "additional_payer_notes|HUMANA MEDICARE HMO|HUMANA MEDICARE HMO": 23,
+    "standard_charge|MEDADVANTAGE|MEDADVANTAGE|negotiated_dollar": 23,
+    "standard_charge|MEDADVANTAGE|MEDADVANTAGE|methodology": 23,
+    "additional_payer_notes|MEDADVANTAGE|MEDADVANTAGE": 23,
+    "standard_charge|MEDICA|MEDICA|negotiated_dollar": 23,
+    "standard_charge|MEDICA|MEDICA|methodology": 23,
+    "standard_charge|MEDICADE ARKANSAS|MEDICADE ARKANSAS|negotiated_dollar": 21,
+    "standard_charge|MEDICADE ARKANSAS|MEDICADE ARKANSAS|methodology": 23,
+    "standard_charge|Medicaid|Medicaid|negotiated_dollar": 21,
+    "standard_charge|Medicaid|Medicaid|methodology": 23,
+    "standard_charge|MEDICAID ARKANSAS|MEDICAID ARKANSAS|negotiated_dollar": 21,
+    "standard_charge|MEDICAID ARKANSAS|MEDICAID ARKANSAS|methodology": 23,
+    "standard_charge|MEDICAID-ARKANSAS|MEDICAID-ARKANSAS|negotiated_dollar": 21,
+    "standard_charge|MEDICAID-ARKANSAS|MEDICAID-ARKANSAS|methodology": 23,
+    "standard_charge|MEDICARE ADVANTAGE MISC|MEDICARE ADVANTAGE MISC|negotiated_dollar": 23,
+    "standard_charge|MEDICARE ADVANTAGE MISC|MEDICARE ADVANTAGE MISC|methodology": 23,
+    "additional_payer_notes|MEDICARE ADVANTAGE MISC|MEDICARE ADVANTAGE MISC": 23,
+    "standard_charge|MEDIPAK|MEDIPAK|negotiated_dollar": 23,
+    "standard_charge|MEDIPAK|MEDIPAK|methodology": 23,
+    "additional_payer_notes|MEDIPAK|MEDIPAK": 23,
+    "standard_charge|MEDIPAK ADVANTAGE|MEDIPAK ADVANTAGE|negotiated_dollar": 23,
+    "standard_charge|MEDIPAK ADVANTAGE|MEDIPAK ADVANTAGE|methodology": 23,
+    "additional_payer_notes|MEDIPAK ADVANTAGE|MEDIPAK ADVANTAGE": 23,
+    "standard_charge|MUNICIPAL HEALTH|MUNICIPAL HEALTH|negotiated_dollar": 23,
+    "standard_charge|MUNICIPAL HEALTH|MUNICIPAL HEALTH|methodology": 23,
+    "standard_charge|Municipal Health Benefit Fund|Municipal Health Benefit Fund|negotiated_dollar": 23,
+    "standard_charge|Municipal Health Benefit Fund|Municipal Health Benefit Fund|methodology": 23,
+    "standard_charge|NALC|NALC|negotiated_dollar": 23,
+    "standard_charge|NALC|NALC|methodology": 23,
+    "standard_charge|NALC HEALTH BENEFIT PLAN|NALC HEALTH BENEFIT PLAN|negotiated_dollar": 23,
+    "standard_charge|NALC HEALTH BENEFIT PLAN|NALC HEALTH BENEFIT PLAN|methodology": 23,
+    "standard_charge|NALC MEDICAL CLAIMS|NALC MEDICAL CLAIMS|negotiated_dollar": 23,
+    "standard_charge|NALC MEDICAL CLAIMS|NALC MEDICAL CLAIMS|methodology": 23,
+    "standard_charge|Oxford|Oxford|negotiated_dollar": 23,
+    "standard_charge|Oxford|Oxford|methodology": 23,
+    "standard_charge|OXFORD LIFE|OXFORD LIFE|negotiated_dollar": 23,
+    "standard_charge|OXFORD LIFE|OXFORD LIFE|methodology": 23,
+    "standard_charge|OXFORD LIFE INS COMPANY|OXFORD LIFE INS COMPANY|negotiated_dollar": 23,
+    "standard_charge|OXFORD LIFE INS COMPANY|OXFORD LIFE INS COMPANY|methodology": 23,
+    "standard_charge|OXFORD LIFE INSURANCE|OXFORD LIFE INSURANCE|negotiated_dollar": 23,
+    "standard_charge|OXFORD LIFE INSURANCE|OXFORD LIFE INSURANCE|methodology": 23,
+    "standard_charge|OXFORD LIFE INSURANCE CO|OXFORD LIFE INSURANCE CO|negotiated_dollar": 23,
+    "standard_charge|OXFORD LIFE INSURANCE CO|OXFORD LIFE INSURANCE CO|methodology": 23,
+    "standard_charge|PREMERA|PREMERA|negotiated_dollar": 23,
+    "standard_charge|PREMERA|PREMERA|methodology": 23,
+    "standard_charge|Priority Health|Priority Health|negotiated_dollar": 23,
+    "standard_charge|Priority Health|Priority Health|methodology": 23,
+    "standard_charge|PROVIDENCE HEALTH PLAN|PROVIDENCE HEALTH PLAN|negotiated_dollar": 23,
+    "standard_charge|PROVIDENCE HEALTH PLAN|PROVIDENCE HEALTH PLAN|methodology": 23,
+    "standard_charge|Qualchoice|Qualchoice|negotiated_dollar": 23,
+    "standard_charge|Qualchoice|Qualchoice|methodology": 23,
+    "additional_payer_notes|Qualchoice|Qualchoice": 23,
+    "standard_charge|QUALCHOICE ADV HMO|QUALCHOICE ADV HMO|negotiated_dollar": 23,
+    "standard_charge|QUALCHOICE ADV HMO|QUALCHOICE ADV HMO|methodology": 23,
+    "additional_payer_notes|QUALCHOICE ADV HMO|QUALCHOICE ADV HMO": 23,
+    "standard_charge|QUALCHOICE EXCHANGE|QUALCHOICE EXCHANGE|negotiated_dollar": 23,
+    "standard_charge|QUALCHOICE EXCHANGE|QUALCHOICE EXCHANGE|methodology": 23,
+    "additional_payer_notes|QUALCHOICE EXCHANGE|QUALCHOICE EXCHANGE": 23,
+    "standard_charge|QUALCHOICE HEALTH INS|QUALCHOICE HEALTH INS|negotiated_dollar": 23,
+    "standard_charge|QUALCHOICE HEALTH INS|QUALCHOICE HEALTH INS|methodology": 23,
+    "additional_payer_notes|QUALCHOICE HEALTH INS|QUALCHOICE HEALTH INS": 23,
+    "standard_charge|RAILROAD MEDICARE|RAILROAD MEDICARE|negotiated_dollar": 23,
+    "standard_charge|RAILROAD MEDICARE|RAILROAD MEDICARE|methodology": 23,
+    "additional_payer_notes|RAILROAD MEDICARE|RAILROAD MEDICARE": 23,
+    "standard_charge|Railroad Retirement|Railroad Retirement|negotiated_dollar": 23,
+    "standard_charge|Railroad Retirement|Railroad Retirement|methodology": 23,
+    "additional_payer_notes|Railroad Retirement|Railroad Retirement": 23,
+    "standard_charge|S&S Healthcare Strategies|S&S Healthcare Strategies|negotiated_dollar": 23,
+    "standard_charge|S&S Healthcare Strategies|S&S Healthcare Strategies|methodology": 23,
+    "standard_charge|STERLING MEDICARE SELECT|STERLING MEDICARE SELECT|negotiated_dollar": 23,
+    "standard_charge|STERLING MEDICARE SELECT|STERLING MEDICARE SELECT|methodology": 23,
+    "additional_payer_notes|STERLING MEDICARE SELECT|STERLING MEDICARE SELECT": 23,
+    "standard_charge|STERLING OPTION 1|STERLING OPTION 1|negotiated_dollar": 23,
+    "standard_charge|STERLING OPTION 1|STERLING OPTION 1|methodology": 23,
+    "additional_payer_notes|STERLING OPTION 1|STERLING OPTION 1": 23,
+    "standard_charge|SUREST|SUREST|negotiated_dollar": 23,
+    "standard_charge|SUREST|SUREST|methodology": 23,
+    "additional_payer_notes|TRICARE|TRICARE": 23,
+    "standard_charge|Tricare West|Tricare West|negotiated_dollar": 23,
+    "standard_charge|Tricare West|Tricare West|methodology": 23,
+    "additional_payer_notes|Tricare West|Tricare West": 23,
+    "standard_charge|TRUE BLUE|TRUE BLUE|negotiated_dollar": 23,
+    "standard_charge|TRUE BLUE|TRUE BLUE|methodology": 23,
+    "standard_charge|TRUE BLUE METALLIC|TRUE BLUE METALLIC|negotiated_dollar": 23,
+    "standard_charge|TRUE BLUE METALLIC|TRUE BLUE METALLIC|methodology": 23,
+    "standard_charge|TUFTS HEALTH PLAN|TUFTS HEALTH PLAN|negotiated_dollar": 23,
+    "standard_charge|TUFTS HEALTH PLAN|TUFTS HEALTH PLAN|methodology": 23,
+    "standard_charge|UHC AARP HMO|UHC AARP HMO|negotiated_dollar": 23,
+    "standard_charge|UHC AARP HMO|UHC AARP HMO|methodology": 23,
+    "additional_payer_notes|UHC AARP HMO|UHC AARP HMO": 23,
+    "standard_charge|UHC HMO AARP|UHC HMO AARP|negotiated_dollar": 23,
+    "standard_charge|UHC HMO AARP|UHC HMO AARP|methodology": 23,
+    "additional_payer_notes|UHC HMO AARP|UHC HMO AARP": 23,
+    "standard_charge|UHC STUDEN RESOURCES|UHC STUDEN RESOURCES|negotiated_dollar": 23,
+    "standard_charge|UHC STUDEN RESOURCES|UHC STUDEN RESOURCES|methodology": 23,
+    "standard_charge|UMR|UMR|negotiated_dollar": 23,
+    "standard_charge|UMR|UMR|methodology": 23,
+    "standard_charge|UNITED HEALTCARE GLOBAL|UNITED HEALTCARE GLOBAL|negotiated_dollar": 23,
+    "standard_charge|UNITED HEALTCARE GLOBAL|UNITED HEALTCARE GLOBAL|methodology": 23,
+    "standard_charge|UNITED HEALTH CARE|UNITED HEALTH CARE|negotiated_dollar": 23,
+    "standard_charge|UNITED HEALTH CARE|UNITED HEALTH CARE|methodology": 23,
+    "standard_charge|United HealthCare|United HealthCare|negotiated_dollar": 23,
+    "standard_charge|United HealthCare|United HealthCare|methodology": 23,
+    "standard_charge|UNITED HEALTHCARE AARP|UNITED HEALTHCARE AARP|negotiated_dollar": 23,
+    "standard_charge|UNITED HEALTHCARE AARP|UNITED HEALTHCARE AARP|methodology": 23,
+    "additional_payer_notes|UNITED HEALTHCARE AARP|UNITED HEALTHCARE AARP": 23,
+    "standard_charge|UNITED HEALTHCARE MC PLAN|UNITED HEALTHCARE MC PLAN|negotiated_dollar": 23,
+    "standard_charge|UNITED HEALTHCARE MC PLAN|UNITED HEALTHCARE MC PLAN|methodology": 23,
+    "additional_payer_notes|UNITED HEALTHCARE MC PLAN|UNITED HEALTHCARE MC PLAN": 23,
+    "standard_charge|UNITED HEALTHCARE MEDICAL|UNITED HEALTHCARE MEDICAL|negotiated_dollar": 23,
+    "standard_charge|UNITED HEALTHCARE MEDICAL|UNITED HEALTHCARE MEDICAL|methodology": 23,
+    "standard_charge|United HealthCare Medicare Advantage|United HealthCare Medicare Advantage|negotiated_dollar": 23,
+    "standard_charge|United HealthCare Medicare Advantage|United HealthCare Medicare Advantage|methodology": 23,
+    "additional_payer_notes|United HealthCare Medicare Advantage|United HealthCare Medicare Advantage": 23,
+    "standard_charge|UNITED HEALTHCARE WEST|UNITED HEALTHCARE WEST|negotiated_dollar": 23,
+    "standard_charge|UNITED HEALTHCARE WEST|UNITED HEALTHCARE WEST|methodology": 23,
+    "standard_charge|UNITED HLTH SHARED SERVIC|UNITED HLTH SHARED SERVIC|negotiated_dollar": 23,
+    "standard_charge|UNITED HLTH SHARED SERVIC|UNITED HLTH SHARED SERVIC|methodology": 23,
+    "standard_charge|USHEALTHGROUP|USHEALTHGROUP|negotiated_dollar": 23,
+    "standard_charge|USHEALTHGROUP|USHEALTHGROUP|methodology": 23,
+    "standard_charge|VA CCN OPTUM|VA CCN OPTUM|negotiated_dollar": 23,
+    "standard_charge|VA CCN OPTUM|VA CCN OPTUM|methodology": 23,
+    "additional_payer_notes|VA CCN OPTUM|VA CCN OPTUM": 23,
+    "standard_charge|VA CNN OPTUM|VA CNN OPTUM|negotiated_dollar": 23,
+    "standard_charge|VA CNN OPTUM|VA CNN OPTUM|methodology": 23,
+    "additional_payer_notes|VA CNN OPTUM|VA CNN OPTUM": 23,
+    "standard_charge|VACCM OPTUM|VACCM OPTUM|negotiated_dollar": 23,
+    "standard_charge|VACCM OPTUM|VACCM OPTUM|methodology": 23,
+    "additional_payer_notes|VACCM OPTUM|VACCM OPTUM": 23,
+    "standard_charge|VANTAGE HEALTH|VANTAGE HEALTH|negotiated_dollar": 23,
+    "standard_charge|VANTAGE HEALTH|VANTAGE HEALTH|methodology": 23,
+    "additional_payer_notes|VANTAGE HEALTH|VANTAGE HEALTH": 23,
+    "standard_charge|VANTAGE HEALTH PLAN INC|VANTAGE HEALTH PLAN INC|negotiated_dollar": 23,
+    "standard_charge|VANTAGE HEALTH PLAN INC|VANTAGE HEALTH PLAN INC|methodology": 23,
+    "additional_payer_notes|VANTAGE HEALTH PLAN INC|VANTAGE HEALTH PLAN INC": 23,
+    "standard_charge|VETERN CHOICE PROGRAM|VETERN CHOICE PROGRAM|negotiated_dollar": 23,
+    "standard_charge|VETERN CHOICE PROGRAM|VETERN CHOICE PROGRAM|methodology": 23,
+    "additional_payer_notes|VETERN CHOICE PROGRAM|VETERN CHOICE PROGRAM": 23,
+    "standard_charge|WELLCARE|WELLCARE|negotiated_dollar": 23,
+    "standard_charge|WELLCARE|WELLCARE|methodology": 23,
+    "additional_payer_notes|WELLCARE|WELLCARE": 23,
+    "standard_charge|WINDSOR MEDICARE EXTRA|WINDSOR MEDICARE EXTRA|negotiated_dollar": 23,
+    "standard_charge|WINDSOR MEDICARE EXTRA|WINDSOR MEDICARE EXTRA|methodology": 23,
+    "additional_payer_notes|WINDSOR MEDICARE EXTRA|WINDSOR MEDICARE EXTRA": 23,
+    "standard_charge|WPS VAPC3|WPS VAPC3|negotiated_dollar": 23,
+    "standard_charge|WPS VAPC3|WPS VAPC3|methodology": 23,
+    "additional_payer_notes|WPS VAPC3|WPS VAPC3": 23,
+    "additional_payer_notes|AETNA ENTERGY|AETNA ENTERGY": 17,
+    "additional_payer_notes|AETNA INS|AETNA INS": 17,
+    "additional_payer_notes|AETNA LIFE INSURANCE COMP|AETNA LIFE INSURANCE COMP": 17,
+    "additional_payer_notes|AETNA US HEALTHCARE|AETNA US HEALTHCARE": 17,
+    "additional_payer_notes|Ambetter of Arkansas|Ambetter of Arkansas": 18,
+    "additional_payer_notes|American Continental Life|American Continental Life": 17,
+    "additional_payer_notes|ARKIDS-MEDICAID|ARKIDS-MEDICAID": 2,
+    "additional_payer_notes|MEDICADE ARKANSAS|MEDICADE ARKANSAS": 2,
+    "additional_payer_notes|Medicaid|Medicaid": 2,
+    "additional_payer_notes|MEDICAID ARKANSAS|MEDICAID ARKANSAS": 2,
+    "additional_payer_notes|MEDICAID-ARKANSAS|MEDICAID-ARKANSAS": 2,
+    "standard_charge|Multiplan|Multiplan|negotiated_dollar": 162,
+    "standard_charge|Multiplan|Multiplan|methodology": 162,
+    "standard_charge|Aetna|Aetna Medicare|negotiated_dollar": 54,
+    "standard_charge|Aetna|Aetna Medicare|methodology": 54,
+    "standard_charge|AmeriHealth Caritas|AmeriHealth Caritas Medicaid|negotiated_dollar": 54,
+    "standard_charge|AmeriHealth Caritas|AmeriHealth Caritas Medicaid|methodology": 54,
+    "standard_charge|AmeriHealth Caritas Medicare|AmeriHealth Caritas Medicare|negotiated_dollar": 54,
+    "standard_charge|AmeriHealth Caritas Medicare|AmeriHealth Caritas Medicare|methodology": 54,
+    "standard_charge|Carelon/Beacon Beahvioral Health|Carelon/Beacon Behavioral Health|negotiated_dollar": 54,
+    "standard_charge|Carelon/Beacon Beahvioral Health|Carelon/Beacon Behavioral Health|methodology": 54,
+    "standard_charge|Geisinger|Geisinger|negotiated_dollar": 108,
+    "standard_charge|Geisinger|Geisinger|methodology": 108,
+    "standard_charge|Geisinger Medicaid|Geisinger Medicaid|negotiated_dollar": 54,
+    "standard_charge|Geisinger Medicaid|Geisinger Medicaid|methodology": 54,
+    "standard_charge|Geisinger Medicare|Geisinger Medicare|negotiated_dollar": 108,
+    "standard_charge|Geisinger Medicare|Geisinger Medicare|methodology": 108,
+    "standard_charge|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO|negotiated_algorithm": 54,
+    "standard_charge|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO|methodology": 54,
+    "median_amount|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO": 35,
+    "10th_percentile|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO": 35,
+    "90th_percentile|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO": 35,
+    "count|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO": 54,
+    "additional_payer_notes|Highmark|Highmark ACA / My Direct Blue / My Blue Access PPO": 54,
+    "standard_charge|Highmark|Highmark CHIP / Social Mission|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark CHIP / Social Mission|negotiated_algorithm": 54,
+    "standard_charge|Highmark|Highmark CHIP / Social Mission|methodology": 54,
+    "median_amount|Highmark|Highmark CHIP / Social Mission": 14,
+    "10th_percentile|Highmark|Highmark CHIP / Social Mission": 14,
+    "90th_percentile|Highmark|Highmark CHIP / Social Mission": 14,
+    "count|Highmark|Highmark CHIP / Social Mission": 54,
+    "additional_payer_notes|Highmark|Highmark CHIP / Social Mission": 54,
+    "standard_charge|Highmark|Highmark Comm Community Blue|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark Comm Community Blue|negotiated_algorithm": 54,
+    "standard_charge|Highmark|Highmark Comm Community Blue|methodology": 54,
+    "median_amount|Highmark|Highmark Comm Community Blue": 38,
+    "10th_percentile|Highmark|Highmark Comm Community Blue": 38,
+    "90th_percentile|Highmark|Highmark Comm Community Blue": 38,
+    "count|Highmark|Highmark Comm Community Blue": 54,
+    "additional_payer_notes|Highmark|Highmark Comm Community Blue": 54,
+    "standard_charge|Highmark|Highmark Comm Managed/Indemnity|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark Comm Managed/Indemnity|negotiated_algorithm": 54,
+    "standard_charge|Highmark|Highmark Comm Managed/Indemnity|methodology": 54,
+    "median_amount|Highmark|Highmark Comm Managed/Indemnity": 37,
+    "10th_percentile|Highmark|Highmark Comm Managed/Indemnity": 37,
+    "90th_percentile|Highmark|Highmark Comm Managed/Indemnity": 37,
+    "count|Highmark|Highmark Comm Managed/Indemnity": 54,
+    "additional_payer_notes|Highmark|Highmark Comm Managed/Indemnity": 54,
+    "standard_charge|Highmark|Highmark MCR Community/Complete Blue|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark MCR Community/Complete Blue|methodology": 54,
+    "standard_charge|Highmark|Highmark MCR Freedom Blue|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark MCR Freedom Blue|methodology": 54,
+    "standard_charge|Highmark|Highmark MCR Security Blue|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark MCR Security Blue|methodology": 54,
+    "standard_charge|Highmark|Highmark MCR SNF Episodic Bundle|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark MCR SNF Episodic Bundle|methodology": 54,
+    "standard_charge|Highmark|Highmark Wholecare Medicare|negotiated_dollar": 54,
+    "standard_charge|Highmark|Highmark Wholecare Medicare|methodology": 54,
+    "standard_charge|Centene Corporation|PA H and W Medicaid|negotiated_dollar": 54,
+    "standard_charge|Centene Corporation|PA H and W Medicaid|methodology": 54,
+    "standard_charge|Centene Corporation|PA H and W Medicare|negotiated_dollar": 54,
+    "standard_charge|Centene Corporation|PA H and W Medicare|methodology": 54,
+    "standard_charge|PA Health and Wellness Commercial|PA Health and Wellness Commercial|negotiated_dollar": 108,
+    "standard_charge|PA Health and Wellness Commercial|PA Health and Wellness Commercial|methodology": 108,
+    "standard_charge|PA Workers' Compensation|PA Workers Compensation|negotiated_dollar": 54,
+    "standard_charge|PA Workers' Compensation|PA Workers Compensation|methodology": 54,
+    "standard_charge|The Health Plan Commercial|The Health Plan Commercial|negotiated_dollar": 108,
+    "standard_charge|The Health Plan Commercial|The Health Plan Commercial|methodology": 108,
+    "standard_charge|UMWA|UMWA|negotiated_dollar": 54,
+    "standard_charge|UMWA|UMWA|methodology": 54,
+    "standard_charge|UnitedHealthcare Insurance Company|United|negotiated_dollar": 54,
+    "standard_charge|UnitedHealthcare Insurance Company|United|methodology": 54,
+    "standard_charge|United CHIP|United CHIP|negotiated_dollar": 54,
+    "standard_charge|United CHIP|United CHIP|methodology": 54,
+    "standard_charge|United Medicaid|United Medicaid|negotiated_dollar": 54,
+    "standard_charge|United Medicaid|United Medicaid|methodology": 54,
+    "standard_charge|UnitedHealthcare Insurance Company|United Medicare|negotiated_dollar": 54,
+    "standard_charge|UnitedHealthcare Insurance Company|United Medicare|methodology": 54,
+    "standard_charge|UPMC Health Plan|UPMC|negotiated_dollar": 54,
+    "standard_charge|UPMC Health Plan|UPMC|negotiated_algorithm": 54,
+    "standard_charge|UPMC Health Plan|UPMC|methodology": 54,
+    "median_amount|UPMC Health Plan|UPMC": 38,
+    "10th_percentile|UPMC Health Plan|UPMC": 38,
+    "90th_percentile|UPMC Health Plan|UPMC": 38,
+    "count|UPMC Health Plan|UPMC": 54,
+    "additional_payer_notes|UPMC Health Plan|UPMC": 54,
+    "standard_charge|UPMC CHIP|UPMC CHIP|negotiated_dollar": 54,
+    "standard_charge|UPMC CHIP|UPMC CHIP|methodology": 54,
+    "standard_charge|UPMC Health Plan|UPMC Medicaid|negotiated_dollar": 54,
+    "standard_charge|UPMC Health Plan|UPMC Medicaid|methodology": 54,
+    "standard_charge|UPMC Health Plan|UPMC Medicare|negotiated_dollar": 54,
+    "standard_charge|UPMC Health Plan|UPMC Medicare|methodology": 54,
+    "standard_charge|UnitedHealthcare Insurance Company|VA CCN Optum|negotiated_dollar": 54,
+    "standard_charge|UnitedHealthcare Insurance Company|VA CCN Optum|methodology": 54,
+    "standard_charge|UPMC CHIP|UPMC CHIP|negotiated_algorithm": 6,
+    "count|UPMC CHIP|UPMC CHIP": 6,
+    "additional_payer_notes|UPMC CHIP|UPMC CHIP": 6,
+    "median_amount|UPMC CHIP|UPMC CHIP": 2,
+    "10th_percentile|UPMC CHIP|UPMC CHIP": 2,
+    "90th_percentile|UPMC CHIP|UPMC CHIP": 2,
+    "estimated_amount": 1941,
+    "drug_unit_of_measurement": 5,
+    "drug_type_of_measurement": 5,
+    "": 100,
     "standard_charge|KAISER PERM PPO/POS|KAISER PPO/POS OTHER|negotiated_dollar": 211,
     "standard_charge|KAISER PERM PPO/POS|KAISER PPO/POS OTHER|negotiated_percentage": 208,
     "count|KAISER PERM PPO/POS|KAISER PPO/POS OTHER": 208,
@@ -2073,6 +2802,42 @@
     "median_amount|GEHA|GEHA-ASA": 1,
     "10th_percentile|GEHA|GEHA-ASA": 1,
     "90th_percentile|GEHA|GEHA-ASA": 1,
+    "standard_charge|All Other Medicaid|All Other Medicaid (R)|negotiated_dollar": 91,
+    "standard_charge|All Other Medicaid|All Other Medicaid (R)|methodology": 91,
+    "standard_charge|Medicare Other|All Other Medicare (R)|negotiated_dollar": 91,
+    "standard_charge|Medicare Other|All Other Medicare (R)|methodology": 91,
+    "standard_charge|BCBS|BC AEHP (R)|negotiated_dollar": 91,
+    "standard_charge|BCBS|BC AEHP (R)|methodology": 91,
+    "standard_charge|BC High Value/ Performance Network (R)|BC High Value/ Performance Network (R)|negotiated_dollar": 91,
+    "standard_charge|BC High Value/ Performance Network (R)|BC High Value/ Performance Network (R)|methodology": 91,
+    "standard_charge|BCBS|BC Medicare (R)|negotiated_dollar": 91,
+    "standard_charge|BCBS|BC Medicare (R)|methodology": 91,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC PMAP (R)|negotiated_dollar": 91,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC PMAP (R)|methodology": 91,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC Premier (R)|negotiated_dollar": 91,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC Premier (R)|methodology": 91,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC State Health Plan (R)|negotiated_dollar": 91,
+    "standard_charge|Blue Cross Blue Shield of Minnesota|BC State Health Plan (R)|methodology": 91,
+    "standard_charge|Medica Health System|Medica PMAP (R)|negotiated_dollar": 89,
+    "standard_charge|Medica Health System|Medica PMAP (R)|methodology": 89,
+    "standard_charge|Medicaid|Medicaid MA (R)|negotiated_dollar": 91,
+    "standard_charge|Medicaid|Medicaid MA (R)|methodology": 91,
+    "standard_charge|South Country Health Alliance|SCHA MSHO (R)|negotiated_dollar": 91,
+    "standard_charge|South Country Health Alliance|SCHA MSHO (R)|methodology": 91,
+    "standard_charge|South Country Health Alliance|SCHA PMAP (R)|negotiated_dollar": 91,
+    "standard_charge|South Country Health Alliance|SCHA PMAP (R)|negotiated_algorithm": 91,
+    "standard_charge|South Country Health Alliance|SCHA PMAP (R)|methodology": 91,
+    "count|South Country Health Alliance|SCHA PMAP (R)": 91,
+    "additional_payer_notes|South Country Health Alliance|SCHA PMAP (R)": 91,
+    "standard_charge|Allina Aetna Medicare (R)|Allina Aetna Medicare (R)|negotiated_dollar": 85,
+    "standard_charge|Allina Aetna Medicare (R)|Allina Aetna Medicare (R)|methodology": 85,
+    "standard_charge|Medicare|Medicare (R)|negotiated_dollar": 85,
+    "standard_charge|Medicare|Medicare (R)|methodology": 85,
+    "additional_payer_notes|Medica Health System|Medica PMAP (R)": 17,
+    "standard_charge|Medica Health System|Medica PMAP (R)|negotiated_algorithm": 15,
+    "count|Medica Health System|Medica PMAP (R)": 15,
+    "standard_charge|United HealthCare (N,R)|United HealthCare (NR)|negotiated_dollar": 1,
+    "standard_charge|United HealthCare (N,R)|United HealthCare (NR)|methodology": 1,
     "standard_charge|KAISER MRP|KAISER MRP OUT OF STATE|negotiated_dollar": 57,
     "standard_charge|KAISER MRP|KAISER MRP OUT OF STATE|negotiated_percentage": 54,
     "count|KAISER MRP|KAISER MRP OUT OF STATE": 54,
@@ -2091,7 +2856,6 @@
     "count|MIDLANDS CHOICE|MIDLANDS CHOICE PPO": 108,
     "standard_charge|MIDLANDS CHOICE|MIDLANDS CHOICE PPO|methodology": 108,
     "additional_payer_notes|MIDLANDS CHOICE|MIDLANDS CHOICE PPO": 108,
-    "additional_payer_notes": 18,
     "standard_charge|BCBS/ANTHEM|BCBS MT CLOSED PLAN|negotiated_dollar": 268,
     "standard_charge|BCBS/ANTHEM|BCBS MT CLOSED PLAN|negotiated_percentage": 206,
     "count|BCBS/ANTHEM|BCBS MT CLOSED PLAN": 206,
@@ -2292,7 +3056,122 @@
     "standard_charge|SIBANYE STILLWATER HEALTH PARTNERS|ALLEGIANCE SIBANYE STILLWATER EPO SVB|negotiated_dollar": 48,
     "standard_charge|SIBANYE STILLWATER HEALTH PARTNERS|ALLEGIANCE SIBANYE STILLWATER EPO SVB|methodology": 48,
     "standard_charge|SIBANYE STILLWATER HEALTH PARTNERS|ALLEGIANCE SIBANYE STILLWATER PPO|negotiated_dollar": 48,
-    "standard_charge|SIBANYE STILLWATER HEALTH PARTNERS|ALLEGIANCE SIBANYE STILLWATER PPO|methodology": 48
+    "standard_charge|SIBANYE STILLWATER HEALTH PARTNERS|ALLEGIANCE SIBANYE STILLWATER PPO|methodology": 48,
+    "standard_charge|Affliated Health|Affliated Health|negotiated_dollar": 132,
+    "standard_charge|Affliated Health|Affliated Health|methodology": 132,
+    "additional_payer_notes|AHMC ALLIED|AHMC ALLIED": 66,
+    "standard_charge|Beech Street|Beech Street|negotiated_dollar": 132,
+    "standard_charge|Beech Street|Beech Street|methodology": 132,
+    "standard_charge|INTERLINK|INTERLINK|negotiated_dollar": 132,
+    "standard_charge|INTERLINK|INTERLINK|methodology": 132,
+    "standard_charge|INTERPLAN|INTERPLAN|negotiated_dollar": 132,
+    "standard_charge|INTERPLAN|INTERPLAN|methodology": 132,
+    "standard_charge|MULTIPLAN|MULTIPLAN|negotiated_dollar": 132,
+    "standard_charge|MULTIPLAN|MULTIPLAN|methodology": 132,
+    "standard_charge|NON CONTRACTED (100% POC)|NON CONTRACTED (100 POC)|negotiated_dollar": 132,
+    "standard_charge|NON CONTRACTED (100% POC)|NON CONTRACTED (100 POC)|methodology": 132,
+    "standard_charge|Three Rivers|Three Rivers|negotiated_dollar": 132,
+    "standard_charge|Three Rivers|Three Rivers|methodology": 132,
+    "standard_charge|AHMC ALLIED|AHMC ALLIED|negotiated_dollar": 66,
+    "standard_charge|AHMC ALLIED|AHMC ALLIED|methodology": 66,
+    "standard_charge|Blue Cross|Blue Cross|negotiated_dollar": 61,
+    "standard_charge|Blue Cross|Blue Cross|methodology": 61,
+    "standard_charge|BLUE SHIELD EXCHANGE|BLUE SHIELD EXCHANGE|negotiated_dollar": 63,
+    "standard_charge|BLUE SHIELD EXCHANGE|BLUE SHIELD EXCHANGE|methodology": 63,
+    "standard_charge|BLUE SHIELD HMO|BLUE SHIELD HMO|negotiated_dollar": 66,
+    "standard_charge|BLUE SHIELD HMO|BLUE SHIELD HMO|methodology": 66,
+    "standard_charge|Blue Shield PPO|Blue Shield PPO|negotiated_dollar": 66,
+    "standard_charge|Blue Shield PPO|Blue Shield PPO|methodology": 66,
+    "standard_charge|BLUE SHIELD SR|BLUE SHIELD SR|negotiated_dollar": 61,
+    "standard_charge|BLUE SHIELD SR|BLUE SHIELD SR|methodology": 61,
+    "standard_charge|BLUE SHIELD SR Mediconnect|BLUE SHIELD SR Mediconnect|negotiated_dollar": 61,
+    "standard_charge|BLUE SHIELD SR Mediconnect|BLUE SHIELD SR Mediconnect|methodology": 61,
+    "standard_charge|BLUE SHIELD SR Other|BLUE SHIELD SR Other|negotiated_dollar": 61,
+    "standard_charge|BLUE SHIELD SR Other|BLUE SHIELD SR Other|methodology": 61,
+    "standard_charge|HEALTH SHARING MINISTRY (MCR)|HEALTH SHARING MINISTRY (MCR)|negotiated_dollar": 61,
+    "standard_charge|HEALTH SHARING MINISTRY (MCR)|HEALTH SHARING MINISTRY (MCR)|methodology": 61,
+    "standard_charge|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS|negotiated_dollar": 66,
+    "standard_charge|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS|negotiated_algorithm": 65,
+    "standard_charge|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS|methodology": 66,
+    "count|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS": 65,
+    "additional_payer_notes|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS": 65,
+    "standard_charge|HEALTHNET HMO|HEALTHNET HMO|negotiated_dollar": 66,
+    "standard_charge|HEALTHNET HMO|HEALTHNET HMO|negotiated_algorithm": 63,
+    "standard_charge|HEALTHNET HMO|HEALTHNET HMO|methodology": 66,
+    "count|HEALTHNET HMO|HEALTHNET HMO": 63,
+    "additional_payer_notes|HEALTHNET HMO|HEALTHNET HMO": 63,
+    "standard_charge|HEALTHNET HMO EXCHANGE (MCR)|HEALTHNET HMO EXCHANGE (MCR)|negotiated_dollar": 61,
+    "standard_charge|HEALTHNET HMO EXCHANGE (MCR)|HEALTHNET HMO EXCHANGE (MCR)|methodology": 61,
+    "standard_charge|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED|negotiated_dollar": 61,
+    "standard_charge|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED|negotiated_algorithm": 61,
+    "standard_charge|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED|methodology": 61,
+    "count|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED": 61,
+    "additional_payer_notes|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED": 66,
+    "standard_charge|HST TECHNOLOGY (MCR)|HST TECHNOLOGY (MCR)|negotiated_dollar": 61,
+    "standard_charge|HST TECHNOLOGY (MCR)|HST TECHNOLOGY (MCR)|methodology": 61,
+    "standard_charge|MEDICARE MANAGED 100 Percantage|MEDICARE MANAGED 100 Percentage|negotiated_dollar": 61,
+    "standard_charge|MEDICARE MANAGED 100 Percantage|MEDICARE MANAGED 100 Percentage|methodology": 61,
+    "standard_charge|MHSC EMPLOYEE (MCR)|MHSC EMPLOYEE (MCR)|negotiated_dollar": 61,
+    "standard_charge|MHSC EMPLOYEE (MCR)|MHSC EMPLOYEE (MCR)|methodology": 61,
+    "standard_charge|MOLINA EXCHANGE (MCR)|MOLINA EXCHANGE (MCR)|negotiated_dollar": 61,
+    "standard_charge|MOLINA EXCHANGE (MCR)|MOLINA EXCHANGE (MCR)|methodology": 61,
+    "standard_charge|PHCS|PHCS|negotiated_dollar": 66,
+    "standard_charge|PHCS|PHCS|methodology": 66,
+    "standard_charge|REGAL MEDICAL GROUP (MCR)|REGAL MEDICAL GROUP (MCR)|negotiated_dollar": 61,
+    "standard_charge|REGAL MEDICAL GROUP (MCR)|REGAL MEDICAL GROUP (MCR)|methodology": 61,
+    "standard_charge|SELF-PAY - CA Resident|SELF-PAY - CA Resident|negotiated_dollar": 66,
+    "standard_charge|SELF-PAY - CA Resident|SELF-PAY - CA Resident|methodology": 66,
+    "standard_charge|SELF-PAY - Non-CA Resident|SELF-PAY - Non-CA Resident|negotiated_dollar": 66,
+    "standard_charge|SELF-PAY - Non-CA Resident|SELF-PAY - Non-CA Resident|methodology": 66,
+    "standard_charge|UHC ALL PAYER|UHC ALL PAYER|negotiated_dollar": 64,
+    "standard_charge|UHC ALL PAYER|UHC ALL PAYER|methodology": 64,
+    "standard_charge|UHC NAVIGATE/SELECT|UHC NAVIGATE/SELECT|negotiated_dollar": 66,
+    "standard_charge|UHC NAVIGATE/SELECT|UHC NAVIGATE/SELECT|methodology": 66,
+    "standard_charge|BLUE SHIELD HMO|BLUE SHIELD HMO|negotiated_algorithm": 41,
+    "count|BLUE SHIELD HMO|BLUE SHIELD HMO": 41,
+    "additional_payer_notes|BLUE SHIELD HMO|BLUE SHIELD HMO": 41,
+    "standard_charge|Blue Shield PPO|Blue Shield PPO|negotiated_algorithm": 41,
+    "median_amount|Blue Shield PPO|Blue Shield PPO": 3,
+    "10th_percentile|Blue Shield PPO|Blue Shield PPO": 3,
+    "90th_percentile|Blue Shield PPO|Blue Shield PPO": 3,
+    "count|Blue Shield PPO|Blue Shield PPO": 41,
+    "additional_payer_notes|Blue Shield PPO|Blue Shield PPO": 41,
+    "standard_charge|CIGNA|CIGNA|negotiated_algorithm": 41,
+    "count|CIGNA|CIGNA": 41,
+    "standard_charge|CIGNA PPO|CIGNA PPO|negotiated_algorithm": 41,
+    "count|CIGNA PPO|CIGNA PPO": 41,
+    "additional_payer_notes|CIGNA PPO|CIGNA PPO": 41,
+    "median_amount|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS": 22,
+    "10th_percentile|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS": 22,
+    "90th_percentile|HEALTHCARE PARTNERS|HEALTHCARE PARTNERS": 22,
+    "median_amount|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED": 5,
+    "10th_percentile|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED": 5,
+    "90th_percentile|HEALTHNET PPO ENHANCED|HEALTHNET PPO ENHANCED": 5,
+    "median_amount|CIGNA|CIGNA": 1,
+    "10th_percentile|CIGNA|CIGNA": 1,
+    "90th_percentile|CIGNA|CIGNA": 1,
+    "median_amount|HEALTHNET HMO|HEALTHNET HMO": 7,
+    "10th_percentile|HEALTHNET HMO|HEALTHNET HMO": 7,
+    "90th_percentile|HEALTHNET HMO|HEALTHNET HMO": 7,
+    "median_amount|CIGNA PPO|CIGNA PPO": 1,
+    "10th_percentile|CIGNA PPO|CIGNA PPO": 1,
+    "90th_percentile|CIGNA PPO|CIGNA PPO": 1,
+    "additional_payer_notes|UHC ALL PAYER|UHC ALL PAYER": 2,
+    "standard_charge|UHC NAVIGATE/SELECT|UHC NAVIGATE/SELECT|negotiated_algorithm": 2,
+    "count|UHC NAVIGATE/SELECT|UHC NAVIGATE/SELECT": 2,
+    "additional_payer_notes|UHC NAVIGATE/SELECT|UHC NAVIGATE/SELECT": 2,
+    "additional_payer_notes|Blue Cross|Blue Cross": 5,
+    "additional_payer_notes|BLUE SHIELD SR|BLUE SHIELD SR": 5,
+    "additional_payer_notes|BLUE SHIELD SR Mediconnect|BLUE SHIELD SR Mediconnect": 5,
+    "additional_payer_notes|BLUE SHIELD SR Other|BLUE SHIELD SR Other": 5,
+    "additional_payer_notes|HEALTH SHARING MINISTRY (MCR)|HEALTH SHARING MINISTRY (MCR)": 5,
+    "additional_payer_notes|HEALTHNET HMO EXCHANGE (MCR)|HEALTHNET HMO EXCHANGE (MCR)": 5,
+    "additional_payer_notes|HST TECHNOLOGY (MCR)|HST TECHNOLOGY (MCR)": 5,
+    "additional_payer_notes|MEDICARE MANAGED 100 Percantage|MEDICARE MANAGED 100 Percentage": 5,
+    "additional_payer_notes|MHSC EMPLOYEE (MCR)|MHSC EMPLOYEE (MCR)": 5,
+    "additional_payer_notes|MOLINA EXCHANGE (MCR)|MOLINA EXCHANGE (MCR)": 5,
+    "additional_payer_notes|REGAL MEDICAL GROUP (MCR)|REGAL MEDICAL GROUP (MCR)": 5,
+    "additional_payer_notes|BLUE SHIELD EXCHANGE|BLUE SHIELD EXCHANGE": 3
   },
   "sources": [
     {
@@ -2329,6 +3208,13 @@
       "source_sha256": "40608c26af4cba48da8bcb3a7ae7098badafda63561e5fb8312bb354c1798310",
       "source_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/akron-general",
       "extracted_at": "2026-10-22T05:32:06Z"
+    },
+    {
+      "source_id": "almost-home-kids",
+      "records": 162,
+      "source_sha256": "1a33ba7909b14b69b4cf7e8964132826b1b520c57d23e9180f35f1de4cc1586a",
+      "source_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370662569_osf-saint-francis-medical-center_standardcharges.json",
+      "extracted_at": "2026-10-22T05:43:06Z"
     },
     {
       "source_id": "alta-bates-summit-medical-center-alta-bates-campus",
@@ -2373,6 +3259,20 @@
       "extracted_at": "2026-10-22T05:28:14Z"
     },
     {
+      "source_id": "baylor-scott-white-emergency-medical-center-cedar-park",
+      "records": 427,
+      "source_sha256": "55c75b4ca8100e57d9b6b7116f1a152ac4fd9a3774e1e0ab5c8ceb315338752d",
+      "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/203749695_baylor-scott--white-emergency-medical-center--cedar-park_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:12Z"
+    },
+    {
+      "source_id": "baylor-scott-white-pavilion-temple",
+      "records": 510,
+      "source_sha256": "2aecc15b700a39be80022f26b023652862c0b5f2f868ebb22458f0a02e2b01e7",
+      "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741166904_baylor-scott--white-pavilion--temple_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:46:12Z"
+    },
+    {
       "source_id": "boston-medical-center-brighton",
       "records": 2470,
       "source_sha256": "82e4e827864c09cc80a2b3fc3bcd6cef87815181ab74ba5ca579217bd951c0ed",
@@ -2385,6 +3285,20 @@
       "source_sha256": "1fe3320439664efb9fbece181db7fdaba8e29df00b3cb9d7e4aa7f99d703ce9b",
       "source_url": "https://www.bmchealthsystem.org/wp-content/uploads/272473728_BostonMedicalCenterSouth_standardcharges.csv.zip",
       "extracted_at": "2026-10-22T05:28:59Z"
+    },
+    {
+      "source_id": "boston-medical-center",
+      "records": 4800,
+      "source_sha256": "77660f57289afcf250bc03eff8ef68819b813eb0b85d82e8e3a413c45c19ecde",
+      "source_url": "https://www.bmchealthsystem.org/wp-content/uploads/043314093_BostonMedicalCenter_standardcharges.csv.zip",
+      "extracted_at": "2026-10-22T05:44:26Z"
+    },
+    {
+      "source_id": "bryn-mawr-hospital",
+      "records": 826,
+      "source_sha256": "b38f45238d4de15d1c68df361483982dd8094359baa7268eea12ccffc732b347",
+      "source_url": "https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/231352160_the-bryn-mawr-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:51Z"
     },
     {
       "source_id": "bryn-mawr-rehab-hospital",
@@ -2422,6 +3336,13 @@
       "extracted_at": "2026-10-22T05:37:20Z"
     },
     {
+      "source_id": "christiana-hospital",
+      "records": 2012,
+      "source_sha256": "426f854084556f13b8dde02e77ae4694670b59ef028b7b95c04131fae487123a",
+      "source_url": "https://documents.christianacare.org/Finance/510103684_christianacare_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:01:49Z"
+    },
+    {
       "source_id": "cleveland-clinic-childrens-hospital-for-rehabilitation",
       "records": 749,
       "source_sha256": "45943d2c465df58962f00c356e38cf2fce60451a100a93a1bec86790779ae532",
@@ -2436,11 +3357,32 @@
       "extracted_at": "2026-10-22T05:33:04Z"
     },
     {
+      "source_id": "cleveland-clinic-main-campus",
+      "records": 23782,
+      "source_sha256": "7908c58768b530bd0d2eae31ed731fbd8cb671dcba5e500d522a2039b1a5c881",
+      "source_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/clevelandclinic",
+      "extracted_at": "2026-10-22T05:46:17Z"
+    },
+    {
       "source_id": "community-hospital-of-stokes",
       "records": 54,
       "source_sha256": "45d6e475458ff77ea42d900a9f16c2edf6bfadebf11e28959624a7bd2c2de3f0",
       "source_url": "https://www2.novanthealth.org/Public_Files/regulatory/334072561_novant-health-stokes-medical-center_standardcharges_6-2026.csv",
       "extracted_at": "2026-10-22T05:08:37Z"
+    },
+    {
+      "source_id": "copley-memorial-hospital-inc",
+      "records": 1202,
+      "source_sha256": "e27a7b3f57f93b7bf3bcdc536edcba9622d5750b49a585858b6cfe316658ed9b",
+      "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCMHAURORAIL&type=CDMWithoutLabel&fileType=CSV",
+      "extracted_at": "2026-10-22T05:43:05Z"
+    },
+    {
+      "source_id": "covenant-specialty-hospital",
+      "records": 66,
+      "source_sha256": "21738e178870bae6f17da867dc516147f384a35bc1a1fc6486bc1090cd18444d",
+      "source_url": "https://pricetransparency.providence.org/txnm/live/205033419_covenant-specialty-hospital_standardcharges.json",
+      "extracted_at": "2026-10-22T06:01:23Z"
     },
     {
       "source_id": "doylestown-hospital",
@@ -2450,11 +3392,32 @@
       "extracted_at": "2026-10-22T05:36:14Z"
     },
     {
+      "source_id": "duke-health-lake-norman-hospital",
+      "records": 132,
+      "source_sha256": "62bbd8b224bb1c1f05d21ab5465f433ccf446bf1b1e9b61582d4323581d50e52",
+      "source_url": "https://rca.elevatepfs.com/ptapp/api/cdm/export/oneclick?recno=c63aa9e0ca2813b16b47832dbe7b87882e211317b4b2dded9f0599d8cd150754",
+      "extracted_at": "2026-10-22T05:43:01Z"
+    },
+    {
       "source_id": "eden-medical-center",
       "records": 350,
       "source_sha256": "72264d7836a9bb54b78d77da5ea2b7294562c163569dbdec82c3392dda6ee38e",
       "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/940562680-1063812907_eden-medical-center_standardcharges.csv",
       "extracted_at": "2026-10-22T05:29:32Z"
+    },
+    {
+      "source_id": "emory-decatur-hospital",
+      "records": 879,
+      "source_sha256": "dad24219dd77899b9c9a1f594a888fdda463ee02718c1b4a585098c88798e3cd",
+      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/581966795-1093716979_dekalb-medical-center-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:34Z"
+    },
+    {
+      "source_id": "emory-hillandale-hospital",
+      "records": 809,
+      "source_sha256": "1a053bc2a88fdb70bf2acab4cdca38a164af4fa5549b809327ee742dc8240c53",
+      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/581966795-1962403865_dekalb-medical-center-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:48Z"
     },
     {
       "source_id": "emory-hospital-perry",
@@ -2471,6 +3434,13 @@
       "extracted_at": "2026-10-22T05:35:35Z"
     },
     {
+      "source_id": "emory-johns-creek-hospital",
+      "records": 872,
+      "source_sha256": "31578906159936dbda7b5ec8b0b715b9dc47744ee7616c367866036de52644ec",
+      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/582433436-1679632137_ehca-johns-creek-llc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:16Z"
+    },
+    {
       "source_id": "emory-long-term-acute-care-hospital",
       "records": 177,
       "source_sha256": "95986657aac24c6c8d5de202a0bd4300be603990aac6c0e890ba01824f7b54d1",
@@ -2483,6 +3453,27 @@
       "source_sha256": "bc586d1f31632ab5d23d3386325db4dabb7789c70c73bb4fa9d014d5073906c0",
       "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/463808276_1548698723_es-rehabilitation-llc_standardcharges.csv",
       "extracted_at": "2026-10-22T05:35:40Z"
+    },
+    {
+      "source_id": "emory-saint-joseph-s-hospital",
+      "records": 872,
+      "source_sha256": "28c9a549fee224b402068e9aff83635cea83387e05fb6d5d700f5fce031e37de",
+      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/580566257_1679664395_saint-josephs-hospital-of-atlanta-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:40Z"
+    },
+    {
+      "source_id": "emory-university-hospital-midtown",
+      "records": 879,
+      "source_sha256": "5d25d968885cb9f6f593ff832bcc508d5244d2a8655c42e3a79ba9d156019b52",
+      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/580566200_1144203563_crawford-long-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:56Z"
+    },
+    {
+      "source_id": "emory-university-hospital",
+      "records": 879,
+      "source_sha256": "03d57df5c9685bd11f112d2372eb87a3d3b8fb3b7d1ee058505a72a14cd792b6",
+      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/580566256_1588640692_emory-university_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:53Z"
     },
     {
       "source_id": "euclid-hospital",
@@ -2499,11 +3490,74 @@
       "extracted_at": "2026-10-22T05:31:06Z"
     },
     {
+      "source_id": "fox-chase-cancer-center",
+      "records": 2465,
+      "source_sha256": "cd55fd03eb939e015b95d170048755c3aed40b4288ff7c5d12d48a9346f8484e",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/231352156_fox-chase-cancer-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:52:03Z"
+    },
+    {
+      "source_id": "franklin-memorial-hospital",
+      "records": 2180,
+      "source_sha256": "650a42f262ddf7e628c2cbedf5659c9e12c46afab3873334f3b60fe9b6d9d824",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7978/010238552-1922791417_mainehealth_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:50:52Z"
+    },
+    {
       "source_id": "henry-ford-brighton-center-for-recovery",
       "records": 20,
       "source_sha256": "a40828daeaf4913194032027aace62f71777ad48322584f809f5e87b807ffa23",
       "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381576680_henry-ford-brighton-center-for-recovery_standardcharges.csv",
       "extracted_at": "2026-10-22T05:07:57Z"
+    },
+    {
+      "source_id": "henry-ford-genesys-hospital",
+      "records": 1350,
+      "source_sha256": "3f3b24e834a841545ee0acf3accfdcd8eed7d20cb0ed94995d1b198e7dd387dc",
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/382377821_henry-ford-genesys-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:46:03Z"
+    },
+    {
+      "source_id": "henry-ford-madison-heights-hospital",
+      "records": 393,
+      "source_sha256": "a6097bbc275dd134989fe8277328461a6a9725cbd436ff5409bcfd80b95b4a3d",
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/383322109-1215139233_henry-ford-madison-heights-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:59:15Z"
+    },
+    {
+      "source_id": "henry-ford-providence-novi-hospital",
+      "records": 2994,
+      "source_sha256": "557c161e840fcfcaaa54b337aa4a84fd25fe0cd4ff47f8d68f9a9e706d3f0813",
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381358212-1144210253_henry-ford-providence-novi-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:53Z"
+    },
+    {
+      "source_id": "henry-ford-providence-southfield-hospital",
+      "records": 3137,
+      "source_sha256": "30370ff862d6a75e81bb6c19b69c21b83624357e26362ff80d48f5589240a040",
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381358212-1144210253_henry-ford-providence-southfield-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:56Z"
+    },
+    {
+      "source_id": "henry-ford-river-district-hospital",
+      "records": 1503,
+      "source_sha256": "f04f63c5ef0c863f1ea52244214a05d6f745f1ddf0b130a3d14d0af5cc16948b",
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/383160564_henry-ford-river-district-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:48:19Z"
+    },
+    {
+      "source_id": "henry-ford-st-john-hospital",
+      "records": 2875,
+      "source_sha256": "1c863d682d76d2e5a529664a74a2cf6cc6de03c1dfb40fadbf9a61391382e365",
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381359063_henry-ford-st-john-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:59:57Z"
+    },
+    {
+      "source_id": "henry-ford-warren-hospital",
+      "records": 1590,
+      "source_sha256": "3fad4db60a467c016e41f7661511f28c82a1df5e541283720259ca3812bd57ef",
+      "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/383322109-1124099858_henry-ford-warren-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:52:02Z"
     },
     {
       "source_id": "hillcrest-hospital",
@@ -2723,6 +3777,69 @@
       "extracted_at": "2026-10-22T05:28:37Z"
     },
     {
+      "source_id": "keck-hospital-of-usc",
+      "records": 898,
+      "source_sha256": "a0941870fcc678700083109f5724ced6da381cf1949166f718d04055293a4240",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=5fSixiuBb0ZpZwZgOthF7A*-*",
+      "extracted_at": "2026-10-22T05:57:35Z"
+    },
+    {
+      "source_id": "lankenau-medical-center",
+      "records": 811,
+      "source_sha256": "ee55095ae2db2022e74ec6668888349a0c736b3a9fa322a8c58fd0f588f8703b",
+      "source_url": "https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1352160_lankenau-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:47:51Z"
+    },
+    {
+      "source_id": "legacy-mount-hood-medical-center",
+      "records": 259,
+      "source_sha256": "24d7097ac06c4dd54f7fd2a9cbc486992837dc1ba4e7d317894124814b1d1a90",
+      "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/930591528_legacy-mount-hood-medical-center_standardcharges.json",
+      "extracted_at": "2026-10-22T05:48:23Z"
+    },
+    {
+      "source_id": "legacy-salmon-creek-medical-center",
+      "records": 240,
+      "source_sha256": "98f9ba693f4b126613a1fd40d4a1b85cb843110896d7de07868aa8f04d0e9156",
+      "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/331065485_legacy-salmon-creek-medical-center_standardcharges.json",
+      "extracted_at": "2026-10-22T05:47:14Z"
+    },
+    {
+      "source_id": "legacy-silverton-medical-center",
+      "records": 236,
+      "source_sha256": "bab0074de7225363034898c1f6d3f7a49ab221f912089b271783f13286deee80",
+      "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/930281321_legacy-silverton-medical-center_standardcharges.json",
+      "extracted_at": "2026-10-22T05:43:09Z"
+    },
+    {
+      "source_id": "legacy-unity-center-for-behavioral-health-adolescent-ip",
+      "records": 1012,
+      "source_sha256": "a61b670a57477c6e42c1241aef75f2f9aa5e9181e66a22daa5cb3617c416c27d",
+      "source_url": "https://www.legacyhealth.org/-/media/Files/CSV/930386823_legacy-Unity-Adolescent-IP_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:48:55Z"
+    },
+    {
+      "source_id": "legacy-unity-center-for-behavioral-health-adult-ip",
+      "records": 259,
+      "source_sha256": "30afb6e3600eacc8c194207a46130777feb69905090eb8e1a5ffabc2f7a12668",
+      "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/930386823_legacy-Unity-Adult-IP_standardcharges.json",
+      "extracted_at": "2026-10-22T05:50:59Z"
+    },
+    {
+      "source_id": "legacy-unity-center-for-behavioral-health-pes",
+      "records": 259,
+      "source_sha256": "30afb6e3600eacc8c194207a46130777feb69905090eb8e1a5ffabc2f7a12668",
+      "source_url": "https://www.legacyhealth.org/-/media/files/json/930386823_legacy-unity-adult-pes_standardcharges.json",
+      "extracted_at": "2026-10-22T05:51:37Z"
+    },
+    {
+      "source_id": "lincoln-health",
+      "records": 2551,
+      "source_sha256": "8cd977ca5f7cc04b6738b23ab572ccdbc27d1192bddea5fecadcd520b9c4ba63",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7981/010238552-1912094806_mainehealth_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:48Z"
+    },
+    {
       "source_id": "lodi-hospital",
       "records": 3426,
       "source_sha256": "9cec981a66194039708cec90fc91503291446a56c5355bd6c3730a0bd1b5ab9b",
@@ -2742,6 +3859,13 @@
       "source_sha256": "96cf71d475e2a5a1b46fcf0bd95db2a46976d0a419131faa6e783b81a263d0e0",
       "source_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/lutheran",
       "extracted_at": "2026-10-22T05:30:47Z"
+    },
+    {
+      "source_id": "mainehealth-memorial-hospital",
+      "records": 2253,
+      "source_sha256": "5a65a4a73d47eb04144006de4183c99e936e29ce4648d99b8ae8e55ed451f13f",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7979/020222156-1760436216_mainehealth_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:57:16Z"
     },
     {
       "source_id": "martin-north-hospital",
@@ -2968,11 +4092,46 @@
       "extracted_at": "2026-10-22T05:08:14Z"
     },
     {
+      "source_id": "mercy-hospital-ada",
+      "records": 8365,
+      "source_sha256": "0c17c335a97a1699fa27a0ce5bd6c4073b7670180384bdc199be276428315848",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/462288155_mercy-hospital-ada_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:45:32Z"
+    },
+    {
+      "source_id": "mercy-hospital-ardmore",
+      "records": 9679,
+      "source_sha256": "ff723ac72b85fd851da2707f190288d01514b30217c6b1cd49c14ded155d355b",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/731500629_mercy-hospital-ardmore_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:50:17Z"
+    },
+    {
       "source_id": "mercy-hospital-aurora",
       "records": 10333,
       "source_sha256": "61304c1fab5dfd66b3438a75c274c65ad583954a648eccfe21f097b8da7e31ce",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/431936696_mercy-hospital-aurora_standardcharges.zip",
       "extracted_at": "2026-10-22T05:34:35Z"
+    },
+    {
+      "source_id": "mercy-hospital-berryville",
+      "records": 10454,
+      "source_sha256": "e11152c6b5a89349aef02861c837a9801030f4b8da334d869756a74056a3208f",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710759299_mercy-hospital-berryville_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:47:42Z"
+    },
+    {
+      "source_id": "mercy-hospital-boonville",
+      "records": 6846,
+      "source_sha256": "c236373c7a4857f731d20699df9904b805da2aaf717494f393e1e3db15e98673",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463851119_mercy-hospital-booneville_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:43:40Z"
+    },
+    {
+      "source_id": "mercy-hospital-carthage",
+      "records": 11443,
+      "source_sha256": "c2a9e96d53e7b310b26283427728020d59962828113ddeecb2360d0d7725bad9",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/453808607_mercy-hospital-carthage_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:53:39Z"
     },
     {
       "source_id": "mercy-hospital-cassville",
@@ -2989,6 +4148,13 @@
       "extracted_at": "2026-10-22T05:15:49Z"
     },
     {
+      "source_id": "mercy-hospital-fort-smith",
+      "records": 10920,
+      "source_sha256": "48ef38c759ed894a60dc141c7dfc5e4ff57e725129695b884d5d999fadc1cea5",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710240352_mercy-hospital-fort-smith_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:53:29Z"
+    },
+    {
       "source_id": "mercy-hospital-healdton",
       "records": 7483,
       "source_sha256": "e3a3476176b08a183a31cb8748f32cc7d9a6a05acf8caa33158931f9015a068a",
@@ -2996,11 +4162,32 @@
       "extracted_at": "2026-10-22T05:17:07Z"
     },
     {
+      "source_id": "mercy-hospital-jefferson",
+      "records": 12584,
+      "source_sha256": "7ecc19dd4ebb13ac8107c075c74de76c0b7f758a6a68329bcdb65c1253b9840b",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/430687077_mercy-hospital-jefferson_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:44:41Z"
+    },
+    {
+      "source_id": "mercy-hospital-joplin",
+      "records": 11737,
+      "source_sha256": "00e74e4e7e9a5f39a4d5b22f6258f5c6788a6e9ac6e1b94fb2d547884fadd25f",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/270814858_mercy-hospital-joplin_standardcharges.zip",
+      "extracted_at": "2026-10-22T06:02:17Z"
+    },
+    {
       "source_id": "mercy-hospital-kingfisher",
       "records": 1057,
       "source_sha256": "ddff42e72f60320e17d82a5843970ff4b1ffda89b0651bd16bb41f0c550031af",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463433074_mercy-hospital-kingfisher_standardcharges.zip",
       "extracted_at": "2026-10-22T05:08:41Z"
+    },
+    {
+      "source_id": "mercy-hospital-lebanon",
+      "records": 9392,
+      "source_sha256": "d0e298a0ebb9d243473ee47ea02d46331ff2e338f998f8f8d2c6af8099ad65db",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/431767432_mercy-hospital-lebanon_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:48:15Z"
     },
     {
       "source_id": "mercy-hospital-lincoln",
@@ -3015,6 +4202,20 @@
       "source_sha256": "f22a3e878c0da972fc80439bf945a63e3e2427e657e58a5edb5be1d146dcaad5",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/452998842_mercy-hospital-logan-county_standardcharges.zip",
       "extracted_at": "2026-10-22T05:11:56Z"
+    },
+    {
+      "source_id": "mercy-hospital-northwest-arkansas",
+      "records": 11207,
+      "source_sha256": "db5befde9b69841630160a430de226ca54607c0736fdc45c7cf3c5953d4aa8a5",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/621684203_mercy-hospital-northwest-arkansas_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:55:18Z"
+    },
+    {
+      "source_id": "mercy-hospital-oklahoma-city",
+      "records": 11292,
+      "source_sha256": "fae2d5cf7a05760eecf501d40490ce8602198b42fb411a21c21e481ebbc31472",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/730579285_mercy-hospital-oklahoma-city_standardcharges.zip",
+      "extracted_at": "2026-10-22T06:00:39Z"
     },
     {
       "source_id": "mercy-hospital-ozark",
@@ -3073,6 +4274,13 @@
       "extracted_at": "2026-10-22T05:15:17Z"
     },
     {
+      "source_id": "mercy-hospital-south",
+      "records": 13184,
+      "source_sha256": "c34225b49155400023463eb9c4a1a573e9aab78fc04b56067c0ca051057240b6",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/430980256_mercy-hospital-south_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:57:05Z"
+    },
+    {
       "source_id": "mercy-hospital-southeast",
       "records": 7798,
       "source_sha256": "0aa2b921327800165924daa41c720a2d7b363b8fa6e945d4da8f063eaf154183",
@@ -3101,6 +4309,13 @@
       "extracted_at": "2026-10-22T05:16:37Z"
     },
     {
+      "source_id": "mercy-hospital-washington",
+      "records": 15194,
+      "source_sha256": "b4fe928c053a3466ee59158a2d2d608d5b5fd926677a23b81262d60747183702",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/562410022_mercy-hospital-washington_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:57:08Z"
+    },
+    {
       "source_id": "mercy-hospital-watonga",
       "records": 6303,
       "source_sha256": "df1ec31049b5ebde169f13591d104c7315251d33feb174379f0ae666781e539e",
@@ -3120,6 +4335,13 @@
       "source_sha256": "bebfc6f9d8fa4d28ab9642a5b96eea3300eb60ff819f13ca381a9ccd51ca914c",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/431066883_mercy-hospital-washington-McAuleyClinic_RHC_standardcharges.zip",
       "extracted_at": "2026-10-22T05:12:26Z"
+    },
+    {
+      "source_id": "mercy-orthopedic-hospital-fort-smith",
+      "records": 10920,
+      "source_sha256": "e33307718c61db5bc848b15cc2a480b835a8a76e3b43c9ad5f004a4088499912",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710240352_mercy-orthopedic-hospital-fort-smith_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:53:51Z"
     },
     {
       "source_id": "mercy-pediatrics-carthage",
@@ -3220,11 +4442,32 @@
       "extracted_at": "2026-10-22T05:08:29Z"
     },
     {
+      "source_id": "mercy-rehabilitation-hospital-oklahoma-city-south",
+      "records": 945,
+      "source_sha256": "efa1552ef0fc150e879f39fcd3cac670c7a3c4f6fb9a972d9bf75a563c03e75a",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/815077105_mercy-rehabilitation-hospital-okcsouth_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:02Z"
+    },
+    {
       "source_id": "mercy-rehabilitation-hospital-oklahoma-city",
       "records": 945,
       "source_sha256": "6fa973c3d15c46a4f7bac0c43c6208434f487ed1279ff1fb6e0ffbe6d9837b32",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/274736089_mercy-rehabilitation-hospital-oklahoma-city-llc_standardcharges.csv",
       "extracted_at": "2026-10-22T05:37:49Z"
+    },
+    {
+      "source_id": "mercy-rehabilitation-hospital-south",
+      "records": 1568,
+      "source_sha256": "aba2ff2733b950d3e8a29f2f7d38d6bbf8e26d0d86829ac7d1611ab493be6329",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/844372720_mercy-rehabilitation-hospital-south_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:38Z"
+    },
+    {
+      "source_id": "mercy-rehabilitation-hospital-st-louis",
+      "records": 1568,
+      "source_sha256": "2e7ff6a0d05c200fa86b9068b1793f971853207bacd4b4827f7aa9ff29574dd7",
+      "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/364579024_mercy-rehabilitation-hospital-st.-louis_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:41Z"
     },
     {
       "source_id": "mercy-specialty-hospital-southeast-kansas",
@@ -3262,11 +4505,74 @@
       "extracted_at": "2026-10-22T05:31:11Z"
     },
     {
+      "source_id": "missouri-baptist-sullivan-hospital",
+      "records": 68,
+      "source_sha256": "878e46c57f3bb774aca23c782f3e439b6ecd12e379b133432bd98408c1bfebd9",
+      "source_url": "https://www.bjc.org/hpt/36/431459495_MissouriBaptistSullivanHospital_standardcharges.json",
+      "extracted_at": "2026-10-22T05:57:37Z"
+    },
+    {
+      "source_id": "morrow-county-hospital",
+      "records": 1815,
+      "source_sha256": "765965322569ce85f12430f20811ec500b69783cb9587067106b79455c1a8a0b",
+      "source_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/316402699_morrow-county-hospital-_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:44Z"
+    },
+    {
+      "source_id": "musc-columbia-medical-center-downtown",
+      "records": 679,
+      "source_sha256": "0a7b09f292af8c883271bc5d2bb3cacb8f55d6b3a06d59d16761f5eb79040c0a",
+      "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_tr2itvqeg97gh4j0inunmnr505/571098556_MUSC-Health-Columbia-Downtown_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:32Z"
+    },
+    {
+      "source_id": "musc-columbia-medical-center-northeast",
+      "records": 679,
+      "source_sha256": "60b3779a7af259e4d0e38341f52649443b4321aa6c19676a4ca7c18b5ef0b6fa",
+      "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_j9remo2pi11c9fhq99oscsnu6t/571098556_MUSC-Health-Columbia-Northeast_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:37Z"
+    },
+    {
+      "source_id": "musc-health-black-river-medical-center",
+      "records": 617,
+      "source_sha256": "58bb44ce8b2a2908eb0a95bfe2b0f1057e1b9a4eda961315a3ee40579d626190",
+      "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_oc1lmkhfpd32n2vsn0omamdq72/571098556_MUSC-Health-Black-River-Medical-Center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:06Z"
+    },
+    {
       "source_id": "musc-health-chester-medical-center",
       "records": 543,
       "source_sha256": "4bb10ed5724ac8c41ece66794e12bc8e38c6aa460ad2df28e234d32f3674bff9",
       "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_fv9fh00c5560t34q025oqlfu3a/571098556_MUSC-Health-Chester-Medical-Center_standardcharges.csv",
       "extracted_at": "2026-10-22T05:36:55Z"
+    },
+    {
+      "source_id": "musc-health-florence-medical-center",
+      "records": 598,
+      "source_sha256": "62916842494007695e5e428bc6104775030d56398688c93900328aa549e9ce6c",
+      "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_l8kvqcfkj52of8aii6e7508p1e/571098556_MUSC-Health-Florence-Medical-Center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:51Z"
+    },
+    {
+      "source_id": "musc-health-kershaw-medical-center",
+      "records": 656,
+      "source_sha256": "9b3a272f78b8ab1d3350520afe969aead8635ee7f2a731ee91cbc8794d11dc60",
+      "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_c8jlgsg81d3fj04cb157bqnf7k/571098556_MUSC-Health-Kershaw-Medical-Center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:21Z"
+    },
+    {
+      "source_id": "musc-health-lancaster-medical-center",
+      "records": 598,
+      "source_sha256": "479a31d7529a778fbf24745889183cad0781a5b2df4113de18257728e36b77c3",
+      "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_ej79pildt52ol8kh9agq2i0b3p/571098556_MUSC-Health-Lancaster-Medical-Center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:15Z"
+    },
+    {
+      "source_id": "musc-health-main-campus-charleston",
+      "records": 576,
+      "source_sha256": "48c9aecd396a009ff01c20a40c840a99b9e4b63487f008f91c506a05f35069f3",
+      "source_url": "https://d3crna64wemw02.cloudfront.net/asset/339713052848/document_tt6t30451l5sn2ucbf23rab30t/571098556_MUSC-Health-Charleston-Main-Campus_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:02Z"
     },
     {
       "source_id": "musc-health-marion-medical-center",
@@ -3288,6 +4594,13 @@
       "source_sha256": "85f46ec0065b5b728f6cff778b97a9c91f3707cb95667e8c6881fcf5976a75e3",
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8166/910848698-1194728105_navos-multitreatment-center_standardcharges.csv",
       "extracted_at": "2026-10-22T05:11:53Z"
+    },
+    {
+      "source_id": "new-ulm-medical-center",
+      "records": 195,
+      "source_sha256": "e418b86d9d83477a88543e9aae6f08c68c77286a17af67832f75ca74d713db91",
+      "source_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_new-ulm-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:55:54Z"
     },
     {
       "source_id": "novato-community-hospital",
@@ -3353,11 +4666,102 @@
       "extracted_at": "2026-10-22T05:13:33Z"
     },
     {
+      "source_id": "oria-advocate_childrens_hospital_park_ridge-18937",
+      "records": 2507,
+      "source_sha256": "dc60d43194abd4e92a2d79834846eef7bd042edaafa6c70ca45a0ae1258258d0",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11262/362169147_advocate-childrens-hospital-park-ridge_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:57:24Z"
+    },
+    {
+      "source_id": "oria-advocate_christ_medical_center-48381",
+      "records": 2175,
+      "source_sha256": "a0cfaceb4312b8166e660ebafc3a9367a46d23bd38923bde177bdb85655355b2",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11263/362169147_advocate-christ-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:01:19Z"
+    },
+    {
+      "source_id": "oria-advocate_condell_medical_center-750d3",
+      "records": 2306,
+      "source_sha256": "5fe76ae68d522e17cb94e7836bb271d3fa461ae58584d2bdc6fae5f265fc3065",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11264/262525968_advocate-condell-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:57:15Z"
+    },
+    {
+      "source_id": "oria-advocate_good_samaritan_hospital-e3aa0",
+      "records": 2447,
+      "source_sha256": "bcdc607d501853c978bd32aecd2910ee7da7e44dc9505120a38276403ca4c66c",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11265/362169147_advocate-good-samaritan-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:57:28Z"
+    },
+    {
+      "source_id": "oria-advocate_good_shepherd_hospital-07f7a",
+      "records": 2439,
+      "source_sha256": "763a42127ee5547fbec286d63201e9683406a9cc7383422dd9c3d6e2642880b4",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11266/362169147_advocate-good-shepherd-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:55:37Z"
+    },
+    {
+      "source_id": "oria-advocate_illinois_masonic_medical_center-1da77",
+      "records": 2335,
+      "source_sha256": "162f7e7250a036a79d112b59e4eabed6f26a004f32b48ed15cd41340ecc25ba1",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11267/363196629_advocate-illinois-masonic-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:56:24Z"
+    },
+    {
+      "source_id": "oria-advocate_sherman_hospital-625b4",
+      "records": 1927,
+      "source_sha256": "38f3daa1eb6417948e6e5830116b10c18609f4b062c059247504857c43edb681",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11269/362167920_advocate-sherman-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:55:20Z"
+    },
+    {
+      "source_id": "oria-advocate_south_suburban_hospital-f10ff",
+      "records": 2225,
+      "source_sha256": "0770bdf0fc5a7f7b640cc560f5e8c5a8bfda4824e6b7408042301c324d6f8509",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11270/362169147_advocate-south-suburban-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:53:58Z"
+    },
+    {
+      "source_id": "oria-advocate_trinity_hospital-adb1c",
+      "records": 1966,
+      "source_sha256": "1dac47f3b4bb1ff1798e3de3d270697997910e498cbb53e06db5a17b96d7e189",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11271/362169147_advocate-trinity-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:51:20Z"
+    },
+    {
       "source_id": "oria-ahn_brentwood_neighborhood_hospital-28467",
       "records": 669,
       "source_sha256": "2aa8617b83699c09978796d2554e8735f1b759effad9c47547add486ee47fe0e",
       "source_url": "https://mrfs.hyvehealthcare.com/Emerus/852744492_AHN-Emerus-Westmoreland-LLC_standardcharges.csv",
       "extracted_at": "2026-10-22T05:16:03Z"
+    },
+    {
+      "source_id": "oria-ahn_wexford_hospital-2bdd9.jsonl.gz",
+      "records": 0,
+      "source_sha256": "6b9d978cb0fae3c6fa7e4bebed9a3c3a91d9d5862e750977645c0f1ffbd0c9e9",
+      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:46:57Z"
+    },
+    {
+      "source_id": "oria-alice_hyde_medical_center-f76b8",
+      "records": 2724,
+      "source_sha256": "bcecc390bffd7bb7b6942914db90214c146c4ca1e10138964f125eff32e229e4",
+      "source_url": "https://www.uvmhealth.org/sites/default/files/150346515_alice-hyde-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:43Z"
+    },
+    {
+      "source_id": "oria-allegheny_general_hospital-88bcb",
+      "records": 350,
+      "source_sha256": "5620f08e3f287fecfc22abc0c12cc954697ff52b5736048124adfba3c8ca50e7",
+      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1285667493_west-penn-allegheny-health-system-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:46:53Z"
+    },
+    {
+      "source_id": "oria-allegheny_valley_hospital-cfacb",
+      "records": 362,
+      "source_sha256": "210bcd43adeb18de8535eabbed1751d8947cd7366f435f4a5d7e512734caeafa",
+      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251875178_alle-kiski-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:46:45Z"
     },
     {
       "source_id": "oria-allegiance_specialty_hospital_of_greenville-1950a",
@@ -3395,6 +4799,13 @@
       "extracted_at": "2026-10-22T05:08:15Z"
     },
     {
+      "source_id": "oria-alliancehealth_madill-1cf2c",
+      "records": 152,
+      "source_sha256": "c3c00f57aa0be42034aec2149d59a9ec3b8089b6b7109869c7e3b6a324884674",
+      "source_url": "https://www.alliancehealthdurant.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/383862800_alliancehealth-madill_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:47:15Z"
+    },
+    {
       "source_id": "oria-alomere_health-9af77",
       "records": 523,
       "source_sha256": "75c41e681a6eb0b445f4a7fe3f3be85cbd18de12074a4e6ff74cc0e9d81a630d",
@@ -3402,11 +4813,46 @@
       "extracted_at": "2026-10-22T05:37:13Z"
     },
     {
+      "source_id": "oria-altru_hospital-2e8ad",
+      "records": 710,
+      "source_sha256": "1f7c9e643661c56db20ce5e865c10b8e197bcf6de7a89d83e6d1c9c1572e2423",
+      "source_url": "https://altru.org/documents/450310462altru-hospitalstandardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:05Z"
+    },
+    {
       "source_id": "oria-alvarado_parkway_institute_behavioral_health_system-acdde",
       "records": 13,
       "source_sha256": "b59f4976e26728c4edd3484b84cceac35211e7790e8e5fa0b27c182aa669e751",
       "source_url": "https://apibhs.com/website-compliance/Alvarado-Parkway-Institute_standardcharges.csv",
       "extracted_at": "2026-10-22T05:07:57Z"
+    },
+    {
+      "source_id": "oria-anderson_hospital-3f7d1",
+      "records": 309,
+      "source_sha256": "670c09117cf6148bf626e6994630d1c4a10506b974b323837a6482b9f95c4905",
+      "source_url": "https://www.mercy.com/-/media/mercy/patient-resources/hospital-pricing-transparency/310537085_mercy-health-anderson-hospital-llc_standardcharges.ashx",
+      "extracted_at": "2026-10-22T05:42:59Z"
+    },
+    {
+      "source_id": "oria-anmed_health-a4e50",
+      "records": 42805,
+      "source_sha256": "e81375daa543a33d862a2629d93536457b2a680dea33b075ec7e579335c15b0f",
+      "source_url": "https://anmed.org/sites/default/files/pricing/570359174_anmed-health_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:59:35Z"
+    },
+    {
+      "source_id": "oria-anmed_health_cannon-d537c",
+      "records": 23918,
+      "source_sha256": "0136a7e65c22b9fa8a2383c860e561ee5f0d8b66bf2b3d2d7f5e4ee2cdf8e3c9",
+      "source_url": "https://anmed.org/sites/default/files/pricing/570342027_anmed-health-cannon_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:49:33Z"
+    },
+    {
+      "source_id": "oria-anmed_health_piedmont-c979f",
+      "records": 23833,
+      "source_sha256": "8e99b622e86a2efd0957a0f7d69c5611480b23989842e62bcbda1976cf1fd405",
+      "source_url": "https://anmed.org/sites/default/files/pricing/anmed-health-piedmont_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:52:24Z"
     },
     {
       "source_id": "oria-annie_jeffrey_memorial_county_health_center-6f626",
@@ -3444,11 +4890,39 @@
       "extracted_at": "2026-10-22T05:35:30Z"
     },
     {
+      "source_id": "oria-arkansas_surgical_hospital_llc-8ade1",
+      "records": 23,
+      "source_sha256": "4aec1fc61feed2ed96af3e4037dfe0cf156589a925da9106a72eda79a26ef87c",
+      "source_url": "https://clariti-health.com/csp/clariti/machinereadable/v2/710858717_Arkansas-Surgical-Hospital-LLC_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:44Z"
+    },
+    {
       "source_id": "oria-arkansas_valley_regional_medical_center-459ff",
       "records": 59,
       "source_sha256": "e714881b1337096597f19054755699825c174f5c8ac8b2d62a5ff2e3cc406f68",
       "source_url": "https://secure.claraprice.net/price-transparency/5f7492531a/machine-readable/841465990_arkansas-valley-regional-medical-center_standardcharges.json",
       "extracted_at": "2026-10-22T05:32:39Z"
+    },
+    {
+      "source_id": "oria-armstrong_center_for_medicine_health-a5ba6",
+      "records": 197,
+      "source_sha256": "6546771b96377844429fcdce0286baaf13696b218fedc5a4d8b537619894ff18",
+      "source_url": "https://www.acmh.org/Files/Admin/250965237_Armstrong-County-Memorial-Hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:51:53Z"
+    },
+    {
+      "source_id": "oria-arroyo_grande_hospital-08843",
+      "records": 204,
+      "source_sha256": "06acfe434e63e79b7a747edd90bc361aa2488edadf67ad8bee3c67434a9e8cbd",
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcco/cacc/finance/price-transparency/941196203-1760510937_dignity-health-marian-regional-medical-center_standardcharges.json?target=%22_blank%22",
+      "extracted_at": "2026-10-22T05:54:16Z"
+    },
+    {
+      "source_id": "oria-ascension_alexian_brothers-12c9d",
+      "records": 1837,
+      "source_sha256": "891677648bcbee744133191b924785142d0a699e9009c082c212863b5c2d513d",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/362596381_alexian-brothers-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:00:26Z"
     },
     {
       "source_id": "oria-ascension_alexian_brothers_behavioral_health_hospital-e38e7",
@@ -3458,11 +4932,67 @@
       "extracted_at": "2026-10-22T05:15:58Z"
     },
     {
+      "source_id": "oria-ascension_sacred_heart_emerald_coast-3565a",
+      "records": 1350,
+      "source_sha256": "2ab173ca5d51b2d6a8674402849d19bc1e799b0fc3bf5546a80a14fe9c6cb548",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/721529708_sacred-heart-health-system-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:01:16Z"
+    },
+    {
+      "source_id": "oria-ascension_sacred_heart_gulf-4729f",
+      "records": 1216,
+      "source_sha256": "0b2cc70a87f9180175633f7f2225b6057420972843bdcbdb10d04b39b6db5018",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/300577249_sacred-heart-health-system-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:58:40Z"
+    },
+    {
+      "source_id": "oria-ascension_sacred_heart_rehabilitation_hospital-9657c",
+      "records": 941,
+      "source_sha256": "04626518cc6974bca79af9aed9a67995ffbc189937c95e54e6d31acdaa604d03",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390902199_sacred-heart-rehabilitation-institute-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:50Z"
+    },
+    {
+      "source_id": "oria-ascension_saint_alexius_ascension_st_alexius_medical_center-6a3a0",
+      "records": 1812,
+      "source_sha256": "602e77926d4ae74f7728bbf027b6c1a2da09cce56132da4134e84108e098f5a2",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/364251846_st-alexius-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:57:46Z"
+    },
+    {
+      "source_id": "oria-ascension_saint_joseph_chicago-5e5c2",
+      "records": 1835,
+      "source_sha256": "ef269e435594c68c91ba2b4cb0895cca60c4f60de343b8b6b92e9d052b17f888",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/362235165_presence-chicago-hospitals-network_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:58:23Z"
+    },
+    {
+      "source_id": "oria-ascension_saint_thomas_dekalb-41a81",
+      "records": 3643,
+      "source_sha256": "6d8d876cca485783c3eab180832b093ba4338fa66c4c7e92260e984c562177df",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/474063289_saint-thomas-dekalb-hospital-llc-_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:57:53Z"
+    },
+    {
       "source_id": "oria-ascension_saint_thomas_hickman-7c321",
       "records": 1010,
       "source_sha256": "dbe275aace40f3800c34f9bc70cb12d7e2586fbc8cc6901ab4eca1c8ef8e975d",
       "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/581737573_saint-thomas-hickman-hospital_standardcharges.csv",
       "extracted_at": "2026-10-22T05:37:04Z"
+    },
+    {
+      "source_id": "oria-ascension_saint_thomas_highlands-bcc7c",
+      "records": 3698,
+      "source_sha256": "700a041d8f12721b281d7d8e60274c135e9b913446189a2b463b85a97adb66f6",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/474063406_saint-thomas-highlands-hospital-llc-_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:00:42Z"
+    },
+    {
+      "source_id": "oria-ascension_saint_thomas_midtown-33425",
+      "records": 2130,
+      "source_sha256": "61fd62a4650e1a0ee775a207a971c8dc5b061f98529d9de702bb48d89bbafcc4",
+      "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620347580-1780778969_saint-thomas-west-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:51:08Z"
     },
     {
       "source_id": "oria-avala-89128",
@@ -3479,6 +5009,20 @@
       "extracted_at": "2026-10-22T05:16:42Z"
     },
     {
+      "source_id": "oria-concord_medical_center-33fba",
+      "records": 10002,
+      "source_sha256": "cf70023dd4793cdb2012598bf5b36e2741e98f5c293b1adaae31e7c402d9b107",
+      "source_url": "https://www.johnmuirhealth.com/content/dam/jmh/Documents/payments-and-insurance/machine-readable-files/68-0396600-1801821376_John-Muir-Health-Concord-Medical-Center_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:43:57Z"
+    },
+    {
+      "source_id": "oria-regional_one_health_rehabilitation_hospital-4ab15",
+      "records": 11845,
+      "source_sha256": "2aa30e105ed5448e8d91f70fadb2fa0f83a88e77205f5085e9f51f501b0bfc3d",
+      "source_url": "https://www.regionalonehealth.org/wp-content/uploads/2024/12/621113169_shelby-county-health-care_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:43Z"
+    },
+    {
       "source_id": "oria-samaritan_clinic_on_patton-d7834",
       "records": 7540,
       "source_sha256": "dda9a7e4bbae4e8907e73c52365105a080200ddb4c0fced3e6a4f921f938fd45",
@@ -3491,6 +5035,13 @@
       "source_sha256": "b59222fd426357c5872ff172c71dc2901b65a9c1d23d2f9fc76f7994a5c308d7",
       "source_url": "https://www.highpointhealthsystem.com/docs/ahhighpointhealthlibraries/hcl/mrf3q2026/621762535_strhs-winchester_standardcharges.csv",
       "extracted_at": "2026-10-22T05:31:00Z"
+    },
+    {
+      "source_id": "oria-walnut_creek_medical_center-e12ec",
+      "records": 9324,
+      "source_sha256": "fc8ddbabaff35f4d9a9d57ccb402a9cbb4cd36632ec59116819fe1e5ed664fb0",
+      "source_url": "https://www.johnmuirhealth.com/content/dam/jmh/Documents/payments-and-insurance/machine-readable-files/94-1461843-1740215219_John-Muir-Health-Walnut-Creek-Medical-Center_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:44:35Z"
     },
     {
       "source_id": "osf-healthcare-divine-mercy-continuing-care-hospital",
@@ -3598,6 +5149,27 @@
       "extracted_at": "2026-10-22T05:32:38Z"
     },
     {
+      "source_id": "paoli-hospital",
+      "records": 811,
+      "source_sha256": "7a518838c12a4285ff2fbcadf1fb6740878d9e8fb60efdeb57ddeb9add7cc844",
+      "source_url": "https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1352160_paoli-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:47:53Z"
+    },
+    {
+      "source_id": "parkland-health-center-bonne-terre",
+      "records": 85,
+      "source_sha256": "4d52642bcda232e906ccca607ad4e183ab4e871f7709a60667f1daf90530d86f",
+      "source_url": "https://www.bjc.org/hpt/81/431332368_ParklandHealthCenter-BonneTerre_standardcharges.json",
+      "extracted_at": "2026-10-22T05:56:26Z"
+    },
+    {
+      "source_id": "pen-bay-medical-center",
+      "records": 3447,
+      "source_sha256": "58a75bdd426c76f0e9e8ee35f0056e8e226d02ab649eca3ac3c391b6ca460233",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7976/010238552-1982645305_mainehealth_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:58:08Z"
+    },
+    {
       "source_id": "platte-valley-medical-center",
       "records": 168,
       "source_sha256": "21aa824af974f9dd4363dc53398caac53a2f654abbae2366ced2a69928f91727",
@@ -3696,6 +5268,13 @@
       "extracted_at": "2026-10-22T05:16:57Z"
     },
     {
+      "source_id": "providence-holy-family-hospital",
+      "records": 138,
+      "source_sha256": "c876bc8c6b51a559259676a727e392d67f8aa7fa83e7292b8e34c4755d71f32d",
+      "source_url": "https://pricetransparency.providence.org/wamt/live/352345508_providence-holy-family-hospital_standardcharges.json",
+      "extracted_at": "2026-10-22T06:02:04Z"
+    },
+    {
       "source_id": "providence-seward-hospital",
       "records": 61,
       "source_sha256": "09b16b13b2f72de034d8b7f4998eb1a94da0c32379d5dd8b2e729769107c3e2a",
@@ -3717,11 +5296,32 @@
       "extracted_at": "2026-10-22T05:34:20Z"
     },
     {
+      "source_id": "riddle-memorial-hospital",
+      "records": 821,
+      "source_sha256": "2748c3afe8abf030529e93bf1ea70ae72dba820a3a2472cc6ee6fc7e74bacda5",
+      "source_url": "https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1529076_riddle-memorial-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:47:42Z"
+    },
+    {
+      "source_id": "river-falls-area-hospital",
+      "records": 227,
+      "source_sha256": "90ac976b7520da400c358aea3c77e0317327e4786314ec1da64626494d53b80e",
+      "source_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_river-falls-area-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:51:35Z"
+    },
+    {
       "source_id": "rush-oak-park-hospital-inc",
       "records": 1327,
       "source_sha256": "9911daf73fc8a7ac7a7cb39bee21c4388d3357eed7207a0cddb62a687dddf0aa",
       "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRushOakPark&type=CDMWithoutLabel&fileType=CSV",
       "extracted_at": "2026-10-22T05:37:46Z"
+    },
+    {
+      "source_id": "rush-university-medical-center",
+      "records": 1512,
+      "source_sha256": "a7d0f09cb08aed3fd67c0eb13e97572f7cf714dd52f0e1912e18553435cc213e",
+      "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRUMCCHICAGOIL&type=CDMWithoutLabel&fileType=CSV",
+      "extracted_at": "2026-10-22T05:50:28Z"
     },
     {
       "source_id": "saint-joseph-hospital",
@@ -3731,6 +5331,20 @@
       "extracted_at": "2026-10-22T05:13:32Z"
     },
     {
+      "source_id": "sanford-bagley-medical-center",
+      "records": 1545,
+      "source_sha256": "b38d391c2cbf562a80538ef44c7c1ec8da70cc4ffefcf0cedf5a74ff636653cc",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8387/411266009_sanford-bagley-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:12Z"
+    },
+    {
+      "source_id": "sanford-canby-medical-center",
+      "records": 2402,
+      "source_sha256": "ddce283f2255ef7fadf68db00871a0a5be848238f1178dc68fbcc079d263e8ba",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8375/460388596_sanford-canby-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:51:46Z"
+    },
+    {
       "source_id": "sanford-canton-inwood-medical-center",
       "records": 1824,
       "source_sha256": "57a54b5fbfbfac64b34c3cf883c6c39a9a323b1b58531c03bc78b9ee90b43724",
@@ -3738,11 +5352,109 @@
       "extracted_at": "2026-10-22T05:37:51Z"
     },
     {
+      "source_id": "sanford-chamberlain-medical-center",
+      "records": 1776,
+      "source_sha256": "5a1ec9b40df070cc7d9fc3201bc7969721ed97a98695c3db79e5bad76d875e64",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8374/460388596_sanford-chamberlain-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:51:27Z"
+    },
+    {
+      "source_id": "sanford-clear-lake-medical-center",
+      "records": 2326,
+      "source_sha256": "3d53d14fd970c3cb766a50687b1fe5f9dd5deff52d2127c3728e952b9d7f855a",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8373/460388596_sanford-clear-lake-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:56Z"
+    },
+    {
+      "source_id": "sanford-hospital-webster",
+      "records": 1632,
+      "source_sha256": "d250f4da55087c80f1bd78e91d437fadf6b87cdb19c8b2164e0e0259fdaf5428",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8372/460388596_sanford-webster-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:42:56Z"
+    },
+    {
+      "source_id": "sanford-jackson-hospital",
+      "records": 2363,
+      "source_sha256": "b51ad14153fcb138c571e49b0b7d1fafea523394bded83154bd9ea68c81cee04",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8379/460388596_sanford-jackson-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:47Z"
+    },
+    {
+      "source_id": "sanford-luverne-medical-center",
+      "records": 2112,
+      "source_sha256": "f801406d0d02c70a8410daa5eda2b902c613bac90f0edd1d45f83a5bc55a0257",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8367/460388596_sanford-luverne-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:53:58Z"
+    },
+    {
+      "source_id": "sanford-medical-center-hillsboro",
+      "records": 1932,
+      "source_sha256": "32eb5a92dd5887ecea1230867535b28eb00182cc022d0b15df637ad318b3c2d1",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8382/450409348_sanford-hillsboro-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:10Z"
+    },
+    {
+      "source_id": "sanford-medical-center-mayville",
+      "records": 1932,
+      "source_sha256": "6cabc01b2f9075b7ef9f0f646cba02f4d3be928689860a54c8a7a1295b03463c",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8381/450409348_sanford-mayville-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:44:45Z"
+    },
+    {
+      "source_id": "sanford-sheldon-medical-center",
+      "records": 1900,
+      "source_sha256": "787097935f20ce4765492c5a7795c5ba61b44b328e7e9cb97ce05d2b4cc3e104",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8369/460388596_sanford-sheldon-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:55:29Z"
+    },
+    {
+      "source_id": "sanford-tracy-hospital",
+      "records": 2460,
+      "source_sha256": "a714a189a9b214398fff86d32d24479fe7702dc82aa4ad0d39247ff6e142b586",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8378/460388596_sanford-tracy-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:48:25Z"
+    },
+    {
+      "source_id": "sanford-vermillion-hospital",
+      "records": 1968,
+      "source_sha256": "2aaf212695efff1e05b1a53526b48651b90bbcad2c8689e24e3b4c59de33c518",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8371/460388596_sanford-vermillion-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:51Z"
+    },
+    {
+      "source_id": "sanford-westbrook-hospital",
+      "records": 2460,
+      "source_sha256": "7b1d971d944a8a5b521151e9db1264f464f4c0cda7ae678719fad2e406ca5b04",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8377/460388596_sanford-westbrook-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:47:31Z"
+    },
+    {
+      "source_id": "sanford-wheaton",
+      "records": 1893,
+      "source_sha256": "934c06d0d9ef32faad574a9953f3ba1f4e330427704ce38e5ddf30e076cf7601",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8380/450409348_sanford-wheaton_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:45:25Z"
+    },
+    {
+      "source_id": "sanford-worthington-medical-center",
+      "records": 2586,
+      "source_sha256": "5a09390b70e0c2e8fcc6314c04ea81c7a7bce01444ac9b95834d0d9e8ab35bea",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8370/460388596_sanford-worthington-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:00:54Z"
+    },
+    {
       "source_id": "sentara-albemarle-regional-medical-center",
       "records": 154,
       "source_sha256": "631043b1a05f90d5a97414fbc0d9005604803e61e322b41628583fb243886e1c",
       "source_url": "https://www.sentara.com/Documents/s/sentaraalbemarlemedicalcenterstandardchargesxlsx-1395240",
       "extracted_at": "2026-10-22T05:16:00Z"
+    },
+    {
+      "source_id": "sentara-belleharbour",
+      "records": 638,
+      "source_sha256": "693ad92caa99e9cf4eed157abc7615a91ffab455a357ba4c5987af2187a7c52f",
+      "source_url": "https://www.sentara.com/Documents/s/sentaraobicihospitalstandardchargesxlsx-1395273",
+      "extracted_at": "2026-10-22T05:43:03Z"
     },
     {
       "source_id": "sentara-careplex-hospital",
@@ -3757,6 +5469,13 @@
       "source_sha256": "9627cf74ab5884d7d30d44391fab1c11dd36c1922b4330c80adc12d308da4d50",
       "source_url": "https://www.sentara.com/Documents/s/sentarahalifaxregionalhospitalstandardchargesxlsx-1395297",
       "extracted_at": "2026-10-22T05:32:11Z"
+    },
+    {
+      "source_id": "sentara-independence",
+      "records": 613,
+      "source_sha256": "448e3ac284ef78a27571831bca743bd2b84aace6b9541fd5ddb54f1520aec9bc",
+      "source_url": "https://www.sentara.com/Documents/s/sentaravirginiabeachgeneralhospitalstandardchargesxlsx-1395265",
+      "extracted_at": "2026-10-22T05:42:56Z"
     },
     {
       "source_id": "sentara-lake-ridge",
@@ -3778,6 +5497,13 @@
       "source_sha256": "601af5c2b0c2e146be7d910ed21c245b3ba6c659b018f6fffbf985386423787f",
       "source_url": "https://www.sentara.com/Documents/s/sentaramarthajeffersonhospitalstandardchargesxlsx-1395290",
       "extracted_at": "2026-10-22T05:35:45Z"
+    },
+    {
+      "source_id": "sentara-norfolk-general-hospital",
+      "records": 541,
+      "source_sha256": "a83c1468ef9e947134188615058a1c68ec1ee74c0c25469e5ed87e06e1927c1c",
+      "source_url": "https://www.sentara.com/Documents/s/sentaranorfolkgeneralhospitalstandardchargesxlsx-1395284",
+      "extracted_at": "2026-10-22T05:43:59Z"
     },
     {
       "source_id": "sentara-princess-anne-hospital",
@@ -3815,6 +5541,27 @@
       "extracted_at": "2026-10-22T05:37:10Z"
     },
     {
+      "source_id": "ssm-health-bone-joint-at-st-anthony",
+      "records": 117,
+      "source_sha256": "4818ae8357bc59a2222411bd823618d70fcbcbcac959361bee2947fa8d9a5bcb",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=M2SKXYB41FA7AYa33bp9XQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:45:28Z"
+    },
+    {
+      "source_id": "ssm-health-cardinal-glennon-children-s-hospital",
+      "records": 108,
+      "source_sha256": "2533d6c3e7dd4c048a7560f37adb60d24362f253994f2f3e32921204fe2623bc",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=oExWW6GEphI226iT5wl0wQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:53:32Z"
+    },
+    {
+      "source_id": "ssm-health-depaul-hospital-st-louis",
+      "records": 123,
+      "source_sha256": "41d5572b281bb2a3e4204eccd1729b4e81ba88cab85012d2f0b902b4d7fd40bc",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Fx*__*FnWj49rRBL9vbtOleEQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:54:47Z"
+    },
+    {
       "source_id": "ssm-health-good-samaritan-hospital-mt-vernon",
       "records": 93,
       "source_sha256": "8272aa0d6ac27dd7ec37ad8e9afc4b69cdde2acf78a3f1c296ea63be56803931",
@@ -3836,6 +5583,27 @@
       "extracted_at": "2026-10-22T05:35:48Z"
     },
     {
+      "source_id": "ssm-health-saint-louis-university-hospital",
+      "records": 103,
+      "source_sha256": "68818a93d10c015077d03658b62c85f41f99be4a8425971c0ccce90ee6f669f5",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Oj8ea*_*I2NcxLEEhEW69AuQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:55:00Z"
+    },
+    {
+      "source_id": "ssm-health-st-agnes-hospital-fond-du-lac",
+      "records": 113,
+      "source_sha256": "482f63a4a281f3fc3cca730b70165b1177318ece3ae168dcbb9afa7e50eef4a5",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=PjFhO32dAPBRj2MaHOd4Xg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:43:48Z"
+    },
+    {
+      "source_id": "ssm-health-st-anthony-hospital-midwest",
+      "records": 102,
+      "source_sha256": "3b1567d88e47e604ff6990022148543034dc2dd8c89611894a479b1ef89193f7",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=g9rprfWFGjfTVv*_*4sDkddQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:43:18Z"
+    },
+    {
       "source_id": "ssm-health-st-anthony-hospital-shawnee",
       "records": 98,
       "source_sha256": "569f237b68da291b1f4351ff4a3955f5881b83a5d9357bf6026bb87a906a44e6",
@@ -3848,6 +5616,34 @@
       "source_sha256": "c4c1f6277fa604f2deeeb4ddf1f58b2740b03f9b9abad33aba25cadc32614201",
       "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=99Sd1Zpo0h2mFLZqX8n*_*mA*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
       "extracted_at": "2026-10-22T05:35:24Z"
+    },
+    {
+      "source_id": "ssm-health-st-clare-hospital-fenton",
+      "records": 123,
+      "source_sha256": "c54d2766e33dccc17c774fb86521db34be7add64f4e6e88ab592fd14a107952b",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=Z5XkiXJtDaa7TXO9crU8FQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:54:29Z"
+    },
+    {
+      "source_id": "ssm-health-st-joseph-hospital-lake-saint-louis",
+      "records": 123,
+      "source_sha256": "bdd4da083fd9fe0c97deb0a1038592ef965e4761b6db66318992e81387e03eca",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=O5oUAG4tejFgDnF2IIIqVQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:54:26Z"
+    },
+    {
+      "source_id": "ssm-health-st-joseph-hospital-st-charles",
+      "records": 123,
+      "source_sha256": "016fb2b9956beb60ad804e8529cb3ab9ba12cc44631067878021fa17aa4db377",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=dMTdTRnP5Lut4neQ4vbLFA*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:54:33Z"
+    },
+    {
+      "source_id": "ssm-health-st-joseph-hospital-wentzville",
+      "records": 120,
+      "source_sha256": "05b384847db464a740d87787ec99ddb3f6ad6c015b9ce507ae218a26152c3209",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=I9EbX*__*v9zUT24F6pmGjdHg*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:51:46Z"
     },
     {
       "source_id": "ssm-health-st-mary-s-hospital-centralia",
@@ -3864,11 +5660,25 @@
       "extracted_at": "2026-10-22T05:33:29Z"
     },
     {
+      "source_id": "ssm-health-st-mary-s-hospital-jefferson-city",
+      "records": 113,
+      "source_sha256": "55da8dffc68b4ef6c9270131df998267c9e04a0e3779e666029a24ea383f82bd",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=u3eEjNYEVJu53n9qmm*_**__*Hw*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:44:04Z"
+    },
+    {
       "source_id": "ssm-health-st-mary-s-hospital-madison",
       "records": 106,
       "source_sha256": "daddcc1fcd5e50725aa107d69521e6220aed874bae7daeb46f3adeeaacc6ee98",
       "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=yDWVdHK8N1Nd0zB7mYL6Zw*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
       "extracted_at": "2026-10-22T05:35:32Z"
+    },
+    {
+      "source_id": "ssm-health-st-mary-s-hospital-st-louis",
+      "records": 123,
+      "source_sha256": "ffa9ae5a22facfbe62fdf11503752e1cb98736676a899ddfb09f63d46461ed10",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=UfzUSw4QbckhzHPU5zCCZQ*-*&f=p22CpYLrWLxCnt4HoK7iZA*-*",
+      "extracted_at": "2026-10-22T05:54:28Z"
     },
     {
       "source_id": "ssm-health-waupun-memorial-hospital",
@@ -3932,6 +5742,20 @@
       "source_sha256": "ca07f6b7ea9b4f06c37c1fc972ab30eed13c862b0dff393dcd11666cbad37ced",
       "source_url": "https://cdn.hs.uab.edu/static/63-1146531_saint-vincents-saint-clair_standardcharges.zip",
       "extracted_at": "2026-10-22T05:12:36Z"
+    },
+    {
+      "source_id": "stanford-health-care-tri-valley",
+      "records": 99,
+      "source_sha256": "57add70c54230e430986c15a577777920ec0accbbd22090d77f12ef46260ef1b",
+      "source_url": "https://stanfordhealthcare.org/content/dam/valleycare/patients-visitors/941429628_stanford-health-care---tri-valley_standardcharges.json",
+      "extracted_at": "2026-10-22T05:44:00Z"
+    },
+    {
+      "source_id": "stephens-memorial-hospital",
+      "records": 2267,
+      "source_sha256": "643b43047edcabe948b03547167d7daee0483a44013414189cd4b98f1b411ddb",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7980/010238552-1346299815_mainehealth_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:50:45Z"
     },
     {
       "source_id": "sutter-amador-hospital",
@@ -4053,6 +5877,62 @@
       "extracted_at": "2026-10-22T05:27:25Z"
     },
     {
+      "source_id": "tampa-general-hospital",
+      "records": 1104,
+      "source_sha256": "b3e886ac1948d0977e4a45a77c805eefe0397aef4c3d3a6276ff59b21e78d6b3",
+      "source_url": "https://www.tgh.org/-/media/files/patients-and-visitors/593458145_tampa-general-hospital_standardcharges.csv?rev=7c310c7c008b4517a240a5892e37ed20",
+      "extracted_at": "2026-10-22T05:55:01Z"
+    },
+    {
+      "source_id": "temple-health-chestnut-hill-hospital",
+      "records": 4579,
+      "source_sha256": "04f92f08c4a5f858cd693ddea43e5618d74259cec923f1c7d21cbd5804d95755",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/883577015_temple-health--chestnut-hill-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:58:03Z"
+    },
+    {
+      "source_id": "temple-university-hospital-episcopal-campus",
+      "records": 3552,
+      "source_sha256": "96a655cb84a86110d48429c2a51a29a5b7ea56c0d17f7d61a95a1d820bf965a8",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--episcopal-campus_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:38Z"
+    },
+    {
+      "source_id": "temple-university-hospital-fox-chase",
+      "records": 3464,
+      "source_sha256": "4f7faeef9a88a3e2cff68b083db213a9c647b1ec5fd1c9c297367af8e9f24008",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--fox-chase-campus_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:22Z"
+    },
+    {
+      "source_id": "temple-university-hospital-jeanes-campus",
+      "records": 4165,
+      "source_sha256": "70b8fe0653afdfacb28fd9e88850ab8f3cb4c86327bc5d052f1652abd9edb6a5",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--jeanes-campus_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:55:27Z"
+    },
+    {
+      "source_id": "temple-university-hospital-main-campus",
+      "records": 4870,
+      "source_sha256": "30093aa430e5d90419f36ec2d8ce342e223eb94a11c553f0d4eec52a067d5fa0",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital-inc-main-campus_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:58:34Z"
+    },
+    {
+      "source_id": "temple-university-hospital-northeastern-campus",
+      "records": 3269,
+      "source_sha256": "55d7a381add68c594c2996a05462663e92341e55d5ae470c23db52ab693e6e62",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--northeastern-campus_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:53:44Z"
+    },
+    {
+      "source_id": "temple-women-families-hospital",
+      "records": 2404,
+      "source_sha256": "d576128b05811121f1ff120bbe6740c90e4f9849615a8c4757246331fe8dddab",
+      "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-women--families-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:53:53Z"
+    },
+    {
       "source_id": "texas-health-hospital-mansfield",
       "records": 137,
       "source_sha256": "ed56660ebf21a85e100d1c61400293339dcfdf554972bf4c0909a80dbfa87c0d",
@@ -4074,6 +5954,41 @@
       "extracted_at": "2026-10-22T05:13:15Z"
     },
     {
+      "source_id": "tri-city-medical-center",
+      "records": 3842,
+      "source_sha256": "601147fc1053a7d4da0eab9989cee59e642babb837aca0fcc45a2cbcc91c536b",
+      "source_url": "https://downloads.ctfassets.net/pxcfulgsd9e2/4gjlqHWnZQNgtiSy8ZJLrL/462e87c011e61ee6d9262dedaaddd95d/952126937_tricity-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:00:21Z"
+    },
+    {
+      "source_id": "uchealth-parkview-medical-center",
+      "records": 3148,
+      "source_sha256": "22f844db70fbcc55d22c8047e9e1edd90868eb97bd480d2c212fbfd80cad2bbb",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/9152/840935136-1104881507_parkview-medical-center,-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:02:07Z"
+    },
+    {
+      "source_id": "uchealth-parkview-pueblo-west-hospital",
+      "records": 3148,
+      "source_sha256": "7e8b0fcb6047e8b3017d9dbdaaeeb9bd7b45c83c763dd617340bb6359a5d3983",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11554/840935136-1821720681_parkview-medical-center,-inc_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:02:00Z"
+    },
+    {
+      "source_id": "uchealth-pikes-peak-regional-hospital",
+      "records": 2758,
+      "source_sha256": "8455a0d349660bfd3aa69ec4753c955a676d74384dcdf81682fa49d2071e96c8",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8079/824191576_uchealth-pikes-peak-regional-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:49:06Z"
+    },
+    {
+      "source_id": "uchealth-yampa-valley-medical-center",
+      "records": 3227,
+      "source_sha256": "685c4fc716e38529462c74bb9e3f77d4481cf0ecf14d8080a47e563798e07703",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8075/840398876_yampa-valley-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:01:36Z"
+    },
+    {
       "source_id": "uchicago-crown-point",
       "records": 81,
       "source_sha256": "b84eadb1dd89d2438b665ae470ba37865c5428b7e379480cc75420fdc7108fbd",
@@ -4081,11 +5996,200 @@
       "extracted_at": "2026-10-22T05:34:23Z"
     },
     {
+      "source_id": "ucla-resnick-neuropsychiatric-hospital",
+      "records": 46,
+      "source_sha256": "9fe4402ed867de2b52238f11f6c870bfd3e7b8916a67675927dfe6d7d659d64d",
+      "source_url": "https://www.uclahealth.org/sites/default/files/cms-hpt/953701255_resnick-neuropsychiatric-hospital-at-ucla_standardcharges.json",
+      "extracted_at": "2026-10-22T05:47:43Z"
+    },
+    {
+      "source_id": "ucla-west-valley-medical-center",
+      "records": 49,
+      "source_sha256": "4aef37d2c414ea7a2d97bc3ac67ffd2d3ee2e76c70383d4b4807105898d5c5b7",
+      "source_url": "https://www.uclahealth.org/sites/default/files/cms-hpt/95-6006143_UCLA-West-Valley-Medical-Center_standardcharges.json",
+      "extracted_at": "2026-10-22T05:57:30Z"
+    },
+    {
       "source_id": "union-hospital",
       "records": 11410,
       "source_sha256": "091756929ea3ebb2cd9a78eb6c5808feb0f0e9cc6dec1f801c573a3a1abb7d36",
       "source_url": "https://clevelandclinic.pt.panaceainc.com/MRFDownload/clevelandclinic/union",
       "extracted_at": "2026-10-22T05:33:25Z"
+    },
+    {
+      "source_id": "unitypoint-health-grinnell-regional-medical-center",
+      "records": 3396,
+      "source_sha256": "5b26bc0119d7b9cac73624bf587b5f6ee51765d2fdd097054b5f6ab27a77577e",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7944/420933383_grinnell-regional-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:57:42Z"
+    },
+    {
+      "source_id": "unitypoint-health-jones-regional-medical-center",
+      "records": 3597,
+      "source_sha256": "11a346c6aad44c5e17e06021296a24612437e3913db724c8e0adcd25d352b3bd",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7947/421487967_st-luke'sjones-regional-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:56:10Z"
+    },
+    {
+      "source_id": "unitypoint-health-marshalltown",
+      "records": 3536,
+      "source_sha256": "89d67dc91add2c4e5ae41196086453800399a6a95800b644b551ff212f65812e",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7948/815034179_unitypoint-health-marshalltown_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:59:53Z"
+    },
+    {
+      "source_id": "unitypoint-health-trinity-regional-medical-center",
+      "records": 3154,
+      "source_sha256": "a2847d87667c43a43657b2f1ca8723116951f6944c44e29a24077f0d1de142ac",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7957/421009175_trinity-regional-medical-center_standardcharges.csv",
+      "extracted_at": "2026-10-22T06:00:06Z"
+    },
+    {
+      "source_id": "university-of-alabama-hospital",
+      "records": 23346,
+      "source_sha256": "0d4bc183a4b2b7e78ebbceccb6917cd948d1c2076625ce5be8b9f12f3d25c62c",
+      "source_url": "https://cdn.hs.uab.edu/static/63-6005396_University-of-Alabama-Hospital_standardcharges.zip",
+      "extracted_at": "2026-10-22T05:49:45Z"
+    },
+    {
+      "source_id": "upmc-altoona",
+      "records": 2311,
+      "source_sha256": "e691380a204058681cf17d47178af49358bb0515292e844bddf89e56c473d1de",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/231352155_upmc-altoona_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:54:24Z"
+    },
+    {
+      "source_id": "upmc-bedford",
+      "records": 3984,
+      "source_sha256": "e7fa708125ebdd2ee960daa79203a851d7be64e4f5522e8aa2ffb3fdde1b30e9",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/231396795_upmc-bedford_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:53:48Z"
+    },
+    {
+      "source_id": "upmc-carlisle",
+      "records": 3746,
+      "source_sha256": "6cde62b1ab1205e0260de8b91e4a0e6f70ee4ef7fc01053bbc8f210bf2bb3a83",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820880337_upmc-carlisle_standardcharges.csv?",
+      "extracted_at": "2026-10-22T06:00:34Z"
+    },
+    {
+      "source_id": "upmc-chautauqua",
+      "records": 3655,
+      "source_sha256": "51d8e24a90bcc86d055a1f3e93e91b058aebab1874bd66dc84ed0bf742e59312",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/160743226_upmc-chautauqua_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:50:23Z"
+    },
+    {
+      "source_id": "upmc-cole",
+      "records": 2511,
+      "source_sha256": "3a4078fc05bd08103707af70090acb273c5b4b96d0b8011556faadf053e61f2e",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240802108_upmc-cole_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:48:40Z"
+    },
+    {
+      "source_id": "upmc-community-osteopathic",
+      "records": 4477,
+      "source_sha256": "2121e6c0d9d34dab989281a682e199510990fb53420cbf8be9fba20aac6b442e",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/251778644_upmc-pinnacle-hospitals_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:57:02Z"
+    },
+    {
+      "source_id": "upmc-east",
+      "records": 3458,
+      "source_sha256": "8dec55d5a11a5dba33580d853dde297f51cc3ff2046c5848a8ecd35c27e2e306",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/274814831_upmc-east_standardcharges.csv?",
+      "extracted_at": "2026-10-22T06:00:12Z"
+    },
+    {
+      "source_id": "upmc-green",
+      "records": 2708,
+      "source_sha256": "640ae1d398b080736e83000a78d814c8d03d91a6a01ff8e39faf63449c9b09ab",
+      "source_url": "https://whs.org/wp-content/uploads/2026/03/437884840_upmc-greene_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:50:38Z"
+    },
+    {
+      "source_id": "upmc-hanover",
+      "records": 3228,
+      "source_sha256": "57413c9e95650424513c0c2f38a33a63ed0eecfda15a1a063b079c52bdcc8974",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/231360851_upmc-hanover_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:57:30Z"
+    },
+    {
+      "source_id": "upmc-horizon-greenville",
+      "records": 5204,
+      "source_sha256": "9c1d1035bbd4a3ad56df7b7d3a7579b21be9851a6dedaa295701e9b82aa88550",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250523970_upmc-horizon_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:58:24Z"
+    },
+    {
+      "source_id": "upmc-jameson",
+      "records": 2426,
+      "source_sha256": "29815e7611557c0b522011dc98c15d16596e5def1af56eb23eddd712aed03c56",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965406_upmc-jameson_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:48:30Z"
+    },
+    {
+      "source_id": "upmc-kane",
+      "records": 3149,
+      "source_sha256": "1d26c7155db765a80573e59795dc9b92d3c3330c79f6b32dea88cd96be4206eb",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250998168_upmc-kane_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:48:35Z"
+    },
+    {
+      "source_id": "upmc-lititz",
+      "records": 3587,
+      "source_sha256": "c8995733608cc36c6e092798cac21c4ee0bd66099e45770065dbeca6dfc2248c",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820844453_upmc-lititz_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:59:45Z"
+    },
+    {
+      "source_id": "upmc-mckeesport",
+      "records": 3151,
+      "source_sha256": "bf78db43122365f814f5d30d317d61fc5301920550419f1fbb1395c857eaa2c6",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965423_upmc-mckeesport_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:54:14Z"
+    },
+    {
+      "source_id": "upmc-memorial",
+      "records": 3075,
+      "source_sha256": "70a18817fbaea41a68b1dfd77ae8a98192acecbfc25295ffd69c788351be38e8",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820912090_upmc-memorial_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:57:21Z"
+    },
+    {
+      "source_id": "upmc-muncy",
+      "records": 2683,
+      "source_sha256": "3f45825e5d7b2837da0034caa63cf43e0e32ab3fed2b92e7d50fef492a7b7265",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240806023_upmc-muncy_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:57:52Z"
+    },
+    {
+      "source_id": "upmc-northwest",
+      "records": 3991,
+      "source_sha256": "f595fb709b3a7789815adaa2ece534f4346f6296bd85d519b0e63833669c2038",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250489010_upmc-northwest_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:56:47Z"
+    },
+    {
+      "source_id": "upmc-somerset",
+      "records": 3429,
+      "source_sha256": "bf7c1cdab8fc9530f0b936136799277dea974e646298196d56be721bcf0c91ce",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250965570_upmc-somerset_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:51:14Z"
+    },
+    {
+      "source_id": "upmc-st-margaret",
+      "records": 3946,
+      "source_sha256": "98873445a34a17b1e418d578dda1347f64bf32661aecd3e813e41ad069cb7773",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232875070_upmc-st-margaret_standardcharges.csv?",
+      "extracted_at": "2026-10-22T05:59:34Z"
+    },
+    {
+      "source_id": "upmc-trinity-twin-city",
+      "records": 182,
+      "source_sha256": "0b4699b89ea4f7dd1f7255268d1b45f78c7c5c0126190e8af8f043a72fec40fa",
+      "source_url": "https://www.trinitytwincity.org/upload/275401105-1629050240_twin-city-hospital-corporation_standardcharges.json",
+      "extracted_at": "2026-10-22T05:51:53Z"
     },
     {
       "source_id": "upmc-trinity",
@@ -4109,6 +6213,48 @@
       "extracted_at": "2026-10-22T05:16:08Z"
     },
     {
+      "source_id": "upmc-williamsport",
+      "records": 6062,
+      "source_sha256": "49ef05f29c6b13adff6215cbcc9f539a2cd0dc41bb53c8a816473f0c09f672eb",
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?",
+      "extracted_at": "2026-10-22T06:01:40Z"
+    },
+    {
+      "source_id": "usc-arcadia-hospital",
+      "records": 175,
+      "source_sha256": "f95bd71c872ac0083216d24905891e6d9e3597dca9f42639963c26687887df15",
+      "source_url": "https://www.keckmedicine.org/wp-content/uploads/2026/08/951643336_usc-arcadia-hospital-_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:52:11Z"
+    },
+    {
+      "source_id": "usc-norris-cancer-hospital",
+      "records": 524,
+      "source_sha256": "45b25c4660cf00fd1ab1a1e98f16e574f64f5b16bcb753eb2ea2b9dd30e9edbf",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=ksKjyMbyRELl8UdC2a3rOg*-*",
+      "extracted_at": "2026-10-22T05:49:16Z"
+    },
+    {
+      "source_id": "usc-verdugo-hills-hospital",
+      "records": 489,
+      "source_sha256": "ded30b4d0a43531670a25f9089215babf37210922506d9d71a32ea0448cd4efc",
+      "source_url": "https://hospitalpricedisclosure.com/download.aspx?pi=h0rmgXMGiSXmDqPqnFmWhA*-*",
+      "extracted_at": "2026-10-22T05:47:22Z"
+    },
+    {
+      "source_id": "vcu-health-tappahannock-hospital",
+      "records": 15,
+      "source_sha256": "32250fb25e6967f2221cd98d53cb248e00a737ea15d21640b765020c4f09a66a",
+      "source_url": "https://urldefense.com/v3/__https:/vcuhealth.pt.panaceainc.com/MRFDownload/vcuhealth/vcuhealthtappahannockhospital__;!!JqxBPMk!mOcOmC-wRsyqvW9oP8tVbu46_Pj-TZtfpAN2ZWljc3XQVbpmW8SnXp6J2Phjl4zbQ9y2D-k-Jg2ulasmQvvOh5wx$",
+      "extracted_at": "2026-10-22T05:56:32Z"
+    },
+    {
+      "source_id": "waldo-county-general-hospital",
+      "records": 2666,
+      "source_sha256": "bb6248fbc775f7686663e7c77575178f5247b1eb87940bf34e484e65beeb62af",
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7977/010238552-1841397932_mainehealth_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:55:11Z"
+    },
+    {
       "source_id": "wellspan-carlisle-hospital",
       "records": 22,
       "source_sha256": "b92b1c5dc921cf33cca9d3bd1a38f20d51bed8ea604d10e7d7abfea2f09c3d69",
@@ -4123,11 +6269,25 @@
       "extracted_at": "2026-10-22T05:37:53Z"
     },
     {
+      "source_id": "wellspan-ephrata-community-hospital",
+      "records": 2442,
+      "source_sha256": "eff5b3f612a0499b383a013d570ec68762673d3a44ec6666c946c2489314e709",
+      "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/231370484_ephrata-community-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:55Z"
+    },
+    {
       "source_id": "wellspan-evangelical-community-hospital",
       "records": 1560,
       "source_sha256": "404598efccffe9349940bd84f62fb1380eb4a0d29f235c33f2aaa6c4e4513562",
       "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/240795411_evangelical-community-hospital_standardcharges.csv",
       "extracted_at": "2026-10-22T05:13:34Z"
+    },
+    {
+      "source_id": "wellspan-gettysburg-hospital",
+      "records": 2741,
+      "source_sha256": "d199e96e38e9dad4b5e68a47d3486b450244286e68453b75dba0b6101b16203f",
+      "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/231352220_gettysburg-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:43:24Z"
     },
     {
       "source_id": "wellspan-good-samaritan-hospital",
@@ -4158,6 +6318,55 @@
       "extracted_at": "2026-10-22T05:27:28Z"
     },
     {
+      "source_id": "wellspan-york-hospital",
+      "records": 3232,
+      "source_sha256": "ed74e36e56c4a75b737bc8bf3497ba7d6aa69d0d1c9901b15d4b85a6205a49f0",
+      "source_url": "https://content.wellspan.org/MRF/231352222_york-hospital_standardcharges.csv",
+      "extracted_at": "2026-10-22T05:54:13Z"
+    },
+    {
+      "source_id": "wellstar-cobb-hospital",
+      "records": 715,
+      "source_sha256": "3a2779fe24435fc5273ccb5eac5a548d98ea14cea5fef28264577e3ac4fd9433",
+      "source_url": "https://www.wellstar.org/wellstar-cobb-hospital_standard-charges",
+      "extracted_at": "2026-10-22T05:46:16Z"
+    },
+    {
+      "source_id": "wellstar-douglas-hospital",
+      "records": 704,
+      "source_sha256": "0b4f84da814fae1855d973dd50eda4fb147741a9cc0301ccefd8cf2ad862ae4e",
+      "source_url": "https://www.wellstar.org/wellstar-douglas-hospital_standard-charges",
+      "extracted_at": "2026-10-22T05:46:02Z"
+    },
+    {
+      "source_id": "wellstar-kennestone-hospital",
+      "records": 704,
+      "source_sha256": "7fab2ab8217f511cd23823c70e05216eaefc8c788c62c29333e7cc11da25a917",
+      "source_url": "https://www.wellstar.org/wellstar-kennestone-hospital_standard-charges",
+      "extracted_at": "2026-10-22T05:47:18Z"
+    },
+    {
+      "source_id": "wellstar-mcg-health",
+      "records": 1042,
+      "source_sha256": "6f18c389ff9c1940ad0a61bc7b0a4a96bee5cb45b17e6859743021ca482a1592",
+      "source_url": "https://www.wellstar.org/wellstar-mcg-health_standard-charges",
+      "extracted_at": "2026-10-22T05:51:43Z"
+    },
+    {
+      "source_id": "wellstar-north-fulton-hospital",
+      "records": 704,
+      "source_sha256": "7619fd88489c3e1d782e6ad77e8d8dd51eab29a42db1fb9568b5d5a8ce056fd2",
+      "source_url": "https://www.wellstar.org/wellstar-north-fulton-hospital_standard-charges",
+      "extracted_at": "2026-10-22T05:46:08Z"
+    },
+    {
+      "source_id": "wellstar-paulding-hospital",
+      "records": 704,
+      "source_sha256": "a593b05ab87daf2518658f7c3f447d82d2d5920faa177dd70c9e7bbf66817c1e",
+      "source_url": "https://www.wellstar.org/wellstar-paulding-hospital_standard-charges",
+      "extracted_at": "2026-10-22T05:45:58Z"
+    },
+    {
       "source_id": "wellstar-roosevelt-long-term-acute-care-at-warm-springs",
       "records": 139,
       "source_sha256": "987138f7ca6a0931f35fd3e38587809573447e8c175bb556f90e3e539dafb4ab",
@@ -4165,11 +6374,32 @@
       "extracted_at": "2026-10-22T05:16:16Z"
     },
     {
+      "source_id": "wellstar-spalding-regional-hospital",
+      "records": 750,
+      "source_sha256": "a42080542bd840e0461867b6f12232297361b1d5affa6ee3071082fe20c76b17",
+      "source_url": "https://www.wellstar.org/wellstar-spalding-regional-hospital_standard-charges",
+      "extracted_at": "2026-10-22T05:46:06Z"
+    },
+    {
       "source_id": "wellstar-sylvan-grove-hospital",
       "records": 380,
       "source_sha256": "856046431eddf67b3a9c4cc7a70838f0d97fd91ed27b291fbba0a588f5c0eba0",
       "source_url": "https://www.wellstar.org/wellstar-sylvan-grove-hospital_standard-charges",
       "extracted_at": "2026-10-22T05:35:40Z"
+    },
+    {
+      "source_id": "wellstar-west-georgia-medical-center",
+      "records": 750,
+      "source_sha256": "44a89e4988b6ec446ce4e992cadd173d4e34f66a10de7070c473f663133a0121",
+      "source_url": "https://www.wellstar.org/wellstar-west-georgia-medical-center_standard-charges",
+      "extracted_at": "2026-10-22T05:46:21Z"
+    },
+    {
+      "source_id": "wellstar-windy-hill-hospital",
+      "records": 686,
+      "source_sha256": "7a894e723507a703441ad12a9efdafef818f58acd62414fc2e729aa61021e4c8",
+      "source_url": "https://www.wellstar.org/wellstar-windy-hill-hospital_standard-charges",
+      "extracted_at": "2026-10-22T05:44:18Z"
     }
   ],
   "errors": [],
