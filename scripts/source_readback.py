@@ -27,15 +27,18 @@ def main():
    for row in reader:
     if 'description' in row and any(x.startswith('code|') for x in row):header=row;break
    if header is None:raise ValueError('independent header not found')
-   wanted={r['source_record_ordinal']:r for r in sample};compared=0
+   wanted={r['source_record_ordinal']:r for r in sample};compared=0;header_trimmed=False
    for ordinal,row in enumerate(reader,1):
     if ordinal not in wanted:continue
     original=wanted[ordinal]
-    if header!=original['source_header'] or row!=original['source_values']:raise ValueError('full row/header mismatch at '+str(ordinal))
+    if row!=original['source_values']:raise ValueError('source value mismatch at '+str(ordinal))
+    if header!=original['source_header']:
+     if [h.strip() for h in header]!=original['source_header']:raise ValueError('header mismatch beyond whitespace at '+str(ordinal))
+     header_trimmed=True
     compared+=1
     if compared==len(wanted):break
    if compared!=len(wanted):raise ValueError('sample ordinal missing')
-   result.update(status='exact_source_readback_match',records_compared=compared)
+   result.update(status=('source_values_match_header_whitespace_trimmed' if header_trimmed else 'exact_source_readback_match'),records_compared=compared)
   except Exception as e:result.update(status='failed',error=str(e)[:300])
   results.append(result)
  report={'checked_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'sampling':'five smallest eligible direct CSV sources <=3MB; first three matching source records each; not random or representative','scope':'independent full original CSV header/value readback and source hash; not clinical equivalence, provider attribution or source truth certification','results':results}

@@ -20,16 +20,17 @@ def extract(path,targets):
     matched=[str(c.get('code')) for c in item.get('code_information',[]) if str(c.get('code')) in targets and m.CPT_TYPE_RE.match(str(c.get('type','')).strip())]
     if matched:yield {'source_record_ordinal':ordinal,'code_matches':matched,'source_format':'cms-json','source_fields':item}
   else:
-   reader,header,meta=m.sniff_csv(text,targets)
+   reader,header,meta=m.sniff_csv(text,targets,preserve_headers=True)
    if len(set(header))!=len(header):
     # Empty padding headers are common; preserve the entire aligned array rather than silently dropping duplicates.
     duplicates=True
    else:duplicates=False
+   lookup=[h.strip().lower() for h in header]
    for ordinal,row in enumerate(reader,1):
     matched=[]
-    for i,key in enumerate(header):
+    for i,key in enumerate(lookup):
      if re.fullmatch(r'code\|\d+',key) and i<len(row) and row[i].strip() in targets:
-      typekey=key+'|type';typ=row[header.index(typekey)] if typekey in header and header.index(typekey)<len(row) else ''
+      typekey=key+'|type';typ=row[lookup.index(typekey)] if typekey in lookup and lookup.index(typekey)<len(row) else ''
       if m.CPT_TYPE_RE.match(typ.strip()):matched.append(row[i].strip())
     if matched:
      if len(row)!=len(header):raise ValueError('CSV row width mismatch at ordinal '+str(ordinal))
@@ -54,7 +55,7 @@ def main():
     f.write((json.dumps(row,separators=(',',':'))+'\n').encode());n+=1
     if n%100==0 and f.fileobj.tell()>18_000_000:raise ValueError('normalized output exceeds repository file budget; shard before publishing')
   os.replace(dest+'.tmp',dest)
-  manifest={'parser_version':'row-preserving-1.1','schema_version':'1.0.0','records':n,'source_url':a.url,'source_sha256':sha,'download_bytes':total,'extracted_at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'code_filter':sorted(targets),'complete_source_download':True,'complete_target_code_scan':True,'source_truth_independently_verified':False,'preserves':'raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal'}
+  manifest={'parser_version':'row-preserving-1.2','schema_version':'1.0.0','records':n,'source_url':a.url,'source_sha256':sha,'download_bytes':total,'extracted_at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'code_filter':sorted(targets),'complete_source_download':True,'complete_target_code_scan':True,'source_truth_independently_verified':False,'preserves':'raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal'}
   json.dump(manifest,open(dest+'.manifest.json','w'),indent=2);print(json.dumps(manifest))
  finally:
   os.unlink(path)

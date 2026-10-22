@@ -287,7 +287,7 @@ class ChainTextReader:
         if isinstance(b, bytes): b = b.decode("utf-8", errors="replace")
         return b or ""
 
-def sniff_csv(f, targets):
+def sniff_csv(f, targets, preserve_headers=False):
     """Read CMS metadata/header records with csv.reader (supports quoted newlines)."""
     meta = {}
     reader = csv.reader(f)
@@ -301,7 +301,7 @@ def sniff_csv(f, targets):
             for i,k in enumerate(cells):
                 if k.strip() in keys and i < len(vals): meta[k.strip()] = vals[i].strip()
         elif "description" in [c.strip().lower() for c in cells] and any(re.fullmatch(r"code\|\d+",c.strip().lower()) for c in cells):
-            return reader, [h.strip() for h in cells], meta
+            return reader, (cells if preserve_headers else [h.strip() for h in cells]), meta
     raise ValueError("no header row found")
 
 def extract_csv(f, targets):

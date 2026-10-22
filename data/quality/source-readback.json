@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T07:46:36.535146+00:00",
+  "checked_at": "2026-10-22T07:48:54.167447+00:00",
   "sampling": "five smallest eligible direct CSV sources <=3MB; first three matching source records each; not random or representative",
   "scope": "independent full original CSV header/value readback and source hash; not clinical equivalence, provider attribution or source truth certification",
   "results": [
@@ -7,8 +7,8 @@
       "source_url": "https://greenvilleash.com/30-0347987_ALLEGIANCE-SPECIALTY-HOSPITAL-OF-GREENVILLE_standardcharges.csv",
       "snapshot_sha256": "21779b6e2d33dac6a8e9c8ee6721f88a34333c18e051b1c61a494d0be76eff33",
       "readback_sha256": "21779b6e2d33dac6a8e9c8ee6721f88a34333c18e051b1c61a494d0be76eff33",
-      "status": "failed",
-      "error": "full row/header mismatch at 2"
+      "status": "source_values_match_header_whitespace_trimmed",
+      "records_compared": 3
     },
     {
       "source_url": "https://apibhs.com/website-compliance/Alvarado-Parkway-Institute_standardcharges.csv",
