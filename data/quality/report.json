@@ -1,131 +1,132 @@
 {
-  "generated_at": "2026-10-22T07:32:05.005309+00:00",
+  "generated_at": "2026-10-22T08:17:50.505025+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
-    "attempted_registry_entries": 970,
-    "successful_entries": 758,
-    "distinct_successful_mrf_urls": 758,
-    "extracted_within_24h": 758,
-    "sources_over_365_days_old": 11,
-    "source_date_unparseable": 3,
-    "hospital_code_aggregates": 35128,
+    "attempted_registry_entries": 1260,
+    "successful_entries": 939,
+    "distinct_successful_mrf_urls": 939,
+    "extracted_within_24h": 939,
+    "sources_over_365_days_old": 38,
+    "source_date_unparseable": 11,
+    "hospital_code_aggregates": 43297,
     "row_preserving_records": 1724639
   },
   "status_counts": {
-    "ok": 758,
-    "failed": 188,
-    "no_target_codes": 24
+    "ok": 939,
+    "failed": 271,
+    "no_target_codes": 50
   },
   "successful_entries_by_state": {
     "GA": 25,
-    "WI": 28,
+    "WI": 60,
     "unresolved": 125,
-    "UT": 21,
-    "TX": 61,
-    "MN": 19,
-    "IL": 37,
+    "IN": 12,
+    "UT": 23,
+    "TX": 81,
+    "OH": 28,
+    "MN": 22,
+    "WA": 21,
+    "AZ": 21,
+    "IL": 38,
     "VA": 17,
-    "WA": 18,
     "SC": 30,
-    "CA": 68,
-    "NJ": 7,
-    "PA": 72,
-    "OH": 23,
-    "AR": 1,
-    "CO": 18,
-    "TN": 9,
+    "CA": 72,
+    "NJ": 8,
+    "MD": 2,
+    "KY": 2,
+    "PA": 73,
+    "AR": 4,
+    "CO": 22,
+    "TN": 15,
     "ND": 4,
-    "MS": 8,
-    "KY": 1,
-    "SD": 6,
-    "AL": 7,
-    "MO": 15,
-    "LA": 12,
+    "MS": 20,
+    "SD": 8,
+    "AL": 9,
+    "MO": 16,
+    "LA": 20,
     "IA": 13,
-    "OK": 6,
-    "NY": 7,
-    "OR": 16,
-    "FL": 23,
+    "NV": 2,
+    "OK": 11,
+    "NY": 9,
+    "OR": 17,
+    "FL": 29,
+    "KS": 3,
     "AK": 5,
     "ME": 8,
-    "MI": 3,
+    "MI": 7,
     "NC": 20,
-    "MT": 4,
+    "MT": 8,
     "ID": 8,
-    "MA": 3,
+    "WY": 3,
+    "MA": 7,
     "NH": 1,
-    "AZ": 2,
-    "PO": 1,
+    "NE": 2,
+    "PO": 3,
     "NM": 2,
-    "IN": 1,
-    "MD": 1,
     "NW": 1,
-    "DE": 1
+    "DE": 1,
+    "CT": 1
   },
   "hospital_entries_per_code": {
-    "27130": 523,
-    "27447": 533,
-    "29848": 520,
-    "29881": 552,
-    "30520": 535,
-    "43239": 655,
-    "45378": 651,
-    "45385": 640,
-    "47562": 576,
-    "49505": 578,
-    "52353": 523,
-    "55700": 578,
-    "58150": 429,
-    "59400": 334,
-    "59510": 320,
-    "64483": 650,
-    "66984": 495,
-    "70450": 735,
-    "70551": 714,
-    "70553": 714,
-    "71045": 737,
-    "71046": 741,
-    "72141": 715,
-    "72148": 724,
-    "73221": 715,
-    "73721": 707,
-    "74176": 727,
-    "74177": 733,
-    "76536": 726,
-    "76700": 738,
-    "77067": 675,
-    "77080": 691,
-    "80048": 726,
-    "80053": 727,
-    "80061": 723,
-    "81001": 731,
-    "81002": 672,
-    "82306": 723,
-    "83036": 734,
-    "84153": 725,
-    "84443": 727,
-    "85025": 726,
-    "87086": 716,
-    "90834": 541,
-    "93306": 719,
-    "93880": 724,
-    "95810": 634,
-    "99204": 543,
-    "99214": 584,
-    "99283": 705,
-    "99284": 704,
-    "99285": 703,
-    "93000": 350,
-    "99203": 530,
-    "99213": 577
+    "27130": 649,
+    "27447": 664,
+    "29848": 607,
+    "29881": 689,
+    "30520": 642,
+    "43239": 810,
+    "45378": 804,
+    "45385": 792,
+    "47562": 718,
+    "49505": 717,
+    "52353": 642,
+    "55700": 698,
+    "58150": 545,
+    "59400": 414,
+    "59510": 398,
+    "64483": 798,
+    "66984": 605,
+    "70450": 903,
+    "70551": 873,
+    "70553": 873,
+    "71045": 912,
+    "71046": 916,
+    "72141": 875,
+    "72148": 884,
+    "73221": 873,
+    "73721": 865,
+    "74176": 895,
+    "74177": 902,
+    "76536": 895,
+    "76700": 908,
+    "77067": 817,
+    "77080": 833,
+    "80048": 904,
+    "80053": 905,
+    "80061": 900,
+    "81001": 904,
+    "81002": 827,
+    "82306": 896,
+    "83036": 911,
+    "84153": 894,
+    "84443": 905,
+    "85025": 903,
+    "87086": 886,
+    "90834": 645,
+    "93306": 883,
+    "93880": 894,
+    "95810": 759,
+    "99204": 695,
+    "99214": 734,
+    "99283": 870,
+    "99284": 869,
+    "99285": 868,
+    "93000": 425,
+    "99203": 679,
+    "99213": 725
   },
   "qa_flags": [
     {
       "id": "wellstar-north-fulton-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "froedtert-community-hospital-oak-creek",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -135,6 +136,11 @@
     {
       "id": "st-mary-s-medical-center",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-aspirus_wausau_hospital-377d5",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "intermountain-health-logan-regional-hospital",
@@ -149,12 +155,67 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-heart-and-vascular-hospital-dallas",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "70450",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 213.15
     },
     {
-      "id": "froedtert-community-hospital-mequon",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "70551",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.26
+    },
+    {
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "70553",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.64
+    },
+    {
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "72141",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.26
+    },
+    {
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "72148",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.26
+    },
+    {
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "73221",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.47
+    },
+    {
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "73721",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.47
+    },
+    {
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "76536",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.98
+    },
+    {
+      "id": "oria-ashtabula_regional_medical_center-ce533",
+      "code": "76700",
+      "payer": "SummaCare",
+      "flag": "wide_payer_range_review",
+      "ratio": 192.15
     },
     {
       "id": "sanford-tracy-hospital",
@@ -162,10 +223,6 @@
     },
     {
       "id": "oria-appling_healthcare-d618f",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-round-rock",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -220,10 +277,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-medical-center-lake-pointe",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "mercy-primary-care-bloomfield",
       "flag": "unresolved_geography"
     },
@@ -257,10 +310,6 @@
       "ratio": 111.35
     },
     {
-      "id": "baylor-scott-white-the-heart-hospital-plano",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "oria-arkansas_surgical_hospital_llc-8ade1",
       "flag": "source_bytes_hash_missing"
     },
@@ -278,10 +327,6 @@
     },
     {
       "id": "intermountain-health-heber-valley-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "california-pacific-medical-center-mission-bernal-campus",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -645,10 +690,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "emory-decatur-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "sanford-medical-center-bismarck",
       "flag": "source_bytes_hash_missing"
     },
@@ -669,8 +710,9 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "adventhealth-manchester",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-aspirus_langlade_hospital-45851",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "oklahoma-children-s-hospital-ou-health",
@@ -701,10 +743,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "grace-surgical-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "ochsner-st-mary",
       "flag": "source_bytes_hash_missing"
     },
@@ -714,10 +752,6 @@
     },
     {
       "id": "prisma-health-greer-memorial-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "alta-bates-summit-medical-center-alta-bates-campus",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -768,10 +802,6 @@
       "flag": "unresolved_geography"
     },
     {
-      "id": "black-hills-surgical-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "oria-ahs_hillcrest_medical_center-49650",
       "flag": "source_bytes_hash_missing"
     },
@@ -802,6 +832,53 @@
     {
       "id": "swedish-issaquah",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-baytown_medical_center-3bc1b",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
+      "id": "oria-baytown_medical_center-3bc1b",
+      "code": "29881",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.48
+    },
+    {
+      "id": "oria-baytown_medical_center-3bc1b",
+      "code": "47562",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 398.2
+    },
+    {
+      "id": "oria-baytown_medical_center-3bc1b",
+      "code": "49505",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 261.84
+    },
+    {
+      "id": "oria-baytown_medical_center-3bc1b",
+      "code": "55700",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 224.88
+    },
+    {
+      "id": "oria-baytown_medical_center-3bc1b",
+      "code": "64483",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.62
+    },
+    {
+      "id": "oria-baytown_medical_center-3bc1b",
+      "code": "66984",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.2
     },
     {
       "id": "unitypoint-health-finley-hospital",
@@ -928,10 +1005,6 @@
     },
     {
       "id": "allina-health-united-hospital-hastings-regina-campus",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "allina-health-united-hospital-hastings-regina-campus",
       "code": "90834",
       "payer": "medica ubh (u)",
       "flag": "wide_payer_range_review",
@@ -964,10 +1037,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-medical-center-irving",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "oria-ascension_saint_alexius_ascension_st_alexius_medical_center-6a3a0",
       "flag": "source_bytes_hash_missing"
     },
@@ -984,8 +1053,9 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "emory-hillandale-hospital",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-aspirus_lake_view_hospital-3d04a",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "prisma-health-patewood-hospital",
@@ -1414,10 +1484,6 @@
     },
     {
       "id": "upmc-childrens",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-pavilion-temple",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -2647,10 +2713,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "adventhealth-port-charlotte",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "oria-anmed_health_piedmont-c979f",
       "flag": "source_bytes_hash_missing"
     },
@@ -2921,6 +2983,11 @@
       "ratio": 115.47
     },
     {
+      "id": "oria-beckett_springs-4c5d7",
+      "flag": "source_over_365_days_old",
+      "age_days": 392
+    },
+    {
       "id": "osf-saint-paul-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -2988,10 +3055,6 @@
     {
       "id": "community-hospital-of-stokes",
       "flag": "unresolved_geography"
-    },
-    {
-      "id": "community-hospital-of-stokes",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "paoli-hospital",
@@ -3200,10 +3263,6 @@
     },
     {
       "id": "baylor-scott-white-medical-center-temple",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-temple",
       "code": "52353",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
@@ -3363,19 +3422,11 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "eden-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "mercy-st-francis-hospital",
       "flag": "unresolved_geography"
     },
     {
       "id": "mercy-st-francis-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "duke-regional-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -3680,6 +3731,27 @@
       "ratio": 155.7
     },
     {
+      "id": "oria-aspen_mountain_medical-77004",
+      "code": "81001",
+      "payer": "ALLSAVERS PAYER ID 81400",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.58
+    },
+    {
+      "id": "oria-aspen_mountain_medical-77004",
+      "code": "81001",
+      "payer": "SUREST",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.58
+    },
+    {
+      "id": "oria-aspen_mountain_medical-77004",
+      "code": "81001",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.58
+    },
+    {
       "id": "scripps-mercy-hospital-san-diego",
       "flag": "unresolved_geography"
     },
@@ -3725,10 +3797,6 @@
     },
     {
       "id": "oria-arrowhead_family_health_center_fontana-09279",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-centennial",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -3815,10 +3883,6 @@
     },
     {
       "id": "st-vincent-s-chilton",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "cleveland-clinic-main-campus",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -4587,10 +4651,6 @@
       "ratio": 152.82
     },
     {
-      "id": "california-pacific-medical-center-van-ness-campus",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "mercy-primary-care-malden",
       "flag": "unresolved_geography"
     },
@@ -4802,6 +4862,67 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "80048",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.3
+    },
+    {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.1
+    },
+    {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.07
+    },
+    {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "81002",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 461.25
+    },
+    {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.52
+    },
+    {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.32
+    },
+    {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "85025",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 157.96
+    },
+    {
+      "id": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e",
+      "code": "87086",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.75
+    },
+    {
+      "id": "oria-benton_city_clinic_rhc-ea7d1",
+      "flag": "source_over_365_days_old",
+      "age_days": 659
+    },
+    {
       "id": "novant-health-brunswick-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -4811,10 +4932,6 @@
     },
     {
       "id": "sanford-canton-inwood-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "covenant-children-s-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -4897,10 +5014,6 @@
     },
     {
       "id": "boston-medical-center-south",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "boston-medical-center-south",
       "code": "81001",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
@@ -4946,6 +5059,1196 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-astera_health-37729",
+      "code": "27130",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 252.01
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "27447",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 251.92
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "29881",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 247.67
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "30520",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 245.82
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "43239",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 369.41
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "45378",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 251.22
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "45385",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 244.06
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "47562",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 257.93
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "49505",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 256.45
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "55700",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 339.59
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "64483",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1257.41
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70450",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 119.99
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70450",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.09
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70450",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 119.99
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70450",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 3510.46
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70450",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 119.99
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70450",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.99
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70551",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.71
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70551",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2869.55
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "70553",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2980.45
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 555.62
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 819.22
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 555.62
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2469.17
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "MEDICA PMAP [10057]",
+      "flag": "wide_payer_range_review",
+      "ratio": 178.83
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 555.62
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "PRIMEWEST PMAP [30003]",
+      "flag": "wide_payer_range_review",
+      "ratio": 178.83
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 583.4
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71045",
+      "payer": "UCARE PMAP [30006]",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.82
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 464.1
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 682.87
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 464.1
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2208.2
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "MEDICA PMAP [10057]",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.33
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 464.1
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "PRIMEWEST PMAP [30003]",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.33
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "71046",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 487.31
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "72141",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.71
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "72141",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2869.31
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "72141",
+      "payer": "SANFORD HEALTH PLAN [10120]",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.84
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "72148",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.07
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "72148",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2869.31
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "73221",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 146.69
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "73221",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 3211.42
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "73721",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 146.69
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "73721",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 3211.42
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "74176",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2728.82
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "74177",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 3352.43
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76536",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76536",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 262.59
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76536",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76536",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1290.49
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76536",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76536",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 189.54
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76700",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.5
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76700",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 184.54
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76700",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.5
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76700",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1672.26
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76700",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.5
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "76700",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.83
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77067",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.19
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77067",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.07
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77067",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.19
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77067",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 735.81
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77067",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.19
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77067",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.7
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 501.79
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 758.63
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 501.79
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2849.45
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "MEDICA PMAP [10057]",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.72
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 501.79
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "PRIMEWEST PMAP [30003]",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.72
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "77080",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 526.88
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80048",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80048",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 210.61
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80048",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80048",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.76
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80048",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80048",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80053",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.45
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80053",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.76
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.67
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80061",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 221.24
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80061",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.67
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80061",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.74
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80061",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.67
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "80061",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.67
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1617.77
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "MEDICA PMAP [10057]",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.82
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "PRIMEWEST PMAP [30003]",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.82
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81001",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.51
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 854.72
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 1756.28
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 854.72
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 854.72
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "MEDICA PMAP [10057]",
+      "flag": "wide_payer_range_review",
+      "ratio": 574.63
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 854.72
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "PRIMEWEST PMAP [30003]",
+      "flag": "wide_payer_range_review",
+      "ratio": 574.63
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 854.72
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "81002",
+      "payer": "UCARE PMAP [30006]",
+      "flag": "wide_payer_range_review",
+      "ratio": 309.71
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "82306",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.7
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "82306",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 225.42
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "82306",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.7
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "82306",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.74
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "82306",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.7
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "82306",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.69
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.27
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "83036",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 273.8
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "83036",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.27
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "83036",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.75
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "83036",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.27
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "83036",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.29
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "84153",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 202.54
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "84153",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 210.44
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "84443",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.55
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "84443",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.74
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "85025",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.09
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "85025",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 217.95
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "85025",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.09
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "85025",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.73
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "85025",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.09
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "85025",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.1
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "87086",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.01
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "87086",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 265.03
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "87086",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.01
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "87086",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.76
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "87086",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.01
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "87086",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.01
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "90834",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.75
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "93306",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.75
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "93880",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.53
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "93880",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 189.66
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "93880",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.53
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "93880",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2503.07
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "93880",
+      "payer": "PRIMEWEST NON PMAP [30004]",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.53
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "93880",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 137.05
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "95810",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 2482.76
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99203",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 563.79
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99204",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 490.84
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99213",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 151.06
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99213",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 872.93
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99214",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.71
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99214",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 961.89
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.0
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 232.54
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "BLUE PLUS PMAP [40002]",
+      "flag": "wide_payer_range_review",
+      "ratio": 145.98
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "HEALTH PARTNERS PMAP [10046]",
+      "flag": "wide_payer_range_review",
+      "ratio": 196.29
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 218.63
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 898.38
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "MEDICA PMAP [10057]",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.1
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "MULTIPLAN",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.0
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "PRIMEWEST PMAP [30003]",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.1
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "SANFORD HEALTH PLAN [10120]",
+      "flag": "wide_payer_range_review",
+      "ratio": 151.17
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "UCARE COMMERCIAL [10705]",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.0
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 128.43
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99283",
+      "payer": "UCARE PMAP [30006]",
+      "flag": "wide_payer_range_review",
+      "ratio": 145.04
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.44
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "HEALTH PARTNERS PMAP [10046]",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.97
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "HEALTH PARTNERS [10045]",
+      "flag": "wide_payer_range_review",
+      "ratio": 183.75
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 883.56
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "MEDICA PMAP [10057]",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.33
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "PRIMEWEST PMAP [30003]",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.33
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "UCARE NON PMAP [30007]",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.93
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99284",
+      "payer": "UCARE PMAP [30006]",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.29
+    },
+    {
+      "id": "oria-astera_health-37729",
+      "code": "99285",
+      "payer": "MEDICA NONPMAP [10056]",
+      "flag": "wide_payer_range_review",
+      "ratio": 856.66
+    },
+    {
       "id": "osf-saint-luke-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -4967,14 +6270,6 @@
     },
     {
       "id": "tampa-general-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "froedtert-bluemound-rehabilitation-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "froedtert-west-bend-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -5000,6 +6295,11 @@
     {
       "id": "providence-willamette-falls-medical-center",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-aspirus_ironwood_hospital-68d5d",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "oria-arbour_hospital-e0732",
@@ -5146,10 +6446,6 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 128.81
-    },
-    {
-      "id": "boston-medical-center",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "boston-medical-center",
@@ -5839,10 +7135,6 @@
     },
     {
       "id": "doctors-hospital-2",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "doctors-hospital-2",
       "code": "80048",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
@@ -5905,19 +7197,11 @@
       "ratio": 122.33
     },
     {
-      "id": "baylor-scott-white-medical-center-college-station",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "ucla-west-valley-medical-center",
       "flag": "source_bytes_hash_missing"
     },
     {
       "id": "memorial-hermann-cypress-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "froedtert-holy-family-memorial-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -5944,6 +7228,11 @@
     {
       "id": "oria-advanced_surgical_hospital-49e5a",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-aspirus_divine_savior_hospital-3f77f",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "sanford-thief-river-falls-medical-center",
@@ -6294,11 +7583,12 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "memorial-hermann-texas-medical-center",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-baptist_memorial_hospital_oktibbeha_county_inc-62070",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
-      "id": "emory-rehabilitation-hospital",
+      "id": "memorial-hermann-texas-medical-center",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -6331,14 +7621,6 @@
     },
     {
       "id": "providence-st-mary-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "good-samaritan-regional-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-emergency-medical-center-cedar-park",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -6414,10 +7696,6 @@
     },
     {
       "id": "fox-chase-cancer-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "fox-chase-cancer-center",
       "code": "95810",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
@@ -6468,10 +7746,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-medical-center-grapevine",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "missouri-baptist-sullivan-hospital",
       "flag": "source_bytes_hash_missing"
     },
@@ -6480,19 +7754,84 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "bryn-mawr-rehab-hospital",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-aventura_ed-1a770",
+      "code": "80048",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.0
     },
     {
-      "id": "adventhealth-palm-coast-parkway",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-aventura_ed-1a770",
+      "code": "80048",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.95
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "80053",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 179.63
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "80053",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 211.33
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "80053",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.21
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "80061",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.42
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "81001",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.88
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "81001",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 239.86
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "81001",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.24
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "81001",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.5
+    },
+    {
+      "id": "oria-aventura_ed-1a770",
+      "code": "85025",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.12
     },
     {
       "id": "wellspan-good-samaritan-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-plano",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -6501,10 +7840,6 @@
     },
     {
       "id": "sutter-lakeside-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-frisco-at-pga-parkway",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -7641,10 +8976,6 @@
     },
     {
       "id": "legacy-unity-center-for-behavioral-health-adult-ip",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "akron-general",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -10374,10 +11705,6 @@
       "ratio": 562.35
     },
     {
-      "id": "covenant-hospital-plainview",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "osf-saint-james-john-w-albrecht-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -10667,6 +11994,69 @@
       "ratio": 16068.0
     },
     {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "29881",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 3139.27
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "30520",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 3137.78
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "43239",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 907.12
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "45378",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 882.11
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "45385",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 1140.8
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "49505",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 3414.48
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "52353",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 4918.57
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "55700",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 1982.0
+    },
+    {
+      "id": "oria-baptist_memorial_hospital_nea-c715b",
+      "code": "64483",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 1242.0
+    },
+    {
       "id": "texas-health-hospital-mansfield",
       "flag": "source_bytes_hash_missing"
     },
@@ -10676,10 +12066,6 @@
     },
     {
       "id": "mercy-women-s-health-carthage",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "alta-bates-summit-medical-center-summit-campus-hawthorne",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -10708,10 +12094,6 @@
     },
     {
       "id": "baylor-scott-white-medical-center-hillcrest",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-hillcrest",
       "code": "52353",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
@@ -10726,12 +12108,13 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "covenant-hospital-levelland",
+      "id": "ssm-health-st-mary-s-hospital-st-louis",
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "ssm-health-st-mary-s-hospital-st-louis",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-aspirus_merrill_hospital-6671a",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "providence-mount-carmel-hospital",
@@ -10739,10 +12122,6 @@
     },
     {
       "id": "tampa-general-hospital-desoto",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "froedtert-community-hospital-pewaukee",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -10786,8 +12165,76 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-auburn_community_hospital-8e598",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
+      "id": "oria-auburn_community_hospital-8e598",
+      "code": "81002",
+      "payer": "Fidelis",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.02
+    },
+    {
       "id": "musc-columbia-medical-center-downtown",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "80048",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.3
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.1
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.07
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "81002",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 461.25
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.52
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.32
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "85025",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 157.96
+    },
+    {
+      "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
+      "code": "87086",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.75
     },
     {
       "id": "lutheran-hospital",
@@ -10977,10 +12424,6 @@
     },
     {
       "id": "copley-memorial-hospital-inc",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "copley-memorial-hospital-inc",
       "code": "81001",
       "payer": "Molina",
       "flag": "wide_payer_range_review",
@@ -11008,10 +12451,6 @@
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
       "ratio": 116.47
-    },
-    {
-      "id": "covenant-health-emergency-center-milwaukee-ave",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "mercy-rehabilitation-hospital-northwest-arkansas",
@@ -11184,10 +12623,6 @@
     },
     {
       "id": "lehigh-valley-hospital-dickson-city",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "barnes-jewish-st-peters-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -11964,10 +13399,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "emory-johns-creek-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "memorial-hermann-northeast-hospital",
       "flag": "source_bytes_hash_missing"
     },
@@ -12008,6 +13439,13 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-astria_toppenish_hospital-ec292",
+      "code": "95810",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 228.74
+    },
+    {
       "id": "st-francis-regional-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -12020,10 +13458,6 @@
     },
     {
       "id": "musc-health-florence-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "buffalo-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -12140,10 +13574,6 @@
       "ratio": 133.7
     },
     {
-      "id": "baylor-scott-white-medical-center-brenham",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "sutter-center-for-psychiatry",
       "flag": "source_bytes_hash_missing"
     },
@@ -12172,15 +13602,7 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-medical-center-waxahachie",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "osf-sacred-heart-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "cleveland-clinic-florida-weston-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -12319,10 +13741,6 @@
       "ratio": 16100.0
     },
     {
-      "id": "duke-health-lake-norman-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "mercy-family-medicine-and-psychiatry-1003-e-cherry",
       "flag": "unresolved_geography"
     },
@@ -12379,10 +13797,6 @@
     {
       "id": "fishermens-community-hospital",
       "flag": "unresolved_geography"
-    },
-    {
-      "id": "fishermens-community-hospital",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "fishermens-community-hospital",
@@ -12476,8 +13890,9 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "emory-hospital-perry",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-beacon_behavioral_hospital_new_orleans-80710",
+      "flag": "source_over_365_days_old",
+      "age_days": 386
     },
     {
       "id": "wellspan-gettysburg-hospital",
@@ -12496,12 +13911,18 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-beacon_behavioral_hospital_new_orleans-3c22c",
+      "flag": "source_over_365_days_old",
+      "age_days": 493
+    },
+    {
       "id": "st-vincent-s-birmingham",
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baptist-health-hospital-doral",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-bennett_county_hospital-05482",
+      "flag": "source_over_365_days_old",
+      "age_days": 657
     },
     {
       "id": "baptist-health-hospital-doral",
@@ -12567,6 +13988,11 @@
       "ratio": 122.33
     },
     {
+      "id": "oria-aspirus_keweenaw_hospital-2fdf4",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
+    },
+    {
       "id": "providence-little-company-of-mary-med-center-torrance",
       "flag": "source_bytes_hash_missing"
     },
@@ -12608,10 +14034,6 @@
     },
     {
       "id": "almost-home-kids",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "almost-home-kids",
       "code": "93000",
       "payer": "Humana",
       "flag": "wide_payer_range_review",
@@ -12649,25 +14071,13 @@
     },
     {
       "id": "baylor-scott-white-mclane-children-s-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-mclane-children-s-medical-center",
       "code": "52353",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
       "ratio": 114.43
     },
     {
-      "id": "covenant-specialty-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "wellstar-paulding-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-marble-falls",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -12732,6 +14142,11 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-beatrice_community_hospital-ac00f",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
       "id": "oria-ahn_wexford_hospital-2bdd9",
       "flag": "source_bytes_hash_missing"
     },
@@ -12757,10 +14172,6 @@
     },
     {
       "id": "oria-advocate_trinity_hospital-adb1c",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-pflugerville",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -13013,10 +14424,6 @@
       "ratio": 262.76
     },
     {
-      "id": "alta-bates-summit-medical-center-herrick-campus",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "providence-valdez-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -13030,10 +14437,6 @@
     },
     {
       "id": "tampa-general-hospital-brooksville",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "fairview-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -13200,6 +14603,11 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 257.73
+    },
+    {
+      "id": "oria-big_sandy_medical_center-94ae7",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "osf-little-company-of-mary-medical-center",
@@ -13428,10 +14836,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "emory-saint-joseph-s-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "samaritan-lebanon-community-hospital",
       "flag": "source_bytes_hash_missing"
     },
@@ -13452,6 +14856,62 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "80048",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.3
+    },
+    {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.1
+    },
+    {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.07
+    },
+    {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "81002",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 461.25
+    },
+    {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.52
+    },
+    {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.32
+    },
+    {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "85025",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 157.96
+    },
+    {
+      "id": "oria-baylor_medical_center_at_trophy_club-4243b",
+      "code": "87086",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.75
+    },
+    {
       "id": "unitypoint-health-trinity-bettendorf",
       "flag": "source_bytes_hash_missing"
     },
@@ -13460,11 +14920,63 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "sentara-belleharbour",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "80048",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.3
     },
     {
-      "id": "emory-hospital-warner-robins",
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.1
+    },
+    {
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.07
+    },
+    {
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "81002",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 461.25
+    },
+    {
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.52
+    },
+    {
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.32
+    },
+    {
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "85025",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 157.96
+    },
+    {
+      "id": "oria-baylor_orthopedic_and_spine_hospital_at_arlington-2ca2f",
+      "code": "87086",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.75
+    },
+    {
+      "id": "sentara-belleharbour",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -13477,10 +14989,6 @@
     },
     {
       "id": "ochsner-stennis-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "cleveland-clinic-childrens-hospital-for-rehabilitation",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -13507,10 +15015,6 @@
     },
     {
       "id": "franklin-memorial-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "franklin-memorial-hospital",
       "flag": "source_over_365_days_old",
       "age_days": 408
     },
@@ -13520,18 +15024,10 @@
     },
     {
       "id": "allina-health-faribault-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "allina-health-faribault-medical-center",
       "code": "90834",
       "payer": "medica health system",
       "flag": "wide_payer_range_review",
       "ratio": 16531.0
-    },
-    {
-      "id": "adventhealth-polk",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "ochsner-laird-hospital",
@@ -13546,8 +15042,60 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-university-medical-center",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "80048",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.3
+    },
+    {
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.1
+    },
+    {
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "81001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.07
+    },
+    {
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "81002",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 461.25
+    },
+    {
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.52
+    },
+    {
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.32
+    },
+    {
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "85025",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 157.96
+    },
+    {
+      "id": "oria-baylor_scott_white_medical_center_uptown-54a7e",
+      "code": "87086",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.75
     },
     {
       "id": "baylor-university-medical-center",
@@ -13597,18 +15145,10 @@
     },
     {
       "id": "baylor-scott-white-medical-center-lakeway",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-lakeway",
       "code": "52353",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
       "ratio": 114.43
-    },
-    {
-      "id": "froedtert-menomonee-falls-hospital",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "martin-north-hospital",
@@ -14066,8 +15606,18 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-bear_valley_community_hospital-aaf3e",
+      "flag": "source_over_365_days_old",
+      "age_days": 784
+    },
+    {
       "id": "sutter-medical-center-sacramento",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-aspirus_rhinelander_hospital-ab74c",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "oria-ascension_sacred_heart_pensacola-3cd8e",
@@ -14076,6 +15626,11 @@
     {
       "id": "upmc-bedford",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-aspirus_st_luke_s_hospital-0e57e",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "mercy-hospital-south",
@@ -14098,15 +15653,7 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "covenant-health-hobbs-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "oria-addison_gilbert_hospital-b1dab",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "emory-long-term-acute-care-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -15339,6 +16886,11 @@
       "ratio": 183.82
     },
     {
+      "id": "oria-aspirus_medford_hospital-1e11c",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
+    },
+    {
       "id": "novant-health-coastal-carolina-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -15384,10 +16936,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-all-saints-medical-center-fort-worth",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "usc-verdugo-hills-hospital",
       "flag": "source_bytes_hash_missing"
     },
@@ -15397,10 +16945,6 @@
     },
     {
       "id": "providence-seward-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-the-heart-hospital-mckinney",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -15495,6 +17039,11 @@
       "id": "lincoln-health",
       "flag": "source_over_365_days_old",
       "age_days": 408
+    },
+    {
+      "id": "oria-aspirus_iron_river_hospital-c799a",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "providence-medford-medical-center",
@@ -15780,10 +17329,6 @@
       "flag": "unresolved_geography"
     },
     {
-      "id": "doylestown-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "providence-newberg-medical-center",
       "flag": "source_bytes_hash_missing"
     },
@@ -15792,23 +17337,11 @@
       "flag": "unresolved_geography"
     },
     {
-      "id": "chp-lvhn-jv-llc-d-b-a-lehigh-valley-hospital-gilbertsville",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-taylor",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "vcu-medical-center",
       "flag": "unresolved_geography"
     },
     {
       "id": "vcu-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "barnes-jewish-west-county-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -15917,10 +17450,6 @@
     },
     {
       "id": "cambridge-medical-center",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "cambridge-medical-center",
       "code": "90834",
       "payer": "medica health system",
       "flag": "wide_payer_range_review",
@@ -15946,6 +17475,11 @@
       "payer": "medica ubh (d)",
       "flag": "wide_payer_range_review",
       "ratio": 16681.0
+    },
+    {
+      "id": "oria-aspirus_stevens_point_hospital-277b6",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "ssm-health-monroe-hospital",
@@ -15980,8 +17514,9 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "christiana-hospital",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-ascension_seton_williamson-7985a",
+      "flag": "source_over_365_days_old",
+      "age_days": 857
     },
     {
       "id": "mercy-specialty-hospital-southeast-kansas",
@@ -16004,6 +17539,11 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-aspirus_tomahawk_hospital-8300f",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
+    },
+    {
       "id": "uchealth-university-of-colorado-hospital",
       "flag": "source_bytes_hash_missing"
     },
@@ -16017,10 +17557,6 @@
     },
     {
       "id": "wellstar-douglas-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-mckinney",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -16068,6 +17604,20 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-baylor_st_luke_s_medical_center-a3970",
+      "code": "80048",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.2
+    },
+    {
+      "id": "oria-baylor_st_luke_s_medical_center-a3970",
+      "code": "80053",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.84
+    },
+    {
       "id": "ssm-health-saint-louis-university-hospital",
       "flag": "source_bytes_hash_missing"
     },
@@ -16086,6 +17636,11 @@
     {
       "id": "mercy-hospital-pittsburg",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-ben_taub_hospital-7719f",
+      "flag": "source_over_365_days_old",
+      "age_days": 484
     },
     {
       "id": "intermountain-health-lds-hospital",
@@ -16117,8 +17672,9 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "california-pacific-medical-center-davies-campus",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-aspirus_plover_hospital-85e65",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "university-of-miami-hospital-clinics-bascom-palmer-eye-institute",
@@ -16169,10 +17725,6 @@
       "ratio": 109.67
     },
     {
-      "id": "baylor-scott-white-continuing-care-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "mercy-rehabilitation-hospital-oklahoma-city-south",
       "flag": "unresolved_geography"
     },
@@ -16185,10 +17737,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-the-heart-hospital-denton",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "intermountain-health-sevier-valley-hospital",
       "flag": "source_bytes_hash_missing"
     },
@@ -16198,10 +17746,6 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 104.86
-    },
-    {
-      "id": "avon-hospital",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "avon-hospital",
@@ -16491,10 +18035,6 @@
     },
     {
       "id": "bethesda-hospital-east",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "bethesda-hospital-east",
       "code": "80048",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
@@ -16548,6 +18088,53 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 124.68
+    },
+    {
+      "id": "oria-bmc_north_hospital-fe2d7",
+      "flag": "source_update_date_unparseable",
+      "value": null
+    },
+    {
+      "id": "oria-bmc_north_hospital-fe2d7",
+      "code": "29881",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.48
+    },
+    {
+      "id": "oria-bmc_north_hospital-fe2d7",
+      "code": "47562",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 398.2
+    },
+    {
+      "id": "oria-bmc_north_hospital-fe2d7",
+      "code": "49505",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 261.84
+    },
+    {
+      "id": "oria-bmc_north_hospital-fe2d7",
+      "code": "55700",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 224.88
+    },
+    {
+      "id": "oria-bmc_north_hospital-fe2d7",
+      "code": "64483",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.62
+    },
+    {
+      "id": "oria-bmc_north_hospital-fe2d7",
+      "code": "66984",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.2
     },
     {
       "id": "mercy-mcauley-clinic",
@@ -16607,10 +18194,6 @@
     },
     {
       "id": "mercy-rehabilitation-hospital-springfield",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "boca-raton-regional-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -16684,8 +18267,9 @@
       "ratio": 104.86
     },
     {
-      "id": "froedtert-community-hospital-new-berlin",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-big_sky_medical_center-10e82",
+      "flag": "source_over_365_days_old",
+      "age_days": 702
     },
     {
       "id": "mercy-primary-care-guthrie-division",
@@ -16720,10 +18304,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "bryn-mawr-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "mercy-hospital-perry-rhc-i",
       "flag": "unresolved_geography"
     },
@@ -16734,10 +18314,6 @@
     {
       "id": "boston-medical-center-brighton",
       "flag": "unresolved_geography"
-    },
-    {
-      "id": "boston-medical-center-brighton",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "boston-medical-center-brighton",
@@ -16766,8 +18342,18 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-beacon_behavioral_hospital_northshore_lacombe-dafae",
+      "flag": "source_over_365_days_old",
+      "age_days": 386
+    },
+    {
       "id": "oria-ascension_saint_thomas_west-b1ca4",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-aspirus_wisconsin_rapids_hospital-b7f22",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "memorial-hospital-los-banos",
@@ -16814,12 +18400,22 @@
       "flag": "source_bytes_hash_missing"
     },
     {
+      "id": "oria-aspirus_stanley_hospital-8cfae",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
+    },
+    {
       "id": "novant-health-thomasville-medical-center",
       "flag": "source_bytes_hash_missing"
     },
     {
       "id": "oria-alta_vista_regional_hospital-970a5",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-beacon_behavioral_hospital_lutcher-bfa28",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "unitypoint-health-allen-hospital",
@@ -17058,8 +18654,9 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "baylor-scott-white-heart-and-vascular-hospital-waxahachie",
-      "flag": "source_bytes_hash_missing"
+      "id": "oria-aspirus_eagle_river_hospital-99d74",
+      "flag": "source_over_365_days_old",
+      "age_days": 478
     },
     {
       "id": "intermountain-health-orem-community-hospital",
@@ -17192,10 +18789,6 @@
     },
     {
       "id": "mercy-hospital-perry-rhc-iii",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "children-s-memorial-hermann-hospital",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -17410,10 +19003,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "alta-bates-summit-medical-center-summit-campus",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "oria-anderson_hospital-3f7d1",
       "flag": "source_bytes_hash_missing"
     },
@@ -17542,10 +19131,6 @@
       "flag": "source_bytes_hash_missing"
     },
     {
-      "id": "emory-university-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "sanford-luverne-medical-center",
       "flag": "unresolved_geography"
     },
@@ -17581,10 +19166,6 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 133.7
-    },
-    {
-      "id": "euclid-hospital",
-      "flag": "source_bytes_hash_missing"
     },
     {
       "id": "euclid-hospital",
@@ -18892,10 +20473,6 @@
       "ratio": 269.12
     },
     {
-      "id": "emory-university-hospital-midtown",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
       "id": "oria-advanced_care_hospital_of_northern_colorado_llc-0e8dc",
       "flag": "source_bytes_hash_missing"
     },
@@ -19087,10 +20664,6 @@
     },
     {
       "id": "prisma-health-baptist-easley-hospital",
-      "flag": "source_bytes_hash_missing"
-    },
-    {
-      "id": "baylor-scott-white-medical-center-buda",
       "flag": "source_bytes_hash_missing"
     },
     {
@@ -19607,6 +21180,11 @@
     {
       "id": "mercy-hospital-ardmore",
       "flag": "source_bytes_hash_missing"
+    },
+    {
+      "id": "oria-aspire_behavioral_health_hospital-8df3d",
+      "flag": "source_update_date_unparseable",
+      "value": null
     },
     {
       "id": "sutter-amador-hospital",
