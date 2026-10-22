@@ -61,3 +61,7 @@ The initial readback found one header difference caused by extraction trimming h
 ## Invalid summary quarantine
 
 Whole source summaries with negative/non-finite amounts or inverted ranges are excluded from search and successful coverage counts by a shared fail-closed validity check. Their original extracted evidence stays in `data/hospitals`; `data/quality/report.json` lists `quarantined_sources` and reasons. Quarantine does not repair or endorse source amounts. The row-preserving source layer is separate and can retain original values for review, never as a comparable offer.
+
+## Measured lineage and refresh cadence
+
+`data/quality/lineage-freshness.json` compares the exact downloaded byte hashes of summary and row-preserving snapshots, reports extraction-age buckets, parser versions and failure classes. A missing summary hash is unresolved lineage, not a match. Different byte hashes are version-review candidates, not presumed errors. The daily normalized job refreshes at most 40 files; a complete rotation of 1,110 files takes at least 28 scheduled runs without manual tranches, and failures/new sources can extend that. Daily automation is not a promise that every source is fresh daily. This report does not infer source update age from download time.
