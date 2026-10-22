@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-10-22T11:07:59.595576+00:00",
-  "normalized_files": 1110,
+  "generated_at": "2026-10-22T11:55:37.311496+00:00",
+  "normalized_files": 1240,
   "parser_versions": {
     "row-preserving-1.1": 681,
-    "row-preserving-1.2": 428,
+    "row-preserving-1.2": 558,
     "unversioned": 1
   },
   "extraction_age_buckets": {
-    "within_24h": 1110
+    "within_24h": 1240
   },
   "failed_attempt_classes": {
-    "strict_encoding": 80,
-    "csv_width": 14,
+    "strict_encoding": 114,
+    "other": 9,
+    "csv_width": 15,
     "timeout": 11,
     "http_429": 1
   },
-  "summary_hash_missing_count": 419,
+  "summary_hash_missing_count": 325,
   "summary_normalized_hash_differences": [
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251737079_canonsburg-general-hospital_standardcharges.csv",
@@ -28,7 +29,7 @@
   "normalized_without_successful_summary": [],
   "refresh_policy": {
     "normalized_scheduled_max_files_per_day": 40,
-    "nominal_full_rotation_days_at_current_file_count": 28,
+    "nominal_full_rotation_days_at_current_file_count": 31,
     "caveat": "Lower-bound rotation estimate only: failures, new sources, scheduling and manual tranches change cadence; this is not a freshness guarantee."
   },
   "interpretation": "Matching hashes indicate the same downloaded bytes, not correct prices or clinical equivalence. Different hashes can reflect newer source versions or nondeterministic containers and require review. Age is extraction age, not hospital update age. Legacy parser 1.1 trims CSV header whitespace; 1.2 preserves exact headers."
