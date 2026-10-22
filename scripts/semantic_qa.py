@@ -14,6 +14,7 @@ def main():
   with gzip.open(p,'rt') as f:
    for line in f:
     r=json.loads(line);records+=1
+    if r.get('row_width_mismatch'):coverage['row_width_mismatch_records_skipped']+=1;continue
     if r['source_format']=='cms-csv':
      pairs=list(zip(r['source_header'],r['source_values']));values=dict(pairs)
      for key in ['setting','billing_class','modifiers','payer_name','plan_name']:

@@ -16,6 +16,21 @@ class NormalizedTests(unittest.TestCase):
    self.assertEqual(rows[0]['source_values'],['MRI','70551','CPT','125'])
    self.assertEqual(rows[0]['source_record_ordinal'],1)
   finally:os.unlink(path)
+ def _csv(self,content,encoding='utf-8-sig'):
+  with tempfile.NamedTemporaryFile(delete=False) as f:f.write(content);path=f.name
+  try:return list(n.extract(path,{'70551':{}},encoding))
+  finally:os.unlink(path)
+ def test_cp1252_needs_explicit_fallback(self):
+  raw=('description,code|1,code|1|type\nMRI caf\xe9,70551,CPT\n').encode('cp1252')
+  with self.assertRaises(UnicodeDecodeError):self._csv(raw)
+  self.assertEqual(self._csv(raw,'cp1252')[0]['source_values'][0],'MRI caf\xe9')
+ def test_width_mismatch_preserved_and_flagged(self):
+  rows=self._csv(b'description,code|1,code|1|type,median_amount\nMRI,70551,CPT\n')
+  self.assertEqual(rows[0]['source_values'],['MRI','70551','CPT'])
+  self.assertEqual(rows[0]['row_width_mismatch']['header_cells'],4)
+ def test_bom_json_routes_to_json(self):
+  rows=self._csv(b'\xef\xbb\xbf{"standard_charge_information":[{"code_information":[{"code":"70551","type":"CPT"}]}]}')
+  self.assertEqual(rows[0]['source_format'],'cms-json')
  def test_no_non_cpt_false_match(self):
   source={'standard_charge_information':[{'code_information':[{'code':'70551','type':'CDM'}]}]}
   with tempfile.NamedTemporaryFile(mode='w',delete=False) as f:json.dump(source,f);path=f.name

@@ -12,6 +12,14 @@ on:
         description: Skip files already attempted
         default: 'false'
         required: true
+      retry_failed:
+        description: Only retry sources whose last attempt failed
+        default: 'false'
+        required: true
+      source_timeout:
+        description: Seconds allowed per source
+        default: '240'
+        required: true
 permissions:
   contents: write
 concurrency:
@@ -20,7 +28,7 @@ concurrency:
 jobs:
   normalized:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -28,7 +36,7 @@ jobs:
           python-version: '3.12'
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/test_normalized.py
-      - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '40' }}" ${{ github.event.inputs.only_unattempted == 'true' && '--only-unattempted' || '' }}
+      - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '40' }}" ${{ github.event.inputs.only_unattempted == 'true' && '--only-unattempted' || '' }} ${{ github.event.inputs.retry_failed == 'true' && '--retry-failed' || '' }} --source-timeout "${{ github.event.inputs.source_timeout || '240' }}"
       - run: python scripts/validate_normalized.py
       - uses: actions/checkout@v4
         with:

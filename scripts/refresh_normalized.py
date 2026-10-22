@@ -9,13 +9,15 @@ import argparse,datetime,glob,json,os,subprocess,sys,tempfile,time,urllib.parse
 from concurrent.futures import ThreadPoolExecutor,as_completed
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def main():
- p=argparse.ArgumentParser();p.add_argument('--limit',type=int,default=40);p.add_argument('--workers',type=int,default=3);p.add_argument('--max-mb',type=int,default=700);p.add_argument('--only-unattempted',action='store_true');a=p.parse_args()
+ p=argparse.ArgumentParser();p.add_argument('--limit',type=int,default=40);p.add_argument('--workers',type=int,default=3);p.add_argument('--max-mb',type=int,default=700);p.add_argument('--only-unattempted',action='store_true');p.add_argument('--retry-failed',action='store_true');p.add_argument('--source-timeout',type=int,default=240);a=p.parse_args()
  holds={r['hostname'] for r in json.load(open(ROOT+'/data/source-holds.json'))['holds']}
  candidates=[];seen=set()
  for f in glob.glob(ROOT+'/data/hospitals/*.json'):
   d=json.load(open(f));u=d.get('mrf_url')
   if d.get('status')!='ok' or u in seen or urllib.parse.urlsplit(u or '').hostname in holds:continue
-  if a.only_unattempted and os.path.exists(ROOT+'/data/normalized-attempts/'+d['id']+'.json'):continue
+  attempt_path=ROOT+'/data/normalized-attempts/'+d['id']+'.json'
+  if a.only_unattempted and os.path.exists(attempt_path):continue
+  if a.retry_failed and (not os.path.exists(attempt_path) or json.load(open(attempt_path)).get('status')!='failed'):continue
   seen.add(u);candidates.append(d)
  directory=ROOT+'/data/normalized';os.makedirs(directory,exist_ok=True)
  def age(d):
@@ -29,7 +31,7 @@ def main():
   t=time.time();hid=d['id'];result={'id':hid,'source_url':d['mrf_url'],'checked_at':datetime.datetime.now(datetime.timezone.utc).isoformat()}
   try:
    with tempfile.TemporaryDirectory() as temp:
-    run=subprocess.run([sys.executable,ROOT+'/scripts/normalize_mrf.py','--id',hid,'--url',d['mrf_url'],'--out-dir',temp,'--max-mb',str(a.max_mb)],capture_output=True,text=True,timeout=240,env=dict(os.environ,TMPDIR=temp))
+    run=subprocess.run([sys.executable,ROOT+'/scripts/normalize_mrf.py','--id',hid,'--url',d['mrf_url'],'--out-dir',temp,'--max-mb',str(a.max_mb)],capture_output=True,text=True,timeout=a.source_timeout,env=dict(os.environ,TMPDIR=temp))
     if run.returncode:raise ValueError(run.stderr[-700:])
     manifest_path=temp+'/'+hid+'.jsonl.gz.manifest.json';manifest=json.load(open(manifest_path))
     # Install only complete verified-format output, then a manifest. Retain source history hash.
