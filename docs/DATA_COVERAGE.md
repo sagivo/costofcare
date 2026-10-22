@@ -57,3 +57,7 @@ The initial readback found one header difference caused by extraction trimming h
 ## Encoding diagnostics
 
 `diagnose_encoding.py` records bounded original HTTP charset/BOM evidence for six direct CSV failures. Compressed containers are excluded from prefix decoding. No automatic legacy-encoding fallback is inferred from byte values. Even a valid UTF-8 prefix does not validate an entire file; these sources remain excluded from the normalized layer until a full strict parse succeeds with supported encoding evidence.
+
+## Invalid summary quarantine
+
+Whole source summaries with negative/non-finite amounts or inverted ranges are excluded from search and successful coverage counts by a shared fail-closed validity check. Their original extracted evidence stays in `data/hospitals`; `data/quality/report.json` lists `quarantined_sources` and reasons. Quarantine does not repair or endorse source amounts. The row-preserving source layer is separate and can retain original values for review, never as a comparable offer.
