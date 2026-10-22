@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 1057,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463433074_mercy-hospital-kingfisher_standardcharges.zip",
   "source_sha256": "ddff42e72f60320e17d82a5843970ff4b1ffda89b0651bd16bb41f0c550031af",
   "download_bytes": 3178519,
-  "extracted_at": "2026-10-22T05:08:41Z",
+  "extracted_at": "2026-10-22T15:32:42Z",
   "code_filter": [
     "27130",
     "27447",

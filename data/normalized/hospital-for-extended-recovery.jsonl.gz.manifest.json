@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 74,
   "source_url": "https://www.sentara.com/Documents/h/HospitalforExtendedRecoverystandardchargesxlsx-1395257",
   "source_sha256": "8ff054baafbde9d8ad2dd63f005ea6a9b875da80bbf05144374410763a5bc576",
   "download_bytes": 3490609,
-  "extracted_at": "2026-10-22T05:08:42Z",
+  "extracted_at": "2026-10-22T15:32:41Z",
   "code_filter": [
     "27130",
     "27447",

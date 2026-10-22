@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 12,
   "source_url": "https://www.earh.org/wp-content/uploads/2026/06/916001963_east-adams-rural-hospital_standardcharges.csv",
   "source_sha256": "f0528c3b63c063c0571f8efbeab89330ea3f309c5682cbfb2bf22596c90eeda4",
   "download_bytes": 1188130,
-  "extracted_at": "2026-10-22T05:08:18Z",
+  "extracted_at": "2026-10-22T15:32:22Z",
   "code_filter": [
     "27130",
     "27447",

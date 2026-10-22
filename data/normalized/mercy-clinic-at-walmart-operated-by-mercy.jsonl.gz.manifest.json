@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 3524,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-walmart_RHC_standardcharges.zip",
   "source_sha256": "c1dc6716e34ecb963470658d0c6a0e2b93b7acea4b3e97c44fc75b10ece6cdb4",
   "download_bytes": 1258570,
-  "extracted_at": "2026-10-22T05:08:31Z",
+  "extracted_at": "2026-10-22T15:32:34Z",
   "code_filter": [
     "27130",
     "27447",

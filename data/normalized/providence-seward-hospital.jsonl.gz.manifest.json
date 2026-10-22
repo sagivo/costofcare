@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 61,
   "source_url": "https://pricetransparency.providence.org/alaska/live/611442487_providence-seward-hospital_standardcharges.json",
   "source_sha256": "09b16b13b2f72de034d8b7f4998eb1a94da0c32379d5dd8b2e729769107c3e2a",
   "download_bytes": 2940817,
-  "extracted_at": "2026-10-22T05:08:37Z",
+  "extracted_at": "2026-10-22T15:32:38Z",
   "code_filter": [
     "27130",
     "27447",

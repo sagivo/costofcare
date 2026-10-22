@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 338,
   "source_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_garfield-memorial-hospital_standardcharges.ashx",
   "source_sha256": "32a4bb3ef7fb55ac6029fffa2577ffcfdd0efb7a0fd80b618a7ed98fe080f9b2",
   "download_bytes": 3599472,
-  "extracted_at": "2026-10-22T05:09:07Z",
+  "extracted_at": "2026-10-22T15:32:57Z",
   "code_filter": [
     "27130",
     "27447",

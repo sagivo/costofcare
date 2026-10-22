@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 13,
   "source_url": "https://apibhs.com/website-compliance/Alvarado-Parkway-Institute_standardcharges.csv",
   "source_sha256": "b59f4976e26728c4edd3484b84cceac35211e7790e8e5fa0b27c182aa669e751",
   "download_bytes": 19546,
-  "extracted_at": "2026-10-22T05:07:57Z",
+  "extracted_at": "2026-10-22T15:32:20Z",
   "code_filter": [
     "27130",
     "27447",

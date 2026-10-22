@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 330,
   "source_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_delta-community-hospital_standardcharges.ashx",
   "source_sha256": "3708b8ada4a7980ed1bf180240190bd79c2a49d5f18cf71da442f8f804526484",
   "download_bytes": 3759912,
-  "extracted_at": "2026-10-22T05:09:23Z",
+  "extracted_at": "2026-10-22T15:33:09Z",
   "code_filter": [
     "27130",
     "27447",

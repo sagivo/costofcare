@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 645,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/274433830_mercy-hospital-tishomingo_standardcharges.zip",
   "source_sha256": "1cc96460f008cd17b6c2c0fade23fa68cecac27cb92029914543f2fa97828f02",
   "download_bytes": 2785682,
-  "extracted_at": "2026-10-22T05:08:39Z",
+  "extracted_at": "2026-10-22T15:32:41Z",
   "code_filter": [
     "27130",
     "27447",

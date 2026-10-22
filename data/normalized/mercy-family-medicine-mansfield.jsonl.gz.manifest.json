@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 1030,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710557895_mercy-hospital-waldron-MansfieldFamilyMedicine_RHC_standardcharges.zip",
   "source_sha256": "55e984bd2e4836010e2dc214c189578b940622767db6bce98531845d9f6e741a",
   "download_bytes": 1040504,
-  "extracted_at": "2026-10-22T05:08:17Z",
+  "extracted_at": "2026-10-22T15:32:24Z",
   "code_filter": [
     "27130",
     "27447",

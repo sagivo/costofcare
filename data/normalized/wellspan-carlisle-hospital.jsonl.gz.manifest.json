@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 22,
   "source_url": "https://mrfs.hyvehealthcare.com/Emerus/933242438_wellspan-health-newberry-llc_standardcharges.csv",
   "source_sha256": "b92b1c5dc921cf33cca9d3bd1a38f20d51bed8ea604d10e7d7abfea2f09c3d69",
   "download_bytes": 154886,
-  "extracted_at": "2026-10-22T05:08:13Z",
+  "extracted_at": "2026-10-22T15:32:21Z",
   "code_filter": [
     "27130",
     "27447",

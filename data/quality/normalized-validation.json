@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:09:19.203777+00:00",
+  "generated_at": "2026-10-22T15:36:36.500026+00:00",
   "status": "pass",
   "validated_files": 1627,
   "validated_records": 3288949,
@@ -17,8 +17,8 @@
     "code|3|type": 2187905,
     "setting": 3226305,
     "billing_class": 2413451,
-    "standard_charge|gross": 2808073,
-    "standard_charge|discounted_cash": 2753379,
+    "standard_charge|gross": 2807811,
+    "standard_charge|discounted_cash": 2753117,
     "standard_charge|min": 2980046,
     "standard_charge|max": 2985496,
     "standard_charge|Americas PPO (Araz)(A M U)|Americas PPO (Araz)(A M U)|negotiated_dollar": 340,
@@ -328,8 +328,8 @@
     "median_amount|Medica MHPS|Medica MHPS (BDOSV)": 10,
     "10th_percentile|Medica MHPS|Medica MHPS (BDOSV)": 10,
     "90th_percentile|Medica MHPS|Medica MHPS (BDOSV)": 10,
-    " standard_charge|gross ": 593,
-    " standard_charge|discounted_cash ": 474,
+    " standard_charge|gross ": 855,
+    " standard_charge|discounted_cash ": 736,
     "standard_charge|Blue Cross Blue Shield of IA and SD Medicare COB|Default|methodology": 896,
     "standard_charge|Blue Cross Blue Shield of IA and SD Medicare COB|Default|negotiated_algorithm": 896,
     "estimated_amount|Blue Cross Blue Shield of IA and SD Medicare COB|Default": 358,
@@ -436,23 +436,23 @@
     "standard_charge|WellCareNC | methodology": 54,
     "median_amount|Aetna|Commercial": 145,
     "10th_percentile|Aetna |Commercial": 65,
-    "90th_percentile|Aetna | Commercial": 32,
+    "90th_percentile|Aetna | Commercial ": 32,
     "count|Aetna | Commercial": 32,
     "median_amount|DHB|Commercial": 31,
     "10th_percentile|DHB |Commercial": 31,
-    "90th_percentile|DHB | Commercial": 31,
+    "90th_percentile|DHB | Commercial ": 31,
     "count|DHB | Commercial": 31,
     "median_amount|Humana|": 29,
     "10th_percentile|Humana |": 29,
-    "90th_percentile|Humana |": 29,
-    "count|Humana |": 29,
+    "90th_percentile|Humana |  ": 29,
+    "count|Humana | ": 29,
     "median_amount|UHC|Commercial": 239,
     "10th_percentile|UHC |Commercial": 63,
-    "90th_percentile|UHC | Commercial": 31,
+    "90th_percentile|UHC | Commercial ": 63,
     "count|UHC | Commercial": 63,
     "median_amount|VAYA|Commercial": 29,
     "10th_percentile|VAYA |Commercial": 29,
-    "90th_percentile|VAYA | Commercial": 29,
+    "90th_percentile|VAYA | Commercial ": 29,
     "count|VAYA | Commercial": 29,
     "median_amount|WellCareNC": 31,
     "10th_percentile|WellCareNC": 31,
@@ -460,15 +460,15 @@
     "count|WellCareNC": 31,
     "median_amount|BravoHealth|Commercial": 27,
     "10th_percentile|BravoHealth |Commercial": 27,
-    "90th_percentile|BravoHealth | Commercial": 27,
+    "90th_percentile|BravoHealth | Commercial ": 27,
     "count|BravoHealth | Commercial": 27,
     "median_amount|BCBSNC|Commercial": 13,
     "10th_percentile|BCBSNC |Commercial": 13,
-    "90th_percentile|BCBSNC | Commercial": 13,
+    "90th_percentile|BCBSNC | Commercial ": 13,
     "count|BCBSNC | Commercial": 13,
     "median_amount|HealthTeam|Commercial": 22,
     "10th_percentile|HealthTeam |Commercial": 22,
-    "90th_percentile|HealthTeam | Commercial": 22,
+    "90th_percentile|HealthTeam | Commercial ": 22,
     "count|HealthTeam | Commercial": 22,
     "standard_charge|MEDIGAP|MEDIGAP|negotiated_dollar": 1146,
     "standard_charge|MEDIGAP|MEDIGAP|methodology": 1146,
@@ -11692,7 +11692,6 @@
     "10th_percentile|Aetna | Commercial |Commercial": 41,
     "90th_percentile|Aetna | Commercial | Commercial ": 41,
     "count|Aetna | Commercial | Commercial": 41,
-    "90th_percentile|UHC | Commercial ": 32,
     "median_amount|UHC|Advantage": 35,
     "10th_percentile|UHC |Advantage": 35,
     "90th_percentile|UHC | Advantage ": 35,
@@ -23660,7 +23659,7 @@
       "records": 54,
       "source_sha256": "45d6e475458ff77ea42d900a9f16c2edf6bfadebf11e28959624a7bd2c2de3f0",
       "source_url": "https://www2.novanthealth.org/Public_Files/regulatory/334072561_novant-health-stokes-medical-center_standardcharges_6-2026.csv",
-      "extracted_at": "2026-10-22T05:08:37Z"
+      "extracted_at": "2026-10-22T15:32:39Z"
     },
     {
       "source_id": "copley-memorial-hospital-inc",
@@ -23919,7 +23918,7 @@
       "records": 20,
       "source_sha256": "a40828daeaf4913194032027aace62f71777ad48322584f809f5e87b807ffa23",
       "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381576680_henry-ford-brighton-center-for-recovery_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:07:57Z"
+      "extracted_at": "2026-10-22T15:32:20Z"
     },
     {
       "source_id": "henry-ford-genesys-hospital",
@@ -23996,7 +23995,7 @@
       "records": 74,
       "source_sha256": "8ff054baafbde9d8ad2dd63f005ea6a9b875da80bbf05144374410763a5bc576",
       "source_url": "https://www.sentara.com/Documents/h/HospitalforExtendedRecoverystandardchargesxlsx-1395257",
-      "extracted_at": "2026-10-22T05:08:42Z"
+      "extracted_at": "2026-10-22T15:32:41Z"
     },
     {
       "source_id": "indian-river-hospital",
@@ -24045,7 +24044,7 @@
       "records": 330,
       "source_sha256": "3708b8ada4a7980ed1bf180240190bd79c2a49d5f18cf71da442f8f804526484",
       "source_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_delta-community-hospital_standardcharges.ashx",
-      "extracted_at": "2026-10-22T05:09:23Z"
+      "extracted_at": "2026-10-22T15:33:09Z"
     },
     {
       "source_id": "intermountain-health-fillmore-community-hospital",
@@ -24059,7 +24058,7 @@
       "records": 338,
       "source_sha256": "32a4bb3ef7fb55ac6029fffa2577ffcfdd0efb7a0fd80b618a7ed98fe080f9b2",
       "source_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_garfield-memorial-hospital_standardcharges.ashx",
-      "extracted_at": "2026-10-22T05:09:07Z"
+      "extracted_at": "2026-10-22T15:32:57Z"
     },
     {
       "source_id": "intermountain-health-good-samaritan-medical-center",
@@ -24598,7 +24597,7 @@
       "records": 3524,
       "source_sha256": "c1dc6716e34ecb963470658d0c6a0e2b93b7acea4b3e97c44fc75b10ece6cdb4",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-walmart_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:31Z"
+      "extracted_at": "2026-10-22T15:32:34Z"
     },
     {
       "source_id": "mercy-family-medicine-900-e-cherry",
@@ -24619,7 +24618,7 @@
       "records": 1564,
       "source_sha256": "4c83e29e08765a47b3cebc7604745f52b9c5fe842618688a146f24fdb0034124",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463851119_mercy-hospital-booneville-PrimaryCare_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:32Z"
+      "extracted_at": "2026-10-22T15:32:35Z"
     },
     {
       "source_id": "mercy-family-medicine-elsberry",
@@ -24633,21 +24632,21 @@
       "records": 1292,
       "source_sha256": "a432d14adbf1e7e4e5de3088589d8a10812e4a6dd838b68271e3df7105961ec0",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463851119_mercy-hospital-booneville-PrimaryCareMagazine_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:22Z"
+      "extracted_at": "2026-10-22T15:32:27Z"
     },
     {
       "source_id": "mercy-family-medicine-mansfield",
       "records": 1030,
       "source_sha256": "55e984bd2e4836010e2dc214c189578b940622767db6bce98531845d9f6e741a",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710557895_mercy-hospital-waldron-MansfieldFamilyMedicine_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:17Z"
+      "extracted_at": "2026-10-22T15:32:24Z"
     },
     {
       "source_id": "mercy-family-medicine-paris",
       "records": 1030,
       "source_sha256": "856678fcfdb8c27b793e74f6577368c99398a0ea9b695b8573f45212bc9cbb88",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710655753_mercy-hospital-paris_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:16Z"
+      "extracted_at": "2026-10-22T15:32:24Z"
     },
     {
       "source_id": "mercy-family-medicine-winfield",
@@ -24661,7 +24660,7 @@
       "records": 316,
       "source_sha256": "f046431fbda0f7fa582301352d01b2491b163b001afa9d2e5ccfe7cb76d46ea0",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/730929722_love-county-health-center_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:14Z"
+      "extracted_at": "2026-10-22T15:32:22Z"
     },
     {
       "source_id": "mercy-hospital-2",
@@ -24759,7 +24758,7 @@
       "records": 1057,
       "source_sha256": "ddff42e72f60320e17d82a5843970ff4b1ffda89b0651bd16bb41f0c550031af",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463433074_mercy-hospital-kingfisher_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:41Z"
+      "extracted_at": "2026-10-22T15:32:42Z"
     },
     {
       "source_id": "mercy-hospital-lebanon",
@@ -24885,7 +24884,7 @@
       "records": 645,
       "source_sha256": "1cc96460f008cd17b6c2c0fade23fa68cecac27cb92029914543f2fa97828f02",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/274433830_mercy-hospital-tishomingo_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:39Z"
+      "extracted_at": "2026-10-22T15:32:41Z"
     },
     {
       "source_id": "mercy-hospital-waldron",
@@ -24948,7 +24947,7 @@
       "records": 3524,
       "source_sha256": "ee2574edd47ca1dff572f1f70ed0cc6018b34194185e0546ff0b64b46b4e8ecb",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Sikeston_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:25Z"
+      "extracted_at": "2026-10-22T15:32:28Z"
     },
     {
       "source_id": "mercy-primary-care-1165-east-cherry",
@@ -24969,63 +24968,63 @@
       "records": 3524,
       "source_sha256": "8800fd890add157587e3ea3d04050dd844bdb6989e576899607d9526b69a6a00",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Bernie_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:28Z"
+      "extracted_at": "2026-10-22T15:32:32Z"
     },
     {
       "source_id": "mercy-primary-care-bloomfield",
       "records": 3524,
       "source_sha256": "3fc4e61f6fe333f99e6aeac41214ac3fecc7821ae3724482173b8bbbd6a5099d",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-bloomfield_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:26Z"
+      "extracted_at": "2026-10-22T15:32:32Z"
     },
     {
       "source_id": "mercy-primary-care-crescent",
       "records": 1470,
       "source_sha256": "9cabf582f250549f4294c13be2dbbe978a5c1613daa8286c478448bc2d02bb8c",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/452998842_mercy-hospital-logancounty-CrescentPrimaryCare_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:35Z"
+      "extracted_at": "2026-10-22T15:32:37Z"
     },
     {
       "source_id": "mercy-primary-care-guthrie-division",
       "records": 1470,
       "source_sha256": "09d4ddc65541fec4dfe6e3446de26680e1390e0cfba3eb8a8cda18225760cea7",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/452998842_mercy-hospital-logancounty-GuthrieDivisionPrimaryCare_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:35Z"
+      "extracted_at": "2026-10-22T15:32:38Z"
     },
     {
       "source_id": "mercy-primary-care-healdton",
       "records": 1018,
       "source_sha256": "bad1650700729625aa7e774f3289bcf85ccd6f42394f2e6a050f20ccdf274445",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/263173902_mercy-hospital-healdton-PrimaryCare_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:20Z"
+      "extracted_at": "2026-10-22T15:32:26Z"
     },
     {
       "source_id": "mercy-primary-care-malden",
       "records": 3524,
       "source_sha256": "b3222ab834d03442503518a877a2dc826a33a8609caf2f4fea984797e7e21855",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Malden_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:25Z"
+      "extracted_at": "2026-10-22T15:32:30Z"
     },
     {
       "source_id": "mercy-primary-care-new-madrid",
       "records": 3524,
       "source_sha256": "fd02b48bdbb2fc9798aa2ee9301a8e575b3668c38fe246e75cc8b549235d43b2",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-NewMadrid_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:22Z"
+      "extracted_at": "2026-10-22T15:32:29Z"
     },
     {
       "source_id": "mercy-primary-care-poplar-bluff",
       "records": 3524,
       "source_sha256": "9437a92b19aff0f90e58dd0842a26abc9ecd9c8230f2a310b66533dfd997d6dd",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hosptial-stoddard-PoplarBluff_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:19Z"
+      "extracted_at": "2026-10-22T15:32:26Z"
     },
     {
       "source_id": "mercy-primary-care-stoddard",
       "records": 3524,
       "source_sha256": "8260ec3bf1accfd90c86692831e18c6ac450ecbf8fc5e2821e2368cc55761b8a",
       "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Dexter_RHC_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:08:29Z"
+      "extracted_at": "2026-10-22T15:32:33Z"
     },
     {
       "source_id": "mercy-rehabilitation-hospital-oklahoma-city-south",
@@ -25382,14 +25381,14 @@
       "records": 12,
       "source_sha256": "f0528c3b63c063c0571f8efbeab89330ea3f309c5682cbfb2bf22596c90eeda4",
       "source_url": "https://www.earh.org/wp-content/uploads/2026/06/916001963_east-adams-rural-hospital_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:08:18Z"
+      "extracted_at": "2026-10-22T15:32:22Z"
     },
     {
       "source_id": "oria-adams_county_regional_medical_center-dfc89",
       "records": 240,
       "source_sha256": "9a2568984b6a0c02f8686e03edaab7d1b1ea1ebab96442fc1fb32a1c81bfd2bc",
       "source_url": "https://acrmc.com/wp-content/uploads/2025/03/81-2817266_Adams-County-Regional-Medical-Center_standardcharges-1.zip",
-      "extracted_at": "2026-10-22T05:08:34Z"
+      "extracted_at": "2026-10-22T15:32:34Z"
     },
     {
       "source_id": "oria-adc_endoscopy_specialists-2b701",
@@ -25529,7 +25528,7 @@
       "records": 6,
       "source_sha256": "21779b6e2d33dac6a8e9c8ee6721f88a34333c18e051b1c61a494d0be76eff33",
       "source_url": "https://greenvilleash.com/30-0347987_ALLEGIANCE-SPECIALTY-HOSPITAL-OF-GREENVILLE_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:07:57Z"
+      "extracted_at": "2026-10-22T15:32:20Z"
     },
     {
       "source_id": "oria-allen_county_regional_hospital-bc270",
@@ -25564,7 +25563,7 @@
       "records": 83,
       "source_sha256": "654dc244371beb60c222f5c396795969e1b74d25f618fb1c052add2262d59f3f",
       "source_url": "https://alliancehcs.slicedhealth.io/pricer/00-0000000-1295826337_AllianceHealthCareSystem_standardcharges.CSV",
-      "extracted_at": "2026-10-22T05:08:15Z"
+      "extracted_at": "2026-10-22T15:32:22Z"
     },
     {
       "source_id": "oria-alliancehealth_durant-1158b",
@@ -25599,7 +25598,7 @@
       "records": 13,
       "source_sha256": "b59f4976e26728c4edd3484b84cceac35211e7790e8e5fa0b27c182aa669e751",
       "source_url": "https://apibhs.com/website-compliance/Alvarado-Parkway-Institute_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:07:57Z"
+      "extracted_at": "2026-10-22T15:32:20Z"
     },
     {
       "source_id": "oria-american_family_children_s_hospital-b38eb",
@@ -25676,14 +25675,14 @@
       "records": 242,
       "source_sha256": "7516d0b49f2fe31351edb4efee1071b88ca668589707a73843574ca40e6492a0",
       "source_url": "https://ahcs.slicedhealth.io/pricer/58-6002659-1861615304_ApplingHealthCareSystem_standardcharges.CSV",
-      "extracted_at": "2026-10-22T05:08:35Z"
+      "extracted_at": "2026-10-22T15:32:37Z"
     },
     {
       "source_id": "oria-arbour_hospital-e0732",
       "records": 9,
       "source_sha256": "5b9ed02b016db67b82e668643dd09b6ea6193c491958ac26e5ac33e1ec8e794a",
       "source_url": "https://uhsfilecdn.eskycity.net/bh/232238962_arbour_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:08:13Z"
+      "extracted_at": "2026-10-22T15:32:20Z"
     },
     {
       "source_id": "oria-arizona_general_hospital_laveen_hospital-cd919",
@@ -26383,7 +26382,7 @@
       "records": 262,
       "source_sha256": "30beedb5c4fccc0dbdc4e2a1243d779aa09568ab939d9feef5503fe86cf2b497",
       "source_url": "https://avala.com/wp-content/uploads/2026/03/721426390_fairway-medical-center_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:08:14Z"
+      "extracted_at": "2026-10-22T15:32:21Z"
     },
     {
       "source_id": "oria-aventura_ed-1a770",
@@ -32690,7 +32689,7 @@
       "records": 168,
       "source_sha256": "21aa824af974f9dd4363dc53398caac53a2f654abbae2366ced2a69928f91727",
       "source_url": "https://intermountainhealthcare.org/sc10media/files/intermountain-health/locations/hospital-prices/840482695_platte-valley-medical-center_standardcharges.ashx",
-      "extracted_at": "2026-10-22T05:08:57Z"
+      "extracted_at": "2026-10-22T15:32:54Z"
     },
     {
       "source_id": "prisma-health-baptist-easley-hospital",
@@ -32935,7 +32934,7 @@
       "records": 61,
       "source_sha256": "09b16b13b2f72de034d8b7f4998eb1a94da0c32379d5dd8b2e729769107c3e2a",
       "source_url": "https://pricetransparency.providence.org/alaska/live/611442487_providence-seward-hospital_standardcharges.json",
-      "extracted_at": "2026-10-22T05:08:37Z"
+      "extracted_at": "2026-10-22T15:32:38Z"
     },
     {
       "source_id": "providence-st-joseph-hospital-eureka",
@@ -33656,7 +33655,7 @@
       "records": 1425,
       "source_sha256": "3b77ea417845507c8c213153fe88186b802d7a338f95329ceb4c45ac1ff753d7",
       "source_url": "https://cdn.hs.uab.edu/static/81-0935368_saint-vincents-chilton_standardcharges.zip",
-      "extracted_at": "2026-10-22T05:09:15Z"
+      "extracted_at": "2026-10-22T15:32:51Z"
     },
     {
       "source_id": "st-vincent-s-east",
@@ -34447,7 +34446,7 @@
       "records": 22,
       "source_sha256": "b92b1c5dc921cf33cca9d3bd1a38f20d51bed8ea604d10e7d7abfea2f09c3d69",
       "source_url": "https://mrfs.hyvehealthcare.com/Emerus/933242438_wellspan-health-newberry-llc_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:08:13Z"
+      "extracted_at": "2026-10-22T15:32:21Z"
     },
     {
       "source_id": "wellspan-chambersburg-hospital",
@@ -34489,7 +34488,7 @@
       "records": 2,
       "source_sha256": "a5c4f78b825c8ab20ed84b678a4829091302669137b2ca8087966a5702031cd7",
       "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/231548822_philhaven-hospital_standardcharges.csv",
-      "extracted_at": "2026-10-22T05:08:13Z"
+      "extracted_at": "2026-10-22T15:32:21Z"
     },
     {
       "source_id": "wellspan-surgery-rehabilitation-hospital",

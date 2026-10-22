@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 1470,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/452998842_mercy-hospital-logancounty-GuthrieDivisionPrimaryCare_RHC_standardcharges.zip",
   "source_sha256": "09d4ddc65541fec4dfe6e3446de26680e1390e0cfba3eb8a8cda18225760cea7",
   "download_bytes": 1687071,
-  "extracted_at": "2026-10-22T05:08:35Z",
+  "extracted_at": "2026-10-22T15:32:38Z",
   "code_filter": [
     "27130",
     "27447",

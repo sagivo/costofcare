@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 54,
   "source_url": "https://www2.novanthealth.org/Public_Files/regulatory/334072561_novant-health-stokes-medical-center_standardcharges_6-2026.csv",
   "source_sha256": "45d6e475458ff77ea42d900a9f16c2edf6bfadebf11e28959624a7bd2c2de3f0",
   "download_bytes": 2754463,
-  "extracted_at": "2026-10-22T05:08:37Z",
+  "extracted_at": "2026-10-22T15:32:39Z",
   "code_filter": [
     "27130",
     "27447",

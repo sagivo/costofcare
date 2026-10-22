@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 3524,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Dexter_RHC_standardcharges.zip",
   "source_sha256": "8260ec3bf1accfd90c86692831e18c6ac450ecbf8fc5e2821e2368cc55761b8a",
   "download_bytes": 1257243,
-  "extracted_at": "2026-10-22T05:08:29Z",
+  "extracted_at": "2026-10-22T15:32:33Z",
   "code_filter": [
     "27130",
     "27447",

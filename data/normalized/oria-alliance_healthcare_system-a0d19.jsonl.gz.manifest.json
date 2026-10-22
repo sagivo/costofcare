@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 83,
   "source_url": "https://alliancehcs.slicedhealth.io/pricer/00-0000000-1295826337_AllianceHealthCareSystem_standardcharges.CSV",
   "source_sha256": "654dc244371beb60c222f5c396795969e1b74d25f618fb1c052add2262d59f3f",
   "download_bytes": 691540,
-  "extracted_at": "2026-10-22T05:08:15Z",
+  "extracted_at": "2026-10-22T15:32:22Z",
   "code_filter": [
     "27130",
     "27447",

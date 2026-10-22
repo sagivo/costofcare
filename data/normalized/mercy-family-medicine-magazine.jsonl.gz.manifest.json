@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 1292,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/463851119_mercy-hospital-booneville-PrimaryCareMagazine_RHC_standardcharges.zip",
   "source_sha256": "a432d14adbf1e7e4e5de3088589d8a10812e4a6dd838b68271e3df7105961ec0",
   "download_bytes": 1231056,
-  "extracted_at": "2026-10-22T05:08:22Z",
+  "extracted_at": "2026-10-22T15:32:27Z",
   "code_filter": [
     "27130",
     "27447",

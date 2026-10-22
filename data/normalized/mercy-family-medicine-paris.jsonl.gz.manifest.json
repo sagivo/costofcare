@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 1030,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/710655753_mercy-hospital-paris_RHC_standardcharges.zip",
   "source_sha256": "856678fcfdb8c27b793e74f6577368c99398a0ea9b695b8573f45212bc9cbb88",
   "download_bytes": 1005381,
-  "extracted_at": "2026-10-22T05:08:16Z",
+  "extracted_at": "2026-10-22T15:32:24Z",
   "code_filter": [
     "27130",
     "27447",

@@ -1,11 +1,11 @@
 {
-  "parser_version": "row-preserving-1.1",
+  "parser_version": "row-preserving-1.2",
   "schema_version": "1.0.0",
   "records": 316,
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/730929722_love-county-health-center_RHC_standardcharges.zip",
   "source_sha256": "f046431fbda0f7fa582301352d01b2491b163b001afa9d2e5ccfe7cb76d46ea0",
   "download_bytes": 183111,
-  "extracted_at": "2026-10-22T05:08:14Z",
+  "extracted_at": "2026-10-22T15:32:22Z",
   "code_filter": [
     "27130",
     "27447",
