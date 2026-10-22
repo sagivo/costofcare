@@ -288,30 +288,21 @@ class ChainTextReader:
         return b or ""
 
 def sniff_csv(f, targets):
-    """Read until the header row (line starting with 'description'), return (csv.reader, header, meta)."""
+    """Read CMS metadata/header records with csv.reader (supports quoted newlines)."""
     meta = {}
-    lines = []
-    meta_keys = ("hospital_name", "last_updated_on", "version", "location_name", "hospital_address")
-    while True:
-        line = f.readline()
-        if not line: raise ValueError("no header row found")
-        lines.append(line)
-        if line.lstrip().lower().startswith("description"):
-            break
-        if len(lines) > 12: raise ValueError("header row not found in first 12 lines")
-        cells = next(csv.reader([line]))
-        if cells and cells[0].strip() == "hospital_name":
-            # CMS v2/v3: this row is the key row, the next row holds values
-            vline = f.readline()
-            if vline:
-                lines.append(vline)
-                vals = next(csv.reader([vline]))
-                for i, k in enumerate(cells):
-                    k = k.strip()
-                    if k in meta_keys and i < len(vals):
-                        meta[k] = vals[i].strip()
-    header = [h.strip() for h in next(csv.reader([lines[-1]]))]
-    return f, header, meta
+    reader = csv.reader(f)
+    keys = ("hospital_name", "last_updated_on", "version", "location_name", "hospital_address")
+    for n, cells in enumerate(reader):
+        if n > 30: raise ValueError("header row not found in first 30 CSV records")
+        if not cells: continue
+        first = cells[0].strip().lower().lstrip("\ufeff")
+        if first == "hospital_name":
+            vals = next(reader)
+            for i,k in enumerate(cells):
+                if k.strip() in keys and i < len(vals): meta[k.strip()] = vals[i].strip()
+        elif "description" in [c.strip().lower() for c in cells] and any(re.fullmatch(r"code\|\d+",c.strip().lower()) for c in cells):
+            return reader, [h.strip() for h in cells], meta
+    raise ValueError("no header row found")
 
 def extract_csv(f, targets):
     f, header, meta = sniff_csv(f, targets)
@@ -340,7 +331,7 @@ def extract_csv(f, targets):
     npi = idx.get("standard_charge|negotiated_percentage")
     nai = idx.get("standard_charge|negotiated_algorithm")
     accs = {}
-    reader = csv.reader(f)
+    reader = f
     for row in reader:
         if len(row) < 5: continue
         matched = []
