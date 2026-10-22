@@ -29,6 +29,9 @@ def parse_city_state(addr):
     if not addr: return None, None
     first = str(addr).split("|")[0]
     m = ADDR_RE.search(first.strip())
+    if not m:
+        # CMS files also commonly separate street and city with a period.
+        m = re.search(r"[.]\s*([A-Za-z .\-']+),\s*([A-Z]{2})\s+(\d{5})", first)
     if not m: return None, None
     city = m.group(1).strip().title()
     return city, m.group(2)
