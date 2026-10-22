@@ -1,19 +1,18 @@
 {
-  "generated_at": "2026-10-22T14:03:36.745905+00:00",
-  "normalized_files": 1484,
+  "generated_at": "2026-10-22T15:10:54.025327+00:00",
+  "normalized_files": 1627,
   "parser_versions": {
-    "row-preserving-1.1": 681,
-    "row-preserving-1.2": 802,
-    "unversioned": 1
+    "row-preserving-1.2": 946,
+    "row-preserving-1.1": 681
   },
   "extraction_age_buckets": {
-    "within_24h": 1484
+    "within_24h": 1627
   },
   "failed_attempt_classes": {
-    "strict_encoding": 148,
-    "other": 9,
-    "csv_width": 15,
-    "timeout": 12,
+    "strict_encoding": 162,
+    "other": 10,
+    "csv_width": 26,
+    "timeout": 13,
     "http_429": 1
   },
   "summary_hash_missing_count": 2,
@@ -85,7 +84,7 @@
   "normalized_without_successful_summary": [],
   "refresh_policy": {
     "normalized_scheduled_max_files_per_day": 40,
-    "nominal_full_rotation_days_at_current_file_count": 38,
+    "nominal_full_rotation_days_at_current_file_count": 41,
     "caveat": "Lower-bound rotation estimate only: failures, new sources, scheduling and manual tranches change cadence; this is not a freshness guarantee."
   },
   "interpretation": "Matching hashes indicate the same downloaded bytes, not correct prices or clinical equivalence. Different hashes can reflect newer source versions or nondeterministic containers and require review. Age is extraction age, not hospital update age. Legacy parser 1.1 trims CSV header whitespace; 1.2 preserves exact headers."
