@@ -1,0 +1,3957 @@
+{
+  "source_url": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download/2026-10-01/2026-10-01_UnitedHealthcare-Insurance-Company-of-New-York_Third-Party-Administrator_Empire-MPN_CSP-1-A350_in-network-rates.json.gz",
+  "locator_name": "2026-10-01_UnitedHealthcare-Insurance-Company-of-New-York_Third-Party-Administrator_Empire-MPN_CSP-1-A350_in-network-rates.json.gz",
+  "locator_bytes": 191160,
+  "rows": 96,
+  "complete_file_scan": true,
+  "code_filter": [
+    "11042",
+    "12001",
+    "19083",
+    "20610",
+    "27130",
+    "27447",
+    "29827",
+    "29848",
+    "29881",
+    "30520",
+    "36415",
+    "42820",
+    "43235",
+    "43239",
+    "43249",
+    "45378",
+    "45380",
+    "45384",
+    "45385",
+    "47562",
+    "49505",
+    "52353",
+    "55700",
+    "58150",
+    "59025",
+    "59400",
+    "59410",
+    "59510",
+    "59515",
+    "62323",
+    "64483",
+    "64721",
+    "66984",
+    "69436",
+    "70450",
+    "70460",
+    "70486",
+    "70491",
+    "70544",
+    "70551",
+    "70552",
+    "70553",
+    "71045",
+    "71046",
+    "71250",
+    "71260",
+    "71275",
+    "72125",
+    "72131",
+    "72141",
+    "72146",
+    "72148",
+    "72149",
+    "72156",
+    "72158",
+    "73218",
+    "73221",
+    "73222",
+    "73700",
+    "73718",
+    "73721",
+    "73722",
+    "73723",
+    "74150",
+    "74160",
+    "74176",
+    "74177",
+    "76536",
+    "76642",
+    "76700",
+    "76775",
+    "76805",
+    "76830",
+    "76856",
+    "77014",
+    "77063",
+    "77065",
+    "77066",
+    "77067",
+    "77080",
+    "77385",
+    "78452",
+    "78815",
+    "80048",
+    "80053",
+    "80061",
+    "80069",
+    "80074",
+    "80076",
+    "81001",
+    "81002",
+    "82306",
+    "82310",
+    "82565",
+    "82607",
+    "82728",
+    "82947",
+    "83036",
+    "83718",
+    "83735",
+    "84100",
+    "84132",
+    "84153",
+    "84295",
+    "84439",
+    "84443",
+    "84478",
+    "84520",
+    "84550",
+    "85025",
+    "85027",
+    "85610",
+    "85652",
+    "86140",
+    "86580",
+    "87086",
+    "87491",
+    "87591",
+    "87635",
+    "87804",
+    "88112",
+    "88175",
+    "88305",
+    "90471",
+    "90686",
+    "90791",
+    "90834",
+    "90837",
+    "92004",
+    "92014",
+    "92134",
+    "92557",
+    "93000",
+    "93015",
+    "93303",
+    "93306",
+    "93880",
+    "93970",
+    "93971",
+    "93978",
+    "94010",
+    "94640",
+    "95810",
+    "96372",
+    "96413",
+    "97110",
+    "97161",
+    "97530",
+    "99202",
+    "99203",
+    "99204",
+    "99205",
+    "99212",
+    "99213",
+    "99214",
+    "99215",
+    "99223",
+    "99232",
+    "99281",
+    "99282",
+    "99283",
+    "99284",
+    "99285",
+    "99385",
+    "99395",
+    "E0601",
+    "G0121",
+    "G0439"
+  ],
+  "extracted_at": "2026-10-23T02:16:58Z",
+  "layer": "insurer-tic-in-network",
+  "patient_price_ready": false,
+  "caveats": [
+    "Provider references unresolved; no verified provider-directory join.",
+    "Plan identity from the locator file name only.",
+    "Capitation/bundle rows carry their negotiation_arrangement qualifier and are not per-service prices.",
+    "Truncated outputs are marked incomplete."
+  ],
+  "provider_references": [
+    {
+      "provider_group_count": 1243,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "113270992"
+        },
+        {
+          "type": "ein",
+          "value": "119541304"
+        },
+        {
+          "type": "npi",
+          "value": "1326141961"
+        },
+        {
+          "type": "ein",
+          "value": "141710042"
+        },
+        {
+          "type": "ein",
+          "value": "161570559"
+        },
+        {
+          "type": "ein",
+          "value": "161755725"
+        },
+        {
+          "type": "ein",
+          "value": "201511847"
+        },
+        {
+          "type": "ein",
+          "value": "201750357"
+        },
+        {
+          "type": "ein",
+          "value": "204474119"
+        },
+        {
+          "type": "ein",
+          "value": "205190205"
+        },
+        {
+          "type": "ein",
+          "value": "205673277"
+        },
+        {
+          "type": "ein",
+          "value": "210781845"
+        },
+        {
+          "type": "ein",
+          "value": "222365047"
+        },
+        {
+          "type": "ein",
+          "value": "222941946"
+        },
+        {
+          "type": "ein",
+          "value": "232768146"
+        },
+        {
+          "type": "ein",
+          "value": "261348405"
+        },
+        {
+          "type": "ein",
+          "value": "262050713"
+        },
+        {
+          "type": "ein",
+          "value": "262249648"
+        },
+        {
+          "type": "ein",
+          "value": "264276506"
+        },
+        {
+          "type": "ein",
+          "value": "274414647"
+        },
+        {
+          "type": "ein",
+          "value": "275348080"
+        },
+        {
+          "type": "ein",
+          "value": "331007306"
+        },
+        {
+          "type": "ein",
+          "value": "371455961"
+        },
+        {
+          "type": "ein",
+          "value": "462482692"
+        },
+        {
+          "type": "ein",
+          "value": "463194257"
+        },
+        {
+          "type": "ein",
+          "value": "464241837"
+        },
+        {
+          "type": "ein",
+          "value": "473805941"
+        },
+        {
+          "type": "ein",
+          "value": "510309342"
+        },
+        {
+          "type": "ein",
+          "value": "650175255"
+        },
+        {
+          "type": "ein",
+          "value": "820962569"
+        },
+        {
+          "type": "ein",
+          "value": "841595405"
+        },
+        {
+          "type": "ein",
+          "value": "841602549"
+        },
+        {
+          "type": "ein",
+          "value": "010755411"
+        },
+        {
+          "type": "ein",
+          "value": "061566368"
+        },
+        {
+          "type": "ein",
+          "value": "113243405"
+        },
+        {
+          "type": "ein",
+          "value": "113612400"
+        },
+        {
+          "type": "npi",
+          "value": "1265588578"
+        },
+        {
+          "type": "ein",
+          "value": "141722929"
+        },
+        {
+          "type": "ein",
+          "value": "141795720"
+        },
+        {
+          "type": "ein",
+          "value": "141871527"
+        },
+        {
+          "type": "ein",
+          "value": "160743905"
+        },
+        {
+          "type": "npi",
+          "value": "1912946286"
+        },
+        {
+          "type": "ein",
+          "value": "203014542"
+        },
+        {
+          "type": "ein",
+          "value": "205420478"
+        },
+        {
+          "type": "ein",
+          "value": "223198122"
+        },
+        {
+          "type": "ein",
+          "value": "233066768"
+        },
+        {
+          "type": "ein",
+          "value": "262822972"
+        },
+        {
+          "type": "ein",
+          "value": "272243799"
+        },
+        {
+          "type": "ein",
+          "value": "331135081"
+        },
+        {
+          "type": "ein",
+          "value": "364233517"
+        },
+        {
+          "type": "ein",
+          "value": "371445736"
+        },
+        {
+          "type": "ein",
+          "value": "382897712"
+        },
+        {
+          "type": "ein",
+          "value": "411620392"
+        },
+        {
+          "type": "ein",
+          "value": "452666998"
+        },
+        {
+          "type": "ein",
+          "value": "650009625"
+        },
+        {
+          "type": "ein",
+          "value": "651236150"
+        },
+        {
+          "type": "ein",
+          "value": "824595981"
+        },
+        {
+          "type": "ein",
+          "value": "833264370"
+        },
+        {
+          "type": "ein",
+          "value": "880511122"
+        },
+        {
+          "type": "ein",
+          "value": "883251761"
+        },
+        {
+          "type": "ein",
+          "value": "010742317"
+        },
+        {
+          "type": "ein",
+          "value": "030491477"
+        },
+        {
+          "type": "ein",
+          "value": "141816528"
+        },
+        {
+          "type": "ein",
+          "value": "161571580"
+        },
+        {
+          "type": "ein",
+          "value": "201016374"
+        },
+        {
+          "type": "ein",
+          "value": "208075442"
+        },
+        {
+          "type": "ein",
+          "value": "222467092"
+        },
+        {
+          "type": "ein",
+          "value": "261641591"
+        },
+        {
+          "type": "ein",
+          "value": "263294529"
+        },
+        {
+          "type": "ein",
+          "value": "263952964"
+        },
+        {
+          "type": "ein",
+          "value": "270242223"
+        },
+        {
+          "type": "ein",
+          "value": "273545920"
+        },
+        {
+          "type": "ein",
+          "value": "274533683"
+        },
+        {
+          "type": "ein",
+          "value": "300110458"
+        },
+        {
+          "type": "ein",
+          "value": "411986980"
+        },
+        {
+          "type": "ein",
+          "value": "412039476"
+        },
+        {
+          "type": "ein",
+          "value": "455493016"
+        },
+        {
+          "type": "ein",
+          "value": "463279183"
+        },
+        {
+          "type": "ein",
+          "value": "464337878"
+        },
+        {
+          "type": "ein",
+          "value": "472803872"
+        },
+        {
+          "type": "ein",
+          "value": "472925813"
+        },
+        {
+          "type": "ein",
+          "value": "473009872"
+        },
+        {
+          "type": "ein",
+          "value": "611908609"
+        },
+        {
+          "type": "ein",
+          "value": "621746752"
+        },
+        {
+          "type": "ein",
+          "value": "760737036"
+        },
+        {
+          "type": "ein",
+          "value": "841342933"
+        },
+        {
+          "type": "ein",
+          "value": "061229392"
+        },
+        {
+          "type": "ein",
+          "value": "134232004"
+        },
+        {
+          "type": "ein",
+          "value": "141648181"
+        },
+        {
+          "type": "ein",
+          "value": "141829492"
+        },
+        {
+          "type": "ein",
+          "value": "161334129"
+        },
+        {
+          "type": "ein",
+          "value": "161495511"
+        },
+        {
+          "type": "ein",
+          "value": "161568485"
+        },
+        {
+          "type": "ein",
+          "value": "204714118"
+        },
+        {
+          "type": "ein",
+          "value": "204928300"
+        },
+        {
+          "type": "ein",
+          "value": "233028769"
+        },
+        {
+          "type": "ein",
+          "value": "274155919"
+        },
+        {
+          "type": "ein",
+          "value": "300150765"
+        },
+        {
+          "type": "ein",
+          "value": "362246717"
+        },
+        {
+          "type": "ein",
+          "value": "461015878"
+        },
+        {
+          "type": "ein",
+          "value": "462282095"
+        },
+        {
+          "type": "ein",
+          "value": "473163532"
+        },
+        {
+          "type": "ein",
+          "value": "582625887"
+        },
+        {
+          "type": "ein",
+          "value": "593458989"
+        },
+        {
+          "type": "ein",
+          "value": "621389861"
+        },
+        {
+          "type": "ein",
+          "value": "650951838"
+        },
+        {
+          "type": "ein",
+          "value": "844107737"
+        },
+        {
+          "type": "ein",
+          "value": "844871240"
+        },
+        {
+          "type": "ein",
+          "value": "850492922"
+        },
+        {
+          "type": "ein",
+          "value": "850920343"
+        },
+        {
+          "type": "ein",
+          "value": "061763075"
+        },
+        {
+          "type": "ein",
+          "value": "141730718"
+        },
+        {
+          "type": "ein",
+          "value": "150533578"
+        },
+        {
+          "type": "ein",
+          "value": "161422924"
+        },
+        {
+          "type": "ein",
+          "value": "161449034"
+        },
+        {
+          "type": "npi",
+          "value": "1770665903"
+        },
+        {
+          "type": "npi",
+          "value": "1821175886"
+        },
+        {
+          "type": "ein",
+          "value": "200547490"
+        },
+        {
+          "type": "ein",
+          "value": "208621511"
+        },
+        {
+          "type": "ein",
+          "value": "223238754"
+        },
+        {
+          "type": "ein",
+          "value": "223409948"
+        },
+        {
+          "type": "ein",
+          "value": "223443966"
+        },
+        {
+          "type": "ein",
+          "value": "260126088"
+        },
+        {
+          "type": "ein",
+          "value": "260436969"
+        },
+        {
+          "type": "ein",
+          "value": "262239167"
+        },
+        {
+          "type": "ein",
+          "value": "262269415"
+        },
+        {
+          "type": "ein",
+          "value": "263203616"
+        },
+        {
+          "type": "ein",
+          "value": "263502711"
+        },
+        {
+          "type": "ein",
+          "value": "272333764"
+        },
+        {
+          "type": "ein",
+          "value": "452462319"
+        },
+        {
+          "type": "ein",
+          "value": "460683294"
+        },
+        {
+          "type": "ein",
+          "value": "463594358"
+        },
+        {
+          "type": "ein",
+          "value": "464573632"
+        },
+        {
+          "type": "ein",
+          "value": "464949534"
+        },
+        {
+          "type": "ein",
+          "value": "473796190"
+        },
+        {
+          "type": "ein",
+          "value": "571172970"
+        },
+        {
+          "type": "ein",
+          "value": "621763582"
+        },
+        {
+          "type": "ein",
+          "value": "650766061"
+        },
+        {
+          "type": "ein",
+          "value": "651091880"
+        },
+        {
+          "type": "ein",
+          "value": "821293418"
+        },
+        {
+          "type": "ein",
+          "value": "831120560"
+        },
+        {
+          "type": "ein",
+          "value": "834396398"
+        },
+        {
+          "type": "ein",
+          "value": "841714489"
+        },
+        {
+          "type": "ein",
+          "value": "010555303"
+        },
+        {
+          "type": "ein",
+          "value": "010906078"
+        },
+        {
+          "type": "ein",
+          "value": "061205404"
+        },
+        {
+          "type": "ein",
+          "value": "141832377"
+        },
+        {
+          "type": "ein",
+          "value": "161395906"
+        },
+        {
+          "type": "npi",
+          "value": "1699811000"
+        },
+        {
+          "type": "npi",
+          "value": "1942209358"
+        },
+        {
+          "type": "ein",
+          "value": "201637955"
+        },
+        {
+          "type": "ein",
+          "value": "203246827"
+        },
+        {
+          "type": "ein",
+          "value": "233080305"
+        },
+        {
+          "type": "ein",
+          "value": "263395044"
+        },
+        {
+          "type": "ein",
+          "value": "273379096"
+        },
+        {
+          "type": "ein",
+          "value": "274401243"
+        },
+        {
+          "type": "ein",
+          "value": "300300515"
+        },
+        {
+          "type": "ein",
+          "value": "333085740"
+        },
+        {
+          "type": "ein",
+          "value": "384048882"
+        },
+        {
+          "type": "ein",
+          "value": "391796885"
+        },
+        {
+          "type": "ein",
+          "value": "421530390"
+        },
+        {
+          "type": "ein",
+          "value": "421739117"
+        },
+        {
+          "type": "ein",
+          "value": "454088572"
+        },
+        {
+          "type": "ein",
+          "value": "454822489"
+        },
+        {
+          "type": "ein",
+          "value": "465288279"
+        },
+        {
+          "type": "ein",
+          "value": "471029602"
+        },
+        {
+          "type": "ein",
+          "value": "472408761"
+        },
+        {
+          "type": "ein",
+          "value": "473482710"
+        },
+        {
+          "type": "ein",
+          "value": "474894906"
+        },
+        {
+          "type": "ein",
+          "value": "475480379"
+        },
+        {
+          "type": "ein",
+          "value": "505278246"
+        },
+        {
+          "type": "ein",
+          "value": "542078829"
+        },
+        {
+          "type": "ein",
+          "value": "592922815"
+        },
+        {
+          "type": "ein",
+          "value": "593040889"
+        },
+        {
+          "type": "ein",
+          "value": "650430505"
+        },
+        {
+          "type": "ein",
+          "value": "800009039"
+        },
+        {
+          "type": "ein",
+          "value": "812711622"
+        },
+        {
+          "type": "ein",
+          "value": "813924213"
+        },
+        {
+          "type": "ein",
+          "value": "821399040"
+        },
+        {
+          "type": "ein",
+          "value": "822448714"
+        },
+        {
+          "type": "ein",
+          "value": "823700684"
+        },
+        {
+          "type": "ein",
+          "value": "834119374"
+        },
+        {
+          "type": "ein",
+          "value": "851528861"
+        },
+        {
+          "type": "ein",
+          "value": "954339877"
+        },
+        {
+          "type": "ein",
+          "value": "160965912"
+        },
+        {
+          "type": "ein",
+          "value": "161184446"
+        },
+        {
+          "type": "ein",
+          "value": "161608443"
+        },
+        {
+          "type": "npi",
+          "value": "1912092461"
+        },
+        {
+          "type": "ein",
+          "value": "200829250"
+        },
+        {
+          "type": "ein",
+          "value": "202769251"
+        },
+        {
+          "type": "ein",
+          "value": "222487034"
+        },
+        {
+          "type": "ein",
+          "value": "260080717"
+        },
+        {
+          "type": "ein",
+          "value": "264555821"
+        },
+        {
+          "type": "ein",
+          "value": "352071262"
+        },
+        {
+          "type": "ein",
+          "value": "411750238"
+        },
+        {
+          "type": "ein",
+          "value": "464364759"
+        },
+        {
+          "type": "ein",
+          "value": "471827103"
+        },
+        {
+          "type": "ein",
+          "value": "472423804"
+        },
+        {
+          "type": "ein",
+          "value": "472482451"
+        },
+        {
+          "type": "ein",
+          "value": "473023300"
+        }
+      ],
+      "npi_count": 244,
+      "provider_groups_truncated": true
+    },
+    {
+      "provider_group_count": 303,
+      "tins": [
+        {
+          "type": "npi",
+          "value": "1568130771"
+        },
+        {
+          "type": "ein",
+          "value": "201444166"
+        },
+        {
+          "type": "ein",
+          "value": "412077213"
+        },
+        {
+          "type": "ein",
+          "value": "473382606"
+        },
+        {
+          "type": "ein",
+          "value": "731717910"
+        },
+        {
+          "type": "ein",
+          "value": "863688506"
+        },
+        {
+          "type": "ein",
+          "value": "991534045"
+        },
+        {
+          "type": "ein",
+          "value": "030473876"
+        },
+        {
+          "type": "npi",
+          "value": "1609946987"
+        },
+        {
+          "type": "ein",
+          "value": "200200926"
+        },
+        {
+          "type": "ein",
+          "value": "273908500"
+        },
+        {
+          "type": "ein",
+          "value": "412179294"
+        },
+        {
+          "type": "ein",
+          "value": "465639928"
+        },
+        {
+          "type": "ein",
+          "value": "800071212"
+        },
+        {
+          "type": "ein",
+          "value": "832147750"
+        },
+        {
+          "type": "ein",
+          "value": "834233425"
+        },
+        {
+          "type": "ein",
+          "value": "854348136"
+        },
+        {
+          "type": "ein",
+          "value": "061688426"
+        },
+        {
+          "type": "ein",
+          "value": "079981545"
+        },
+        {
+          "type": "ein",
+          "value": "133550408"
+        },
+        {
+          "type": "ein",
+          "value": "134044312"
+        },
+        {
+          "type": "ein",
+          "value": "134098665"
+        },
+        {
+          "type": "ein",
+          "value": "134152487"
+        },
+        {
+          "type": "ein",
+          "value": "261741618"
+        },
+        {
+          "type": "ein",
+          "value": "460632950"
+        },
+        {
+          "type": "ein",
+          "value": "550800981"
+        },
+        {
+          "type": "ein",
+          "value": "813441380"
+        },
+        {
+          "type": "ein",
+          "value": "832644557"
+        },
+        {
+          "type": "ein",
+          "value": "923338825"
+        },
+        {
+          "type": "ein",
+          "value": "113631651"
+        },
+        {
+          "type": "ein",
+          "value": "133248231"
+        },
+        {
+          "type": "ein",
+          "value": "134171201"
+        },
+        {
+          "type": "ein",
+          "value": "203128888"
+        },
+        {
+          "type": "ein",
+          "value": "271194109"
+        },
+        {
+          "type": "ein",
+          "value": "320097764"
+        },
+        {
+          "type": "ein",
+          "value": "800220402"
+        },
+        {
+          "type": "ein",
+          "value": "133027046"
+        },
+        {
+          "type": "ein",
+          "value": "133169791"
+        },
+        {
+          "type": "ein",
+          "value": "134063529"
+        },
+        {
+          "type": "ein",
+          "value": "134135255"
+        },
+        {
+          "type": "npi",
+          "value": "1699849984"
+        },
+        {
+          "type": "ein",
+          "value": "333352846"
+        },
+        {
+          "type": "ein",
+          "value": "455311178"
+        },
+        {
+          "type": "ein",
+          "value": "464826514"
+        },
+        {
+          "type": "ein",
+          "value": "465190824"
+        },
+        {
+          "type": "ein",
+          "value": "475666275"
+        },
+        {
+          "type": "ein",
+          "value": "760793190"
+        },
+        {
+          "type": "ein",
+          "value": "815484994"
+        },
+        {
+          "type": "ein",
+          "value": "113485797"
+        },
+        {
+          "type": "ein",
+          "value": "134093398"
+        },
+        {
+          "type": "ein",
+          "value": "161535878"
+        },
+        {
+          "type": "npi",
+          "value": "1700900370"
+        },
+        {
+          "type": "ein",
+          "value": "203246827"
+        },
+        {
+          "type": "ein",
+          "value": "262092689"
+        },
+        {
+          "type": "ein",
+          "value": "262567479"
+        },
+        {
+          "type": "ein",
+          "value": "455562795"
+        },
+        {
+          "type": "ein",
+          "value": "473899735"
+        },
+        {
+          "type": "ein",
+          "value": "475479159"
+        },
+        {
+          "type": "ein",
+          "value": "811437614"
+        },
+        {
+          "type": "ein",
+          "value": "991356594"
+        },
+        {
+          "type": "ein",
+          "value": "133280535"
+        },
+        {
+          "type": "ein",
+          "value": "202707997"
+        },
+        {
+          "type": "ein",
+          "value": "263355624"
+        },
+        {
+          "type": "ein",
+          "value": "461010992"
+        },
+        {
+          "type": "ein",
+          "value": "462141912"
+        },
+        {
+          "type": "ein",
+          "value": "462846030"
+        },
+        {
+          "type": "ein",
+          "value": "862132836"
+        },
+        {
+          "type": "ein",
+          "value": "811279018"
+        },
+        {
+          "type": "ein",
+          "value": "921419151"
+        },
+        {
+          "type": "ein",
+          "value": "134030972"
+        },
+        {
+          "type": "npi",
+          "value": "1407949076"
+        },
+        {
+          "type": "ein",
+          "value": "133259677"
+        },
+        {
+          "type": "ein",
+          "value": "134070634"
+        },
+        {
+          "type": "npi",
+          "value": "1679507990"
+        },
+        {
+          "type": "npi",
+          "value": "1740390269"
+        },
+        {
+          "type": "ein",
+          "value": "462968051"
+        },
+        {
+          "type": "ein",
+          "value": "852311938"
+        },
+        {
+          "type": "ein",
+          "value": "993465868"
+        },
+        {
+          "type": "ein",
+          "value": "113618037"
+        },
+        {
+          "type": "ein",
+          "value": "133560028"
+        },
+        {
+          "type": "ein",
+          "value": "134187891"
+        },
+        {
+          "type": "ein",
+          "value": "260664298"
+        },
+        {
+          "type": "ein",
+          "value": "461305478"
+        },
+        {
+          "type": "ein",
+          "value": "542134929"
+        },
+        {
+          "type": "ein",
+          "value": "133593907"
+        },
+        {
+          "type": "ein",
+          "value": "133616599"
+        },
+        {
+          "type": "ein",
+          "value": "134129956"
+        },
+        {
+          "type": "ein",
+          "value": "134167631"
+        },
+        {
+          "type": "npi",
+          "value": "1811137987"
+        },
+        {
+          "type": "ein",
+          "value": "260068006"
+        },
+        {
+          "type": "ein",
+          "value": "332449574"
+        },
+        {
+          "type": "ein",
+          "value": "812225136"
+        },
+        {
+          "type": "ein",
+          "value": "931904260"
+        },
+        {
+          "type": "ein",
+          "value": "020655724"
+        },
+        {
+          "type": "ein",
+          "value": "061645190"
+        },
+        {
+          "type": "ein",
+          "value": "133774620"
+        },
+        {
+          "type": "ein",
+          "value": "141871913"
+        },
+        {
+          "type": "ein",
+          "value": "261828086"
+        },
+        {
+          "type": "ein",
+          "value": "455129787"
+        },
+        {
+          "type": "ein",
+          "value": "823550209"
+        },
+        {
+          "type": "ein",
+          "value": "874389588"
+        },
+        {
+          "type": "ein",
+          "value": "464104312"
+        },
+        {
+          "type": "ein",
+          "value": "133740761"
+        },
+        {
+          "type": "ein",
+          "value": "205421384"
+        },
+        {
+          "type": "ein",
+          "value": "320018828"
+        },
+        {
+          "type": "ein",
+          "value": "823565926"
+        },
+        {
+          "type": "ein",
+          "value": "824428729"
+        },
+        {
+          "type": "ein",
+          "value": "872686320"
+        },
+        {
+          "type": "ein",
+          "value": "133518553"
+        },
+        {
+          "type": "ein",
+          "value": "133884168"
+        },
+        {
+          "type": "npi",
+          "value": "1730278607"
+        },
+        {
+          "type": "ein",
+          "value": "205002791"
+        },
+        {
+          "type": "ein",
+          "value": "223808541"
+        },
+        {
+          "type": "ein",
+          "value": "460837593"
+        },
+        {
+          "type": "ein",
+          "value": "464893551"
+        },
+        {
+          "type": "ein",
+          "value": "510464262"
+        },
+        {
+          "type": "ein",
+          "value": "842886471"
+        },
+        {
+          "type": "ein",
+          "value": "113612471"
+        },
+        {
+          "type": "ein",
+          "value": "133172690"
+        },
+        {
+          "type": "ein",
+          "value": "134125524"
+        },
+        {
+          "type": "ein",
+          "value": "134188239"
+        },
+        {
+          "type": "npi",
+          "value": "1700972619"
+        },
+        {
+          "type": "ein",
+          "value": "261482691"
+        },
+        {
+          "type": "ein",
+          "value": "454183459"
+        },
+        {
+          "type": "ein",
+          "value": "821969675"
+        },
+        {
+          "type": "ein",
+          "value": "884312090"
+        },
+        {
+          "type": "npi",
+          "value": "1033208285"
+        },
+        {
+          "type": "ein",
+          "value": "203288160"
+        },
+        {
+          "type": "ein",
+          "value": "263475702"
+        },
+        {
+          "type": "ein",
+          "value": "452413454"
+        },
+        {
+          "type": "ein",
+          "value": "464140800"
+        },
+        {
+          "type": "ein",
+          "value": "474398060"
+        },
+        {
+          "type": "ein",
+          "value": "822310003"
+        },
+        {
+          "type": "ein",
+          "value": "834355914"
+        },
+        {
+          "type": "ein",
+          "value": "133542448"
+        },
+        {
+          "type": "ein",
+          "value": "133862256"
+        },
+        {
+          "type": "ein",
+          "value": "134013451"
+        },
+        {
+          "type": "ein",
+          "value": "141859771"
+        },
+        {
+          "type": "ein",
+          "value": "223615000"
+        },
+        {
+          "type": "ein",
+          "value": "263531640"
+        },
+        {
+          "type": "ein",
+          "value": "271250734"
+        },
+        {
+          "type": "ein",
+          "value": "461708615"
+        },
+        {
+          "type": "ein",
+          "value": "472028932"
+        },
+        {
+          "type": "ein",
+          "value": "133897540"
+        },
+        {
+          "type": "npi",
+          "value": "1952428732"
+        },
+        {
+          "type": "ein",
+          "value": "261611601"
+        },
+        {
+          "type": "ein",
+          "value": "571172022"
+        },
+        {
+          "type": "ein",
+          "value": "873235108"
+        },
+        {
+          "type": "ein",
+          "value": "881601621"
+        },
+        {
+          "type": "ein",
+          "value": "995113381"
+        },
+        {
+          "type": "ein",
+          "value": "141943336"
+        },
+        {
+          "type": "ein",
+          "value": "822023030"
+        },
+        {
+          "type": "ein",
+          "value": "832996876"
+        },
+        {
+          "type": "ein",
+          "value": "841775218"
+        },
+        {
+          "type": "npi",
+          "value": "1326206517"
+        },
+        {
+          "type": "ein",
+          "value": "133110905"
+        },
+        {
+          "type": "ein",
+          "value": "133546687"
+        },
+        {
+          "type": "ein",
+          "value": "134134728"
+        },
+        {
+          "type": "ein",
+          "value": "141750179"
+        },
+        {
+          "type": "npi",
+          "value": "1710112313"
+        },
+        {
+          "type": "ein",
+          "value": "263041488"
+        },
+        {
+          "type": "ein",
+          "value": "264194051"
+        },
+        {
+          "type": "ein",
+          "value": "460549008"
+        },
+        {
+          "type": "ein",
+          "value": "833388476"
+        },
+        {
+          "type": "ein",
+          "value": "874121989"
+        },
+        {
+          "type": "ein",
+          "value": "133650252"
+        },
+        {
+          "type": "npi",
+          "value": "1790844504"
+        },
+        {
+          "type": "ein",
+          "value": "451499846"
+        },
+        {
+          "type": "ein",
+          "value": "842474102"
+        },
+        {
+          "type": "ein",
+          "value": "862287274"
+        },
+        {
+          "type": "ein",
+          "value": "923842474"
+        },
+        {
+          "type": "ein",
+          "value": "113311574"
+        },
+        {
+          "type": "ein",
+          "value": "133910593"
+        },
+        {
+          "type": "ein",
+          "value": "134066923"
+        },
+        {
+          "type": "ein",
+          "value": "263959094"
+        },
+        {
+          "type": "ein",
+          "value": "562338500"
+        },
+        {
+          "type": "ein",
+          "value": "863786254"
+        },
+        {
+          "type": "ein",
+          "value": "010709148"
+        },
+        {
+          "type": "ein",
+          "value": "070640282"
+        },
+        {
+          "type": "ein",
+          "value": "141810985"
+        },
+        {
+          "type": "ein",
+          "value": "204915264"
+        },
+        {
+          "type": "ein",
+          "value": "205966895"
+        },
+        {
+          "type": "ein",
+          "value": "452787696"
+        },
+        {
+          "type": "ein",
+          "value": "465258051"
+        },
+        {
+          "type": "ein",
+          "value": "811264577"
+        },
+        {
+          "type": "ein",
+          "value": "842211520"
+        },
+        {
+          "type": "ein",
+          "value": "043624559"
+        },
+        {
+          "type": "ein",
+          "value": "113757033"
+        },
+        {
+          "type": "ein",
+          "value": "208443446"
+        },
+        {
+          "type": "ein",
+          "value": "222967383"
+        },
+        {
+          "type": "ein",
+          "value": "463973713"
+        },
+        {
+          "type": "ein",
+          "value": "844000880"
+        },
+        {
+          "type": "ein",
+          "value": "872986755"
+        },
+        {
+          "type": "ein",
+          "value": "883690933"
+        },
+        {
+          "type": "ein",
+          "value": "133962080"
+        },
+        {
+          "type": "ein",
+          "value": "133965436"
+        },
+        {
+          "type": "ein",
+          "value": "134142031"
+        },
+        {
+          "type": "ein",
+          "value": "201736898"
+        },
+        {
+          "type": "ein",
+          "value": "232595481"
+        },
+        {
+          "type": "ein",
+          "value": "271277943"
+        }
+      ],
+      "npi_count": 253,
+      "provider_groups_truncated": true
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "811542362"
+        }
+      ],
+      "npi_count": 44
+    },
+    {
+      "provider_group_count": 1097,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "112935752"
+        },
+        {
+          "type": "ein",
+          "value": "113223398"
+        },
+        {
+          "type": "ein",
+          "value": "113270992"
+        },
+        {
+          "type": "ein",
+          "value": "113355604"
+        },
+        {
+          "type": "ein",
+          "value": "113375000"
+        },
+        {
+          "type": "ein",
+          "value": "113435000"
+        },
+        {
+          "type": "ein",
+          "value": "113499847"
+        },
+        {
+          "type": "ein",
+          "value": "130785197"
+        },
+        {
+          "type": "npi",
+          "value": "1871587238"
+        },
+        {
+          "type": "npi",
+          "value": "1891875936"
+        },
+        {
+          "type": "npi",
+          "value": "1952494346"
+        },
+        {
+          "type": "ein",
+          "value": "203072350"
+        },
+        {
+          "type": "ein",
+          "value": "204519062"
+        },
+        {
+          "type": "ein",
+          "value": "271365378"
+        },
+        {
+          "type": "ein",
+          "value": "273958506"
+        },
+        {
+          "type": "ein",
+          "value": "452756494"
+        },
+        {
+          "type": "ein",
+          "value": "461964102"
+        },
+        {
+          "type": "ein",
+          "value": "464738324"
+        },
+        {
+          "type": "ein",
+          "value": "833683652"
+        },
+        {
+          "type": "ein",
+          "value": "993641327"
+        },
+        {
+          "type": "ein",
+          "value": "112673107"
+        },
+        {
+          "type": "ein",
+          "value": "112860336"
+        },
+        {
+          "type": "ein",
+          "value": "112978114"
+        },
+        {
+          "type": "ein",
+          "value": "113139184"
+        },
+        {
+          "type": "ein",
+          "value": "113207689"
+        },
+        {
+          "type": "ein",
+          "value": "113231115"
+        },
+        {
+          "type": "ein",
+          "value": "113243405"
+        },
+        {
+          "type": "ein",
+          "value": "113397596"
+        },
+        {
+          "type": "ein",
+          "value": "113413048"
+        },
+        {
+          "type": "ein",
+          "value": "113444965"
+        },
+        {
+          "type": "ein",
+          "value": "113612400"
+        },
+        {
+          "type": "ein",
+          "value": "113673178"
+        },
+        {
+          "type": "ein",
+          "value": "132729538"
+        },
+        {
+          "type": "npi",
+          "value": "1437238300"
+        },
+        {
+          "type": "npi",
+          "value": "1649396060"
+        },
+        {
+          "type": "ein",
+          "value": "201877851"
+        },
+        {
+          "type": "ein",
+          "value": "204568104"
+        },
+        {
+          "type": "ein",
+          "value": "261769476"
+        },
+        {
+          "type": "ein",
+          "value": "273246733"
+        },
+        {
+          "type": "ein",
+          "value": "450970799"
+        },
+        {
+          "type": "ein",
+          "value": "452560487"
+        },
+        {
+          "type": "ein",
+          "value": "460660342"
+        },
+        {
+          "type": "ein",
+          "value": "461399956"
+        },
+        {
+          "type": "ein",
+          "value": "510666937"
+        },
+        {
+          "type": "ein",
+          "value": "800071212"
+        },
+        {
+          "type": "ein",
+          "value": "813427800"
+        },
+        {
+          "type": "ein",
+          "value": "821865763"
+        },
+        {
+          "type": "ein",
+          "value": "822810866"
+        },
+        {
+          "type": "ein",
+          "value": "832147750"
+        },
+        {
+          "type": "ein",
+          "value": "833773544"
+        },
+        {
+          "type": "ein",
+          "value": "844034859"
+        },
+        {
+          "type": "ein",
+          "value": "861735516"
+        },
+        {
+          "type": "ein",
+          "value": "862824888"
+        },
+        {
+          "type": "ein",
+          "value": "863817658"
+        },
+        {
+          "type": "ein",
+          "value": "881625085"
+        },
+        {
+          "type": "ein",
+          "value": "990697103"
+        },
+        {
+          "type": "ein",
+          "value": "112666428"
+        },
+        {
+          "type": "ein",
+          "value": "113217419"
+        },
+        {
+          "type": "ein",
+          "value": "113410091"
+        },
+        {
+          "type": "ein",
+          "value": "113574968"
+        },
+        {
+          "type": "ein",
+          "value": "113597813"
+        },
+        {
+          "type": "ein",
+          "value": "113799030"
+        },
+        {
+          "type": "npi",
+          "value": "1487682548"
+        },
+        {
+          "type": "ein",
+          "value": "200001038"
+        },
+        {
+          "type": "ein",
+          "value": "208075442"
+        },
+        {
+          "type": "ein",
+          "value": "272741464"
+        },
+        {
+          "type": "ein",
+          "value": "300064124"
+        },
+        {
+          "type": "ein",
+          "value": "331391339"
+        },
+        {
+          "type": "ein",
+          "value": "334941005"
+        },
+        {
+          "type": "ein",
+          "value": "352696975"
+        },
+        {
+          "type": "ein",
+          "value": "470978129"
+        },
+        {
+          "type": "ein",
+          "value": "472733085"
+        },
+        {
+          "type": "ein",
+          "value": "473766459"
+        },
+        {
+          "type": "ein",
+          "value": "593766813"
+        },
+        {
+          "type": "ein",
+          "value": "760808298"
+        },
+        {
+          "type": "ein",
+          "value": "765827488"
+        },
+        {
+          "type": "ein",
+          "value": "812043317"
+        },
+        {
+          "type": "ein",
+          "value": "853845365"
+        },
+        {
+          "type": "ein",
+          "value": "990544666"
+        },
+        {
+          "type": "ein",
+          "value": "010772860"
+        },
+        {
+          "type": "ein",
+          "value": "058748140"
+        },
+        {
+          "type": "ein",
+          "value": "112656512"
+        },
+        {
+          "type": "ein",
+          "value": "112738179"
+        },
+        {
+          "type": "ein",
+          "value": "112781868"
+        },
+        {
+          "type": "ein",
+          "value": "113106211"
+        },
+        {
+          "type": "ein",
+          "value": "113137037"
+        },
+        {
+          "type": "ein",
+          "value": "113275806"
+        },
+        {
+          "type": "ein",
+          "value": "113280324"
+        },
+        {
+          "type": "ein",
+          "value": "113336948"
+        },
+        {
+          "type": "ein",
+          "value": "113358217"
+        },
+        {
+          "type": "ein",
+          "value": "113569539"
+        },
+        {
+          "type": "ein",
+          "value": "113578837"
+        },
+        {
+          "type": "ein",
+          "value": "113641544"
+        },
+        {
+          "type": "ein",
+          "value": "133586197"
+        },
+        {
+          "type": "npi",
+          "value": "1346239738"
+        },
+        {
+          "type": "ein",
+          "value": "262326207"
+        },
+        {
+          "type": "ein",
+          "value": "262671815"
+        },
+        {
+          "type": "ein",
+          "value": "263144636"
+        },
+        {
+          "type": "ein",
+          "value": "273489385"
+        },
+        {
+          "type": "ein",
+          "value": "274198196"
+        },
+        {
+          "type": "ein",
+          "value": "371423241"
+        },
+        {
+          "type": "ein",
+          "value": "421538744"
+        },
+        {
+          "type": "ein",
+          "value": "460949315"
+        },
+        {
+          "type": "ein",
+          "value": "465361646"
+        },
+        {
+          "type": "ein",
+          "value": "474299838"
+        },
+        {
+          "type": "ein",
+          "value": "830982003"
+        },
+        {
+          "type": "ein",
+          "value": "831537451"
+        },
+        {
+          "type": "ein",
+          "value": "843492880"
+        },
+        {
+          "type": "ein",
+          "value": "852573829"
+        },
+        {
+          "type": "ein",
+          "value": "874716584"
+        },
+        {
+          "type": "ein",
+          "value": "912055703"
+        },
+        {
+          "type": "ein",
+          "value": "992534416"
+        },
+        {
+          "type": "ein",
+          "value": "010741441"
+        },
+        {
+          "type": "ein",
+          "value": "050608439"
+        },
+        {
+          "type": "ein",
+          "value": "113057189"
+        },
+        {
+          "type": "ein",
+          "value": "113069397"
+        },
+        {
+          "type": "ein",
+          "value": "113269170"
+        },
+        {
+          "type": "ein",
+          "value": "113521532"
+        },
+        {
+          "type": "ein",
+          "value": "113560634"
+        },
+        {
+          "type": "ein",
+          "value": "113564321"
+        },
+        {
+          "type": "ein",
+          "value": "113572023"
+        },
+        {
+          "type": "npi",
+          "value": "1568608578"
+        },
+        {
+          "type": "npi",
+          "value": "1629033345"
+        },
+        {
+          "type": "ein",
+          "value": "205121812"
+        },
+        {
+          "type": "ein",
+          "value": "260779505"
+        },
+        {
+          "type": "ein",
+          "value": "261420429"
+        },
+        {
+          "type": "ein",
+          "value": "262423811"
+        },
+        {
+          "type": "ein",
+          "value": "271063532"
+        },
+        {
+          "type": "ein",
+          "value": "272218563"
+        },
+        {
+          "type": "ein",
+          "value": "331008430"
+        },
+        {
+          "type": "ein",
+          "value": "393292121"
+        },
+        {
+          "type": "ein",
+          "value": "452693907"
+        },
+        {
+          "type": "ein",
+          "value": "454346006"
+        },
+        {
+          "type": "ein",
+          "value": "454422077"
+        },
+        {
+          "type": "ein",
+          "value": "463005869"
+        },
+        {
+          "type": "ein",
+          "value": "463112817"
+        },
+        {
+          "type": "ein",
+          "value": "473678653"
+        },
+        {
+          "type": "ein",
+          "value": "743192083"
+        },
+        {
+          "type": "ein",
+          "value": "824904129"
+        },
+        {
+          "type": "ein",
+          "value": "830419262"
+        },
+        {
+          "type": "ein",
+          "value": "844474900"
+        },
+        {
+          "type": "ein",
+          "value": "852165033"
+        },
+        {
+          "type": "ein",
+          "value": "883581886"
+        },
+        {
+          "type": "ein",
+          "value": "112829283"
+        },
+        {
+          "type": "ein",
+          "value": "112899744"
+        },
+        {
+          "type": "ein",
+          "value": "112906232"
+        },
+        {
+          "type": "ein",
+          "value": "113199247"
+        },
+        {
+          "type": "ein",
+          "value": "113314367"
+        },
+        {
+          "type": "npi",
+          "value": "1215957378"
+        },
+        {
+          "type": "ein",
+          "value": "133877508"
+        },
+        {
+          "type": "npi",
+          "value": "1871330290"
+        },
+        {
+          "type": "ein",
+          "value": "202931882"
+        },
+        {
+          "type": "ein",
+          "value": "203246827"
+        },
+        {
+          "type": "ein",
+          "value": "261452808"
+        },
+        {
+          "type": "ein",
+          "value": "263226767"
+        },
+        {
+          "type": "ein",
+          "value": "270778217"
+        },
+        {
+          "type": "ein",
+          "value": "461211891"
+        },
+        {
+          "type": "ein",
+          "value": "464717494"
+        },
+        {
+          "type": "ein",
+          "value": "465365640"
+        },
+        {
+          "type": "ein",
+          "value": "470924584"
+        },
+        {
+          "type": "ein",
+          "value": "743058639"
+        },
+        {
+          "type": "ein",
+          "value": "831532893"
+        },
+        {
+          "type": "ein",
+          "value": "831736919"
+        },
+        {
+          "type": "ein",
+          "value": "833196969"
+        },
+        {
+          "type": "ein",
+          "value": "920877968"
+        },
+        {
+          "type": "ein",
+          "value": "932240187"
+        },
+        {
+          "type": "ein",
+          "value": "991391461"
+        },
+        {
+          "type": "ein",
+          "value": "112603733"
+        },
+        {
+          "type": "ein",
+          "value": "112648614"
+        },
+        {
+          "type": "ein",
+          "value": "113417311"
+        },
+        {
+          "type": "ein",
+          "value": "113555255"
+        },
+        {
+          "type": "ein",
+          "value": "113575283"
+        },
+        {
+          "type": "ein",
+          "value": "200137005"
+        },
+        {
+          "type": "ein",
+          "value": "200583179"
+        },
+        {
+          "type": "ein",
+          "value": "208440763"
+        },
+        {
+          "type": "ein",
+          "value": "273223449"
+        },
+        {
+          "type": "ein",
+          "value": "334824010"
+        },
+        {
+          "type": "ein",
+          "value": "412775115"
+        },
+        {
+          "type": "ein",
+          "value": "462445597"
+        },
+        {
+          "type": "ein",
+          "value": "464545556"
+        },
+        {
+          "type": "ein",
+          "value": "472209519"
+        },
+        {
+          "type": "ein",
+          "value": "472364161"
+        },
+        {
+          "type": "ein",
+          "value": "473849062"
+        },
+        {
+          "type": "ein",
+          "value": "811157500"
+        },
+        {
+          "type": "ein",
+          "value": "813219542"
+        },
+        {
+          "type": "ein",
+          "value": "820836804"
+        },
+        {
+          "type": "ein",
+          "value": "822043091"
+        },
+        {
+          "type": "ein",
+          "value": "822088711"
+        },
+        {
+          "type": "ein",
+          "value": "831963283"
+        },
+        {
+          "type": "ein",
+          "value": "853884346"
+        },
+        {
+          "type": "ein",
+          "value": "873582105"
+        },
+        {
+          "type": "ein",
+          "value": "934465683"
+        },
+        {
+          "type": "ein",
+          "value": "061555307"
+        },
+        {
+          "type": "ein",
+          "value": "061637970"
+        },
+        {
+          "type": "ein",
+          "value": "112645009"
+        },
+        {
+          "type": "ein",
+          "value": "113182663"
+        },
+        {
+          "type": "ein",
+          "value": "113380100"
+        },
+        {
+          "type": "ein",
+          "value": "113493008"
+        },
+        {
+          "type": "ein",
+          "value": "113557801"
+        },
+        {
+          "type": "ein",
+          "value": "200916679"
+        }
+      ],
+      "npi_count": 250,
+      "provider_groups_truncated": true
+    },
+    {
+      "provider_group_count": 297,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "161315529"
+        },
+        {
+          "type": "ein",
+          "value": "161584970"
+        },
+        {
+          "type": "ein",
+          "value": "261247000"
+        },
+        {
+          "type": "ein",
+          "value": "273696661"
+        },
+        {
+          "type": "ein",
+          "value": "320204400"
+        },
+        {
+          "type": "ein",
+          "value": "814472742"
+        },
+        {
+          "type": "ein",
+          "value": "823563671"
+        },
+        {
+          "type": "ein",
+          "value": "843774422"
+        },
+        {
+          "type": "ein",
+          "value": "883043978"
+        },
+        {
+          "type": "ein",
+          "value": "161605713"
+        },
+        {
+          "type": "ein",
+          "value": "264322617"
+        },
+        {
+          "type": "ein",
+          "value": "334710512"
+        },
+        {
+          "type": "ein",
+          "value": "454547459"
+        },
+        {
+          "type": "ein",
+          "value": "463834451"
+        },
+        {
+          "type": "ein",
+          "value": "813395159"
+        },
+        {
+          "type": "ein",
+          "value": "843182166"
+        },
+        {
+          "type": "ein",
+          "value": "161543313"
+        },
+        {
+          "type": "ein",
+          "value": "825316609"
+        },
+        {
+          "type": "ein",
+          "value": "922449002"
+        },
+        {
+          "type": "ein",
+          "value": "141817008"
+        },
+        {
+          "type": "ein",
+          "value": "161310374"
+        },
+        {
+          "type": "ein",
+          "value": "161429686"
+        },
+        {
+          "type": "ein",
+          "value": "161554805"
+        },
+        {
+          "type": "ein",
+          "value": "161573911"
+        },
+        {
+          "type": "npi",
+          "value": "1851416259"
+        },
+        {
+          "type": "ein",
+          "value": "200386684"
+        },
+        {
+          "type": "ein",
+          "value": "264031825"
+        },
+        {
+          "type": "ein",
+          "value": "270172486"
+        },
+        {
+          "type": "ein",
+          "value": "550868291"
+        },
+        {
+          "type": "npi",
+          "value": "1295802569"
+        },
+        {
+          "type": "ein",
+          "value": "141802007"
+        },
+        {
+          "type": "npi",
+          "value": "1508910621"
+        },
+        {
+          "type": "ein",
+          "value": "300028873"
+        },
+        {
+          "type": "ein",
+          "value": "862806580"
+        },
+        {
+          "type": "ein",
+          "value": "161522277"
+        },
+        {
+          "type": "ein",
+          "value": "450549264"
+        },
+        {
+          "type": "ein",
+          "value": "461022212"
+        },
+        {
+          "type": "ein",
+          "value": "141808662"
+        },
+        {
+          "type": "ein",
+          "value": "161363562"
+        },
+        {
+          "type": "ein",
+          "value": "161419897"
+        },
+        {
+          "type": "ein",
+          "value": "161503187"
+        },
+        {
+          "type": "ein",
+          "value": "200428386"
+        },
+        {
+          "type": "ein",
+          "value": "320083156"
+        },
+        {
+          "type": "ein",
+          "value": "810552064"
+        },
+        {
+          "type": "ein",
+          "value": "141696521"
+        },
+        {
+          "type": "ein",
+          "value": "161547690"
+        },
+        {
+          "type": "ein",
+          "value": "161601785"
+        },
+        {
+          "type": "ein",
+          "value": "262362317"
+        },
+        {
+          "type": "ein",
+          "value": "271606900"
+        },
+        {
+          "type": "ein",
+          "value": "320264247"
+        },
+        {
+          "type": "ein",
+          "value": "450508680"
+        },
+        {
+          "type": "ein",
+          "value": "464234675"
+        },
+        {
+          "type": "ein",
+          "value": "472226059"
+        },
+        {
+          "type": "ein",
+          "value": "934593562"
+        },
+        {
+          "type": "ein",
+          "value": "010813442"
+        },
+        {
+          "type": "npi",
+          "value": "1083968234"
+        },
+        {
+          "type": "ein",
+          "value": "161274290"
+        },
+        {
+          "type": "ein",
+          "value": "205597825"
+        },
+        {
+          "type": "ein",
+          "value": "270428672"
+        },
+        {
+          "type": "ein",
+          "value": "272121884"
+        },
+        {
+          "type": "ein",
+          "value": "364500165"
+        },
+        {
+          "type": "ein",
+          "value": "461669784"
+        },
+        {
+          "type": "ein",
+          "value": "821257171"
+        },
+        {
+          "type": "ein",
+          "value": "934885468"
+        },
+        {
+          "type": "ein",
+          "value": "141790910"
+        },
+        {
+          "type": "ein",
+          "value": "413338981"
+        },
+        {
+          "type": "ein",
+          "value": "811047733"
+        },
+        {
+          "type": "ein",
+          "value": "833514753"
+        },
+        {
+          "type": "ein",
+          "value": "141857126"
+        },
+        {
+          "type": "ein",
+          "value": "161270765"
+        },
+        {
+          "type": "ein",
+          "value": "161502150"
+        },
+        {
+          "type": "ein",
+          "value": "161611227"
+        },
+        {
+          "type": "ein",
+          "value": "263259203"
+        },
+        {
+          "type": "ein",
+          "value": "453305474"
+        },
+        {
+          "type": "ein",
+          "value": "853804836"
+        },
+        {
+          "type": "ein",
+          "value": "863880249"
+        },
+        {
+          "type": "ein",
+          "value": "870893938"
+        },
+        {
+          "type": "npi",
+          "value": "1366589582"
+        },
+        {
+          "type": "ein",
+          "value": "161414257"
+        },
+        {
+          "type": "ein",
+          "value": "161535767"
+        },
+        {
+          "type": "npi",
+          "value": "1669062824"
+        },
+        {
+          "type": "ein",
+          "value": "275056351"
+        },
+        {
+          "type": "ein",
+          "value": "364886145"
+        },
+        {
+          "type": "ein",
+          "value": "475364186"
+        },
+        {
+          "type": "ein",
+          "value": "800543972"
+        },
+        {
+          "type": "ein",
+          "value": "800601015"
+        },
+        {
+          "type": "ein",
+          "value": "820833477"
+        },
+        {
+          "type": "ein",
+          "value": "161332076"
+        },
+        {
+          "type": "ein",
+          "value": "161537641"
+        },
+        {
+          "type": "ein",
+          "value": "161549292"
+        },
+        {
+          "type": "ein",
+          "value": "201325251"
+        },
+        {
+          "type": "ein",
+          "value": "415099274"
+        },
+        {
+          "type": "ein",
+          "value": "452380907"
+        },
+        {
+          "type": "ein",
+          "value": "474052464"
+        },
+        {
+          "type": "ein",
+          "value": "834319974"
+        },
+        {
+          "type": "ein",
+          "value": "141690724"
+        },
+        {
+          "type": "ein",
+          "value": "274814007"
+        },
+        {
+          "type": "ein",
+          "value": "020595498"
+        },
+        {
+          "type": "npi",
+          "value": "1598477069"
+        },
+        {
+          "type": "ein",
+          "value": "161542760"
+        },
+        {
+          "type": "npi",
+          "value": "1942318787"
+        },
+        {
+          "type": "ein",
+          "value": "821228496"
+        },
+        {
+          "type": "ein",
+          "value": "833009111"
+        },
+        {
+          "type": "ein",
+          "value": "852418521"
+        },
+        {
+          "type": "ein",
+          "value": "141635157"
+        },
+        {
+          "type": "ein",
+          "value": "161460217"
+        },
+        {
+          "type": "ein",
+          "value": "161565106"
+        },
+        {
+          "type": "ein",
+          "value": "205884259"
+        },
+        {
+          "type": "ein",
+          "value": "272676252"
+        },
+        {
+          "type": "ein",
+          "value": "452968964"
+        },
+        {
+          "type": "ein",
+          "value": "562626672"
+        },
+        {
+          "type": "ein",
+          "value": "994797693"
+        },
+        {
+          "type": "ein",
+          "value": "131916574"
+        },
+        {
+          "type": "ein",
+          "value": "161344300"
+        },
+        {
+          "type": "ein",
+          "value": "300681050"
+        },
+        {
+          "type": "ein",
+          "value": "332027175"
+        },
+        {
+          "type": "ein",
+          "value": "454017032"
+        },
+        {
+          "type": "ein",
+          "value": "454661657"
+        },
+        {
+          "type": "ein",
+          "value": "464238435"
+        },
+        {
+          "type": "ein",
+          "value": "813809928"
+        },
+        {
+          "type": "ein",
+          "value": "823109983"
+        },
+        {
+          "type": "npi",
+          "value": "1053403907"
+        },
+        {
+          "type": "ein",
+          "value": "141827187"
+        },
+        {
+          "type": "npi",
+          "value": "1518498187"
+        },
+        {
+          "type": "ein",
+          "value": "160757756"
+        },
+        {
+          "type": "ein",
+          "value": "332136433"
+        },
+        {
+          "type": "ein",
+          "value": "813464561"
+        },
+        {
+          "type": "ein",
+          "value": "821957016"
+        },
+        {
+          "type": "ein",
+          "value": "853964551"
+        },
+        {
+          "type": "ein",
+          "value": "922624174"
+        },
+        {
+          "type": "ein",
+          "value": "060622167"
+        },
+        {
+          "type": "npi",
+          "value": "1063501369"
+        },
+        {
+          "type": "npi",
+          "value": "1205472404"
+        },
+        {
+          "type": "npi",
+          "value": "1447849617"
+        },
+        {
+          "type": "ein",
+          "value": "202530369"
+        },
+        {
+          "type": "ein",
+          "value": "274281299"
+        },
+        {
+          "type": "ein",
+          "value": "274931628"
+        },
+        {
+          "type": "ein",
+          "value": "453778664"
+        },
+        {
+          "type": "ein",
+          "value": "834089440"
+        },
+        {
+          "type": "ein",
+          "value": "161206297"
+        },
+        {
+          "type": "ein",
+          "value": "161329284"
+        },
+        {
+          "type": "ein",
+          "value": "161467988"
+        },
+        {
+          "type": "ein",
+          "value": "474669399"
+        },
+        {
+          "type": "ein",
+          "value": "141637577"
+        },
+        {
+          "type": "ein",
+          "value": "454181329"
+        },
+        {
+          "type": "ein",
+          "value": "811751799"
+        },
+        {
+          "type": "ein",
+          "value": "822681459"
+        },
+        {
+          "type": "ein",
+          "value": "823050966"
+        },
+        {
+          "type": "ein",
+          "value": "881900060"
+        },
+        {
+          "type": "ein",
+          "value": "030445678"
+        },
+        {
+          "type": "ein",
+          "value": "161185693"
+        },
+        {
+          "type": "ein",
+          "value": "161397238"
+        },
+        {
+          "type": "ein",
+          "value": "202443426"
+        },
+        {
+          "type": "ein",
+          "value": "260389642"
+        },
+        {
+          "type": "ein",
+          "value": "412032382"
+        },
+        {
+          "type": "ein",
+          "value": "562373922"
+        },
+        {
+          "type": "ein",
+          "value": "562540968"
+        },
+        {
+          "type": "ein",
+          "value": "810809539"
+        },
+        {
+          "type": "ein",
+          "value": "161443905"
+        },
+        {
+          "type": "ein",
+          "value": "300308209"
+        },
+        {
+          "type": "ein",
+          "value": "413225468"
+        },
+        {
+          "type": "ein",
+          "value": "474566151"
+        },
+        {
+          "type": "ein",
+          "value": "853157361"
+        },
+        {
+          "type": "ein",
+          "value": "862112783"
+        },
+        {
+          "type": "ein",
+          "value": "161412138"
+        },
+        {
+          "type": "ein",
+          "value": "161521285"
+        },
+        {
+          "type": "ein",
+          "value": "161603661"
+        },
+        {
+          "type": "ein",
+          "value": "271279783"
+        },
+        {
+          "type": "ein",
+          "value": "272183017"
+        },
+        {
+          "type": "ein",
+          "value": "455139696"
+        },
+        {
+          "type": "ein",
+          "value": "461786887"
+        },
+        {
+          "type": "ein",
+          "value": "811810397"
+        },
+        {
+          "type": "ein",
+          "value": "141810985"
+        },
+        {
+          "type": "ein",
+          "value": "200532413"
+        },
+        {
+          "type": "ein",
+          "value": "260845975"
+        },
+        {
+          "type": "ein",
+          "value": "264226933"
+        },
+        {
+          "type": "ein",
+          "value": "270981271"
+        },
+        {
+          "type": "ein",
+          "value": "274245321"
+        },
+        {
+          "type": "ein",
+          "value": "412738640"
+        },
+        {
+          "type": "npi",
+          "value": "1083715163"
+        },
+        {
+          "type": "ein",
+          "value": "161261073"
+        },
+        {
+          "type": "ein",
+          "value": "161568888"
+        },
+        {
+          "type": "npi",
+          "value": "1730495920"
+        },
+        {
+          "type": "ein",
+          "value": "205206358"
+        },
+        {
+          "type": "ein",
+          "value": "270878392"
+        },
+        {
+          "type": "ein",
+          "value": "271783753"
+        },
+        {
+          "type": "ein",
+          "value": "522189213"
+        },
+        {
+          "type": "ein",
+          "value": "863100197"
+        },
+        {
+          "type": "ein",
+          "value": "921291152"
+        },
+        {
+          "type": "ein",
+          "value": "161452055"
+        },
+        {
+          "type": "ein",
+          "value": "200735623"
+        },
+        {
+          "type": "ein",
+          "value": "222511614"
+        },
+        {
+          "type": "ein",
+          "value": "223705647"
+        },
+        {
+          "type": "ein",
+          "value": "383743168"
+        },
+        {
+          "type": "ein",
+          "value": "472088105"
+        },
+        {
+          "type": "ein",
+          "value": "542169019"
+        },
+        {
+          "type": "ein",
+          "value": "760818147"
+        },
+        {
+          "type": "ein",
+          "value": "833599429"
+        },
+        {
+          "type": "ein",
+          "value": "844761964"
+        },
+        {
+          "type": "ein",
+          "value": "863193622"
+        }
+      ],
+      "npi_count": 249,
+      "provider_groups_truncated": true
+    },
+    {
+      "provider_group_count": 131,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "074726576"
+        },
+        {
+          "type": "ein",
+          "value": "141765354"
+        },
+        {
+          "type": "ein",
+          "value": "812617389"
+        },
+        {
+          "type": "ein",
+          "value": "922147379"
+        },
+        {
+          "type": "ein",
+          "value": "141767778"
+        },
+        {
+          "type": "ein",
+          "value": "743115548"
+        },
+        {
+          "type": "ein",
+          "value": "800071212"
+        },
+        {
+          "type": "ein",
+          "value": "141689191"
+        },
+        {
+          "type": "ein",
+          "value": "204010386"
+        },
+        {
+          "type": "ein",
+          "value": "222321057"
+        },
+        {
+          "type": "ein",
+          "value": "113624754"
+        },
+        {
+          "type": "ein",
+          "value": "141749883"
+        },
+        {
+          "type": "ein",
+          "value": "141765710"
+        },
+        {
+          "type": "ein",
+          "value": "141831906"
+        },
+        {
+          "type": "ein",
+          "value": "203705990"
+        },
+        {
+          "type": "ein",
+          "value": "811931257"
+        },
+        {
+          "type": "ein",
+          "value": "141782761"
+        },
+        {
+          "type": "ein",
+          "value": "141822378"
+        },
+        {
+          "type": "ein",
+          "value": "450469236"
+        },
+        {
+          "type": "ein",
+          "value": "830504273"
+        },
+        {
+          "type": "ein",
+          "value": "161535878"
+        },
+        {
+          "type": "ein",
+          "value": "473382527"
+        },
+        {
+          "type": "ein",
+          "value": "991266150"
+        },
+        {
+          "type": "ein",
+          "value": "141806529"
+        },
+        {
+          "type": "npi",
+          "value": "1962572883"
+        },
+        {
+          "type": "ein",
+          "value": "883348910"
+        },
+        {
+          "type": "ein",
+          "value": "061317920"
+        },
+        {
+          "type": "ein",
+          "value": "133686351"
+        },
+        {
+          "type": "ein",
+          "value": "161713166"
+        },
+        {
+          "type": "ein",
+          "value": "920935011"
+        },
+        {
+          "type": "ein",
+          "value": "161526565"
+        },
+        {
+          "type": "ein",
+          "value": "010958021"
+        },
+        {
+          "type": "ein",
+          "value": "141767658"
+        },
+        {
+          "type": "ein",
+          "value": "582678107"
+        },
+        {
+          "type": "ein",
+          "value": "141340054"
+        },
+        {
+          "type": "ein",
+          "value": "141706861"
+        },
+        {
+          "type": "ein",
+          "value": "274604250"
+        },
+        {
+          "type": "ein",
+          "value": "200044933"
+        },
+        {
+          "type": "ein",
+          "value": "133449589"
+        },
+        {
+          "type": "npi",
+          "value": "1619064680"
+        },
+        {
+          "type": "ein",
+          "value": "352359160"
+        },
+        {
+          "type": "ein",
+          "value": "823815977"
+        },
+        {
+          "type": "ein",
+          "value": "883850445"
+        },
+        {
+          "type": "ein",
+          "value": "061539504"
+        },
+        {
+          "type": "ein",
+          "value": "141772553"
+        },
+        {
+          "type": "ein",
+          "value": "202134565"
+        },
+        {
+          "type": "ein",
+          "value": "392875801"
+        },
+        {
+          "type": "ein",
+          "value": "873553659"
+        },
+        {
+          "type": "ein",
+          "value": "922846828"
+        },
+        {
+          "type": "ein",
+          "value": "112982957"
+        },
+        {
+          "type": "npi",
+          "value": "1891877577"
+        },
+        {
+          "type": "ein",
+          "value": "200121199"
+        },
+        {
+          "type": "ein",
+          "value": "223146908"
+        },
+        {
+          "type": "ein",
+          "value": "270843982"
+        },
+        {
+          "type": "ein",
+          "value": "830707114"
+        },
+        {
+          "type": "ein",
+          "value": "061470920"
+        },
+        {
+          "type": "ein",
+          "value": "460690319"
+        },
+        {
+          "type": "ein",
+          "value": "822913780"
+        },
+        {
+          "type": "npi",
+          "value": "1316191729"
+        },
+        {
+          "type": "ein",
+          "value": "450557826"
+        },
+        {
+          "type": "ein",
+          "value": "222751041"
+        },
+        {
+          "type": "ein",
+          "value": "472571166"
+        },
+        {
+          "type": "ein",
+          "value": "061127657"
+        },
+        {
+          "type": "ein",
+          "value": "141827289"
+        },
+        {
+          "type": "ein",
+          "value": "203966666"
+        },
+        {
+          "type": "ein",
+          "value": "271366402"
+        },
+        {
+          "type": "ein",
+          "value": "030488613"
+        },
+        {
+          "type": "ein",
+          "value": "061252031"
+        },
+        {
+          "type": "ein",
+          "value": "205687853"
+        },
+        {
+          "type": "ein",
+          "value": "222695629"
+        },
+        {
+          "type": "ein",
+          "value": "451221608"
+        },
+        {
+          "type": "ein",
+          "value": "020665281"
+        },
+        {
+          "type": "ein",
+          "value": "061319648"
+        },
+        {
+          "type": "ein",
+          "value": "845150605"
+        },
+        {
+          "type": "ein",
+          "value": "141757764"
+        },
+        {
+          "type": "ein",
+          "value": "800688659"
+        },
+        {
+          "type": "npi",
+          "value": "1225025687"
+        },
+        {
+          "type": "ein",
+          "value": "161592942"
+        },
+        {
+          "type": "ein",
+          "value": "471501945"
+        },
+        {
+          "type": "ein",
+          "value": "061496431"
+        },
+        {
+          "type": "ein",
+          "value": "141771230"
+        },
+        {
+          "type": "ein",
+          "value": "200639569"
+        },
+        {
+          "type": "ein",
+          "value": "873765180"
+        },
+        {
+          "type": "ein",
+          "value": "900599452"
+        },
+        {
+          "type": "ein",
+          "value": "061478154"
+        },
+        {
+          "type": "npi",
+          "value": "1215901475"
+        },
+        {
+          "type": "ein",
+          "value": "990980793"
+        },
+        {
+          "type": "ein",
+          "value": "222651608"
+        },
+        {
+          "type": "ein",
+          "value": "208063917"
+        },
+        {
+          "type": "ein",
+          "value": "465487957"
+        },
+        {
+          "type": "ein",
+          "value": "880635916"
+        },
+        {
+          "type": "ein",
+          "value": "201648713"
+        },
+        {
+          "type": "ein",
+          "value": "475150363"
+        },
+        {
+          "type": "ein",
+          "value": "994601194"
+        },
+        {
+          "type": "ein",
+          "value": "074764093"
+        },
+        {
+          "type": "ein",
+          "value": "141809477"
+        },
+        {
+          "type": "ein",
+          "value": "223054244"
+        },
+        {
+          "type": "ein",
+          "value": "743253174"
+        },
+        {
+          "type": "ein",
+          "value": "113671766"
+        },
+        {
+          "type": "ein",
+          "value": "141822384"
+        },
+        {
+          "type": "npi",
+          "value": "1992361430"
+        },
+        {
+          "type": "ein",
+          "value": "202235036"
+        },
+        {
+          "type": "ein",
+          "value": "203963137"
+        },
+        {
+          "type": "ein",
+          "value": "020616355"
+        },
+        {
+          "type": "ein",
+          "value": "113284480"
+        },
+        {
+          "type": "ein",
+          "value": "141340100"
+        },
+        {
+          "type": "ein",
+          "value": "141780233"
+        },
+        {
+          "type": "ein",
+          "value": "161525355"
+        },
+        {
+          "type": "ein",
+          "value": "342064428"
+        },
+        {
+          "type": "ein",
+          "value": "020541239"
+        },
+        {
+          "type": "npi",
+          "value": "1770594772"
+        },
+        {
+          "type": "ein",
+          "value": "222627543"
+        },
+        {
+          "type": "ein",
+          "value": "222976633"
+        },
+        {
+          "type": "ein",
+          "value": "474939107"
+        },
+        {
+          "type": "ein",
+          "value": "841821322"
+        },
+        {
+          "type": "ein",
+          "value": "133143173"
+        },
+        {
+          "type": "ein",
+          "value": "141829010"
+        },
+        {
+          "type": "ein",
+          "value": "161536573"
+        },
+        {
+          "type": "ein",
+          "value": "223310082"
+        },
+        {
+          "type": "ein",
+          "value": "263770553"
+        },
+        {
+          "type": "ein",
+          "value": "453949612"
+        },
+        {
+          "type": "ein",
+          "value": "811935571"
+        },
+        {
+          "type": "ein",
+          "value": "841675611"
+        },
+        {
+          "type": "ein",
+          "value": "842532306"
+        },
+        {
+          "type": "npi",
+          "value": "1114018330"
+        },
+        {
+          "type": "ein",
+          "value": "113664969"
+        },
+        {
+          "type": "ein",
+          "value": "141823543"
+        },
+        {
+          "type": "ein",
+          "value": "061376649"
+        },
+        {
+          "type": "ein",
+          "value": "262199157"
+        },
+        {
+          "type": "ein",
+          "value": "462845621"
+        },
+        {
+          "type": "ein",
+          "value": "814477989"
+        }
+      ],
+      "npi_count": 145
+    }
+  ],
+  "provider_reference_read": "ok"
+}

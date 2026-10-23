@@ -1,0 +1,54 @@
+name: Daily insurer TiC in-network tranche
+on:
+  schedule:
+    - cron: '47 11 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: TiC files in this bounded tranche
+        default: '20'
+        required: true
+      min_bytes:
+        description: Skip locator files smaller than this (empty shells first)
+        default: '50000'
+        required: true
+      max_bytes:
+        description: Only files up to this many bytes
+        default: '5000000'
+        required: true
+      source_timeout:
+        description: Seconds allowed per source
+        default: '120'
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: tic-tranche
+  cancel-in-progress: false
+jobs:
+  tic:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r scripts/requirements.txt
+      - run: python scripts/tic_refresh.py --limit "${{ github.event.inputs.limit || '20' }}" --min-bytes "${{ github.event.inputs.min_bytes || '50000' }}" --max-bytes "${{ github.event.inputs.max_bytes || '5000000' }}" --source-timeout "${{ github.event.inputs.source_timeout || '120' }}"
+      - uses: actions/checkout@v4
+        with:
+          path: publication
+          ref: main
+      - name: Publish TiC tranche
+        run: |
+          mkdir -p publication/data
+          cp -a data/tic publication/data/ 2>/dev/null || true
+          cp -a data/tic-attempts publication/data/ 2>/dev/null || true
+          cd publication
+          git config user.name 'CostOfCare TiC data'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/tic data/tic-attempts
+          git diff --cached --quiet && exit 0
+          git commit -m 'data: insurer TiC in-network bounded tranche'
+          git push origin HEAD:main

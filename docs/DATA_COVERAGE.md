@@ -77,3 +77,14 @@ After parser 1.3 retries, the row-preserving layer had 2,703 files and 8,511,239
 
 ## Target code list widened (55 to 168 codes)
 `scripts/target_codes.json` now lists 168 CPT/HCPCS codes (imaging, lab, visits, behavioral, therapy, procedures, obstetric, pathology, vision, pulmonary, oncology, vaccine). Labels are plain-language descriptions written by us, not AMA text. Existing normalized files and summary aggregates were extracted with the older 55-code list, and each manifest's `code_filter` records exactly what it covers. Files only gain the new codes when re-extracted, which follows the rotation described above (roughly 12 or more days at full ceilings). Until then coverage for the 113 added codes is partial and must not be read as absence of prices.
+
+## Insurer TiC in-network layer (started Oct 22)
+`scripts/tic_refresh.py` extracts negotiated-rate rows from insurer Transparency in Coverage in-network files listed in the UHC locator catalog, filtered to the target code list, into `data/tic/` (one `.jsonl.gz` plus a manifest per file). This is a separate layer from hospital MRF data and never shares its counts. Current scope and limits:
+
+- Only UHC-locator single-file `.json.gz` URLs are handled; zip archives (most Cigna entries) are skipped and recorded, not interpreted.
+- Allowed-amounts files are excluded by design: their schema is not in-network negotiated prices.
+- Files are chosen smallest-first within a size band (default 50 KB to 5 MB). The median UHC in-network file is about 15 GB, so this layer currently covers only the small-file tail of the catalog and is not representative of any insurer's full network.
+- Rows keep all source qualifiers (setting, billing class, service code, modifiers, expiration, negotiated_type) and the raw negotiation_arrangement. Capitation and bundle rows are not per-service prices and must not be read as such.
+- Manifests capture the file's root provider_references (TINs, NPI counts, external reference URLs, truncated beyond 200 groups). Rows still reference these by index; a verified provider-directory join to NPIs and hospital identities does not exist yet, so `patient_price_ready` stays false.
+- Plan identity comes from the locator file name only.
+- A daily workflow (`tic.yml`) extracts a bounded tranche (default 20 files/day). Empty TPA shell files are recorded as empty, not dropped silently.
