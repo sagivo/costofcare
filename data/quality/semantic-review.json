@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T01:12:14.059691+00:00",
-  "records_scanned": 8511239,
+  "generated_at": "2026-10-23T01:27:03.880163+00:00",
+  "records_scanned": 8512919,
   "flag_counts": {
     "large_published_amount_review": 12734,
     "zero_published_amount_review": 260
@@ -328,11 +328,11 @@
     }
   ],
   "populated_qualifier_counts": {
-    "setting": 8134286,
+    "setting": 8135966,
     "billing_class": 6528841,
-    "payer_name": 7956580,
-    "plan_name": 7952848,
-    "modifiers": 2494516,
+    "payer_name": 7958260,
+    "plan_name": 7954528,
+    "modifiers": 2495140,
     "json_payer_name": 1034275,
     "json_plan_name": 1034275,
     "json_methodology": 1034275,
