@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-23T02:01:10.579684+00:00",
+  "generated_at": "2026-10-23T15:50:05.841812+00:00",
   "normalized_files": 2704,
   "parser_versions": {
-    "row-preserving-1.2": 1748,
-    "row-preserving-1.1": 525,
-    "row-preserving-1.3": 431
+    "row-preserving-1.2": 1747,
+    "row-preserving-1.1": 405,
+    "row-preserving-1.3": 552
   },
   "extraction_age_buckets": {
-    "within_24h": 2704
+    "1_to_7_days": 1386,
+    "within_24h": 1318
   },
   "failed_attempt_classes": {
     "strict_encoding": 6,
@@ -35,13 +36,6 @@
       "summary_sha256": "4c6c81dff4f9f342479bea2c030b4cd0f93349c43a512c684e9026e146e45f71",
       "normalized_extracted_at": "2026-10-23T00:55:44Z",
       "summary_extracted_at": "2026-10-22T21:32:58Z"
-    },
-    {
-      "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCMHAURORAIL&type=CDMWithoutLabel&fileType=CSV",
-      "normalized_sha256": "e27a7b3f57f93b7bf3bcdc536edcba9622d5750b49a585858b6cfe316658ed9b",
-      "summary_sha256": "8a5e58997269a311f5f58f9755d4ebf01d7d1b635acb1c10c9e67eaa10faf950",
-      "normalized_extracted_at": "2026-10-22T05:43:05Z",
-      "summary_extracted_at": "2026-10-22T16:32:22Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251875178_alle-kiski-medical-center_standardcharges.csv",
@@ -91,13 +85,6 @@
       "summary_sha256": "6074c33a0fc4ae882e68d62f09c3da6a513522bc35b87118009be573a92295ee",
       "normalized_extracted_at": "2026-10-22T13:44:16Z",
       "summary_extracted_at": "2026-10-22T15:47:44Z"
-    },
-    {
-      "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRushOakPark&type=CDMWithoutLabel&fileType=CSV",
-      "normalized_sha256": "9911daf73fc8a7ac7a7cb39bee21c4388d3357eed7207a0cddb62a687dddf0aa",
-      "summary_sha256": "5dcc085a9e207707254e5926868c2b165bf73ce8a4fc075a757c5b482bb9c3f3",
-      "normalized_extracted_at": "2026-10-22T05:37:46Z",
-      "summary_extracted_at": "2026-10-22T21:38:20Z"
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-beaver_standardcharges-April-2026.csv",
