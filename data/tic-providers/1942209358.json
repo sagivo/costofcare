@@ -1,0 +1,25 @@
+{
+  "npi": "1942209358",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-23T02:33:04Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1942209358",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "NICHOLAS",
+      "last_name": "RULLI",
+      "primary_taxonomy": "Chiropractor",
+      "location": {
+        "address_1": "7503 BROOK RD",
+        "city": "RICHMOND",
+        "state": "VA",
+        "postal_code": "232271856"
+      },
+      "last_updated": "2009-11-05"
+    }
+  ]
+}

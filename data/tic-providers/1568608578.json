@@ -1,0 +1,25 @@
+{
+  "npi": "1568608578",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-23T02:32:24Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1568608578",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RANIA",
+      "last_name": "SOKKER",
+      "primary_taxonomy": "Physical Therapist",
+      "location": {
+        "address_1": "168 BAY 25TH ST",
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postal_code": "11214"
+      },
+      "last_updated": "2008-12-22"
+    }
+  ]
+}

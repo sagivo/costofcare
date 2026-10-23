@@ -1,0 +1,25 @@
+{
+  "npi": "1508910621",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-23T02:32:20Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1508910621",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KATHLEEN",
+      "last_name": "FIX",
+      "primary_taxonomy": "Chiropractor",
+      "location": {
+        "address_1": "246 BUFFALO ST",
+        "city": "HAMBURG",
+        "state": "NY",
+        "postal_code": "140755104"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

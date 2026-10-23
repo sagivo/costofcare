@@ -45,10 +45,11 @@ jobs:
           mkdir -p publication/data
           cp -a data/tic publication/data/ 2>/dev/null || true
           cp -a data/tic-attempts publication/data/ 2>/dev/null || true
+          cp -a data/tic-providers publication/data/ 2>/dev/null || true
           cd publication
           git config user.name 'CostOfCare TiC data'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/tic data/tic-attempts
+          git add data/tic data/tic-attempts data/tic-providers
           git diff --cached --quiet && exit 0
           git commit -m 'data: insurer TiC in-network bounded tranche'
           git push origin HEAD:main

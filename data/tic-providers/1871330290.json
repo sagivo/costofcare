@@ -1,0 +1,25 @@
+{
+  "npi": "1871330290",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-23T02:32:56Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1871330290",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MITCHEL",
+      "last_name": "GOODKIN",
+      "primary_taxonomy": "Chiropractor",
+      "location": {
+        "address_1": "1400 WANTAGH AVENUE",
+        "city": "WANTAGH",
+        "state": "NY",
+        "postal_code": "11793"
+      },
+      "last_updated": "2024-09-09"
+    }
+  ]
+}
