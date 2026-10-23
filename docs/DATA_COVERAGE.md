@@ -74,3 +74,6 @@ Sources that failed strict UTF-8 are retried with a full strict Windows-1252 dec
 
 ## Failure remediation outcome and refresh cadence (Oct 22)
 After parser 1.3 retries, the row-preserving layer had 2,703 files and 8,511,239 records, with 8 failed attempts (6 old encoding errors awaiting retry, 1 HTTP 403, 1 held HTTP 429 on whs.org). 262 files use the flagged inferred cp1252 encoding and 297,391 records are width-flagged and preserved verbatim. The scheduled normalized job now runs twice daily at up to 120 files per run. These are ceilings: repository growth (.git about 666 MB), source failures and runner time can lower them, and extraction age is not source update age.
+
+## Target code list widened (55 to 168 codes)
+`scripts/target_codes.json` now lists 168 CPT/HCPCS codes (imaging, lab, visits, behavioral, therapy, procedures, obstetric, pathology, vision, pulmonary, oncology, vaccine). Labels are plain-language descriptions written by us, not AMA text. Existing normalized files and summary aggregates were extracted with the older 55-code list, and each manifest's `code_filter` records exactly what it covers. Files only gain the new codes when re-extracted, which follows the rotation described above (roughly 12 or more days at full ceilings). Until then coverage for the 113 added codes is partial and must not be read as absence of prices.

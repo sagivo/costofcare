@@ -1,59 +1,676 @@
 {
   "codes": {
-    "70551": {"label": "Brain MRI without contrast", "category": "imaging"},
-    "70553": {"label": "Brain MRI with and without contrast", "category": "imaging"},
-    "72141": {"label": "Neck (cervical) MRI without contrast", "category": "imaging"},
-    "72148": {"label": "Lower back (lumbar) MRI without contrast", "category": "imaging"},
-    "73221": {"label": "Shoulder MRI without contrast", "category": "imaging"},
-    "73721": {"label": "Knee MRI without contrast", "category": "imaging"},
-    "70450": {"label": "Head CT without contrast", "category": "imaging"},
-    "74176": {"label": "CT abdomen and pelvis without contrast", "category": "imaging"},
-    "74177": {"label": "CT abdomen and pelvis with contrast", "category": "imaging"},
-    "71045": {"label": "Chest X-ray, single view", "category": "imaging"},
-    "71046": {"label": "Chest X-ray, 2 views", "category": "imaging"},
-    "76700": {"label": "Abdominal ultrasound, complete", "category": "imaging"},
-    "76536": {"label": "Thyroid ultrasound", "category": "imaging"},
-    "77067": {"label": "Screening mammogram (both breasts)", "category": "imaging"},
-    "77080": {"label": "DXA bone density scan", "category": "imaging"},
-    "93880": {"label": "Carotid duplex ultrasound", "category": "imaging"},
-    "93306": {"label": "Echocardiogram with Doppler, complete", "category": "imaging"},
-    "80053": {"label": "Comprehensive metabolic panel (CMP)", "category": "labs"},
-    "80048": {"label": "Basic metabolic panel (BMP)", "category": "labs"},
-    "85025": {"label": "Complete blood count (CBC) with differential", "category": "labs"},
-    "80061": {"label": "Lipid panel (cholesterol)", "category": "labs"},
-    "84443": {"label": "TSH (thyroid stimulating hormone)", "category": "labs"},
-    "83036": {"label": "Hemoglobin A1c", "category": "labs"},
-    "82306": {"label": "Vitamin D, 25-hydroxy", "category": "labs"},
-    "84153": {"label": "PSA (prostate specific antigen)", "category": "labs"},
-    "81001": {"label": "Urinalysis with microscopy", "category": "labs"},
-    "81002": {"label": "Urinalysis, without microscopy", "category": "labs"},
-    "87086": {"label": "Urine culture", "category": "labs"},
-    "93000": {"label": "EKG with interpretation", "category": "tests"},
-    "95810": {"label": "Sleep study (polysomnography)", "category": "tests"},
-    "99213": {"label": "Office visit, established patient (level 3)", "category": "visits"},
-    "99214": {"label": "Office visit, established patient (level 4)", "category": "visits"},
-    "99203": {"label": "Office visit, new patient (level 3)", "category": "visits"},
-    "99204": {"label": "Office visit, new patient (level 4)", "category": "visits"},
-    "99283": {"label": "ER visit, moderate severity", "category": "visits"},
-    "99284": {"label": "ER visit, high severity", "category": "visits"},
-    "99285": {"label": "ER visit, critical severity", "category": "visits"},
-    "45378": {"label": "Colonoscopy, diagnostic", "category": "procedures"},
-    "45385": {"label": "Colonoscopy with polyp removal", "category": "procedures"},
-    "43239": {"label": "Upper endoscopy (EGD) with biopsy", "category": "procedures"},
-    "66984": {"label": "Cataract surgery with lens implant", "category": "procedures"},
-    "27447": {"label": "Total knee replacement", "category": "procedures"},
-    "27130": {"label": "Total hip replacement", "category": "procedures"},
-    "29881": {"label": "Knee arthroscopy with meniscectomy", "category": "procedures"},
-    "29848": {"label": "Carpal tunnel release (endoscopic)", "category": "procedures"},
-    "47562": {"label": "Gallbladder removal (laparoscopic)", "category": "procedures"},
-    "49505": {"label": "Inguinal hernia repair, open", "category": "procedures"},
-    "30520": {"label": "Septoplasty (deviated septum repair)", "category": "procedures"},
-    "58150": {"label": "Total abdominal hysterectomy", "category": "procedures"},
-    "52353": {"label": "Ureteroscopy with stone removal", "category": "procedures"},
-    "55700": {"label": "Prostate biopsy", "category": "procedures"},
-    "64483": {"label": "Lumbar epidural steroid injection", "category": "procedures"},
-    "59400": {"label": "Vaginal delivery (routine OB care)", "category": "procedures"},
-    "59510": {"label": "Cesarean delivery (routine OB care)", "category": "procedures"},
-    "90834": {"label": "Psychotherapy, 45 minutes", "category": "visits"}
+    "70551": {
+      "label": "Brain MRI without contrast",
+      "category": "imaging"
+    },
+    "70553": {
+      "label": "Brain MRI with and without contrast",
+      "category": "imaging"
+    },
+    "72141": {
+      "label": "Neck (cervical) MRI without contrast",
+      "category": "imaging"
+    },
+    "72148": {
+      "label": "Lower back (lumbar) MRI without contrast",
+      "category": "imaging"
+    },
+    "73221": {
+      "label": "Shoulder MRI without contrast",
+      "category": "imaging"
+    },
+    "73721": {
+      "label": "Knee MRI without contrast",
+      "category": "imaging"
+    },
+    "70450": {
+      "label": "Head CT without contrast",
+      "category": "imaging"
+    },
+    "74176": {
+      "label": "CT abdomen and pelvis without contrast",
+      "category": "imaging"
+    },
+    "74177": {
+      "label": "CT abdomen and pelvis with contrast",
+      "category": "imaging"
+    },
+    "71045": {
+      "label": "Chest X-ray, single view",
+      "category": "imaging"
+    },
+    "71046": {
+      "label": "Chest X-ray, 2 views",
+      "category": "imaging"
+    },
+    "76700": {
+      "label": "Abdominal ultrasound, complete",
+      "category": "imaging"
+    },
+    "76536": {
+      "label": "Thyroid ultrasound",
+      "category": "imaging"
+    },
+    "77067": {
+      "label": "Screening mammogram (both breasts)",
+      "category": "imaging"
+    },
+    "77080": {
+      "label": "DXA bone density scan",
+      "category": "imaging"
+    },
+    "93880": {
+      "label": "Carotid duplex ultrasound",
+      "category": "imaging"
+    },
+    "93306": {
+      "label": "Echocardiogram with Doppler, complete",
+      "category": "imaging"
+    },
+    "80053": {
+      "label": "Comprehensive metabolic panel (CMP)",
+      "category": "labs"
+    },
+    "80048": {
+      "label": "Basic metabolic panel (BMP)",
+      "category": "labs"
+    },
+    "85025": {
+      "label": "Complete blood count (CBC) with differential",
+      "category": "labs"
+    },
+    "80061": {
+      "label": "Lipid panel (cholesterol)",
+      "category": "labs"
+    },
+    "84443": {
+      "label": "TSH (thyroid stimulating hormone)",
+      "category": "labs"
+    },
+    "83036": {
+      "label": "Hemoglobin A1c",
+      "category": "labs"
+    },
+    "82306": {
+      "label": "Vitamin D, 25-hydroxy",
+      "category": "labs"
+    },
+    "84153": {
+      "label": "PSA (prostate specific antigen)",
+      "category": "labs"
+    },
+    "81001": {
+      "label": "Urinalysis with microscopy",
+      "category": "labs"
+    },
+    "81002": {
+      "label": "Urinalysis, without microscopy",
+      "category": "labs"
+    },
+    "87086": {
+      "label": "Urine culture",
+      "category": "labs"
+    },
+    "93000": {
+      "label": "EKG with interpretation",
+      "category": "tests"
+    },
+    "95810": {
+      "label": "Sleep study (polysomnography)",
+      "category": "tests"
+    },
+    "99213": {
+      "label": "Office visit, established patient (level 3)",
+      "category": "visits"
+    },
+    "99214": {
+      "label": "Office visit, established patient (level 4)",
+      "category": "visits"
+    },
+    "99203": {
+      "label": "Office visit, new patient (level 3)",
+      "category": "visits"
+    },
+    "99204": {
+      "label": "Office visit, new patient (level 4)",
+      "category": "visits"
+    },
+    "99283": {
+      "label": "ER visit, moderate severity",
+      "category": "visits"
+    },
+    "99284": {
+      "label": "ER visit, high severity",
+      "category": "visits"
+    },
+    "99285": {
+      "label": "ER visit, critical severity",
+      "category": "visits"
+    },
+    "45378": {
+      "label": "Colonoscopy, diagnostic",
+      "category": "procedures"
+    },
+    "45385": {
+      "label": "Colonoscopy with polyp removal",
+      "category": "procedures"
+    },
+    "43239": {
+      "label": "Upper endoscopy (EGD) with biopsy",
+      "category": "procedures"
+    },
+    "66984": {
+      "label": "Cataract surgery with lens implant",
+      "category": "procedures"
+    },
+    "27447": {
+      "label": "Total knee replacement",
+      "category": "procedures"
+    },
+    "27130": {
+      "label": "Total hip replacement",
+      "category": "procedures"
+    },
+    "29881": {
+      "label": "Knee arthroscopy with meniscectomy",
+      "category": "procedures"
+    },
+    "29848": {
+      "label": "Carpal tunnel release (endoscopic)",
+      "category": "procedures"
+    },
+    "47562": {
+      "label": "Gallbladder removal (laparoscopic)",
+      "category": "procedures"
+    },
+    "49505": {
+      "label": "Inguinal hernia repair, open",
+      "category": "procedures"
+    },
+    "30520": {
+      "label": "Septoplasty (deviated septum repair)",
+      "category": "procedures"
+    },
+    "58150": {
+      "label": "Total abdominal hysterectomy",
+      "category": "procedures"
+    },
+    "52353": {
+      "label": "Ureteroscopy with stone removal",
+      "category": "procedures"
+    },
+    "55700": {
+      "label": "Prostate biopsy",
+      "category": "procedures"
+    },
+    "64483": {
+      "label": "Lumbar epidural steroid injection",
+      "category": "procedures"
+    },
+    "59400": {
+      "label": "Vaginal delivery (routine OB care)",
+      "category": "procedures"
+    },
+    "59510": {
+      "label": "Cesarean delivery (routine OB care)",
+      "category": "procedures"
+    },
+    "90834": {
+      "label": "Psychotherapy, 45 minutes",
+      "category": "visits"
+    },
+    "70544": {
+      "label": "MR angiography head without contrast",
+      "category": "imaging"
+    },
+    "70552": {
+      "label": "Brain MRI with contrast",
+      "category": "imaging"
+    },
+    "72156": {
+      "label": "Cervical spine MRI without and with contrast",
+      "category": "imaging"
+    },
+    "72158": {
+      "label": "Lumbar spine MRI without and with contrast",
+      "category": "imaging"
+    },
+    "72146": {
+      "label": "Thoracic spine MRI without contrast",
+      "category": "imaging"
+    },
+    "72149": {
+      "label": "Lumbar spine MRI with contrast",
+      "category": "imaging"
+    },
+    "73218": {
+      "label": "Upper extremity MRI (not joint) without contrast",
+      "category": "imaging"
+    },
+    "73718": {
+      "label": "Lower extremity MRI (not joint) without contrast",
+      "category": "imaging"
+    },
+    "73722": {
+      "label": "Knee MRI with contrast",
+      "category": "imaging"
+    },
+    "73222": {
+      "label": "Shoulder MRI with contrast",
+      "category": "imaging"
+    },
+    "73723": {
+      "label": "Knee MRI without and with contrast",
+      "category": "imaging"
+    },
+    "71250": {
+      "label": "Chest CT without contrast",
+      "category": "imaging"
+    },
+    "71260": {
+      "label": "Chest CT with contrast",
+      "category": "imaging"
+    },
+    "71275": {
+      "label": "CT angiography chest",
+      "category": "imaging"
+    },
+    "72125": {
+      "label": "Cervical spine CT without contrast",
+      "category": "imaging"
+    },
+    "72131": {
+      "label": "Lumbar spine CT without contrast",
+      "category": "imaging"
+    },
+    "74150": {
+      "label": "Abdomen CT without contrast",
+      "category": "imaging"
+    },
+    "74160": {
+      "label": "Abdomen CT with contrast",
+      "category": "imaging"
+    },
+    "70486": {
+      "label": "Face/sinus CT without contrast",
+      "category": "imaging"
+    },
+    "70491": {
+      "label": "Soft tissue neck CT with contrast",
+      "category": "imaging"
+    },
+    "70460": {
+      "label": "Head CT with contrast",
+      "category": "imaging"
+    },
+    "73700": {
+      "label": "Lower extremity CT without contrast",
+      "category": "imaging"
+    },
+    "77066": {
+      "label": "Diagnostic mammography, bilateral",
+      "category": "imaging"
+    },
+    "77065": {
+      "label": "Diagnostic mammography, unilateral",
+      "category": "imaging"
+    },
+    "77063": {
+      "label": "Screening breast tomosynthesis",
+      "category": "imaging"
+    },
+    "76805": {
+      "label": "Obstetric ultrasound, complete",
+      "category": "imaging"
+    },
+    "76856": {
+      "label": "Pelvic ultrasound, complete",
+      "category": "imaging"
+    },
+    "76830": {
+      "label": "Transvaginal ultrasound",
+      "category": "imaging"
+    },
+    "76775": {
+      "label": "Retroperitoneal/renal ultrasound, limited",
+      "category": "imaging"
+    },
+    "76642": {
+      "label": "Breast ultrasound, limited",
+      "category": "imaging"
+    },
+    "78452": {
+      "label": "Myocardial perfusion imaging, SPECT",
+      "category": "imaging"
+    },
+    "78815": {
+      "label": "PET with CT, skull base to mid-thigh",
+      "category": "imaging"
+    },
+    "93015": {
+      "label": "Cardiovascular stress test, complete",
+      "category": "cardiology"
+    },
+    "93303": {
+      "label": "Transthoracic echo, congenital",
+      "category": "cardiology"
+    },
+    "93971": {
+      "label": "Venous duplex, extremity, unilateral limited",
+      "category": "imaging"
+    },
+    "93970": {
+      "label": "Venous duplex, extremity, bilateral complete",
+      "category": "imaging"
+    },
+    "93978": {
+      "label": "Aortic/iliac duplex, complete",
+      "category": "imaging"
+    },
+    "80074": {
+      "label": "Acute hepatitis panel",
+      "category": "lab"
+    },
+    "80069": {
+      "label": "Renal function panel",
+      "category": "lab"
+    },
+    "80076": {
+      "label": "Hepatic function panel",
+      "category": "lab"
+    },
+    "82565": {
+      "label": "Creatinine, blood",
+      "category": "lab"
+    },
+    "82947": {
+      "label": "Glucose, quantitative",
+      "category": "lab"
+    },
+    "83718": {
+      "label": "HDL cholesterol",
+      "category": "lab"
+    },
+    "84478": {
+      "label": "Triglycerides",
+      "category": "lab"
+    },
+    "84439": {
+      "label": "Free thyroxine (T4)",
+      "category": "lab"
+    },
+    "84520": {
+      "label": "Urea nitrogen (BUN)",
+      "category": "lab"
+    },
+    "85027": {
+      "label": "Complete blood count, automated",
+      "category": "lab"
+    },
+    "85610": {
+      "label": "Prothrombin time",
+      "category": "lab"
+    },
+    "86140": {
+      "label": "C-reactive protein",
+      "category": "lab"
+    },
+    "86580": {
+      "label": "Tuberculosis skin test",
+      "category": "lab"
+    },
+    "87491": {
+      "label": "Chlamydia, amplified probe",
+      "category": "lab"
+    },
+    "87591": {
+      "label": "Gonorrhea, amplified probe",
+      "category": "lab"
+    },
+    "87804": {
+      "label": "Influenza assay, rapid",
+      "category": "lab"
+    },
+    "87635": {
+      "label": "SARS-CoV-2 amplified probe",
+      "category": "lab"
+    },
+    "83735": {
+      "label": "Magnesium",
+      "category": "lab"
+    },
+    "82607": {
+      "label": "Vitamin B-12",
+      "category": "lab"
+    },
+    "82728": {
+      "label": "Ferritin",
+      "category": "lab"
+    },
+    "84100": {
+      "label": "Phosphorus",
+      "category": "lab"
+    },
+    "84132": {
+      "label": "Potassium, serum",
+      "category": "lab"
+    },
+    "84295": {
+      "label": "Sodium, serum",
+      "category": "lab"
+    },
+    "82310": {
+      "label": "Calcium, total",
+      "category": "lab"
+    },
+    "84550": {
+      "label": "Uric acid, blood",
+      "category": "lab"
+    },
+    "85652": {
+      "label": "ESR, automated",
+      "category": "lab"
+    },
+    "36415": {
+      "label": "Venipuncture",
+      "category": "lab"
+    },
+    "99281": {
+      "label": "Emergency visit, level 1",
+      "category": "visit"
+    },
+    "99282": {
+      "label": "Emergency visit, level 2",
+      "category": "visit"
+    },
+    "99202": {
+      "label": "New patient office visit, level 2",
+      "category": "visit"
+    },
+    "99205": {
+      "label": "New patient office visit, level 5",
+      "category": "visit"
+    },
+    "99212": {
+      "label": "Established patient visit, level 2",
+      "category": "visit"
+    },
+    "99215": {
+      "label": "Established patient visit, level 5",
+      "category": "visit"
+    },
+    "99385": {
+      "label": "Preventive visit, new, 18-39",
+      "category": "visit"
+    },
+    "99395": {
+      "label": "Preventive visit, established, 18-39",
+      "category": "visit"
+    },
+    "99232": {
+      "label": "Subsequent hospital care, level 2",
+      "category": "visit"
+    },
+    "99223": {
+      "label": "Initial hospital care, level 3",
+      "category": "visit"
+    },
+    "90837": {
+      "label": "Psychotherapy, 60 minutes",
+      "category": "behavioral"
+    },
+    "90791": {
+      "label": "Psychiatric diagnostic evaluation",
+      "category": "behavioral"
+    },
+    "97110": {
+      "label": "Therapeutic exercise, 15 min",
+      "category": "therapy"
+    },
+    "97161": {
+      "label": "Physical therapy evaluation, low complexity",
+      "category": "therapy"
+    },
+    "97530": {
+      "label": "Therapeutic activities, 15 min",
+      "category": "therapy"
+    },
+    "45380": {
+      "label": "Colonoscopy with biopsy",
+      "category": "procedure"
+    },
+    "45384": {
+      "label": "Colonoscopy, polyp removal by hot biopsy",
+      "category": "procedure"
+    },
+    "43235": {
+      "label": "Upper GI endoscopy, diagnostic",
+      "category": "procedure"
+    },
+    "43249": {
+      "label": "Upper GI endoscopy with balloon dilation",
+      "category": "procedure"
+    },
+    "19083": {
+      "label": "Breast biopsy with imaging guidance, first lesion",
+      "category": "procedure"
+    },
+    "20610": {
+      "label": "Joint aspiration/injection, major joint",
+      "category": "procedure"
+    },
+    "62323": {
+      "label": "Lumbar epidural injection with imaging",
+      "category": "procedure"
+    },
+    "64721": {
+      "label": "Carpal tunnel release",
+      "category": "procedure"
+    },
+    "29827": {
+      "label": "Shoulder arthroscopy, rotator cuff repair",
+      "category": "procedure"
+    },
+    "42820": {
+      "label": "Tonsillectomy under age 12",
+      "category": "procedure"
+    },
+    "69436": {
+      "label": "Tympanostomy tube insertion, general anesthesia",
+      "category": "procedure"
+    },
+    "11042": {
+      "label": "Debridement, subcutaneous, first 20 sq cm",
+      "category": "procedure"
+    },
+    "12001": {
+      "label": "Simple wound repair, 2.5 cm or less",
+      "category": "procedure"
+    },
+    "59025": {
+      "label": "Fetal non-stress test",
+      "category": "obstetric"
+    },
+    "59410": {
+      "label": "Vaginal delivery with postpartum care",
+      "category": "obstetric"
+    },
+    "59515": {
+      "label": "Cesarean delivery with postpartum care",
+      "category": "obstetric"
+    },
+    "88305": {
+      "label": "Surgical pathology, level IV",
+      "category": "pathology"
+    },
+    "88112": {
+      "label": "Cytopathology, selective cell enhancement",
+      "category": "pathology"
+    },
+    "88175": {
+      "label": "Cervical/vaginal cytology, automated",
+      "category": "pathology"
+    },
+    "92004": {
+      "label": "Comprehensive eye exam, new patient",
+      "category": "vision"
+    },
+    "92014": {
+      "label": "Comprehensive eye exam, established",
+      "category": "vision"
+    },
+    "92134": {
+      "label": "Ophthalmic imaging, retina OCT",
+      "category": "vision"
+    },
+    "92557": {
+      "label": "Comprehensive audiometry",
+      "category": "hearing"
+    },
+    "94010": {
+      "label": "Spirometry",
+      "category": "pulmonary"
+    },
+    "94640": {
+      "label": "Nebulizer treatment",
+      "category": "pulmonary"
+    },
+    "96372": {
+      "label": "Therapeutic injection",
+      "category": "procedure"
+    },
+    "96413": {
+      "label": "Chemotherapy IV infusion, first hour",
+      "category": "oncology"
+    },
+    "77385": {
+      "label": "IMRT delivery, simple",
+      "category": "oncology"
+    },
+    "77014": {
+      "label": "CT guidance for radiation field placement",
+      "category": "oncology"
+    },
+    "90471": {
+      "label": "Immunization administration",
+      "category": "vaccine"
+    },
+    "90686": {
+      "label": "Influenza vaccine, quadrivalent",
+      "category": "vaccine"
+    },
+    "G0439": {
+      "label": "Annual wellness visit, subsequent",
+      "category": "visit"
+    },
+    "G0121": {
+      "label": "Colon cancer screening, high risk colonoscopy",
+      "category": "procedure"
+    },
+    "E0601": {
+      "label": "CPAP device",
+      "category": "dme"
+    }
   }
 }
