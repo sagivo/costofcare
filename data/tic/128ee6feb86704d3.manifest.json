@@ -1,0 +1,635 @@
+{
+  "source_url": "https://transparency-in-coverage.uhc.com/api/v1/uhc/blobs/download/2026-10-01/2026-10-01_HealthSCOPE-Benefits--Inc-_Third-Party-Administrator_DECATUR-COUNTY_2HDC_in-network-rates.json.gz",
+  "locator_name": "2026-10-01_HealthSCOPE-Benefits--Inc-_Third-Party-Administrator_DECATUR-COUNTY_2HDC_in-network-rates.json.gz",
+  "locator_bytes": 56908,
+  "rows": 0,
+  "complete_file_scan": true,
+  "code_filter": [
+    "11042",
+    "12001",
+    "19083",
+    "20610",
+    "27130",
+    "27447",
+    "29827",
+    "29848",
+    "29881",
+    "30520",
+    "36415",
+    "42820",
+    "43235",
+    "43239",
+    "43249",
+    "45378",
+    "45380",
+    "45384",
+    "45385",
+    "47562",
+    "49505",
+    "52353",
+    "55700",
+    "58150",
+    "59025",
+    "59400",
+    "59410",
+    "59510",
+    "59515",
+    "62323",
+    "64483",
+    "64721",
+    "66984",
+    "69436",
+    "70450",
+    "70460",
+    "70486",
+    "70491",
+    "70544",
+    "70551",
+    "70552",
+    "70553",
+    "71045",
+    "71046",
+    "71250",
+    "71260",
+    "71275",
+    "72125",
+    "72131",
+    "72141",
+    "72146",
+    "72148",
+    "72149",
+    "72156",
+    "72158",
+    "73218",
+    "73221",
+    "73222",
+    "73700",
+    "73718",
+    "73721",
+    "73722",
+    "73723",
+    "74150",
+    "74160",
+    "74176",
+    "74177",
+    "76536",
+    "76642",
+    "76700",
+    "76775",
+    "76805",
+    "76830",
+    "76856",
+    "77014",
+    "77063",
+    "77065",
+    "77066",
+    "77067",
+    "77080",
+    "77385",
+    "78452",
+    "78815",
+    "80048",
+    "80053",
+    "80061",
+    "80069",
+    "80074",
+    "80076",
+    "81001",
+    "81002",
+    "82306",
+    "82310",
+    "82565",
+    "82607",
+    "82728",
+    "82947",
+    "83036",
+    "83718",
+    "83735",
+    "84100",
+    "84132",
+    "84153",
+    "84295",
+    "84439",
+    "84443",
+    "84478",
+    "84520",
+    "84550",
+    "85025",
+    "85027",
+    "85610",
+    "85652",
+    "86140",
+    "86580",
+    "87086",
+    "87491",
+    "87591",
+    "87635",
+    "87804",
+    "88112",
+    "88175",
+    "88305",
+    "90471",
+    "90686",
+    "90791",
+    "90834",
+    "90837",
+    "92004",
+    "92014",
+    "92134",
+    "92557",
+    "93000",
+    "93015",
+    "93303",
+    "93306",
+    "93880",
+    "93970",
+    "93971",
+    "93978",
+    "94010",
+    "94640",
+    "95810",
+    "96372",
+    "96413",
+    "97110",
+    "97161",
+    "97530",
+    "99202",
+    "99203",
+    "99204",
+    "99205",
+    "99212",
+    "99213",
+    "99214",
+    "99215",
+    "99223",
+    "99232",
+    "99281",
+    "99282",
+    "99283",
+    "99284",
+    "99285",
+    "99385",
+    "99395",
+    "E0601",
+    "G0121",
+    "G0439"
+  ],
+  "extracted_at": "2026-10-23T02:17:55Z",
+  "layer": "insurer-tic-in-network",
+  "patient_price_ready": false,
+  "caveats": [
+    "Provider references unresolved; no verified provider-directory join.",
+    "Plan identity from the locator file name only.",
+    "Capitation/bundle rows carry their negotiation_arrangement qualifier and are not per-service prices.",
+    "Truncated outputs are marked incomplete."
+  ],
+  "provider_references": [
+    {
+      "provider_group_count": 2,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "630738816"
+        },
+        {
+          "type": "ein",
+          "value": "593050876"
+        }
+      ],
+      "npi_count": 7
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "842020956"
+        }
+      ],
+      "npi_count": 26
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "582082439"
+        }
+      ],
+      "npi_count": 15
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "593756207"
+        }
+      ],
+      "npi_count": 8
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591268204"
+        }
+      ],
+      "npi_count": 91
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "581734618"
+        }
+      ],
+      "npi_count": 2
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "320575162"
+        }
+      ],
+      "npi_count": 6
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "592524839"
+        }
+      ],
+      "npi_count": 76
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "260699049"
+        }
+      ],
+      "npi_count": 5
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591917016"
+        }
+      ],
+      "npi_count": 104
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "464227785"
+        }
+      ],
+      "npi_count": 27
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "843799702"
+        }
+      ],
+      "npi_count": 5
+    },
+    {
+      "provider_group_count": 2,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591917016"
+        },
+        {
+          "type": "ein",
+          "value": "586010601"
+        }
+      ],
+      "npi_count": 716
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "200537780"
+        }
+      ],
+      "npi_count": 1
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591286000"
+        }
+      ],
+      "npi_count": 60
+    },
+    {
+      "provider_group_count": 19,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "208031441"
+        },
+        {
+          "type": "ein",
+          "value": "586011888"
+        },
+        {
+          "type": "ein",
+          "value": "550815377"
+        },
+        {
+          "type": "ein",
+          "value": "580705892"
+        },
+        {
+          "type": "ein",
+          "value": "581760458"
+        },
+        {
+          "type": "ein",
+          "value": "469694946"
+        },
+        {
+          "type": "ein",
+          "value": "462964946"
+        },
+        {
+          "type": "ein",
+          "value": "455252082"
+        },
+        {
+          "type": "ein",
+          "value": "472221436"
+        },
+        {
+          "type": "ein",
+          "value": "461439212"
+        },
+        {
+          "type": "ein",
+          "value": "472478680"
+        },
+        {
+          "type": "ein",
+          "value": "273842907"
+        },
+        {
+          "type": "ein",
+          "value": "472503442"
+        },
+        {
+          "type": "ein",
+          "value": "582246493"
+        },
+        {
+          "type": "ein",
+          "value": "259808526"
+        },
+        {
+          "type": "ein",
+          "value": "582030692"
+        },
+        {
+          "type": "ein",
+          "value": "582031441"
+        },
+        {
+          "type": "ein",
+          "value": "259088526"
+        },
+        {
+          "type": "ein",
+          "value": "581534607"
+        }
+      ],
+      "npi_count": 8658
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "204477374"
+        }
+      ],
+      "npi_count": 3
+    },
+    {
+      "provider_group_count": 2,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591917016"
+        },
+        {
+          "type": "ein",
+          "value": "591641854"
+        }
+      ],
+      "npi_count": 29
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "201379958"
+        }
+      ],
+      "npi_count": 1
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "993867988"
+        }
+      ],
+      "npi_count": 1
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591917016"
+        }
+      ],
+      "npi_count": 1
+    },
+    {
+      "provider_group_count": 2,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "923354171"
+        },
+        {
+          "type": "ein",
+          "value": "203616217"
+        }
+      ],
+      "npi_count": 7
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "853818657"
+        }
+      ],
+      "npi_count": 41
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "161624007"
+        }
+      ],
+      "npi_count": 9
+    },
+    {
+      "provider_group_count": 2,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "586010601"
+        },
+        {
+          "type": "ein",
+          "value": "932258214"
+        }
+      ],
+      "npi_count": 75
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "200870135"
+        }
+      ],
+      "npi_count": 6
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591778575"
+        }
+      ],
+      "npi_count": 7
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "592601294"
+        }
+      ],
+      "npi_count": 44
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "593598056"
+        }
+      ],
+      "npi_count": 623
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "581434519"
+        }
+      ],
+      "npi_count": 8
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "593120987"
+        }
+      ],
+      "npi_count": 17
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "591917016"
+        }
+      ],
+      "npi_count": 21
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "593050876"
+        }
+      ],
+      "npi_count": 1
+    },
+    {
+      "provider_group_count": 1,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "474761522"
+        }
+      ],
+      "npi_count": 1
+    },
+    {
+      "provider_group_count": 2,
+      "tins": [
+        {
+          "type": "ein",
+          "value": "994500581"
+        },
+        {
+          "type": "ein",
+          "value": "872322593"
+        }
+      ],
+      "npi_count": 6
+    }
+  ],
+  "provider_reference_read": "ok"
+}
