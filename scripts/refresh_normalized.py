@@ -9,7 +9,7 @@ import argparse,datetime,glob,json,os,subprocess,sys,tempfile,time,urllib.parse
 from concurrent.futures import ThreadPoolExecutor,as_completed
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def main():
- p=argparse.ArgumentParser();p.add_argument('--limit',type=int,default=40);p.add_argument('--workers',type=int,default=3);p.add_argument('--max-mb',type=int,default=700);p.add_argument('--only-unattempted',action='store_true');p.add_argument('--retry-failed',action='store_true');p.add_argument('--source-timeout',type=int,default=240);a=p.parse_args()
+ p=argparse.ArgumentParser();p.add_argument('--limit',type=int,default=120);p.add_argument('--workers',type=int,default=3);p.add_argument('--max-mb',type=int,default=700);p.add_argument('--only-unattempted',action='store_true');p.add_argument('--retry-failed',action='store_true');p.add_argument('--source-timeout',type=int,default=240);a=p.parse_args()
  holds={r['hostname'] for r in json.load(open(ROOT+'/data/source-holds.json'))['holds']}
  candidates=[];seen=set()
  for f in glob.glob(ROOT+'/data/hospitals/*.json'):

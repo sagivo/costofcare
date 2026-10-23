@@ -2,11 +2,12 @@ name: Daily row-preserving primary extraction
 on:
   schedule:
     - cron: '31 10 * * *'
+    - cron: '31 22 * * *'
   workflow_dispatch:
     inputs:
       limit:
         description: Primary files in this bounded tranche
-        default: '40'
+        default: '120'
         required: true
       only_unattempted:
         description: Skip files already attempted
@@ -36,7 +37,7 @@ jobs:
           python-version: '3.12'
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/test_normalized.py
-      - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '40' }}" ${{ github.event.inputs.only_unattempted == 'true' && '--only-unattempted' || '' }} ${{ github.event.inputs.retry_failed == 'true' && '--retry-failed' || '' }} --source-timeout "${{ github.event.inputs.source_timeout || '240' }}"
+      - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '120' }}" ${{ github.event.inputs.only_unattempted == 'true' && '--only-unattempted' || '' }} ${{ github.event.inputs.retry_failed == 'true' && '--retry-failed' || '' }} --source-timeout "${{ github.event.inputs.source_timeout || '240' }}"
       - run: python scripts/validate_normalized.py
       - uses: actions/checkout@v4
         with:
