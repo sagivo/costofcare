@@ -13,6 +13,7 @@ import argparse
 import hashlib
 import json
 import os
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -186,9 +187,20 @@ def main() -> int:
             print(f"ERROR {path.name}: {err}")
             continue
 
-        upload = run_gh([
-            "release", "upload", tag, f"{path}#{asset_name}", "--repo", args.repo,
-        ])
+        with tempfile.TemporaryDirectory(prefix="release_publish_upload_") as stage_dir:
+            staged = Path(stage_dir) / asset_name
+            try:
+                try:
+                    os.link(path, staged)
+                except OSError:
+                    shutil.copyfile(path, staged)
+            except OSError as exc:
+                counts["errors"] += 1
+                print(f"ERROR {path.name}: cannot stage upload file: {exc}")
+                continue
+            upload = run_gh([
+                "release", "upload", tag, str(staged), "--repo", args.repo,
+            ])
         uploaded = False
         if upload.returncode == 0:
             uploaded = True
