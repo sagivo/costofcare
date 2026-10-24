@@ -36,6 +36,7 @@ jobs:
           python-version: '3.12'
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/tic_refresh.py --limit "${{ github.event.inputs.limit || '20' }}" --min-bytes "${{ github.event.inputs.min_bytes || '50000' }}" --max-bytes "${{ github.event.inputs.max_bytes || '5000000' }}" --source-timeout "${{ github.event.inputs.source_timeout || '120' }}"
+      - run: python scripts/tic_provider_lookup.py --cap 100
       - uses: actions/checkout@v4
         with:
           path: publication
