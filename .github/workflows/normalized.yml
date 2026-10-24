@@ -39,6 +39,9 @@ jobs:
       - run: python scripts/test_normalized.py
       - run: python scripts/refresh_normalized.py --limit "${{ github.event.inputs.limit || '120' }}" ${{ github.event.inputs.only_unattempted == 'true' && '--only-unattempted' || '' }} ${{ github.event.inputs.retry_failed == 'true' && '--retry-failed' || '' }} --source-timeout "${{ github.event.inputs.source_timeout || '240' }}"
       - run: python scripts/validate_normalized.py
+      - run: python scripts/release_publish.py --data-dir data/normalized --release-prefix data-norm --limit 260
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/checkout@v4
         with:
           path: publication

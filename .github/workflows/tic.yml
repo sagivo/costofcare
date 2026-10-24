@@ -37,6 +37,9 @@ jobs:
       - run: pip install -r scripts/requirements.txt
       - run: python scripts/tic_refresh.py --limit "${{ github.event.inputs.limit || '20' }}" --min-bytes "${{ github.event.inputs.min_bytes || '50000' }}" --max-bytes "${{ github.event.inputs.max_bytes || '5000000' }}" --source-timeout "${{ github.event.inputs.source_timeout || '120' }}"
       - run: python scripts/tic_provider_lookup.py --cap 100
+      - run: python scripts/release_publish.py --data-dir data/tic --release-prefix data-tic --limit 50
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/checkout@v4
         with:
           path: publication
@@ -47,10 +50,11 @@ jobs:
           cp -a data/tic publication/data/ 2>/dev/null || true
           cp -a data/tic-attempts publication/data/ 2>/dev/null || true
           cp -a data/tic-providers publication/data/ 2>/dev/null || true
+          cp -a data/quality publication/data/ 2>/dev/null || true
           cd publication
           git config user.name 'CostOfCare TiC data'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/tic data/tic-attempts data/tic-providers
+          git add data/tic data/tic-attempts data/tic-providers data/quality
           git diff --cached --quiet && exit 0
           git commit -m 'data: insurer TiC in-network bounded tranche'
           git push origin HEAD:main
