@@ -1,0 +1,25 @@
+{
+  "npi": "1386855948",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:19:44Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1386855948",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DWAYNE",
+      "last_name": "LEE",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "1219 CAMINO DEL MAR",
+        "city": "DEL MAR",
+        "state": "CA",
+        "postal_code": "920142505"
+      },
+      "last_updated": "2013-02-12"
+    }
+  ]
+}

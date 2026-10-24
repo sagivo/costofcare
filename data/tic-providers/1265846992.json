@@ -1,0 +1,25 @@
+{
+  "npi": "1265846992",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:18:33Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1265846992",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SHU CHEN",
+      "last_name": "CHEN",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "513 COBB CT",
+        "city": "LA PUENTE",
+        "state": "CA",
+        "postal_code": "917461967"
+      },
+      "last_updated": "2014-06-20"
+    }
+  ]
+}

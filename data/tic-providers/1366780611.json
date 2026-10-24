@@ -1,0 +1,25 @@
+{
+  "npi": "1366780611",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:19:31Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1366780611",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "WENDY",
+      "last_name": "WEIR",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "1417 BROWN ST",
+        "city": "EL PASO",
+        "state": "TX",
+        "postal_code": "799024752"
+      },
+      "last_updated": "2013-01-22"
+    }
+  ]
+}

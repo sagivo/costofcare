@@ -1,0 +1,25 @@
+{
+  "npi": "1194266056",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:17:59Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1194266056",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "LINGLING",
+      "last_name": "WANG",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "231 W 29TH ST RM 301",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100015551"
+      },
+      "last_updated": "2017-03-13"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1366886475",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:19:32Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1366886475",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "YVONNE",
+      "last_name": "SCHROEDER",
+      "primary_taxonomy": "Mechanotherapist",
+      "location": {
+        "address_1": "3939 NE HANCOCK ST",
+        "city": "PORTLAND",
+        "state": "OR",
+        "postal_code": "972125321"
+      },
+      "last_updated": "2013-04-18"
+    }
+  ]
+}

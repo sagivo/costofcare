@@ -1,0 +1,25 @@
+{
+  "npi": "1275045866",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:18:35Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1275045866",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KIMBERLY",
+      "last_name": "COVELLA",
+      "primary_taxonomy": "Massage Therapist",
+      "location": {
+        "address_1": "8827 N GOVERNMENT WAY UNIT 106",
+        "city": "HAYDEN",
+        "state": "ID",
+        "postal_code": "838358231"
+      },
+      "last_updated": "2021-03-28"
+    }
+  ]
+}

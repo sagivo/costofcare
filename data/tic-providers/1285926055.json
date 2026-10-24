@@ -1,0 +1,25 @@
+{
+  "npi": "1285926055",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:18:45Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1285926055",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CHUL",
+      "last_name": "LEE",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "4420 BRIGGS AVE.",
+        "city": "MONTROSE",
+        "state": "CA",
+        "postal_code": "91020"
+      },
+      "last_updated": "2011-05-11"
+    }
+  ]
+}

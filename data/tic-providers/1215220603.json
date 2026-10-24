@@ -1,0 +1,25 @@
+{
+  "npi": "1215220603",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:18:08Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1215220603",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ANGELA",
+      "last_name": "HUBER",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "12304 SANTA MONICA BLVD",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postal_code": "900252551"
+      },
+      "last_updated": "2012-10-08"
+    }
+  ]
+}

@@ -184,5 +184,12 @@
     "Truncated outputs are marked incomplete."
   ],
   "provider_references": [],
-  "provider_reference_read": "ok"
+  "provider_reference_read": "ok",
+  "release_asset": {
+    "release": "data-tic-51",
+    "asset_name": "5731e588bcff2755__518607d79d9aa64d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-tic-51/5731e588bcff2755__518607d79d9aa64d.jsonl.gz",
+    "asset_sha256": "518607d79d9aa64d1a3a32f2fecf433ef7bce4800f112b1f2980ef4dea2e5f05",
+    "published_at": "2026-10-24T20:20:48Z"
+  }
 }

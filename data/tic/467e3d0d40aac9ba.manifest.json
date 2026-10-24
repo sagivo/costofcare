@@ -16909,5 +16909,12 @@
       "npi_count": 13
     }
   ],
-  "provider_reference_read": "ok"
+  "provider_reference_read": "ok",
+  "release_asset": {
+    "release": "data-tic-b6",
+    "asset_name": "467e3d0d40aac9ba__b6a3e6eda9047e58.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-tic-b6/467e3d0d40aac9ba__b6a3e6eda9047e58.jsonl.gz",
+    "asset_sha256": "b6a3e6eda9047e58dc20764a84e874b3dcf16977f6a5a95d77fc736f3275d017",
+    "published_at": "2026-10-24T20:20:33Z"
+  }
 }

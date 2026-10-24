@@ -1,0 +1,25 @@
+{
+  "npi": "1356596613",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:19:22Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1356596613",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SUNG SOOK",
+      "last_name": "SEO",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "1134 S WESTERN AVE STE B2",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postal_code": "900062347"
+      },
+      "last_updated": "2008-11-28"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1316183122",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:19:03Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1316183122",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BON SEONG",
+      "last_name": "KU",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "14764 BEACH BLVD",
+        "city": "LA MIRADA",
+        "state": "CA",
+        "postal_code": "906384250"
+      },
+      "last_updated": "2018-04-26"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1255585147",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:18:29Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1255585147",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DEBRA",
+      "last_name": "SIMMONS",
+      "primary_taxonomy": "Mechanotherapist",
+      "location": {
+        "address_1": "122 N ARGONNE RD",
+        "city": "SPOKANE VALLEY",
+        "state": "WA",
+        "postal_code": "992122550"
+      },
+      "last_updated": "2008-11-05"
+    }
+  ]
+}

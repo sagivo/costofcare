@@ -1,0 +1,25 @@
+{
+  "npi": "1306026448",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:18:55Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1306026448",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JENNIFER",
+      "last_name": "MLNARIK",
+      "primary_taxonomy": "Naturopath",
+      "location": {
+        "address_1": "9880 SW BEAVERTON HILLSDALE HWY STE 202",
+        "city": "BEAVERTON",
+        "state": "OR",
+        "postal_code": "970053367"
+      },
+      "last_updated": "2013-02-15"
+    }
+  ]
+}
