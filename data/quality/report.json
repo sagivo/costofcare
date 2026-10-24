@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-23T17:58:44.975032+00:00",
+  "generated_at": "2026-10-24T01:14:53.055113+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2747,
     "distinct_successful_mrf_urls": 2747,
-    "extracted_within_24h": 2724,
+    "extracted_within_24h": 2713,
     "sources_over_365_days_old": 159,
     "source_date_unparseable": 132,
     "hospital_code_aggregates": 352577,
-    "row_preserving_records": 9621302
+    "row_preserving_records": 10097538
   },
   "status_counts": {
     "ok": 2754,
@@ -779,7 +779,7 @@
     {
       "id": "oria-aspirus_wausau_hospital-377d5",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
@@ -847,7 +847,7 @@
     {
       "id": "oria-hardtner_medical_center-3323a",
       "flag": "source_over_365_days_old",
-      "age_days": 659
+      "age_days": 660
     },
     {
       "id": "oria-cmh_ventura-d7aac",
@@ -1066,7 +1066,7 @@
     {
       "id": "oria-troy_regional_medical_center-789a0",
       "flag": "source_over_365_days_old",
-      "age_days": 661
+      "age_days": 662
     },
     {
       "id": "oria-marshfield_medical_center_eau_claire-c1241",
@@ -1232,7 +1232,7 @@
     {
       "id": "oria-unity_health_newport-0f331",
       "flag": "source_over_365_days_old",
-      "age_days": 601
+      "age_days": 602
     },
     {
       "id": "oria-southwest_arkansas_regional_medical_center-40ab2",
@@ -1738,7 +1738,7 @@
     {
       "id": "oria-florida_medical_center-5f2cd",
       "flag": "source_over_365_days_old",
-      "age_days": 610
+      "age_days": 611
     },
     {
       "id": "oria-florida_medical_center-5f2cd",
@@ -2086,7 +2086,7 @@
     {
       "id": "oria-broadlawns_clinics-206b4",
       "flag": "source_over_365_days_old",
-      "age_days": 548
+      "age_days": 549
     },
     {
       "id": "oria-mercyone_west_des_moines_medical_center-50f0b",
@@ -4011,7 +4011,7 @@
     {
       "id": "oria-carroll_county_memorial_hospital-f9906",
       "flag": "source_over_365_days_old",
-      "age_days": 838
+      "age_days": 839
     },
     {
       "id": "upmc-trinity-twin-city",
@@ -5945,7 +5945,7 @@
     {
       "id": "oria-columbus_springs_east-8414c",
       "flag": "source_over_365_days_old",
-      "age_days": 395
+      "age_days": 396
     },
     {
       "id": "scripps-memorial-hospital-encinitas",
@@ -5989,7 +5989,7 @@
     {
       "id": "oria-mosaic_medical_center_albany-62ca1",
       "flag": "source_over_365_days_old",
-      "age_days": 392
+      "age_days": 393
     },
     {
       "id": "oria-arkansas_valley_regional_medical_center-459ff",
@@ -7929,7 +7929,7 @@
     {
       "id": "oria-coffey_county_hospital-4e8c0",
       "flag": "source_over_365_days_old",
-      "age_days": 716
+      "age_days": 717
     },
     {
       "id": "oria-kearny_county_hospital-627e5",
@@ -8042,7 +8042,7 @@
     {
       "id": "oria-aspirus_langlade_hospital-45851",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oklahoma-children-s-hospital-ou-health",
@@ -8051,7 +8051,7 @@
     {
       "id": "oria-hills_and_dales_general_both-9a6d9",
       "flag": "source_over_365_days_old",
-      "age_days": 660
+      "age_days": 661
     },
     {
       "id": "oria-magnolia_regional_health_center-0083b",
@@ -16065,7 +16065,7 @@
     {
       "id": "morrow-county-hospital",
       "flag": "source_over_365_days_old",
-      "age_days": 366
+      "age_days": 367
     },
     {
       "id": "black-hills-surgical-hospital",
@@ -16095,7 +16095,7 @@
     {
       "id": "oria-dell_children_s_medical_center_ascension_seton-99408",
       "flag": "source_over_365_days_old",
-      "age_days": 858
+      "age_days": 859
     },
     {
       "id": "oria-childrens_hospital_at_mission-3f000",
@@ -16128,7 +16128,7 @@
     {
       "id": "oria-broadlawns_east_university_clinic-7259e",
       "flag": "source_over_365_days_old",
-      "age_days": 407
+      "age_days": 408
     },
     {
       "id": "oria-mercyone_cedar_falls_medical_center-aef43",
@@ -16602,7 +16602,7 @@
     {
       "id": "oria-bunkie_hospital-b9636",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-monterey_park_hospital-8faf5",
@@ -22502,7 +22502,7 @@
     {
       "id": "oria-mary_free_bed_rehabilitation_hospital-395d6",
       "flag": "source_over_365_days_old",
-      "age_days": 721
+      "age_days": 722
     },
     {
       "id": "oria-mary_free_bed_rehabilitation_hospital-395d6",
@@ -24404,7 +24404,7 @@
     {
       "id": "oria-camden_campus-8d41d",
       "flag": "source_over_365_days_old",
-      "age_days": 633
+      "age_days": 634
     },
     {
       "id": "new-ulm-medical-center",
@@ -24500,7 +24500,7 @@
     {
       "id": "oria-hialeah_hospital-4a51f",
       "flag": "source_over_365_days_old",
-      "age_days": 609
+      "age_days": 610
     },
     {
       "id": "oria-hialeah_hospital-4a51f",
@@ -24605,7 +24605,7 @@
     {
       "id": "oria-hocking_valley_community_hospital-9e119",
       "flag": "source_over_365_days_old",
-      "age_days": 714
+      "age_days": 715
     },
     {
       "id": "upmc-hamot",
@@ -24976,12 +24976,12 @@
     {
       "id": "oria-rainier_springs-1fdb5",
       "flag": "source_over_365_days_old",
-      "age_days": 396
+      "age_days": 397
     },
     {
       "id": "oria-aspirus_lake_view_hospital-3d04a",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-jefferson_memorial_hospital-5e717",
@@ -25210,12 +25210,12 @@
     {
       "id": "waldo-county-general-hospital",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "oria-haven_behavioral_hospital_of_west_chester-eddba",
       "flag": "source_over_365_days_old",
-      "age_days": 660
+      "age_days": 661
     },
     {
       "id": "oria-prisma_health_baptist_parkridge_hospital-4f8cc",
@@ -25367,7 +25367,7 @@
     {
       "id": "oria-stewart_memorial_community_hospital-c7e7d",
       "flag": "source_over_365_days_old",
-      "age_days": 745
+      "age_days": 746
     },
     {
       "id": "intermountain-health-primary-children-s-hospital",
@@ -28025,12 +28025,12 @@
     {
       "id": "oria-copper_springs_east-9b997",
       "flag": "source_over_365_days_old",
-      "age_days": 395
+      "age_days": 396
     },
     {
       "id": "oria-columbus_regional_healthcare_system-0c2e3",
       "flag": "source_over_365_days_old",
-      "age_days": 417
+      "age_days": 418
     },
     {
       "id": "oria-clay_county_memorial_hospital-abc9b",
@@ -29258,7 +29258,7 @@
     {
       "id": "oria-kansas_surgery_recovery_center_llc-6da79",
       "flag": "source_over_365_days_old",
-      "age_days": 577
+      "age_days": 578
     },
     {
       "id": "oria-chi_st_joseph_health_grimes_hospital-00389",
@@ -29340,17 +29340,17 @@
     {
       "id": "oria-changes_dublin_springs-65c1d",
       "flag": "source_over_365_days_old",
-      "age_days": 396
+      "age_days": 397
     },
     {
       "id": "oria-beckett_springs-4c5d7",
       "flag": "source_over_365_days_old",
-      "age_days": 393
+      "age_days": 394
     },
     {
       "id": "oria-changes_cottonwood_springs-d3a9a",
       "flag": "source_over_365_days_old",
-      "age_days": 393
+      "age_days": 394
     },
     {
       "id": "oria-medstar_union_memorial_hospital-c427b",
@@ -30743,7 +30743,7 @@
     {
       "id": "oria-miners_colfax_medical_center-2fd54",
       "flag": "source_over_365_days_old",
-      "age_days": 526
+      "age_days": 527
     },
     {
       "id": "oria-mercyone_north_iowa_medical_center-36774",
@@ -44496,7 +44496,7 @@
     {
       "id": "oria-unity_health_jacksonville-168a6",
       "flag": "source_over_365_days_old",
-      "age_days": 601
+      "age_days": 602
     },
     {
       "id": "oria-dmc_harper_university_hospital-2468a",
@@ -46209,7 +46209,7 @@
     {
       "id": "oria-boulder_city_hospital-b321d",
       "flag": "source_over_365_days_old",
-      "age_days": 388
+      "age_days": 389
     },
     {
       "id": "oria-carroll_county_memorial_hospital-8cd3c",
@@ -47861,7 +47861,7 @@
     {
       "id": "oria-northern_inyo_healthcare_district_hospital-1f816",
       "flag": "source_over_365_days_old",
-      "age_days": 752
+      "age_days": 753
     },
     {
       "id": "ochsner-abrom-kaplan-memorial-hospital",
@@ -48007,7 +48007,7 @@
     {
       "id": "oria-metro_nashville_general_hospital-d11c5",
       "flag": "source_over_365_days_old",
-      "age_days": 844
+      "age_days": 845
     },
     {
       "id": "oria-metro_nashville_general_hospital-d11c5",
@@ -52544,7 +52544,7 @@
     {
       "id": "oria-harris_health_lyndon_b_johnson_hospital-c7862",
       "flag": "source_over_365_days_old",
-      "age_days": 485
+      "age_days": 486
     },
     {
       "id": "oria-east_los_angeles_doctor_s_hospital-c512b",
@@ -53754,7 +53754,7 @@
     {
       "id": "oria-ehhs_milton_clinic-e0944",
       "flag": "source_over_365_days_old",
-      "age_days": 597
+      "age_days": 598
     },
     {
       "id": "intermountain-health-american-fork-hospital",
@@ -54046,7 +54046,7 @@
     {
       "id": "oria-benton_city_clinic_rhc-ea7d1",
       "flag": "source_over_365_days_old",
-      "age_days": 660
+      "age_days": 661
     },
     {
       "id": "oria-oklahoma_heart_hospital-6b1d9",
@@ -54683,7 +54683,7 @@
     {
       "id": "oria-rehabilitation_hospital_of_indana-d5127",
       "flag": "source_over_365_days_old",
-      "age_days": 689
+      "age_days": 690
     },
     {
       "id": "oria-rehabilitation_hospital_of_indana-d5127",
@@ -54961,7 +54961,7 @@
     {
       "id": "oria-west_suburban_medical_center-2a756",
       "flag": "source_over_365_days_old",
-      "age_days": 585
+      "age_days": 586
     },
     {
       "id": "oria-west_suburban_medical_center-2a756",
@@ -57508,7 +57508,7 @@
     {
       "id": "oria-crenshaw_community_hospital-56320",
       "flag": "source_over_365_days_old",
-      "age_days": 375
+      "age_days": 376
     },
     {
       "id": "wellspan-evangelical-community-hospital",
@@ -57735,7 +57735,7 @@
     {
       "id": "oria-changes_denver_springs-9196a",
       "flag": "source_over_365_days_old",
-      "age_days": 396
+      "age_days": 397
     },
     {
       "id": "oria-mishawaka_medical_center-9a01c",
@@ -62364,7 +62364,7 @@
     {
       "id": "oria-good_shepherd_rehabilitation_hospital-0f7de",
       "flag": "source_over_365_days_old",
-      "age_days": 637
+      "age_days": 638
     },
     {
       "id": "oria-anaheim_global_medical_center-2a27d",
@@ -62395,7 +62395,7 @@
     {
       "id": "oria-broadlawns_cityville_clinic-3336e",
       "flag": "source_over_365_days_old",
-      "age_days": 407
+      "age_days": 408
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -66807,7 +66807,7 @@
     {
       "id": "oria-north_shore_medical_center-ac85b",
       "flag": "source_over_365_days_old",
-      "age_days": 609
+      "age_days": 610
     },
     {
       "id": "oria-north_shore_medical_center-ac85b",
@@ -67148,7 +67148,7 @@
     {
       "id": "oria-summit_surgical-43420",
       "flag": "source_over_365_days_old",
-      "age_days": 451
+      "age_days": 452
     },
     {
       "id": "oria-summit_surgical-43420",
@@ -67319,7 +67319,7 @@
     {
       "id": "oria-aspirus_ironwood_hospital-68d5d",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-palmdale_regional_medical_center-a9598",
@@ -68349,7 +68349,7 @@
     {
       "id": "oria-powell_valley_healthcare_inc-4ac35",
       "flag": "source_over_365_days_old",
-      "age_days": 844
+      "age_days": 845
     },
     {
       "id": "oria-aurora_medical_center_burlington-0460b",
@@ -71632,7 +71632,7 @@
     {
       "id": "oria-wood_county_hospital-2ed13",
       "flag": "source_over_365_days_old",
-      "age_days": 845
+      "age_days": 846
     },
     {
       "id": "oria-saint_vincent_hospital-44cdc",
@@ -75841,7 +75841,7 @@
     {
       "id": "oria-mckenzie_health_system-2b66d",
       "flag": "source_over_365_days_old",
-      "age_days": 510
+      "age_days": 511
     },
     {
       "id": "oria-mckenzie_health_system-2b66d",
@@ -75970,7 +75970,7 @@
     {
       "id": "maine-medical-center-biddeford",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "upmc-st-margaret",
@@ -76623,7 +76623,7 @@
     {
       "id": "oria-aspirus_divine_savior_hospital-3f77f",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "sanford-thief-river-falls-medical-center",
@@ -76632,12 +76632,12 @@
     {
       "id": "mid-coast-hospital",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "oria-star_valley_health-0dc39",
       "flag": "source_over_365_days_old",
-      "age_days": 710
+      "age_days": 711
     },
     {
       "id": "intermountain-health-utah-valley-hospital",
@@ -78855,7 +78855,7 @@
     {
       "id": "oria-marlette_regional_hospital-05911",
       "flag": "source_over_365_days_old",
-      "age_days": 636
+      "age_days": 637
     },
     {
       "id": "oria-marlette_regional_hospital-05911",
@@ -79719,7 +79719,7 @@
     {
       "id": "oria-ottumwa_regional_health_center-52190",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-chi_st_joseph_health_madison_hospital-eaae0",
@@ -79808,7 +79808,7 @@
     {
       "id": "oria-driscoll_children_s_hospital-14e6c",
       "flag": "source_over_365_days_old",
-      "age_days": 382
+      "age_days": 383
     },
     {
       "id": "mercy-pediatrics-sikeston",
@@ -79817,7 +79817,7 @@
     {
       "id": "oria-louis_a_weiss_memorial_hospital-17a87",
       "flag": "source_over_365_days_old",
-      "age_days": 585
+      "age_days": 586
     },
     {
       "id": "oria-gadsden_regional_medical_center-f20ce",
@@ -80263,7 +80263,7 @@
     {
       "id": "oria-prisma_health_greer_memorial_hospital-16038",
       "flag": "source_over_365_days_old",
-      "age_days": 682
+      "age_days": 683
     },
     {
       "id": "oria-prisma_health_greer_memorial_hospital-16038",
@@ -81668,7 +81668,7 @@
     {
       "id": "oria-alexandria_iop-9ae1a",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "fox-chase-cancer-center",
@@ -82312,7 +82312,7 @@
     {
       "id": "oria-holyoke_medical_center-9cf49",
       "flag": "source_over_365_days_old",
-      "age_days": 639
+      "age_days": 640
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -82674,7 +82674,7 @@
     {
       "id": "oria-university_health_lakewood_medical_center-9b10d",
       "flag": "source_over_365_days_old",
-      "age_days": 690
+      "age_days": 691
     },
     {
       "id": "oria-st_marys_sacred_heart_hospital-12c44",
@@ -84256,7 +84256,7 @@
     {
       "id": "mainehealth-memorial-hospital",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "river-falls-area-hospital",
@@ -89067,7 +89067,7 @@
     {
       "id": "oria-hugh_chatham_memorial_hospital-9e516",
       "flag": "source_over_365_days_old",
-      "age_days": 660
+      "age_days": 661
     },
     {
       "id": "oria-hugh_chatham_memorial_hospital-9e516",
@@ -91452,7 +91452,7 @@
     {
       "id": "oria-adams_county_regional_medical_center-dfc89",
       "flag": "source_over_365_days_old",
-      "age_days": 667
+      "age_days": 668
     },
     {
       "id": "oria-adams_county_regional_medical_center-dfc89",
@@ -96926,7 +96926,7 @@
     {
       "id": "pen-bay-medical-center",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "oria-penn_medicine_princeton_health-bb951",
@@ -98000,7 +98000,7 @@
     {
       "id": "oria-meade_district_hospital-74010",
       "flag": "source_over_365_days_old",
-      "age_days": 661
+      "age_days": 662
     },
     {
       "id": "oria-methodist_hospital_of_sacramento-06c59",
@@ -98321,7 +98321,7 @@
     {
       "id": "oria-mary_washington_hospital-14d00",
       "flag": "source_over_365_days_old",
-      "age_days": 662
+      "age_days": 663
     },
     {
       "id": "south-pointe-hospital",
@@ -99205,7 +99205,7 @@
     {
       "id": "oria-helen_hayes_hospital-384fa",
       "flag": "source_over_365_days_old",
-      "age_days": 844
+      "age_days": 845
     },
     {
       "id": "oria-aurora_medical_center_summit-ae9ae",
@@ -99986,7 +99986,7 @@
     {
       "id": "oria-aspirus_merrill_hospital-6671a",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-physicians_care_surgical_hospital-89f85",
@@ -101170,7 +101170,7 @@
     {
       "id": "oria-changes_highland_springs-b4ea0",
       "flag": "source_over_365_days_old",
-      "age_days": 374
+      "age_days": 375
     },
     {
       "id": "lutheran-hospital",
@@ -101735,7 +101735,7 @@
     {
       "id": "stephens-memorial-hospital",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "oria-san_martin_hospital-dd89d",
@@ -102207,7 +102207,7 @@
     {
       "id": "oria-massena_hospital-642dd",
       "flag": "source_over_365_days_old",
-      "age_days": 662
+      "age_days": 663
     },
     {
       "id": "oria-massena_hospital-642dd",
@@ -102237,7 +102237,7 @@
     {
       "id": "oria-pershing_general_hospital-f305f",
       "flag": "source_over_365_days_old",
-      "age_days": 738
+      "age_days": 739
     },
     {
       "id": "oria-chi_saint_joseph_health_saint_joseph_berea-9f465",
@@ -103243,7 +103243,7 @@
     {
       "id": "oria-driscoll_children_s_hospital-03143",
       "flag": "source_over_365_days_old",
-      "age_days": 382
+      "age_days": 383
     },
     {
       "id": "sharp-coronado-hospital",
@@ -105637,7 +105637,7 @@
     {
       "id": "oria-stafford_hospital-49827",
       "flag": "source_over_365_days_old",
-      "age_days": 662
+      "age_days": 663
     },
     {
       "id": "oria-tucson_medical_center-59f2d",
@@ -116581,7 +116581,7 @@
     {
       "id": "oria-schneck_medical_center-98538",
       "flag": "source_over_365_days_old",
-      "age_days": 1003
+      "age_days": 1004
     },
     {
       "id": "mercy-family-medicine-booneville",
@@ -118926,7 +118926,7 @@
     {
       "id": "oria-hebrew_rehabilitation_center-21e08",
       "flag": "source_over_365_days_old",
-      "age_days": 570
+      "age_days": 571
     },
     {
       "id": "temple-university-hospital-northeastern-campus",
@@ -119113,7 +119113,7 @@
     {
       "id": "oria-prowers_medical_center-33898",
       "flag": "source_over_365_days_old",
-      "age_days": 660
+      "age_days": 661
     },
     {
       "id": "baylor-scott-white-medical-center-brenham",
@@ -119211,7 +119211,7 @@
     {
       "id": "oria-carewell_health-8a503",
       "flag": "source_over_365_days_old",
-      "age_days": 493
+      "age_days": 494
     },
     {
       "id": "oria-carewell_health-8a503",
@@ -119514,7 +119514,7 @@
     {
       "id": "oria-regional_one_health_rehabilitation_hospital-4ab15",
       "flag": "source_over_365_days_old",
-      "age_days": 655
+      "age_days": 656
     },
     {
       "id": "oria-regional_one_health_rehabilitation_hospital-4ab15",
@@ -119806,7 +119806,7 @@
     {
       "id": "oria-deckerville_community_hospital-a4c7f",
       "flag": "source_over_365_days_old",
-      "age_days": 646
+      "age_days": 647
     },
     {
       "id": "mercy-family-medicine-and-psychiatry-1003-e-cherry",
@@ -120751,7 +120751,7 @@
     {
       "id": "oria-carrollton_springs-3f47f",
       "flag": "source_over_365_days_old",
-      "age_days": 395
+      "age_days": 396
     },
     {
       "id": "oria-macon_community_hospital-5e860",
@@ -121700,7 +121700,7 @@
     {
       "id": "oria-beacon_behavioral_hospital_new_orleans-80710",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-chi_saint_joseph_health_saint_joseph_hospital-8597d",
@@ -123476,12 +123476,12 @@
     {
       "id": "oria-mountain_view_hospital-f10fb",
       "flag": "source_over_365_days_old",
-      "age_days": 688
+      "age_days": 689
     },
     {
       "id": "oria-mosaic_life_care_at_st_joseph_medical_center-11702",
       "flag": "source_over_365_days_old",
-      "age_days": 392
+      "age_days": 393
     },
     {
       "id": "oria-mosaic_life_care_at_st_joseph_medical_center-11702",
@@ -123661,7 +123661,7 @@
     {
       "id": "oria-beacon_behavioral_hospital_new_orleans-3c22c",
       "flag": "source_over_365_days_old",
-      "age_days": 494
+      "age_days": 495
     },
     {
       "id": "oria-ward_memorial_hospital-c21a0",
@@ -123678,7 +123678,7 @@
     {
       "id": "oria-bennett_county_hospital-05482",
       "flag": "source_over_365_days_old",
-      "age_days": 658
+      "age_days": 659
     },
     {
       "id": "oria-st_mary_s_hospital-11401",
@@ -123790,12 +123790,12 @@
     {
       "id": "oria-unity_health_white_county_medical_center-ccddc",
       "flag": "source_over_365_days_old",
-      "age_days": 601
+      "age_days": 602
     },
     {
       "id": "oria-aspirus_keweenaw_hospital-2fdf4",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-doctors_center_hospital_san_juan-392a5",
@@ -124202,7 +124202,7 @@
     {
       "id": "oria-candler_hospital-15850",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "mercy-family-medicine-mansfield",
@@ -125296,12 +125296,12 @@
     {
       "id": "oria-changes_westpark_springs-f1e61",
       "flag": "source_over_365_days_old",
-      "age_days": 396
+      "age_days": 397
     },
     {
       "id": "oria-spencer_municipal_hospital-d925b",
       "flag": "source_over_365_days_old",
-      "age_days": 844
+      "age_days": 845
     },
     {
       "id": "intermountain-health-alta-view-hospital",
@@ -126144,7 +126144,7 @@
     {
       "id": "oria-north_alabama_shoals_hospital-74de3",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-faulkton_area_medical_center-989d8",
@@ -126175,7 +126175,7 @@
     {
       "id": "oria-mosaic_medical_center_maryville-3c255",
       "flag": "source_over_365_days_old",
-      "age_days": 392
+      "age_days": 393
     },
     {
       "id": "oria-mosaic_medical_center_maryville-3c255",
@@ -126787,7 +126787,7 @@
     {
       "id": "oria-medical_center_of_southeast_texas-20313",
       "flag": "source_over_365_days_old",
-      "age_days": 666
+      "age_days": 667
     },
     {
       "id": "fairview-hospital",
@@ -128848,7 +128848,7 @@
     {
       "id": "oria-changes_rock_springs-2319e",
       "flag": "source_over_365_days_old",
-      "age_days": 396
+      "age_days": 397
     },
     {
       "id": "oria-chi_memorial_hospital_georgia-e3c8e",
@@ -130608,7 +130608,7 @@
     {
       "id": "oria-palmetto_general_hospital-b8e14",
       "flag": "source_over_365_days_old",
-      "age_days": 610
+      "age_days": 611
     },
     {
       "id": "oria-palmetto_general_hospital-b8e14",
@@ -132587,7 +132587,7 @@
     {
       "id": "franklin-memorial-hospital",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "oria-morton_plant_hospital-d6ae3",
@@ -134847,7 +134847,7 @@
     {
       "id": "oria-trinity_medical-55ebf",
       "flag": "source_over_365_days_old",
-      "age_days": 729
+      "age_days": 730
     },
     {
       "id": "oria-trinity_medical-55ebf",
@@ -136114,7 +136114,7 @@
     {
       "id": "oria-bear_valley_community_hospital-aaf3e",
       "flag": "source_over_365_days_old",
-      "age_days": 785
+      "age_days": 786
     },
     {
       "id": "oria-heartland_long_term_acute_hospital-cd321",
@@ -136355,7 +136355,7 @@
     {
       "id": "oria-aspirus_rhinelander_hospital-ab74c",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-mercy_medical_center_merced-b8b5a",
@@ -136395,7 +136395,7 @@
     {
       "id": "oria-madison_medical_center-c66cc",
       "flag": "source_over_365_days_old",
-      "age_days": 656
+      "age_days": 657
     },
     {
       "id": "oria-wayne_medical_center-c3adf",
@@ -136407,7 +136407,7 @@
     {
       "id": "oria-aspirus_st_luke_s_hospital-0e57e",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "mercy-hospital-south",
@@ -137338,7 +137338,7 @@
     {
       "id": "oria-coral_gables_hospital-d3ef4",
       "flag": "source_over_365_days_old",
-      "age_days": 609
+      "age_days": 610
     },
     {
       "id": "oria-coral_gables_hospital-d3ef4",
@@ -137725,7 +137725,7 @@
     {
       "id": "oria-lourdes_counseling_center-9925f",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-grady_memorial-4cff4",
@@ -137758,7 +137758,7 @@
     {
       "id": "oria-comanche_county_hospital-222ad",
       "flag": "source_over_365_days_old",
-      "age_days": 582
+      "age_days": 583
     },
     {
       "id": "oria-st_anthony_s_rehabilitation_hospital-9428e",
@@ -137768,7 +137768,7 @@
     {
       "id": "oria-edgerton_hospital_and_health_services-50d6a",
       "flag": "source_over_365_days_old",
-      "age_days": 597
+      "age_days": 598
     },
     {
       "id": "oria-hansford_county_hospital_district-f3792",
@@ -138062,7 +138062,7 @@
     {
       "id": "oria-west_covina-e275d",
       "flag": "source_over_365_days_old",
-      "age_days": 844
+      "age_days": 845
     },
     {
       "id": "oria-inspira_medical_center_elmer-1a1aa",
@@ -142844,7 +142844,7 @@
     {
       "id": "oria-aspirus_medford_hospital-1e11c",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-cuero_regional_hospital-91e4b",
@@ -143108,7 +143108,7 @@
     {
       "id": "oria-deaconess_regional_medical_center-6e3ea",
       "flag": "source_over_365_days_old",
-      "age_days": 703
+      "age_days": 704
     },
     {
       "id": "oria-chapman_global_medical_center-d7b4b",
@@ -143131,7 +143131,7 @@
     {
       "id": "oria-riverview_health_institute-1c4b0",
       "flag": "source_over_365_days_old",
-      "age_days": 417
+      "age_days": 418
     },
     {
       "id": "oria-baldwin_health-197b1",
@@ -143255,7 +143255,7 @@
     {
       "id": "oria-howard_young_medical_center-ec7cc",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-eastern_new_mexico_medical_center-6f4cb",
@@ -143288,7 +143288,7 @@
     {
       "id": "oria-opelousas_iop-5c6b5",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-throckmorton_county_memorial_hospital-af688",
@@ -145265,7 +145265,7 @@
     {
       "id": "oria-willamette_valley_medical_center-eebb2",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "nyu-langone-orthopedic-hospital",
@@ -146052,7 +146052,7 @@
     {
       "id": "oria-warm_springs_medical_center-e03e2",
       "flag": "source_over_365_days_old",
-      "age_days": 834
+      "age_days": 835
     },
     {
       "id": "oria-baptist_memorial_hospital_collierville-3dd6c",
@@ -146185,7 +146185,7 @@
     {
       "id": "lincoln-health",
       "flag": "source_over_365_days_old",
-      "age_days": 409
+      "age_days": 410
     },
     {
       "id": "oria-norton_clark_hospital-0b146",
@@ -146209,7 +146209,7 @@
     {
       "id": "oria-aspirus_iron_river_hospital-c799a",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-piedmont_cartersville-143b2",
@@ -147848,7 +147848,7 @@
     {
       "id": "oria-north_alabama_medical_center-9c1e0",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-continuing_care_hospital-3ee46",
@@ -148238,7 +148238,7 @@
     {
       "id": "oria-box_butte_general_hospital-d2aae",
       "flag": "source_over_365_days_old",
-      "age_days": 394
+      "age_days": 395
     },
     {
       "id": "oria-east_georgia_regional_medical_center-5cccb",
@@ -148310,7 +148310,7 @@
     {
       "id": "oria-kedren_community_health_center_inc-90a62",
       "flag": "source_over_365_days_old",
-      "age_days": 373
+      "age_days": 374
     },
     {
       "id": "oria-prisma_health_laurens_county_hospital-1d837",
@@ -148420,7 +148420,7 @@
     {
       "id": "oria-usc_arcadia_hospital-04f61",
       "flag": "source_over_365_days_old",
-      "age_days": 857
+      "age_days": 858
     },
     {
       "id": "oria-aurora_medical_center_manitowoc-28245",
@@ -148653,7 +148653,7 @@
     {
       "id": "oria-randolph_health-bcd21",
       "flag": "source_over_365_days_old",
-      "age_days": 662
+      "age_days": 663
     },
     {
       "id": "henry-ford-providence-southfield-hospital",
@@ -148709,7 +148709,7 @@
     {
       "id": "spring-harbor-hospital",
       "flag": "source_over_365_days_old",
-      "age_days": 437
+      "age_days": 438
     },
     {
       "id": "prisma-health-blount-memorial-hospital",
@@ -148945,7 +148945,7 @@
     {
       "id": "oria-aspirus_stevens_point_hospital-277b6",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-newport_medical_center-65a90",
@@ -149517,7 +149517,7 @@
     {
       "id": "oria-oakwood_springs-9d7de",
       "flag": "source_over_365_days_old",
-      "age_days": 396
+      "age_days": 397
     },
     {
       "id": "oria-st_joseph_warren_hospital-4507c",
@@ -149642,12 +149642,12 @@
     {
       "id": "oria-shepherd_center-a35e5",
       "flag": "source_over_365_days_old",
-      "age_days": 543
+      "age_days": 544
     },
     {
       "id": "oria-ascension_seton_williamson-7985a",
       "flag": "source_over_365_days_old",
-      "age_days": 858
+      "age_days": 859
     },
     {
       "id": "oria-inspira_medical_center_mullica_hill-3c3f5",
@@ -149710,7 +149710,7 @@
     {
       "id": "oria-aspirus_tomahawk_hospital-8300f",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-bon_secours_community_hospital-c3e13",
@@ -153663,7 +153663,7 @@
     {
       "id": "oria-woodland_springs-acd09",
       "flag": "source_over_365_days_old",
-      "age_days": 396
+      "age_days": 397
     },
     {
       "id": "oria-gothenburg_health-d9d36",
@@ -156445,7 +156445,7 @@
     {
       "id": "oria-ben_taub_hospital-7719f",
       "flag": "source_over_365_days_old",
-      "age_days": 485
+      "age_days": 486
     },
     {
       "id": "oria-physicians_regional_healthcare_system_pine_ridge-a3e55",
@@ -158046,7 +158046,7 @@
     {
       "id": "oria-aspirus_plover_hospital-85e65",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "university-of-miami-hospital-clinics-bascom-palmer-eye-institute",
@@ -158174,7 +158174,7 @@
     {
       "id": "oria-jupiter_medical_center-f9e53",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-dallas_county_medical_center-e7b56",
@@ -159704,7 +159704,7 @@
     {
       "id": "oria-dardanelle_regional_llc_dba_dardanelle_regional_medical_center-8344e",
       "flag": "source_over_365_days_old",
-      "age_days": 370
+      "age_days": 371
     },
     {
       "id": "nyu-langone-tisch-hospital",
@@ -160722,7 +160722,7 @@
     {
       "id": "oria-lourdes_counseling_center-397df",
       "flag": "source_over_365_days_old",
-      "age_days": 394
+      "age_days": 395
     },
     {
       "id": "oria-lourdes_counseling_center-397df",
@@ -160774,7 +160774,7 @@
     {
       "id": "oria-st_joseph_medical_center-da348",
       "flag": "source_over_365_days_old",
-      "age_days": 669
+      "age_days": 670
     },
     {
       "id": "oria-st_joseph_medical_center-da348",
@@ -160807,7 +160807,7 @@
     {
       "id": "oria-big_sky_medical_center-10e82",
       "flag": "source_over_365_days_old",
-      "age_days": 703
+      "age_days": 704
     },
     {
       "id": "mercy-primary-care-guthrie-division",
@@ -160816,7 +160816,7 @@
     {
       "id": "oria-western_missouri_medical_center-4e0ac",
       "flag": "source_over_365_days_old",
-      "age_days": 691
+      "age_days": 692
     },
     {
       "id": "mercy-hospital-washington",
@@ -160839,7 +160839,7 @@
     {
       "id": "oria-keefe_memorial_health_service_district-71673",
       "flag": "source_over_365_days_old",
-      "age_days": 480
+      "age_days": 481
     },
     {
       "id": "oria-christus_southeast_texas_st_elizabeth-df32e",
@@ -161004,7 +161004,7 @@
     {
       "id": "oria-beacon_behavioral_hospital_northshore_lacombe-dafae",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-mccamey_county_hospital_district-727e1",
@@ -161138,7 +161138,7 @@
     {
       "id": "oria-aspirus_wisconsin_rapids_hospital-b7f22",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-dominican_hospital-19aeb",
@@ -161724,12 +161724,12 @@
     {
       "id": "oria-metaire_iop-d9705",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-community_healthcare_system_hospital-da4ec",
       "flag": "source_over_365_days_old",
-      "age_days": 618
+      "age_days": 619
     },
     {
       "id": "oria-community_healthcare_system_hospital-da4ec",
@@ -161792,7 +161792,7 @@
     {
       "id": "oria-aspirus_stanley_hospital-8cfae",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-seymour_hospital-ba95b",
@@ -161825,7 +161825,7 @@
     {
       "id": "oria-ehhs_fulton_square_clinic-3174f",
       "flag": "source_over_365_days_old",
-      "age_days": 597
+      "age_days": 598
     },
     {
       "id": "oria-beacon_behavioral_hospital_lutcher-bfa28",
@@ -163500,7 +163500,7 @@
     {
       "id": "oria-horizon_specialty_hospital_of_las_vegas-5b877",
       "flag": "source_over_365_days_old",
-      "age_days": 660
+      "age_days": 661
     },
     {
       "id": "oria-healthalliance_clinton_clinton_campus-7b06b",
@@ -163880,7 +163880,7 @@
     {
       "id": "oria-aspirus_eagle_river_hospital-99d74",
       "flag": "source_over_365_days_old",
-      "age_days": 479
+      "age_days": 480
     },
     {
       "id": "oria-jefferson_hospital-565ea",
@@ -163927,7 +163927,7 @@
     {
       "id": "oria-philip_health-ed5ba",
       "flag": "source_over_365_days_old",
-      "age_days": 844
+      "age_days": 845
     },
     {
       "id": "oria-philip_health-ed5ba",
@@ -165723,7 +165723,7 @@
     {
       "id": "oria-north_shore_health_hospital-e60fa",
       "flag": "source_over_365_days_old",
-      "age_days": 546
+      "age_days": 547
     },
     {
       "id": "mercy-family-medicine-paris",
@@ -166293,12 +166293,12 @@
     {
       "id": "oria-frederick_health_hospital-4b204",
       "flag": "source_over_365_days_old",
-      "age_days": 585
+      "age_days": 586
     },
     {
       "id": "oria-northern_itasca_hospital_district-24676",
       "flag": "source_over_365_days_old",
-      "age_days": 609
+      "age_days": 610
     },
     {
       "id": "oria-siena_hospital-1bd4e",
@@ -166520,7 +166520,7 @@
     {
       "id": "oria-university_of_illinois_hospital_clinics-1dd2d",
       "flag": "source_over_365_days_old",
-      "age_days": 448
+      "age_days": 449
     },
     {
       "id": "oria-university_of_illinois_hospital_clinics-1dd2d",
@@ -167239,7 +167239,7 @@
     {
       "id": "oria-glenwood_regional_medical_center-520fd",
       "flag": "source_over_365_days_old",
-      "age_days": 583
+      "age_days": 584
     },
     {
       "id": "upmc-cole",
@@ -168060,7 +168060,7 @@
     {
       "id": "oria-university_health_truman_medical_center-2fb10",
       "flag": "source_over_365_days_old",
-      "age_days": 690
+      "age_days": 691
     },
     {
       "id": "oria-south_texas_health_system_mcallen-3cfbd",
@@ -170433,12 +170433,12 @@
     {
       "id": "oria-jefferson_community_health_life-de7f1",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-copper_springs-ba1e6",
       "flag": "source_over_365_days_old",
-      "age_days": 395
+      "age_days": 396
     },
     {
       "id": "oria-prisma_health_greenville_memorial_hospital-e6606",
@@ -171082,7 +171082,7 @@
     {
       "id": "oria-broadlawns_community_clinic_at_drake-0235e",
       "flag": "source_over_365_days_old",
-      "age_days": 407
+      "age_days": 408
     },
     {
       "id": "nebraska-medical-center",
@@ -176064,7 +176064,7 @@
     {
       "id": "oria-bogalusa_iop-16c67",
       "flag": "source_over_365_days_old",
-      "age_days": 387
+      "age_days": 388
     },
     {
       "id": "oria-laredo_medical_center-abf55",
