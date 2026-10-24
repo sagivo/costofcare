@@ -1,0 +1,25 @@
+{
+  "npi": "1073865523",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:05:22Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1073865523",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JANET",
+      "last_name": "YOUNG",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "601 POST OFFICE RD STE 2D",
+        "city": "WALDORF",
+        "state": "MD",
+        "postal_code": "206021912"
+      },
+      "last_updated": "2012-10-09"
+    }
+  ]
+}

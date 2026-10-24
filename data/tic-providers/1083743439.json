@@ -1,0 +1,25 @@
+{
+  "npi": "1083743439",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:05:26Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1083743439",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CALISTA",
+      "last_name": "DICKEY",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "201 S CLEVELAND AVE",
+        "city": "HAGERSTOWN",
+        "state": "MD",
+        "postal_code": "217405745"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

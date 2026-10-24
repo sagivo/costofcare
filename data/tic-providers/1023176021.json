@@ -1,0 +1,25 @@
+{
+  "npi": "1023176021",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:04:50Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023176021",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RANDY",
+      "last_name": "MARTIN",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "17000 VENTURA BLVD STE 220",
+        "city": "ENCINO",
+        "state": "CA",
+        "postal_code": "913164158"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1154662575",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:06:09Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1154662575",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RUTI",
+      "last_name": "RAPHAEL",
+      "primary_taxonomy": "Massage Therapist",
+      "location": {
+        "address_1": "1925 ASPEN DR",
+        "city": "SANTA FE",
+        "state": "NM",
+        "postal_code": "875055459"
+      },
+      "last_updated": "2016-10-10"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1023308947",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:04:51Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023308947",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JAHYUN",
+      "last_name": "KOO",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "645 W 9TH ST",
+        "city": "SAN PEDRO",
+        "state": "CA",
+        "postal_code": "907313107"
+      },
+      "last_updated": "2018-02-22"
+    }
+  ]
+}

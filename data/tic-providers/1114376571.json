@@ -1,0 +1,25 @@
+{
+  "npi": "1114376571",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:05:45Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1114376571",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MARIA-CRISTINA",
+      "last_name": "RAMOS",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2525 CAMINO DEL RIO S STE 320",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "postal_code": "921083784"
+      },
+      "last_updated": "2022-09-21"
+    }
+  ]
+}

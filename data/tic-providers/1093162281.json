@@ -1,0 +1,25 @@
+{
+  "npi": "1093162281",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:05:32Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1093162281",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BYUNG IN",
+      "last_name": "LEE",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "8321 SAN SIMEON CIR",
+        "city": "BUENA PARK",
+        "state": "CA",
+        "postal_code": "906203030"
+      },
+      "last_updated": "2019-03-15"
+    }
+  ]
+}

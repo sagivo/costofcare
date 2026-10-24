@@ -1,0 +1,25 @@
+{
+  "npi": "1053518407",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:05:10Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1053518407",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "YONG",
+      "last_name": "LIU",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2564 STATE ST STE A",
+        "city": "CARLSBAD",
+        "state": "CA",
+        "postal_code": "920081662"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

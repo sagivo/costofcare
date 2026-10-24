@@ -1,0 +1,25 @@
+{
+  "npi": "1144407230",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-24T20:05:54Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1144407230",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SUNG",
+      "last_name": "PARK",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "670 E COMMONWEALTH AVE # A",
+        "city": "FULLERTON",
+        "state": "CA",
+        "postal_code": "928314514"
+      },
+      "last_updated": "2022-07-21"
+    }
+  ]
+}
