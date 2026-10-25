@@ -64,6 +64,16 @@ def read_manifest(path: Path) -> dict | None:
     return data
 
 
+def find_manifest(data_dir: Path, asset_path: Path) -> Path | None:
+    """Prefer <stem>.jsonl.gz.manifest.json, else <stem>.manifest.json; None if neither exists."""
+    stem = asset_path.name[: -len(".jsonl.gz")]
+    for candidate in (data_dir / f"{stem}.jsonl.gz.manifest.json",
+                      data_dir / f"{stem}.manifest.json"):
+        if candidate.exists():
+            return candidate
+    return None
+
+
 def write_json_atomic(path: Path, data: dict) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_name(path.name + ".tmp")
@@ -146,13 +156,21 @@ def main() -> int:
 
     for path in files:
         stem = path.name[: -len(".jsonl.gz")]
-        manifest_path = data_dir / f"{stem}.manifest.json"
+        manifest_path = find_manifest(data_dir, path)
+        if manifest_path is None:
+            counts["errors"] += 1
+            print(f"ERROR {path.name}: no sibling manifest found")
+            continue
 
         try:
             manifest = read_manifest(manifest_path)
         except ValueError as exc:
             counts["errors"] += 1
             print(f"ERROR {path.name}: {exc}")
+            continue
+        if manifest is None:
+            counts["errors"] += 1
+            print(f"ERROR {path.name}: no sibling manifest found")
             continue
 
         try:
@@ -241,7 +259,7 @@ def main() -> int:
                   "manifest NOT updated")
             continue
 
-        updated = dict(manifest) if manifest else {}
+        updated = dict(manifest)
         updated["release_asset"] = {
             "release": tag,
             "asset_name": asset_name,
@@ -265,9 +283,9 @@ def main() -> int:
         return 0
 
     for path, digest in file_hashes.items():
-        manifest_path = data_dir / f"{path.name[: -len('.jsonl.gz')]}.manifest.json"
+        manifest_path = find_manifest(data_dir, path)
         try:
-            ok = published_sha(read_manifest(manifest_path)) == digest
+            ok = manifest_path is not None and published_sha(read_manifest(manifest_path)) == digest
         except ValueError:
             ok = False
         counts["manifests_with_verified_assets" if ok else "manifests_missing_verified_assets"] += 1
