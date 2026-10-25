@@ -61,5 +61,24 @@ class ManifestResolutionTests(unittest.TestCase):
                 self.assertEqual(report["counts"]["manifests_missing_verified_assets"], 0)
 
 
+class IsAlreadyExistsTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        sys.path.insert(0, str(SCRIPT.parent))
+        try:
+            import release_publish
+        finally:
+            sys.path.pop(0)
+        cls.is_already_exists = staticmethod(release_publish.is_already_exists)
+
+    def test_gh_v2_duplicate_asset_message(self):
+        self.assertTrue(self.is_already_exists(
+            "asset under the same name already exists"))
+
+    def test_generic_network_error_is_not_already_exists(self):
+        self.assertFalse(self.is_already_exists(
+            "error connecting to api.github.com: connection timed out"))
+
+
 if __name__ == "__main__":
     unittest.main()

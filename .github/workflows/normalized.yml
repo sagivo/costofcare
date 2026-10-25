@@ -61,4 +61,8 @@ jobs:
           git add data/normalized data/normalized-attempts data/quality
           git diff --cached --quiet && exit 0
           git commit -m 'data: row-preserving primary extraction tranche'
-          git push origin HEAD:main
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && break
+            sleep 20
+          done
+          git ls-remote origin main | grep -q "$(git rev-parse HEAD)" || { echo "push did not land after retries"; exit 1; }

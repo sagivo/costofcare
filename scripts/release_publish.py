@@ -48,7 +48,7 @@ def output_of(proc: subprocess.CompletedProcess) -> str:
 
 def is_already_exists(text: str) -> bool:
     lowered = text.lower()
-    return "already_exists" in lowered or "422" in lowered
+    return "already_exists" in lowered or "already exists" in lowered or "422" in lowered
 
 
 def read_manifest(path: Path) -> dict | None:

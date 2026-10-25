@@ -47,4 +47,8 @@ jobs:
           git add data public/data src/data/summary.json
           git diff --cached --quiet && exit 0
           git commit -m 'data: daily primary-source refresh'
-          git push origin HEAD:main
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && break
+            sleep 20
+          done
+          git ls-remote origin main | grep -q "$(git rev-parse HEAD)" || { echo "push did not land after retries"; exit 1; }
