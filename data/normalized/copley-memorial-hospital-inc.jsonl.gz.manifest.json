@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "copley-memorial-hospital-inc__6d8e9aeee934c273.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/copley-memorial-hospital-inc__6d8e9aeee934c273.jsonl.gz",
+    "asset_sha256": "6d8e9aeee934c2737236b8741a624a69f3165aeec70eaf7faa8d07079a82d8c0",
+    "published_at": "2026-10-25T16:07:30Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-40",
+    "asset_name": "oria-aurora_medical_center_grafton-16ca2__40cfcb8d8d20c933.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-aurora_medical_center_grafton-16ca2__40cfcb8d8d20c933.jsonl.gz",
+    "asset_sha256": "40cfcb8d8d20c933468316e4c84a8e9a6317411b7be474b7b05c499ba15e9da0",
+    "published_at": "2026-10-25T16:12:06Z"
+  }
 }

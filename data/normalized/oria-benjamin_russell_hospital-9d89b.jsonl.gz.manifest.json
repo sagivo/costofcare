@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2097",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-17",
+    "asset_name": "oria-benjamin_russell_hospital-9d89b__179c2bcb6c18b7a6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oria-benjamin_russell_hospital-9d89b__179c2bcb6c18b7a6.jsonl.gz",
+    "asset_sha256": "179c2bcb6c18b7a6439102db538058f477f459792377e24b4b3fc4705f7c2ed3",
+    "published_at": "2026-10-25T16:14:43Z"
+  }
 }

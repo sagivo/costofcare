@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-coffey_county_hospital-4e8c0__8f494998011f5b7c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-coffey_county_hospital-4e8c0__8f494998011f5b7c.jsonl.gz",
+    "asset_sha256": "8f494998011f5b7cf7fc332c9c0823e6d2142e059eb3411ac4c6303de33500f0",
+    "published_at": "2026-10-25T16:22:52Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-65",
+    "asset_name": "memorial-hermann-sugar-land-hospital__65d7f2c8f8248ebd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/memorial-hermann-sugar-land-hospital__65d7f2c8f8248ebd.jsonl.gz",
+    "asset_sha256": "65d7f2c8f8248ebdd08f661a18b64f871b9bbe06f8dfb877434b4e3f8b87b778",
+    "published_at": "2026-10-25T16:10:35Z"
+  }
 }

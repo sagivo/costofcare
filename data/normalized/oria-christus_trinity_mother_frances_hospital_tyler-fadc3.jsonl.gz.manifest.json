@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1a",
+    "asset_name": "oria-christus_trinity_mother_frances_hospital_tyler-fadc3__1a0adf2e2bdef427.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/oria-christus_trinity_mother_frances_hospital_tyler-fadc3__1a0adf2e2bdef427.jsonl.gz",
+    "asset_sha256": "1a0adf2e2bdef427a215d5f88ee790f639c6eaecad0158443c1633ccc1fd5119",
+    "published_at": "2026-10-25T16:21:46Z"
+  }
 }

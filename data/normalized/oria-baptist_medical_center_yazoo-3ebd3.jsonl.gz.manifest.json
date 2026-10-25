@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5d",
+    "asset_name": "oria-baptist_medical_center_yazoo-3ebd3__5d728333dcef42de.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5d/oria-baptist_medical_center_yazoo-3ebd3__5d728333dcef42de.jsonl.gz",
+    "asset_sha256": "5d728333dcef42de8e2a72e3c92ab23f815fb08e710013998c3ed4adb1e2ceb9",
+    "published_at": "2026-10-25T16:13:20Z"
+  }
 }

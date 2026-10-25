@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 8206,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "oria-bienville_medical_center-cbe00__439f47fcff777aa2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-bienville_medical_center-cbe00__439f47fcff777aa2.jsonl.gz",
+    "asset_sha256": "439f47fcff777aa26da7082e386a66c5ff2a7172c1a8e88f3ff0d1a5462acf44",
+    "published_at": "2026-10-25T16:14:56Z"
+  }
 }

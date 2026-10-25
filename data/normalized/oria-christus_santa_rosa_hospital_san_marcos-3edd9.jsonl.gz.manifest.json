@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ba",
+    "asset_name": "oria-christus_santa_rosa_hospital_san_marcos-3edd9__ba2f0d8ecebdb87f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/oria-christus_santa_rosa_hospital_san_marcos-3edd9__ba2f0d8ecebdb87f.jsonl.gz",
+    "asset_sha256": "ba2f0d8ecebdb87f3c521858c6d10160826eaf94f51c8cfa22e1d7bb7138c172",
+    "published_at": "2026-10-25T16:21:03Z"
+  }
 }

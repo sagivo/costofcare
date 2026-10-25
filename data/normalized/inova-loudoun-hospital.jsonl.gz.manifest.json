@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7524",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-25",
+    "asset_name": "inova-loudoun-hospital__2504fee60df65705.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-25/inova-loudoun-hospital__2504fee60df65705.jsonl.gz",
+    "asset_sha256": "2504fee60df65705f797676c45d1afa1d78155b5c65591852935939fd1d178e6",
+    "published_at": "2026-10-25T16:08:45Z"
+  }
 }

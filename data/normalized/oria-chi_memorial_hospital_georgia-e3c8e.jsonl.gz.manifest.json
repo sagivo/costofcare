@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f9",
+    "asset_name": "oria-chi_memorial_hospital_georgia-e3c8e__f97fef505131e5bf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/oria-chi_memorial_hospital_georgia-e3c8e__f97fef505131e5bf.jsonl.gz",
+    "asset_sha256": "f97fef505131e5bf1126e3843bc5264d0a40bb932377efac192b5acaf1813e52",
+    "published_at": "2026-10-25T16:19:01Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ab",
+    "asset_name": "oria-chi_health_immanuel-a1fef__ab2ed67cecf21444.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ab/oria-chi_health_immanuel-a1fef__ab2ed67cecf21444.jsonl.gz",
+    "asset_sha256": "ab2ed67cecf214442ef50592d9b91488226d473fe183c3a83bad3cb201ba8262",
+    "published_at": "2026-10-25T16:18:37Z"
+  }
 }

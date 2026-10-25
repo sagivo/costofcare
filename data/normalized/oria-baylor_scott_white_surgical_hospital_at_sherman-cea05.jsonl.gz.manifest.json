@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a3",
+    "asset_name": "oria-baylor_scott_white_surgical_hospital_at_sherman-cea05__a3775ce9d77c5c44.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/oria-baylor_scott_white_surgical_hospital_at_sherman-cea05__a3775ce9d77c5c44.jsonl.gz",
+    "asset_sha256": "a3775ce9d77c5c44ea85caaba78de7ba775a9f14f1155df5b5338d02abd835ce",
+    "published_at": "2026-10-25T16:14:15Z"
+  }
 }

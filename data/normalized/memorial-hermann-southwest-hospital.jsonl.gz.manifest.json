@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3d",
+    "asset_name": "memorial-hermann-southwest-hospital__3d27ba06195ccf95.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3d/memorial-hermann-southwest-hospital__3d27ba06195ccf95.jsonl.gz",
+    "asset_sha256": "3d27ba06195ccf951fb9675f39ecea27ba5b5dde2655f6c9cee4dde2614992f1",
+    "published_at": "2026-10-25T16:10:34Z"
+  }
 }

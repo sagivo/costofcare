@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7a",
+    "asset_name": "intermountain-health-garfield-memorial-hospital__7afcafa1e63275c3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7a/intermountain-health-garfield-memorial-hospital__7afcafa1e63275c3.jsonl.gz",
+    "asset_sha256": "7afcafa1e63275c307552bd45f30ea2d8967dbfc7f686aea44160a2c6222ff7d",
+    "published_at": "2026-10-25T16:08:58Z"
+  }
 }

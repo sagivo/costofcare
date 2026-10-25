@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-67",
+    "asset_name": "oria-aurora_psychiatric_hospital-79ba2__675c2a0ff093e81c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/oria-aurora_psychiatric_hospital-79ba2__675c2a0ff093e81c.jsonl.gz",
+    "asset_sha256": "675c2a0ff093e81cfec0f5f26a16c750f346ab2e5cea2cd05d2d8f063c85cd8e",
+    "published_at": "2026-10-25T16:12:17Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0c",
+    "asset_name": "mercy-hospital-ardmore__0ca742f2545334f0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0c/mercy-hospital-ardmore__0ca742f2545334f0.jsonl.gz",
+    "asset_sha256": "0ca742f2545334f097cfc79cb10bd7f873df8b99cb5ae94a340df857af851fe1",
+    "published_at": "2026-10-25T16:11:03Z"
+  }
 }

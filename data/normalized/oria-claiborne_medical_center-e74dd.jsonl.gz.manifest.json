@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "oria-claiborne_medical_center-e74dd__1118f763b59316ff.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-claiborne_medical_center-e74dd__1118f763b59316ff.jsonl.gz",
+    "asset_sha256": "1118f763b59316ff93c60f81362d7e084d257f83fb0f5a00875f7e21b400cfdd",
+    "published_at": "2026-10-25T16:21:59Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7f",
+    "asset_name": "oria-conemaugh_memorial_medical_center-30f98__7fb2dd28924a9152.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7f/oria-conemaugh_memorial_medical_center-30f98__7fb2dd28924a9152.jsonl.gz",
+    "asset_sha256": "7fb2dd28924a915281131e2915f6bcfd659320725b50e1015fa1b804c2e2506b",
+    "published_at": "2026-10-25T16:23:59Z"
+  }
 }

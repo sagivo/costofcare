@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "oria-bradley_county_medical_center-e5696__9a0286b907fd795e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-bradley_county_medical_center-e5696__9a0286b907fd795e.jsonl.gz",
+    "asset_sha256": "9a0286b907fd795e307401c214e7a4efe36e9f58be4e56868f727a7a8b86afa0",
+    "published_at": "2026-10-25T16:15:33Z"
+  }
 }

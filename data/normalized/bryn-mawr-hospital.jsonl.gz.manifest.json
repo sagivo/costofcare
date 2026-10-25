@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "bryn-mawr-hospital__5c9edbbe472031db.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/bryn-mawr-hospital__5c9edbbe472031db.jsonl.gz",
+    "asset_sha256": "5c9edbbe472031dbf9a5e71abfdee232c251d7b38031c253d6fc9e60ae90038e",
+    "published_at": "2026-10-25T16:07:09Z"
+  }
 }

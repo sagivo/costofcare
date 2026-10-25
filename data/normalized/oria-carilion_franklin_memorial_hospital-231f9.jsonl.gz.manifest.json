@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-35",
+    "asset_name": "oria-carilion_franklin_memorial_hospital-231f9__35c30bbf356e4967.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-35/oria-carilion_franklin_memorial_hospital-231f9__35c30bbf356e4967.jsonl.gz",
+    "asset_sha256": "35c30bbf356e4967d549cf28e4122735a99249098e88da0bf3be23d0fd50359c",
+    "published_at": "2026-10-25T16:16:31Z"
+  }
 }

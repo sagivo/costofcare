@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-62",
+    "asset_name": "mercy-hospital-pittsburg__626bdba185b27ede.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-62/mercy-hospital-pittsburg__626bdba185b27ede.jsonl.gz",
+    "asset_sha256": "626bdba185b27edee923f0d652a3c09247cabfcacafe8db345d13d20ec33c10c",
+    "published_at": "2026-10-25T16:11:38Z"
+  }
 }

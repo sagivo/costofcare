@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bf",
+    "asset_name": "intermountain-health-fillmore-community-hospital__bfe5e9d1ed4b56b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bf/intermountain-health-fillmore-community-hospital__bfe5e9d1ed4b56b7.jsonl.gz",
+    "asset_sha256": "bfe5e9d1ed4b56b72c9c92ab4a2783eff7e59d52acf9af09c2cc845b6b590a81",
+    "published_at": "2026-10-25T16:08:57Z"
+  }
 }

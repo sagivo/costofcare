@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7f",
+    "asset_name": "emory-long-term-acute-care-hospital__7ff40ab0c4048321.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7f/emory-long-term-acute-care-hospital__7ff40ab0c4048321.jsonl.gz",
+    "asset_sha256": "7ff40ab0c4048321404d12a55a20c17a631a9ccc218893dbcdc6ac365c83c8da",
+    "published_at": "2026-10-25T16:07:54Z"
+  }
 }

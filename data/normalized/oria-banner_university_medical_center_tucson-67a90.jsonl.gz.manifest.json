@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c9",
+    "asset_name": "oria-banner_university_medical_center_tucson-67a90__c9768aa05517c43c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c9/oria-banner_university_medical_center_tucson-67a90__c9768aa05517c43c.jsonl.gz",
+    "asset_sha256": "c9768aa05517c43c4facecd32942ea7402c58fa6aa515d39fb1be84493072ee0",
+    "published_at": "2026-10-25T16:13:11Z"
+  }
 }

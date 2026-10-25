@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "legacy-salmon-creek-medical-center__2ba63962c7633276.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/legacy-salmon-creek-medical-center__2ba63962c7633276.jsonl.gz",
+    "asset_sha256": "2ba63962c7633276e76d7ef57c10f51199870ce03380244673fd72741f019485",
+    "published_at": "2026-10-25T16:09:45Z"
+  }
 }

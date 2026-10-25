@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-christus_spohn_hospital_corpus_christi_shoreline-286ff__90a626e52af19407.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-christus_spohn_hospital_corpus_christi_shoreline-286ff__90a626e52af19407.jsonl.gz",
+    "asset_sha256": "90a626e52af19407a34e8bed08489294561491bbe66bae9f423de500f2676648",
+    "published_at": "2026-10-25T16:21:22Z"
+  }
 }

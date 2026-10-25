@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-da",
+    "asset_name": "baylor-scott-white-medical-center-irving__da3fcd1af0b33411.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-da/baylor-scott-white-medical-center-irving__da3fcd1af0b33411.jsonl.gz",
+    "asset_sha256": "da3fcd1af0b33411ccd284f7222cba4bd729649bc0997957dcdd2913d3e3bab1",
+    "published_at": "2026-10-25T16:06:35Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-commonspirit_st_anthony_summit_hospital-e08de__e0ee0b1674ab088c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-commonspirit_st_anthony_summit_hospital-e08de__e0ee0b1674ab088c.jsonl.gz",
+    "asset_sha256": "e0ee0b1674ab088c5d2ef6b0e889ab618b23ad53e3bd1329b7def14c9e95a637",
+    "published_at": "2026-10-25T16:23:25Z"
+  }
 }

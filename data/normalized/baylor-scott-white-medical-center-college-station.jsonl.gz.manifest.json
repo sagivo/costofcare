@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9d",
+    "asset_name": "baylor-scott-white-medical-center-college-station__9d725e0d0756606d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/baylor-scott-white-medical-center-college-station__9d725e0d0756606d.jsonl.gz",
+    "asset_sha256": "9d725e0d0756606d2ed068630169da3d6a4f81fa6dd3e6985c42cb2b410a0dfb",
+    "published_at": "2026-10-25T16:06:30Z"
+  }
 }

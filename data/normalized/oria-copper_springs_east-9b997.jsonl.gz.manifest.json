@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-79",
+    "asset_name": "oria-copper_springs_east-9b997__7914d140e7f2349b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/oria-copper_springs_east-9b997__7914d140e7f2349b.jsonl.gz",
+    "asset_sha256": "7914d140e7f2349bfd50f26cd79d9dbe7df18d68c6cc6a7bb3542cafc87404d8",
+    "published_at": "2026-10-25T16:24:24Z"
+  }
 }

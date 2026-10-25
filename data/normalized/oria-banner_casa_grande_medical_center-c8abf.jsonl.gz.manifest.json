@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-18",
+    "asset_name": "oria-banner_casa_grande_medical_center-c8abf__1860e56c0567b49d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-18/oria-banner_casa_grande_medical_center-c8abf__1860e56c0567b49d.jsonl.gz",
+    "asset_sha256": "1860e56c0567b49d6075a032e6cf6b607ef66e89db85cf6015ac14b9e0201766",
+    "published_at": "2026-10-25T16:12:40Z"
+  }
 }

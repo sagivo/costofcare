@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1433",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dd",
+    "asset_name": "oria-corewell_health_lakeland_hospitals_niles_hospital-9c0a6__dde576c859a539a7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-corewell_health_lakeland_hospitals_niles_hospital-9c0a6__dde576c859a539a7.jsonl.gz",
+    "asset_sha256": "dde576c859a539a74c9ad93af59045800f23067d7be13a5e6fb58255c6ae3618",
+    "published_at": "2026-10-25T16:24:44Z"
+  }
 }

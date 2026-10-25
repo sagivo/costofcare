@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7c",
+    "asset_name": "oria-chi_st_vincent_morrilton-435a1__7c4e2f2cff263267.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/oria-chi_st_vincent_morrilton-435a1__7c4e2f2cff263267.jsonl.gz",
+    "asset_sha256": "7c4e2f2cff2632671fc98af1e81980bf1799caca2c91ba9b59a6a4a86b81f1f9",
+    "published_at": "2026-10-25T16:19:56Z"
+  }
 }

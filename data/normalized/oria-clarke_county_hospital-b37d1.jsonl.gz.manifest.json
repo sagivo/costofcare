@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-40",
+    "asset_name": "oria-clarke_county_hospital-b37d1__4062026959cf249a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-clarke_county_hospital-b37d1__4062026959cf249a.jsonl.gz",
+    "asset_sha256": "4062026959cf249af608c01b1d3ba5135b7616244f6114944da61cb24a04dd31",
+    "published_at": "2026-10-25T16:22:09Z"
+  }
 }

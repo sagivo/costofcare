@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-53",
+    "asset_name": "oria-aurora_medical_center_oshkosh-e710e__53c07cd64327e4b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/oria-aurora_medical_center_oshkosh-e710e__53c07cd64327e4b7.jsonl.gz",
+    "asset_sha256": "53c07cd64327e4b79dcd7ffaef1f55c5c386f38c29140ac69f403410699e9ae3",
+    "published_at": "2026-10-25T16:12:12Z"
+  }
 }

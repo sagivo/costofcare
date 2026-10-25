@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d4",
+    "asset_name": "oria-battle_mountain_general_hospital-a3dec__d4636b4001ed0509.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/oria-battle_mountain_general_hospital-a3dec__d4636b4001ed0509.jsonl.gz",
+    "asset_sha256": "d4636b4001ed050954c87f97532abadca81a57d10f6d252f988b3b34929baa9e",
+    "published_at": "2026-10-25T16:13:59Z"
+  }
 }

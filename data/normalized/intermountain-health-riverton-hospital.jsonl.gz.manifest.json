@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-60",
+    "asset_name": "intermountain-health-riverton-hospital__60b84a0f0e3f765d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-60/intermountain-health-riverton-hospital__60b84a0f0e3f765d.jsonl.gz",
+    "asset_sha256": "60b84a0f0e3f765d6f110f4c0d12744951e8652a58ee90e34690f808e6baf710",
+    "published_at": "2026-10-25T16:09:16Z"
+  }
 }

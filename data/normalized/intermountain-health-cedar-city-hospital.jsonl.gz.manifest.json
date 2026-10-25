@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fa",
+    "asset_name": "intermountain-health-cedar-city-hospital__fa5fcb24511a9faf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/intermountain-health-cedar-city-hospital__fa5fcb24511a9faf.jsonl.gz",
+    "asset_sha256": "fa5fcb24511a9fafaec49bd626a2f8c7fe7b0a0b362f2f932abceca1222b6fb1",
+    "published_at": "2026-10-25T16:08:54Z"
+  }
 }

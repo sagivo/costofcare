@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cd",
+    "asset_name": "oria-carle_richland_memorial_hospital-09873__cdd338d323480c63.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/oria-carle_richland_memorial_hospital-09873__cdd338d323480c63.jsonl.gz",
+    "asset_sha256": "cdd338d323480c633214fd0e8a183db2de6620c98037c37ea2e66468c53f2830",
+    "published_at": "2026-10-25T16:16:52Z"
+  }
 }

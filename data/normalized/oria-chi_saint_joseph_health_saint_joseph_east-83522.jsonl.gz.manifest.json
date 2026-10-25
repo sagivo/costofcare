@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b7",
+    "asset_name": "oria-chi_saint_joseph_health_saint_joseph_east-83522__b78ddc1a35501989.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b7/oria-chi_saint_joseph_health_saint_joseph_east-83522__b78ddc1a35501989.jsonl.gz",
+    "asset_sha256": "b78ddc1a3550198947c084912248a3f89aa345666bc1d11e69c649f3a9fcc63d",
+    "published_at": "2026-10-25T16:19:11Z"
+  }
 }

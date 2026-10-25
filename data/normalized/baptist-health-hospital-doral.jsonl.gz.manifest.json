@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 7662",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "baptist-health-hospital-doral__268936088fdbe86b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/baptist-health-hospital-doral__268936088fdbe86b.jsonl.gz",
+    "asset_sha256": "268936088fdbe86bb372a66e69342c4ea7fdf9cb6cead56b5c197871548979a6",
+    "published_at": "2026-10-25T16:06:10Z"
+  }
 }

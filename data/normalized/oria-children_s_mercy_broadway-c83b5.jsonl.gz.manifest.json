@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 6146",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-db",
+    "asset_name": "oria-children_s_mercy_broadway-c83b5__db54ffa723e7cb4d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-children_s_mercy_broadway-c83b5__db54ffa723e7cb4d.jsonl.gz",
+    "asset_sha256": "db54ffa723e7cb4d3bba5d9dc53ff87b2c689cbe1fea323d318488743e50a8cb",
+    "published_at": "2026-10-25T16:20:22Z"
+  }
 }

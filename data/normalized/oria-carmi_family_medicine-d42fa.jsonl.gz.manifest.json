@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-52",
+    "asset_name": "oria-carmi_family_medicine-d42fa__522283cad9c53e99.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/oria-carmi_family_medicine-d42fa__522283cad9c53e99.jsonl.gz",
+    "asset_sha256": "522283cad9c53e99664ee047510b33a9e66587d2bd07db512b6b9d6b0c38a71e",
+    "published_at": "2026-10-25T16:16:56Z"
+  }
 }

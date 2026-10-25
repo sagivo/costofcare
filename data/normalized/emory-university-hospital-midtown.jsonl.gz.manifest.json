@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9f",
+    "asset_name": "emory-university-hospital-midtown__9f7125b370fd1fbe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/emory-university-hospital-midtown__9f7125b370fd1fbe.jsonl.gz",
+    "asset_sha256": "9f7125b370fd1fbecc9692e9a8542e0b46aafa1f21f76b69675a268835a03439",
+    "published_at": "2026-10-25T16:07:58Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-73",
+    "asset_name": "oria-christus_ochsner_st_patrick_hospital-a480d__7342d15d386fc89a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-73/oria-christus_ochsner_st_patrick_hospital-a480d__7342d15d386fc89a.jsonl.gz",
+    "asset_sha256": "7342d15d386fc89acd30ae2e3125a1f644ecd6442c9cb6cce57ec68671f9e79e",
+    "published_at": "2026-10-25T16:20:53Z"
+  }
 }

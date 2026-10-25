@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-20",
+    "asset_name": "memorial-hermann-rockets-orthopedic-hospital__20eadf65d9d8205b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-20/memorial-hermann-rockets-orthopedic-hospital__20eadf65d9d8205b.jsonl.gz",
+    "asset_sha256": "20eadf65d9d8205b9ea1273199d97d457df8bb1073a15d555a82490c703ceaa9",
+    "published_at": "2026-10-25T16:10:31Z"
+  }
 }

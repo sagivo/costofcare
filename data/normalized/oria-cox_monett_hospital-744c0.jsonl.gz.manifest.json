@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1a",
+    "asset_name": "oria-cox_monett_hospital-744c0__1a4d805abaacc897.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/oria-cox_monett_hospital-744c0__1a4d805abaacc897.jsonl.gz",
+    "asset_sha256": "1a4d805abaacc897f7303af375c4da3cccb8933e4a1bc5ba6eb451983e71e4dd",
+    "published_at": "2026-10-25T16:25:23Z"
+  }
 }

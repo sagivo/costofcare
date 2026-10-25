@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 60,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b1",
+    "asset_name": "oria-carrus_behavioral_hospital-fa501__b1a62e64d68a7546.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/oria-carrus_behavioral_hospital-fa501__b1a62e64d68a7546.jsonl.gz",
+    "asset_sha256": "b1a62e64d68a7546e0ff2b20bf69a64f2ec9b8fc0c167c1058cdf628a7db6481",
+    "published_at": "2026-10-25T16:17:07Z"
+  }
 }

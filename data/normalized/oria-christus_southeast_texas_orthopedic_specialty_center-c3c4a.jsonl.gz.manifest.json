@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2d",
+    "asset_name": "oria-christus_southeast_texas_orthopedic_specialty_center-c3c4a__2d897fb9cd24fcbe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2d/oria-christus_southeast_texas_orthopedic_specialty_center-c3c4a__2d897fb9cd24fcbe.jsonl.gz",
+    "asset_sha256": "2d897fb9cd24fcbea41e4f62ac56cb456bd7c9e9de8deb01d0cba1800ed3318c",
+    "published_at": "2026-10-25T16:21:14Z"
+  }
 }

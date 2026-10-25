@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-baptist_memorial_hospital_oktibbeha_county_inc-62070__90677d3170cb3dfe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-baptist_memorial_hospital_oktibbeha_county_inc-62070__90677d3170cb3dfe.jsonl.gz",
+    "asset_sha256": "90677d3170cb3dfe4c3c95cfc59960a60b6f029fdbf877f97f98d333def2670d",
+    "published_at": "2026-10-25T16:13:37Z"
+  }
 }

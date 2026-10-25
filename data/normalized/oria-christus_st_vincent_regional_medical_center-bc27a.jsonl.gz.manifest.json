@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fa",
+    "asset_name": "oria-christus_st_vincent_regional_medical_center-bc27a__fa461f5080a7a14c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/oria-christus_st_vincent_regional_medical_center-bc27a__fa461f5080a7a14c.jsonl.gz",
+    "asset_sha256": "fa461f5080a7a14cf12a64ffe81ef7eac4cf03772894d20c5b3e0c0006244429",
+    "published_at": "2026-10-25T16:21:36Z"
+  }
 }

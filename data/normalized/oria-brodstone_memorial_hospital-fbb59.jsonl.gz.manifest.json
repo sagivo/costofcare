@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-41",
+    "asset_name": "oria-brodstone_memorial_hospital-fbb59__4134228690caab91.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-brodstone_memorial_hospital-fbb59__4134228690caab91.jsonl.gz",
+    "asset_sha256": "4134228690caab91a0f6db36b61ea81ebc84ba7290c706a69e457f0ebbea1cd5",
+    "published_at": "2026-10-25T16:15:53Z"
+  }
 }

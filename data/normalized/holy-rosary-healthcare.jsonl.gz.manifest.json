@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fa",
+    "asset_name": "holy-rosary-healthcare__fa756daa8340a800.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/holy-rosary-healthcare__fa756daa8340a800.jsonl.gz",
+    "asset_sha256": "fa756daa8340a800d1a4c00fc8002c74ff959b0fe6a8140eb31865e636577f8f",
+    "published_at": "2026-10-25T16:08:35Z"
+  }
 }

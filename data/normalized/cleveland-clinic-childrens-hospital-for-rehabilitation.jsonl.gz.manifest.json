@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f1",
+    "asset_name": "cleveland-clinic-childrens-hospital-for-rehabilitation__f112cfcd19aae397.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/cleveland-clinic-childrens-hospital-for-rehabilitation__f112cfcd19aae397.jsonl.gz",
+    "asset_sha256": "f112cfcd19aae397d914d454a45a090184dc3e73c8671ba884273689b5be4dd8",
+    "published_at": "2026-10-25T16:07:24Z"
+  }
 }

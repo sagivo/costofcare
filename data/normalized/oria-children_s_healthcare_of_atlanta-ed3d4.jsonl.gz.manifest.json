@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2344",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-32",
+    "asset_name": "oria-children_s_healthcare_of_atlanta-ed3d4__325c1a454dd97a75.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-32/oria-children_s_healthcare_of_atlanta-ed3d4__325c1a454dd97a75.jsonl.gz",
+    "asset_sha256": "325c1a454dd97a751469f35f75eee0dbea5b2068cefea6c98adcb40642c6acaa",
+    "published_at": "2026-10-25T16:20:02Z"
+  }
 }

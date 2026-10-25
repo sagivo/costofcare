@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "oria-baylor_scott_white_medical_center_uptown-54a7e__dc5ef60336a6995e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-baylor_scott_white_medical_center_uptown-54a7e__dc5ef60336a6995e.jsonl.gz",
+    "asset_sha256": "dc5ef60336a6995e25202d40e8f82246d3b62381837733056812f05d0a9b2e71",
+    "published_at": "2026-10-25T16:14:14Z"
+  }
 }

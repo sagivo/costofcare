@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e2",
+    "asset_name": "oria-central_valley_medical_center-1ade9__e27f57ef3cbda0da.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e2/oria-central_valley_medical_center-1ade9__e27f57ef3cbda0da.jsonl.gz",
+    "asset_sha256": "e27f57ef3cbda0da7f20bca7226855b8adcb4da8307cc9335d93b0dbfed0a3e0",
+    "published_at": "2026-10-25T16:17:50Z"
+  }
 }

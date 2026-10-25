@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-carilion_new_river_valley_medical_center-d79b2__5c67e4d5416e434f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-carilion_new_river_valley_medical_center-d79b2__5c67e4d5416e434f.jsonl.gz",
+    "asset_sha256": "5c67e4d5416e434fa90918c1523d75720d37c638c79fdbdc426083a68f654afb",
+    "published_at": "2026-10-25T16:16:37Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 5764",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-98",
+    "asset_name": "baptist-hospital__982113f9b69f8f52.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/baptist-hospital__982113f9b69f8f52.jsonl.gz",
+    "asset_sha256": "982113f9b69f8f52ee6bef264e24c77250845bc3ab29a06b7e400eeb24e5a3ad",
+    "published_at": "2026-10-25T16:06:11Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 1372",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-be",
+    "asset_name": "mariners-hospital__beb1c90e8e4b5d5d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/mariners-hospital__beb1c90e8e4b5d5d.jsonl.gz",
+    "asset_sha256": "beb1c90e8e4b5d5d033c1df8971b0693cf099cd8b4d8e310a8b1d959c529792f",
+    "published_at": "2026-10-25T16:10:09Z"
+  }
 }

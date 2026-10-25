@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 231",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-97",
+    "asset_name": "oria-community_healthcare_system_hospital-da4ec__97786081d05007f8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-community_healthcare_system_hospital-da4ec__97786081d05007f8.jsonl.gz",
+    "asset_sha256": "97786081d05007f895561bce1e841468f0f593cd3a75df1e1e8510e767ad5e21",
+    "published_at": "2026-10-25T16:23:40Z"
+  }
 }

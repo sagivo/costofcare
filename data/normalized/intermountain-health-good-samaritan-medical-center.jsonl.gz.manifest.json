@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9e",
+    "asset_name": "intermountain-health-good-samaritan-medical-center__9e0e09ecaf7a171e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9e/intermountain-health-good-samaritan-medical-center__9e0e09ecaf7a171e.jsonl.gz",
+    "asset_sha256": "9e0e09ecaf7a171ec72e0fdd1a23389e2f82f70e6671e8d9a4896d1d31caffeb",
+    "published_at": "2026-10-25T16:09:00Z"
+  }
 }

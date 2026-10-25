@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-28",
+    "asset_name": "oria-banner_boswell_medical_center-3813c__287f3b85160e15ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-28/oria-banner_boswell_medical_center-3813c__287f3b85160e15ad.jsonl.gz",
+    "asset_sha256": "287f3b85160e15ade07ee0a9dc99d052ddc88f55aaa1c4c8bf1b3b23fae6b8b2",
+    "published_at": "2026-10-25T16:12:39Z"
+  }
 }

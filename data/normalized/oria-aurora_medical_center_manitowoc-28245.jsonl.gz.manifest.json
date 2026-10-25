@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "oria-aurora_medical_center_manitowoc-28245__f3b4ead4329e9602.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-aurora_medical_center_manitowoc-28245__f3b4ead4329e9602.jsonl.gz",
+    "asset_sha256": "f3b4ead4329e96020ea436c4aa0ec585504399f109ab5c180be57f5b01b0f64b",
+    "published_at": "2026-10-25T16:12:09Z"
+  }
 }

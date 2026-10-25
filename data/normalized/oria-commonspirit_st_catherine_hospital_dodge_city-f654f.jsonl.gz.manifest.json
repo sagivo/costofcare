@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ab",
+    "asset_name": "oria-commonspirit_st_catherine_hospital_dodge_city-f654f__ab40e799c6cf4cf8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ab/oria-commonspirit_st_catherine_hospital_dodge_city-f654f__ab40e799c6cf4cf8.jsonl.gz",
+    "asset_sha256": "ab40e799c6cf4cf89700d30bb0d0e056538255b7ab561dde9045e70008b65ee0",
+    "published_at": "2026-10-25T16:23:27Z"
+  }
 }

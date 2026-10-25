@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "oria-columbia_basin_hospital-14192__58919f354edf7f6a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-columbia_basin_hospital-14192__58919f354edf7f6a.jsonl.gz",
+    "asset_sha256": "58919f354edf7f6a8191ae382550401721d5c295f12b7a9a18bf1ea8c96c6fbd",
+    "published_at": "2026-10-25T16:23:04Z"
+  }
 }

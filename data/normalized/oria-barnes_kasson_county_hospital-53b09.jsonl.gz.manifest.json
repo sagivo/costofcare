@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "oria-barnes_kasson_county_hospital-53b09__dc833dac9420f4ae.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-barnes_kasson_county_hospital-53b09__dc833dac9420f4ae.jsonl.gz",
+    "asset_sha256": "dc833dac9420f4ae2463d0215717990d6cf41ae1b79db927b7b243bafd5eeaf1",
+    "published_at": "2026-10-25T16:13:51Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-boston_children_s_peabody-7d7a6__30c34de89d1fff49.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-boston_children_s_peabody-7d7a6__30c34de89d1fff49.jsonl.gz",
+    "asset_sha256": "30c34de89d1fff49f26f6e0823b8468c7cf4493fa3773b20493c4015242526da",
+    "published_at": "2026-10-25T16:15:24Z"
+  }
 }

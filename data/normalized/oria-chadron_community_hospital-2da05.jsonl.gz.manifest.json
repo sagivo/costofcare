@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d0",
+    "asset_name": "oria-chadron_community_hospital-2da05__d096dd378c3efdc7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/oria-chadron_community_hospital-2da05__d096dd378c3efdc7.jsonl.gz",
+    "asset_sha256": "d096dd378c3efdc76b5136d9a84371616e04bffa270b44be3397ca6b9771f914",
+    "published_at": "2026-10-25T16:17:54Z"
+  }
 }

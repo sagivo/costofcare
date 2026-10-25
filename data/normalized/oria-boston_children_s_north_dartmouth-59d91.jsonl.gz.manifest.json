@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5d",
+    "asset_name": "oria-boston_children_s_north_dartmouth-59d91__5d09712678ec3381.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5d/oria-boston_children_s_north_dartmouth-59d91__5d09712678ec3381.jsonl.gz",
+    "asset_sha256": "5d09712678ec3381792414088da278b86e9d846a7d066899834b80b055612b9b",
+    "published_at": "2026-10-25T16:15:23Z"
+  }
 }

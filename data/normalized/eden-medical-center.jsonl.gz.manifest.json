@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-59",
+    "asset_name": "eden-medical-center__597128fafa819f61.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-59/eden-medical-center__597128fafa819f61.jsonl.gz",
+    "asset_sha256": "597128fafa819f617c8aeeb78493d84cedafcd24644f945eb9c739b4fd459f9f",
+    "published_at": "2026-10-25T16:07:46Z"
+  }
 }

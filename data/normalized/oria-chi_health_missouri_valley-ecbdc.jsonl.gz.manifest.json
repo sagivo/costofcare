@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9f",
+    "asset_name": "oria-chi_health_missouri_valley-ecbdc__9fb8b448d272e9b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/oria-chi_health_missouri_valley-ecbdc__9fb8b448d272e9b7.jsonl.gz",
+    "asset_sha256": "9fb8b448d272e9b7a84aea6bc77133742ac936c71db3ff4cd3182c30405225bb",
+    "published_at": "2026-10-25T16:18:46Z"
+  }
 }

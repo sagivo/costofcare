@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "froedtert-holy-family-memorial-hospital__efe4067306974de8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/froedtert-holy-family-memorial-hospital__efe4067306974de8.jsonl.gz",
+    "asset_sha256": "efe4067306974de838efe86aaa7a4a45e8306bfe332ec753bd21788d36847b76",
+    "published_at": "2026-10-25T16:08:09Z"
+  }
 }

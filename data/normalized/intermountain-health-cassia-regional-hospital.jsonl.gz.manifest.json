@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4a",
+    "asset_name": "intermountain-health-cassia-regional-hospital__4ac7401dd4e2e98f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/intermountain-health-cassia-regional-hospital__4ac7401dd4e2e98f.jsonl.gz",
+    "asset_sha256": "4ac7401dd4e2e98fe9f0c4b1e577ed36e3abcba202705dbb1ce3ac48b7ccdea9",
+    "published_at": "2026-10-25T16:08:53Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d5",
+    "asset_name": "oria-commonspirit_st_thomas_more_hospital-63d03__d5ca60b38c324d06.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/oria-commonspirit_st_thomas_more_hospital-63d03__d5ca60b38c324d06.jsonl.gz",
+    "asset_sha256": "d5ca60b38c324d064c27e79610ddb935059e0209f96f97a5b1dab49bcc468942",
+    "published_at": "2026-10-25T16:23:38Z"
+  }
 }

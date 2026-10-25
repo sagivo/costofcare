@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 77",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ae",
+    "asset_name": "leonard-j-chabert-medical-center__ae4c5d173eeedc8a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ae/leonard-j-chabert-medical-center__ae4c5d173eeedc8a.jsonl.gz",
+    "asset_sha256": "ae4c5d173eeedc8ad5b3ae881dcc41ffd8a53651b554d1469154a521030a9f24",
+    "published_at": "2026-10-25T16:09:58Z"
+  }
 }

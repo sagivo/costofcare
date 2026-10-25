@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1f",
+    "asset_name": "oria-boston_children_s_waltham-19615__1f9499334bbe07f7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1f/oria-boston_children_s_waltham-19615__1f9499334bbe07f7.jsonl.gz",
+    "asset_sha256": "1f9499334bbe07f7aec69070638ab664c763c13def73b64954af529e5388bbc1",
+    "published_at": "2026-10-25T16:15:26Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "oria-aurora_medical_center_bay_area-59ea3__fc220f87cf86987c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-aurora_medical_center_bay_area-59ea3__fc220f87cf86987c.jsonl.gz",
+    "asset_sha256": "fc220f87cf86987ca223fa417f6f523578fb2bebed5e9715ce534971e76e7d46",
+    "published_at": "2026-10-25T16:12:02Z"
+  }
 }

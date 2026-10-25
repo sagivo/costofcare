@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 1838",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b1",
+    "asset_name": "doctors-hospital-2__b112dd78557e0230.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/doctors-hospital-2__b112dd78557e0230.jsonl.gz",
+    "asset_sha256": "b112dd78557e0230a1e919df9fa387bd840c012f09c8bf0750b5bfc69b4b854d",
+    "published_at": "2026-10-25T16:07:40Z"
+  }
 }

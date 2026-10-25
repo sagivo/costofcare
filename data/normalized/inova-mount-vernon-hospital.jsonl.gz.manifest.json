@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2863",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "inova-mount-vernon-hospital__433e4dd9ddb69ca2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/inova-mount-vernon-hospital__433e4dd9ddb69ca2.jsonl.gz",
+    "asset_sha256": "433e4dd9ddb69ca2aedeaa4c30eadd356f85fe8cf8ea120558ce35faab364be5",
+    "published_at": "2026-10-25T16:08:47Z"
+  }
 }

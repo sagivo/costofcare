@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-70",
+    "asset_name": "oria-chi_health_lakeside-30bcd__70e10fbd6a9833d0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-chi_health_lakeside-30bcd__70e10fbd6a9833d0.jsonl.gz",
+    "asset_sha256": "70e10fbd6a9833d0a4cc4130b67f8303bf0ed726641b27197500b80e3497410e",
+    "published_at": "2026-10-25T16:18:38Z"
+  }
 }

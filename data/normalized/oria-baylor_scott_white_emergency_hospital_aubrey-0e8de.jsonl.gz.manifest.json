@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-baylor_scott_white_emergency_hospital_aubrey-0e8de__d9323f403d29165f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-baylor_scott_white_emergency_hospital_aubrey-0e8de__d9323f403d29165f.jsonl.gz",
+    "asset_sha256": "d9323f403d29165fdeadda8a75e6ad3a620a4ebdfb60d7c8ac5b0c911da4b2f3",
+    "published_at": "2026-10-25T16:14:08Z"
+  }
 }

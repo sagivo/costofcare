@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b5",
+    "asset_name": "lankenau-medical-center__b517e75ce90d3e8e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/lankenau-medical-center__b517e75ce90d3e8e.jsonl.gz",
+    "asset_sha256": "b517e75ce90d3e8e3da55b8d447ad1f817aa0f0e6379886c5a6178493ba57b9a",
+    "published_at": "2026-10-25T16:09:36Z"
+  }
 }

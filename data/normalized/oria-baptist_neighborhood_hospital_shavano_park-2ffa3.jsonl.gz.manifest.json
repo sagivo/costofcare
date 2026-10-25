@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-06",
+    "asset_name": "oria-baptist_neighborhood_hospital_shavano_park-2ffa3__06efbf00a2887daa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-06/oria-baptist_neighborhood_hospital_shavano_park-2ffa3__06efbf00a2887daa.jsonl.gz",
+    "asset_sha256": "06efbf00a2887daa1be938ec9cffcae58431daf31aa2ba7e884b96824355ad9a",
+    "published_at": "2026-10-25T16:13:46Z"
+  }
 }

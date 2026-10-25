@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-98",
+    "asset_name": "oria-changes_highland_springs-b4ea0__9800ef062ba0ad9a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/oria-changes_highland_springs-b4ea0__9800ef062ba0ad9a.jsonl.gz",
+    "asset_sha256": "9800ef062ba0ad9a3e6b3655be45e3ddbb17f73aca682f5dc9b665d0528fc3fb",
+    "published_at": "2026-10-25T16:18:09Z"
+  }
 }

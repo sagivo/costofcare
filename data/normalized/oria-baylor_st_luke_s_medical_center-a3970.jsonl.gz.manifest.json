@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1b",
+    "asset_name": "oria-baylor_st_luke_s_medical_center-a3970__1b016cc9e7d0f60d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1b/oria-baylor_st_luke_s_medical_center-a3970__1b016cc9e7d0f60d.jsonl.gz",
+    "asset_sha256": "1b016cc9e7d0f60dfea3d9e273b5a1a87f83bc4f4d7c89103f7bdccea891f1b3",
+    "published_at": "2026-10-25T16:14:20Z"
+  }
 }

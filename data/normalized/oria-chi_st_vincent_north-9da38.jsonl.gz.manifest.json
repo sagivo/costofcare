@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-chi_st_vincent_north-9da38__0fb831852c3f66f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-chi_st_vincent_north-9da38__0fb831852c3f66f2.jsonl.gz",
+    "asset_sha256": "0fb831852c3f66f2ebaa31bc12547fa84df4dfa804fe88cd241cedadb0cf91b2",
+    "published_at": "2026-10-25T16:19:58Z"
+  }
 }

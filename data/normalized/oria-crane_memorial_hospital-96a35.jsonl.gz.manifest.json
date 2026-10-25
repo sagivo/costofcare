@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0e",
+    "asset_name": "oria-crane_memorial_hospital-96a35__0e78e9915050c136.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0e/oria-crane_memorial_hospital-96a35__0e78e9915050c136.jsonl.gz",
+    "asset_sha256": "0e78e9915050c136d89645514958e642429d28eb3a2c3460a189b61928810b02",
+    "published_at": "2026-10-25T16:25:29Z"
+  }
 }

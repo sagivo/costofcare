@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 281",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-de",
+    "asset_name": "oria-chatuge_regional_hospital-7090d__deae1623c61236c3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/oria-chatuge_regional_hospital-7090d__deae1623c61236c3.jsonl.gz",
+    "asset_sha256": "deae1623c61236c3e642499201c9358c29466d812cfecf40fe1c9d7e0f392920",
+    "published_at": "2026-10-25T16:18:22Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "henry-ford-providence-novi-hospital__f0aaa3fdd8d53f95.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/henry-ford-providence-novi-hospital__f0aaa3fdd8d53f95.jsonl.gz",
+    "asset_sha256": "f0aaa3fdd8d53f95f4802361fa11546d186a54a331a87898e30ac247db9d9405",
+    "published_at": "2026-10-25T16:08:25Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-04",
+    "asset_name": "oria-beacon_behavioral_hospital_new_orleans-3c22c__04a0fba41ef2e4e5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-04/oria-beacon_behavioral_hospital_new_orleans-3c22c__04a0fba41ef2e4e5.jsonl.gz",
+    "asset_sha256": "04a0fba41ef2e4e5e88a59304eff7828ac80fbfa4d98eb1e0053241123436493",
+    "published_at": "2026-10-25T16:14:27Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a9",
+    "asset_name": "oria-circles_of_care_inc-f46c4__a9a4f4a49a55a0cf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/oria-circles_of_care_inc-f46c4__a9a4f4a49a55a0cf.jsonl.gz",
+    "asset_sha256": "a9a4f4a49a55a0cfab9136be5e12949d922d4b44e5ead96a21b7987a3c73dc4e",
+    "published_at": "2026-10-25T16:21:56Z"
+  }
 }

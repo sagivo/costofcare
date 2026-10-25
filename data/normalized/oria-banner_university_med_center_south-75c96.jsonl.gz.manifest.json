@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b3",
+    "asset_name": "oria-banner_university_med_center_south-75c96__b37417ebd7d7c2d9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/oria-banner_university_med_center_south-75c96__b37417ebd7d7c2d9.jsonl.gz",
+    "asset_sha256": "b37417ebd7d7c2d953e3ca29f01a999823010bd14f8ef30f5f85426d321773c8",
+    "published_at": "2026-10-25T16:13:08Z"
+  }
 }

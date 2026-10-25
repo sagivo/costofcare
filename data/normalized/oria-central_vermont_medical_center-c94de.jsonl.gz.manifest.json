@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3b",
+    "asset_name": "oria-central_vermont_medical_center-c94de__3b0f6c9e932d0bab.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/oria-central_vermont_medical_center-c94de__3b0f6c9e932d0bab.jsonl.gz",
+    "asset_sha256": "3b0f6c9e932d0babe5ec8f44806e932f1f9c9b77a0b3090d7271c1d7d8d56aa8",
+    "published_at": "2026-10-25T16:17:52Z"
+  }
 }

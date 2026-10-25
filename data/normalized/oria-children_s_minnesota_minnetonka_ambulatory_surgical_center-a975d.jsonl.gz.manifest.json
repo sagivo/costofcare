@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b1",
+    "asset_name": "oria-children_s_minnesota_minnetonka_ambulatory_surgical_center-a975d__b1b8965ad6b642f6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/oria-children_s_minnesota_minnetonka_ambulatory_surgical_center-a975d__b1b8965ad6b642f6.jsonl.gz",
+    "asset_sha256": "b1b8965ad6b642f68727e1483d6125f627b13aad572a2440ae2b42d0cf97881e",
+    "published_at": "2026-10-25T16:20:24Z"
+  }
 }

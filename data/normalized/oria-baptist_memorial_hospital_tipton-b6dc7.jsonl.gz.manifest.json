@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bd",
+    "asset_name": "oria-baptist_memorial_hospital_tipton-b6dc7__bd650ec34903db98.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/oria-baptist_memorial_hospital_tipton-b6dc7__bd650ec34903db98.jsonl.gz",
+    "asset_sha256": "bd650ec34903db98d5c9ebe1f9b9f2c02b854d99f95ccb579e8e070694aef0c7",
+    "published_at": "2026-10-25T16:13:39Z"
+  }
 }

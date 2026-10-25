@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 6103",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e6",
+    "asset_name": "oria-clearsky_rehabilitation_hospital_of_elwood_st_joseph-1a5fe__e6941c6dcaf2697d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/oria-clearsky_rehabilitation_hospital_of_elwood_st_joseph-1a5fe__e6941c6dcaf2697d.jsonl.gz",
+    "asset_sha256": "e6941c6dcaf2697dada25d196c54cb1084ab7f36cc506ffda97533abe5bcf9c6",
+    "published_at": "2026-10-25T16:22:17Z"
+  }
 }

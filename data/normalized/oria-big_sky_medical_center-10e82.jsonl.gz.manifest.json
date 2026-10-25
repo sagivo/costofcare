@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-32",
+    "asset_name": "oria-big_sky_medical_center-10e82__32293ce2a6489c41.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-32/oria-big_sky_medical_center-10e82__32293ce2a6489c41.jsonl.gz",
+    "asset_sha256": "32293ce2a6489c412653e144a2ce3cda22f58a8f55096aac0aea901a688b0a92",
+    "published_at": "2026-10-25T16:15:00Z"
+  }
 }

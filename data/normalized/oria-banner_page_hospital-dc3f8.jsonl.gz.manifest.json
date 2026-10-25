@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-banner_page_hospital-dc3f8__e05e1f704f030d70.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-banner_page_hospital-dc3f8__e05e1f704f030d70.jsonl.gz",
+    "asset_sha256": "e05e1f704f030d707982a56eac816714e77bec82883dd8a90093866a3303c961",
+    "published_at": "2026-10-25T16:13:04Z"
+  }
 }

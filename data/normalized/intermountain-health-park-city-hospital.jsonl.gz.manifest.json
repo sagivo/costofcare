@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a3",
+    "asset_name": "intermountain-health-park-city-hospital__a3b070d56965c794.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/intermountain-health-park-city-hospital__a3b070d56965c794.jsonl.gz",
+    "asset_sha256": "a3b070d56965c7944d4dcdca5991afa599735d287bdaf62bcc7373f3332e3b2a",
+    "published_at": "2026-10-25T16:09:13Z"
+  }
 }

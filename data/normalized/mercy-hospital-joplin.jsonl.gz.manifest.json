@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-89",
+    "asset_name": "mercy-hospital-joplin__89e19ea9fdb8e87f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/mercy-hospital-joplin__89e19ea9fdb8e87f.jsonl.gz",
+    "asset_sha256": "89e19ea9fdb8e87f60e6ad5e3388d729e6c3a1675f7ae474e7ccc1eeb8d7a72e",
+    "published_at": "2026-10-25T16:11:18Z"
+  }
 }

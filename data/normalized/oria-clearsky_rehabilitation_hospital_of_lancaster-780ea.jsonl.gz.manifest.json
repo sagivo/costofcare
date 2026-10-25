@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 2439",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-74",
+    "asset_name": "oria-clearsky_rehabilitation_hospital_of_lancaster-780ea__746ff3e92b6d3783.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-74/oria-clearsky_rehabilitation_hospital_of_lancaster-780ea__746ff3e92b6d3783.jsonl.gz",
+    "asset_sha256": "746ff3e92b6d3783c12b2070f7eef0f8d3e2c831c57c515845d9d2bb10ba663e",
+    "published_at": "2026-10-25T16:22:21Z"
+  }
 }

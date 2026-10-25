@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6f",
+    "asset_name": "memorial-hermann-texas-medical-center__6f3ee45beed796d0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6f/memorial-hermann-texas-medical-center__6f3ee45beed796d0.jsonl.gz",
+    "asset_sha256": "6f3ee45beed796d0c90d8027de4bbe37b1bcf802a7e923b473eb1378d11e4a73",
+    "published_at": "2026-10-25T16:10:37Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ed",
+    "asset_name": "mercy-hospital-healdton__ed8369400e9e2056.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/mercy-hospital-healdton__ed8369400e9e2056.jsonl.gz",
+    "asset_sha256": "ed8369400e9e2056adbb131a82cea11961e818602e73dbb4860c719a674560ec",
+    "published_at": "2026-10-25T16:11:15Z"
+  }
 }

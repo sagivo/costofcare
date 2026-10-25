@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "oria-columbia_basin_family_medicine-a3456__fcafb740f3353490.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-columbia_basin_family_medicine-a3456__fcafb740f3353490.jsonl.gz",
+    "asset_sha256": "fcafb740f3353490f3676f221d75b1973b9eea74b4e44fbbce009bfac48d5c70",
+    "published_at": "2026-10-25T16:23:02Z"
+  }
 }

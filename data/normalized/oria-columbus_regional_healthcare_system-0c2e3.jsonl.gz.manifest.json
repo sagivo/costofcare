@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-64",
+    "asset_name": "oria-columbus_regional_healthcare_system-0c2e3__64b8f4fa2b9ad620.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-columbus_regional_healthcare_system-0c2e3__64b8f4fa2b9ad620.jsonl.gz",
+    "asset_sha256": "64b8f4fa2b9ad620f496387570edac2120192b0967db299e454c836ab3657d82",
+    "published_at": "2026-10-25T16:23:10Z"
+  }
 }

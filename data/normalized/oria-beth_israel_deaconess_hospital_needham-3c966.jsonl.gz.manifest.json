@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "oria-beth_israel_deaconess_hospital_needham-3c966__a7970421cf2ae899.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-beth_israel_deaconess_hospital_needham-3c966__a7970421cf2ae899.jsonl.gz",
+    "asset_sha256": "a7970421cf2ae89954f19067affdf64e5dce6919b847dd89389d0a995bbd83e8",
+    "published_at": "2026-10-25T16:14:50Z"
+  }
 }

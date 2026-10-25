@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-09",
+    "asset_name": "oria-central_utah_rehabilitation_hospital_at_utah_valley_specialty_hospital-35010__091671096b5ba406.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-central_utah_rehabilitation_hospital_at_utah_valley_specialty_hospital-35010__091671096b5ba406.jsonl.gz",
+    "asset_sha256": "091671096b5ba40643ef2e305a65ccaff00a8da9dccc3d24519f7d6844ce20f8",
+    "published_at": "2026-10-25T16:17:48Z"
+  }
 }

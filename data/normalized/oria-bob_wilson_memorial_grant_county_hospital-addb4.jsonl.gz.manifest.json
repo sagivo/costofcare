@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f8",
+    "asset_name": "oria-bob_wilson_memorial_grant_county_hospital-addb4__f890221b758b22d2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f8/oria-bob_wilson_memorial_grant_county_hospital-addb4__f890221b758b22d2.jsonl.gz",
+    "asset_sha256": "f890221b758b22d28a18fa8c27019f8bbfa4a323519c3d086b78b3acc598662a",
+    "published_at": "2026-10-25T16:15:08Z"
+  }
 }

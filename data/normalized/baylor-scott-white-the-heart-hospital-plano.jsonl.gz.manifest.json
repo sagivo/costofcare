@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "baylor-scott-white-the-heart-hospital-plano__30e5cf9936df0153.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/baylor-scott-white-the-heart-hospital-plano__30e5cf9936df0153.jsonl.gz",
+    "asset_sha256": "30e5cf9936df01531a212eb798a10224319bf75e1649f419e40b040a3f5f9982",
+    "published_at": "2026-10-25T16:06:55Z"
+  }
 }

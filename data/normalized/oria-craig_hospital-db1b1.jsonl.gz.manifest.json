@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "oria-craig_hospital-db1b1__4c9eadc6620542c5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/oria-craig_hospital-db1b1__4c9eadc6620542c5.jsonl.gz",
+    "asset_sha256": "4c9eadc6620542c5714f5229d3dfc5c0b201cda2c4a47c7b90efedd341777375",
+    "published_at": "2026-10-25T16:25:27Z"
+  }
 }

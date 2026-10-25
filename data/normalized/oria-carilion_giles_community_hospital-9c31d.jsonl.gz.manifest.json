@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "oria-carilion_giles_community_hospital-9c31d__9a65afa12a01a5f3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-carilion_giles_community_hospital-9c31d__9a65afa12a01a5f3.jsonl.gz",
+    "asset_sha256": "9a65afa12a01a5f31c7da07b52ddfc6401f406ae35494a56d649c896afddf078",
+    "published_at": "2026-10-25T16:16:33Z"
+  }
 }

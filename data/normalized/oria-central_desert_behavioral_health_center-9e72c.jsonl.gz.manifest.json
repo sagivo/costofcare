@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0c",
+    "asset_name": "oria-central_desert_behavioral_health_center-9e72c__0c769bfa7fd699a5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0c/oria-central_desert_behavioral_health_center-9e72c__0c769bfa7fd699a5.jsonl.gz",
+    "asset_sha256": "0c769bfa7fd699a50d885a16059d385ea88a4420e92a4e5f75d16655c2caa463",
+    "published_at": "2026-10-25T16:17:38Z"
+  }
 }

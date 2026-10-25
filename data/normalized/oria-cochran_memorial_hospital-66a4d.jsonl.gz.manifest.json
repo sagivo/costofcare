@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-cochran_memorial_hospital-66a4d__776b193f48e565c0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-cochran_memorial_hospital-66a4d__776b193f48e565c0.jsonl.gz",
+    "asset_sha256": "776b193f48e565c05f6f49e62de5ccd409fd93efc861cd380b861534d19b329b",
+    "published_at": "2026-10-25T16:22:48Z"
+  }
 }

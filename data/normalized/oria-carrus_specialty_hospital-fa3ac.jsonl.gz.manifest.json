@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 60,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1b",
+    "asset_name": "oria-carrus_specialty_hospital-fa3ac__1b8af581790b9770.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1b/oria-carrus_specialty_hospital-fa3ac__1b8af581790b9770.jsonl.gz",
+    "asset_sha256": "1b8af581790b977084c70835836c1de5c39a44f220c4cd5e1def1b42a7e29ab6",
+    "published_at": "2026-10-25T16:17:11Z"
+  }
 }

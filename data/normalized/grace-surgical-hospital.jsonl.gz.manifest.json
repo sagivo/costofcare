@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a3",
+    "asset_name": "grace-surgical-hospital__a3eda3bfed1cf1a0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/grace-surgical-hospital__a3eda3bfed1cf1a0.jsonl.gz",
+    "asset_sha256": "a3eda3bfed1cf1a03d5ee894810174fbe8e59be4fa55c8b5a81176b3b38235ab",
+    "published_at": "2026-10-25T16:08:18Z"
+  }
 }

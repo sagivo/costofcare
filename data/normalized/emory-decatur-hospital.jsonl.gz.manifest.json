@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a4",
+    "asset_name": "emory-decatur-hospital__a47afe2853d1559d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a4/emory-decatur-hospital__a47afe2853d1559d.jsonl.gz",
+    "asset_sha256": "a47afe2853d1559d200fd00a8fe234373ffff3657409fce58dd9988ac2fa93da",
+    "published_at": "2026-10-25T16:07:47Z"
+  }
 }

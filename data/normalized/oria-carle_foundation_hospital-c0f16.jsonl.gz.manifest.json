@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-db",
+    "asset_name": "oria-carle_foundation_hospital-c0f16__dbfe3692544a8d2c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-carle_foundation_hospital-c0f16__dbfe3692544a8d2c.jsonl.gz",
+    "asset_sha256": "dbfe3692544a8d2c0a6c0545b0b3a41ea7fc3c6d7fc4e1f322d8a1e08ea339e3",
+    "published_at": "2026-10-25T16:16:45Z"
+  }
 }

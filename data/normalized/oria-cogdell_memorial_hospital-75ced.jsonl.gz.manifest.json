@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-97",
+    "asset_name": "oria-cogdell_memorial_hospital-75ced__97a52e36aa35ce7e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-cogdell_memorial_hospital-75ced__97a52e36aa35ce7e.jsonl.gz",
+    "asset_sha256": "97a52e36aa35ce7e5a02f62c83b108697841d4464ff4effc1386c9b0e06a25bf",
+    "published_at": "2026-10-25T16:22:54Z"
+  }
 }

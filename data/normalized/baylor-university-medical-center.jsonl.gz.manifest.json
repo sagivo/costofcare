@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9b",
+    "asset_name": "baylor-university-medical-center__9b7a183dc4afee86.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/baylor-university-medical-center__9b7a183dc4afee86.jsonl.gz",
+    "asset_sha256": "9b7a183dc4afee861b5b4f94229b2c1dd7f481ce94bc5235b56b930f8947b1ec",
+    "published_at": "2026-10-25T16:06:57Z"
+  }
 }

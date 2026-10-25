@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7036",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "oria-corewell_health_greenville-27e13__cf00f98026bb03d7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-corewell_health_greenville-27e13__cf00f98026bb03d7.jsonl.gz",
+    "asset_sha256": "cf00f98026bb03d7b5a4df4025d7ea1f74b37fd27b7d1fad485a0e6691a0cdba",
+    "published_at": "2026-10-25T16:24:39Z"
+  }
 }

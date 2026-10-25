@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-73",
+    "asset_name": "oria-brattleboro_retreat-4b1f5__73e9d8b808856ce7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-73/oria-brattleboro_retreat-4b1f5__73e9d8b808856ce7.jsonl.gz",
+    "asset_sha256": "73e9d8b808856ce796ef39ec6afd9e97581b7e85582dcb14eb2076d1931bb4aa",
+    "published_at": "2026-10-25T16:15:39Z"
+  }
 }

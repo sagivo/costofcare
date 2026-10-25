@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-80",
+    "asset_name": "oria-chi_st_alexius_health_garrison-1c665__80bbf8f4edcb5e25.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-80/oria-chi_st_alexius_health_garrison-1c665__80bbf8f4edcb5e25.jsonl.gz",
+    "asset_sha256": "80bbf8f4edcb5e2540541f3ef5e3e78711874ee0357075e18333d760685e5c82",
+    "published_at": "2026-10-25T16:19:26Z"
+  }
 }

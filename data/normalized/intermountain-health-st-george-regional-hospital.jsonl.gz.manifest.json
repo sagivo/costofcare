@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5d",
+    "asset_name": "intermountain-health-st-george-regional-hospital__5d44dd75a4adb39d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5d/intermountain-health-st-george-regional-hospital__5d44dd75a4adb39d.jsonl.gz",
+    "asset_sha256": "5d44dd75a4adb39dccb66ae65be2b04307664dbd7ce022edcdc36fa5c27d37a9",
+    "published_at": "2026-10-25T16:09:22Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4104",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-55",
+    "asset_name": "oria-bend-eab71__55f7b3002b3fe939.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-55/oria-bend-eab71__55f7b3002b3fe939.jsonl.gz",
+    "asset_sha256": "55f7b3002b3fe93910d19d00b4ec6d66a2e03fa545d066908ffa11223946c349",
+    "published_at": "2026-10-25T16:14:41Z"
+  }
 }

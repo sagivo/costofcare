@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-baylor_medical_center_at_trophy_club-4243b__5e82fbd8ff95b01c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-baylor_medical_center_at_trophy_club-4243b__5e82fbd8ff95b01c.jsonl.gz",
+    "asset_sha256": "5e82fbd8ff95b01c12bcb950691400e3a18ba28326dcc0b46c0b0f5e696cbd3a",
+    "published_at": "2026-10-25T16:14:05Z"
+  }
 }

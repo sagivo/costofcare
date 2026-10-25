@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b3",
+    "asset_name": "adventhealth-palm-coast-parkway__b34fc0fc4584ebdb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/adventhealth-palm-coast-parkway__b34fc0fc4584ebdb.jsonl.gz",
+    "asset_sha256": "b34fc0fc4584ebdbf8a4bf576926842c669f12a2cbc311f4b203daf8003b6085",
+    "published_at": "2026-10-25T16:05:51Z"
+  }
 }

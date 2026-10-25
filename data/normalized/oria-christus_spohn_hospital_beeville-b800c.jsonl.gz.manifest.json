@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "oria-christus_spohn_hospital_beeville-b800c__f0c54bcfd06c854d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-christus_spohn_hospital_beeville-b800c__f0c54bcfd06c854d.jsonl.gz",
+    "asset_sha256": "f0c54bcfd06c854d6bb70f3e046ef0b53da38f95c68b122a429767744e6ab8ee",
+    "published_at": "2026-10-25T16:21:20Z"
+  }
 }

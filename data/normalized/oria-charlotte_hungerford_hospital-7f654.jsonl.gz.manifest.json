@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "oria-charlotte_hungerford_hospital-7f654__713a2222ba99d639.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-charlotte_hungerford_hospital-7f654__713a2222ba99d639.jsonl.gz",
+    "asset_sha256": "713a2222ba99d639a20b24da38db2979f9fa93cfa00d203c9904049dcfa75cac",
+    "published_at": "2026-10-25T16:18:17Z"
+  }
 }

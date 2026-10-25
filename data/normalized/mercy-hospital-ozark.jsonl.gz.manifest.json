@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-99",
+    "asset_name": "mercy-hospital-ozark__9919c5173b79ad13.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/mercy-hospital-ozark__9919c5173b79ad13.jsonl.gz",
+    "asset_sha256": "9919c5173b79ad13a140c2796568c10acfb0a3865fbbdebd4f39c0a7c5194e2f",
+    "published_at": "2026-10-25T16:11:28Z"
+  }
 }

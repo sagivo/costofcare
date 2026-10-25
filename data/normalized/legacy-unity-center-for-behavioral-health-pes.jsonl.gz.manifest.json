@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "legacy-unity-center-for-behavioral-health-pes__b6eda935fe76b89b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/legacy-unity-center-for-behavioral-health-pes__b6eda935fe76b89b.jsonl.gz",
+    "asset_sha256": "b6eda935fe76b89b3d46fee957c38f07c5a42a429bc13285dffbb708a807dcba",
+    "published_at": "2026-10-25T16:09:51Z"
+  }
 }

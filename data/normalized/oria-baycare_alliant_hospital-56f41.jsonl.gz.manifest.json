@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f4",
+    "asset_name": "oria-baycare_alliant_hospital-56f41__f429bbf440a90ef1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f4/oria-baycare_alliant_hospital-56f41__f429bbf440a90ef1.jsonl.gz",
+    "asset_sha256": "f429bbf440a90ef1b56f32c9c96f7bec6860f6dcda8c6e84e902c5cd23b28f6e",
+    "published_at": "2026-10-25T16:14:02Z"
+  }
 }

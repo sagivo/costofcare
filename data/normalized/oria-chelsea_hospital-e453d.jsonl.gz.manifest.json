@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-chelsea_hospital-e453d__864f958563658de7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-chelsea_hospital-e453d__864f958563658de7.jsonl.gz",
+    "asset_sha256": "864f958563658de789d4741e889b54d9262a09bffd6f1a8e364c82c3a969ca8c",
+    "published_at": "2026-10-25T16:18:24Z"
+  }
 }

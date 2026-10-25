@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "mercy-family-medicine-900-e-cherry__714b5d62be8a85f3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/mercy-family-medicine-900-e-cherry__714b5d62be8a85f3.jsonl.gz",
+    "asset_sha256": "714b5d62be8a85f38b72af5994c43d48cb381e65162cba5dece1f92447970a06",
+    "published_at": "2026-10-25T16:10:47Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f6",
+    "asset_name": "oria-compass_memorial_healthcare-556ed__f69c5153c7cd1595.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f6/oria-compass_memorial_healthcare-556ed__f69c5153c7cd1595.jsonl.gz",
+    "asset_sha256": "f69c5153c7cd15953d1e82e06ccd7ceb8d2f8036d2f7be270200b3560aa8b98e",
+    "published_at": "2026-10-25T16:23:56Z"
+  }
 }

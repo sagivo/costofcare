@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-chi_memorial_hospital_hixson-3a13a__827dca045980c99f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-chi_memorial_hospital_hixson-3a13a__827dca045980c99f.jsonl.gz",
+    "asset_sha256": "827dca045980c99f05e41bd9bd579f3ba12e332b2010de08652eeb8393051675",
+    "published_at": "2026-10-25T16:19:03Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ba",
+    "asset_name": "intermountain-health-alta-view-hospital__ba288fd3202b95e4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/intermountain-health-alta-view-hospital__ba288fd3202b95e4.jsonl.gz",
+    "asset_sha256": "ba288fd3202b95e482b66af4e27435c50f09047af09d21c5eed3fa75d9985b33",
+    "published_at": "2026-10-25T16:08:48Z"
+  }
 }

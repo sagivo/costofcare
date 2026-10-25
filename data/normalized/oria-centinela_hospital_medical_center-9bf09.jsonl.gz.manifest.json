@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1e",
+    "asset_name": "oria-centinela_hospital_medical_center-9bf09__1e7ea617163013b4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/oria-centinela_hospital_medical_center-9bf09__1e7ea617163013b4.jsonl.gz",
+    "asset_sha256": "1e7ea617163013b44057d4219a3da8856b411680b041d2f5d91b5a1ec0b1f21c",
+    "published_at": "2026-10-25T16:17:37Z"
+  }
 }

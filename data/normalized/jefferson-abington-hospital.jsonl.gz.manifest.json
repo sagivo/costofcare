@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "jefferson-abington-hospital__2b9cb1c288a84dcf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/jefferson-abington-hospital__2b9cb1c288a84dcf.jsonl.gz",
+    "asset_sha256": "2b9cb1c288a84dcfded5ed922835ef6d481f481f44b2602ec3bb5514eb3accaf",
+    "published_at": "2026-10-25T16:09:25Z"
+  }
 }

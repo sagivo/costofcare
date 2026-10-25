@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-12",
+    "asset_name": "oria-central_medical_center-4725b__12d16fd593e295f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-12/oria-central_medical_center-4725b__12d16fd593e295f2.jsonl.gz",
+    "asset_sha256": "12d16fd593e295f2a122843e25d3b88c244dbeb84a23aa5a9519f062b47739a7",
+    "published_at": "2026-10-25T16:17:44Z"
+  }
 }

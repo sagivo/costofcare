@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-41",
+    "asset_name": "oria-aurora_medical_center_fond_du_lac-509af__4108fe69722b1be2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-aurora_medical_center_fond_du_lac-509af__4108fe69722b1be2.jsonl.gz",
+    "asset_sha256": "4108fe69722b1be20fe3dc63c812a0012a5d13d2f5445d8da0db33f639423b3a",
+    "published_at": "2026-10-25T16:12:04Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b5",
+    "asset_name": "covenant-health-hobbs-hospital__b5dad48cc10a7ff6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/covenant-health-hobbs-hospital__b5dad48cc10a7ff6.jsonl.gz",
+    "asset_sha256": "b5dad48cc10a7ff6c0dbf60ccd09bfa7de76b5ea4b365b5da3e37675540a3ab9",
+    "published_at": "2026-10-25T16:07:34Z"
+  }
 }

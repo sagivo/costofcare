@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7f",
+    "asset_name": "henry-ford-brighton-center-for-recovery__7f7e34293e329ea9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7f/henry-ford-brighton-center-for-recovery__7f7e34293e329ea9.jsonl.gz",
+    "asset_sha256": "7f7e34293e329ea97caac4c41e0ca84d12818c48602868a58f74fb891a09a14a",
+    "published_at": "2026-10-25T16:08:21Z"
+  }
 }

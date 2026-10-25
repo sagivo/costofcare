@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1720",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "oria-children_s_hospital_of_philadelphia-021b1__43e4c76763ac615f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-children_s_hospital_of_philadelphia-021b1__43e4c76763ac615f.jsonl.gz",
+    "asset_sha256": "43e4c76763ac615fe20800e17bae61e0462665404e3bb87469e3f9c7280e7a09",
+    "published_at": "2026-10-25T16:20:15Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e3",
+    "asset_name": "oria-cornerstone_regional_hospital-2627a__e36e583cd39760dc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/oria-cornerstone_regional_hospital-2627a__e36e583cd39760dc.jsonl.gz",
+    "asset_sha256": "e36e583cd39760dc12c7236a4d78a724968a16418b56b852f68fa78d80b6f15c",
+    "published_at": "2026-10-25T16:25:03Z"
+  }
 }

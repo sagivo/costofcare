@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-83",
+    "asset_name": "oria-concord_medical_center-33fba__839e59759e8c2807.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/oria-concord_medical_center-33fba__839e59759e8c2807.jsonl.gz",
+    "asset_sha256": "839e59759e8c28073cb5acab257949a444900bb28dcef7a54e4e643ebb1fdbd5",
+    "published_at": "2026-10-25T16:23:58Z"
+  }
 }

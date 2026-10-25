@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8c",
+    "asset_name": "adventhealth-polk__8c3757e5bec63a48.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/adventhealth-polk__8c3757e5bec63a48.jsonl.gz",
+    "asset_sha256": "8c3757e5bec63a4832feb3791bfd40dd49176436ce22b554ed11fc12e61e5134",
+    "published_at": "2026-10-25T16:05:52Z"
+  }
 }

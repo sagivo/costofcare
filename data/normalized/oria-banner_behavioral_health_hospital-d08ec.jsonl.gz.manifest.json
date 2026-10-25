@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "oria-banner_behavioral_health_hospital-d08ec__4c1084aa78d8f442.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/oria-banner_behavioral_health_hospital-d08ec__4c1084aa78d8f442.jsonl.gz",
+    "asset_sha256": "4c1084aa78d8f442d8b6812d4b232a4e899bf6f6e4005fef0a1c276a06f38062",
+    "published_at": "2026-10-25T16:12:37Z"
+  }
 }

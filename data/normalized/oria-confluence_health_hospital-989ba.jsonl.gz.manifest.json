@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4f",
+    "asset_name": "oria-confluence_health_hospital-989ba__4fbb6b78e016568c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4f/oria-confluence_health_hospital-989ba__4fbb6b78e016568c.jsonl.gz",
+    "asset_sha256": "4fbb6b78e016568c09f17f8c2aa56b462a3819b08b78e700f0fa062f2dde19ac",
+    "published_at": "2026-10-25T16:24:07Z"
+  }
 }

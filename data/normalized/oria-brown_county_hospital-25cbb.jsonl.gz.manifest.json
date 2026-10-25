@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-brown_county_hospital-25cbb__5cd35519e707c7dc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-brown_county_hospital-25cbb__5cd35519e707c7dc.jsonl.gz",
+    "asset_sha256": "5cd35519e707c7dcd3b0962ab02bf50bb3f2c54c142feddd482b20904cfd1bf0",
+    "published_at": "2026-10-25T16:15:56Z"
+  }
 }

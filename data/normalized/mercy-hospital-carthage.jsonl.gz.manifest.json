@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "mercy-hospital-carthage__a78427a204dbf580.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/mercy-hospital-carthage__a78427a204dbf580.jsonl.gz",
+    "asset_sha256": "a78427a204dbf5808df6fb2b1f3d2acc92216e8b8c1e6081371d81b05bc7b2c0",
+    "published_at": "2026-10-25T16:11:09Z"
+  }
 }

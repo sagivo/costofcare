@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-cox_medical_center_branson-1bf4b__90f0070783027027.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-cox_medical_center_branson-1bf4b__90f0070783027027.jsonl.gz",
+    "asset_sha256": "90f0070783027027a724251ac3d1404e43f72069ce22a72587ec6093bfa1ffe3",
+    "published_at": "2026-10-25T16:25:19Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 494",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2f",
+    "asset_name": "oria-columbus_regional_health-79827__2ff3cbf9adca84ba.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/oria-columbus_regional_health-79827__2ff3cbf9adca84ba.jsonl.gz",
+    "asset_sha256": "2ff3cbf9adca84bab6ce7ebab6aa200dae1d564a59101f18928e8065aba277e7",
+    "published_at": "2026-10-25T16:23:08Z"
+  }
 }

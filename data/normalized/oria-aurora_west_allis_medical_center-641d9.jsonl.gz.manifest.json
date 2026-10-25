@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a8",
+    "asset_name": "oria-aurora_west_allis_medical_center-641d9__a8c5804930f740f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/oria-aurora_west_allis_medical_center-641d9__a8c5804930f740f2.jsonl.gz",
+    "asset_sha256": "a8c5804930f740f2ad331cf3c859dd0bd6b06a44b0bc3ecc1eb41771b403c78c",
+    "published_at": "2026-10-25T16:12:23Z"
+  }
 }

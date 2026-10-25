@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-colorado_river_medical_center-0a531__05de72fa14ce9248.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-colorado_river_medical_center-0a531__05de72fa14ce9248.jsonl.gz",
+    "asset_sha256": "05de72fa14ce9248ad5c335dc7001fd044a1272ebe41b4c98bd5509b5be6da7e",
+    "published_at": "2026-10-25T16:22:56Z"
+  }
 }

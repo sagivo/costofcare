@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "baylor-scott-white-pavilion-temple__5898fa5c22171025.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/baylor-scott-white-pavilion-temple__5898fa5c22171025.jsonl.gz",
+    "asset_sha256": "5898fa5c2217102574d84274aa94566aa399cd06f99c616d18a49daf88005735",
+    "published_at": "2026-10-25T16:06:51Z"
+  }
 }

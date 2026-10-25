@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ea",
+    "asset_name": "oria-brownsburg_hospital-e4832__eaf9ebff9a595d89.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/oria-brownsburg_hospital-e4832__eaf9ebff9a595d89.jsonl.gz",
+    "asset_sha256": "eaf9ebff9a595d8997e49df072e05b939207684f07a39300e22529ff648d443d",
+    "published_at": "2026-10-25T16:15:59Z"
+  }
 }

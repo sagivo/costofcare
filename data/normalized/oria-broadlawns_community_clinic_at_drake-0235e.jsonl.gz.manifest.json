@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-broadlawns_community_clinic_at_drake-0235e__ef6a124e5266b4f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-broadlawns_community_clinic_at_drake-0235e__ef6a124e5266b4f2.jsonl.gz",
+    "asset_sha256": "ef6a124e5266b4f298aaee78c7944bcdfa70bb3d0e206382bdb67801d1d9b8a1",
+    "published_at": "2026-10-25T16:15:50Z"
+  }
 }

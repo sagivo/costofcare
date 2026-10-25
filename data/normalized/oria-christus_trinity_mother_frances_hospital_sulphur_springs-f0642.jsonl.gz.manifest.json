@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0a",
+    "asset_name": "oria-christus_trinity_mother_frances_hospital_sulphur_springs-f0642__0a8eb02be1cfd716.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0a/oria-christus_trinity_mother_frances_hospital_sulphur_springs-f0642__0a8eb02be1cfd716.jsonl.gz",
+    "asset_sha256": "0a8eb02be1cfd716a5b83bfdbdcd52a92e36c35dbe6753f9cfa6ca89b8766600",
+    "published_at": "2026-10-25T16:21:45Z"
+  }
 }

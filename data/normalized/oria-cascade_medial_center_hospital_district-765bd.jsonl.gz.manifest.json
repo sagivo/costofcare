@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0b",
+    "asset_name": "oria-cascade_medial_center_hospital_district-765bd__0b3c551239b07aa6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-cascade_medial_center_hospital_district-765bd__0b3c551239b07aa6.jsonl.gz",
+    "asset_sha256": "0b3c551239b07aa6dbcdce88bab49e3fbbf6a54de38f1febdbbbb8513878ff44",
+    "published_at": "2026-10-25T16:17:14Z"
+  }
 }

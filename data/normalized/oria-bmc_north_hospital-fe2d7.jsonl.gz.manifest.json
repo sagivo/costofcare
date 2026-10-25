@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a1",
+    "asset_name": "oria-bmc_north_hospital-fe2d7__a167cdaac03cb430.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-bmc_north_hospital-fe2d7__a167cdaac03cb430.jsonl.gz",
+    "asset_sha256": "a167cdaac03cb430fb9349f498a61c13f68fe2b0d65f5f536e3b9fe1c3c4098c",
+    "published_at": "2026-10-25T16:15:07Z"
+  }
 }

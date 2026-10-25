@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "oria-broadlawns_east_university_clinic-7259e__fd69d5f09e0a303e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-broadlawns_east_university_clinic-7259e__fd69d5f09e0a303e.jsonl.gz",
+    "asset_sha256": "fd69d5f09e0a303e8bb5bbf1e98850f84729f0f24821b39c66e33ba22606e9e6",
+    "published_at": "2026-10-25T16:15:52Z"
+  }
 }

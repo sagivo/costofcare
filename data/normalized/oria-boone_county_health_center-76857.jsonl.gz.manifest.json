@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-boone_county_health_center-76857__63bc573b2541eece.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-boone_county_health_center-76857__63bc573b2541eece.jsonl.gz",
+    "asset_sha256": "63bc573b2541eece67c75bdb478e2cc1c6556dad2189a5884ed823c562b87fa7",
+    "published_at": "2026-10-25T16:15:15Z"
+  }
 }

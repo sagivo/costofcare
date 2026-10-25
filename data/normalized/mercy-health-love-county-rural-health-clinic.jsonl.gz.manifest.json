@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "mercy-health-love-county-rural-health-clinic__31f7419ec425d3b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/mercy-health-love-county-rural-health-clinic__31f7419ec425d3b2.jsonl.gz",
+    "asset_sha256": "31f7419ec425d3b2927ca64e8113c12a8ade4ab61b84dabab411137d31092535",
+    "published_at": "2026-10-25T16:10:58Z"
+  }
 }

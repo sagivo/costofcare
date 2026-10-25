@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f5",
+    "asset_name": "oria-carmi_clinic-f71e4__f5a519c5c4a7d2b6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/oria-carmi_clinic-f71e4__f5a519c5c4a7d2b6.jsonl.gz",
+    "asset_sha256": "f5a519c5c4a7d2b66afdfe4f2811e76633fd7cd36ec6f597a1d4f51adebeefad",
+    "published_at": "2026-10-25T16:16:55Z"
+  }
 }

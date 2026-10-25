@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9b",
+    "asset_name": "mercy-hospital-perry__9bc683e15dd406a1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/mercy-hospital-perry__9bc683e15dd406a1.jsonl.gz",
+    "asset_sha256": "9bc683e15dd406a1f77b3077f2774a2364ff150e22cf50405199d5c7d7c24e94",
+    "published_at": "2026-10-25T16:11:36Z"
+  }
 }

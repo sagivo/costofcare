@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-10",
+    "asset_name": "oria-bethesda_butler_hospital-22e8b__10ca94fc7e1c0102.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-10/oria-bethesda_butler_hospital-22e8b__10ca94fc7e1c0102.jsonl.gz",
+    "asset_sha256": "10ca94fc7e1c0102eb3e891553afd5791e1c1767c83eb210931055926cb51ced",
+    "published_at": "2026-10-25T16:14:54Z"
+  }
 }

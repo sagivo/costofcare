@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-13",
+    "asset_name": "emory-johns-creek-hospital__136263045cc24c70.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/emory-johns-creek-hospital__136263045cc24c70.jsonl.gz",
+    "asset_sha256": "136263045cc24c70c7f80d827bdd060b1d129ebe6015cf16007ac8191f3b74fd",
+    "published_at": "2026-10-25T16:07:53Z"
+  }
 }

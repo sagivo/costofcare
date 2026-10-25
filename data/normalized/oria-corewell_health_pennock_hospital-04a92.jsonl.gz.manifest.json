@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7451",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-33",
+    "asset_name": "oria-corewell_health_pennock_hospital-04a92__335636511ac92fc3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-corewell_health_pennock_hospital-04a92__335636511ac92fc3.jsonl.gz",
+    "asset_sha256": "335636511ac92fc3b12de6d26f4ca25365d82d8a6484c57f377031c846b7873d",
+    "published_at": "2026-10-25T16:24:50Z"
+  }
 }

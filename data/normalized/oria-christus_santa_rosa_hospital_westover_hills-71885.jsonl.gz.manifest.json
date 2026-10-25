@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c3",
+    "asset_name": "oria-christus_santa_rosa_hospital_westover_hills-71885__c3bc7a84643c6fcc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c3/oria-christus_santa_rosa_hospital_westover_hills-71885__c3bc7a84643c6fcc.jsonl.gz",
+    "asset_sha256": "c3bc7a84643c6fcc76528288c1db88e2b4d2681095db3568de4f523b748e03aa",
+    "published_at": "2026-10-25T16:21:05Z"
+  }
 }

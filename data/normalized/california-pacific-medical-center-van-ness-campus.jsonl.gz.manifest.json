@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3c",
+    "asset_name": "california-pacific-medical-center-van-ness-campus__3cbb450d5ced90c5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/california-pacific-medical-center-van-ness-campus__3cbb450d5ced90c5.jsonl.gz",
+    "asset_sha256": "3cbb450d5ced90c55767f534042ad3fdc6a8e18216279d77b68cbde4af70c8c1",
+    "published_at": "2026-10-25T16:07:16Z"
+  }
 }

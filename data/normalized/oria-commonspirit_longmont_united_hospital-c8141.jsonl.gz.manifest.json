@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-32",
+    "asset_name": "oria-commonspirit_longmont_united_hospital-c8141__32fc2bc9f9aae433.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-32/oria-commonspirit_longmont_united_hospital-c8141__32fc2bc9f9aae433.jsonl.gz",
+    "asset_sha256": "32fc2bc9f9aae433704b802b6b2f172635834ca5d33ed4b04a30c793a54b1332",
+    "published_at": "2026-10-25T16:23:16Z"
+  }
 }

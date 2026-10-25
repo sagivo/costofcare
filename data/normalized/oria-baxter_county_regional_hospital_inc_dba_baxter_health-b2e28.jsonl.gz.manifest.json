@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "oria-baxter_county_regional_hospital_inc_dba_baxter_health-b2e28__cf7ebed6eb7d3e9c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-baxter_county_regional_hospital_inc_dba_baxter_health-b2e28__cf7ebed6eb7d3e9c.jsonl.gz",
+    "asset_sha256": "cf7ebed6eb7d3e9c6ef48eedaea9bd97c4f62a429576d9d2e896ef98f380cc5a",
+    "published_at": "2026-10-25T16:14:01Z"
+  }
 }

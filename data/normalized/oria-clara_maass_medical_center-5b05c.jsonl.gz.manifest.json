@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-clara_maass_medical_center-5b05c__2685ad5cd2a387c6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-clara_maass_medical_center-5b05c__2685ad5cd2a387c6.jsonl.gz",
+    "asset_sha256": "2685ad5cd2a387c62a7ec65ef99da6eb00fa2641511d535a1aa818b498975f94",
+    "published_at": "2026-10-25T16:22:01Z"
+  }
 }

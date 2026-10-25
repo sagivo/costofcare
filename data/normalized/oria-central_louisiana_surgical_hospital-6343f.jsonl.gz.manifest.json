@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "oria-central_louisiana_surgical_hospital-6343f__fc99ca742de3c004.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-central_louisiana_surgical_hospital-6343f__fc99ca742de3c004.jsonl.gz",
+    "asset_sha256": "fc99ca742de3c004ab1122867756736a4e4180c64d9b1cf9e17a48465524793e",
+    "published_at": "2026-10-25T16:17:40Z"
+  }
 }

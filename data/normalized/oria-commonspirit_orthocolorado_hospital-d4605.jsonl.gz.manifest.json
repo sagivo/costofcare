@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "oria-commonspirit_orthocolorado_hospital-d4605__f036822628ae1252.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-commonspirit_orthocolorado_hospital-d4605__f036822628ae1252.jsonl.gz",
+    "asset_sha256": "f036822628ae1252fc5fdf3db2f1055d4e60477db128aa1b819d62c72d17da9e",
+    "published_at": "2026-10-25T16:23:20Z"
+  }
 }

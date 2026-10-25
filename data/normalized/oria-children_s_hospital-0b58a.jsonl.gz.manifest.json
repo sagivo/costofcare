@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-08",
+    "asset_name": "oria-children_s_hospital-0b58a__08cdc45e2cd8bf8a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/oria-children_s_hospital-0b58a__08cdc45e2cd8bf8a.jsonl.gz",
+    "asset_sha256": "08cdc45e2cd8bf8ae56501ddb05e457e82149c6dd6215ef3c245b06fb2fe9980",
+    "published_at": "2026-10-25T16:20:06Z"
+  }
 }

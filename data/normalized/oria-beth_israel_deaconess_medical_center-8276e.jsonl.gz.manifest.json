@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-beth_israel_deaconess_medical_center-8276e__307a2c3bddb13314.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-beth_israel_deaconess_medical_center-8276e__307a2c3bddb13314.jsonl.gz",
+    "asset_sha256": "307a2c3bddb133147cb8bf7d3f58f9767bf04b07587637e8ae77af7b0479caf6",
+    "published_at": "2026-10-25T16:14:53Z"
+  }
 }

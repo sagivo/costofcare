@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7c",
+    "asset_name": "emory-hospital-perry__7c21ff95bb3c2d27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/emory-hospital-perry__7c21ff95bb3c2d27.jsonl.gz",
+    "asset_sha256": "7c21ff95bb3c2d272dc0c8bf0ff6ae6b9819995b4c285516f3dcc69b257aa9e7",
+    "published_at": "2026-10-25T16:07:50Z"
+  }
 }

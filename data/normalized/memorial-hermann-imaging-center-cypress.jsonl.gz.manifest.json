@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-14",
+    "asset_name": "memorial-hermann-imaging-center-cypress__145f7b7c9f6ec575.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-14/memorial-hermann-imaging-center-cypress__145f7b7c9f6ec575.jsonl.gz",
+    "asset_sha256": "145f7b7c9f6ec5753d270bb3335b869963d717086a85bf9fbfa5d3faa465fcba",
+    "published_at": "2026-10-25T16:10:19Z"
+  }
 }

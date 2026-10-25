@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-casey_county_hospital-684aa__306cb764c72cc9fb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-casey_county_hospital-684aa__306cb764c72cc9fb.jsonl.gz",
+    "asset_sha256": "306cb764c72cc9fb1cff883a58702df80f3d58d92c9f5cfb348873004909cbaa",
+    "published_at": "2026-10-25T16:17:20Z"
+  }
 }

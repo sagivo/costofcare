@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0a",
+    "asset_name": "oria-comanche_county_hospital-222ad__0a6f5f71bf3a043a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0a/oria-comanche_county_hospital-222ad__0a6f5f71bf3a043a.jsonl.gz",
+    "asset_sha256": "0a6f5f71bf3a043a142c224dd9062afa26741f38742bca8767b831639cf2c885",
+    "published_at": "2026-10-25T16:23:14Z"
+  }
 }

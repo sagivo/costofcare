@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "oria-christus_santa_rosa_emergency_center_creekside-7cd9b__214f71f5f075f556.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-christus_santa_rosa_emergency_center_creekside-7cd9b__214f71f5f075f556.jsonl.gz",
+    "asset_sha256": "214f71f5f075f55676cb9a4ec3f0f3e0032f26978324741d1451954c77cef6ed",
+    "published_at": "2026-10-25T16:20:57Z"
+  }
 }

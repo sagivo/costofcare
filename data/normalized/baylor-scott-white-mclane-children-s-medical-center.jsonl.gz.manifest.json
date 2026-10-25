@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8b",
+    "asset_name": "baylor-scott-white-mclane-children-s-medical-center__8b5f87df8b620759.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8b/baylor-scott-white-mclane-children-s-medical-center__8b5f87df8b620759.jsonl.gz",
+    "asset_sha256": "8b5f87df8b620759e9b0c586a426f0f237bef8a8bc28629d04548f307543ce53",
+    "published_at": "2026-10-25T16:06:22Z"
+  }
 }

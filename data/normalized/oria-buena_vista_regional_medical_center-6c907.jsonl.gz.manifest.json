@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ed",
+    "asset_name": "oria-buena_vista_regional_medical_center-6c907__ed5722b3ed83ac51.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/oria-buena_vista_regional_medical_center-6c907__ed5722b3ed83ac51.jsonl.gz",
+    "asset_sha256": "ed5722b3ed83ac51691bbd0c578cd7e5c1567f4e03890801ab5f9795ae999c40",
+    "published_at": "2026-10-25T16:16:03Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-beatrice_community_hospital-ac00f__b673ea831f7ab554.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-beatrice_community_hospital-ac00f__b673ea831f7ab554.jsonl.gz",
+    "asset_sha256": "b673ea831f7ab554ab52bee085ac88d41d16766b4965a47fc4fd24cbcd82545c",
+    "published_at": "2026-10-25T16:14:33Z"
+  }
 }

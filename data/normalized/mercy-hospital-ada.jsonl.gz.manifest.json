@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "mercy-hospital-ada__d1d0246e5beb5f8e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/mercy-hospital-ada__d1d0246e5beb5f8e.jsonl.gz",
+    "asset_sha256": "d1d0246e5beb5f8ec52a172942c4b4357500de116bc17670b03a84d2429557bf",
+    "published_at": "2026-10-25T16:11:01Z"
+  }
 }

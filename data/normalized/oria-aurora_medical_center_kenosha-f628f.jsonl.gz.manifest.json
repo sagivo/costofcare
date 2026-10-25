@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "oria-aurora_medical_center_kenosha-f628f__ec71a4ceda2f2149.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/oria-aurora_medical_center_kenosha-f628f__ec71a4ceda2f2149.jsonl.gz",
+    "asset_sha256": "ec71a4ceda2f2149ecf9a523ecc569fdc73e775e11a0d1df6c1a945b374f0ec0",
+    "published_at": "2026-10-25T16:12:07Z"
+  }
 }

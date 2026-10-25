@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-baraga_county_memorial_hospital-e731b__30e51f53bac58ad2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-baraga_county_memorial_hospital-e731b__30e51f53bac58ad2.jsonl.gz",
+    "asset_sha256": "30e51f53bac58ad2649990ee50b737a35fae73703e7e9191bc59a4372cc2c39e",
+    "published_at": "2026-10-25T16:13:48Z"
+  }
 }

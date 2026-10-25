@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "covenant-hospital-plainview__5ff25a4b30439724.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/covenant-hospital-plainview__5ff25a4b30439724.jsonl.gz",
+    "asset_sha256": "5ff25a4b304397245e26b73bc969865e016a5839bbfe25c8c45c1a5fdccff810",
+    "published_at": "2026-10-25T16:07:37Z"
+  }
 }

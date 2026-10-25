@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 14856,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0b",
+    "asset_name": "oria-bertrand_chaffee_hospital-de47c__0b59d16fc6791f15.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-bertrand_chaffee_hospital-de47c__0b59d16fc6791f15.jsonl.gz",
+    "asset_sha256": "0b59d16fc6791f151ad029b039fd6bd80b1ff54f74c6e1e1e669defe4bebceb8",
+    "published_at": "2026-10-25T16:14:48Z"
+  }
 }

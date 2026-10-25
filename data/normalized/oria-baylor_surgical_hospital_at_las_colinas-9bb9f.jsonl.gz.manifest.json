@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f__e03e7f83b9688b26.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-baylor_surgical_hospital_at_las_colinas-9bb9f__e03e7f83b9688b26.jsonl.gz",
+    "asset_sha256": "e03e7f83b9688b260974c5d58b23ff1a44db28ef11e8e7ed7a43a65b628674f0",
+    "published_at": "2026-10-25T16:14:21Z"
+  }
 }

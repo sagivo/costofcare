@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5102",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b9",
+    "asset_name": "oria-corewell_health_gross_pointe-9a4b2__b94800209bd8a54a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b9/oria-corewell_health_gross_pointe-9a4b2__b94800209bd8a54a.jsonl.gz",
+    "asset_sha256": "b94800209bd8a54a9fb0b65eca380045d1410a33699a9ce2a6073991700be71e",
+    "published_at": "2026-10-25T16:24:40Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e6",
+    "asset_name": "legacy-good-samaritan-medical-center__e684d1320f9b0b9f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/legacy-good-samaritan-medical-center__e684d1320f9b0b9f.jsonl.gz",
+    "asset_sha256": "e684d1320f9b0b9fb13306523f05db5af77c7ff756b67a60dc810a0ecd2eb06f",
+    "published_at": "2026-10-25T16:09:40Z"
+  }
 }

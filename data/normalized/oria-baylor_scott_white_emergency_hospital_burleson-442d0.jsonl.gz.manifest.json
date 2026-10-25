@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a5",
+    "asset_name": "oria-baylor_scott_white_emergency_hospital_burleson-442d0__a56baec08140b696.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a5/oria-baylor_scott_white_emergency_hospital_burleson-442d0__a56baec08140b696.jsonl.gz",
+    "asset_sha256": "a56baec08140b696c3655dbe655ea940a8faedf2f1a242a1ac14afef0f6f633c",
+    "published_at": "2026-10-25T16:14:09Z"
+  }
 }

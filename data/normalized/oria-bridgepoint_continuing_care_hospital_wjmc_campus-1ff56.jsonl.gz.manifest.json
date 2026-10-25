@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "oria-bridgepoint_continuing_care_hospital_wjmc_campus-1ff56__03548a4ea14b86b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/oria-bridgepoint_continuing_care_hospital_wjmc_campus-1ff56__03548a4ea14b86b7.jsonl.gz",
+    "asset_sha256": "03548a4ea14b86b7cd4c4934a43048fcd27e62ef3c09753822b89e6f8589f534",
+    "published_at": "2026-10-25T16:15:43Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 15,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-14",
+    "asset_name": "geisinger-community-medical-center__14f7a8ed067992ed.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-14/geisinger-community-medical-center__14f7a8ed067992ed.jsonl.gz",
+    "asset_sha256": "14f7a8ed067992ed6a428c00ae91d64b393650097a0cd72800c8f8306a200575",
+    "published_at": "2026-10-25T16:08:15Z"
+  }
 }

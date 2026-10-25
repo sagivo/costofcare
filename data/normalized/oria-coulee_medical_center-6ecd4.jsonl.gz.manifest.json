@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3b",
+    "asset_name": "oria-coulee_medical_center-6ecd4__3bba0b606c1354b5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/oria-coulee_medical_center-6ecd4__3bba0b606c1354b5.jsonl.gz",
+    "asset_sha256": "3bba0b606c1354b5ff315fd8ba2e366a77eb27e733e9eba1f24adf9c5fdaeb5c",
+    "published_at": "2026-10-25T16:25:13Z"
+  }
 }

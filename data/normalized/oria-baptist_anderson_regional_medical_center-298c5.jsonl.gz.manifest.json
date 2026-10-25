@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c3",
+    "asset_name": "oria-baptist_anderson_regional_medical_center-298c5__c32849f883fb12bd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c3/oria-baptist_anderson_regional_medical_center-298c5__c32849f883fb12bd.jsonl.gz",
+    "asset_sha256": "c32849f883fb12bd97f328665efc24988091a23b1d5c2e6a2172d2520628b7d5",
+    "published_at": "2026-10-25T16:13:14Z"
+  }
 }

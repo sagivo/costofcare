@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6e",
+    "asset_name": "emory-rehabilitation-hospital__6ec1dc33b78b087b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6e/emory-rehabilitation-hospital__6ec1dc33b78b087b.jsonl.gz",
+    "asset_sha256": "6ec1dc33b78b087bbedec0c0e2dfada6323623050096fecb8b4a8ef42893ed4c",
+    "published_at": "2026-10-25T16:07:56Z"
+  }
 }

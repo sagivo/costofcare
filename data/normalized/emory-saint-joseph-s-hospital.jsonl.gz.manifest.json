@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "emory-saint-joseph-s-hospital__11be8f5e95234948.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/emory-saint-joseph-s-hospital__11be8f5e95234948.jsonl.gz",
+    "asset_sha256": "11be8f5e9523494814a3b8a3eab642bf6c2c074969e62e92ed9a4cefb6d6b525",
+    "published_at": "2026-10-25T16:07:57Z"
+  }
 }

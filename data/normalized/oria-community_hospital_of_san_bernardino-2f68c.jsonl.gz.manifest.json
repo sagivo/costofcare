@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8e",
+    "asset_name": "oria-community_hospital_of_san_bernardino-2f68c__8ea4b9855d2b4320.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8e/oria-community_hospital_of_san_bernardino-2f68c__8ea4b9855d2b4320.jsonl.gz",
+    "asset_sha256": "8ea4b9855d2b4320fc5aa481302cedf9e3c6d8c3476cad140d531e7664268bef",
+    "published_at": "2026-10-25T16:23:43Z"
+  }
 }

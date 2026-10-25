@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-be",
+    "asset_name": "oria-cedars_sinai_marina_hospital-a64c6__becc875c3ea3ba41.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-cedars_sinai_marina_hospital-a64c6__becc875c3ea3ba41.jsonl.gz",
+    "asset_sha256": "becc875c3ea3ba41f3782cc90f9c941b5a0be46f8a29c3d301f88f602111396d",
+    "published_at": "2026-10-25T16:17:33Z"
+  }
 }

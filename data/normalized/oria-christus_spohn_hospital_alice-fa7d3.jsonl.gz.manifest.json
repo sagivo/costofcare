@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-christus_spohn_hospital_alice-fa7d3__02641b395a91d662.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-christus_spohn_hospital_alice-fa7d3__02641b395a91d662.jsonl.gz",
+    "asset_sha256": "02641b395a91d6625491565f03bf635efd484e860735e60d3c3f801e5a4f3f9f",
+    "published_at": "2026-10-25T16:21:18Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-38",
+    "asset_name": "memorial-hermann-imaging-center-bellaire__38a2988e74ee662a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-38/memorial-hermann-imaging-center-bellaire__38a2988e74ee662a.jsonl.gz",
+    "asset_sha256": "38a2988e74ee662aa93fa1f32681916ad994c0d8788768fdc58433261491d586",
+    "published_at": "2026-10-25T16:10:18Z"
+  }
 }

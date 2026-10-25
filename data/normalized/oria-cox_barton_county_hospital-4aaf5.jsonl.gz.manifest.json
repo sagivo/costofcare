@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a6",
+    "asset_name": "oria-cox_barton_county_hospital-4aaf5__a608850bc83dce02.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-cox_barton_county_hospital-4aaf5__a608850bc83dce02.jsonl.gz",
+    "asset_sha256": "a608850bc83dce021c2b42aadad0bb02594fb4ffe9aa2da07ee0facf35ccfcaa",
+    "published_at": "2026-10-25T16:25:17Z"
+  }
 }

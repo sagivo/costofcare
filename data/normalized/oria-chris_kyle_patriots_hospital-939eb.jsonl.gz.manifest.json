@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c2",
+    "asset_name": "oria-chris_kyle_patriots_hospital-939eb__c23887634936e588.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/oria-chris_kyle_patriots_hospital-939eb__c23887634936e588.jsonl.gz",
+    "asset_sha256": "c23887634936e588e5ef6f118ca494a267e1769e7af148a7bdeafad168f4a77f",
+    "published_at": "2026-10-25T16:20:36Z"
+  }
 }

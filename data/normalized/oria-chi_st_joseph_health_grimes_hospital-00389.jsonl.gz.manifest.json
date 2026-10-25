@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "oria-chi_st_joseph_health_grimes_hospital-00389__2b13dd690f0dd85d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-chi_st_joseph_health_grimes_hospital-00389__2b13dd690f0dd85d.jsonl.gz",
+    "asset_sha256": "2b13dd690f0dd85d7c7d167223c651fbd42df910b0c0eb8ec6d351c4285d4d2b",
+    "published_at": "2026-10-25T16:19:36Z"
+  }
 }

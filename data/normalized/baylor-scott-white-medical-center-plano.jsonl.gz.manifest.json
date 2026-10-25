@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-76",
+    "asset_name": "baylor-scott-white-medical-center-plano__7671cb16ae49dee1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/baylor-scott-white-medical-center-plano__7671cb16ae49dee1.jsonl.gz",
+    "asset_sha256": "7671cb16ae49dee13cd965f3de2854e5f840e94cb4f94e9b6e9aa16465907c19",
+    "published_at": "2026-10-25T16:06:44Z"
+  }
 }

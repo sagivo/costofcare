@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "legacy-unity-center-for-behavioral-health-adult-ip__77902d84b2d28b3f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/legacy-unity-center-for-behavioral-health-adult-ip__77902d84b2d28b3f.jsonl.gz",
+    "asset_sha256": "77902d84b2d28b3fd9e6cc549033fe8b904b6b56d4b18c4b477486b1631d3f88",
+    "published_at": "2026-10-25T16:09:49Z"
+  }
 }

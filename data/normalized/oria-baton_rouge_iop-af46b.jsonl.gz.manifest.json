@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3565",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-97",
+    "asset_name": "oria-baton_rouge_iop-af46b__9792e986f1d7a48f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-baton_rouge_iop-af46b__9792e986f1d7a48f.jsonl.gz",
+    "asset_sha256": "9792e986f1d7a48f9aa4582979f72e332e011d68be496e8190d6d9b44d9937b3",
+    "published_at": "2026-10-25T16:13:56Z"
+  }
 }

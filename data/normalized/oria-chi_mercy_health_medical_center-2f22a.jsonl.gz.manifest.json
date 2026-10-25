@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3c",
+    "asset_name": "oria-chi_mercy_health_medical_center-2f22a__3cb444f802b9f8f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/oria-chi_mercy_health_medical_center-2f22a__3cb444f802b9f8f2.jsonl.gz",
+    "asset_sha256": "3cb444f802b9f8f29b4fcddbcf7b0d580123739b14f741ae175d99969471861e",
+    "published_at": "2026-10-25T16:19:05Z"
+  }
 }

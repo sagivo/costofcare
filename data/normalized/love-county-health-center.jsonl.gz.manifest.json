@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "love-county-health-center__0356ef25d6000932.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/love-county-health-center__0356ef25d6000932.jsonl.gz",
+    "asset_sha256": "0356ef25d600093275a993ae367f9094e01c4fe7fb8d2ec5ce6f6572b18fc6c2",
+    "published_at": "2026-10-25T16:10:02Z"
+  }
 }

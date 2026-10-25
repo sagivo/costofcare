@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a6",
+    "asset_name": "oria-aurora_sinai_medical_center_of_aurora_health_care_metro-57090__a6077eab7e0183df.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-aurora_sinai_medical_center_of_aurora_health_care_metro-57090__a6077eab7e0183df.jsonl.gz",
+    "asset_sha256": "a6077eab7e0183dfbf610e735333c4983f6619dc2eb0d6946e8b96f7708811b0",
+    "published_at": "2026-10-25T16:12:19Z"
+  }
 }

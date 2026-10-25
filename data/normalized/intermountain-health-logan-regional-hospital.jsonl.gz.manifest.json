@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-92",
+    "asset_name": "intermountain-health-logan-regional-hospital__926eea91580679e9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-92/intermountain-health-logan-regional-hospital__926eea91580679e9.jsonl.gz",
+    "asset_sha256": "926eea91580679e9adcd5e752071a608fbb66759d65401e99200028bd7d0d501",
+    "published_at": "2026-10-25T16:09:07Z"
+  }
 }

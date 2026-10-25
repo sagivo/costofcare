@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c1",
+    "asset_name": "oria-christus_trinity_mother_frances_louis_peaches_owens_heart_hospital-1aea4__c1c062e676e872fe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c1/oria-christus_trinity_mother_frances_louis_peaches_owens_heart_hospital-1aea4__c1c062e676e872fe.jsonl.gz",
+    "asset_sha256": "c1c062e676e872feed7070b966a124a884e07016cef358ff456668ff6fbdd087",
+    "published_at": "2026-10-25T16:21:50Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-42",
+    "asset_name": "baylor-scott-white-medical-center-waxahachie__428d8b60945aa5d1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-42/baylor-scott-white-medical-center-waxahachie__428d8b60945aa5d1.jsonl.gz",
+    "asset_sha256": "428d8b60945aa5d19c7d1b9a217e8ec90607159c95d014b3e087e7b86beb9fae",
+    "published_at": "2026-10-25T16:06:49Z"
+  }
 }

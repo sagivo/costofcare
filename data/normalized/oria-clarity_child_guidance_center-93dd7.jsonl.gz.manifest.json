@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ac",
+    "asset_name": "oria-clarity_child_guidance_center-93dd7__ac271d130eaca0b1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/oria-clarity_child_guidance_center-93dd7__ac271d130eaca0b1.jsonl.gz",
+    "asset_sha256": "ac271d130eaca0b14883af55193ed1aec96ed03d03ee49f46cde27f2f640a7ed",
+    "published_at": "2026-10-25T16:22:05Z"
+  }
 }

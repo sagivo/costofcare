@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-19",
+    "asset_name": "oria-baptist_memorial_hospital_union_city-7b318__1942796dfdb2c916.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-19/oria-baptist_memorial_hospital_union_city-7b318__1942796dfdb2c916.jsonl.gz",
+    "asset_sha256": "1942796dfdb2c916ead02844d56c7289537d185ebe620a75a0160ce0a50d12e5",
+    "published_at": "2026-10-25T16:13:40Z"
+  }
 }

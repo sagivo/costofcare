@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e5",
+    "asset_name": "oria-christus_santa_rosa_hospital_alamo_heights-6e197__e5fb9a72425ac09c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-christus_santa_rosa_hospital_alamo_heights-6e197__e5fb9a72425ac09c.jsonl.gz",
+    "asset_sha256": "e5fb9a72425ac09c707ef2530f431934ad0eaaaf3f52674b9bc1929a99b4488f",
+    "published_at": "2026-10-25T16:20:59Z"
+  }
 }

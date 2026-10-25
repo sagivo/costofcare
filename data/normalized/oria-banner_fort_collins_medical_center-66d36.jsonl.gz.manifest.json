@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8c",
+    "asset_name": "oria-banner_fort_collins_medical_center-66d36__8ccde108fc0e58ab.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-banner_fort_collins_medical_center-66d36__8ccde108fc0e58ab.jsonl.gz",
+    "asset_sha256": "8ccde108fc0e58ab93e6b2cbd2050dabf44940ad20848175ebcd5901f6700787",
+    "published_at": "2026-10-25T16:12:49Z"
+  }
 }

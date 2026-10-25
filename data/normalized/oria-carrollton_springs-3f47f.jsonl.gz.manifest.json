@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e8",
+    "asset_name": "oria-carrollton_springs-3f47f__e8f47fc526b2e061.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e8/oria-carrollton_springs-3f47f__e8f47fc526b2e061.jsonl.gz",
+    "asset_sha256": "e8f47fc526b2e061aee372d98a7f0391444572d22b128617ad9d3668bc98ebfd",
+    "published_at": "2026-10-25T16:17:05Z"
+  }
 }

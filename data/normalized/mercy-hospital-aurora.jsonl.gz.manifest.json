@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ed",
+    "asset_name": "mercy-hospital-aurora__ed139aa48ea40a1f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/mercy-hospital-aurora__ed139aa48ea40a1f.jsonl.gz",
+    "asset_sha256": "ed139aa48ea40a1f3ede5e01661d8d5d7c119a09608dd4c16c79441219f933c5",
+    "published_at": "2026-10-25T16:11:04Z"
+  }
 }

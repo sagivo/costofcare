@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-67",
+    "asset_name": "oria-boone_memorial_hospital-1f73a__67e4038472ed8f33.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/oria-boone_memorial_hospital-1f73a__67e4038472ed8f33.jsonl.gz",
+    "asset_sha256": "67e4038472ed8f33e5953520e8a69c53e55595486503b2f29067cddf5c83faa7",
+    "published_at": "2026-10-25T16:15:16Z"
+  }
 }

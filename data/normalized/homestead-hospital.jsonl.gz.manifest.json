@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 2774",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1e",
+    "asset_name": "homestead-hospital__1ed448052730a1d4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/homestead-hospital__1ed448052730a1d4.jsonl.gz",
+    "asset_sha256": "1ed448052730a1d412c431f0d7a1d5459842036b660e2d702fb0871060c55887",
+    "published_at": "2026-10-25T16:08:37Z"
+  }
 }

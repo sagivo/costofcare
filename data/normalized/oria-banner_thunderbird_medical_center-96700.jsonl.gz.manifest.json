@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-79",
+    "asset_name": "oria-banner_thunderbird_medical_center-96700__79ce4185401c3956.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/oria-banner_thunderbird_medical_center-96700__79ce4185401c3956.jsonl.gz",
+    "asset_sha256": "79ce4185401c39567014365d9ae6e2e3e14024a2e7afc12dc441a0ef359df71a",
+    "published_at": "2026-10-25T16:13:07Z"
+  }
 }

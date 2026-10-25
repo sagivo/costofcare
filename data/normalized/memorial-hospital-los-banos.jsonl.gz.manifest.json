@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "memorial-hospital-los-banos__586b09412799a8f6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/memorial-hospital-los-banos__586b09412799a8f6.jsonl.gz",
+    "asset_sha256": "586b09412799a8f615cb4189384e4db5ec2010b8d5b1635f0f303f55ec7d70f1",
+    "published_at": "2026-10-25T16:10:40Z"
+  }
 }

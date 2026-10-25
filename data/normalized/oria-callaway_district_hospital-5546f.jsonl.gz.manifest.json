@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f2",
+    "asset_name": "oria-callaway_district_hospital-5546f__f20f7e5238ab4f7b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f2/oria-callaway_district_hospital-5546f__f20f7e5238ab4f7b.jsonl.gz",
+    "asset_sha256": "f20f7e5238ab4f7b867709253f3c6314e6814b9f09d62232f7a34e97421f4d66",
+    "published_at": "2026-10-25T16:16:15Z"
+  }
 }

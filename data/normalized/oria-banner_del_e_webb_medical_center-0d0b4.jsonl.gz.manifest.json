@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-22",
+    "asset_name": "oria-banner_del_e_webb_medical_center-0d0b4__221b1a60185a92b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/oria-banner_del_e_webb_medical_center-0d0b4__221b1a60185a92b2.jsonl.gz",
+    "asset_sha256": "221b1a60185a92b2ddfe3dda8e1f6abbd8b3ab1d2727f95f1812568d65ab1c83",
+    "published_at": "2026-10-25T16:12:45Z"
+  }
 }

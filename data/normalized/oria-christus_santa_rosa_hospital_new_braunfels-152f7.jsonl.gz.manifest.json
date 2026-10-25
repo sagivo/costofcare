@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-98",
+    "asset_name": "oria-christus_santa_rosa_hospital_new_braunfels-152f7__9859e777a9974f2b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/oria-christus_santa_rosa_hospital_new_braunfels-152f7__9859e777a9974f2b.jsonl.gz",
+    "asset_sha256": "9859e777a9974f2b3461078b9b7fa787c2a7176aaffe66ebbe1440a54df89d1f",
+    "published_at": "2026-10-25T16:21:01Z"
+  }
 }

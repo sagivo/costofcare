@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "alta-bates-summit-medical-center-herrick-campus__371292437ce5648f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/alta-bates-summit-medical-center-herrick-campus__371292437ce5648f.jsonl.gz",
+    "asset_sha256": "371292437ce5648f9daf5f8a4ac9eeb500be7f201ed6bdfcc2fcf558075fc913",
+    "published_at": "2026-10-25T16:06:03Z"
+  }
 }

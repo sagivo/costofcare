@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-73",
+    "asset_name": "jefferson-einstein-montgomery-hospital__7353587b3c7ec907.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-73/jefferson-einstein-montgomery-hospital__7353587b3c7ec907.jsonl.gz",
+    "asset_sha256": "7353587b3c7ec90743c0d59309b7bbce0f66aee8452d7b9fef4e93eea6449635",
+    "published_at": "2026-10-25T16:09:26Z"
+  }
 }

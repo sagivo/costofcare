@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-cecil_r_bomar_rehabilitation_center-1e2d3__5ef379ffb1f590b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-cecil_r_bomar_rehabilitation_center-1e2d3__5ef379ffb1f590b7.jsonl.gz",
+    "asset_sha256": "5ef379ffb1f590b7387d229829725e8c6fbaef2f098c8909f766132d3510d1c2",
+    "published_at": "2026-10-25T16:17:31Z"
+  }
 }

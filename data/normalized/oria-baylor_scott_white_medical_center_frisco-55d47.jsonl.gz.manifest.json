@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f7",
+    "asset_name": "oria-baylor_scott_white_medical_center_frisco-55d47__f740951ae27b7877.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f7/oria-baylor_scott_white_medical_center_frisco-55d47__f740951ae27b7877.jsonl.gz",
+    "asset_sha256": "f740951ae27b7877055546db58cd8737f95cc1141ced699e09c4a4755543a977",
+    "published_at": "2026-10-25T16:14:11Z"
+  }
 }

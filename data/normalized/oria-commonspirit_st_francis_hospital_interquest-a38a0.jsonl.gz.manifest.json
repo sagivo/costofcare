@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-36",
+    "asset_name": "oria-commonspirit_st_francis_hospital_interquest-a38a0__36e53470f7c4247f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-36/oria-commonspirit_st_francis_hospital_interquest-a38a0__36e53470f7c4247f.jsonl.gz",
+    "asset_sha256": "36e53470f7c4247ff5e878bc418100a7c0f928d75533b8d9ad0ec42717b714e3",
+    "published_at": "2026-10-25T16:23:35Z"
+  }
 }

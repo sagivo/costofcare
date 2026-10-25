@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8c",
+    "asset_name": "oria-aurora_medical_center_mount_pleasant-be9ce__8c53a150a6bde1ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-aurora_medical_center_mount_pleasant-be9ce__8c53a150a6bde1ad.jsonl.gz",
+    "asset_sha256": "8c53a150a6bde1ad96afd18873490079df0fc02533abbe3a1bf97e212a9821de",
+    "published_at": "2026-10-25T16:12:10Z"
+  }
 }

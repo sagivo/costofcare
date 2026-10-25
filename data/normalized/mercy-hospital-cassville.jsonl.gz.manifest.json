@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "mercy-hospital-cassville__75f4d9f5bfb88dad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/mercy-hospital-cassville__75f4d9f5bfb88dad.jsonl.gz",
+    "asset_sha256": "75f4d9f5bfb88dadd8a0002fa85f63ebcbac5a902e491f913f422ca1b92930d8",
+    "published_at": "2026-10-25T16:11:10Z"
+  }
 }

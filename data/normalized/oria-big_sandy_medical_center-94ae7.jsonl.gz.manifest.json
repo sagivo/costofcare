@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fe",
+    "asset_name": "oria-big_sandy_medical_center-94ae7__fe94d96c47e7ede9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/oria-big_sandy_medical_center-94ae7__fe94d96c47e7ede9.jsonl.gz",
+    "asset_sha256": "fe94d96c47e7ede9b76246fbc632e2effb4fac911d840b7f167aea7bbbf3b74c",
+    "published_at": "2026-10-25T16:14:58Z"
+  }
 }

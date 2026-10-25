@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "baylor-scott-white-medical-center-hillcrest__fd8600d324d9eb72.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/baylor-scott-white-medical-center-hillcrest__fd8600d324d9eb72.jsonl.gz",
+    "asset_sha256": "fd8600d324d9eb721151e3c83a5f652a7e79235b8fcf6a81cdfded730b2d96c4",
+    "published_at": "2026-10-25T16:06:34Z"
+  }
 }

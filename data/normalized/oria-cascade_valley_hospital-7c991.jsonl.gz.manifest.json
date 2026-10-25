@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-59",
+    "asset_name": "oria-cascade_valley_hospital-7c991__5973ebd429ec479e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-59/oria-cascade_valley_hospital-7c991__5973ebd429ec479e.jsonl.gz",
+    "asset_sha256": "5973ebd429ec479e1a812a0b7061b85f5b1cc5c3e9f31516181fcd89bee4291b",
+    "published_at": "2026-10-25T16:17:18Z"
+  }
 }

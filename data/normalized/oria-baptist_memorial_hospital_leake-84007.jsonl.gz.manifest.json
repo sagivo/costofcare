@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8a",
+    "asset_name": "oria-baptist_memorial_hospital_leake-84007__8a35d6bc26a61e9c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8a/oria-baptist_memorial_hospital_leake-84007__8a35d6bc26a61e9c.jsonl.gz",
+    "asset_sha256": "8a35d6bc26a61e9c606a221148db4f1753c0cb47dba6122e18a491449b614ce1",
+    "published_at": "2026-10-25T16:13:32Z"
+  }
 }

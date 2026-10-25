@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7582",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e8",
+    "asset_name": "oria-children_s_hospital_of_the_king_s_daughters-242fa__e810550f7d5cd6b9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e8/oria-children_s_hospital_of_the_king_s_daughters-242fa__e810550f7d5cd6b9.jsonl.gz",
+    "asset_sha256": "e810550f7d5cd6b9fe1414de0b235cd1f00e0a44c4c95ae9412b59f75b0f8401",
+    "published_at": "2026-10-25T16:20:16Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-df",
+    "asset_name": "oria-community_hospital_of_huntington_park-dc024__dfab05573b19c4c8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/oria-community_hospital_of_huntington_park-dc024__dfab05573b19c4c8.jsonl.gz",
+    "asset_sha256": "dfab05573b19c4c8a67137e9909e7b04f07bd8e1e525d46ae0e1737290ffe25b",
+    "published_at": "2026-10-25T16:23:42Z"
+  }
 }

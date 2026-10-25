@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8b",
+    "asset_name": "oria-columbus_springs_east-8414c__8bd23f1b5690a656.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8b/oria-columbus_springs_east-8414c__8bd23f1b5690a656.jsonl.gz",
+    "asset_sha256": "8bd23f1b5690a65622dbedb07ffbcdf00f4e97e86ff852788b71dc82e59d3487",
+    "published_at": "2026-10-25T16:23:12Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f4",
+    "asset_name": "alta-bates-summit-medical-center-alta-bates-campus__f4f639e3a6f23d97.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f4/alta-bates-summit-medical-center-alta-bates-campus__f4f639e3a6f23d97.jsonl.gz",
+    "asset_sha256": "f4f639e3a6f23d977d44451f732f01181b4dae8829ed67640c8507da62db8a8d",
+    "published_at": "2026-10-25T16:06:01Z"
+  }
 }

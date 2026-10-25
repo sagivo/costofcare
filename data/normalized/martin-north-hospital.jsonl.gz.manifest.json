@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "martin-north-hospital__039c50eb687dd86e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/martin-north-hospital__039c50eb687dd86e.jsonl.gz",
+    "asset_sha256": "039c50eb687dd86ef4c2a312badb22e8eba12db1b6c2d4715b1da37bd2d4ed3d",
+    "published_at": "2026-10-25T16:10:10Z"
+  }
 }

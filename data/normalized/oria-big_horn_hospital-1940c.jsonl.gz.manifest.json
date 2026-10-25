@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4b",
+    "asset_name": "oria-big_horn_hospital-1940c__4b1fe13d6a51ea8c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4b/oria-big_horn_hospital-1940c__4b1fe13d6a51ea8c.jsonl.gz",
+    "asset_sha256": "4b1fe13d6a51ea8c927db26ea408cca3d3c6cd4d6bc71928b42ee615d3dc75e2",
+    "published_at": "2026-10-25T16:14:57Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-07",
+    "asset_name": "alta-bates-summit-medical-center-summit-campus-hawthorne__0721abac686e9a70.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/alta-bates-summit-medical-center-summit-campus-hawthorne__0721abac686e9a70.jsonl.gz",
+    "asset_sha256": "0721abac686e9a701dda10d1fb137141bdf0683342e6b1afd60743ebaec50420",
+    "published_at": "2026-10-25T16:06:04Z"
+  }
 }

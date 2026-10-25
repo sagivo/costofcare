@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6312",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "oria-corewell_health_ludington-e4741__21500dd5f1010a97.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-corewell_health_ludington-e4741__21500dd5f1010a97.jsonl.gz",
+    "asset_sha256": "21500dd5f1010a973f4bad410dba4d6e715c31676e0792ccd343027f6663c33b",
+    "published_at": "2026-10-25T16:24:48Z"
+  }
 }

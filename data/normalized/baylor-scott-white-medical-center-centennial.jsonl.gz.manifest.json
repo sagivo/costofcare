@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c2",
+    "asset_name": "baylor-scott-white-medical-center-centennial__c285958a99b3ef52.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/baylor-scott-white-medical-center-centennial__c285958a99b3ef52.jsonl.gz",
+    "asset_sha256": "c285958a99b3ef5241fadddc7f9c22dfa79f17e6d518d090bb1eaef171aa9317",
+    "published_at": "2026-10-25T16:06:28Z"
+  }
 }

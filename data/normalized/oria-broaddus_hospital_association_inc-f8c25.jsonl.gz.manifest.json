@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2d",
+    "asset_name": "oria-broaddus_hospital_association_inc-f8c25__2d0ec1a1a3186730.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2d/oria-broaddus_hospital_association_inc-f8c25__2d0ec1a1a3186730.jsonl.gz",
+    "asset_sha256": "2d0ec1a1a3186730eeac1b963dc1b6ed88ed16e4e777b6d4610aef75c4fd5382",
+    "published_at": "2026-10-25T16:15:46Z"
+  }
 }

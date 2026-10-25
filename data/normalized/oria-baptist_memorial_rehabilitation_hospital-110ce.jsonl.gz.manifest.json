@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 3855",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f1",
+    "asset_name": "oria-baptist_memorial_rehabilitation_hospital-110ce__f16f245ebfa7562e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/oria-baptist_memorial_rehabilitation_hospital-110ce__f16f245ebfa7562e.jsonl.gz",
+    "asset_sha256": "f16f245ebfa7562e7dd31c2247bc606bcd8cc1b6092aa3d51ecbc19b29c5aa58",
+    "published_at": "2026-10-25T16:13:45Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "mercy-hospital-springfield__dc2ac14e2faf8288.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/mercy-hospital-springfield__dc2ac14e2faf8288.jsonl.gz",
+    "asset_sha256": "dc2ac14e2faf82880e82fe6f3c10987d7cd8e859ca329b6aa06537451ad90a16",
+    "published_at": "2026-10-25T16:11:42Z"
+  }
 }

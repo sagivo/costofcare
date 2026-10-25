@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d7",
+    "asset_name": "oria-colquitt_regional_medical_center-5f428__d7870c7497098b4f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d7/oria-colquitt_regional_medical_center-5f428__d7870c7497098b4f.jsonl.gz",
+    "asset_sha256": "d7870c7497098b4f065a901b45a6fdc9a0fb6e87e55fd29f462bc5aae724e6cc",
+    "published_at": "2026-10-25T16:22:59Z"
+  }
 }

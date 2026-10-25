@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-87",
+    "asset_name": "oria-cmh_ojai-70ac4__8783d45929d15f8b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-cmh_ojai-70ac4__8783d45929d15f8b.jsonl.gz",
+    "asset_sha256": "8783d45929d15f8bac3b1d47f3828062d8d7c18cc00ddef43038f115660752ad",
+    "published_at": "2026-10-25T16:22:40Z"
+  }
 }

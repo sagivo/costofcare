@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "maine-medical-center-biddeford__9abc0535feaccad7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/maine-medical-center-biddeford__9abc0535feaccad7.jsonl.gz",
+    "asset_sha256": "9abc0535feaccad72d182cc03553957c343517ea5a55968ccd6cb95b9b773c7b",
+    "published_at": "2026-10-25T16:10:05Z"
+  }
 }

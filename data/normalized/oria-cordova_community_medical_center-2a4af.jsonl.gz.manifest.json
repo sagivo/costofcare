@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "oria-cordova_community_medical_center-2a4af__9a1ea35c98c7a8fd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-cordova_community_medical_center-2a4af__9a1ea35c98c7a8fd.jsonl.gz",
+    "asset_sha256": "9a1ea35c98c7a8fd4e96e398c6bbd3d0614d12aed2936e00317b026c5446bd1f",
+    "published_at": "2026-10-25T16:24:30Z"
+  }
 }

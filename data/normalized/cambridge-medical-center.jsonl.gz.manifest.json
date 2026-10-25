@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9d",
+    "asset_name": "cambridge-medical-center__9d4c1491f5cefd3a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/cambridge-medical-center__9d4c1491f5cefd3a.jsonl.gz",
+    "asset_sha256": "9d4c1491f5cefd3ae47eefd465deb19fa0108e65a3fcd8b98cffe86d370176bd",
+    "published_at": "2026-10-25T16:07:17Z"
+  }
 }

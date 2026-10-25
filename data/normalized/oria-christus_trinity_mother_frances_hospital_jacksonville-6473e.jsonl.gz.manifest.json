@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-25",
+    "asset_name": "oria-christus_trinity_mother_frances_hospital_jacksonville-6473e__25e0018a58990a23.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-25/oria-christus_trinity_mother_frances_hospital_jacksonville-6473e__25e0018a58990a23.jsonl.gz",
+    "asset_sha256": "25e0018a58990a2300937a18a4ae63fc8fafd0faf716d739ce73441ca63eed21",
+    "published_at": "2026-10-25T16:21:40Z"
+  }
 }

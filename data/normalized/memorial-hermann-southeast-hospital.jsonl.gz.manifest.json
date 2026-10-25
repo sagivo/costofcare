@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "memorial-hermann-southeast-hospital__4c1b6617c71c362e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/memorial-hermann-southeast-hospital__4c1b6617c71c362e.jsonl.gz",
+    "asset_sha256": "4c1b6617c71c362e95f4b6aad0bac25dc9b8ff74da5541e8a8e72cb5702f08a7",
+    "published_at": "2026-10-25T16:10:32Z"
+  }
 }

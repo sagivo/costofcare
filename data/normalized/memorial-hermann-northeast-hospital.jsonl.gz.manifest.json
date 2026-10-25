@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3a",
+    "asset_name": "memorial-hermann-northeast-hospital__3a325bde21b62ed2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/memorial-hermann-northeast-hospital__3a325bde21b62ed2.jsonl.gz",
+    "asset_sha256": "3a325bde21b62ed203068ce296c6261825df60dae5a8c7ae3d6f0f48fbb4b950",
+    "published_at": "2026-10-25T16:10:26Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f1",
+    "asset_name": "kadlec-freestanding-emergency-room__f1aa6f41698cf74d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/kadlec-freestanding-emergency-room__f1aa6f41698cf74d.jsonl.gz",
+    "asset_sha256": "f1aa6f41698cf74da04fad2a29fb40839d7de2a01067df798468c4fbc7406aee",
+    "published_at": "2026-10-25T16:09:33Z"
+  }
 }

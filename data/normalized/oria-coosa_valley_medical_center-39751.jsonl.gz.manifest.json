@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-70",
+    "asset_name": "oria-coosa_valley_medical_center-39751__70db1d22133b95a1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-coosa_valley_medical_center-39751__70db1d22133b95a1.jsonl.gz",
+    "asset_sha256": "70db1d22133b95a1f7b047dc5d1d5b8edef07115dcfad4b0e9438f4521848d8f",
+    "published_at": "2026-10-25T16:24:21Z"
+  }
 }

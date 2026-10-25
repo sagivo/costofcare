@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "oria-candler_county_hospital-0070c__37ae797249cca62d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-candler_county_hospital-0070c__37ae797249cca62d.jsonl.gz",
+    "asset_sha256": "37ae797249cca62d57b16c62cc8fb07c0cf62a1da61f57e547815961cbb5e8aa",
+    "published_at": "2026-10-25T16:16:21Z"
+  }
 }

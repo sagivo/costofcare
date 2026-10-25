@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-db",
+    "asset_name": "oria-banner_lassen_medical_center-c8df1__db7d3b0e4a575120.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-banner_lassen_medical_center-c8df1__db7d3b0e4a575120.jsonl.gz",
+    "asset_sha256": "db7d3b0e4a57512047285179c18555ffeb16b1f1a5afb45f7c5696e7bca7c6db",
+    "published_at": "2026-10-25T16:12:56Z"
+  }
 }

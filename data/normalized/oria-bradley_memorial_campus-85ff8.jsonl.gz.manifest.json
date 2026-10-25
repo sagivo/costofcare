@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-87",
+    "asset_name": "oria-bradley_memorial_campus-85ff8__87c26f6385f69542.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-bradley_memorial_campus-85ff8__87c26f6385f69542.jsonl.gz",
+    "asset_sha256": "87c26f6385f69542cfb542283fb4a77adb1b459cfbf86cbee7da1b3bbcdb593d",
+    "published_at": "2026-10-25T16:15:36Z"
+  }
 }

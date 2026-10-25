@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f4",
+    "asset_name": "oria-conway_medical_center-9c565__f4f40091fb6c0abd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f4/oria-conway_medical_center-9c565__f4f40091fb6c0abd.jsonl.gz",
+    "asset_sha256": "f4f40091fb6c0abdbb27f5d8efb873075eed2114b44d03adaf82544189d3240b",
+    "published_at": "2026-10-25T16:24:12Z"
+  }
 }

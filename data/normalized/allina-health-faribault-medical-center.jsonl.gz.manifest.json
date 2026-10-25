@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-68",
+    "asset_name": "allina-health-faribault-medical-center__680a132863cd6898.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-68/allina-health-faribault-medical-center__680a132863cd6898.jsonl.gz",
+    "asset_sha256": "680a132863cd689865cbcf0a5bb8831334972444d5b14d9f3e5fe25dd240a77b",
+    "published_at": "2026-10-25T16:05:57Z"
+  }
 }

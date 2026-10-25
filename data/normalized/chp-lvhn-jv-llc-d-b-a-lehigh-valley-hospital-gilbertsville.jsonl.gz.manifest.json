@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d4",
+    "asset_name": "chp-lvhn-jv-llc-d-b-a-lehigh-valley-hospital-gilbertsville__d48f777fcf985e19.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/chp-lvhn-jv-llc-d-b-a-lehigh-valley-hospital-gilbertsville__d48f777fcf985e19.jsonl.gz",
+    "asset_sha256": "d48f777fcf985e192a418f6eb4b9fa2ca25072cac9f28ec343c1d2151bc4b219",
+    "published_at": "2026-10-25T16:07:20Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-df",
+    "asset_name": "oria-aurora_medical_center_summit-ae9ae__df42c97f281fc8c8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/oria-aurora_medical_center_summit-ae9ae__df42c97f281fc8c8.jsonl.gz",
+    "asset_sha256": "df42c97f281fc8c8c78b693daceec8677ceb567b6fff0cc491b684e195f8cc1a",
+    "published_at": "2026-10-25T16:12:14Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-56",
+    "asset_name": "oria-cass_regional_medical_center-9b867__56d2a383df04b903.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-56/oria-cass_regional_medical_center-9b867__56d2a383df04b903.jsonl.gz",
+    "asset_sha256": "56d2a383df04b9033e9f1764c3e4ea4b9d2649c6bd051d71ff83592c52c8aa1c",
+    "published_at": "2026-10-25T16:17:22Z"
+  }
 }

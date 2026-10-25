@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "oria-ben_taub_hospital-7719f__71a9609249e5b2ca.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-ben_taub_hospital-7719f__71a9609249e5b2ca.jsonl.gz",
+    "asset_sha256": "71a9609249e5b2cac4811a76310a300f8fbf30281de0c68f472c6da4319c407e",
+    "published_at": "2026-10-25T16:14:40Z"
+  }
 }

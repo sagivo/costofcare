@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "oria-christus_good_shepherd_hospital_northpark-57a0c__61aec69b7a983300.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-christus_good_shepherd_hospital_northpark-57a0c__61aec69b7a983300.jsonl.gz",
+    "asset_sha256": "61aec69b7a983300245e42921db5bd8dea7f4c5901eb517e811247c60cfa2d7b",
+    "published_at": "2026-10-25T16:20:40Z"
+  }
 }

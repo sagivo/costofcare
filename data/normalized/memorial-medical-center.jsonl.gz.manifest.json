@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "memorial-medical-center__fc7182d4b710c842.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/memorial-medical-center__fc7182d4b710c842.jsonl.gz",
+    "asset_sha256": "fc7182d4b710c842aa84c3284179e880069c73b96bccaa729d73283f539d4437",
+    "published_at": "2026-10-25T16:10:44Z"
+  }
 }

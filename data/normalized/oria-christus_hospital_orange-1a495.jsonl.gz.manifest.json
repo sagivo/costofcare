@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "oria-christus_hospital_orange-1a495__58d2fdbbea92b7ef.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-christus_hospital_orange-1a495__58d2fdbbea92b7ef.jsonl.gz",
+    "asset_sha256": "58d2fdbbea92b7ef07148bbd87be84939d80cba7192f8a337b5a917933a743e9",
+    "published_at": "2026-10-25T16:20:50Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f5",
+    "asset_name": "memorial-hermann-pearland-hospital__f5036e1895bfd611.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/memorial-hermann-pearland-hospital__f5036e1895bfd611.jsonl.gz",
+    "asset_sha256": "f5036e1895bfd611b890226d4b7a2939616b176961778cfeabab942f78477b6a",
+    "published_at": "2026-10-25T16:10:28Z"
+  }
 }

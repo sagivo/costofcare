@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "keck-hospital-of-usc__b479eb924c99334e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/keck-hospital-of-usc__b479eb924c99334e.jsonl.gz",
+    "asset_sha256": "b479eb924c99334e1eb5f42e4d0a0b39753b0a62abcba79989601a6464e1876d",
+    "published_at": "2026-10-25T16:09:35Z"
+  }
 }

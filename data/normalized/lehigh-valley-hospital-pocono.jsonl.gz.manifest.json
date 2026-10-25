@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "lehigh-valley-hospital-pocono__f01da41f3b655f5c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/lehigh-valley-hospital-pocono__f01da41f3b655f5c.jsonl.gz",
+    "asset_sha256": "f01da41f3b655f5c3c48d2ad792a5f7aecd120e63c3ede0a8c6efd7d364743ba",
+    "published_at": "2026-10-25T16:09:55Z"
+  }
 }

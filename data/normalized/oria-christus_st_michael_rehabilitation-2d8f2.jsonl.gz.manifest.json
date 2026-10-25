@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "oria-christus_st_michael_rehabilitation-2d8f2__fcecfbe68bc7c75f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-christus_st_michael_rehabilitation-2d8f2__fcecfbe68bc7c75f.jsonl.gz",
+    "asset_sha256": "fcecfbe68bc7c75f45e6d5b3a59725127514693fb1616ed8e23e35e13ec66c17",
+    "published_at": "2026-10-25T16:21:34Z"
+  }
 }

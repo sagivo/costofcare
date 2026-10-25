@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-carilion_medical_center_doing_business_as_carilion_roanoke_community_hospital-8ab08__eff555238fa4dcca.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-carilion_medical_center_doing_business_as_carilion_roanoke_community_hospital-8ab08__eff555238fa4dcca.jsonl.gz",
+    "asset_sha256": "eff555238fa4dccae9e3806dd8df40b21a6aa7d7f6e6744c50231fcf98b045a6",
+    "published_at": "2026-10-25T16:16:34Z"
+  }
 }

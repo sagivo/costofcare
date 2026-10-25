@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-67",
+    "asset_name": "oria-changes_dublin_springs-65c1d__6729be141b3d8795.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/oria-changes_dublin_springs-65c1d__6729be141b3d8795.jsonl.gz",
+    "asset_sha256": "6729be141b3d8795a9feb18f32c7636f01b5108a5804bd628e225c19fc7ab4cf",
+    "published_at": "2026-10-25T16:18:07Z"
+  }
 }

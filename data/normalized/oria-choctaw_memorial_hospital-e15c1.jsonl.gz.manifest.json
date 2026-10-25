@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b2",
+    "asset_name": "oria-choctaw_memorial_hospital-e15c1__b2865fa19f553343.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-choctaw_memorial_hospital-e15c1__b2865fa19f553343.jsonl.gz",
+    "asset_sha256": "b2865fa19f553343a6fafb3912081959157d8e97a834f1ff7b50050aa9476940",
+    "published_at": "2026-10-25T16:20:34Z"
+  }
 }

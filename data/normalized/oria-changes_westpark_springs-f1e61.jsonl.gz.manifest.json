@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7b",
+    "asset_name": "oria-changes_westpark_springs-f1e61__7b7f808f7ce6c459.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/oria-changes_westpark_springs-f1e61__7b7f808f7ce6c459.jsonl.gz",
+    "asset_sha256": "7b7f808f7ce6c45967f3bfd0d66e3dc199ecdde7b7576b825a0a6a36b833b3f0",
+    "published_at": "2026-10-25T16:18:13Z"
+  }
 }

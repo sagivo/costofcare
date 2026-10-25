@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c6",
+    "asset_name": "intermountain-health-layton-hospital__c612247a79df6636.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c6/intermountain-health-layton-hospital__c612247a79df6636.jsonl.gz",
+    "asset_sha256": "c612247a79df6636cd9b24f76d8ba1160f0578be69c8fe09decee48f145f8c8b",
+    "published_at": "2026-10-25T16:09:04Z"
+  }
 }

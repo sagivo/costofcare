@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 4857",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f5",
+    "asset_name": "oria-coquille_valley_hospital-fca49__f50c87bfdfa24ce7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/oria-coquille_valley_hospital-fca49__f50c87bfdfa24ce7.jsonl.gz",
+    "asset_sha256": "f50c87bfdfa24ce775c5571c6140241b28676a927c52aabf954c3abe0df893ee",
+    "published_at": "2026-10-25T16:24:26Z"
+  }
 }

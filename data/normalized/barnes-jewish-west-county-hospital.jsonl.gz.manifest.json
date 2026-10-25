@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5b",
+    "asset_name": "barnes-jewish-west-county-hospital__5bf8c0dc57f1c468.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5b/barnes-jewish-west-county-hospital__5bf8c0dc57f1c468.jsonl.gz",
+    "asset_sha256": "5bf8c0dc57f1c468eae90738c2232e54379c6fa43d1c8aa445b426c9add81c4b",
+    "published_at": "2026-10-25T16:06:14Z"
+  }
 }

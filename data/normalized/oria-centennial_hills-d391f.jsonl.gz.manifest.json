@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3279",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ce",
+    "asset_name": "oria-centennial_hills-d391f__ce8eb03453b3ccb2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ce/oria-centennial_hills-d391f__ce8eb03453b3ccb2.jsonl.gz",
+    "asset_sha256": "ce8eb03453b3ccb2e9001290d8eca6c788f6062135b7a2bbb453c8b5ab610323",
+    "published_at": "2026-10-25T16:17:35Z"
+  }
 }

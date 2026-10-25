@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "mainehealth-memorial-hospital__0552ede0075491f9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/mainehealth-memorial-hospital__0552ede0075491f9.jsonl.gz",
+    "asset_sha256": "0552ede0075491f9504e76650b5d336c3c66b448259055c1573b1b3afaee7c9b",
+    "published_at": "2026-10-25T16:10:07Z"
+  }
 }

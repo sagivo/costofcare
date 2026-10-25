@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f9",
+    "asset_name": "intermountain-health-sevier-valley-hospital__f9240c437a698c51.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/intermountain-health-sevier-valley-hospital__f9240c437a698c51.jsonl.gz",
+    "asset_sha256": "f9240c437a698c51beb1869c3791b08d1a4141f08e0fc3e8674a3bcbb9bb9b6b",
+    "published_at": "2026-10-25T16:09:19Z"
+  }
 }

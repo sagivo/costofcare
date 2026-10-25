@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-69",
+    "asset_name": "oria-community_memorial_hospital-9ae6a__69e77570445d0158.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-community_memorial_hospital-9ae6a__69e77570445d0158.jsonl.gz",
+    "asset_sha256": "69e77570445d01585980bc7178b112e201cd3ab3a77e23b96853592c23ed3b1d",
+    "published_at": "2026-10-25T16:23:50Z"
+  }
 }

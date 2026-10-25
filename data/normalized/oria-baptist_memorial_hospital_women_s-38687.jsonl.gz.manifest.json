@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e4",
+    "asset_name": "oria-baptist_memorial_hospital_women_s-38687__e4bdc736e9d9b76b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e4/oria-baptist_memorial_hospital_women_s-38687__e4bdc736e9d9b76b.jsonl.gz",
+    "asset_sha256": "e4bdc736e9d9b76b94f3140b187a3270c433d9bcf1c737b4c7e6eaf2782c99e8",
+    "published_at": "2026-10-25T16:13:43Z"
+  }
 }

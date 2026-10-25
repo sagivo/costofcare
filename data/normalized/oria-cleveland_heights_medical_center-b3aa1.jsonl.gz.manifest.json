@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-91",
+    "asset_name": "oria-cleveland_heights_medical_center-b3aa1__91969f5bd9294f6c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-91/oria-cleveland_heights_medical_center-b3aa1__91969f5bd9294f6c.jsonl.gz",
+    "asset_sha256": "91969f5bd9294f6cf4a21f69619718f62ee06b1dc44b26a2c5f989d59f586c70",
+    "published_at": "2026-10-25T16:22:33Z"
+  }
 }

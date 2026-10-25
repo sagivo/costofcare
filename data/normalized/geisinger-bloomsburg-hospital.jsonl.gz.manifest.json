@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 12,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-eb",
+    "asset_name": "geisinger-bloomsburg-hospital__ebdeefa2a08cf7ed.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-eb/geisinger-bloomsburg-hospital__ebdeefa2a08cf7ed.jsonl.gz",
+    "asset_sha256": "ebdeefa2a08cf7edd292fe9a8a52dd8ec60c4aa544f3b5eb3340cb69ff3e81db",
+    "published_at": "2026-10-25T16:08:13Z"
+  }
 }

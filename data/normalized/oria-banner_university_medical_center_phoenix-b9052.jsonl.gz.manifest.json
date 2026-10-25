@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-17",
+    "asset_name": "oria-banner_university_medical_center_phoenix-b9052__1774b71e60f4599f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oria-banner_university_medical_center_phoenix-b9052__1774b71e60f4599f.jsonl.gz",
+    "asset_sha256": "1774b71e60f4599f76a8147bc85ed65e00f58af5b8860f7479149e939f1a1235",
+    "published_at": "2026-10-25T16:13:10Z"
+  }
 }

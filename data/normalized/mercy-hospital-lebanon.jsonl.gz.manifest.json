@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b7",
+    "asset_name": "mercy-hospital-lebanon__b7d710aac57f3f92.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b7/mercy-hospital-lebanon__b7d710aac57f3f92.jsonl.gz",
+    "asset_sha256": "b7d710aac57f3f920966f5d695e91a1177a2204697eae32492db7686d151b3ee",
+    "published_at": "2026-10-25T16:11:20Z"
+  }
 }

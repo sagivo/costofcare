@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a4",
+    "asset_name": "oria-changes_rock_springs-2319e__a4b0f8028a8619b5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a4/oria-changes_rock_springs-2319e__a4b0f8028a8619b5.jsonl.gz",
+    "asset_sha256": "a4b0f8028a8619b570961437ab144577e54a5efddf8a13d417e29b823e9b1236",
+    "published_at": "2026-10-25T16:18:11Z"
+  }
 }

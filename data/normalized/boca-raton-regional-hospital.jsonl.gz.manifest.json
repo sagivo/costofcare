@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1282",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-94",
+    "asset_name": "boca-raton-regional-hospital__94336de7f1bd51bd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-94/boca-raton-regional-hospital__94336de7f1bd51bd.jsonl.gz",
+    "asset_sha256": "94336de7f1bd51bd984b38896773b34efcedc3b1f8ffe105771bc83451057dec",
+    "published_at": "2026-10-25T16:07:03Z"
+  }
 }

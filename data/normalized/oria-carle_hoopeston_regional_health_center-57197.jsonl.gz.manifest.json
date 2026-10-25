@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "oria-carle_hoopeston_regional_health_center-57197__817999ac75db4424.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-carle_hoopeston_regional_health_center-57197__817999ac75db4424.jsonl.gz",
+    "asset_sha256": "817999ac75db4424239a06828b2e9b4b8c56b3af81a230602152284d7be86cac",
+    "published_at": "2026-10-25T16:16:50Z"
+  }
 }

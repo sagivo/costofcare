@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1f",
+    "asset_name": "oria-buchanan_county_health_center-65a11__1f7f6430b994d235.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1f/oria-buchanan_county_health_center-65a11__1f7f6430b994d235.jsonl.gz",
+    "asset_sha256": "1f7f6430b994d2351b1ebe8141f027e49abbc12b9fc729063f5e7b5bdc84b620",
+    "published_at": "2026-10-25T16:16:02Z"
+  }
 }

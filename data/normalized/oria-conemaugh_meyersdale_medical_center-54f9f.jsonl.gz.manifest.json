@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b2",
+    "asset_name": "oria-conemaugh_meyersdale_medical_center-54f9f__b2eb816e643059c2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-conemaugh_meyersdale_medical_center-54f9f__b2eb816e643059c2.jsonl.gz",
+    "asset_sha256": "b2eb816e643059c201b9f0b109619c78c64babacba1cf8ba14d0453460094356",
+    "published_at": "2026-10-25T16:24:01Z"
+  }
 }

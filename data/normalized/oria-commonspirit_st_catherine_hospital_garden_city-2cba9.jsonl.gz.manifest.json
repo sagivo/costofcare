@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-commonspirit_st_catherine_hospital_garden_city-2cba9__b42e21b96554120e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-commonspirit_st_catherine_hospital_garden_city-2cba9__b42e21b96554120e.jsonl.gz",
+    "asset_sha256": "b42e21b96554120e09ca4491e72f204166946323c8554fc0ca645d93eae2824d",
+    "published_at": "2026-10-25T16:23:29Z"
+  }
 }

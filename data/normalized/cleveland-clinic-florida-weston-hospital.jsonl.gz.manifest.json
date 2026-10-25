@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c9",
+    "asset_name": "cleveland-clinic-florida-weston-hospital__c9998b4be900229a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c9/cleveland-clinic-florida-weston-hospital__c9998b4be900229a.jsonl.gz",
+    "asset_sha256": "c9998b4be900229a666dcf34de70a1281656213894d3209e8bcd9fde8321d99f",
+    "published_at": "2026-10-25T16:07:25Z"
+  }
 }

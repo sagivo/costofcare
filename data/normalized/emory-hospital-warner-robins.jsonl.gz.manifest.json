@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b0",
+    "asset_name": "emory-hospital-warner-robins__b006686a3ff40a37.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/emory-hospital-warner-robins__b006686a3ff40a37.jsonl.gz",
+    "asset_sha256": "b006686a3ff40a3727fbea6e816e98c7391db14720d6667d7d07cacb8a21077c",
+    "published_at": "2026-10-25T16:07:51Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1d",
+    "asset_name": "mercy-clinic-at-walmart-operated-by-mercy__1de19ae123f1a63a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/mercy-clinic-at-walmart-operated-by-mercy__1de19ae123f1a63a.jsonl.gz",
+    "asset_sha256": "1de19ae123f1a63a8c1d4e093d63874a33aa592829fe29206aee0fb55252b1f5",
+    "published_at": "2026-10-25T16:10:46Z"
+  }
 }

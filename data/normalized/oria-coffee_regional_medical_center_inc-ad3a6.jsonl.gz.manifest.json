@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cb",
+    "asset_name": "oria-coffee_regional_medical_center_inc-ad3a6__cb6ed5b6ebd1e942.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cb/oria-coffee_regional_medical_center_inc-ad3a6__cb6ed5b6ebd1e942.jsonl.gz",
+    "asset_sha256": "cb6ed5b6ebd1e9429673271f69e784fba078435021fe0dc667cd06af25210e06",
+    "published_at": "2026-10-25T16:22:50Z"
+  }
 }

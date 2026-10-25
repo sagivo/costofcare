@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "oria-coral_gables_hospital-d3ef4__f3c85b80c356ffda.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-coral_gables_hospital-d3ef4__f3c85b80c356ffda.jsonl.gz",
+    "asset_sha256": "f3c85b80c356ffdafd2203c052e8ea820ded79369761e343f6dc9ff4636e83b6",
+    "published_at": "2026-10-25T16:24:28Z"
+  }
 }

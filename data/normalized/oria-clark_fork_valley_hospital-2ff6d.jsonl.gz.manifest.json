@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-52",
+    "asset_name": "oria-clark_fork_valley_hospital-2ff6d__5231fdea2e269a29.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/oria-clark_fork_valley_hospital-2ff6d__5231fdea2e269a29.jsonl.gz",
+    "asset_sha256": "5231fdea2e269a296ca5e00833ec7ecacc06660f717a7e2e3270d68d3d650785",
+    "published_at": "2026-10-25T16:22:07Z"
+  }
 }

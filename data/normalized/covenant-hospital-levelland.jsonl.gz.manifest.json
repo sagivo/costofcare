@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0a",
+    "asset_name": "covenant-hospital-levelland__0a49537381bc0105.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0a/covenant-hospital-levelland__0a49537381bc0105.jsonl.gz",
+    "asset_sha256": "0a49537381bc01053ae8ba1e1d6126614f4153e6427c4089c0eddb44e74e04b7",
+    "published_at": "2026-10-25T16:07:35Z"
+  }
 }

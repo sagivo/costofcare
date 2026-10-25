@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9b",
+    "asset_name": "lodi-hospital__9bdeb9113ce1f26f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/lodi-hospital__9bdeb9113ce1f26f.jsonl.gz",
+    "asset_sha256": "9bdeb9113ce1f26f663775546113ededfb2453c9483afb6770f29202e05abb7a",
+    "published_at": "2026-10-25T16:10:01Z"
+  }
 }

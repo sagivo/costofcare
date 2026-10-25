@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b2",
+    "asset_name": "baylor-scott-white-medical-center-round-rock__b2be0508b5e20266.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/baylor-scott-white-medical-center-round-rock__b2be0508b5e20266.jsonl.gz",
+    "asset_sha256": "b2be0508b5e20266c5387b8373b5995dd0c2e6116792636a5ed1ed7d2f48391f",
+    "published_at": "2026-10-25T16:06:45Z"
+  }
 }

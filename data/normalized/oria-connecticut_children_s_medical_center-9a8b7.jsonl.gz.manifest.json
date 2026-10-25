@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "oria-connecticut_children_s_medical_center-9a8b7__d170a97dd6857f6a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/oria-connecticut_children_s_medical_center-9a8b7__d170a97dd6857f6a.jsonl.gz",
+    "asset_sha256": "d170a97dd6857f6a588b10337929e8adfeb7c52474de09232002f4394261ae1a",
+    "published_at": "2026-10-25T16:24:08Z"
+  }
 }

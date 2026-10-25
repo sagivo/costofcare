@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2c",
+    "asset_name": "oria-covenant_rehabilitation_hospital_of_lubbock_llc-aa08c__2ca18eafd01a4842.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2c/oria-covenant_rehabilitation_hospital_of_lubbock_llc-aa08c__2ca18eafd01a4842.jsonl.gz",
+    "asset_sha256": "2ca18eafd01a4842f56c9a0f8e917bea272606eb3e61d0cb4f62c0961fcf1ee2",
+    "published_at": "2026-10-25T16:25:15Z"
+  }
 }

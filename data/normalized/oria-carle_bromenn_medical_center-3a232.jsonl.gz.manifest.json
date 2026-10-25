@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a0",
+    "asset_name": "oria-carle_bromenn_medical_center-3a232__a0b222e684a802c2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/oria-carle_bromenn_medical_center-3a232__a0b222e684a802c2.jsonl.gz",
+    "asset_sha256": "a0b222e684a802c2de2af225a404854bf9efb12ac81c7e25b3ea43da2fbc6c34",
+    "published_at": "2026-10-25T16:16:42Z"
+  }
 }

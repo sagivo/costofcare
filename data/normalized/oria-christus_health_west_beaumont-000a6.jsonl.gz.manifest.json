@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "oria-christus_health_west_beaumont-000a6__21097fd6c6b41fa1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-christus_health_west_beaumont-000a6__21097fd6c6b41fa1.jsonl.gz",
+    "asset_sha256": "21097fd6c6b41fa1a5dda017e6b8bc60a4016e41724d88811e290174bf518929",
+    "published_at": "2026-10-25T16:20:48Z"
+  }
 }

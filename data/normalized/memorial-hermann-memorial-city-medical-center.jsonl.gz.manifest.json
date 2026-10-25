@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9f",
+    "asset_name": "memorial-hermann-memorial-city-medical-center__9ff50a75fc0345f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/memorial-hermann-memorial-city-medical-center__9ff50a75fc0345f2.jsonl.gz",
+    "asset_sha256": "9ff50a75fc0345f2073db27059953d26e680c768276f89ed0d8903562c2ff104",
+    "published_at": "2026-10-25T16:10:25Z"
+  }
 }

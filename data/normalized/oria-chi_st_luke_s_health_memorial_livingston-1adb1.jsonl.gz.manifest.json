@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "oria-chi_st_luke_s_health_memorial_livingston-1adb1__47804e2e156f2791.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-chi_st_luke_s_health_memorial_livingston-1adb1__47804e2e156f2791.jsonl.gz",
+    "asset_sha256": "47804e2e156f27918bf703646b890f31cd601e3e82a5d5631918903d6222d91c",
+    "published_at": "2026-10-25T16:19:43Z"
+  }
 }

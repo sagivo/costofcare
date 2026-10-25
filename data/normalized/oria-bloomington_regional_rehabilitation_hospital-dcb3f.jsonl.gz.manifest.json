@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-96",
+    "asset_name": "oria-bloomington_regional_rehabilitation_hospital-dcb3f__969c1a6e147e092f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-96/oria-bloomington_regional_rehabilitation_hospital-dcb3f__969c1a6e147e092f.jsonl.gz",
+    "asset_sha256": "969c1a6e147e092f8a5b243988a8deb5dbc13a8d3df128657456d2a2bb4c8c31",
+    "published_at": "2026-10-25T16:15:06Z"
+  }
 }

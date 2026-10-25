@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2385",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-10",
+    "asset_name": "oria-corewell_health_helen_devos_children_s_hospital-d4a70__1046fa23c5cadc04.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-10/oria-corewell_health_helen_devos_children_s_hospital-d4a70__1046fa23c5cadc04.jsonl.gz",
+    "asset_sha256": "1046fa23c5cadc043e3c0131deac856b7f903cd900f23d20ef0cc9a22cc4609b",
+    "published_at": "2026-10-25T16:24:42Z"
+  }
 }

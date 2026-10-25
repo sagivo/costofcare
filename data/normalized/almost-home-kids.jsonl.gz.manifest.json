@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6c",
+    "asset_name": "almost-home-kids__6cb7ce8fbef76159.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6c/almost-home-kids__6cb7ce8fbef76159.jsonl.gz",
+    "asset_sha256": "6cb7ce8fbef761595abd5476a45ef03902c86966c6d01b263ae30bb41af421f3",
+    "published_at": "2026-10-25T16:05:59Z"
+  }
 }

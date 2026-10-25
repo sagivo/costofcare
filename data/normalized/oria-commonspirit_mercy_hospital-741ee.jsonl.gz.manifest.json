@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-57",
+    "asset_name": "oria-commonspirit_mercy_hospital-741ee__5799f8d6ea37406b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-57/oria-commonspirit_mercy_hospital-741ee__5799f8d6ea37406b.jsonl.gz",
+    "asset_sha256": "5799f8d6ea37406b400944514db095382bf9dcdcce9b88f507aa7ca856e22218",
+    "published_at": "2026-10-25T16:23:18Z"
+  }
 }

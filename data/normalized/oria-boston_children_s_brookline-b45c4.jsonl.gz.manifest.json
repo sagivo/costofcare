@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-boston_children_s_brookline-b45c4__0523a954d69e4d37.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-boston_children_s_brookline-b45c4__0523a954d69e4d37.jsonl.gz",
+    "asset_sha256": "0523a954d69e4d37579f5ab4e723139a8b3142620ef74f489ad89724b4d2f4dd",
+    "published_at": "2026-10-25T16:15:17Z"
+  }
 }

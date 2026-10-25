@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-78",
+    "asset_name": "oria-chapman_global_medical_center-d7b4b__781fb8636789e040.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-78/oria-chapman_global_medical_center-d7b4b__781fb8636789e040.jsonl.gz",
+    "asset_sha256": "781fb8636789e0409bcae66caefe7d6ca7833e2ef159bce27a65ffd5e466789c",
+    "published_at": "2026-10-25T16:18:15Z"
+  }
 }

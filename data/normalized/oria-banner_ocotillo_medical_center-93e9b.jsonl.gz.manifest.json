@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0b",
+    "asset_name": "oria-banner_ocotillo_medical_center-93e9b__0b775b53a46e505c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-banner_ocotillo_medical_center-93e9b__0b775b53a46e505c.jsonl.gz",
+    "asset_sha256": "0b775b53a46e505c65b470beaa874976c8a4a32b7d30c5ac65ba653a1ee8de8a",
+    "published_at": "2026-10-25T16:13:01Z"
+  }
 }

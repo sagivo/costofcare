@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 759",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-corewell_health_lakeland_watervliet-6a794__84874caeaed3d527.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-corewell_health_lakeland_watervliet-6a794__84874caeaed3d527.jsonl.gz",
+    "asset_sha256": "84874caeaed3d527439648304ee90f89c931acc5686a109992d2cdb9e36d024d",
+    "published_at": "2026-10-25T16:24:46Z"
+  }
 }

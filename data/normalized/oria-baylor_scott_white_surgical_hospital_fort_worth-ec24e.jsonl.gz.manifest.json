@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-33",
+    "asset_name": "oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e__334889673ceb0748.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-baylor_scott_white_surgical_hospital_fort_worth-ec24e__334889673ceb0748.jsonl.gz",
+    "asset_sha256": "334889673ceb074830bd00a4d7021ad20bce1d68a85cedb4bd4729cf0d23fb9b",
+    "published_at": "2026-10-25T16:14:17Z"
+  }
 }

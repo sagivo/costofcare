@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-57",
+    "asset_name": "oria-california_hospital_medical_center-407ff__57b4eb4cd85a772c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-57/oria-california_hospital_medical_center-407ff__57b4eb4cd85a772c.jsonl.gz",
+    "asset_sha256": "57b4eb4cd85a772cdaebaba3595c01b032718a116e7635a020697e4779e52e47",
+    "published_at": "2026-10-25T16:16:14Z"
+  }
 }

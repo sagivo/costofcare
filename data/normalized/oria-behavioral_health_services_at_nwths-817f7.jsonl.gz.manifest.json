@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7c",
+    "asset_name": "oria-behavioral_health_services_at_nwths-817f7__7c6e6ca47b2fc118.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/oria-behavioral_health_services_at_nwths-817f7__7c6e6ca47b2fc118.jsonl.gz",
+    "asset_sha256": "7c6e6ca47b2fc118bc92fb68926c4504d32c3a74da923b1fe1bc4ff84bc3b0ac",
+    "published_at": "2026-10-25T16:14:37Z"
+  }
 }

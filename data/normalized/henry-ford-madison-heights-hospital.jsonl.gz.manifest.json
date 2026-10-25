@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2c",
+    "asset_name": "henry-ford-madison-heights-hospital__2c7d7ee207b8f4f6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2c/henry-ford-madison-heights-hospital__2c7d7ee207b8f4f6.jsonl.gz",
+    "asset_sha256": "2c7d7ee207b8f4f6ff3a9f874a58cd1ea18dfb04e269bafafa59d21820c8541a",
+    "published_at": "2026-10-25T16:08:24Z"
+  }
 }

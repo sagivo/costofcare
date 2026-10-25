@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-aa",
+    "asset_name": "oria-canonsburg_hospital-aa632__aacf49f7d07cf65b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-aa/oria-canonsburg_hospital-aa632__aacf49f7d07cf65b.jsonl.gz",
+    "asset_sha256": "aacf49f7d07cf65beb136e87e68387b2fe6894759f62f835c9221731ffb07491",
+    "published_at": "2026-10-25T16:16:24Z"
+  }
 }

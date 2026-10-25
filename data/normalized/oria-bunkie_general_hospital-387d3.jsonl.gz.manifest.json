@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9c",
+    "asset_name": "oria-bunkie_general_hospital-387d3__9cc5c676c93bb4dc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9c/oria-bunkie_general_hospital-387d3__9cc5c676c93bb4dc.jsonl.gz",
+    "asset_sha256": "9cc5c676c93bb4dc6354abf0ae14766d5eeb72b642840ca1bf2d80cf385e237e",
+    "published_at": "2026-10-25T16:16:05Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b0",
+    "asset_name": "oria-cmh_ventura-d7aac__b0245e958fca54b1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/oria-cmh_ventura-d7aac__b0245e958fca54b1.jsonl.gz",
+    "asset_sha256": "b0245e958fca54b14157bb6eb68452ef7a737f320387b846cb3277b2eb04fc0a",
+    "published_at": "2026-10-25T16:22:42Z"
+  }
 }

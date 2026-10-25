@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "oria-beacon_behavioral_hospital_northshore_lacombe-dafae__4cc965289d9954c2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/oria-beacon_behavioral_hospital_northshore_lacombe-dafae__4cc965289d9954c2.jsonl.gz",
+    "asset_sha256": "4cc965289d9954c2d679bb536894ffe6148502b27f12bda2bba18a8d6f733a01",
+    "published_at": "2026-10-25T16:14:30Z"
+  }
 }

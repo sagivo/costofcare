@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 3909",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-16",
+    "asset_name": "bethesda-hospital-east__16e4c7282c9126b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/bethesda-hospital-east__16e4c7282c9126b2.jsonl.gz",
+    "asset_sha256": "16e4c7282c9126b29ee863e287dddfcf6e81360787a76e439036b2e1d0b6354b",
+    "published_at": "2026-10-25T16:07:00Z"
+  }
 }

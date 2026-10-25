@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6f",
+    "asset_name": "franklin-memorial-hospital__6fd9e0565a432587.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6f/franklin-memorial-hospital__6fd9e0565a432587.jsonl.gz",
+    "asset_sha256": "6fd9e0565a4325872641d1d3e421322fc70fc977e2b9df8df8113071a9ede75b",
+    "published_at": "2026-10-25T16:08:07Z"
+  }
 }

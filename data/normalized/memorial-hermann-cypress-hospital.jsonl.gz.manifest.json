@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "memorial-hermann-cypress-hospital__ecafe65c485963c8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/memorial-hermann-cypress-hospital__ecafe65c485963c8.jsonl.gz",
+    "asset_sha256": "ecafe65c485963c8bd7a77412ef917038887a4d92a26bec591ce2c2434faac6a",
+    "published_at": "2026-10-25T16:10:15Z"
+  }
 }

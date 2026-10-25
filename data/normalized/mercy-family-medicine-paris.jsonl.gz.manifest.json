@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-52",
+    "asset_name": "mercy-family-medicine-paris__5225bf02a8548a19.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/mercy-family-medicine-paris__5225bf02a8548a19.jsonl.gz",
+    "asset_sha256": "5225bf02a8548a1999d86d00a7054907bdd7a438015e6a0dc4431f2a072b531a",
+    "published_at": "2026-10-25T16:10:56Z"
+  }
 }

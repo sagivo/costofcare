@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6b",
+    "asset_name": "baylor-scott-white-heart-and-vascular-hospital-waxahachie__6b0b20d7d0ffb9bf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6b/baylor-scott-white-heart-and-vascular-hospital-waxahachie__6b0b20d7d0ffb9bf.jsonl.gz",
+    "asset_sha256": "6b0b20d7d0ffb9bff632606e068166682b9ad4c5fee653198266e71e813d2813",
+    "published_at": "2026-10-25T16:06:21Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "buffalo-hospital__0f2fce7eda929c56.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/buffalo-hospital__0f2fce7eda929c56.jsonl.gz",
+    "asset_sha256": "0f2fce7eda929c565ec4424b679bd2b8640cc9ac2cd20d3b5db888f4cf50981a",
+    "published_at": "2026-10-25T16:07:12Z"
+  }
 }
