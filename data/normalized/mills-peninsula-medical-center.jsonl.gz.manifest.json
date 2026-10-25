@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "mills-peninsula-medical-center__d1089ffba344210b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/mills-peninsula-medical-center__d1089ffba344210b.jsonl.gz",
+    "asset_sha256": "d1089ffba344210b529da236e6ad1915951cd9b0bb6dcfeeeb080057baffeab4",
+    "published_at": "2026-10-25T07:55:55Z"
+  }
 }

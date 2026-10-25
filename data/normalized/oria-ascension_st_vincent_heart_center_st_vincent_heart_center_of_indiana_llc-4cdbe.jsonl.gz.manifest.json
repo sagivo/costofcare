@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-da",
+    "asset_name": "oria-ascension_st_vincent_heart_center_st_vincent_heart_center_of_indiana_llc-4cdbe__da810e0dade0664b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-da/oria-ascension_st_vincent_heart_center_st_vincent_heart_center_of_indiana_llc-4cdbe__da810e0dade0664b.jsonl.gz",
+    "asset_sha256": "da810e0dade0664baadef5ac3d57b7038e972d1bcdac6efb56ec4a14c5b83e3b",
+    "published_at": "2026-10-25T08:01:56Z"
+  }
 }

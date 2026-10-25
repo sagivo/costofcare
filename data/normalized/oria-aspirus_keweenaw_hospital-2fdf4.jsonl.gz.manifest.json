@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ea",
+    "asset_name": "oria-aspirus_keweenaw_hospital-2fdf4__ea079fa58f477e77.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/oria-aspirus_keweenaw_hospital-2fdf4__ea079fa58f477e77.jsonl.gz",
+    "asset_sha256": "ea079fa58f477e77e84977a268457ec43b50441f6bdf80cc8135dc5b78243650",
+    "published_at": "2026-10-25T08:02:43Z"
+  }
 }

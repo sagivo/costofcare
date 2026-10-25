@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-94",
+    "asset_name": "oria-ascension_st_francis_hospital-37d7f__94acd2e38e6f10a7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-94/oria-ascension_st_francis_hospital-37d7f__94acd2e38e6f10a7.jsonl.gz",
+    "asset_sha256": "94acd2e38e6f10a734fd14db5ffa19c9ba6239c001490d285f19969fc9eb7359",
+    "published_at": "2026-10-25T08:01:39Z"
+  }
 }

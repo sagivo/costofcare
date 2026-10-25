@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1421",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "oria-advanced_surgical_hospital-49e5a__476c97ca1191e819.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-advanced_surgical_hospital-49e5a__476c97ca1191e819.jsonl.gz",
+    "asset_sha256": "476c97ca1191e8197d5dad607e4cfa61ef7d60f48dccae9b0d19aac1569d1226",
+    "published_at": "2026-10-25T07:58:42Z"
+  }
 }

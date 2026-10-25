@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-ashley_medical_center-d3255__d934688fcf003030.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-ashley_medical_center-d3255__d934688fcf003030.jsonl.gz",
+    "asset_sha256": "d934688fcf003030a69a28687166baa8d06397963486d68e23d74bf6fe4f72b1",
+    "published_at": "2026-10-25T08:02:22Z"
+  }
 }

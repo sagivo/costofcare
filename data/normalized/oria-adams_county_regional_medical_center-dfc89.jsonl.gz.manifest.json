@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a4",
+    "asset_name": "oria-adams_county_regional_medical_center-dfc89__a4df1e7392766ea0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a4/oria-adams_county_regional_medical_center-dfc89__a4df1e7392766ea0.jsonl.gz",
+    "asset_sha256": "a4df1e7392766ea00339a59275198e3df93b3d97637633a9f20e5495418dc5ff",
+    "published_at": "2026-10-25T07:58:30Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1d",
+    "asset_name": "oria-ascension_se_wisconsin_hospital_st_joseph_campus-085d9__1d4b9e61e4021b3d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-ascension_se_wisconsin_hospital_st_joseph_campus-085d9__1d4b9e61e4021b3d.jsonl.gz",
+    "asset_sha256": "1d4b9e61e4021b3dd8976fb5860455f89e6e912c33fc429e71bcd28d570c499c",
+    "published_at": "2026-10-25T08:01:32Z"
+  }
 }

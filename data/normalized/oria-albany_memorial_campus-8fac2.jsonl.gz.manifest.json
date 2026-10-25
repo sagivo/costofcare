@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "oria-albany_memorial_campus-8fac2__21ee70497982eafe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-albany_memorial_campus-8fac2__21ee70497982eafe.jsonl.gz",
+    "asset_sha256": "21ee70497982eafe7bb83796ed64a0ed06d49ba474d19154d855ef8aebe8c26c",
+    "published_at": "2026-10-25T07:59:12Z"
+  }
 }

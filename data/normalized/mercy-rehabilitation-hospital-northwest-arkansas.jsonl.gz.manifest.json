@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 6359",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-89",
+    "asset_name": "mercy-rehabilitation-hospital-northwest-arkansas__89c5fbf111ec258e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/mercy-rehabilitation-hospital-northwest-arkansas__89c5fbf111ec258e.jsonl.gz",
+    "asset_sha256": "89c5fbf111ec258e1eef5998add8fd7bb9df1adb291630b393aea9195e1f1b7c",
+    "published_at": "2026-10-25T07:55:30Z"
+  }
 }

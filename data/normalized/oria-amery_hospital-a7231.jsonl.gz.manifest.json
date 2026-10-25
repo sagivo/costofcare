@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5370",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3c",
+    "asset_name": "oria-amery_hospital-a7231__3ca4a4c1b9601ac9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/oria-amery_hospital-a7231__3ca4a4c1b9601ac9.jsonl.gz",
+    "asset_sha256": "3ca4a4c1b9601ac9234fcfd8ada327ec53c731037b9d156d05515842ceb5b051",
+    "published_at": "2026-10-25T08:00:01Z"
+  }
 }

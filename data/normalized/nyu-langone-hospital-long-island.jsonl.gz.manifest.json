@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6911",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f8",
+    "asset_name": "nyu-langone-hospital-long-island__f84cedb56492daaf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f8/nyu-langone-hospital-long-island__f84cedb56492daaf.jsonl.gz",
+    "asset_sha256": "f84cedb56492daaf2137dbd72729b782cb6ed5a07d06dd30758923ba3e80ca78",
+    "published_at": "2026-10-25T07:57:23Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d2",
+    "asset_name": "mercy-st-francis-hospital__d2d10aa73fe2f9b9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d2/mercy-st-francis-hospital__d2d10aa73fe2f9b9.jsonl.gz",
+    "asset_sha256": "d2d10aa73fe2f9b926c088ab7013d568520c4bce2a0adb04a6110aa8f18a7883",
+    "published_at": "2026-10-25T07:55:45Z"
+  }
 }

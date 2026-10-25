@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d0",
+    "asset_name": "northwestern-medicine-valley-west-hospital__d0835df20a064ce7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/northwestern-medicine-valley-west-hospital__d0835df20a064ce7.jsonl.gz",
+    "asset_sha256": "d0835df20a064ce79fad2e4f6a7d6853d1acb7b7f1b440931d0357d216b60ea4",
+    "published_at": "2026-10-25T07:56:33Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2632",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d5",
+    "asset_name": "oria-altus_emergency_centers_waxahachie-cfc49__d54457abb5a28e9d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/oria-altus_emergency_centers_waxahachie-cfc49__d54457abb5a28e9d.jsonl.gz",
+    "asset_sha256": "d54457abb5a28e9d931123985885b6cc5ebc4c6e93c9f31f9ee5d7e99e1aecca",
+    "published_at": "2026-10-25T07:59:51Z"
+  }
 }

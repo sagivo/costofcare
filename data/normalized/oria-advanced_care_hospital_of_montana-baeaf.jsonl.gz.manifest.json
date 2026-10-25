@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ad",
+    "asset_name": "oria-advanced_care_hospital_of_montana-baeaf__add943bd89fd3f63.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/oria-advanced_care_hospital_of_montana-baeaf__add943bd89fd3f63.jsonl.gz",
+    "asset_sha256": "add943bd89fd3f6367b8bcb2bdbf02a552a7a2aa04cbd3c277adad8ff57d2980",
+    "published_at": "2026-10-25T07:58:37Z"
+  }
 }

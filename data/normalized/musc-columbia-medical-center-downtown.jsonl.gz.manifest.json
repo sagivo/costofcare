@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-23",
+    "asset_name": "musc-columbia-medical-center-downtown__23efc95e7da43ec6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-23/musc-columbia-medical-center-downtown__23efc95e7da43ec6.jsonl.gz",
+    "asset_sha256": "23efc95e7da43ec6fe349da33844e2c65227efae5bf16c4025e4d967bde37f68",
+    "published_at": "2026-10-25T07:56:01Z"
+  }
 }

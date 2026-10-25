@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-33",
+    "asset_name": "oria-aspirus_wisconsin_rapids_hospital-b7f22__33b55b246a480af8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-aspirus_wisconsin_rapids_hospital-b7f22__33b55b246a480af8.jsonl.gz",
+    "asset_sha256": "33b55b246a480af827cd32a1f0c5afb6207d82c463d1c324cbe92d4f93c1acb4",
+    "published_at": "2026-10-25T08:03:08Z"
+  }
 }

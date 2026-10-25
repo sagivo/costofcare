@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2969",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-99",
+    "asset_name": "ochsner-st-martin-hospital__99e2cb9369af9df7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/ochsner-st-martin-hospital__99e2cb9369af9df7.jsonl.gz",
+    "asset_sha256": "99e2cb9369af9df72db6064c6f965ec6bfa3a845afb254c75c169099682ed277",
+    "published_at": "2026-10-25T07:57:58Z"
+  }
 }

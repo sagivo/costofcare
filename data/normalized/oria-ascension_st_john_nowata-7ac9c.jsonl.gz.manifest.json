@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-89",
+    "asset_name": "oria-ascension_st_john_nowata-7ac9c__89ddf05348f4b035.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/oria-ascension_st_john_nowata-7ac9c__89ddf05348f4b035.jsonl.gz",
+    "asset_sha256": "89ddf05348f4b035f67bce908991e9f03aa8b82faba743fcfbf20330e452b89f",
+    "published_at": "2026-10-25T08:01:46Z"
+  }
 }

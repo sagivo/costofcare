@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ea",
+    "asset_name": "novant-health-coastal-carolina-medical-center__ea20e10ff3e614f5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/novant-health-coastal-carolina-medical-center__ea20e10ff3e614f5.jsonl.gz",
+    "asset_sha256": "ea20e10ff3e614f5b5d7fe64f19fe8b582425a0c7963d8b1c35b1f64bb7c148e",
+    "published_at": "2026-10-25T07:56:46Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "novant-health-charlotte-orthopedic-hospital__812d5416375185f5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/novant-health-charlotte-orthopedic-hospital__812d5416375185f5.jsonl.gz",
+    "asset_sha256": "812d5416375185f5eb3e4490c50607c78c3a3f2b2d2f76782636e6e5ce990ac9",
+    "published_at": "2026-10-25T07:56:40Z"
+  }
 }

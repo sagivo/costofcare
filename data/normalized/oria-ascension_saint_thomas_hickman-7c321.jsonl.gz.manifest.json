@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-04",
+    "asset_name": "oria-ascension_saint_thomas_hickman-7c321__040003384421574c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-04/oria-ascension_saint_thomas_hickman-7c321__040003384421574c.jsonl.gz",
+    "asset_sha256": "040003384421574c8807a67252414029737ca7b21482f1eca65a0d74c4b42824",
+    "published_at": "2026-10-25T08:01:15Z"
+  }
 }

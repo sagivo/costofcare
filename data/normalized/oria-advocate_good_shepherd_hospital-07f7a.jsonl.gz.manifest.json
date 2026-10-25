@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "oria-advocate_good_shepherd_hospital-07f7a__cfa986ae6d67d5c5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-advocate_good_shepherd_hospital-07f7a__cfa986ae6d67d5c5.jsonl.gz",
+    "asset_sha256": "cfa986ae6d67d5c5f9b055ce41ef91bfb8d6123c50f48494ff877e5978016a08",
+    "published_at": "2026-10-25T07:58:53Z"
+  }
 }

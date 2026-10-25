@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "novant-health-pender-medical-center__474ff2eb173121eb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/novant-health-pender-medical-center__474ff2eb173121eb.jsonl.gz",
+    "asset_sha256": "474ff2eb173121eb3d73ca5f73c563f3a632a29d5593241b1e14ef7f8a314c97",
+    "published_at": "2026-10-25T07:57:10Z"
+  }
 }

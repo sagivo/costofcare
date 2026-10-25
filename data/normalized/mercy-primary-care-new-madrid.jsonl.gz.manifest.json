@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "mercy-primary-care-new-madrid__1c0d444fdec09fd3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/mercy-primary-care-new-madrid__1c0d444fdec09fd3.jsonl.gz",
+    "asset_sha256": "1c0d444fdec09fd3583b4c5ec108dd4b2bf31ea4f14880239696827dda2e4d5b",
+    "published_at": "2026-10-25T07:55:24Z"
+  }
 }

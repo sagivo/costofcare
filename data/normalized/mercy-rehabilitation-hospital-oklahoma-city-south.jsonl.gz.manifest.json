@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "mercy-rehabilitation-hospital-oklahoma-city-south__81527c8fedfe3488.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/mercy-rehabilitation-hospital-oklahoma-city-south__81527c8fedfe3488.jsonl.gz",
+    "asset_sha256": "81527c8fedfe348839d68f9f0a00df5846df149776a5aaf83e0954b087f17204",
+    "published_at": "2026-10-25T07:55:31Z"
+  }
 }

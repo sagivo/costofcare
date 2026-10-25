@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1341",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "ochsner-medical-center-hancock__30391573ce74fa5c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/ochsner-medical-center-hancock__30391573ce74fa5c.jsonl.gz",
+    "asset_sha256": "30391573ce74fa5c0f6fb722e36c5c7a335b1174ee1999714c2aa9a07f8d67a2",
+    "published_at": "2026-10-25T07:57:49Z"
+  }
 }

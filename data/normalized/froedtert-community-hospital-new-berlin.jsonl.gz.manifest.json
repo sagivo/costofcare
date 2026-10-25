@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e8",
+    "asset_name": "froedtert-community-hospital-new-berlin__e80b4b48adba3082.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e8/froedtert-community-hospital-new-berlin__e80b4b48adba3082.jsonl.gz",
+    "asset_sha256": "e80b4b48adba3082d9bc6e0979356adefb1f93ad59eec519bdf36af972c1b134",
+    "published_at": "2026-10-25T07:52:39Z"
+  }
 }

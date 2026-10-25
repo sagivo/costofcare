@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "jefferson-frankford-hospital__21d113813bf83d09.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/jefferson-frankford-hospital__21d113813bf83d09.jsonl.gz",
+    "asset_sha256": "21d113813bf83d0947b168a7fed8af22279ee61805871ded284cd6de451ed93e",
+    "published_at": "2026-10-25T07:53:27Z"
+  }
 }

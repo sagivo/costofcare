@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ba",
+    "asset_name": "novant-health-mint-hill-medical-center__baf8b9368d00c9e0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/novant-health-mint-hill-medical-center__baf8b9368d00c9e0.jsonl.gz",
+    "asset_sha256": "baf8b9368d00c9e083a9d7324570bf6bb857f84390733c066a99f56e6985005f",
+    "published_at": "2026-10-25T07:57:05Z"
+  }
 }

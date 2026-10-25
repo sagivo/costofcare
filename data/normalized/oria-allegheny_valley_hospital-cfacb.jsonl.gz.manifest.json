@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3c",
+    "asset_name": "oria-allegheny_valley_hospital-cfacb__3c7847ab6d5abbc1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/oria-allegheny_valley_hospital-cfacb__3c7847ab6d5abbc1.jsonl.gz",
+    "asset_sha256": "3c7847ab6d5abbc189fdf352dea0093b2ca7e5264a9596f14da3a5fdfb2b5061",
+    "published_at": "2026-10-25T07:59:21Z"
+  }
 }

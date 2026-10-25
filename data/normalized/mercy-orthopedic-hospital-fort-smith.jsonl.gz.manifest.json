@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-eb",
+    "asset_name": "mercy-orthopedic-hospital-fort-smith__eb56a50203065d7c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-eb/mercy-orthopedic-hospital-fort-smith__eb56a50203065d7c.jsonl.gz",
+    "asset_sha256": "eb56a50203065d7ca3b310106dea4905c281419505f72ef5002f1a55ce31ce77",
+    "published_at": "2026-10-25T07:54:55Z"
+  }
 }

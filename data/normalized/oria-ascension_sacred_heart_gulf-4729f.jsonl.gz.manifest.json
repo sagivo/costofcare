@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ba",
+    "asset_name": "oria-ascension_sacred_heart_gulf-4729f__bae35c97f11ff2ce.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/oria-ascension_sacred_heart_gulf-4729f__bae35c97f11ff2ce.jsonl.gz",
+    "asset_sha256": "bae35c97f11ff2cee8b1ed91614f97cc6cfe35d97ee651cf0561b089bcc7c11e",
+    "published_at": "2026-10-25T08:01:02Z"
+  }
 }

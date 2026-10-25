@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-89",
+    "asset_name": "oria-aspirus_iron_river_hospital-c799a__891a52a2eea5116c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/oria-aspirus_iron_river_hospital-c799a__891a52a2eea5116c.jsonl.gz",
+    "asset_sha256": "891a52a2eea5116c9f73322a0c2012a0111b4db974e0ca8feb2bdda341386124",
+    "published_at": "2026-10-25T08:02:39Z"
+  }
 }

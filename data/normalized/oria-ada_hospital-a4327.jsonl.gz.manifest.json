@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4a",
+    "asset_name": "oria-ada_hospital-a4327__4a586178616e5ff5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/oria-ada_hospital-a4327__4a586178616e5ff5.jsonl.gz",
+    "asset_sha256": "4a586178616e5ff5228c0f0fb14a47b9a9a5ae77ca72f14a361634f1942d0a8a",
+    "published_at": "2026-10-25T07:58:25Z"
+  }
 }

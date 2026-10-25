@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3d",
+    "asset_name": "oria-ascension_alexian_brothers-12c9d__3d58a234b9bbe9dc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3d/oria-ascension_alexian_brothers-12c9d__3d58a234b9bbe9dc.jsonl.gz",
+    "asset_sha256": "3d58a234b9bbe9dc983b0d139abedb323bffb984a2892d454d53fa9991e8d6f8",
+    "published_at": "2026-10-25T08:00:46Z"
+  }
 }

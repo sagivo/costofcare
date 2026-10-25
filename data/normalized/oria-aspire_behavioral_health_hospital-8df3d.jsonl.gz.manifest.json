@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-09",
+    "asset_name": "oria-aspire_behavioral_health_hospital-8df3d__0971046a1ff996f8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-aspire_behavioral_health_hospital-8df3d__0971046a1ff996f8.jsonl.gz",
+    "asset_sha256": "0971046a1ff996f8758692c051738bbfcd17075c977aceab6dab6fae0d257ac9",
+    "published_at": "2026-10-25T08:02:33Z"
+  }
 }

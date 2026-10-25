@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 7542",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "mercy-rehabilitation-hospital-springfield__61127b0acfa4bde4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/mercy-rehabilitation-hospital-springfield__61127b0acfa4bde4.jsonl.gz",
+    "asset_sha256": "61127b0acfa4bde4c047881add5fed51c731b3834d99e59770751281696ba4af",
+    "published_at": "2026-10-25T07:55:38Z"
+  }
 }

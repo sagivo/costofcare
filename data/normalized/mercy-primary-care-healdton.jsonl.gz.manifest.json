@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "mercy-primary-care-healdton__d1451cb9fa7e4c95.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/mercy-primary-care-healdton__d1451cb9fa7e4c95.jsonl.gz",
+    "asset_sha256": "d1451cb9fa7e4c95eb1d03edcf4f87f0d9aa9fc7fa4cc6fd1b0c05f90689d273",
+    "published_at": "2026-10-25T07:55:19Z"
+  }
 }

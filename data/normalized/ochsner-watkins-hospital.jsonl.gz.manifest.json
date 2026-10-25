@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2663",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "ochsner-watkins-hospital__a73c338fc06edac8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/ochsner-watkins-hospital__a73c338fc06edac8.jsonl.gz",
+    "asset_sha256": "a73c338fc06edac84b16ca0ce4614d8661acc4d2f1c0f4ea444da3aa4b3702dd",
+    "published_at": "2026-10-25T07:58:08Z"
+  }
 }

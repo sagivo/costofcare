@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-ascension_sacred_heart_bay-987c9__842d241280560a27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-ascension_sacred_heart_bay-987c9__842d241280560a27.jsonl.gz",
+    "asset_sha256": "842d241280560a27ab8021e2b587d33485f564e76147df8005513367c9ae054c",
+    "published_at": "2026-10-25T08:00:58Z"
+  }
 }

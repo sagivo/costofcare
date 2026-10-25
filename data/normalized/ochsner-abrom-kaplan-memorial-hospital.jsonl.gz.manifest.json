@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3024",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7c",
+    "asset_name": "ochsner-abrom-kaplan-memorial-hospital__7c56fc1068bc501a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/ochsner-abrom-kaplan-memorial-hospital__7c56fc1068bc501a.jsonl.gz",
+    "asset_sha256": "7c56fc1068bc501a3159917bb70ab0ee864ca17f99b72c3d86d47703fc104e89",
+    "published_at": "2026-10-25T07:57:32Z"
+  }
 }

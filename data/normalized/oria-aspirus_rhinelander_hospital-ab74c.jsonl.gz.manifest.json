@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-be",
+    "asset_name": "oria-aspirus_rhinelander_hospital-ab74c__be874827708f8b99.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-aspirus_rhinelander_hospital-ab74c__be874827708f8b99.jsonl.gz",
+    "asset_sha256": "be874827708f8b9912c198831410d9429cf17893eb271003e67f3d0dcd38f48c",
+    "published_at": "2026-10-25T08:02:55Z"
+  }
 }

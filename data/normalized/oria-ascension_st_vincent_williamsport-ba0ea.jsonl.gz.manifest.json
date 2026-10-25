@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5b",
+    "asset_name": "oria-ascension_st_vincent_williamsport-ba0ea__5bb6a1ca07c07eb2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5b/oria-ascension_st_vincent_williamsport-ba0ea__5bb6a1ca07c07eb2.jsonl.gz",
+    "asset_sha256": "5bb6a1ca07c07eb2e9228e0700366af4c6ef9da7a78813785ea98cbfb27adb37",
+    "published_at": "2026-10-25T08:02:12Z"
+  }
 }

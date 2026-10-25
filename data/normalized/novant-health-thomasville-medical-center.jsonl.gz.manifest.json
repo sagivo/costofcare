@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "novant-health-thomasville-medical-center__4c10c8e3d4c3ebac.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/novant-health-thomasville-medical-center__4c10c8e3d4c3ebac.jsonl.gz",
+    "asset_sha256": "4c10c8e3d4c3ebacc5a2d72fd5360a6f2604edb593f77e15540a82e3201d0d3d",
+    "published_at": "2026-10-25T07:57:17Z"
+  }
 }

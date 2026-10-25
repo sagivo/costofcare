@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2f",
+    "asset_name": "mercy-pediatrics-doctors-park__2fa59a162b3f5807.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/mercy-pediatrics-doctors-park__2fa59a162b3f5807.jsonl.gz",
+    "asset_sha256": "2fa59a162b3f5807315a8d5e0ca173cc01dded2ecb43298d290d88573e804662",
+    "published_at": "2026-10-25T07:55:03Z"
+  }
 }

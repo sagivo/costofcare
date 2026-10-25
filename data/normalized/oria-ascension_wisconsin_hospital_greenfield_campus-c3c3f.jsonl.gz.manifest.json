@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6a",
+    "asset_name": "oria-ascension_wisconsin_hospital_greenfield_campus-c3c3f__6a4817d0be5dea27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6a/oria-ascension_wisconsin_hospital_greenfield_campus-c3c3f__6a4817d0be5dea27.jsonl.gz",
+    "asset_sha256": "6a4817d0be5dea274e8c1804775ad321c8f19ecea04aa162671d5584416dd3c4",
+    "published_at": "2026-10-25T08:02:21Z"
+  }
 }

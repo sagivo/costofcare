@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "mercy-primary-care-817-s-mount-auburn__37be05175ab8bca9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/mercy-primary-care-817-s-mount-auburn__37be05175ab8bca9.jsonl.gz",
+    "asset_sha256": "37be05175ab8bca9112914d460a6ca96ba9ae541092f42f19a68bcead9a2e540",
+    "published_at": "2026-10-25T07:55:10Z"
+  }
 }

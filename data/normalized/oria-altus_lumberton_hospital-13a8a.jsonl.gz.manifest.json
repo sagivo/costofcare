@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2596",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-95",
+    "asset_name": "oria-altus_lumberton_hospital-13a8a__95be9eeaa326709c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-95/oria-altus_lumberton_hospital-13a8a__95be9eeaa326709c.jsonl.gz",
+    "asset_sha256": "95be9eeaa326709cdd6cd53ec7cd5c982ad7fd63c2c71619089aa3fc83fdf220",
+    "published_at": "2026-10-25T07:59:54Z"
+  }
 }

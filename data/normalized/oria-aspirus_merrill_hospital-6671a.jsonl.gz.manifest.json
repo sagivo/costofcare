@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ac",
+    "asset_name": "oria-aspirus_merrill_hospital-6671a__ac33dbb58cec1e55.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/oria-aspirus_merrill_hospital-6671a__ac33dbb58cec1e55.jsonl.gz",
+    "asset_sha256": "ac33dbb58cec1e553a9cb2317f4d3924ec4a9c970296fc955a2b3947db14a4ac",
+    "published_at": "2026-10-25T08:02:51Z"
+  }
 }

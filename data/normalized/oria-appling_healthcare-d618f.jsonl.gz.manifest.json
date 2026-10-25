@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2e",
+    "asset_name": "oria-appling_healthcare-d618f__2edff845b48943fc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-appling_healthcare-d618f__2edff845b48943fc.jsonl.gz",
+    "asset_sha256": "2edff845b48943fcc72b4cad92b1d053996b3871976e1489380cbc9d0a6db473",
+    "published_at": "2026-10-25T08:00:26Z"
+  }
 }

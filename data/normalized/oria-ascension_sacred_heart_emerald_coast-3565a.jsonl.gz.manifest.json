@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ab",
+    "asset_name": "oria-ascension_sacred_heart_emerald_coast-3565a__ab223661be99644f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ab/oria-ascension_sacred_heart_emerald_coast-3565a__ab223661be99644f.jsonl.gz",
+    "asset_sha256": "ab223661be99644f049760f04407436dea17e517b0811fffd301d8a7033d9f0d",
+    "published_at": "2026-10-25T08:01:00Z"
+  }
 }

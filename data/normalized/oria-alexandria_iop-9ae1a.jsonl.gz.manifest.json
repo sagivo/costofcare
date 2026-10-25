@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4002",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-alexandria_iop-9ae1a__05e6419269e32e1c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-alexandria_iop-9ae1a__05e6419269e32e1c.jsonl.gz",
+    "asset_sha256": "05e6419269e32e1c654d38323d37be93f59872f0fda969c45176722a5c414b5a",
+    "published_at": "2026-10-25T07:59:14Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ca",
+    "asset_name": "oria-adc_endoscopy_specialists-2b701__cab057f8d2f5b2b0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/oria-adc_endoscopy_specialists-2b701__cab057f8d2f5b2b0.jsonl.gz",
+    "asset_sha256": "cab057f8d2f5b2b0c798005718dba742c218f7a04cd0d528a50df37a5ab85b94",
+    "published_at": "2026-10-25T07:58:33Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4467",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "ochsner-american-legion-hospital__11ec7a760d555513.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/ochsner-american-legion-hospital__11ec7a760d555513.jsonl.gz",
+    "asset_sha256": "11ec7a760d555513ba092da9e54692193eb3cd41e6a187ae729e42990674c649",
+    "published_at": "2026-10-25T07:57:36Z"
+  }
 }

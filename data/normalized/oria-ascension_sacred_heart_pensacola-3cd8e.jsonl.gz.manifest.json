@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "oria-ascension_sacred_heart_pensacola-3cd8e__37fbcb85a3549e20.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-ascension_sacred_heart_pensacola-3cd8e__37fbcb85a3549e20.jsonl.gz",
+    "asset_sha256": "37fbcb85a3549e20dd65530285b402f78f25046fcfee63c414c81f41509905a4",
+    "published_at": "2026-10-25T08:01:04Z"
+  }
 }

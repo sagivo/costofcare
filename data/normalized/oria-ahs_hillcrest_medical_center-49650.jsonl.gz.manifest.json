@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ca",
+    "asset_name": "oria-ahs_hillcrest_medical_center-49650__cad9351839aa0537.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/oria-ahs_hillcrest_medical_center-49650__cad9351839aa0537.jsonl.gz",
+    "asset_sha256": "cad9351839aa053736b63936630518c7ee4422356913755a51796089127940a0",
+    "published_at": "2026-10-25T07:59:08Z"
+  }
 }

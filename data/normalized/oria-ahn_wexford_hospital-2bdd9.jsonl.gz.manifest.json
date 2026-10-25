@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cd",
+    "asset_name": "oria-ahn_wexford_hospital-2bdd9__cdf4efa4dfb85a30.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/oria-ahn_wexford_hospital-2bdd9__cdf4efa4dfb85a30.jsonl.gz",
+    "asset_sha256": "cdf4efa4dfb85a300cccf479452bfe26d427256e038d7a4d5d31fc5b3bd82e55",
+    "published_at": "2026-10-25T07:59:06Z"
+  }
 }

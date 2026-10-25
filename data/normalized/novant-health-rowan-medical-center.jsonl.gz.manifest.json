@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3f",
+    "asset_name": "novant-health-rowan-medical-center__3fc2a5aea7e79dd3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3f/novant-health-rowan-medical-center__3fc2a5aea7e79dd3.jsonl.gz",
+    "asset_sha256": "3fc2a5aea7e79dd356d39ee57f5ef3c8a262571de1761888801767e0ec076be3",
+    "published_at": "2026-10-25T07:57:15Z"
+  }
 }

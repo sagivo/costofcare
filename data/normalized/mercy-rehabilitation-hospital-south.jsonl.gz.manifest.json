@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fb",
+    "asset_name": "mercy-rehabilitation-hospital-south__fbecc334df9ccbfe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fb/mercy-rehabilitation-hospital-south__fbecc334df9ccbfe.jsonl.gz",
+    "asset_sha256": "fbecc334df9ccbfe27358c03f795033c5f253892ea221420b2e34ca0c196c4cd",
+    "published_at": "2026-10-25T07:55:35Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 724",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d6",
+    "asset_name": "oria-ascension_seton_williamson-7985a__d6b2e605cd6405e3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d6/oria-ascension_seton_williamson-7985a__d6b2e605cd6405e3.jsonl.gz",
+    "asset_sha256": "d6b2e605cd6405e30da43ec9fb8d7ccd4f2b7df9256aa7b82c52454407550256",
+    "published_at": "2026-10-25T08:01:37Z"
+  }
 }

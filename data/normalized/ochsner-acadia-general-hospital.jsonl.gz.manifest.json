@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2024",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1a",
+    "asset_name": "ochsner-acadia-general-hospital__1a4619850c11d771.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/ochsner-acadia-general-hospital__1a4619850c11d771.jsonl.gz",
+    "asset_sha256": "1a4619850c11d7710b8c8ac952c5a994785cfb44934cd3aedcf898ff499b37ce",
+    "published_at": "2026-10-25T07:57:34Z"
+  }
 }

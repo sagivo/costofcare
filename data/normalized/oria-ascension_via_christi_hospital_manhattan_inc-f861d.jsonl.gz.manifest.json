@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-66",
+    "asset_name": "oria-ascension_via_christi_hospital_manhattan_inc-f861d__6669cf019dfa1fa8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/oria-ascension_via_christi_hospital_manhattan_inc-f861d__6669cf019dfa1fa8.jsonl.gz",
+    "asset_sha256": "6669cf019dfa1fa8a9177fb36bd6116c2e619cfbb564a7f8c802006ef1832ecb",
+    "published_at": "2026-10-25T08:02:14Z"
+  }
 }

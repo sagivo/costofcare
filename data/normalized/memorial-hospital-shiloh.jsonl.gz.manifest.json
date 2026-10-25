@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-19",
+    "asset_name": "memorial-hospital-shiloh__19d3479dd8d8b7cb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-19/memorial-hospital-shiloh__19d3479dd8d8b7cb.jsonl.gz",
+    "asset_sha256": "19d3479dd8d8b7cb4f0904bdd83799abf7a8f7a0d633adea7701fbca0ddf8484",
+    "published_at": "2026-10-25T07:54:07Z"
+  }
 }

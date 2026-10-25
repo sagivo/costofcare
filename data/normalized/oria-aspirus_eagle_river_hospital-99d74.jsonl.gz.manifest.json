@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-aspirus_eagle_river_hospital-99d74__5f3b9d7e5ee31a32.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-aspirus_eagle_river_hospital-99d74__5f3b9d7e5ee31a32.jsonl.gz",
+    "asset_sha256": "5f3b9d7e5ee31a328e66051142aaaca1409854c61186be9af21912907b1a68a5",
+    "published_at": "2026-10-25T08:02:37Z"
+  }
 }

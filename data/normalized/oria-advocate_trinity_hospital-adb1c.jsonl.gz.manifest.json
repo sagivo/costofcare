@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "oria-advocate_trinity_hospital-adb1c__37e7c609cbceb9f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-advocate_trinity_hospital-adb1c__37e7c609cbceb9f2.jsonl.gz",
+    "asset_sha256": "37e7c609cbceb9f217114275888973dc08bf84867e89935a04e79b4f6c9fee5a",
+    "published_at": "2026-10-25T07:59:01Z"
+  }
 }

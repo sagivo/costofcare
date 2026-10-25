@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ac",
+    "asset_name": "oria-aultman_hospital-ad7f7__ac1ec1ac45353b03.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/oria-aultman_hospital-ad7f7__ac1ec1ac45353b03.jsonl.gz",
+    "asset_sha256": "ac1ec1ac45353b034c0a8aaa855e1c7b556121788dbc3fc2204be19fe8868c43",
+    "published_at": "2026-10-25T08:03:25Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3f",
+    "asset_name": "oria-atlantic_general_hospital-b58bd__3f2acd744bdb3b72.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3f/oria-atlantic_general_hospital-b58bd__3f2acd744bdb3b72.jsonl.gz",
+    "asset_sha256": "3f2acd744bdb3b72942322c3e525c1b88715d8fa0faa672e7582953537a02bd6",
+    "published_at": "2026-10-25T08:03:16Z"
+  }
 }

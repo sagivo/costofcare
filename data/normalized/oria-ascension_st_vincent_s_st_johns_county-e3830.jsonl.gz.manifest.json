@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "oria-ascension_st_vincent_s_st_johns_county-e3830__29402e4af04e2648.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/oria-ascension_st_vincent_s_st_johns_county-e3830__29402e4af04e2648.jsonl.gz",
+    "asset_sha256": "29402e4af04e26488f9e7e5c3458f0626006dc93d5a04dd36729a9d9e4fbab1a",
+    "published_at": "2026-10-25T08:02:06Z"
+  }
 }

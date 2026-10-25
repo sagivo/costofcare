@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "black-hills-surgical-hospital__5f87c1e52b8773d5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/black-hills-surgical-hospital__5f87c1e52b8773d5.jsonl.gz",
+    "asset_sha256": "5f87c1e52b8773d520905f0fcc17998478592bf2bc289a8d42fd4c2ad7e8660d",
+    "published_at": "2026-10-25T07:52:04Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-24",
+    "asset_name": "oria-advocate_good_samaritan_hospital-e3aa0__24bf9d685b3b1a42.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-24/oria-advocate_good_samaritan_hospital-e3aa0__24bf9d685b3b1a42.jsonl.gz",
+    "asset_sha256": "24bf9d685b3b1a428b4e4ca0b17e6d99f502b1f77bd0ec7ada6fd6c118efe570",
+    "published_at": "2026-10-25T07:58:51Z"
+  }
 }

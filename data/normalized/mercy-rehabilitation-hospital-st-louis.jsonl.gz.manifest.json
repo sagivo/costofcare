@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "mercy-rehabilitation-hospital-st-louis__a22ab7e68f7e1718.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/mercy-rehabilitation-hospital-st-louis__a22ab7e68f7e1718.jsonl.gz",
+    "asset_sha256": "a22ab7e68f7e1718498ba10a0e6d78979bdffe01953a4d3f0e05378b1f3e70b9",
+    "published_at": "2026-10-25T07:55:40Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3a",
+    "asset_name": "oria-arbour_hospital-e0732__3a19d8913311331c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-arbour_hospital-e0732__3a19d8913311331c.jsonl.gz",
+    "asset_sha256": "3a19d8913311331c35bc91b6cf0a12c070bc3a543f1b8c144ea08e7fa45b9d7b",
+    "published_at": "2026-10-25T08:00:28Z"
+  }
 }

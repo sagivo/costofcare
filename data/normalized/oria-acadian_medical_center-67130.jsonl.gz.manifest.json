@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1564",
   "row_width_mismatch_records": 13374,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "oria-acadian_medical_center-67130__ff122670557d3f9a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/oria-acadian_medical_center-67130__ff122670557d3f9a.jsonl.gz",
+    "asset_sha256": "ff122670557d3f9a3c5a2848635677c69ef7403f050d4271ef65ce2de72382ea",
+    "published_at": "2026-10-25T07:58:23Z"
+  }
 }

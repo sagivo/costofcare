@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-anmed_health-a4e50__8f26e6170dc2a791.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-anmed_health-a4e50__8f26e6170dc2a791.jsonl.gz",
+    "asset_sha256": "8f26e6170dc2a791abb3ce69d868aa6c19e9854c98d52cd9ee8ab27cc4434360",
+    "published_at": "2026-10-25T08:00:13Z"
+  }
 }

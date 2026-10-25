@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 10915,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e9",
+    "asset_name": "oria-alta_vista_regional_hospital-970a5__e9a9c58dc0a15e92.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e9/oria-alta_vista_regional_hospital-970a5__e9a9c58dc0a15e92.jsonl.gz",
+    "asset_sha256": "e9a9c58dc0a15e92229af99caca6147c2e83f59dd2b3ec3ed92210f4e2fa1f4a",
+    "published_at": "2026-10-25T07:59:44Z"
+  }
 }

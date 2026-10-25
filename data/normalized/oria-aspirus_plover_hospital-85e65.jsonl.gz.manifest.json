@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-17",
+    "asset_name": "oria-aspirus_plover_hospital-85e65__1726fdd34d2e8c45.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oria-aspirus_plover_hospital-85e65__1726fdd34d2e8c45.jsonl.gz",
+    "asset_sha256": "1726fdd34d2e8c4583fa16474ea6d32aa77a8207001f2e1dd633c5e98b2358bf",
+    "published_at": "2026-10-25T08:02:53Z"
+  }
 }

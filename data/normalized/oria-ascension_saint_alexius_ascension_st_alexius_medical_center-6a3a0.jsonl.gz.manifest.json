@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fe",
+    "asset_name": "oria-ascension_saint_alexius_ascension_st_alexius_medical_center-6a3a0__fe70a37f16949b2e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/oria-ascension_saint_alexius_ascension_st_alexius_medical_center-6a3a0__fe70a37f16949b2e.jsonl.gz",
+    "asset_sha256": "fe70a37f16949b2e25744969a18c2b5c7ff835abd9fd2174a55b01bafc27af6c",
+    "published_at": "2026-10-25T08:01:07Z"
+  }
 }

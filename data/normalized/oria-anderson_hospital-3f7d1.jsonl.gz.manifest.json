@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-anderson_hospital-3f7d1__77433b1a695472f0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-anderson_hospital-3f7d1__77433b1a695472f0.jsonl.gz",
+    "asset_sha256": "77433b1a695472f0097f5eafcb5a475b0e240a944656d91ba9afa097f8795585",
+    "published_at": "2026-10-25T08:00:09Z"
+  }
 }

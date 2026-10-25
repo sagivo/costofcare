@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-22",
+    "asset_name": "musc-health-main-campus-charleston__2205eacd0709c46d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/musc-health-main-campus-charleston__2205eacd0709c46d.jsonl.gz",
+    "asset_sha256": "2205eacd0709c46d82e2a7f60e9dee5fef8c2c7447666fb672db3d48aa77fd77",
+    "published_at": "2026-10-25T07:56:17Z"
+  }
 }

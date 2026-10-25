@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ac",
+    "asset_name": "novant-health-brunswick-medical-center__acc5f4451441c40c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/novant-health-brunswick-medical-center__acc5f4451441c40c.jsonl.gz",
+    "asset_sha256": "acc5f4451441c40c45dedf3f97afab65a46908f5ce0c79a5e1e10ce59161f67b",
+    "published_at": "2026-10-25T07:56:38Z"
+  }
 }

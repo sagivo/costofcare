@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "mercy-mcauley-clinic__1c963266a57cfc2d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/mercy-mcauley-clinic__1c963266a57cfc2d.jsonl.gz",
+    "asset_sha256": "1c963266a57cfc2de956bf5a202ad725338f1c8fef10630ce4f1902b26290822",
+    "published_at": "2026-10-25T07:54:53Z"
+  }
 }

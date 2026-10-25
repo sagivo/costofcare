@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6c",
+    "asset_name": "oria-allendale_county_hospital-3833c__6c9b7cc80b9db141.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6c/oria-allendale_county_hospital-3833c__6c9b7cc80b9db141.jsonl.gz",
+    "asset_sha256": "6c9b7cc80b9db141f8c5a6059fe2cac7ae254537b4fac0a0f2e1b61a501e137a",
+    "published_at": "2026-10-25T07:59:29Z"
+  }
 }

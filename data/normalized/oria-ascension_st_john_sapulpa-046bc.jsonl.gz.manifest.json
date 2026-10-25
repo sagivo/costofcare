@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a0",
+    "asset_name": "oria-ascension_st_john_sapulpa-046bc__a0c1227c30b47538.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/oria-ascension_st_john_sapulpa-046bc__a0c1227c30b47538.jsonl.gz",
+    "asset_sha256": "a0c1227c30b475389265d053b47baffbd9c14ce39cbcafb783b86f9e4d521e2b",
+    "published_at": "2026-10-25T08:01:48Z"
+  }
 }

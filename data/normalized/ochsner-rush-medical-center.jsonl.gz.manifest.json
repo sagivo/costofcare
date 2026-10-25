@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2647",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a9",
+    "asset_name": "ochsner-rush-medical-center__a968bdeca63d2aaf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/ochsner-rush-medical-center__a968bdeca63d2aaf.jsonl.gz",
+    "asset_sha256": "a968bdeca63d2aafae46e319b56ba1f6736745dcfd47d96196457bcb0785540b",
+    "published_at": "2026-10-25T07:57:51Z"
+  }
 }

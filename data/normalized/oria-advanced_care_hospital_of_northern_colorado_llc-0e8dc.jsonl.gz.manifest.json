@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-80",
+    "asset_name": "oria-advanced_care_hospital_of_northern_colorado_llc-0e8dc__803761ff2b9ccf03.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-80/oria-advanced_care_hospital_of_northern_colorado_llc-0e8dc__803761ff2b9ccf03.jsonl.gz",
+    "asset_sha256": "803761ff2b9ccf0327beb169e07be58e0c6bf9fb0555b702fe54d4351bff4c96",
+    "published_at": "2026-10-25T07:58:40Z"
+  }
 }

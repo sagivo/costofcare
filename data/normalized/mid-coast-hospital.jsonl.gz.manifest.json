@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-27",
+    "asset_name": "mid-coast-hospital__27c3ed13829f65db.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-27/mid-coast-hospital__27c3ed13829f65db.jsonl.gz",
+    "asset_sha256": "27c3ed13829f65db8df07dd60fbc967ade32a069f46f5d93b885ece1a4b8e551",
+    "published_at": "2026-10-25T07:55:50Z"
+  }
 }

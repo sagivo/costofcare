@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-79",
+    "asset_name": "oria-aspirus_wausau_hospital-377d5__79a7e986751e1ca0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/oria-aspirus_wausau_hospital-377d5__79a7e986751e1ca0.jsonl.gz",
+    "asset_sha256": "79a7e986751e1ca09eeed088c47796c77841de92d85c5a79a1809d35f4231f88",
+    "published_at": "2026-10-25T08:03:05Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f7",
+    "asset_name": "oria-arkansas_valley_regional_medical_center-459ff__f7407083a7487475.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f7/oria-arkansas_valley_regional_medical_center-459ff__f7407083a7487475.jsonl.gz",
+    "asset_sha256": "f7407083a7487475cf1097921192a9e86a6ab3887871aecc7c2bbd7c3af28b36",
+    "published_at": "2026-10-25T08:00:35Z"
+  }
 }

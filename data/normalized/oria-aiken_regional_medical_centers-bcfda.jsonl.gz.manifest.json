@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 2262",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d8",
+    "asset_name": "oria-aiken_regional_medical_centers-bcfda__d801243699dffc27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/oria-aiken_regional_medical_centers-bcfda__d801243699dffc27.jsonl.gz",
+    "asset_sha256": "d801243699dffc275b7476028ddf7fa3fe81d0e53750ef2507f652d158946c18",
+    "published_at": "2026-10-25T07:59:10Z"
+  }
 }

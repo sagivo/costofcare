@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-ascension_saint_joseph_chicago-5e5c2__5c6e8a38d1c7bd66.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-ascension_saint_joseph_chicago-5e5c2__5c6e8a38d1c7bd66.jsonl.gz",
+    "asset_sha256": "5c6e8a38d1c7bd661d48af3f760242351a6361fa76fc37328dae05a22b86d432",
+    "published_at": "2026-10-25T08:01:09Z"
+  }
 }

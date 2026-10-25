@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6460",
   "row_width_mismatch_records": 25524,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-34",
+    "asset_name": "oria-aspen_mountain_medical-77004__34e459f1e1c972e4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-34/oria-aspen_mountain_medical-77004__34e459f1e1c972e4.jsonl.gz",
+    "asset_sha256": "34e459f1e1c972e431c17caf11e4a31ba439fe68096e1dda12ea1c7ef4e99c2e",
+    "published_at": "2026-10-25T08:02:29Z"
+  }
 }

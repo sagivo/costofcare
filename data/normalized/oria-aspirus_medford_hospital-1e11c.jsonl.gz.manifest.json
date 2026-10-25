@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fb",
+    "asset_name": "oria-aspirus_medford_hospital-1e11c__fb4bbe67d00a9a88.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fb/oria-aspirus_medford_hospital-1e11c__fb4bbe67d00a9a88.jsonl.gz",
+    "asset_sha256": "fb4bbe67d00a9a8829a9aae9b1d72d5aa3cbdd3320b84473ae0e8cd7af3786bd",
+    "published_at": "2026-10-25T08:02:49Z"
+  }
 }

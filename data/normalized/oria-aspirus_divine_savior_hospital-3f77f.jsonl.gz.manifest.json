@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-92",
+    "asset_name": "oria-aspirus_divine_savior_hospital-3f77f__9271bd3d887f3a8c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-92/oria-aspirus_divine_savior_hospital-3f77f__9271bd3d887f3a8c.jsonl.gz",
+    "asset_sha256": "9271bd3d887f3a8c91d85ff42d4242ab70034973d279190382fa46ca4ecd6809",
+    "published_at": "2026-10-25T08:02:35Z"
+  }
 }

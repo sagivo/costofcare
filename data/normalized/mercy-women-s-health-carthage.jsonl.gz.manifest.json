@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f5",
+    "asset_name": "mercy-women-s-health-carthage__f5edd225a682b6a9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/mercy-women-s-health-carthage__f5edd225a682b6a9.jsonl.gz",
+    "asset_sha256": "f5edd225a682b6a91b717f57ec591f5729c96e099c457d8458ca9762ff38123e",
+    "published_at": "2026-10-25T07:55:47Z"
+  }
 }

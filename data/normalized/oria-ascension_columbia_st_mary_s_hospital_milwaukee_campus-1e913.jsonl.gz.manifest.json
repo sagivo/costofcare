@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-39",
+    "asset_name": "oria-ascension_columbia_st_mary_s_hospital_milwaukee_campus-1e913__39dbef28394d9e65.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-ascension_columbia_st_mary_s_hospital_milwaukee_campus-1e913__39dbef28394d9e65.jsonl.gz",
+    "asset_sha256": "39dbef28394d9e65e51acd640e456d2adead00268b54e4706b873d32aa451087",
+    "published_at": "2026-10-25T08:00:50Z"
+  }
 }

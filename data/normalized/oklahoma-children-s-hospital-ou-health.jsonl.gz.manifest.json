@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c8",
+    "asset_name": "oklahoma-children-s-hospital-ou-health__c8c972fe3de5bc82.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c8/oklahoma-children-s-hospital-ou-health__c8c972fe3de5bc82.jsonl.gz",
+    "asset_sha256": "c8c972fe3de5bc8232fceea8ed633ac02a10c44dd94b64785ab7364a7d3d7428",
+    "published_at": "2026-10-25T07:58:10Z"
+  }
 }

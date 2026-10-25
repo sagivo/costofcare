@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-49",
+    "asset_name": "oria-arizona_general_hospital_mesa_hospital-3b786__49231b478913d6b1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-49/oria-arizona_general_hospital_mesa_hospital-3b786__49231b478913d6b1.jsonl.gz",
+    "asset_sha256": "49231b478913d6b17552343848ec656557023bab3b18e4d0453644d5843a4851",
+    "published_at": "2026-10-25T08:00:32Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "oria-antioch_medical_center-78e91__71e144579344be5e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-antioch_medical_center-78e91__71e144579344be5e.jsonl.gz",
+    "asset_sha256": "71e144579344be5e3b01c7f844f4137dcfe49ec77ee4c0bc2eda9d57acf16b8c",
+    "published_at": "2026-10-25T08:00:22Z"
+  }
 }

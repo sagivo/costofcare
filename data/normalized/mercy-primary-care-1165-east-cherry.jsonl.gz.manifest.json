@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e2",
+    "asset_name": "mercy-primary-care-1165-east-cherry__e2d816582608e37a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e2/mercy-primary-care-1165-east-cherry__e2d816582608e37a.jsonl.gz",
+    "asset_sha256": "e2d816582608e37a7b644afcb6c1fc12218d50d3d225ded90d372a4d20163242",
+    "published_at": "2026-10-25T07:55:07Z"
+  }
 }

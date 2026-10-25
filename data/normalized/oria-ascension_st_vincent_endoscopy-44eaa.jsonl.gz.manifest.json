@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-ascension_st_vincent_endoscopy-44eaa__e0028a2397cea61f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-ascension_st_vincent_endoscopy-44eaa__e0028a2397cea61f.jsonl.gz",
+    "asset_sha256": "e0028a2397cea61f55f3784ca633e07324e73b8334e48ca259823b1325bdd872",
+    "published_at": "2026-10-25T08:01:54Z"
+  }
 }

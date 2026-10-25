@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "mercy-specialty-hospital-southeast-kansas__63ac85de13700632.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/mercy-specialty-hospital-southeast-kansas__63ac85de13700632.jsonl.gz",
+    "asset_sha256": "63ac85de13700632062d2305246aef61df47f9fb292e6728c18d5b64de97e4de",
+    "published_at": "2026-10-25T07:55:42Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "new-ulm-medical-center__d1144c6a1f205fc1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/new-ulm-medical-center__d1144c6a1f205fc1.jsonl.gz",
+    "asset_sha256": "d1144c6a1f205fc13f2a26971be3948ac64824fbb769b4ce6cb3e0d29e774278",
+    "published_at": "2026-10-25T07:56:27Z"
+  }
 }

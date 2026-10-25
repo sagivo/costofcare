@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "memorial-hospital__81e7978ef48eeca0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/memorial-hospital__81e7978ef48eeca0.jsonl.gz",
+    "asset_sha256": "81e7978ef48eeca045606c8588db3986e242ef69a8ca58ee274f0eb660b8dec2",
+    "published_at": "2026-10-25T07:54:09Z"
+  }
 }

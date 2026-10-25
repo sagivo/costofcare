@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-allegiance_specialty_hospital_of_greenville-1950a__b4b6ac4400e8708c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-allegiance_specialty_hospital_of_greenville-1950a__b4b6ac4400e8708c.jsonl.gz",
+    "asset_sha256": "b4b6ac4400e8708cd806b2969be9143017659da7201868b2260edb550a59b12b",
+    "published_at": "2026-10-25T07:59:23Z"
+  }
 }

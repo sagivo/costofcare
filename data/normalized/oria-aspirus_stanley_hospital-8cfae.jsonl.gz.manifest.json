@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2f",
+    "asset_name": "oria-aspirus_stanley_hospital-8cfae__2fec84dbd968b851.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/oria-aspirus_stanley_hospital-8cfae__2fec84dbd968b851.jsonl.gz",
+    "asset_sha256": "2fec84dbd968b851d079dc8fc954b27ee4985f8d4e6e8b12898bfec1a5fae38e",
+    "published_at": "2026-10-25T08:02:59Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0b",
+    "asset_name": "oria-anaheim_global_medical_center-2a27d__0ba0a2818ccd2505.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-anaheim_global_medical_center-2a27d__0ba0a2818ccd2505.jsonl.gz",
+    "asset_sha256": "0ba0a2818ccd25054f80f70914abd3efbaca94f4e115481d4e15c67a72d9d19c",
+    "published_at": "2026-10-25T08:00:04Z"
+  }
 }

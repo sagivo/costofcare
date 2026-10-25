@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-46",
+    "asset_name": "oria-adams_county_public_hospital_district_2-73f5b__465e77b501354fdc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-46/oria-adams_county_public_hospital_district_2-73f5b__465e77b501354fdc.jsonl.gz",
+    "asset_sha256": "465e77b501354fdca6ba8d50cdac38e06c74f26ef344372a15a06ea7d361fa7d",
+    "published_at": "2026-10-25T07:58:28Z"
+  }
 }

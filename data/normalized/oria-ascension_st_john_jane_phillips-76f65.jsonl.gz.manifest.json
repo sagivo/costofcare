@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9c",
+    "asset_name": "oria-ascension_st_john_jane_phillips-76f65__9ca2282f5d74f60a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9c/oria-ascension_st_john_jane_phillips-76f65__9ca2282f5d74f60a.jsonl.gz",
+    "asset_sha256": "9ca2282f5d74f60a6dcfda925d1cd78b3dcabcdf0c342fe417a1e02a09bf970d",
+    "published_at": "2026-10-25T08:01:44Z"
+  }
 }

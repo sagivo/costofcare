@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1976",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-be",
+    "asset_name": "nyu-langone-tisch-hospital__beb8343453ad0f1d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/nyu-langone-tisch-hospital__beb8343453ad0f1d.jsonl.gz",
+    "asset_sha256": "beb8343453ad0f1d9d1e7e3ea1800f4aaf8e5189bffcc1a085b87e369ea15a7f",
+    "published_at": "2026-10-25T07:57:30Z"
+  }
 }

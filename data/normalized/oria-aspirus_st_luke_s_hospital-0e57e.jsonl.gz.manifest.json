@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "oria-aspirus_st_luke_s_hospital-0e57e__f0e3d32649594fec.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-aspirus_st_luke_s_hospital-0e57e__f0e3d32649594fec.jsonl.gz",
+    "asset_sha256": "f0e3d32649594fecd1409d2c6aa2675120ff6f6c80d998455bfb6db0e6ede511",
+    "published_at": "2026-10-25T08:02:57Z"
+  }
 }

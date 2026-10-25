@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ad",
+    "asset_name": "oria-ascension_se_wisconsin_hospital_franklin_campus-6e082__ad1ed7b58b38532e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/oria-ascension_se_wisconsin_hospital_franklin_campus-6e082__ad1ed7b58b38532e.jsonl.gz",
+    "asset_sha256": "ad1ed7b58b38532e1523d4e604ce5baa7665e9e3049b7e6c04742e95f43c7630",
+    "published_at": "2026-10-25T08:01:30Z"
+  }
 }

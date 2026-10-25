@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cd",
+    "asset_name": "mercy-hospital-st-louis__cdccf74af941a835.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/mercy-hospital-st-louis__cdccf74af941a835.jsonl.gz",
+    "asset_sha256": "cdccf74af941a835ac7ef9d8705ea6b275cc64adfba518cce3a697b81b54578e",
+    "published_at": "2026-10-25T07:54:39Z"
+  }
 }

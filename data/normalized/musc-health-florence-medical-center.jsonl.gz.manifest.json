@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bd",
+    "asset_name": "musc-health-florence-medical-center__bd874ccc1218d47b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/musc-health-florence-medical-center__bd874ccc1218d47b.jsonl.gz",
+    "asset_sha256": "bd874ccc1218d47b501ff5a9c9726dec58a130059d7abe6bb9d65a72d7673179",
+    "published_at": "2026-10-25T07:56:09Z"
+  }
 }

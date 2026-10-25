@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-65",
+    "asset_name": "oria-armstrong_center_for_medicine_health-a5ba6__6502d251d9cb7be9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/oria-armstrong_center_for_medicine_health-a5ba6__6502d251d9cb7be9.jsonl.gz",
+    "asset_sha256": "6502d251d9cb7be9f6e837b2db8aef911bd61cec76cc9e30e0f5487bae29ef84",
+    "published_at": "2026-10-25T08:00:37Z"
+  }
 }

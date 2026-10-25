@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-36",
+    "asset_name": "jefferson-lansdale-hospital__3612193bb7ef0537.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-36/jefferson-lansdale-hospital__3612193bb7ef0537.jsonl.gz",
+    "asset_sha256": "3612193bb7ef05374d063ef75f9e63495e5f21e175bed4955c9173b0e16918f7",
+    "published_at": "2026-10-25T07:53:29Z"
+  }
 }

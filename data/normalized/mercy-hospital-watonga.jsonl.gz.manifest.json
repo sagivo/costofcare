@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "mercy-hospital-watonga__75068af6e119c26e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/mercy-hospital-watonga__75068af6e119c26e.jsonl.gz",
+    "asset_sha256": "75068af6e119c26e6cfe662497eb15aad4b630045d03cc523d5577684afd1f18",
+    "published_at": "2026-10-25T07:54:47Z"
+  }
 }

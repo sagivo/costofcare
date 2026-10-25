@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ca",
+    "asset_name": "oria-advocate_christ_medical_center-48381__caed87d2a305ea37.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/oria-advocate_christ_medical_center-48381__caed87d2a305ea37.jsonl.gz",
+    "asset_sha256": "caed87d2a305ea37cb7e5cd9b4d7e7d70511abbf854005fea600cfa1ea8acccc",
+    "published_at": "2026-10-25T07:58:46Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-53",
+    "asset_name": "oria-ascension_seton_bastrop-3d897__53d3fd43550d94b6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/oria-ascension_seton_bastrop-3d897__53d3fd43550d94b6.jsonl.gz",
+    "asset_sha256": "53d3fd43550d94b67711b13a5ae269de4bcd05ab715a23a4168f2e416bc7e948",
+    "published_at": "2026-10-25T08:01:34Z"
+  }
 }

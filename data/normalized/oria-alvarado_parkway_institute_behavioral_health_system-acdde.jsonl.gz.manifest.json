@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-51",
+    "asset_name": "oria-alvarado_parkway_institute_behavioral_health_system-acdde__510d75de2ca560c5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-51/oria-alvarado_parkway_institute_behavioral_health_system-acdde__510d75de2ca560c5.jsonl.gz",
+    "asset_sha256": "510d75de2ca560c526554027ca356f824091162c58bcfbf46f35d9a70ad08f11",
+    "published_at": "2026-10-25T07:59:57Z"
+  }
 }

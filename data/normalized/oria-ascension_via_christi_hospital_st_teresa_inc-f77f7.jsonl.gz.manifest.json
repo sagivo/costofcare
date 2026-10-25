@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ad",
+    "asset_name": "oria-ascension_via_christi_hospital_st_teresa_inc-f77f7__adcddaa3ad4a2d77.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/oria-ascension_via_christi_hospital_st_teresa_inc-f77f7__adcddaa3ad4a2d77.jsonl.gz",
+    "asset_sha256": "adcddaa3ad4a2d77f8ff329f519a76479220479379888692c688b0867f40eea1",
+    "published_at": "2026-10-25T08:02:16Z"
+  }
 }

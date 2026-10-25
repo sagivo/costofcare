@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 1253",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-17",
+    "asset_name": "oregon-health-and-science-university__17cfaf46ee07ac4f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oregon-health-and-science-university__17cfaf46ee07ac4f.jsonl.gz",
+    "asset_sha256": "17cfaf46ee07ac4f815ab693e0512eee1d95a705ed479008244fd2ab99291af5",
+    "published_at": "2026-10-25T07:58:13Z"
+  }
 }

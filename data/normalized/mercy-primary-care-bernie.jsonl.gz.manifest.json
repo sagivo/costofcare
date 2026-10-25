@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-62",
+    "asset_name": "mercy-primary-care-bernie__620e322b10100e15.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-62/mercy-primary-care-bernie__620e322b10100e15.jsonl.gz",
+    "asset_sha256": "620e322b10100e1557b1473e53e292e71c80984986d368663613c9472b6f6b3e",
+    "published_at": "2026-10-25T07:55:12Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "oria-ascension_st_vincent_seton_st_vincent_seton_specialty_hospital_inc-380b2__31b57375107ff921.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-ascension_st_vincent_seton_st_vincent_seton_specialty_hospital_inc-380b2__31b57375107ff921.jsonl.gz",
+    "asset_sha256": "31b57375107ff921fa51b00176161d18cb7bb3fdafe32d861c0362accd266ecd",
+    "published_at": "2026-10-25T08:02:08Z"
+  }
 }

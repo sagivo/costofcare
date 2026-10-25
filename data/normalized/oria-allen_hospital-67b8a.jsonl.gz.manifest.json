@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-42",
+    "asset_name": "oria-allen_hospital-67b8a__42c3b032b923f628.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-42/oria-allen_hospital-67b8a__42c3b032b923f628.jsonl.gz",
+    "asset_sha256": "42c3b032b923f628949bb4bae816928fd8d651236686c7e6b215d634b396ec10",
+    "published_at": "2026-10-25T07:59:27Z"
+  }
 }

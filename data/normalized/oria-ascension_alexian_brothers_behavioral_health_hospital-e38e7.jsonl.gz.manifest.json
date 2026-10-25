@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-ascension_alexian_brothers_behavioral_health_hospital-e38e7__7708e75bb96c48d5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-ascension_alexian_brothers_behavioral_health_hospital-e38e7__7708e75bb96c48d5.jsonl.gz",
+    "asset_sha256": "7708e75bb96c48d55e127bfc0b7d452f34df7b7b751899d90207d592f1bf7750",
+    "published_at": "2026-10-25T08:00:48Z"
+  }
 }

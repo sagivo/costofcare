@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2955",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1e",
+    "asset_name": "nyu-langone-hospital-brooklyn__1eeef988c00feaf5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/nyu-langone-hospital-brooklyn__1eeef988c00feaf5.jsonl.gz",
+    "asset_sha256": "1eeef988c00feaf5b74430d103e9b42a2cffb4e8a69d741818599c73c1f07be6",
+    "published_at": "2026-10-25T07:57:21Z"
+  }
 }

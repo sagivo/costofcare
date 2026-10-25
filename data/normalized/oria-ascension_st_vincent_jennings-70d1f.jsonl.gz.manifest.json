@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-ascension_st_vincent_jennings-70d1f__05f1f616503d50e2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-ascension_st_vincent_jennings-70d1f__05f1f616503d50e2.jsonl.gz",
+    "asset_sha256": "05f1f616503d50e2455baf7dbbe08901b2486abece123a5d2b82cf90966e3341",
+    "published_at": "2026-10-25T08:01:58Z"
+  }
 }

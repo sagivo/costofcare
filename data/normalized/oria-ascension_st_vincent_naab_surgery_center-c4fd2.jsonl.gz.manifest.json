@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-ascension_st_vincent_naab_surgery_center-c4fd2__7778252d2963d7c1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-ascension_st_vincent_naab_surgery_center-c4fd2__7778252d2963d7c1.jsonl.gz",
+    "asset_sha256": "7778252d2963d7c1e9ab7faa7321d3e40d5a7471989d301aba109ff1f431659e",
+    "published_at": "2026-10-25T08:02:00Z"
+  }
 }

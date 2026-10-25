@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a8",
+    "asset_name": "oria-ascension_st_vincent_warrick-d1bde__a8de174ece4333ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/oria-ascension_st_vincent_warrick-d1bde__a8de174ece4333ad.jsonl.gz",
+    "asset_sha256": "a8de174ece4333ad29f4c299417e0a13b268e05b028fb3a836775ba1f4a12328",
+    "published_at": "2026-10-25T08:02:10Z"
+  }
 }

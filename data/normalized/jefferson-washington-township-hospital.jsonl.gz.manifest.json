@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-28",
+    "asset_name": "jefferson-washington-township-hospital__2848a9d9cf8fbfb3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-28/jefferson-washington-township-hospital__2848a9d9cf8fbfb3.jsonl.gz",
+    "asset_sha256": "2848a9d9cf8fbfb3e7f020bda26d7ecbcc0870b356b5fad0ab3a2d93a53ce457",
+    "published_at": "2026-10-25T07:53:36Z"
+  }
 }

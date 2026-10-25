@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-ascension_st_vincent_carmel_ambulatory_surgery_center-a3a7e__5fd6b9bcc47c9424.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-ascension_st_vincent_carmel_ambulatory_surgery_center-a3a7e__5fd6b9bcc47c9424.jsonl.gz",
+    "asset_sha256": "5fd6b9bcc47c94249b60b0bbb5fbe474a6fb8e23ee90a6b03e98125b50cdb2a3",
+    "published_at": "2026-10-25T08:01:50Z"
+  }
 }

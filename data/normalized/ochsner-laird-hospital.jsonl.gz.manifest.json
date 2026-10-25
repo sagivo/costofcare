@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1929",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bc",
+    "asset_name": "ochsner-laird-hospital__bc6cf476bce35a96.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/ochsner-laird-hospital__bc6cf476bce35a96.jsonl.gz",
+    "asset_sha256": "bc6cf476bce35a96820a0f9ab6602abf0f6f63a09d1bea7c5cea95082f9c92dc",
+    "published_at": "2026-10-25T07:57:45Z"
+  }
 }

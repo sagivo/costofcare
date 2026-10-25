@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-50",
+    "asset_name": "novant-health-matthews-medical-center__505e0bfb3974d1ee.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/novant-health-matthews-medical-center__505e0bfb3974d1ee.jsonl.gz",
+    "asset_sha256": "505e0bfb3974d1ee89fe8dbcb3b08161d7ae18e6512e955229f229b6c4e1988a",
+    "published_at": "2026-10-25T07:57:01Z"
+  }
 }

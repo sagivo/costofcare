@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "oria-advocate_south_suburban_hospital-f10ff__4c7b8d07c6408184.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/oria-advocate_south_suburban_hospital-f10ff__4c7b8d07c6408184.jsonl.gz",
+    "asset_sha256": "4c7b8d07c6408184abb6148a3fab8d98d7676ad7af6c40473cd3a775dbe18ff0",
+    "published_at": "2026-10-25T07:58:59Z"
+  }
 }

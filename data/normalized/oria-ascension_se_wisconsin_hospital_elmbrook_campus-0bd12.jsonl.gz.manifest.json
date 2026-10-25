@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5a",
+    "asset_name": "oria-ascension_se_wisconsin_hospital_elmbrook_campus-0bd12__5a575ee8fbdfd817.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-ascension_se_wisconsin_hospital_elmbrook_campus-0bd12__5a575ee8fbdfd817.jsonl.gz",
+    "asset_sha256": "5a575ee8fbdfd817fca071e6049aa87420b59eb36e5fc83101bcc6dd5001d3ab",
+    "published_at": "2026-10-25T08:01:28Z"
+  }
 }

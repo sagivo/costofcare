@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-aa",
+    "asset_name": "mills-health-center__aa1914dede178615.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-aa/mills-health-center__aa1914dede178615.jsonl.gz",
+    "asset_sha256": "aa1914dede1786159e0ddaa189f932d1f89b962821fdbd8bc32c2608aa96fbbb",
+    "published_at": "2026-10-25T07:55:53Z"
+  }
 }

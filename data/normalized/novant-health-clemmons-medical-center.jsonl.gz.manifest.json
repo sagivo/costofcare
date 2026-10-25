@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "novant-health-clemmons-medical-center__2915127086294edc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/novant-health-clemmons-medical-center__2915127086294edc.jsonl.gz",
+    "asset_sha256": "2915127086294edc297e20a5a649684ce86f5ef2a6ea6ddbb8cdbd0e0151523d",
+    "published_at": "2026-10-25T07:56:43Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "missouri-baptist-sullivan-hospital__5f961da529534665.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/missouri-baptist-sullivan-hospital__5f961da529534665.jsonl.gz",
+    "asset_sha256": "5f961da52953466588d5a2ab1be96a800b2df984bc04ace8451df64373333a9f",
+    "published_at": "2026-10-25T07:55:57Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "oria-astera_health-37729__a74af32f660f74d9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-astera_health-37729__a74af32f660f74d9.jsonl.gz",
+    "asset_sha256": "a74af32f660f74d967d2ce9da5c44b6c5f7e9ac5ffc168a73e62a9297990b7a6",
+    "published_at": "2026-10-25T08:03:10Z"
+  }
 }

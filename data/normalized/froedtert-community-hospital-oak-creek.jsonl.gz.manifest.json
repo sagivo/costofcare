@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "froedtert-community-hospital-oak-creek__585147f1159519ea.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/froedtert-community-hospital-oak-creek__585147f1159519ea.jsonl.gz",
+    "asset_sha256": "585147f1159519ea2558a5dbd3a8f5994a8ba1bb16dacb6ac903680b03d4d59c",
+    "published_at": "2026-10-25T07:52:41Z"
+  }
 }

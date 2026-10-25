@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-08",
+    "asset_name": "oria-annie_jeffrey_memorial_county_health_center-6f626__0869914789a3114b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/oria-annie_jeffrey_memorial_county_health_center-6f626__0869914789a3114b.jsonl.gz",
+    "asset_sha256": "0869914789a3114b03a27d11d066af1ca386f3d0bde4abada33dc99d6c555cfe",
+    "published_at": "2026-10-25T08:00:20Z"
+  }
 }

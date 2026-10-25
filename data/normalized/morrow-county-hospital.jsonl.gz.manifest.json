@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "morrow-county-hospital__ff6cf8432081156e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/morrow-county-hospital__ff6cf8432081156e.jsonl.gz",
+    "asset_sha256": "ff6cf8432081156eb6d66e7f5d02ec58bde433359a6e3d22279c51910c6b09e7",
+    "published_at": "2026-10-25T07:55:59Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7181",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7b",
+    "asset_name": "oria-auburn_community_hospital-8e598__7bb222f39403a722.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/oria-auburn_community_hospital-8e598__7bb222f39403a722.jsonl.gz",
+    "asset_sha256": "7bb222f39403a722465b8c402f3c15d883b9a200d89c416ecb8cbb66bcb2c2ca",
+    "published_at": "2026-10-25T08:03:21Z"
+  }
 }

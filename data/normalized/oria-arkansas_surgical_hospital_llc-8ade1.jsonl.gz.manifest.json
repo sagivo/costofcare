@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "oria-arkansas_surgical_hospital_llc-8ade1__71ed8c08de5f70a8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-arkansas_surgical_hospital_llc-8ade1__71ed8c08de5f70a8.jsonl.gz",
+    "asset_sha256": "71ed8c08de5f70a8b02b4549a067ade1048833057736f253661305f00c5820cf",
+    "published_at": "2026-10-25T08:00:33Z"
+  }
 }

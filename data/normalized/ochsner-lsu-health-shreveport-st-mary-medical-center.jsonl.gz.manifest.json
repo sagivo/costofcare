@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3606",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ae",
+    "asset_name": "ochsner-lsu-health-shreveport-st-mary-medical-center__ae99f514b92462ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ae/ochsner-lsu-health-shreveport-st-mary-medical-center__ae99f514b92462ad.jsonl.gz",
+    "asset_sha256": "ae99f514b92462ad2a9feef3c18db5f38fefc1e2578207226266fc4734cad5a4",
+    "published_at": "2026-10-25T07:57:47Z"
+  }
 }

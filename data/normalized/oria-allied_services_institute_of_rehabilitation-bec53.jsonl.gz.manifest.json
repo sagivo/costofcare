@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 757",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "oria-allied_services_institute_of_rehabilitation-bec53__61e3735a5c382722.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-allied_services_institute_of_rehabilitation-bec53__61e3735a5c382722.jsonl.gz",
+    "asset_sha256": "61e3735a5c382722adcc55b6900b7d9ca54d901208ef099e496e6aef32372152",
+    "published_at": "2026-10-25T07:59:39Z"
+  }
 }

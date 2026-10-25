@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5a",
+    "asset_name": "mercy-orthopedic-hospital-springfield__5a81ab16fd306b9a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/mercy-orthopedic-hospital-springfield__5a81ab16fd306b9a.jsonl.gz",
+    "asset_sha256": "5a81ab16fd306b9a25c5e4c3f6f5ebe67195179754cecd29253dae17813abd1f",
+    "published_at": "2026-10-25T07:54:57Z"
+  }
 }

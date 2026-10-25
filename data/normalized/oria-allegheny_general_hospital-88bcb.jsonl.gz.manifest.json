@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-allegheny_general_hospital-88bcb__84d9bcaceb585706.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-allegheny_general_hospital-88bcb__84d9bcaceb585706.jsonl.gz",
+    "asset_sha256": "84d9bcaceb5857067604362040b3504a31cc6c1fd12bbe921348fba21028440d",
+    "published_at": "2026-10-25T07:59:19Z"
+  }
 }
