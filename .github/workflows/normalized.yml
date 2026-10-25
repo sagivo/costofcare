@@ -50,6 +50,7 @@ jobs:
         run: |
           cp -a data/normalized publication/data/
           cp -a data/normalized-attempts publication/data/
+          cp -a data/quality publication/data/ 2>/dev/null || true
           cd publication
           python scripts/quality_report.py
           python scripts/validate_normalized.py
