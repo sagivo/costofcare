@@ -1,0 +1,25 @@
+{
+  "npi": "1417481052",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:04:16Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1417481052",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JUNGHAN",
+      "last_name": "SUH",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "1842 BEACON ST STE 205",
+        "city": "BROOKLINE",
+        "state": "MA",
+        "postal_code": "024451922"
+      },
+      "last_updated": "2018-03-27"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1396054839",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:03:57Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1396054839",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "AMY",
+      "last_name": "WOLF",
+      "primary_taxonomy": "Mechanotherapist",
+      "location": {
+        "address_1": "10522 LAKE CITY WAY NE",
+        "city": "SEATTLE",
+        "state": "WA",
+        "postal_code": "981257765"
+      },
+      "last_updated": "2010-10-01"
+    }
+  ]
+}

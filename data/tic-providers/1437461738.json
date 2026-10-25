@@ -1,0 +1,25 @@
+{
+  "npi": "1437461738",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:04:24Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1437461738",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "REBECCA",
+      "last_name": "SHWARTZ",
+      "primary_taxonomy": "Naturopath",
+      "location": {
+        "address_1": "1037 WESTERN AVE",
+        "city": "BRATTLEBORO",
+        "state": "VT",
+        "postal_code": "053017133"
+      },
+      "last_updated": "2016-10-04"
+    }
+  ]
+}

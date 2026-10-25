@@ -1,0 +1,25 @@
+{
+  "npi": "1528266855",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:05:05Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1528266855",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "WADE",
+      "last_name": "MCCULLOCH",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "17355 BOONES FERRY RD",
+        "city": "LAKE OSWEGO",
+        "state": "OR",
+        "postal_code": "970355225"
+      },
+      "last_updated": "2016-12-16"
+    }
+  ]
+}

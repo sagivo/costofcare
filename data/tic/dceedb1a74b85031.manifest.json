@@ -992,5 +992,12 @@
       "provider_groups_truncated": true
     }
   ],
-  "provider_reference_read": "ok"
+  "provider_reference_read": "ok",
+  "release_asset": {
+    "release": "data-tic-3c",
+    "asset_name": "dceedb1a74b85031__3cafc592c6fc7b8f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-tic-3c/dceedb1a74b85031__3cafc592c6fc7b8f.jsonl.gz",
+    "asset_sha256": "3cafc592c6fc7b8ff83e3f1021d96bed0e28e30b6a59795ffe680fd26d1e5d0d",
+    "published_at": "2026-10-25T15:07:05Z"
+  }
 }

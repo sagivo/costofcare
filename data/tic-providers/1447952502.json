@@ -1,0 +1,25 @@
+{
+  "npi": "1447952502",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:04:32Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1447952502",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JASON",
+      "last_name": "MOSS",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "220 INDIAN HEAD RD",
+        "city": "KINGS PARK",
+        "state": "NY",
+        "postal_code": "117544802"
+      },
+      "last_updated": "2023-03-21"
+    }
+  ]
+}

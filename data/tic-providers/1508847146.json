@@ -1,0 +1,25 @@
+{
+  "npi": "1508847146",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:04:54Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1508847146",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DAYNA",
+      "last_name": "BOLERA",
+      "primary_taxonomy": "Chiropractor",
+      "location": {
+        "address_1": "215 E FOREST AVE",
+        "city": "SOUTH LEBANON",
+        "state": "OH",
+        "postal_code": "450651311"
+      },
+      "last_updated": "2026-09-29"
+    }
+  ]
+}

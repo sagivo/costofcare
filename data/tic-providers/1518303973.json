@@ -1,0 +1,25 @@
+{
+  "npi": "1518303973",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:05:00Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1518303973",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "HOI JUN",
+      "last_name": "JEONG",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "1725 NOGALES ST STE 105",
+        "city": "ROWLAND HEIGHTS",
+        "state": "CA",
+        "postal_code": "917482918"
+      },
+      "last_updated": "2015-05-13"
+    }
+  ]
+}

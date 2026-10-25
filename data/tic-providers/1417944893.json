@@ -1,0 +1,25 @@
+{
+  "npi": "1417944893",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:04:17Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1417944893",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MINCHEN",
+      "last_name": "WANG",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "3023 BUNKER HILL ST",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "postal_code": "921095706"
+      },
+      "last_updated": "2016-11-25"
+    }
+  ]
+}

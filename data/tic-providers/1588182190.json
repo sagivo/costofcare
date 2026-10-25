@@ -1,0 +1,25 @@
+{
+  "npi": "1588182190",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:05:43Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1588182190",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DEBRA",
+      "last_name": "HAYES",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "226 N WASHINGTON ST # 2",
+        "city": "NAPERVILLE",
+        "state": "IL",
+        "postal_code": "60540"
+      },
+      "last_updated": "2019-11-06"
+    }
+  ]
+}

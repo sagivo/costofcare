@@ -1,0 +1,25 @@
+{
+  "npi": "1568602183",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-25T15:05:30Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1568602183",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ELISABETH",
+      "last_name": "GOULD",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "4080 CENTRE ST. SUITE 202",
+        "city": "SAN DIEGO",
+        "state": "CA",
+        "postal_code": "921032655"
+      },
+      "last_updated": "2012-02-17"
+    }
+  ]
+}
