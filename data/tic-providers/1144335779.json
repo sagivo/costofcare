@@ -1,0 +1,25 @@
+{
+  "npi": "1144335779",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-26T17:41:23Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1144335779",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "STEPHEN",
+      "last_name": "RUTH",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "771 S 30TH ST",
+        "city": "HEATH",
+        "state": "OH",
+        "postal_code": "430564200"
+      },
+      "last_updated": "2007-09-13"
+    }
+  ]
+}

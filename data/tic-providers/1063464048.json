@@ -1,0 +1,25 @@
+{
+  "npi": "1063464048",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-26T17:40:46Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1063464048",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RICHARD",
+      "last_name": "WINNICK",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "7151 W ALASKA DR",
+        "city": "LAKEWOOD",
+        "state": "CO",
+        "postal_code": "802263216"
+      },
+      "last_updated": "2026-10-06"
+    }
+  ]
+}

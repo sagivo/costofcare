@@ -1,0 +1,25 @@
+{
+  "npi": "1174648687",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-26T17:41:35Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1174648687",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JAEHOON",
+      "last_name": "LEE",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "19179 BEAR VALLEY RD",
+        "city": "APPLE VALLEY",
+        "state": "CA",
+        "postal_code": "923082724"
+      },
+      "last_updated": "2014-09-15"
+    }
+  ]
+}

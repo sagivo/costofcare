@@ -1,0 +1,25 @@
+{
+  "npi": "1043400690",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-26T17:40:37Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1043400690",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BRANDON",
+      "last_name": "BUTLER",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "69 W 14TH ST",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100117417"
+      },
+      "last_updated": "2007-07-30"
+    }
+  ]
+}

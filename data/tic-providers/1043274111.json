@@ -1,0 +1,25 @@
+{
+  "npi": "1043274111",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-26T17:40:35Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1043274111",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MICHAEL",
+      "last_name": "BENNETT",
+      "primary_taxonomy": "Ophthalmology",
+      "location": {
+        "address_1": "1620 ALA MOANA BLVD",
+        "city": "HONOLULU",
+        "state": "HI",
+        "postal_code": "968151457"
+      },
+      "last_updated": "2020-03-20"
+    }
+  ]
+}

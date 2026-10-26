@@ -1,0 +1,25 @@
+{
+  "npi": "1215312384",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-26T17:41:51Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1215312384",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KATIE",
+      "last_name": "OSTER",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "2160 SIR BARTON WAY STE 143",
+        "city": "LEXINGTON",
+        "state": "KY",
+        "postal_code": "405092229"
+      },
+      "last_updated": "2015-07-29"
+    }
+  ]
+}

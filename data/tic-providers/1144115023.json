@@ -1,0 +1,25 @@
+{
+  "npi": "1144115023",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-26T17:41:21Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1144115023",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "REYNALDO",
+      "last_name": "HERNANDEZ LIMA",
+      "primary_taxonomy": "Technician/Technologist, Optician",
+      "location": {
+        "address_1": "17560 NW 27TH AVE STE 119",
+        "city": "MIAMI GARDENS",
+        "state": "FL",
+        "postal_code": "330564075"
+      },
+      "last_updated": "2026-03-02"
+    }
+  ]
+}
