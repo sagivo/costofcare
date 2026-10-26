@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4f",
+    "asset_name": "oria-exeter_hospital-d18a4__4fc57d3e66d5a580.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4f/oria-exeter_hospital-d18a4__4fc57d3e66d5a580.jsonl.gz",
+    "asset_sha256": "4fc57d3e66d5a580e41bb4d2d06ba682dc34b2f0119d5a0d7cd1c4ff1d022e9f",
+    "published_at": "2026-10-26T01:26:04Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-40",
+    "asset_name": "oria-ehhs_fulton_square_clinic-3174f__403231e97b736107.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-ehhs_fulton_square_clinic-3174f__403231e97b736107.jsonl.gz",
+    "asset_sha256": "403231e97b73610726a61ed5fda471819691aa0758639f2530017d3d5ffb733a",
+    "published_at": "2026-10-26T01:23:54Z"
+  }
 }

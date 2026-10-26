@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "oria-dominican_hospital-19aeb__312adba5fa0d83e3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-dominican_hospital-19aeb__312adba5fa0d83e3.jsonl.gz",
+    "asset_sha256": "312adba5fa0d83e31539e0258332132582c008c25dc0d1be2a7ccfa0d19dd447",
+    "published_at": "2026-10-26T01:22:59Z"
+  }
 }

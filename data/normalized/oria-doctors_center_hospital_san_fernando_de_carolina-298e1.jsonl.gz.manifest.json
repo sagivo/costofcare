@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-doctors_center_hospital_san_fernando_de_carolina-298e1__b40898895a688974.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-doctors_center_hospital_san_fernando_de_carolina-298e1__b40898895a688974.jsonl.gz",
+    "asset_sha256": "b40898895a6889748b02763e0707fb74e2aaa566b516473a795985b7bb40eff8",
+    "published_at": "2026-10-26T01:22:46Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3920",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-18",
+    "asset_name": "oria-emanate_health_queen_of_the_valley_hospital-bbfdf__18fdcb2533fdb877.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-18/oria-emanate_health_queen_of_the_valley_hospital-bbfdf__18fdcb2533fdb877.jsonl.gz",
+    "asset_sha256": "18fdcb2533fdb877893232413c67e66287538520085aa93846f5c7a05da22d32",
+    "published_at": "2026-10-26T01:24:26Z"
+  }
 }

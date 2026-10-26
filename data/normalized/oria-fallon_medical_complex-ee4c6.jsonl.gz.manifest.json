@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-fallon_medical_complex-ee4c6__84a8a13f117f2710.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-fallon_medical_complex-ee4c6__84a8a13f117f2710.jsonl.gz",
+    "asset_sha256": "84a8a13f117f27102fcf308e29b2453994ef7951505599111e5d7d8536f462ec",
+    "published_at": "2026-10-26T01:26:20Z"
+  }
 }

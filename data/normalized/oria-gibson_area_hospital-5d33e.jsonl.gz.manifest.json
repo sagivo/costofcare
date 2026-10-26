@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-gibson_area_hospital-5d33e__5e473d71901eaeb9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-gibson_area_hospital-5d33e__5e473d71901eaeb9.jsonl.gz",
+    "asset_sha256": "5e473d71901eaeb92b522b1d47bbd43a0c814501c95629ad0a94902c6a52757e",
+    "published_at": "2026-10-26T01:28:51Z"
+  }
 }

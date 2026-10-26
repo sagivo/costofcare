@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4e",
+    "asset_name": "oria-garden_city_hospital-e1f68__4e2bc0907337c34e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4e/oria-garden_city_hospital-e1f68__4e2bc0907337c34e.jsonl.gz",
+    "asset_sha256": "4e2bc0907337c34ead510cae0911ea4501c40d4d4ff5a3ed2fed4279a14a9bca",
+    "published_at": "2026-10-26T01:28:19Z"
+  }
 }

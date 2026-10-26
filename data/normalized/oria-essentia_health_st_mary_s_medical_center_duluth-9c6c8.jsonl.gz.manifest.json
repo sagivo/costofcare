@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-essentia_health_st_mary_s_medical_center_duluth-9c6c8__b45714a1741ec9e2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-essentia_health_st_mary_s_medical_center_duluth-9c6c8__b45714a1741ec9e2.jsonl.gz",
+    "asset_sha256": "b45714a1741ec9e2e6e2e9ed7e93b64fa88f737ad8296989dc23c424856b0631",
+    "published_at": "2026-10-26T01:25:56Z"
+  }
 }

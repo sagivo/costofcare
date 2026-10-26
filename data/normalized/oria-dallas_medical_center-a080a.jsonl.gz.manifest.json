@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-65",
+    "asset_name": "oria-dallas_medical_center-a080a__6557c8fe74a0f84b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/oria-dallas_medical_center-a080a__6557c8fe74a0f84b.jsonl.gz",
+    "asset_sha256": "6557c8fe74a0f84b6b86ef5d99cda3cf4b088e18cff5f5332f7f13ae15b34a7b",
+    "published_at": "2026-10-26T01:21:03Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a1",
+    "asset_name": "oria-grandview_medical_center-b53b0__a1b97ace3c2c0dae.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-grandview_medical_center-b53b0__a1b97ace3c2c0dae.jsonl.gz",
+    "asset_sha256": "a1b97ace3c2c0daed50616e7a1cf7324cfeedb71742566fd63ad2214c6011a17",
+    "published_at": "2026-10-26T01:30:00Z"
+  }
 }

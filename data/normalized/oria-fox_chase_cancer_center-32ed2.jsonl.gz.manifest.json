@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-07",
+    "asset_name": "oria-fox_chase_cancer_center-32ed2__076ed03f72441cd5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/oria-fox_chase_cancer_center-32ed2__076ed03f72441cd5.jsonl.gz",
+    "asset_sha256": "076ed03f72441cd5486d4425d6be12287190036286b571416a72abf7327fd014",
+    "published_at": "2026-10-26T01:27:12Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f7",
+    "asset_name": "oria-gadsden_regional_medical_center-f20ce__f7f15209bfe8c7b4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f7/oria-gadsden_regional_medical_center-f20ce__f7f15209bfe8c7b4.jsonl.gz",
+    "asset_sha256": "f7f15209bfe8c7b48893482147dc807a24d56721918213f3ad3bed227fd4671b",
+    "published_at": "2026-10-26T01:28:16Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-70",
+    "asset_name": "oria-goshen_hospital-f0c1d__7097fcc70cee8405.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-goshen_hospital-f0c1d__7097fcc70cee8405.jsonl.gz",
+    "asset_sha256": "7097fcc70cee84057ce27d50b230e61bca5a36100ff3467da80f4a55b386a0e2",
+    "published_at": "2026-10-26T01:29:39Z"
+  }
 }

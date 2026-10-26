@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "oria-franciscan_healthcare-a9c62__fd945344f1d9a33c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-franciscan_healthcare-a9c62__fd945344f1d9a33c.jsonl.gz",
+    "asset_sha256": "fd945344f1d9a33c4b9dc65efa141114a8cdd8f13f622b8b12f4a1a05f88d0aa",
+    "published_at": "2026-10-26T01:27:42Z"
+  }
 }

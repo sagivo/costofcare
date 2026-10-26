@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-83",
+    "asset_name": "oria-graham_regional_medical_center-ad458__83639a0d1d5f77a7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/oria-graham_regional_medical_center-ad458__83639a0d1d5f77a7.jsonl.gz",
+    "asset_sha256": "83639a0d1d5f77a77f0a7faaa1b3653b55adc45958d47dbd80e52f795479eced",
+    "published_at": "2026-10-26T01:29:58Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5456",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-franciscan_health_mooresville-f7833__5ee4fae2eafd83a1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-franciscan_health_mooresville-f7833__5ee4fae2eafd83a1.jsonl.gz",
+    "asset_sha256": "5ee4fae2eafd83a14a14189ef9421f75612f3e03566c9d35183810f4e54a87e1",
+    "published_at": "2026-10-26T01:27:35Z"
+  }
 }

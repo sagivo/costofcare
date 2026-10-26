@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c4",
+    "asset_name": "oria-goodallwitcherhealthcare-7d2b8__c41f7d2ad961618f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c4/oria-goodallwitcherhealthcare-7d2b8__c41f7d2ad961618f.jsonl.gz",
+    "asset_sha256": "c41f7d2ad961618f63c6c8614b52e0e92be7ac958396e3db0317220ff7922bd4",
+    "published_at": "2026-10-26T01:29:29Z"
+  }
 }

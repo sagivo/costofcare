@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2708",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7d",
+    "asset_name": "oria-franciscan_health_crown_point-9e7ad__7d9d73b494ac891e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-franciscan_health_crown_point-9e7ad__7d9d73b494ac891e.jsonl.gz",
+    "asset_sha256": "7d9d73b494ac891e10db7e350c4dad9dd7dc7a4e7cacf688340e66a1e23ce29c",
+    "published_at": "2026-10-26T01:27:20Z"
+  }
 }

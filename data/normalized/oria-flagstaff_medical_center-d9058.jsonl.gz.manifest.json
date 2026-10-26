@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "oria-flagstaff_medical_center-d9058__fffd219db948d887.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/oria-flagstaff_medical_center-d9058__fffd219db948d887.jsonl.gz",
+    "asset_sha256": "fffd219db948d887592b3e885a2a3c409a5605bdef1a375a5474fcbdbd6895da",
+    "published_at": "2026-10-26T01:26:46Z"
+  }
 }

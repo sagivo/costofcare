@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-edward_emergency_center_plainfield-b7d52__5f439ae24f3211b8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-edward_emergency_center_plainfield-b7d52__5f439ae24f3211b8.jsonl.gz",
+    "asset_sha256": "5f439ae24f3211b8a7d63de311ae34f5c86bc6afe87e38273733dd762458fa16",
+    "published_at": "2026-10-26T01:23:51Z"
+  }
 }

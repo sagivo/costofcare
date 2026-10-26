@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-fort_sanders_regional_medical_center-ae7fd__829a11aec140606f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-fort_sanders_regional_medical_center-ae7fd__829a11aec140606f.jsonl.gz",
+    "asset_sha256": "829a11aec140606f9cc4c0ea9e397067f51d607a00d9ec31c0a0620e2e712e73",
+    "published_at": "2026-10-26T01:27:10Z"
+  }
 }

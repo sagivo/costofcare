@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6b",
+    "asset_name": "oria-endeavor_health_northwest_community_hospital-d1ad6__6bc3a31c144d26fc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6b/oria-endeavor_health_northwest_community_hospital-d1ad6__6bc3a31c144d26fc.jsonl.gz",
+    "asset_sha256": "6bc3a31c144d26fceb6f8134b8b6c766ef36737f3b19618baf50bb4c9a3d54a3",
+    "published_at": "2026-10-26T01:24:48Z"
+  }
 }

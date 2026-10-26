@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-family_health_west_hospital-03967__0555b7a9d79430a4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-family_health_west_hospital-03967__0555b7a9d79430a4.jsonl.gz",
+    "asset_sha256": "0555b7a9d79430a4a29d15d48462b4fa792efa767dad0e9f8602e135ba67d239",
+    "published_at": "2026-10-26T01:26:24Z"
+  }
 }

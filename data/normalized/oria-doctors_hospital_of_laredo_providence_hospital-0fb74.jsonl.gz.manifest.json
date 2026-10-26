@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-doctors_hospital_of_laredo_providence_hospital-0fb74__263e93cbc6586427.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-doctors_hospital_of_laredo_providence_hospital-0fb74__263e93cbc6586427.jsonl.gz",
+    "asset_sha256": "263e93cbc65864277544692d9758dd94673d15a4557295c4579339b86bcd0837",
+    "published_at": "2026-10-26T01:22:53Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5087",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d4",
+    "asset_name": "oria-franciscan_health_carmel-13622__d4e36ed754db4700.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/oria-franciscan_health_carmel-13622__d4e36ed754db4700.jsonl.gz",
+    "asset_sha256": "d4e36ed754db470074a097b109393e599c45926400c529dc24bb8fa51964cb17",
+    "published_at": "2026-10-26T01:27:15Z"
+  }
 }

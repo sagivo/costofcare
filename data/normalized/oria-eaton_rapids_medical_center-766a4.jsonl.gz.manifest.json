@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-32",
+    "asset_name": "oria-eaton_rapids_medical_center-766a4__32b1b586c556bff5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-32/oria-eaton_rapids_medical_center-766a4__32b1b586c556bff5.jsonl.gz",
+    "asset_sha256": "32b1b586c556bff5bf16c2723e732aa9a7b62ac0766393430fb123d9a9af088e",
+    "published_at": "2026-10-26T01:23:47Z"
+  }
 }

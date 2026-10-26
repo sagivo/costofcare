@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c1",
+    "asset_name": "oria-gothenburg_health-d9d36__c155496b06250c7b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c1/oria-gothenburg_health-d9d36__c155496b06250c7b.jsonl.gz",
+    "asset_sha256": "c155496b06250c7b8948124b618fc4ede183dc05ef293a858d4b9d7328ffc2df",
+    "published_at": "2026-10-26T01:29:42Z"
+  }
 }

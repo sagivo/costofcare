@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bb",
+    "asset_name": "oria-dmc_rehabilitation_institute_of_michigan-7e57f__bb553aa1ae3674c9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bb/oria-dmc_rehabilitation_institute_of_michigan-7e57f__bb553aa1ae3674c9.jsonl.gz",
+    "asset_sha256": "bb553aa1ae3674c957a7056fdba20943911f0f15e3c4043319b75a5ecc4a24fd",
+    "published_at": "2026-10-26T01:22:40Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f5",
+    "asset_name": "oria-endeavor_health_highland_park_hospital-338c7__f5e92b01587f0736.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/oria-endeavor_health_highland_park_hospital-338c7__f5e92b01587f0736.jsonl.gz",
+    "asset_sha256": "f5e92b01587f0736d48e5601dff5eafcba1d58a0ee3f67fcbd3b153cde1011fe",
+    "published_at": "2026-10-26T01:24:43Z"
+  }
 }

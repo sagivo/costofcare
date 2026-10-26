@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dd",
+    "asset_name": "oria-east_morgan_county_hospital-473c7__dd65766a3c4ee730.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-east_morgan_county_hospital-473c7__dd65766a3c4ee730.jsonl.gz",
+    "asset_sha256": "dd65766a3c4ee7303e8251ec69e4d8fa92e3359caf306a2a725a203e4b9ff68a",
+    "published_at": "2026-10-26T01:23:32Z"
+  }
 }

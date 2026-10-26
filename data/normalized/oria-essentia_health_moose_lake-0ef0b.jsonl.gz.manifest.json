@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-essentia_health_moose_lake-0ef0b__77952c1419ee005a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-essentia_health_moose_lake-0ef0b__77952c1419ee005a.jsonl.gz",
+    "asset_sha256": "77952c1419ee005af9dead6b936a345a6f1a32e6e17888277b8efa3c04f95085",
+    "published_at": "2026-10-26T01:25:38Z"
+  }
 }

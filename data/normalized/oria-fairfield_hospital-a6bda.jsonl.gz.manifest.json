@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "oria-fairfield_hospital-a6bda__37f3613fe1f60f49.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-fairfield_hospital-a6bda__37f3613fe1f60f49.jsonl.gz",
+    "asset_sha256": "37f3613fe1f60f49adce0b581a08efbaf2485c665a4b5133063aee8dbc3245ae",
+    "published_at": "2026-10-26T01:26:08Z"
+  }
 }

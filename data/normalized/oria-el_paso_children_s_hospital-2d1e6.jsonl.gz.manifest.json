@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7326",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-el_paso_children_s_hospital-2d1e6__5c85ca18069fb661.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-el_paso_children_s_hospital-2d1e6__5c85ca18069fb661.jsonl.gz",
+    "asset_sha256": "5c85ca18069fb66122c1c5b897141d919525a7a314c8c77afaa3c7f9a19de58c",
+    "published_at": "2026-10-26T01:23:59Z"
+  }
 }

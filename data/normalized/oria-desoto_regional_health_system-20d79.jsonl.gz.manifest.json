@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-78",
+    "asset_name": "oria-desoto_regional_health_system-20d79__78d29facd99d53ac.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-78/oria-desoto_regional_health_system-20d79__78d29facd99d53ac.jsonl.gz",
+    "asset_sha256": "78d29facd99d53acb1d4d016446deb66abf8593b11d9b8e4f0130a6e18142abe",
+    "published_at": "2026-10-26T01:22:20Z"
+  }
 }

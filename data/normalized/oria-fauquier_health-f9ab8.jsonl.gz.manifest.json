@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-fauquier_health-f9ab8__84447d8428657485.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-fauquier_health-f9ab8__84447d8428657485.jsonl.gz",
+    "asset_sha256": "84447d84286574858e090a18d09baca64e9fd40d088b31efe2f97f9a21e6134e",
+    "published_at": "2026-10-26T01:26:29Z"
+  }
 }

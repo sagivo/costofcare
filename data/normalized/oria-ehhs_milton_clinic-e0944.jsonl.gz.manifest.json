@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ce",
+    "asset_name": "oria-ehhs_milton_clinic-e0944__ce63e3b4557fd85e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ce/oria-ehhs_milton_clinic-e0944__ce63e3b4557fd85e.jsonl.gz",
+    "asset_sha256": "ce63e3b4557fd85eb9c75e9d2e9e6b1f3a415be8a5a6394b8c00a853c05cc8dd",
+    "published_at": "2026-10-26T01:23:57Z"
+  }
 }

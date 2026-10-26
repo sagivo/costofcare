@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-59",
+    "asset_name": "oria-deaconess_illinois_crossroads_inc-2300d__59e25d55ff1ff362.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-59/oria-deaconess_illinois_crossroads_inc-2300d__59e25d55ff1ff362.jsonl.gz",
+    "asset_sha256": "59e25d55ff1ff36226317d9230bb0a1967ba0aa32135d4c94117eab1051c3feb",
+    "published_at": "2026-10-26T01:21:30Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1a",
+    "asset_name": "oria-franklin_county_memorial_hospital-b6227__1a5d610407cb71f3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/oria-franklin_county_memorial_hospital-b6227__1a5d610407cb71f3.jsonl.gz",
+    "asset_sha256": "1a5d610407cb71f3c6d87fa9ad787763c8d26aded969dbee62a0f0acd0961dfd",
+    "published_at": "2026-10-26T01:27:47Z"
+  }
 }

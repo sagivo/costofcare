@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ca",
+    "asset_name": "oria-essentia_health_fosston-ca328__ca63b5bde1607770.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/oria-essentia_health_fosston-ca328__ca63b5bde1607770.jsonl.gz",
+    "asset_sha256": "ca63b5bde16077706ec21dbfc769a837f5f67e1fcce97aebc5ba4bcb70028b3e",
+    "published_at": "2026-10-26T01:25:33Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4434",
   "row_width_mismatch_records": 5258,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cd",
+    "asset_name": "oria-dequincy_memorial_hospital-4e496__cd34299504e12760.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/oria-dequincy_memorial_hospital-4e496__cd34299504e12760.jsonl.gz",
+    "asset_sha256": "cd34299504e127602694b775b46a1717218d8c25f3994d6bed69a682d07f0f0d",
+    "published_at": "2026-10-26T01:22:12Z"
+  }
 }

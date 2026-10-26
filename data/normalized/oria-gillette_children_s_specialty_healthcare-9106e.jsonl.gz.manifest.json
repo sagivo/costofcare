@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a1",
+    "asset_name": "oria-gillette_children_s_specialty_healthcare-9106e__a14b9a9196950afb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-gillette_children_s_specialty_healthcare-9106e__a14b9a9196950afb.jsonl.gz",
+    "asset_sha256": "a14b9a9196950afb84cffeaaa690f2c88a3611809fecfab69d4834ef439a855f",
+    "published_at": "2026-10-26T01:28:55Z"
+  }
 }

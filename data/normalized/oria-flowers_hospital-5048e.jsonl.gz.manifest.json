@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6b",
+    "asset_name": "oria-flowers_hospital-5048e__6be7679dabd58656.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6b/oria-flowers_hospital-5048e__6be7679dabd58656.jsonl.gz",
+    "asset_sha256": "6be7679dabd58656b51ffca688365858192f073a3bd1f3b1d00bceca8e9bb079",
+    "published_at": "2026-10-26T01:26:55Z"
+  }
 }

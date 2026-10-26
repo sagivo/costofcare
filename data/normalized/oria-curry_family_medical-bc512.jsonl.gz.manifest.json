@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c0",
+    "asset_name": "oria-curry_family_medical-bc512__c014c68c15db9bc8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c0/oria-curry_family_medical-bc512__c014c68c15db9bc8.jsonl.gz",
+    "asset_sha256": "c014c68c15db9bc89921eb24193e031936681498b3b6823ff00fd5858b559184",
+    "published_at": "2026-10-26T01:20:41Z"
+  }
 }

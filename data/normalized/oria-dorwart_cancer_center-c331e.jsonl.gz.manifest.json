@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-dorwart_cancer_center-c331e__5ec0f848983fb954.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-dorwart_cancer_center-c331e__5ec0f848983fb954.jsonl.gz",
+    "asset_sha256": "5ec0f848983fb954f9384584f17d2f3d952db3063005475989b0af50cf1c087c",
+    "published_at": "2026-10-26T01:23:01Z"
+  }
 }

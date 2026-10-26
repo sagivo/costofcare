@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-10",
+    "asset_name": "oria-decatur-a723a__105f48e7b3e1a98c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-10/oria-decatur-a723a__105f48e7b3e1a98c.jsonl.gz",
+    "asset_sha256": "105f48e7b3e1a98c920360428882742d49d79537bed080652f871764f61e71c1",
+    "published_at": "2026-10-26T01:21:46Z"
+  }
 }

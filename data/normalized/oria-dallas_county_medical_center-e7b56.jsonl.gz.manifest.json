@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d8",
+    "asset_name": "oria-dallas_county_medical_center-e7b56__d853b520b6158716.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/oria-dallas_county_medical_center-e7b56__d853b520b6158716.jsonl.gz",
+    "asset_sha256": "d853b520b61587165550e5462a8ee48921bc57d1c779e51d25945cca44647752",
+    "published_at": "2026-10-26T01:21:00Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "oria-french_hospital-a9da1__1c66334f427ad19e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-french_hospital-a9da1__1c66334f427ad19e.jsonl.gz",
+    "asset_sha256": "1c66334f427ad19edd887f4f5809bf74c9e26a07d4ecc54b5d10b2a3104c3aaf",
+    "published_at": "2026-10-26T01:28:01Z"
+  }
 }

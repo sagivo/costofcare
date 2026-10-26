@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-68",
+    "asset_name": "oria-franklin_hospital_district-25570__685c5057e1e80511.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-68/oria-franklin_hospital_district-25570__685c5057e1e80511.jsonl.gz",
+    "asset_sha256": "685c5057e1e8051124a6177c2124619941a103dee2b6795288643858e5618f50",
+    "published_at": "2026-10-26T01:27:49Z"
+  }
 }

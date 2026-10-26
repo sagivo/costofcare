@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "oria-cuero_regional_hospital-91e4b__8171d7749a8efa08.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-cuero_regional_hospital-91e4b__8171d7749a8efa08.jsonl.gz",
+    "asset_sha256": "8171d7749a8efa085068f0adbee00b4877486bbaf0480ebc24ac024340d44222",
+    "published_at": "2026-10-26T01:20:32Z"
+  }
 }

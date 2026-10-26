@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "oria-deaconess_gibson_hospital-92388__214766f660bdc901.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-deaconess_gibson_hospital-92388__214766f660bdc901.jsonl.gz",
+    "asset_sha256": "214766f660bdc9019af51185cb80a1f7ff4e7e006fcb989c6c43f9e440e63617",
+    "published_at": "2026-10-26T01:21:24Z"
+  }
 }

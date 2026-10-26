@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a3",
+    "asset_name": "oria-glen_rose_medical_center-bd514__a3b1b8accbde163d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/oria-glen_rose_medical_center-bd514__a3b1b8accbde163d.jsonl.gz",
+    "asset_sha256": "a3b1b8accbde163d115c02249a684ff6ff57ce9dff3102c54b74bc70e671b0da",
+    "published_at": "2026-10-26T01:28:57Z"
+  }
 }

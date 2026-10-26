@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-eminent_medical_center-43e0b__820249570ea95361.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-eminent_medical_center-43e0b__820249570ea95361.jsonl.gz",
+    "asset_sha256": "820249570ea9536180cf830d0ff4abbf8bf430cd3cabe14a51b262c335cc1afc",
+    "published_at": "2026-10-26T01:24:30Z"
+  }
 }

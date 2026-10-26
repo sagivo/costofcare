@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3202",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-96",
+    "asset_name": "oria-er_at_south_summerlin_an_extension_of_summerlin_hospital-d5507__96d022792c328798.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-96/oria-er_at_south_summerlin_an_extension_of_summerlin_hospital-d5507__96d022792c328798.jsonl.gz",
+    "asset_sha256": "96d022792c328798b9879993af7a48618834ea1f152b70935c060f61b22ec67e",
+    "published_at": "2026-10-26T01:25:18Z"
+  }
 }

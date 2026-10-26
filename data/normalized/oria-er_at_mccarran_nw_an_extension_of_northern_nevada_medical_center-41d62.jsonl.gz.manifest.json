@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 62",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "oria-er_at_mccarran_nw_an_extension_of_northern_nevada_medical_center-41d62__81568762ce314d81.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-er_at_mccarran_nw_an_extension_of_northern_nevada_medical_center-41d62__81568762ce314d81.jsonl.gz",
+    "asset_sha256": "81568762ce314d813227d9a827f2dca91ef12be11f31808c24340ec2f00ec819",
+    "published_at": "2026-10-26T01:25:16Z"
+  }
 }

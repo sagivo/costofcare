@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1599",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f9",
+    "asset_name": "oria-franciscan_health_rensselaer-a4908__f93f1c3ba1dfe953.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/oria-franciscan_health_rensselaer-a4908__f93f1c3ba1dfe953.jsonl.gz",
+    "asset_sha256": "f93f1c3ba1dfe953e3b6755602abc860dbbb7561b7b8a4d9b2a8f33313cb7c00",
+    "published_at": "2026-10-26T01:27:40Z"
+  }
 }

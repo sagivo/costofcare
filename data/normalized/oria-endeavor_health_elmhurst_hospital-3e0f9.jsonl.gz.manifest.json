@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4d",
+    "asset_name": "oria-endeavor_health_elmhurst_hospital-3e0f9__4dec4c71c09b2f25.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4d/oria-endeavor_health_elmhurst_hospital-3e0f9__4dec4c71c09b2f25.jsonl.gz",
+    "asset_sha256": "4dec4c71c09b2f250f70e9cea432097498106255629b28646e4139cb9e8d6bbd",
+    "published_at": "2026-10-26T01:24:38Z"
+  }
 }

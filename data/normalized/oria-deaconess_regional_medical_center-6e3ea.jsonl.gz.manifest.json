@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-06",
+    "asset_name": "oria-deaconess_regional_medical_center-6e3ea__06a4317c102ed8fc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-06/oria-deaconess_regional_medical_center-6e3ea__06a4317c102ed8fc.jsonl.gz",
+    "asset_sha256": "06a4317c102ed8fca460a7abfc1463ff309a6cbffed809e51c266c1b3813edb5",
+    "published_at": "2026-10-26T01:21:40Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-13",
+    "asset_name": "oria-glenwood_regional_medical_center-520fd__13c97a3a5f982e98.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/oria-glenwood_regional_medical_center-520fd__13c97a3a5f982e98.jsonl.gz",
+    "asset_sha256": "13c97a3a5f982e98d0f236af51ebc7b6d1ba3a95638dec0de7445aefbbd8984f",
+    "published_at": "2026-10-26T01:29:08Z"
+  }
 }

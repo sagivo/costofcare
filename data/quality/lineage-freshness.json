@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-25T16:38:53.387396+00:00",
-  "normalized_files": 2748,
+  "generated_at": "2026-10-26T01:44:34.388414+00:00",
+  "normalized_files": 2750,
   "parser_versions": {
     "row-preserving-1.2": 1747,
-    "row-preserving-1.3": 872,
-    "row-preserving-1.1": 129
+    "row-preserving-1.3": 992,
+    "row-preserving-1.1": 11
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 2667,
-    "within_24h": 81
+    "1_to_7_days": 2549,
+    "within_24h": 201
   },
   "failed_attempt_classes": {
     "strict_encoding": 6,

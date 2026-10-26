@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-83",
+    "asset_name": "oria-deaconess_union_county_hospital-6780e__832b2fb0c6916b70.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/oria-deaconess_union_county_hospital-6780e__832b2fb0c6916b70.jsonl.gz",
+    "asset_sha256": "832b2fb0c6916b7026905316b10c885729539e28a8e9c70b68d27238b2184ead",
+    "published_at": "2026-10-26T01:21:43Z"
+  }
 }

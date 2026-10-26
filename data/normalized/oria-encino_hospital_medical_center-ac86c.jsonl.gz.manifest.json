@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a0",
+    "asset_name": "oria-encino_hospital_medical_center-ac86c__a0c2a8072554c0eb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/oria-encino_hospital_medical_center-ac86c__a0c2a8072554c0eb.jsonl.gz",
+    "asset_sha256": "a0c2a8072554c0eb1894dcf3d98aea4234991e83d0d82494f2002a62dcebcec0",
+    "published_at": "2026-10-26T01:24:35Z"
+  }
 }

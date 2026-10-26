@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5291",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7d",
+    "asset_name": "oria-fort_duncan_regional_medical_center-a856e__7dce028e1ab5fdfe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-fort_duncan_regional_medical_center-a856e__7dce028e1ab5fdfe.jsonl.gz",
+    "asset_sha256": "7dce028e1ab5fdfeaa506d304feb4de88987def9ad7ff49851cf3f7480bbdd47",
+    "published_at": "2026-10-26T01:27:03Z"
+  }
 }

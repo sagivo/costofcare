@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5a",
+    "asset_name": "oria-golden_plains_community_hospital-ca839__5a0d08eb8ffa1f8f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-golden_plains_community_hospital-ca839__5a0d08eb8ffa1f8f.jsonl.gz",
+    "asset_sha256": "5a0d08eb8ffa1f8fab51d7c862ff7beb7969772d2f907c53129a15298237f87b",
+    "published_at": "2026-10-26T01:29:10Z"
+  }
 }

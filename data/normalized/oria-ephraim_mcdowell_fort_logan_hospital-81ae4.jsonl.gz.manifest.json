@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-ephraim_mcdowell_fort_logan_hospital-81ae4__26392ac30dac9257.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-ephraim_mcdowell_fort_logan_hospital-81ae4__26392ac30dac9257.jsonl.gz",
+    "asset_sha256": "26392ac30dac92579d26ecf5847f5cf4d8811d8955246b34a30a1ff9b0917231",
+    "published_at": "2026-10-26T01:24:52Z"
+  }
 }

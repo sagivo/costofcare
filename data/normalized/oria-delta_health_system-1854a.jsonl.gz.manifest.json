@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2d",
+    "asset_name": "oria-delta_health_system-1854a__2d5247ea6ddc4123.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2d/oria-delta_health_system-1854a__2d5247ea6ddc4123.jsonl.gz",
+    "asset_sha256": "2d5247ea6ddc4123b0d44746ec400c1f35522d6f636548cb537ce6ae9702067b",
+    "published_at": "2026-10-26T01:22:02Z"
+  }
 }

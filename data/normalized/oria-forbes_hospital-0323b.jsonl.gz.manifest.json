@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d0",
+    "asset_name": "oria-forbes_hospital-0323b__d021808f23f69f72.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/oria-forbes_hospital-0323b__d021808f23f69f72.jsonl.gz",
+    "asset_sha256": "d021808f23f69f72df7d7dc5fb5cdd72102f117d6776674ae8c25f2b27822bfe",
+    "published_at": "2026-10-26T01:26:58Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-25",
+    "asset_name": "oria-fields_wright_medical_facility-6ab20__2531d999534c361a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-25/oria-fields_wright_medical_facility-6ab20__2531d999534c361a.jsonl.gz",
+    "asset_sha256": "2531d999534c361a108843193c22e7eb7cd748c9f18769f5c7c392630dd03520",
+    "published_at": "2026-10-26T01:26:36Z"
+  }
 }

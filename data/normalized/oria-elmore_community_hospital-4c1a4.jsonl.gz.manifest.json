@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ca",
+    "asset_name": "oria-elmore_community_hospital-4c1a4__ca74ba24dbe7b445.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/oria-elmore_community_hospital-4c1a4__ca74ba24dbe7b445.jsonl.gz",
+    "asset_sha256": "ca74ba24dbe7b445731cad48d826459ddcc3819b4b965162c6a10056e5601e69",
+    "published_at": "2026-10-26T01:24:18Z"
+  }
 }

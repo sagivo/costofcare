@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6e",
+    "asset_name": "oria-fort_lauderdale_behavioral_health_center-1344d__6ecc826a34c1b1d5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6e/oria-fort_lauderdale_behavioral_health_center-1344d__6ecc826a34c1b1d5.jsonl.gz",
+    "asset_sha256": "6ecc826a34c1b1d52f4ebce924df9c3aa93297cc9be5acbe3c2fe517a0acc7ff",
+    "published_at": "2026-10-26T01:27:05Z"
+  }
 }

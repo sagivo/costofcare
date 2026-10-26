@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5897",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-72",
+    "asset_name": "oria-dell_children_s_medical_center_ascension_seton-99408__72fe4514c0f06a09.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-72/oria-dell_children_s_medical_center_ascension_seton-99408__72fe4514c0f06a09.jsonl.gz",
+    "asset_sha256": "72fe4514c0f06a09997256380125575a9c7f2af8af62ba0ef660d5583a8674f3",
+    "published_at": "2026-10-26T01:22:00Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b0",
+    "asset_name": "oria-glendale_memorial_hospital_and_health_center-135bb__b0dd89023f38a542.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/oria-glendale_memorial_hospital_and_health_center-135bb__b0dd89023f38a542.jsonl.gz",
+    "asset_sha256": "b0dd89023f38a54207da93a60aa75e690decd0ae74bc873e13629365759aea7c",
+    "published_at": "2026-10-26T01:29:05Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-46",
+    "asset_name": "oria-essentia_health_st_joseph_s_medical_center_brainerd-2ae0f__466bf67ea176321e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-46/oria-essentia_health_st_joseph_s_medical_center_brainerd-2ae0f__466bf67ea176321e.jsonl.gz",
+    "asset_sha256": "466bf67ea176321e805f094d0c4429bd21d68b8cd932a7d4d8b43acbbc1fc118",
+    "published_at": "2026-10-26T01:25:46Z"
+  }
 }

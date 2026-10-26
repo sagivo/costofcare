@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e3",
+    "asset_name": "oria-duncan_regional_hospital-1565a__e350e87c40a1a865.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/oria-duncan_regional_hospital-1565a__e350e87c40a1a865.jsonl.gz",
+    "asset_sha256": "e350e87c40a1a86565a7b47525a8b2a762cb467d7ca030813e9811d266c03748",
+    "published_at": "2026-10-26T01:23:15Z"
+  }
 }

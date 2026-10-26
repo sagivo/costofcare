@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-41",
+    "asset_name": "oria-desert_valley_hospital-e3944__419763512c16f24f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-desert_valley_hospital-e3944__419763512c16f24f.jsonl.gz",
+    "asset_sha256": "419763512c16f24f9d10eb721d2347574bbdcb6cf2ba92f414f5a8cc96466d97",
+    "published_at": "2026-10-26T01:22:15Z"
+  }
 }

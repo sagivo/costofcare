@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ce",
+    "asset_name": "oria-flint_river_hospital-74779__ce3f023aa2331fd1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ce/oria-flint_river_hospital-74779__ce3f023aa2331fd1.jsonl.gz",
+    "asset_sha256": "ce3f023aa2331fd1ff5ac34acdc65b557e3f2a5683437226feb778781e1d91a4",
+    "published_at": "2026-10-26T01:26:50Z"
+  }
 }

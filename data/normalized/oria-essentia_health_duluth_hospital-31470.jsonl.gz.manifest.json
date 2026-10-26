@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9e",
+    "asset_name": "oria-essentia_health_duluth_hospital-31470__9ef0d807693e9283.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9e/oria-essentia_health_duluth_hospital-31470__9ef0d807693e9283.jsonl.gz",
+    "asset_sha256": "9ef0d807693e92830700391597246b22c132ecda110a14905320053d23582bd2",
+    "published_at": "2026-10-26T01:25:29Z"
+  }
 }

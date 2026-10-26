@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "oria-frye_regional_medical_center-79c6b__a7e6bff9eee1be30.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-frye_regional_medical_center-79c6b__a7e6bff9eee1be30.jsonl.gz",
+    "asset_sha256": "a7e6bff9eee1be309b2dd6b7c46467c9469b6c54ee75defee1fd0dc9f9f99b3b",
+    "published_at": "2026-10-26T01:28:11Z"
+  }
 }

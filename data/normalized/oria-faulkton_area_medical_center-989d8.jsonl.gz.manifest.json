@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-faulkton_area_medical_center-989d8__0ffc8ce9a7e6c8f1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-faulkton_area_medical_center-989d8__0ffc8ce9a7e6c8f1.jsonl.gz",
+    "asset_sha256": "0ffc8ce9a7e6c8f17322f4ea928ff7db5338c40b72b11310bb669d00d0377ffb",
+    "published_at": "2026-10-26T01:26:26Z"
+  }
 }

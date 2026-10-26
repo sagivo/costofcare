@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-25",
+    "asset_name": "oria-graham_hospital-964c6__250ef40028dbc1ae.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-25/oria-graham_hospital-964c6__250ef40028dbc1ae.jsonl.gz",
+    "asset_sha256": "250ef40028dbc1ae1e04d840592f21663105b896493a6c5bc3ed592d004300b4",
+    "published_at": "2026-10-26T01:29:55Z"
+  }
 }

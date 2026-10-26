@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-df",
+    "asset_name": "oria-detar_healthcare_system_north-5134b__df703bea689a7c6a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/oria-detar_healthcare_system_north-5134b__df703bea689a7c6a.jsonl.gz",
+    "asset_sha256": "df703bea689a7c6acade3e28ad0042a8d1f997049f35386e12076b9332b75099",
+    "published_at": "2026-10-26T01:22:25Z"
+  }
 }

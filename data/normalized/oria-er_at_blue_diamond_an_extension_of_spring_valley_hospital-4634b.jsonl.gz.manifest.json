@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 436",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ee",
+    "asset_name": "oria-er_at_blue_diamond_an_extension_of_spring_valley_hospital-4634b__eeaacfbb54ab9fef.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-er_at_blue_diamond_an_extension_of_spring_valley_hospital-4634b__eeaacfbb54ab9fef.jsonl.gz",
+    "asset_sha256": "eeaacfbb54ab9fef4c81990089f98f95be0c19a2044babfc8b54b315c0be8aff",
+    "published_at": "2026-10-26T01:25:06Z"
+  }
 }

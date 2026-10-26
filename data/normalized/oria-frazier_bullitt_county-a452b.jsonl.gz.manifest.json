@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f6",
+    "asset_name": "oria-frazier_bullitt_county-a452b__f65324462eb63bdb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f6/oria-frazier_bullitt_county-a452b__f65324462eb63bdb.jsonl.gz",
+    "asset_sha256": "f65324462eb63bdb04a4c41288df324866a874d6aacedb2cd384268f92b0d75e",
+    "published_at": "2026-10-26T01:27:54Z"
+  }
 }

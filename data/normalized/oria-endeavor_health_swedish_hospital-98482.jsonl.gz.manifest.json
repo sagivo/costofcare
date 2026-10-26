@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-98",
+    "asset_name": "oria-endeavor_health_swedish_hospital-98482__9887221bf7614a84.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/oria-endeavor_health_swedish_hospital-98482__9887221bf7614a84.jsonl.gz",
+    "asset_sha256": "9887221bf7614a84972211a94bdfb9b2775db8e3ff6338cb4b222ae5ce4c644f",
+    "published_at": "2026-10-26T01:24:50Z"
+  }
 }

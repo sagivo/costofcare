@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-eb",
+    "asset_name": "oria-ellenville_regional_hospital-96a8f__ebb402b1122863a1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-eb/oria-ellenville_regional_hospital-96a8f__ebb402b1122863a1.jsonl.gz",
+    "asset_sha256": "ebb402b1122863a10de31f30583f2187b3cfcd8a628b0edc277fdabfff42d004",
+    "published_at": "2026-10-26T01:24:14Z"
+  }
 }

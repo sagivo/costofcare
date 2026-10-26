@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-19",
+    "asset_name": "oria-dekalb_regional_medical_center-f5032__19094cb85b7c0959.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-19/oria-dekalb_regional_medical_center-f5032__19094cb85b7c0959.jsonl.gz",
+    "asset_sha256": "19094cb85b7c0959d9f45423680140593c3a177c3861f1441a171918921fef2d",
+    "published_at": "2026-10-26T01:21:57Z"
+  }
 }

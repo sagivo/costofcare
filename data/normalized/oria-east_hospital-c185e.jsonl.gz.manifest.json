@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 375",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bb",
+    "asset_name": "oria-east_hospital-c185e__bbb230ed325e9039.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bb/oria-east_hospital-c185e__bbb230ed325e9039.jsonl.gz",
+    "asset_sha256": "bbb230ed325e9039a0a650a376d6aba686e2bed3c5c84c6c24a3cf2e3c025f01",
+    "published_at": "2026-10-26T01:23:25Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cc",
+    "asset_name": "oria-elkhorn_valley_rehabilitation_hospital-8483e__cc91b0e1e453af6e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-elkhorn_valley_rehabilitation_hospital-8483e__cc91b0e1e453af6e.jsonl.gz",
+    "asset_sha256": "cc91b0e1e453af6e8ea92552e562a8c1c25cf3c661160cea3cf6aee975b7902e",
+    "published_at": "2026-10-26T01:24:09Z"
+  }
 }

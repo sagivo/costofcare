@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1126",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "oria-gbmc-36ab9__a2dc1015bad4fe4f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/oria-gbmc-36ab9__a2dc1015bad4fe4f.jsonl.gz",
+    "asset_sha256": "a2dc1015bad4fe4f94a0e5cbb91cc8cdce9eb3893aa94aa5289244977cd289b0",
+    "published_at": "2026-10-26T01:28:36Z"
+  }
 }

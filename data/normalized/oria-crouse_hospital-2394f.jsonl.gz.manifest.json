@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a5",
+    "asset_name": "oria-crouse_hospital-2394f__a5e47c8a9e5a8b5f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a5/oria-crouse_hospital-2394f__a5e47c8a9e5a8b5f.jsonl.gz",
+    "asset_sha256": "a5e47c8a9e5a8b5ffca74c91bf0cca52fcae263e7c3885f466867436e83504b9",
+    "published_at": "2026-10-26T01:20:29Z"
+  }
 }

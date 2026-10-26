@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "oria-deaconess_illinois_red_bud_regional_hospital_inc-d31c3__1cf54b414243aaa7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-deaconess_illinois_red_bud_regional_hospital_inc-d31c3__1cf54b414243aaa7.jsonl.gz",
+    "asset_sha256": "1cf54b414243aaa7ef8d74a212727e34d0307f70de8a6dd5fd484c8d4dbbd0e8",
+    "published_at": "2026-10-26T01:21:35Z"
+  }
 }

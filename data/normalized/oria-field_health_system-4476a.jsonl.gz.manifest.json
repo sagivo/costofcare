@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b0",
+    "asset_name": "oria-field_health_system-4476a__b0688538318c9df0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/oria-field_health_system-4476a__b0688538318c9df0.jsonl.gz",
+    "asset_sha256": "b0688538318c9df04551c2ca1f5f1eef2b33f471d3ead7c63f8964a611232cca",
+    "published_at": "2026-10-26T01:26:33Z"
+  }
 }

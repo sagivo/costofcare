@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4837",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-89",
+    "asset_name": "oria-evanston_hospital-db3e1__896e9f62dc921927.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/oria-evanston_hospital-db3e1__896e9f62dc921927.jsonl.gz",
+    "asset_sha256": "896e9f62dc921927064c9ececac92bf497ee55d879842d54e8bb6c830a9396a9",
+    "published_at": "2026-10-26T01:26:01Z"
+  }
 }

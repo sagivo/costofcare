@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-39",
+    "asset_name": "oria-essentia_health_sandstone-5cc1a__3994d08a34088d8e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-essentia_health_sandstone-5cc1a__3994d08a34088d8e.jsonl.gz",
+    "asset_sha256": "3994d08a34088d8e468398f07020687f063a6abd9bc02386cf95fc345a12a332",
+    "published_at": "2026-10-26T01:25:44Z"
+  }
 }

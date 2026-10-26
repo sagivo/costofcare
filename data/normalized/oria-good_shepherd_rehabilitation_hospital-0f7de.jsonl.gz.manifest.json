@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 3250",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7a",
+    "asset_name": "oria-good_shepherd_rehabilitation_hospital-0f7de__7a94311e9cf2ac9f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7a/oria-good_shepherd_rehabilitation_hospital-0f7de__7a94311e9cf2ac9f.jsonl.gz",
+    "asset_sha256": "7a94311e9cf2ac9f9156a9d7ebed4b4116fea842288377816353381b3aacb8e0",
+    "published_at": "2026-10-26T01:29:27Z"
+  }
 }

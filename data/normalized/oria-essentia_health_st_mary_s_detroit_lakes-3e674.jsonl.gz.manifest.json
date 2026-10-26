@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-07",
+    "asset_name": "oria-essentia_health_st_mary_s_detroit_lakes-3e674__07b848cc613bbf68.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/oria-essentia_health_st_mary_s_detroit_lakes-3e674__07b848cc613bbf68.jsonl.gz",
+    "asset_sha256": "07b848cc613bbf68f7f86c4cc769bf374f29a85d47f6d0893123368e646c41c0",
+    "published_at": "2026-10-26T01:25:51Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e8",
+    "asset_name": "oria-greene_county_general_hospital-6b200__e8babd0dad5861ae.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e8/oria-greene_county_general_hospital-6b200__e8babd0dad5861ae.jsonl.gz",
+    "asset_sha256": "e8babd0dad5861ae8e5948ee4ab18a346b63781163c55cc2aa757943a535d976",
+    "published_at": "2026-10-26T01:30:05Z"
+  }
 }

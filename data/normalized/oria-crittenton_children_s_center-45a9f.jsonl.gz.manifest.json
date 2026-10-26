@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-crittenton_children_s_center-45a9f__306fcfa74f16bf48.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-crittenton_children_s_center-45a9f__306fcfa74f16bf48.jsonl.gz",
+    "asset_sha256": "306fcfa74f16bf48480ab3b6cf3fa766f2159e6c5cee03862fdee4719547450b",
+    "published_at": "2026-10-26T01:20:25Z"
+  }
 }

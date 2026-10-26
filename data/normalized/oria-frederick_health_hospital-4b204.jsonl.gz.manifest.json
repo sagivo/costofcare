@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1211",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0d",
+    "asset_name": "oria-frederick_health_hospital-4b204__0d8429131ac45e6c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0d/oria-frederick_health_hospital-4b204__0d8429131ac45e6c.jsonl.gz",
+    "asset_sha256": "0d8429131ac45e6c11c297a32b8a3cb77f782ace31b9bebc5b122c0dd80154fc",
+    "published_at": "2026-10-26T01:27:56Z"
+  }
 }

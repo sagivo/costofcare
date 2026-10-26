@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b1",
+    "asset_name": "oria-ephraim_mcdowell_james_b_haggin_hospital-6533f__b1b93c4c321e938b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/oria-ephraim_mcdowell_james_b_haggin_hospital-6533f__b1b93c4c321e938b.jsonl.gz",
+    "asset_sha256": "b1b93c4c321e938b8ecb51664a0f2920a1c13f99d573c692f3a7c9246c2b4b85",
+    "published_at": "2026-10-26T01:24:55Z"
+  }
 }

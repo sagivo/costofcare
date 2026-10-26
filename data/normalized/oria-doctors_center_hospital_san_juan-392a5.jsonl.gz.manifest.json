@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "oria-doctors_center_hospital_san_juan-392a5__719f00d66102912f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-doctors_center_hospital_san_juan-392a5__719f00d66102912f.jsonl.gz",
+    "asset_sha256": "719f00d66102912f0152e52e9057853d8a149409e373eedb692f2d319cbc8161",
+    "published_at": "2026-10-26T01:22:48Z"
+  }
 }

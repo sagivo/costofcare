@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "oria-er_at_damonte_ranch_an_extension_of_sierra_medical_center-47fb3__1cac432d6d0b4347.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-er_at_damonte_ranch_an_extension_of_sierra_medical_center-47fb3__1cac432d6d0b4347.jsonl.gz",
+    "asset_sha256": "1cac432d6d0b434799b7408a23157c430679ea0c279b7e825eb05d0b07a8bd6b",
+    "published_at": "2026-10-26T01:25:11Z"
+  }
 }

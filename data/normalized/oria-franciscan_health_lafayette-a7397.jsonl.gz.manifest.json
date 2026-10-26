@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7304",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-franciscan_health_lafayette-a7397__90d6d470bef6d7f8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-franciscan_health_lafayette-a7397__90d6d470bef6d7f8.jsonl.gz",
+    "asset_sha256": "90d6d470bef6d7f84b4932bdd6bc334ea0f4e5ac72cfeb0032c693c789bc8557",
+    "published_at": "2026-10-26T01:27:28Z"
+  }
 }

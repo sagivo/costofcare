@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3823",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-er_at_fruitville-4a11e__5e684ecc194b9454.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-er_at_fruitville-4a11e__5e684ecc194b9454.jsonl.gz",
+    "asset_sha256": "5e684ecc194b94544a3a2c7b8236b4e6b919a81aeabe3f445889b664c1817265",
+    "published_at": "2026-10-26T01:25:13Z"
+  }
 }

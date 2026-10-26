@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "oria-eastland_memorial_hospital-ac6ce__a78e71d123a47908.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-eastland_memorial_hospital-ac6ce__a78e71d123a47908.jsonl.gz",
+    "asset_sha256": "a78e71d123a479088af54f6cb3a9031653a5b9944fea9118492b6a7c809e231a",
+    "published_at": "2026-10-26T01:23:42Z"
+  }
 }

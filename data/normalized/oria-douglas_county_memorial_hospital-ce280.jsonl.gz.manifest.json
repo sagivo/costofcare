@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b7",
+    "asset_name": "oria-douglas_county_memorial_hospital-ce280__b771961841776f61.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b7/oria-douglas_county_memorial_hospital-ce280__b771961841776f61.jsonl.gz",
+    "asset_sha256": "b771961841776f613b4f4c2e8798a1f80d8659fa6e02b07b7a059862cb392212",
+    "published_at": "2026-10-26T01:23:04Z"
+  }
 }

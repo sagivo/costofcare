@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 6198",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a1",
+    "asset_name": "oria-f_f_thompson_hospital-4691f__a1b9a29126e4d5fe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-f_f_thompson_hospital-4691f__a1b9a29126e4d5fe.jsonl.gz",
+    "asset_sha256": "a1b9a29126e4d5fec236224714aac6fe567b6714b27d9d5462eb7e854c97ed88",
+    "published_at": "2026-10-26T01:26:06Z"
+  }
 }

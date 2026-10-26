@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3a",
+    "asset_name": "oria-desert_view_hospital-9497f__3ac056790845dd2a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-desert_view_hospital-9497f__3ac056790845dd2a.jsonl.gz",
+    "asset_sha256": "3ac056790845dd2ab9418ef72e41c45e1b483758104e808f9323fe35c844d50d",
+    "published_at": "2026-10-26T01:22:17Z"
+  }
 }

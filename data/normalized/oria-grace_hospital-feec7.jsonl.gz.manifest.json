@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-98",
+    "asset_name": "oria-grace_hospital-feec7__987c93a4874886c0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/oria-grace_hospital-feec7__987c93a4874886c0.jsonl.gz",
+    "asset_sha256": "987c93a4874886c0d64ac4f12c4c225abcfd44a95740c390e44c150aec5998a5",
+    "published_at": "2026-10-26T01:29:46Z"
+  }
 }

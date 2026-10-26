@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-fall_river_health_service_hot_springs-38d10__5e959110483d3934.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-fall_river_health_service_hot_springs-38d10__5e959110483d3934.jsonl.gz",
+    "asset_sha256": "5e959110483d3934124363c432adca6ee1975c754cf164fc6d1d60ace42e0f6c",
+    "published_at": "2026-10-26T01:26:18Z"
+  }
 }

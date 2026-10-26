@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b5",
+    "asset_name": "oria-grady_memorial-4cff4__b515ec8cde308f79.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/oria-grady_memorial-4cff4__b515ec8cde308f79.jsonl.gz",
+    "asset_sha256": "b515ec8cde308f793e67c02735331716e54a570f3d738310b8e9da3f036482eb",
+    "published_at": "2026-10-26T01:29:48Z"
+  }
 }

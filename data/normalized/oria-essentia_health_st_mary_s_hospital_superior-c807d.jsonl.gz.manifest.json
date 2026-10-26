@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-54",
+    "asset_name": "oria-essentia_health_st_mary_s_hospital_superior-c807d__54ae7ea4d94a9f13.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-54/oria-essentia_health_st_mary_s_hospital_superior-c807d__54ae7ea4d94a9f13.jsonl.gz",
+    "asset_sha256": "54ae7ea4d94a9f133505c967388d690bc17c14f9fd4141899037513216b95795",
+    "published_at": "2026-10-26T01:25:54Z"
+  }
 }

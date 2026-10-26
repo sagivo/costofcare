@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1e",
+    "asset_name": "oria-dmc_huron_valley_sinai_hospital-b4818__1efe6f73792b61c1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/oria-dmc_huron_valley_sinai_hospital-b4818__1efe6f73792b61c1.jsonl.gz",
+    "asset_sha256": "1efe6f73792b61c1af95ddb8fe8168121cd1e0fc82f830fb0017c2f7a4ef8602",
+    "published_at": "2026-10-26T01:22:37Z"
+  }
 }

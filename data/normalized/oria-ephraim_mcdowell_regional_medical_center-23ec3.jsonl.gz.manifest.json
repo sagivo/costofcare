@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ad",
+    "asset_name": "oria-ephraim_mcdowell_regional_medical_center-23ec3__ad5d6e839288a715.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/oria-ephraim_mcdowell_regional_medical_center-23ec3__ad5d6e839288a715.jsonl.gz",
+    "asset_sha256": "ad5d6e839288a71538defa85da7ecc19b7abee049023e5aa58d898b682ab7d2b",
+    "published_at": "2026-10-26T01:24:57Z"
+  }
 }

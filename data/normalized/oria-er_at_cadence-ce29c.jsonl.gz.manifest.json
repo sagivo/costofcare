@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3302",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-57",
+    "asset_name": "oria-er_at_cadence-ce29c__5792b93a4cb671d9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-57/oria-er_at_cadence-ce29c__5792b93a4cb671d9.jsonl.gz",
+    "asset_sha256": "5792b93a4cb671d9aa563226dc9aeca25c1c2666021990ee718919846530f468",
+    "published_at": "2026-10-26T01:25:09Z"
+  }
 }

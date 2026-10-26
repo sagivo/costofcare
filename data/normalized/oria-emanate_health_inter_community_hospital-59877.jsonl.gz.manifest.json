@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3914",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d5",
+    "asset_name": "oria-emanate_health_inter_community_hospital-59877__d55e7bac10dfcabd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/oria-emanate_health_inter_community_hospital-59877__d55e7bac10dfcabd.jsonl.gz",
+    "asset_sha256": "d55e7bac10dfcabdd09c21d1e55c20507611dc1052acbe9b921ac4c7068feacb",
+    "published_at": "2026-10-26T01:24:23Z"
+  }
 }

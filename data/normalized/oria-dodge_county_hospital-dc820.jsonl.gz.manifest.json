@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-33",
+    "asset_name": "oria-dodge_county_hospital-dc820__330d458e568f5201.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-dodge_county_hospital-dc820__330d458e568f5201.jsonl.gz",
+    "asset_sha256": "330d458e568f52013f77eb2617d11dd7661708f0e6cfbf1a3cd9e723b59fe41d",
+    "published_at": "2026-10-26T01:22:57Z"
+  }
 }

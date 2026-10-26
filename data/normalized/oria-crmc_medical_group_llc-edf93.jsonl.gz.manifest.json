@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f1",
+    "asset_name": "oria-crmc_medical_group_llc-edf93__f1fb1b873e678cba.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/oria-crmc_medical_group_llc-edf93__f1fb1b873e678cba.jsonl.gz",
+    "asset_sha256": "f1fb1b873e678cbab16e96eb7556e85549c40791548984fd94c8284587ae6fb1",
+    "published_at": "2026-10-26T01:20:27Z"
+  }
 }

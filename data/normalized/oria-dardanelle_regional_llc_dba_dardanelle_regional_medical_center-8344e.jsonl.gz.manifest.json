@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f5",
+    "asset_name": "oria-dardanelle_regional_llc_dba_dardanelle_regional_medical_center-8344e__f5dfa35f024d437d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/oria-dardanelle_regional_llc_dba_dardanelle_regional_medical_center-8344e__f5dfa35f024d437d.jsonl.gz",
+    "asset_sha256": "f5dfa35f024d437df31a758fd01f90537ee273b74ff0d127f0fd940057e6bba8",
+    "published_at": "2026-10-26T01:21:07Z"
+  }
 }

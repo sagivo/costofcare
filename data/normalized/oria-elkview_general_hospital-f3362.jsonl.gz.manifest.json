@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-22",
+    "asset_name": "oria-elkview_general_hospital-f3362__2256a3ae4e19c2fd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/oria-elkview_general_hospital-f3362__2256a3ae4e19c2fd.jsonl.gz",
+    "asset_sha256": "2256a3ae4e19c2fda4356af91e23949edc1011ea686b3faf05dae7858f1d2e64",
+    "published_at": "2026-10-26T01:24:11Z"
+  }
 }

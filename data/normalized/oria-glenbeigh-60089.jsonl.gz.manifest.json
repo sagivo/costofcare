@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-91",
+    "asset_name": "oria-glenbeigh-60089__91ac20c3fd2efee7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-91/oria-glenbeigh-60089__91ac20c3fd2efee7.jsonl.gz",
+    "asset_sha256": "91ac20c3fd2efee72c5dff19846be8cbd0d67b680d0b8371a1eaa85c4c39e9a0",
+    "published_at": "2026-10-26T01:29:00Z"
+  }
 }

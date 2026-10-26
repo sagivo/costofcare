@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-13",
+    "asset_name": "oria-gerald_champion_regional_medical_center-d8de7__133778ecfdf2e037.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/oria-gerald_champion_regional_medical_center-d8de7__133778ecfdf2e037.jsonl.gz",
+    "asset_sha256": "133778ecfdf2e03797f1c392c2ee64878a7ec0c2eeeb77f53dc7d48ecbe55dc7",
+    "published_at": "2026-10-26T01:28:48Z"
+  }
 }

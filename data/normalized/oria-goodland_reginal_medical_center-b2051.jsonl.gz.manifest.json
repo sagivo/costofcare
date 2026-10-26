@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a0",
+    "asset_name": "oria-goodland_reginal_medical_center-b2051__a0e598dac52b74cf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/oria-goodland_reginal_medical_center-b2051__a0e598dac52b74cf.jsonl.gz",
+    "asset_sha256": "a0e598dac52b74cf2c353513da5be298606f55b72c1b21caf2a8db8a788335be",
+    "published_at": "2026-10-26T01:29:31Z"
+  }
 }

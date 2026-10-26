@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-fort_loudoun_medical_center-646b9__77943cfd5be32580.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-fort_loudoun_medical_center-646b9__77943cfd5be32580.jsonl.gz",
+    "asset_sha256": "77943cfd5be32580b94fda1eb06b2b9dce303fc06bf727116e61ba85d757d70b",
+    "published_at": "2026-10-26T01:27:08Z"
+  }
 }

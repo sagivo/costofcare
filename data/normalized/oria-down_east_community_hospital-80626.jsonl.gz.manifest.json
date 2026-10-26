@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-96",
+    "asset_name": "oria-down_east_community_hospital-80626__96845d7846b8605c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-96/oria-down_east_community_hospital-80626__96845d7846b8605c.jsonl.gz",
+    "asset_sha256": "96845d7846b8605c57b22a106a424742ba6aeafbe364070ada6f673f1ef919c9",
+    "published_at": "2026-10-26T01:23:06Z"
+  }
 }

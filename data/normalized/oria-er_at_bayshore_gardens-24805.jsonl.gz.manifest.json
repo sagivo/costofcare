@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 7604",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b7",
+    "asset_name": "oria-er_at_bayshore_gardens-24805__b7507b4ee17c60ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b7/oria-er_at_bayshore_gardens-24805__b7507b4ee17c60ad.jsonl.gz",
+    "asset_sha256": "b7507b4ee17c60ad43e43bde7023e7f3516aaef6367f623c59eff34e9f23b22f",
+    "published_at": "2026-10-26T01:25:02Z"
+  }
 }
