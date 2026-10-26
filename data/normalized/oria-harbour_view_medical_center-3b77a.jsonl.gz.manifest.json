@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "oria-harbour_view_medical_center-3b77a__4cfb9e1f48b18df5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/oria-harbour_view_medical_center-3b77a__4cfb9e1f48b18df5.jsonl.gz",
+    "asset_sha256": "4cfb9e1f48b18df5fbb35cac061e831f529c7d3f02c05e0467d15ffd41587ae9",
+    "published_at": "2026-10-26T17:15:23Z"
+  }
 }

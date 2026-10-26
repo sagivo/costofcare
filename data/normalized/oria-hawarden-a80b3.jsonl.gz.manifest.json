@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-hawarden-a80b3__5c029c2bed794e45.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-hawarden-a80b3__5c029c2bed794e45.jsonl.gz",
+    "asset_sha256": "5c029c2bed794e45da09a4f328e4e01a0f7d7433204ee633655e8bb905298478",
+    "published_at": "2026-10-26T17:15:51Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d0",
+    "asset_name": "oria-institute_for_orthopaedic_surgery-64710__d0956e045d9534d9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/oria-institute_for_orthopaedic_surgery-64710__d0956e045d9534d9.jsonl.gz",
+    "asset_sha256": "d0956e045d9534d98184aa70419a5d4f98bb17363dca84f95fa1e1cc6c7172d5",
+    "published_at": "2026-10-26T17:20:01Z"
+  }
 }

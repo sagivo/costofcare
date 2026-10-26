@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-guadalupe_county_hospital-e99c1__90a7eae49d959762.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-guadalupe_county_hospital-e99c1__90a7eae49d959762.jsonl.gz",
+    "asset_sha256": "90a7eae49d959762c151ca0e1c7a8abd6c7d8d5f68598d706b67b548e5ac4075",
+    "published_at": "2026-10-26T17:15:00Z"
+  }
 }

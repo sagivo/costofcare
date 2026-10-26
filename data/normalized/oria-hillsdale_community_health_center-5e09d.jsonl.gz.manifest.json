@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7868",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-60",
+    "asset_name": "oria-hillsdale_community_health_center-5e09d__60c5d74e36bac1e5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-60/oria-hillsdale_community_health_center-5e09d__60c5d74e36bac1e5.jsonl.gz",
+    "asset_sha256": "60c5d74e36bac1e55695d8c96e34068071b30ee055078a96aa621a58eb41ea0a",
+    "published_at": "2026-10-26T17:17:12Z"
+  }
 }

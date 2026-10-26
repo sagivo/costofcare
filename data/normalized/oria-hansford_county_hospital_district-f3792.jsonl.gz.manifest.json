@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-hansford_county_hospital_district-f3792__5f539a759883fa65.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-hansford_county_hospital_district-f3792__5f539a759883fa65.jsonl.gz",
+    "asset_sha256": "5f539a759883fa6561a4411e538a08a9d50c189520644c357ada02f35080108c",
+    "published_at": "2026-10-26T17:15:19Z"
+  }
 }

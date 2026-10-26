@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9d",
+    "asset_name": "oria-greenwood_regional_rehabilitation_hospital-00551__9d44d53185706b12.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/oria-greenwood_regional_rehabilitation_hospital-00551__9d44d53185706b12.jsonl.gz",
+    "asset_sha256": "9d44d53185706b12656c8da4012ce6d4338ed8efef78046b8fa837d210e85ec0",
+    "published_at": "2026-10-26T17:14:48Z"
+  }
 }

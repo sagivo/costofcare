@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-heartland_long_term_acute_hospital-cd321__84511b536a10e1ed.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-heartland_long_term_acute_hospital-cd321__84511b536a10e1ed.jsonl.gz",
+    "asset_sha256": "84511b536a10e1ed4a21b07239ec5bcd0ca09c8240c2f46ebf3507fb3eb7f241",
+    "published_at": "2026-10-26T17:16:14Z"
+  }
 }

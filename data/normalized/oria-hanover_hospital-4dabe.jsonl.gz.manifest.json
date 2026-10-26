@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "oria-hanover_hospital-4dabe__cf289926d3d0980a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-hanover_hospital-4dabe__cf289926d3d0980a.jsonl.gz",
+    "asset_sha256": "cf289926d3d0980a32e9c4e63f2bf14513ce9493341433f1faf1b67e7a27f2cc",
+    "published_at": "2026-10-26T17:15:16Z"
+  }
 }

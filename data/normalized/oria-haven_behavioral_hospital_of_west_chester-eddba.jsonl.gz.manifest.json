@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5158",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-haven_behavioral_hospital_of_west_chester-eddba__632253074ec14457.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-haven_behavioral_hospital_of_west_chester-eddba__632253074ec14457.jsonl.gz",
+    "asset_sha256": "632253074ec14457800927d6afeca78a79b8ae4cb8daa69268787ff861e81d21",
+    "published_at": "2026-10-26T17:15:49Z"
+  }
 }

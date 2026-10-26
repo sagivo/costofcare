@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f9",
+    "asset_name": "oria-hoag_hospital_irvine-1db59__f951e1c5fbb98c75.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/oria-hoag_hospital_irvine-1db59__f951e1c5fbb98c75.jsonl.gz",
+    "asset_sha256": "f951e1c5fbb98c7576111e0a160c178516a2e069fac4bfe5f806ef685ceb6017",
+    "published_at": "2026-10-26T17:17:14Z"
+  }
 }

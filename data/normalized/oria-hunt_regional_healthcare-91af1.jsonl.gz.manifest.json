@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-hunt_regional_healthcare-91af1__b68360bb9c7e455c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-hunt_regional_healthcare-91af1__b68360bb9c7e455c.jsonl.gz",
+    "asset_sha256": "b68360bb9c7e455c473f2e98da010c860c67e3781b97038ee35e473763de2392",
+    "published_at": "2026-10-26T17:19:20Z"
+  }
 }

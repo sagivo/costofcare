@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-iberia_general_hospital_medical_center-97a95__d93a39ac92f97f2e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-iberia_general_hospital_medical_center-97a95__d93a39ac92f97f2e.jsonl.gz",
+    "asset_sha256": "d93a39ac92f97f2e8fc7a8b252ae1e968db75e24a135c70cefa18762a717c5e8",
+    "published_at": "2026-10-26T17:19:29Z"
+  }
 }

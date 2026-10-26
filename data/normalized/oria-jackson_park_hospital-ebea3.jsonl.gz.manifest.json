@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "oria-jackson_park_hospital-ebea3__439924ca3b4d8999.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-jackson_park_hospital-ebea3__439924ca3b4d8999.jsonl.gz",
+    "asset_sha256": "439924ca3b4d899929b4f7d4ec92bbe0f4b2b96b2901207daab0d8cd459b8c40",
+    "published_at": "2026-10-26T17:20:26Z"
+  }
 }

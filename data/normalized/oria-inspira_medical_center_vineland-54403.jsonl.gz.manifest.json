@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "oria-inspira_medical_center_vineland-54403__47058ee490d083d3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-inspira_medical_center_vineland-54403__47058ee490d083d3.jsonl.gz",
+    "asset_sha256": "47058ee490d083d3e25f5970192a7b102695c93f3c5c8b84ac737c577df040b4",
+    "published_at": "2026-10-26T17:19:56Z"
+  }
 }

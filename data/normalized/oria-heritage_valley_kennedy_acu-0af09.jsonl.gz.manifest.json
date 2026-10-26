@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "oria-heritage_valley_kennedy_acu-0af09__113bfc0a7403df44.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-heritage_valley_kennedy_acu-0af09__113bfc0a7403df44.jsonl.gz",
+    "asset_sha256": "113bfc0a7403df444ff43ea9ea434657d50ceabbb5e6c20e18012f9eff59eead",
+    "published_at": "2026-10-26T17:16:32Z"
+  }
 }

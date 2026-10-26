@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6a",
+    "asset_name": "oria-haxtun_hospital-58bb9__6a650008f7625379.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6a/oria-haxtun_hospital-58bb9__6a650008f7625379.jsonl.gz",
+    "asset_sha256": "6a650008f7625379229290c6dadb4a6c070b9715bcb4244b3c225f086964b2ee",
+    "published_at": "2026-10-26T17:15:54Z"
+  }
 }

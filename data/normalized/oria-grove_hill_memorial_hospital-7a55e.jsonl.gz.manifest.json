@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6a",
+    "asset_name": "oria-grove_hill_memorial_hospital-7a55e__6a1257a8ac3b3b01.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6a/oria-grove_hill_memorial_hospital-7a55e__6a1257a8ac3b3b01.jsonl.gz",
+    "asset_sha256": "6a1257a8ac3b3b01a09f7161dfa1c2c985fab9d7f9d1158f34a5f3323ccfea5f",
+    "published_at": "2026-10-26T17:14:56Z"
+  }
 }

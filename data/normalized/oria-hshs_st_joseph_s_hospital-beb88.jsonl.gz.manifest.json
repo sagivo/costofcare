@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-38",
+    "asset_name": "oria-hshs_st_joseph_s_hospital-beb88__3807a984da64e447.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-38/oria-hshs_st_joseph_s_hospital-beb88__3807a984da64e447.jsonl.gz",
+    "asset_sha256": "3807a984da64e447880cfa4ef08d1712e0e5a059a7b416d20770408a3ae8e8a1",
+    "published_at": "2026-10-26T17:19:03Z"
+  }
 }

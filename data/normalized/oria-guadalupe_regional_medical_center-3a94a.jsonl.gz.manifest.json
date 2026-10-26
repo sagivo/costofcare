@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "oria-guadalupe_regional_medical_center-3a94a__f32395d96a3490e8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-guadalupe_regional_medical_center-3a94a__f32395d96a3490e8.jsonl.gz",
+    "asset_sha256": "f32395d96a3490e88a3d562cdad7d8532dc67c2b09f6abcdc2d3f76be791b13a",
+    "published_at": "2026-10-26T17:15:03Z"
+  }
 }

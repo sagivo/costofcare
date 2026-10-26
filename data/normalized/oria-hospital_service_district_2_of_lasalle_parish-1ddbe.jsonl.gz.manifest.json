@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-hospital_service_district_2_of_lasalle_parish-1ddbe__b65460b09839d414.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-hospital_service_district_2_of_lasalle_parish-1ddbe__b65460b09839d414.jsonl.gz",
+    "asset_sha256": "b65460b09839d41413c2e4243cd99768fb98b034fece9a5d5245dc3da9593fb1",
+    "published_at": "2026-10-26T17:18:29Z"
+  }
 }

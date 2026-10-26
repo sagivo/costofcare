@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a6",
+    "asset_name": "oria-havasu_regional_medical_center-6e97b__a6eddb7f154f578d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-havasu_regional_medical_center-6e97b__a6eddb7f154f578d.jsonl.gz",
+    "asset_sha256": "a6eddb7f154f578d3ddbc37b403a5ae5da5a00548959a3724458fa234e82968f",
+    "published_at": "2026-10-26T17:15:47Z"
+  }
 }

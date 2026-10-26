@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3994",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "oria-harbor_ucla_medical_center-97363__216e27b63cc74984.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-harbor_ucla_medical_center-97363__216e27b63cc74984.jsonl.gz",
+    "asset_sha256": "216e27b63cc7498480649632acc06dfe5b697a8e39053f23a6d8ce107a0d03b0",
+    "published_at": "2026-10-26T17:15:21Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3e",
+    "asset_name": "oria-hendrick_medical_center_brownwood-df221__3ec2e9d9161d1b60.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3e/oria-hendrick_medical_center_brownwood-df221__3ec2e9d9161d1b60.jsonl.gz",
+    "asset_sha256": "3ec2e9d9161d1b60b7bb98583e156aa66d3d71dcf503412b0451d19f7e6884d2",
+    "published_at": "2026-10-26T17:16:23Z"
+  }
 }

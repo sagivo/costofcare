@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9d",
+    "asset_name": "oria-inspira_medical_center_elmer-1a1aa__9d65e2e3ef7ebe73.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/oria-inspira_medical_center_elmer-1a1aa__9d65e2e3ef7ebe73.jsonl.gz",
+    "asset_sha256": "9d65e2e3ef7ebe739a309d54995ec4c2fce0bbcbc2dba4a198a40f9d6ca626a0",
+    "published_at": "2026-10-26T17:19:49Z"
+  }
 }

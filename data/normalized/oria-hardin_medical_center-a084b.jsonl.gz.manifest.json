@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6c",
+    "asset_name": "oria-hardin_medical_center-a084b__6c3bd0047aef9b2f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6c/oria-hardin_medical_center-a084b__6c3bd0047aef9b2f.jsonl.gz",
+    "asset_sha256": "6c3bd0047aef9b2fe31d8ec7cf0c5c85ca730b748f6f4cbb6571aa5017a91045",
+    "published_at": "2026-10-26T17:15:26Z"
+  }
 }

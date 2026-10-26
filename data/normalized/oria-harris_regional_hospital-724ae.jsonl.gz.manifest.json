@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ee",
+    "asset_name": "oria-harris_regional_hospital-724ae__eebed5dd057d098e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-harris_regional_hospital-724ae__eebed5dd057d098e.jsonl.gz",
+    "asset_sha256": "eebed5dd057d098e9f9049b5e5aba9d5e743328607965267023b734aa75f59b8",
+    "published_at": "2026-10-26T17:15:42Z"
+  }
 }

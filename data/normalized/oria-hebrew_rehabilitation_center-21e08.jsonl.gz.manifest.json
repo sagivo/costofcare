@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f1",
+    "asset_name": "oria-hebrew_rehabilitation_center-21e08__f1acb02921c58131.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/oria-hebrew_rehabilitation_center-21e08__f1acb02921c58131.jsonl.gz",
+    "asset_sha256": "f1acb02921c58131b3016ccfe63f50e10589c16ea2399d9095382fee675669cf",
+    "published_at": "2026-10-26T17:16:16Z"
+  }
 }

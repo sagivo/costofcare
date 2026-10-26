@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0b",
+    "asset_name": "oria-honor_health_tempe_medical_center-5d8ab__0bb9548f9284fa47.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-honor_health_tempe_medical_center-5d8ab__0bb9548f9284fa47.jsonl.gz",
+    "asset_sha256": "0bb9548f9284fa47546d7f18a6df0e1d40011f5fecab45a425610a1eb6c645fa",
+    "published_at": "2026-10-26T17:18:11Z"
+  }
 }

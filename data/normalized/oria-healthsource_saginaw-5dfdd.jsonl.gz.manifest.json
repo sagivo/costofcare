@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a8",
+    "asset_name": "oria-healthsource_saginaw-5dfdd__a8ed8d6caf1f584e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/oria-healthsource_saginaw-5dfdd__a8ed8d6caf1f584e.jsonl.gz",
+    "asset_sha256": "a8ed8d6caf1f584ebacd723be357dca27fdc9d47627b5e23ddba0ac42fa9d8ee",
+    "published_at": "2026-10-26T17:16:06Z"
+  }
 }

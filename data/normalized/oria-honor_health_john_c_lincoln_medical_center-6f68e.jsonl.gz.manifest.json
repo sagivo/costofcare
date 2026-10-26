@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c6",
+    "asset_name": "oria-honor_health_john_c_lincoln_medical_center-6f68e__c600aef8353c7089.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c6/oria-honor_health_john_c_lincoln_medical_center-6f68e__c600aef8353c7089.jsonl.gz",
+    "asset_sha256": "c600aef8353c70896e560a750db0c9257d27f138981868606673bd088968567a",
+    "published_at": "2026-10-26T17:18:00Z"
+  }
 }

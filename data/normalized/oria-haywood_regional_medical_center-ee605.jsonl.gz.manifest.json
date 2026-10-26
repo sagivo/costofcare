@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-haywood_regional_medical_center-ee605__0277fc5b1023eb6c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-haywood_regional_medical_center-ee605__0277fc5b1023eb6c.jsonl.gz",
+    "asset_sha256": "0277fc5b1023eb6c97f1367c01b11eaa37037246d0cd4907ada7462c5c8f097a",
+    "published_at": "2026-10-26T17:15:58Z"
+  }
 }

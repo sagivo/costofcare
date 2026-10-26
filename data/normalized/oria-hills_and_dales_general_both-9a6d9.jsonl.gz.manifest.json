@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 7408",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-24",
+    "asset_name": "oria-hills_and_dales_general_both-9a6d9__24c5bb1152db98e3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-24/oria-hills_and_dales_general_both-9a6d9__24c5bb1152db98e3.jsonl.gz",
+    "asset_sha256": "24c5bb1152db98e32eb6b87f0163b69cb2a9badc4e88b2d001f18b39378681f2",
+    "published_at": "2026-10-26T17:17:07Z"
+  }
 }

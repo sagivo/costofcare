@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d2",
+    "asset_name": "oria-health_alliance_mary_avenue_hospital-5998d__d2e87cfecb09301f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d2/oria-health_alliance_mary_avenue_hospital-5998d__d2e87cfecb09301f.jsonl.gz",
+    "asset_sha256": "d2e87cfecb09301fcb2dd673ca44ec3ccb0d1566b4b49a7b53c408d83af9849c",
+    "published_at": "2026-10-26T17:16:01Z"
+  }
 }

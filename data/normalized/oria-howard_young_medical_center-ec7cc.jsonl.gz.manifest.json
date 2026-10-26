@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-howard_young_medical_center-ec7cc__6d4923723ed70682.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-howard_young_medical_center-ec7cc__6d4923723ed70682.jsonl.gz",
+    "asset_sha256": "6d4923723ed706820266b448aee19d65b81d1e3d202bf82e116d598030952047",
+    "published_at": "2026-10-26T17:18:41Z"
+  }
 }

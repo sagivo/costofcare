@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8c",
+    "asset_name": "oria-harlingen_medical_center-3e024__8cc722a3926aa368.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-harlingen_medical_center-3e024__8cc722a3926aa368.jsonl.gz",
+    "asset_sha256": "8cc722a3926aa368ef4808128bb162d066a879cfa6678886755cc3951b64c7ff",
+    "published_at": "2026-10-26T17:15:31Z"
+  }
 }

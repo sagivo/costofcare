@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-65",
+    "asset_name": "oria-highpoint_health_sumner_with_ascension_saint_thomas-e046d__659dfbdf74423f55.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/oria-highpoint_health_sumner_with_ascension_saint_thomas-e046d__659dfbdf74423f55.jsonl.gz",
+    "asset_sha256": "659dfbdf74423f5507c575f7cae85ac3a47e57f28226fe2e1b0db9509d0efda1",
+    "published_at": "2026-10-26T17:16:51Z"
+  }
 }

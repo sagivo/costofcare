@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e9",
+    "asset_name": "oria-irh_medical_group_batesville_family_medical_clinic-c65cf__e988d0ef99d2e599.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e9/oria-irh_medical_group_batesville_family_medical_clinic-c65cf__e988d0ef99d2e599.jsonl.gz",
+    "asset_sha256": "e988d0ef99d2e5995dcd13050d326d9ff51c821a92ce3606dcfdf7a72274d4b3",
+    "published_at": "2026-10-26T17:20:08Z"
+  }
 }

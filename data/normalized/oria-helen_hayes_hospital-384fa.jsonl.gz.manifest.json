@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a1",
+    "asset_name": "oria-helen_hayes_hospital-384fa__a1bd1bfdcc780986.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-helen_hayes_hospital-384fa__a1bd1bfdcc780986.jsonl.gz",
+    "asset_sha256": "a1bd1bfdcc7809866165a2d644472dabafb1afb0a3da5170d42ab80a6f316d6a",
+    "published_at": "2026-10-26T17:16:18Z"
+  }
 }

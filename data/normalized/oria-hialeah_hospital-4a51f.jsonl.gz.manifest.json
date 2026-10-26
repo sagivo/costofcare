@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b1",
+    "asset_name": "oria-hialeah_hospital-4a51f__b1f631c5fb26806d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/oria-hialeah_hospital-4a51f__b1f631c5fb26806d.jsonl.gz",
+    "asset_sha256": "b1f631c5fb26806deec845e0c47e710871f4222f6faa1c098c19e76b8990bd93",
+    "published_at": "2026-10-26T17:16:35Z"
+  }
 }

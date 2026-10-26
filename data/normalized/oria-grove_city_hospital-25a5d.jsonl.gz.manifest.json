@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0a",
+    "asset_name": "oria-grove_city_hospital-25a5d__0a8f68acc89399b4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0a/oria-grove_city_hospital-25a5d__0a8f68acc89399b4.jsonl.gz",
+    "asset_sha256": "0a8f68acc89399b468d5527332a5f3e8bf7da2c9eb63954a5fa4ac62b23ec796",
+    "published_at": "2026-10-26T17:14:54Z"
+  }
 }

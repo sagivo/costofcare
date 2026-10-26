@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7b",
+    "asset_name": "oria-hospital_service_district_no_2_of_the_parish_of_beauregard_state_of_louisiana_db-b9fdb__7bbbdabcd496d30e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/oria-hospital_service_district_no_2_of_the_parish_of_beauregard_state_of_louisiana_db-b9fdb__7bbbdabcd496d30e.jsonl.gz",
+    "asset_sha256": "7bbbdabcd496d30ec2503d7e5f9a5d481399dc63f2ea1c6039061c8e724975b9",
+    "published_at": "2026-10-26T17:18:32Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7b",
+    "asset_name": "oria-holy_cross_hospital_salt_lake-86f29__7b7a4a943d001520.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/oria-holy_cross_hospital_salt_lake-86f29__7b7a4a943d001520.jsonl.gz",
+    "asset_sha256": "7b7a4a943d0015206ce9a6a749ee6db4e5d7a25c5f9b5e13a5b7181c901fb915",
+    "published_at": "2026-10-26T17:17:36Z"
+  }
 }

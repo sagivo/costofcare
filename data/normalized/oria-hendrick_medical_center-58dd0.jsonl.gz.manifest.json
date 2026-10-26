@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cd",
+    "asset_name": "oria-hendrick_medical_center-58dd0__cd05854d2ad46b49.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/oria-hendrick_medical_center-58dd0__cd05854d2ad46b49.jsonl.gz",
+    "asset_sha256": "cd05854d2ad46b49c415c86c7792d87ccd861b44d7c73f7d2aa2733116181dfb",
+    "published_at": "2026-10-26T17:16:20Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2976",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-91",
+    "asset_name": "oria-hammond_iop-7f2df__91663f6e66ae081e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-91/oria-hammond_iop-7f2df__91663f6e66ae081e.jsonl.gz",
+    "asset_sha256": "91663f6e66ae081ee90294a001e55a6607aa70e4e1a3be754ed2103cc5977e65",
+    "published_at": "2026-10-26T17:15:14Z"
+  }
 }

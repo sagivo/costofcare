@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "oria-harris_health_lyndon_b_johnson_hospital-c7862__cf5c7bca7418bc3c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-harris_health_lyndon_b_johnson_hospital-c7862__cf5c7bca7418bc3c.jsonl.gz",
+    "asset_sha256": "cf5c7bca7418bc3c3393af7ca0e07e75be62499bef709e536e1a218cf80721cd",
+    "published_at": "2026-10-26T17:15:39Z"
+  }
 }

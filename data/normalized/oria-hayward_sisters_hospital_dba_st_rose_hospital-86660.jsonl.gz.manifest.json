@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 6876",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-73",
+    "asset_name": "oria-hayward_sisters_hospital_dba_st_rose_hospital-86660__731014234ae8c75d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-73/oria-hayward_sisters_hospital_dba_st_rose_hospital-86660__731014234ae8c75d.jsonl.gz",
+    "asset_sha256": "731014234ae8c75dddc4c0149b149f353ed238c3bb8b1371f41399330661e7f7",
+    "published_at": "2026-10-26T17:15:56Z"
+  }
 }

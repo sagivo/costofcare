@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "oria-hshs_st_francis_hospital-270e9__31500c73de857fc6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-hshs_st_francis_hospital-270e9__31500c73de857fc6.jsonl.gz",
+    "asset_sha256": "31500c73de857fc62d2fb60f06bccca5767bf8f83bc16fd8018bc5a720948c01",
+    "published_at": "2026-10-26T17:18:58Z"
+  }
 }

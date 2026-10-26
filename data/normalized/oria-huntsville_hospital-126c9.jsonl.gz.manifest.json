@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "oria-huntsville_hospital-126c9__291821c27cdbe1fc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/oria-huntsville_hospital-126c9__291821c27cdbe1fc.jsonl.gz",
+    "asset_sha256": "291821c27cdbe1fce67b67632768f5e88f166c2b9c647e519cb308fef0068411",
+    "published_at": "2026-10-26T17:19:27Z"
+  }
 }

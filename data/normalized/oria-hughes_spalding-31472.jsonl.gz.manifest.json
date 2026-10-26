@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1230",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d2",
+    "asset_name": "oria-hughes_spalding-31472__d2dfa73bbbae2d3f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d2/oria-hughes_spalding-31472__d2dfa73bbbae2d3f.jsonl.gz",
+    "asset_sha256": "d2dfa73bbbae2d3febaeeec04940ac4de51f86191cf1b4906605651bec3afaff",
+    "published_at": "2026-10-26T17:19:16Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-holy_redeemer_hospital-24799__5f1df9eb296328cf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-holy_redeemer_hospital-24799__5f1df9eb296328cf.jsonl.gz",
+    "asset_sha256": "5f1df9eb296328cfc201c4df82f87fb6b4f80c45bdc7611f9cbf1d488a094d6a",
+    "published_at": "2026-10-26T17:17:38Z"
+  }
 }

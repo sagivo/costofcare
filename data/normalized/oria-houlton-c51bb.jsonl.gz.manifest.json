@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6b",
+    "asset_name": "oria-houlton-c51bb__6bcc1eb33cb0e744.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6b/oria-houlton-c51bb__6bcc1eb33cb0e744.jsonl.gz",
+    "asset_sha256": "6bcc1eb33cb0e744fe2f6a61a1bfc1ffbe71ebab721952f0bee85bc24bfd8aa1",
+    "published_at": "2026-10-26T17:18:34Z"
+  }
 }

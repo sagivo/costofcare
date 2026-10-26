@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1468",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b2",
+    "asset_name": "oria-highland_district_hospital-ac2a2__b2a8f5e32e09c841.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-highland_district_hospital-ac2a2__b2a8f5e32e09c841.jsonl.gz",
+    "asset_sha256": "b2a8f5e32e09c841f7904c9b5d4f2655f25ccdc15bee8105b526bf6d950e4068",
+    "published_at": "2026-10-26T17:16:37Z"
+  }
 }

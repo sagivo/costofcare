@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-16",
+    "asset_name": "oria-hillcrest_hospital_south-f6564__168ed1fcccf5723c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/oria-hillcrest_hospital_south-f6564__168ed1fcccf5723c.jsonl.gz",
+    "asset_sha256": "168ed1fcccf5723c36124c3c44f9693e909d86df75d3430daa2dd4347873eb8d",
+    "published_at": "2026-10-26T17:17:05Z"
+  }
 }

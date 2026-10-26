@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8a",
+    "asset_name": "oria-hshs_holy_family_hospital-53c7f__8a6ac04aa3133c9e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8a/oria-hshs_holy_family_hospital-53c7f__8a6ac04aa3133c9e.jsonl.gz",
+    "asset_sha256": "8a6ac04aa3133c9eb0fa94a713f0000b95edfc55ecfe2398747dab60b76e14bf",
+    "published_at": "2026-10-26T17:18:48Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "oria-hillcrest_hospital_claremore-fc721__37bb6ae59693e6b8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-hillcrest_hospital_claremore-fc721__37bb6ae59693e6b8.jsonl.gz",
+    "asset_sha256": "37bb6ae59693e6b8f8235be74c1e127f84dacf360ec66a0f3e6972116eb8467f",
+    "published_at": "2026-10-26T17:16:58Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f6",
+    "asset_name": "oria-hshs_good_shepherd_hospital-949fc__f63881ac011dd1ce.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f6/oria-hshs_good_shepherd_hospital-949fc__f63881ac011dd1ce.jsonl.gz",
+    "asset_sha256": "f63881ac011dd1ce91bfee76af7c3a5ecb00af0f096f4488e7fbf14a230a6c94",
+    "published_at": "2026-10-26T17:18:46Z"
+  }
 }

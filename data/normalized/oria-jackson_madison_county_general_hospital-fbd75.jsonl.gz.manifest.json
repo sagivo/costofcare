@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-50",
+    "asset_name": "oria-jackson_madison_county_general_hospital-fbd75__50e0a3800cb88d0a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/oria-jackson_madison_county_general_hospital-fbd75__50e0a3800cb88d0a.jsonl.gz",
+    "asset_sha256": "50e0a3800cb88d0aee46d97e9fd7034fa59f87e80d820c440dad93c4d30bffb8",
+    "published_at": "2026-10-26T17:20:21Z"
+  }
 }

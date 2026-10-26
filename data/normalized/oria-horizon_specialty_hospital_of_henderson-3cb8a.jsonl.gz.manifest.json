@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3913",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5a",
+    "asset_name": "oria-horizon_specialty_hospital_of_henderson-3cb8a__5a105c5acec32f28.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-horizon_specialty_hospital_of_henderson-3cb8a__5a105c5acec32f28.jsonl.gz",
+    "asset_sha256": "5a105c5acec32f2833f0cad5fd6add5d3e278543e2cde45ba63004ecded3c1ae",
+    "published_at": "2026-10-26T17:18:18Z"
+  }
 }

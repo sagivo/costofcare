@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "oria-honor_health_scottsdale_osborn_medical_center-fc711__a790bdfa9c5a3526.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-honor_health_scottsdale_osborn_medical_center-fc711__a790bdfa9c5a3526.jsonl.gz",
+    "asset_sha256": "a790bdfa9c5a352672c8692a7e517bcdfa6bcac2192a1d1e301b2f1d6fcd875c",
+    "published_at": "2026-10-26T17:18:02Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-hill_regional_hospital-d9dee__0f10702565f37606.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-hill_regional_hospital-d9dee__0f10702565f37606.jsonl.gz",
+    "asset_sha256": "0f10702565f3760681e6ca4ad2e4f97d2fd370e68c6a39b1447372f1bb59f10a",
+    "published_at": "2026-10-26T17:16:56Z"
+  }
 }

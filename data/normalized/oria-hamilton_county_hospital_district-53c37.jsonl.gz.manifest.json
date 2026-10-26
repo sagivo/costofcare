@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0b",
+    "asset_name": "oria-hamilton_county_hospital_district-53c37__0b588b4ef3cab531.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-hamilton_county_hospital_district-53c37__0b588b4ef3cab531.jsonl.gz",
+    "asset_sha256": "0b588b4ef3cab5316ab180f7e756fac9b027ff33843ff876a91e0258558dfd4c",
+    "published_at": "2026-10-26T17:15:09Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-inspira_medical_center_mullica_hill-3c3f5__0f093e82906b46dd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-inspira_medical_center_mullica_hill-3c3f5__0f093e82906b46dd.jsonl.gz",
+    "asset_sha256": "0f093e82906b46ddc025abe05e4a31288393c88e269362111758f9e3b597000b",
+    "published_at": "2026-10-26T17:19:54Z"
+  }
 }

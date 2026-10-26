@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7c",
+    "asset_name": "oria-grundy_county_memorial_hospital-3794d__7ccc3ee15865e678.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/oria-grundy_county_memorial_hospital-3794d__7ccc3ee15865e678.jsonl.gz",
+    "asset_sha256": "7ccc3ee15865e6789be8ae31feeb9df33b62c0ec5f3bca63e2906416a3bbfd94",
+    "published_at": "2026-10-26T17:14:58Z"
+  }
 }

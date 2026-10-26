@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T01:44:34.363078+00:00",
-  "records_scanned": 12580035,
+  "generated_at": "2026-10-26T17:29:02.039819+00:00",
+  "records_scanned": 13183136,
   "flag_counts": {
     "large_published_amount_review": 13290,
     "zero_published_amount_review": 260
@@ -328,15 +328,15 @@
     }
   ],
   "populated_qualifier_counts": {
-    "setting": 11962809,
-    "billing_class": 9730705,
-    "payer_name": 11666545,
-    "plan_name": 11662767,
-    "modifiers": 2910648,
-    "json_payer_name": 1492296,
-    "json_plan_name": 1492296,
-    "json_methodology": 1492296,
-    "json_source_records": 123566,
+    "setting": 12514693,
+    "billing_class": 10189549,
+    "payer_name": 12203354,
+    "plan_name": 12199665,
+    "modifiers": 2968996,
+    "json_payer_name": 1536362,
+    "json_plan_name": 1536362,
+    "json_methodology": 1536362,
+    "json_source_records": 128524,
     "row_width_mismatch_records_skipped": 297391
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

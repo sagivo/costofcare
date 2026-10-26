@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d4",
+    "asset_name": "oria-inspira_health_center_woodbury-d8024__d42bf8b354f2eddc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/oria-inspira_health_center_woodbury-d8024__d42bf8b354f2eddc.jsonl.gz",
+    "asset_sha256": "d42bf8b354f2eddc49f11a8366c24dc1bee377af464b464758497ddb3684ff21",
+    "published_at": "2026-10-26T17:19:46Z"
+  }
 }

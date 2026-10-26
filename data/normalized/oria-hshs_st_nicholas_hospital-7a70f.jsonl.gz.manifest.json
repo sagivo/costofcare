@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-hshs_st_nicholas_hospital-7a70f__8208d565ed5d0dec.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-hshs_st_nicholas_hospital-7a70f__8208d565ed5d0dec.jsonl.gz",
+    "asset_sha256": "8208d565ed5d0dec58b4c5e1f1847e134b908181bedb28c1e6cf2cc278a89055",
+    "published_at": "2026-10-26T17:19:07Z"
+  }
 }

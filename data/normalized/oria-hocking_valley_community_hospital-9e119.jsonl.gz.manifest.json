@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4553",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-95",
+    "asset_name": "oria-hocking_valley_community_hospital-9e119__95e2f0c4330dc19c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-95/oria-hocking_valley_community_hospital-9e119__95e2f0c4330dc19c.jsonl.gz",
+    "asset_sha256": "95e2f0c4330dc19c2b9fd70524867ab1665fefe7523d3e1fe63f6ad968da717f",
+    "published_at": "2026-10-26T17:17:18Z"
+  }
 }

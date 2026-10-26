@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-13",
+    "asset_name": "oria-hshs_st_clare_memorial_hospital-e8eee__135b9fa99dcd58b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/oria-hshs_st_clare_memorial_hospital-e8eee__135b9fa99dcd58b2.jsonl.gz",
+    "asset_sha256": "135b9fa99dcd58b24eb3b800716351ef868504bf8294189667971feeb5ca837d",
+    "published_at": "2026-10-26T17:18:53Z"
+  }
 }

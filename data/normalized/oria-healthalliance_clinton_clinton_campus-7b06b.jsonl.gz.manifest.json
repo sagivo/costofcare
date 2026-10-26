@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-76",
+    "asset_name": "oria-healthalliance_clinton_clinton_campus-7b06b__760a3f4c36aaddd6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/oria-healthalliance_clinton_clinton_campus-7b06b__760a3f4c36aaddd6.jsonl.gz",
+    "asset_sha256": "760a3f4c36aaddd6853b9a5611aa99984b0d6dce56f9e2cdc8ade83c120f5e31",
+    "published_at": "2026-10-26T17:16:03Z"
+  }
 }

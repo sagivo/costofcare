@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-hamilton_medical_center-d7980__2694e5bd6d210ef4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-hamilton_medical_center-d7980__2694e5bd6d210ef4.jsonl.gz",
+    "asset_sha256": "2694e5bd6d210ef492ce519a4f3e34d26ecbdd29eba238239cbb8b90dfff500a",
+    "published_at": "2026-10-26T17:15:12Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "oria-indiana_regional_medical_center-2ba59__2bc5e87faaba7020.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-indiana_regional_medical_center-2ba59__2bc5e87faaba7020.jsonl.gz",
+    "asset_sha256": "2bc5e87faaba7020b61ebdb5f854a65616db50a8fed96b23b1a7dc469a55e18e",
+    "published_at": "2026-10-26T17:19:33Z"
+  }
 }

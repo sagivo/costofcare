@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-60",
+    "asset_name": "oria-highland_hills_medical_center-2c86c__6059b2f0a009f7ab.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-60/oria-highland_hills_medical_center-2c86c__6059b2f0a009f7ab.jsonl.gz",
+    "asset_sha256": "6059b2f0a009f7ab4200b372ade84d46c8d0a33659a74b4ca35ee171c6a6620f",
+    "published_at": "2026-10-26T17:16:39Z"
+  }
 }

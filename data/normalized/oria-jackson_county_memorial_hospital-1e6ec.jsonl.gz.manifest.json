@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-jackson_county_memorial_hospital-1e6ec__e07b179a84cafe52.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-jackson_county_memorial_hospital-1e6ec__e07b179a84cafe52.jsonl.gz",
+    "asset_sha256": "e07b179a84cafe527a5e8f3521c2b95868e34bcb4b1d942fd89cbf3e6ba6e943",
+    "published_at": "2026-10-26T17:20:18Z"
+  }
 }

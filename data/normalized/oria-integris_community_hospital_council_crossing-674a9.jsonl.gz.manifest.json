@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7c",
+    "asset_name": "oria-integris_community_hospital_council_crossing-674a9__7ca373b08d5b4639.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/oria-integris_community_hospital_council_crossing-674a9__7ca373b08d5b4639.jsonl.gz",
+    "asset_sha256": "7ca373b08d5b463974d9fb660f0e73909307b2293302fed5e45ea74a492af02c",
+    "published_at": "2026-10-26T17:20:03Z"
+  }
 }

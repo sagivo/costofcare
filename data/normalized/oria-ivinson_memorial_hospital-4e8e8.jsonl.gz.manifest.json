@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e6",
+    "asset_name": "oria-ivinson_memorial_hospital-4e8e8__e62abaf808468bbc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/oria-ivinson_memorial_hospital-4e8e8__e62abaf808468bbc.jsonl.gz",
+    "asset_sha256": "e62abaf808468bbcaf45c9772bdc81741e1b26f88d2393a05c6b69e61068f4db",
+    "published_at": "2026-10-26T17:20:13Z"
+  }
 }

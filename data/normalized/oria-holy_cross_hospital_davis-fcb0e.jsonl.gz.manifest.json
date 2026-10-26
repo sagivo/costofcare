@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f7",
+    "asset_name": "oria-holy_cross_hospital_davis-fcb0e__f7e0c72d1b89b9ef.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f7/oria-holy_cross_hospital_davis-fcb0e__f7e0c72d1b89b9ef.jsonl.gz",
+    "asset_sha256": "f7e0c72d1b89b9ef292758b47495b33d2dcd23300f20b42f1ae29aee12f63272",
+    "published_at": "2026-10-26T17:17:29Z"
+  }
 }

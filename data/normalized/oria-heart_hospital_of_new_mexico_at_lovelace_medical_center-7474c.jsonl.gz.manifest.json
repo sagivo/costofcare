@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-95",
+    "asset_name": "oria-heart_hospital_of_new_mexico_at_lovelace_medical_center-7474c__95616a3a4262573e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-95/oria-heart_hospital_of_new_mexico_at_lovelace_medical_center-7474c__95616a3a4262573e.jsonl.gz",
+    "asset_sha256": "95616a3a4262573ee6870e4ca74fb251267d51e1e23f3e4eec6299c9000f3c33",
+    "published_at": "2026-10-26T17:16:08Z"
+  }
 }

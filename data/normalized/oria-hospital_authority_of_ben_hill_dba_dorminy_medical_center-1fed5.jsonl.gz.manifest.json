@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-hospital_authority_of_ben_hill_dba_dorminy_medical_center-1fed5__8fc81c74805fc192.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-hospital_authority_of_ben_hill_dba_dorminy_medical_center-1fed5__8fc81c74805fc192.jsonl.gz",
+    "asset_sha256": "8fc81c74805fc1920d2582740cd8e6c635a7732c75ba0f6f663e712736eb6444",
+    "published_at": "2026-10-26T17:18:25Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3d",
+    "asset_name": "oria-hollywood_presbyterian_medical_center-f31f7__3dd5066c32dc5f31.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3d/oria-hollywood_presbyterian_medical_center-f31f7__3dd5066c32dc5f31.jsonl.gz",
+    "asset_sha256": "3dd5066c32dc5f3183924ded44ac2b6dfd20dab722f310837b95216b0b6269f5",
+    "published_at": "2026-10-26T17:17:21Z"
+  }
 }

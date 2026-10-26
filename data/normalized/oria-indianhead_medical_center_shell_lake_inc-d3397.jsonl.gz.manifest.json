@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4a",
+    "asset_name": "oria-indianhead_medical_center_shell_lake_inc-d3397__4a0d11681d75f102.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/oria-indianhead_medical_center_shell_lake_inc-d3397__4a0d11681d75f102.jsonl.gz",
+    "asset_sha256": "4a0d11681d75f1024fe2bf444c72809363bbe811539c440da1f91eca516e7796",
+    "published_at": "2026-10-26T17:19:35Z"
+  }
 }
