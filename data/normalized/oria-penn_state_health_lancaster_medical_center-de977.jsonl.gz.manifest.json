@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4104",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dd",
+    "asset_name": "oria-penn_state_health_lancaster_medical_center-de977__dd3ccb6d2f2dffac.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-penn_state_health_lancaster_medical_center-de977__dd3ccb6d2f2dffac.jsonl.gz",
+    "asset_sha256": "dd3ccb6d2f2dffaca1b21c2b477f21adc4e11fb5977cfdfadf8c92d9fd3da4f9",
+    "published_at": "2026-10-27T16:24:28Z"
+  }
 }

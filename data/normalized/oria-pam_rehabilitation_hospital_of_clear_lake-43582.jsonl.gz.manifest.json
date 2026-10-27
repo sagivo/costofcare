@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "oria-pam_rehabilitation_hospital_of_clear_lake-43582__75bb36c968ee72af.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/oria-pam_rehabilitation_hospital_of_clear_lake-43582__75bb36c968ee72af.jsonl.gz",
+    "asset_sha256": "75bb36c968ee72af1a89abba300f496f966641f11164e4e896da1ee791db54bc",
+    "published_at": "2026-10-27T16:22:09Z"
+  }
 }

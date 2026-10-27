@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-42",
+    "asset_name": "oria-pam_specialty_hospital_of_texarkana_north-c705f__4231894aca7e1c53.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-42/oria-pam_specialty_hospital_of_texarkana_north-c705f__4231894aca7e1c53.jsonl.gz",
+    "asset_sha256": "4231894aca7e1c536623f1c00ee2e7c780e49bf72624406f66650dc8e89896de",
+    "published_at": "2026-10-27T16:22:48Z"
+  }
 }

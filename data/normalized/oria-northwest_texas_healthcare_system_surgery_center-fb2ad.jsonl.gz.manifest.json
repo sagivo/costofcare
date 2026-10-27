@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-northwest_texas_healthcare_system_surgery_center-fb2ad__9006cbb532f76559.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-northwest_texas_healthcare_system_surgery_center-fb2ad__9006cbb532f76559.jsonl.gz",
+    "asset_sha256": "9006cbb532f76559772ae93ccbf7be4509069301a214e32203a8309f30d9bc4a",
+    "published_at": "2026-10-27T16:19:31Z"
+  }
 }

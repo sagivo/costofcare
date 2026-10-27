@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ab",
+    "asset_name": "oria-pam_health_rehabilitation_hospital_of_venice-0aee5__abc25cfd0ec708f3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ab/oria-pam_health_rehabilitation_hospital_of_venice-0aee5__abc25cfd0ec708f3.jsonl.gz",
+    "asset_sha256": "abc25cfd0ec708f3da967f13a1753c3408598727f686dc634d1960e11efbb0b4",
+    "published_at": "2026-10-27T16:21:41Z"
+  }
 }

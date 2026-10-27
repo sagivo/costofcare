@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-oklahoma_heart_hospital_south-d5f40__63b9ccfd76abe4c4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-oklahoma_heart_hospital_south-d5f40__63b9ccfd76abe4c4.jsonl.gz",
+    "asset_sha256": "63b9ccfd76abe4c4b5063875e4ef703a184b71ee6f09dcae15a26e5757ad4894",
+    "published_at": "2026-10-27T16:20:03Z"
+  }
 }

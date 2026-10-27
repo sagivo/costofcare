@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3984",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-50",
+    "asset_name": "oria-phoenixville_hospital-109d8__50965a27b78fff62.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/oria-phoenixville_hospital-109d8__50965a27b78fff62.jsonl.gz",
+    "asset_sha256": "50965a27b78fff62ba95fff339612c1198bd6a5a2837b98dfc2f0476eeb7544c",
+    "published_at": "2026-10-27T16:24:56Z"
+  }
 }

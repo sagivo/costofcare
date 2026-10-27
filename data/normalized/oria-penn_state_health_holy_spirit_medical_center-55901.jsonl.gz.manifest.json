@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6474",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "oria-penn_state_health_holy_spirit_medical_center-55901__4310187edd93eb48.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-penn_state_health_holy_spirit_medical_center-55901__4310187edd93eb48.jsonl.gz",
+    "asset_sha256": "4310187edd93eb485b217afd817afe38b93322a007ff8dd9c08eff95d8a321db",
+    "published_at": "2026-10-27T16:24:25Z"
+  }
 }

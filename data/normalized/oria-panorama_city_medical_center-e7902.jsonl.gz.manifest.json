@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-00",
+    "asset_name": "oria-panorama_city_medical_center-e7902__004228ee43ab4ca8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-00/oria-panorama_city_medical_center-e7902__004228ee43ab4ca8.jsonl.gz",
+    "asset_sha256": "004228ee43ab4ca8bad9991981ca9d9c165e145b1efd7c27022a4a62c1640334",
+    "published_at": "2026-10-27T16:22:59Z"
+  }
 }

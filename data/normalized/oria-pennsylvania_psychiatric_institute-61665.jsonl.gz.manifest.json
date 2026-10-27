@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "oria-pennsylvania_psychiatric_institute-61665__a2893d1b26f45442.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/oria-pennsylvania_psychiatric_institute-61665__a2893d1b26f45442.jsonl.gz",
+    "asset_sha256": "a2893d1b26f4544265872ff8a5651cce0679cf9ba188367f221fedf1cf44caa4",
+    "published_at": "2026-10-27T16:24:30Z"
+  }
 }

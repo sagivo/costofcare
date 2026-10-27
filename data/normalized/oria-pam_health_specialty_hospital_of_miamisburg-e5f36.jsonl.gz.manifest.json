@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "oria-pam_health_specialty_hospital_of_miamisburg-e5f36__a7782226b3d34b0a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-pam_health_specialty_hospital_of_miamisburg-e5f36__a7782226b3d34b0a.jsonl.gz",
+    "asset_sha256": "a7782226b3d34b0a7f8327f918c238acd90d5c1833c879531d6482395043dcf6",
+    "published_at": "2026-10-27T16:21:51Z"
+  }
 }

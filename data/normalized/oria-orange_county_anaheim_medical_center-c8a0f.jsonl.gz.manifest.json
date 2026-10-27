@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-01",
+    "asset_name": "oria-orange_county_anaheim_medical_center-c8a0f__01375dc83b0e69f7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-01/oria-orange_county_anaheim_medical_center-c8a0f__01375dc83b0e69f7.jsonl.gz",
+    "asset_sha256": "01375dc83b0e69f749c7add28ee048d95a934afbfd35380f069e0b97c45a5b18",
+    "published_at": "2026-10-27T16:20:24Z"
+  }
 }

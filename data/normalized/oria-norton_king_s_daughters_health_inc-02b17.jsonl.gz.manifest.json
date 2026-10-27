@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-norton_king_s_daughters_health_inc-02b17__8f32c39f401916fd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-norton_king_s_daughters_health_inc-02b17__8f32c39f401916fd.jsonl.gz",
+    "asset_sha256": "8f32c39f401916fded04645102596ae5256e8b338c95c70a89dd417c387f101f",
+    "published_at": "2026-10-27T16:19:39Z"
+  }
 }

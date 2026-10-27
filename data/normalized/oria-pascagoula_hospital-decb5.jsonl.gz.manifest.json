@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cc",
+    "asset_name": "oria-pascagoula_hospital-decb5__cc93c93ff23fde35.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-pascagoula_hospital-decb5__cc93c93ff23fde35.jsonl.gz",
+    "asset_sha256": "cc93c93ff23fde35e89d6ccb2dab5cc4d2afd8bef70ee2bef039cb5f1415cc68",
+    "published_at": "2026-10-27T16:23:40Z"
+  }
 }

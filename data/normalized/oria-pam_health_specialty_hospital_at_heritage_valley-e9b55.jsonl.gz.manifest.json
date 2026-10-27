@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-pam_health_specialty_hospital_at_heritage_valley-e9b55__8fc9a5b286d01b1b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-pam_health_specialty_hospital_at_heritage_valley-e9b55__8fc9a5b286d01b1b.jsonl.gz",
+    "asset_sha256": "8fc9a5b286d01b1b7f4b9fa34e354b4e4fb65a65182dcb6b29afa6f89a801a60",
+    "published_at": "2026-10-27T16:21:46Z"
+  }
 }

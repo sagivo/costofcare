@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-34",
+    "asset_name": "oria-piedmont_fayette-b5af1__34340cdac0f092d9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-34/oria-piedmont_fayette-b5af1__34340cdac0f092d9.jsonl.gz",
+    "asset_sha256": "34340cdac0f092d9bbd5289fcfddf9f4a9e031dd9809f9b514b03a0f176a476e",
+    "published_at": "2026-10-27T16:25:32Z"
+  }
 }

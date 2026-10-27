@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-parkview_wabash_hospital-c550d__e0228384c2197b30.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-parkview_wabash_hospital-c550d__e0228384c2197b30.jsonl.gz",
+    "asset_sha256": "e0228384c2197b3077b35ee7b0d17301458e5ca8f0953f7e1084add1d191cd8a",
+    "published_at": "2026-10-27T16:23:35Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-palmetto_general_hospital-b8e14__ef616b78c343fb48.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-palmetto_general_hospital-b8e14__ef616b78c343fb48.jsonl.gz",
+    "asset_sha256": "ef616b78c343fb488aba979dc5fd5237316d0811e94c88404243fa78ef33deee",
+    "published_at": "2026-10-27T16:20:59Z"
+  }
 }

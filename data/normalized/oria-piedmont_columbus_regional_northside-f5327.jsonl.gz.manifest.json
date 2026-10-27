@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-57",
+    "asset_name": "oria-piedmont_columbus_regional_northside-f5327__57bb7559e838a7b5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-57/oria-piedmont_columbus_regional_northside-f5327__57bb7559e838a7b5.jsonl.gz",
+    "asset_sha256": "57bb7559e838a7b5def9e76a684af1bf88368b2ce06525c48d5282aec3df6c54",
+    "published_at": "2026-10-27T16:25:26Z"
+  }
 }

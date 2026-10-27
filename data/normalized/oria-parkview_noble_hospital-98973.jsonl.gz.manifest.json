@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "oria-parkview_noble_hospital-98973__dc442e7e8ca201a3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-parkview_noble_hospital-98973__dc442e7e8ca201a3.jsonl.gz",
+    "asset_sha256": "dc442e7e8ca201a385425cbb22278c361cbe7f19816e8bdad9e85790705ad1d4",
+    "published_at": "2026-10-27T16:23:30Z"
+  }
 }

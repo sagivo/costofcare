@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4e",
+    "asset_name": "oria-pam_specialty_hospital_of_rocky_mount-80bbb__4e5123f65027036e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4e/oria-pam_specialty_hospital_of_rocky_mount-80bbb__4e5123f65027036e.jsonl.gz",
+    "asset_sha256": "4e5123f65027036e3650914e1a718ca497e2fea78d435dc850542f9f11077a51",
+    "published_at": "2026-10-27T16:22:43Z"
+  }
 }

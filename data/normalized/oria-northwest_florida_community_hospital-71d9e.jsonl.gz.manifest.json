@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "oria-northwest_florida_community_hospital-71d9e__2987a19f148c3803.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/oria-northwest_florida_community_hospital-71d9e__2987a19f148c3803.jsonl.gz",
+    "asset_sha256": "2987a19f148c3803b12d636db898b35b4da726718e4e868eaa34fa0b5435d913",
+    "published_at": "2026-10-27T16:19:28Z"
+  }
 }

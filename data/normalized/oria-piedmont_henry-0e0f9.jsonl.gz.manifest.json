@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c3",
+    "asset_name": "oria-piedmont_henry-0e0f9__c32f83537d45e6bd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c3/oria-piedmont_henry-0e0f9__c32f83537d45e6bd.jsonl.gz",
+    "asset_sha256": "c32f83537d45e6bd05b8f349746fcbfec6976e425b601b641b061d1c7a3e0cc3",
+    "published_at": "2026-10-27T16:25:34Z"
+  }
 }

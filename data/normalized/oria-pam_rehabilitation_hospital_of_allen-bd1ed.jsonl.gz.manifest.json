@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-67",
+    "asset_name": "oria-pam_rehabilitation_hospital_of_allen-bd1ed__67995d713b1af217.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/oria-pam_rehabilitation_hospital_of_allen-bd1ed__67995d713b1af217.jsonl.gz",
+    "asset_sha256": "67995d713b1af217ac4365edc0bd5de19cd052541f9f93f8a07df9a8c5b5fb6e",
+    "published_at": "2026-10-27T16:22:04Z"
+  }
 }

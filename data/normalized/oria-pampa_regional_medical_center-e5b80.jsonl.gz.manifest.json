@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-pampa_regional_medical_center-e5b80__82a4461366e8e01b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-pampa_regional_medical_center-e5b80__82a4461366e8e01b.jsonl.gz",
+    "asset_sha256": "82a4461366e8e01bc7fd2eaf31814747dc707d69c4c21745cb8207e7f2d7df30",
+    "published_at": "2026-10-27T16:22:56Z"
+  }
 }

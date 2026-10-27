@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f2",
+    "asset_name": "oria-pemiscot_memorial_health_system-7088c__f2de15ad028c78fa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f2/oria-pemiscot_memorial_health_system-7088c__f2de15ad028c78fa.jsonl.gz",
+    "asset_sha256": "f2de15ad028c78faa53ae5298675b0c6178766e6cf9a8ac50a0510e7d1de1c9f",
+    "published_at": "2026-10-27T16:24:09Z"
+  }
 }

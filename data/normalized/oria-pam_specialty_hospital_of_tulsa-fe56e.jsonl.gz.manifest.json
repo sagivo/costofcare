@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0c",
+    "asset_name": "oria-pam_specialty_hospital_of_tulsa-fe56e__0caac1e9ac591ff0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0c/oria-pam_specialty_hospital_of_tulsa-fe56e__0caac1e9ac591ff0.jsonl.gz",
+    "asset_sha256": "0caac1e9ac591ff0d3ed147a570f1fc3ea704aaf4393068ff909c323242dae71",
+    "published_at": "2026-10-27T16:22:51Z"
+  }
 }

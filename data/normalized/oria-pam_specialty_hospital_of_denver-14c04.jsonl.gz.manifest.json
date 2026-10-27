@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ea",
+    "asset_name": "oria-pam_specialty_hospital_of_denver-14c04__eaf2bdc11a3a82bb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/oria-pam_specialty_hospital_of_denver-14c04__eaf2bdc11a3a82bb.jsonl.gz",
+    "asset_sha256": "eaf2bdc11a3a82bb5a4abcb669c63f0b1578a9429ce65de143171a1da651673f",
+    "published_at": "2026-10-27T16:22:30Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3938",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-opelousas_iop-5c6b5__6d3d1e68a3a069ab.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-opelousas_iop-5c6b5__6d3d1e68a3a069ab.jsonl.gz",
+    "asset_sha256": "6d3d1e68a3a069ab7dcbf9d1270bfdc071fd91d04fecaf60f500def9424d5d60",
+    "published_at": "2026-10-27T16:20:22Z"
+  }
 }

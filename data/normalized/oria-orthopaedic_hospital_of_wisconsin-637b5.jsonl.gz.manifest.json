@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6a",
+    "asset_name": "oria-orthopaedic_hospital_of_wisconsin-637b5__6aed6014b83ff789.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6a/oria-orthopaedic_hospital_of_wisconsin-637b5__6aed6014b83ff789.jsonl.gz",
+    "asset_sha256": "6aed6014b83ff789221866f526d78e4b3d2cc91b7d3e43194046c0a3b2ea9a20",
+    "published_at": "2026-10-27T16:20:35Z"
+  }
 }

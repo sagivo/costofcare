@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-pam_specialty_hospital_of_corpus_christi_bayfront-940ea__82910912acde0441.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-pam_specialty_hospital_of_corpus_christi_bayfront-940ea__82910912acde0441.jsonl.gz",
+    "asset_sha256": "82910912acde04412d1eca4f9216ed993b48553add84dd5ffda64c8ad73f19c6",
+    "published_at": "2026-10-27T16:22:28Z"
+  }
 }

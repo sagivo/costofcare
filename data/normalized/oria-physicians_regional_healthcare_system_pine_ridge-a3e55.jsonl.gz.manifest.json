@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-de",
+    "asset_name": "oria-physicians_regional_healthcare_system_pine_ridge-a3e55__de019652a61b594f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/oria-physicians_regional_healthcare_system_pine_ridge-a3e55__de019652a61b594f.jsonl.gz",
+    "asset_sha256": "de019652a61b594f3e87dfa34b118abbce45371cdfdfdacf316cec2f3c3222a9",
+    "published_at": "2026-10-27T16:25:10Z"
+  }
 }

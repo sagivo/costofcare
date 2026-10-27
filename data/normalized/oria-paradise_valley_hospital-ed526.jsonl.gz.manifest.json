@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-paradise_valley_hospital-ed526__d92640e12afbbef8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-paradise_valley_hospital-ed526__d92640e12afbbef8.jsonl.gz",
+    "asset_sha256": "d92640e12afbbef8a22261c1f781d9be399cd0239515780bf711376cffa7a187",
+    "published_at": "2026-10-27T16:23:01Z"
+  }
 }

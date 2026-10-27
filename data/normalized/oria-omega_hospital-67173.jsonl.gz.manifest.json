@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-omega_hospital-67173__5fc31d5b5f80db08.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-omega_hospital-67173__5fc31d5b5f80db08.jsonl.gz",
+    "asset_sha256": "5fc31d5b5f80db08333095e2740391650a928d390fbc4f38e1a27b5e6244d66c",
+    "published_at": "2026-10-27T16:20:14Z"
+  }
 }

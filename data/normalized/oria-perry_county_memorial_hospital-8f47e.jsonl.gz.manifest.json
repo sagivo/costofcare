@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 19791,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-68",
+    "asset_name": "oria-perry_county_memorial_hospital-8f47e__68e2fbe975b27e7c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-68/oria-perry_county_memorial_hospital-8f47e__68e2fbe975b27e7c.jsonl.gz",
+    "asset_sha256": "68e2fbe975b27e7cf24df310dbc2457f2ff138954cc83f1fec12d742566ecf17",
+    "published_at": "2026-10-27T16:24:41Z"
+  }
 }

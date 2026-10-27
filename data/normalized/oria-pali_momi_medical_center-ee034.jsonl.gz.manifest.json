@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-22",
+    "asset_name": "oria-pali_momi_medical_center-ee034__22c6d6c5895fbae5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/oria-pali_momi_medical_center-ee034__22c6d6c5895fbae5.jsonl.gz",
+    "asset_sha256": "22c6d6c5895fbae5d28f946abfde6fd5f84377f1ca1b00e85863c50e5dcbfe50",
+    "published_at": "2026-10-27T16:20:51Z"
+  }
 }

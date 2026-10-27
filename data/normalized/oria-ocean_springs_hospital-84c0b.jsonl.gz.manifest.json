@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "oria-ocean_springs_hospital-84c0b__2bfbcf86b70f7ff5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-ocean_springs_hospital-84c0b__2bfbcf86b70f7ff5.jsonl.gz",
+    "asset_sha256": "2bfbcf86b70f7ff5a0cb966829f5eb9dea52a1cf6fdfca4a96d485644ec434c1",
+    "published_at": "2026-10-27T16:19:52Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8b",
+    "asset_name": "oria-peninsula_behavioral_health-4aded__8b6749ce970d4429.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8b/oria-peninsula_behavioral_health-4aded__8b6749ce970d4429.jsonl.gz",
+    "asset_sha256": "8b6749ce970d44291aae7f569d9687eaa6cc70daa02d3107a52515f4055e515d",
+    "published_at": "2026-10-27T16:24:15Z"
+  }
 }

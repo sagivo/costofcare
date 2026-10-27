@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6a",
+    "asset_name": "oria-palm_bay_hospital-c3177__6a0de5e46b81df80.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6a/oria-palm_bay_hospital-c3177__6a0de5e46b81df80.jsonl.gz",
+    "asset_sha256": "6a0de5e46b81df80781c8a466913d8bdd56ab011e9a447331a0117dd5144670b",
+    "published_at": "2026-10-27T16:20:53Z"
+  }
 }

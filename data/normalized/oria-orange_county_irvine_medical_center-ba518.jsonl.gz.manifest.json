@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-76",
+    "asset_name": "oria-orange_county_irvine_medical_center-ba518__76885ae2d8e0e4d7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/oria-orange_county_irvine_medical_center-ba518__76885ae2d8e0e4d7.jsonl.gz",
+    "asset_sha256": "76885ae2d8e0e4d74b12f8171f2e14149b6dfc9afbfe57fc07305fa4acf32f39",
+    "published_at": "2026-10-27T16:20:30Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bf",
+    "asset_name": "oria-ochiltree_general_hospital-7c8ac__bf16d210a7d1c8d0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bf/oria-ochiltree_general_hospital-7c8ac__bf16d210a7d1c8d0.jsonl.gz",
+    "asset_sha256": "bf16d210a7d1c8d072a416d151affec300f0bb2aef3918f1b519248b2d50da30",
+    "published_at": "2026-10-27T16:19:55Z"
+  }
 }

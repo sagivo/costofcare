@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-parkwest_medical_center-71d7d__82ac8535472be09c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-parkwest_medical_center-71d7d__82ac8535472be09c.jsonl.gz",
+    "asset_sha256": "82ac8535472be09c35fadf1eee0ad0a66d8de5ee1a0d9a334b14f3a923c7d7f6",
+    "published_at": "2026-10-27T16:23:38Z"
+  }
 }

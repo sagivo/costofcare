@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "oria-opelousas_general_health_system-9a039__03711f806736469e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/oria-opelousas_general_health_system-9a039__03711f806736469e.jsonl.gz",
+    "asset_sha256": "03711f806736469ec0e126aff4c0de0896b9f21b46d0857ae1f34330d0a2d4e9",
+    "published_at": "2026-10-27T16:20:19Z"
+  }
 }

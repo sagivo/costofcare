@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3786",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-park_place_surgical_hospital-79335__5e9beb2477a9ab47.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-park_place_surgical_hospital-79335__5e9beb2477a9ab47.jsonl.gz",
+    "asset_sha256": "5e9beb2477a9ab47ab454c645c320a81ba413138218c5cb1c58bf113c1221acd",
+    "published_at": "2026-10-27T16:23:04Z"
+  }
 }

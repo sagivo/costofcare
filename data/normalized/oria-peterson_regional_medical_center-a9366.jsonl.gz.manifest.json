@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-14",
+    "asset_name": "oria-peterson_regional_medical_center-a9366__14e319454ccb9c26.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-14/oria-peterson_regional_medical_center-a9366__14e319454ccb9c26.jsonl.gz",
+    "asset_sha256": "14e319454ccb9c2613b4acf1a0af0b2f425ab2af905c4d2bc23d9edc140c92c7",
+    "published_at": "2026-10-27T16:24:51Z"
+  }
 }

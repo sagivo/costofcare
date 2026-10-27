@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6f",
+    "asset_name": "oria-parkview_montpelier_hospital-dd530__6f81a5867144b5eb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6f/oria-parkview_montpelier_hospital-dd530__6f81a5867144b5eb.jsonl.gz",
+    "asset_sha256": "6f81a5867144b5eb21d559130de955b8760d7550916256d0c8aaff5f7c8566c8",
+    "published_at": "2026-10-27T16:23:28Z"
+  }
 }

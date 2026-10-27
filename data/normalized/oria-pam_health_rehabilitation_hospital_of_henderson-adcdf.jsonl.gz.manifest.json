@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "oria-pam_health_rehabilitation_hospital_of_henderson-adcdf__43b0651b12279d23.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-pam_health_rehabilitation_hospital_of_henderson-adcdf__43b0651b12279d23.jsonl.gz",
+    "asset_sha256": "43b0651b12279d2348f92412cd47a61aa6ae4778bdd1c638a4d2145b131fde71",
+    "published_at": "2026-10-27T16:21:23Z"
+  }
 }

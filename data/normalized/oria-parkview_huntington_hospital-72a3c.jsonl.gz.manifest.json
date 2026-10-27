@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "oria-parkview_huntington_hospital-72a3c__1cca5ee8f3a05b42.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-parkview_huntington_hospital-72a3c__1cca5ee8f3a05b42.jsonl.gz",
+    "asset_sha256": "1cca5ee8f3a05b427132922396c3e5a918a2b103731192249e6a824dd14cf33d",
+    "published_at": "2026-10-27T16:23:18Z"
+  }
 }

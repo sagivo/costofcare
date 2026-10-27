@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1a",
+    "asset_name": "oria-norton_clark_hospital-0b146__1a52c8ed29850dcd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/oria-norton_clark_hospital-0b146__1a52c8ed29850dcd.jsonl.gz",
+    "asset_sha256": "1a52c8ed29850dcd18cb50d18e1e303479528609f582eb60d2f9977ebcc0d74a",
+    "published_at": "2026-10-27T16:19:34Z"
+  }
 }

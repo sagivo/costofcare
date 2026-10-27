@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d4",
+    "asset_name": "oria-parkview_bryan_hospital-ba52e__d4fe3c796615a9b5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/oria-parkview_bryan_hospital-ba52e__d4fe3c796615a9b5.jsonl.gz",
+    "asset_sha256": "d4fe3c796615a9b59835d107777ebed0c27848c54cbd338a19435bb063b6149d",
+    "published_at": "2026-10-27T16:23:12Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-pam_health_rehabilitation_hospital_northeast_san_antonio-10d8d__0253a6d1995e4e1b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-pam_health_rehabilitation_hospital_northeast_san_antonio-10d8d__0253a6d1995e4e1b.jsonl.gz",
+    "asset_sha256": "0253a6d1995e4e1b7d458c39bac5efe2b54ae7456b47428219e8fe0c7323e776",
+    "published_at": "2026-10-27T16:21:07Z"
+  }
 }

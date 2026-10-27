@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-87",
+    "asset_name": "oria-pecos_county_memorial_hospital-515c5__875aa2a4911aecd9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-pecos_county_memorial_hospital-515c5__875aa2a4911aecd9.jsonl.gz",
+    "asset_sha256": "875aa2a4911aecd90112bd70958e529dd76d079ba20f9ed626e082909b85c993",
+    "published_at": "2026-10-27T16:24:04Z"
+  }
 }

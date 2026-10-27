@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-08",
+    "asset_name": "oria-ottumwa_regional_health_center-52190__08f04b60a596f7af.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/oria-ottumwa_regional_health_center-52190__08f04b60a596f7af.jsonl.gz",
+    "asset_sha256": "08f04b60a596f7af2efe050ca95a464deb477c2649a223b14c4b1d2521fe9647",
+    "published_at": "2026-10-27T16:20:43Z"
+  }
 }

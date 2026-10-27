@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-de",
+    "asset_name": "oria-pam_health_specialty_hospital_of_oklahoma_city-30ce1__deae56e3e836b987.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/oria-pam_health_specialty_hospital_of_oklahoma_city-30ce1__deae56e3e836b987.jsonl.gz",
+    "asset_sha256": "deae56e3e836b9872628ee27f28fc17800a7f71e6d06a6959867f8a67260deaa",
+    "published_at": "2026-10-27T16:21:53Z"
+  }
 }

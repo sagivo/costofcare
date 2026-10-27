@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-parkview_ortho_hospital-0f64d__85a6796c6feeadad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-parkview_ortho_hospital-0f64d__85a6796c6feeadad.jsonl.gz",
+    "asset_sha256": "85a6796c6feeadadb3661759d66dbc290bd7a317e724c9827ea22cf64794fb56",
+    "published_at": "2026-10-27T16:23:33Z"
+  }
 }

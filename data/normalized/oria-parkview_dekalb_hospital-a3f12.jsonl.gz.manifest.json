@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-53",
+    "asset_name": "oria-parkview_dekalb_hospital-a3f12__5340eb750ae3dd21.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/oria-parkview_dekalb_hospital-a3f12__5340eb750ae3dd21.jsonl.gz",
+    "asset_sha256": "5340eb750ae3dd212cf37eb28689fc4e7b3add565f5e1e9507b73802701c95bc",
+    "published_at": "2026-10-27T16:23:15Z"
+  }
 }

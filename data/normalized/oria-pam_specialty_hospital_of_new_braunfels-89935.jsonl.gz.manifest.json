@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c5",
+    "asset_name": "oria-pam_specialty_hospital_of_new_braunfels-89935__c5a51b18d3717c02.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c5/oria-pam_specialty_hospital_of_new_braunfels-89935__c5a51b18d3717c02.jsonl.gz",
+    "asset_sha256": "c5a51b18d3717c02277f644b3473ca24bae8434f4aced129706a9eaca032ba15",
+    "published_at": "2026-10-27T16:22:38Z"
+  }
 }

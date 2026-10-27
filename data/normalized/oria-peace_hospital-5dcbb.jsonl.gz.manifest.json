@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2e",
+    "asset_name": "oria-peace_hospital-5dcbb__2e96185098962342.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-peace_hospital-5dcbb__2e96185098962342.jsonl.gz",
+    "asset_sha256": "2e96185098962342a3a8dd1231974e82f5947a7894d131e7ad9e20412ebc155b",
+    "published_at": "2026-10-27T16:23:56Z"
+  }
 }

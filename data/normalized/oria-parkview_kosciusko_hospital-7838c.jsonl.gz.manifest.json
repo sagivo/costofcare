@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e5",
+    "asset_name": "oria-parkview_kosciusko_hospital-7838c__e5e7573a316ea1e9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-parkview_kosciusko_hospital-7838c__e5e7573a316ea1e9.jsonl.gz",
+    "asset_sha256": "e5e7573a316ea1e9e71bf129009efb4546ba3182d0b16d73b14938baab71ebb6",
+    "published_at": "2026-10-27T16:23:21Z"
+  }
 }

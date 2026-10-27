@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e3",
+    "asset_name": "oria-pam_health_rehabilitation_hospital_of_golden-058ae__e37b6648739b6f9a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/oria-pam_health_rehabilitation_hospital_of_golden-058ae__e37b6648739b6f9a.jsonl.gz",
+    "asset_sha256": "e37b6648739b6f9a0accb573b60953f596ba303170aaa90cf11f437e79af5d0d",
+    "published_at": "2026-10-27T16:21:15Z"
+  }
 }

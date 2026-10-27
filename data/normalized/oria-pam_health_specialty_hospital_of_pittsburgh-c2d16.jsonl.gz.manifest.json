@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-pam_health_specialty_hospital_of_pittsburgh-c2d16__8fcec02a486807d7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-pam_health_specialty_hospital_of_pittsburgh-c2d16__8fcec02a486807d7.jsonl.gz",
+    "asset_sha256": "8fcec02a486807d7b301ad3dd6ad2110bfdc27c7b83d886a182a79ffd67cd2ba",
+    "published_at": "2026-10-27T16:21:56Z"
+  }
 }

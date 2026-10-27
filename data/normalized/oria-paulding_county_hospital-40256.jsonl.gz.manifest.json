@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "oria-paulding_county_hospital-40256__61c80d9f60a848cc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-paulding_county_hospital-40256__61c80d9f60a848cc.jsonl.gz",
+    "asset_sha256": "61c80d9f60a848cc8cb50af8aa7357878e88daa99776e014240597ec85094d83",
+    "published_at": "2026-10-27T16:23:48Z"
+  }
 }

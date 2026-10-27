@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9f",
+    "asset_name": "oria-pam_health_rehabilitation_hospital_of_sugar_land-0af94__9fc141d24976a1e3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/oria-pam_health_rehabilitation_hospital_of_sugar_land-0af94__9fc141d24976a1e3.jsonl.gz",
+    "asset_sha256": "9fc141d24976a1e30b0c2d0c982b33185a0d486fb4f3ac2f1dd6d229b64fefcc",
+    "published_at": "2026-10-27T16:21:36Z"
+  }
 }

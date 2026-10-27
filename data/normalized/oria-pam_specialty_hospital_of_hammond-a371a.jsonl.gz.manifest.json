@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-pam_specialty_hospital_of_hammond-a371a__6d4c1001999d34fe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-pam_specialty_hospital_of_hammond-a371a__6d4c1001999d34fe.jsonl.gz",
+    "asset_sha256": "6d4c1001999d34fe526d063a8da09a06728230bdd49ea131e9d262b797f77c12",
+    "published_at": "2026-10-27T16:22:33Z"
+  }
 }

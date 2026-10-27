@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-10-27T15:34:14.615448+00:00",
+  "generated_at": "2026-10-27T16:41:36.173388+00:00",
   "normalized_files": 2750,
   "parser_versions": {
-    "row-preserving-1.2": 1518,
-    "row-preserving-1.3": 1231,
+    "row-preserving-1.2": 1399,
+    "row-preserving-1.3": 1350,
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 2510,
-    "within_24h": 240
+    "1_to_7_days": 2391,
+    "within_24h": 359
   },
   "failed_attempt_classes": {
     "strict_encoding": 6,
-    "http_429": 1
+    "http_429": 1,
+    "other": 1
   },
   "summary_hash_missing_count": 1,
   "summary_normalized_hash_differences": [
@@ -25,9 +26,9 @@
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251737079_canonsburg-general-hospital_standardcharges.csv",
-      "normalized_sha256": "56d7a47cdb3441ef315d6a698e853998a2c853d6d2cb7a96598f6a9f3a51ded5",
+      "normalized_sha256": "1615f7d1e81acf0993beb83eeefa5e26bd8e67db5211ba051ecb14096314618b",
       "summary_sha256": "59e7a08ffd72d4c334f77b7df7be04caaf26e9200d04cb3c0727f4ee3bf08dae",
-      "normalized_extracted_at": "2026-10-22T10:27:23Z",
+      "normalized_extracted_at": "2026-10-27T16:05:10Z",
       "summary_extracted_at": "2026-10-26T17:12:56Z"
     },
     {

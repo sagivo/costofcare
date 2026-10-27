@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-da",
+    "asset_name": "oria-pam_rehabilitation_hospital_of_tulsa-fc7d3__dab1695ef67a6bdf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-da/oria-pam_rehabilitation_hospital_of_tulsa-fc7d3__dab1695ef67a6bdf.jsonl.gz",
+    "asset_sha256": "dab1695ef67a6bdfd4b310024981341ce91d353a3099906305b08343407c65d8",
+    "published_at": "2026-10-27T16:22:22Z"
+  }
 }

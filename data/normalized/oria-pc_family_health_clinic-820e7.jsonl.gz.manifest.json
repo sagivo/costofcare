@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-pc_family_health_clinic-820e7__05dfc909428ee3b0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-pc_family_health_clinic-820e7__05dfc909428ee3b0.jsonl.gz",
+    "asset_sha256": "05dfc909428ee3b075b02e23aa591cc8a06d02c868c7e4c803459bd9ed5b1799",
+    "published_at": "2026-10-27T16:23:53Z"
+  }
 }

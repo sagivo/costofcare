@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-04",
+    "asset_name": "oria-pam_rehabilitation_hospital_of_victoria-b563d__04ed07f202d8e25b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-04/oria-pam_rehabilitation_hospital_of_victoria-b563d__04ed07f202d8e25b.jsonl.gz",
+    "asset_sha256": "04ed07f202d8e25b1901bc6f81c0df042988a6783dad7268982bee111e3fdb41",
+    "published_at": "2026-10-27T16:22:25Z"
+  }
 }

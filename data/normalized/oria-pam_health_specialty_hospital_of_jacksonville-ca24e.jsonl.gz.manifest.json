@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-pam_health_specialty_hospital_of_jacksonville-ca24e__5fce3225a252924d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-pam_health_specialty_hospital_of_jacksonville-ca24e__5fce3225a252924d.jsonl.gz",
+    "asset_sha256": "5fce3225a252924db3fd1c003ee5f6a6b9052830aa475f61e6416d8ee0f24445",
+    "published_at": "2026-10-27T16:21:49Z"
+  }
 }

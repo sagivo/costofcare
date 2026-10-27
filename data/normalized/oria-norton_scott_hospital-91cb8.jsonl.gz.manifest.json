@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-17",
+    "asset_name": "oria-norton_scott_hospital-91cb8__17562cfd4c8fb605.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oria-norton_scott_hospital-91cb8__17562cfd4c8fb605.jsonl.gz",
+    "asset_sha256": "17562cfd4c8fb605b5c849872b280303253e7126a8fabdfaf8406d53d371bbc7",
+    "published_at": "2026-10-27T16:19:41Z"
+  }
 }

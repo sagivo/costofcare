@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5315",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "oria-palmdale_regional_medical_center-a9598__2b56cd2da9971253.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-palmdale_regional_medical_center-a9598__2b56cd2da9971253.jsonl.gz",
+    "asset_sha256": "2b56cd2da99712535037a7826a1e09e77bae9d3dba648f4a60ce9057bc19a62b",
+    "published_at": "2026-10-27T16:20:57Z"
+  }
 }

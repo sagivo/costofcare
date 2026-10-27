@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-37",
+    "asset_name": "oria-piedmont_cartersville-143b2__37e2f1c762c982ca.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-piedmont_cartersville-143b2__37e2f1c762c982ca.jsonl.gz",
+    "asset_sha256": "37e2f1c762c982ca5c5501f9b50cc452a8f558f679a1ee51960371d201698113",
+    "published_at": "2026-10-27T16:25:20Z"
+  }
 }

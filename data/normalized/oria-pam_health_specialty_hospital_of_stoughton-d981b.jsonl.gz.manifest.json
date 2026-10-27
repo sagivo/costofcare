@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-94",
+    "asset_name": "oria-pam_health_specialty_hospital_of_stoughton-d981b__944a42c3cf580467.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-94/oria-pam_health_specialty_hospital_of_stoughton-d981b__944a42c3cf580467.jsonl.gz",
+    "asset_sha256": "944a42c3cf5804678d845391bdce5b96369a999f07a95ccb14c64bbd5349de69",
+    "published_at": "2026-10-27T16:22:01Z"
+  }
 }

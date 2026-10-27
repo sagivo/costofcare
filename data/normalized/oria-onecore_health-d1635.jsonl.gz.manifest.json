@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-01",
+    "asset_name": "oria-onecore_health-d1635__015e835da8de6cf6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-01/oria-onecore_health-d1635__015e835da8de6cf6.jsonl.gz",
+    "asset_sha256": "015e835da8de6cf6f3d35b43ede9cf6c6897c3069687ce10670cb9a64a19009b",
+    "published_at": "2026-10-27T16:20:17Z"
+  }
 }

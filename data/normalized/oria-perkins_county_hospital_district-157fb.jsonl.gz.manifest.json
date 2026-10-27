@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "oria-perkins_county_hospital_district-157fb__71b37073d34b489b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-perkins_county_hospital_district-157fb__71b37073d34b489b.jsonl.gz",
+    "asset_sha256": "71b37073d34b489bf79f931f3145a319f21aab734ed9c87bdb75be797a5a6f6d",
+    "published_at": "2026-10-27T16:24:35Z"
+  }
 }
