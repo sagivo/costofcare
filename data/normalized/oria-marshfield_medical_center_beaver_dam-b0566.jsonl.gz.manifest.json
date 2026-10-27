@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-marshfield_medical_center_beaver_dam-b0566__b4aa0d6f5028ad7c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-marshfield_medical_center_beaver_dam-b0566__b4aa0d6f5028ad7c.jsonl.gz",
+    "asset_sha256": "b4aa0d6f5028ad7c8597d076d71b724c743ec1a4e9e03a268f082919f5eaf0d8",
+    "published_at": "2026-10-27T02:09:32Z"
+  }
 }

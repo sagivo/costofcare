@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-longview_regional_medical_center-fead4__02b48dac3ecf56c5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-longview_regional_medical_center-fead4__02b48dac3ecf56c5.jsonl.gz",
+    "asset_sha256": "02b48dac3ecf56c5387e9bf6aa1c8eaba01083cbc30dcfdd4a6c70165d324717",
+    "published_at": "2026-10-27T02:07:41Z"
+  }
 }

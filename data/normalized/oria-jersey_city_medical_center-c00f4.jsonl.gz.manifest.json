@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b8",
+    "asset_name": "oria-jersey_city_medical_center-c00f4__b82de491ceed9a3c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b8/oria-jersey_city_medical_center-c00f4__b82de491ceed9a3c.jsonl.gz",
+    "asset_sha256": "b82de491ceed9a3cab8be4d51c56507f103f7d96ebe2caedefa099f20995aece",
+    "published_at": "2026-10-27T02:04:44Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "oria-lourdes_counseling_center-9925f__fcb22a07ce65efb3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-lourdes_counseling_center-9925f__fcb22a07ce65efb3.jsonl.gz",
+    "asset_sha256": "fcb22a07ce65efb3e2a4a35c187b2f06adec43fb31aa996252a1df7f92457804",
+    "published_at": "2026-10-27T02:08:04Z"
+  }
 }

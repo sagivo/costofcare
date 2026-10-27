@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-96",
+    "asset_name": "oria-kansas_surgery_recovery_center_llc-6da79__96fc609bc5dc1072.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-96/oria-kansas_surgery_recovery_center_llc-6da79__96fc609bc5dc1072.jsonl.gz",
+    "asset_sha256": "96fc609bc5dc10720cbc2a8b846cd6571ca97209d197c58c9ed1960f2e047297",
+    "published_at": "2026-10-27T02:05:19Z"
+  }
 }

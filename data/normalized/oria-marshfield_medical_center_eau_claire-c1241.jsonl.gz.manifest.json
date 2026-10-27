@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-marshfield_medical_center_eau_claire-c1241__26800a5c0a5647f0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-marshfield_medical_center_eau_claire-c1241__26800a5c0a5647f0.jsonl.gz",
+    "asset_sha256": "26800a5c0a5647f0163f50c19940bc27566e6d0554ef7931ce130a8580469f0c",
+    "published_at": "2026-10-27T02:09:37Z"
+  }
 }

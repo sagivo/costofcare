@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-93",
+    "asset_name": "oria-madison_county_memorial_hospital-1a354__933d7e4e2fae4a50.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-93/oria-madison_county_memorial_hospital-1a354__933d7e4e2fae4a50.jsonl.gz",
+    "asset_sha256": "933d7e4e2fae4a50835e07274513c3f41d682a075d679ace82c87265dfded5ab",
+    "published_at": "2026-10-27T02:08:38Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-51",
+    "asset_name": "oria-jane_todd_crawford_hospital-e1559__5133413c14f3a41a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-51/oria-jane_todd_crawford_hospital-e1559__5133413c14f3a41a.jsonl.gz",
+    "asset_sha256": "5133413c14f3a41ad83287e31f27b446996e49ebc4db0d5dc9ba5a48e385fdcf",
+    "published_at": "2026-10-27T02:04:22Z"
+  }
 }

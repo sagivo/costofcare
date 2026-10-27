@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "oria-kula_hospital-8d12e__314b5f6e8bbb438c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-kula_hospital-8d12e__314b5f6e8bbb438c.jsonl.gz",
+    "asset_sha256": "314b5f6e8bbb438c1bf52f384f5507a33306bda905e7acaa9140289dd2c814aa",
+    "published_at": "2026-10-27T02:06:02Z"
+  }
 }

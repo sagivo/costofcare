@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-jps_health_network-17cc4__02cc15140d576c65.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-jps_health_network-17cc4__02cc15140d576c65.jsonl.gz",
+    "asset_sha256": "02cc15140d576c656a58a0b719b0e10178638015fab6b31d035c807d551d0306",
+    "published_at": "2026-10-27T02:05:08Z"
+  }
 }

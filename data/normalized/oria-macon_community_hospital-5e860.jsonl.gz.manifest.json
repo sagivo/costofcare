@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5735",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-66",
+    "asset_name": "oria-macon_community_hospital-5e860__66283ea858dcedde.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/oria-macon_community_hospital-5e860__66283ea858dcedde.jsonl.gz",
+    "asset_sha256": "66283ea858dcedde5f3444d129653d7aeedabf08ea07b12448ecbd0603aee0c3",
+    "published_at": "2026-10-27T02:08:36Z"
+  }
 }

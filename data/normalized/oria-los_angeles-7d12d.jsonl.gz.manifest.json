@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-los_angeles-7d12d__85a5b57138367682.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-los_angeles-7d12d__85a5b57138367682.jsonl.gz",
+    "asset_sha256": "85a5b57138367682c1ff9594555929b9eff7726e3f996160feff6b0b2b851ebb",
+    "published_at": "2026-10-27T02:07:52Z"
+  }
 }

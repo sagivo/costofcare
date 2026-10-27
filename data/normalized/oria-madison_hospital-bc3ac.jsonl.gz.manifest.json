@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-78",
+    "asset_name": "oria-madison_hospital-bc3ac__781261ab63d48d9e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-78/oria-madison_hospital-bc3ac__781261ab63d48d9e.jsonl.gz",
+    "asset_sha256": "781261ab63d48d9eff776a7fce8ce667a820f8a36da57869444fd03573b6459b",
+    "published_at": "2026-10-27T02:08:42Z"
+  }
 }

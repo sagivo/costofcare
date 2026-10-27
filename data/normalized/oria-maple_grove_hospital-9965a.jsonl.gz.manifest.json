@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-38",
+    "asset_name": "oria-maple_grove_hospital-9965a__381038129dd7a097.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-38/oria-maple_grove_hospital-9965a__381038129dd7a097.jsonl.gz",
+    "asset_sha256": "381038129dd7a097ac6d29592d0578ca93deb979a640cda9b95e553634707749",
+    "published_at": "2026-10-27T02:09:03Z"
+  }
 }

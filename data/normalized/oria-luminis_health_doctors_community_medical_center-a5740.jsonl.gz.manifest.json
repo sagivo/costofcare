@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-18",
+    "asset_name": "oria-luminis_health_doctors_community_medical_center-a5740__188950a8d0c021f0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-18/oria-luminis_health_doctors_community_medical_center-a5740__188950a8d0c021f0.jsonl.gz",
+    "asset_sha256": "188950a8d0c021f0f59295c162fe38598f3af074c80db8a918480cadfc31f2d0",
+    "published_at": "2026-10-27T02:08:29Z"
+  }
 }

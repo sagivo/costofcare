@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-50",
+    "asset_name": "oria-luminis_health_anne_arundel_medical_center-7e528__5082b9c54ab76743.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/oria-luminis_health_anne_arundel_medical_center-7e528__5082b9c54ab76743.jsonl.gz",
+    "asset_sha256": "5082b9c54ab76743c4bfad2c48f7781b6385033d2f4442f34c2b57b2e14c5c67",
+    "published_at": "2026-10-27T02:08:26Z"
+  }
 }

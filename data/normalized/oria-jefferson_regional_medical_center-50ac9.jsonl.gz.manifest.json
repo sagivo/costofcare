@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a9",
+    "asset_name": "oria-jefferson_regional_medical_center-50ac9__a9c3f8d76906c293.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/oria-jefferson_regional_medical_center-50ac9__a9c3f8d76906c293.jsonl.gz",
+    "asset_sha256": "a9c3f8d76906c29385aab066e56b59a96a76c9513e8df87095170da59b34cf7a",
+    "published_at": "2026-10-27T02:04:39Z"
+  }
 }

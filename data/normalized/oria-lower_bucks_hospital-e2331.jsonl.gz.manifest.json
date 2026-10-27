@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "oria-lower_bucks_hospital-e2331__29e30be1ecdcde7e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/oria-lower_bucks_hospital-e2331__29e30be1ecdcde7e.jsonl.gz",
+    "asset_sha256": "29e30be1ecdcde7e9c752687d7a8586a4f40531bdd65f463dbdf0a050a451157",
+    "published_at": "2026-10-27T02:08:18Z"
+  }
 }

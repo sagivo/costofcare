@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-los_angeles_sunset_medical_center-193a9__efa950d0066dd2ec.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-los_angeles_sunset_medical_center-193a9__efa950d0066dd2ec.jsonl.gz",
+    "asset_sha256": "efa950d0066dd2ec1d1a762cddf65c5789e2f3453a2f0e29b5b29ee9206bc4fc",
+    "published_at": "2026-10-27T02:07:57Z"
+  }
 }

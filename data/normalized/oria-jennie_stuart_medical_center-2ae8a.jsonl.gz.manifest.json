@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c6",
+    "asset_name": "oria-jennie_stuart_medical_center-2ae8a__c6a07f7f36dc9749.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c6/oria-jennie_stuart_medical_center-2ae8a__c6a07f7f36dc9749.jsonl.gz",
+    "asset_sha256": "c6a07f7f36dc9749b12ee91b4add8ca399615ed58784c5828f64ff35147a5cc0",
+    "published_at": "2026-10-27T02:04:42Z"
+  }
 }

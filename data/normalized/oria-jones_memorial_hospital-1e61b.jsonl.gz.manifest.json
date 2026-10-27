@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 3516",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-80",
+    "asset_name": "oria-jones_memorial_hospital-1e61b__80eb318499d875b9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-80/oria-jones_memorial_hospital-1e61b__80eb318499d875b9.jsonl.gz",
+    "asset_sha256": "80eb318499d875b9b58f059b48f7185a4c699c5c7d8b758f2a1cd8ae512d79a5",
+    "published_at": "2026-10-27T02:05:05Z"
+  }
 }

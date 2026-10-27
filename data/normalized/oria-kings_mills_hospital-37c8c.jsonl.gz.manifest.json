@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-16",
+    "asset_name": "oria-kings_mills_hospital-37c8c__162381718df7c733.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/oria-kings_mills_hospital-37c8c__162381718df7c733.jsonl.gz",
+    "asset_sha256": "162381718df7c733660e7bac407ee675c5943539da60bdf5c62ea02cd64f093d",
+    "published_at": "2026-10-27T02:05:48Z"
+  }
 }

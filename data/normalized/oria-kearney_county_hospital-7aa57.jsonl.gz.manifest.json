@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-kearney_county_hospital-7aa57__0f8257816f546562.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-kearney_county_hospital-7aa57__0f8257816f546562.jsonl.gz",
+    "asset_sha256": "0f8257816f546562d80edda7ca43f3d69fa6a403eb5c8262d011bfe4c204d110",
+    "published_at": "2026-10-27T02:05:32Z"
+  }
 }

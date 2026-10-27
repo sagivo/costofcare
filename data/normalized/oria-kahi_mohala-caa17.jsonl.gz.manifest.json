@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-23",
+    "asset_name": "oria-kahi_mohala-caa17__23d566e3c2032db3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-23/oria-kahi_mohala-caa17__23d566e3c2032db3.jsonl.gz",
+    "asset_sha256": "23d566e3c2032db3de3558d603a4b3947c948933ad33c78a6b91df53eb61654e",
+    "published_at": "2026-10-27T02:05:12Z"
+  }
 }

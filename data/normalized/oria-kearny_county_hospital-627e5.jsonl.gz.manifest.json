@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4211",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-kearny_county_hospital-627e5__5c4569b3143dfb1f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-kearny_county_hospital-627e5__5c4569b3143dfb1f.jsonl.gz",
+    "asset_sha256": "5c4569b3143dfb1fdd5acd48e313b1eb6497dcab0e97a8b198b2dec7362500d8",
+    "published_at": "2026-10-27T02:05:35Z"
+  }
 }

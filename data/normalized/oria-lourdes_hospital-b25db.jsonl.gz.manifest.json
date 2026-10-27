@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-lourdes_hospital-b25db__6d7bb8a21a3b2979.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-lourdes_hospital-b25db__6d7bb8a21a3b2979.jsonl.gz",
+    "asset_sha256": "6d7bb8a21a3b2979d73ca0d71dfebd34ff1782ea034ee4b72fff5684cebc7215",
+    "published_at": "2026-10-27T02:08:06Z"
+  }
 }

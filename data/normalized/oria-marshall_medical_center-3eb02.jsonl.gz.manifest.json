@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-marshall_medical_center-3eb02__0f8e52c26d31ba88.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-marshall_medical_center-3eb02__0f8e52c26d31ba88.jsonl.gz",
+    "asset_sha256": "0f8e52c26d31ba880b534b35fe44d23c2ca7d38045a35dd1c96668d8818e78f9",
+    "published_at": "2026-10-27T02:09:23Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f8",
+    "asset_name": "oria-linton_regional_medical_center-77e4d__f863ca3bea0fc2d1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f8/oria-linton_regional_medical_center-77e4d__f863ca3bea0fc2d1.jsonl.gz",
+    "asset_sha256": "f863ca3bea0fc2d11813b3832088a75073d157cfa755507e37f765cd822d77c1",
+    "published_at": "2026-10-27T02:07:31Z"
+  }
 }

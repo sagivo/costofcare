@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-kaweah_health_rehabilitation_hospital-5e629__265131aa40ee56a1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-kaweah_health_rehabilitation_hospital-5e629__265131aa40ee56a1.jsonl.gz",
+    "asset_sha256": "265131aa40ee56a18f0c7e526a50cbdad1ef8925a41d5566faf15a2b962c5cb9",
+    "published_at": "2026-10-27T02:05:30Z"
+  }
 }

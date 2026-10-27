@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "oria-marcum_wallace_hospital-0f78e__dc91c85c2059e95f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-marcum_wallace_hospital-0f78e__dc91c85c2059e95f.jsonl.gz",
+    "asset_sha256": "dc91c85c2059e95fad20a7928be006a2e3e3fd5c36e642b0f49014a13367ea94",
+    "published_at": "2026-10-27T02:09:05Z"
+  }
 }

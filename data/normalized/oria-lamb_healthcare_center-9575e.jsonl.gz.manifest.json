@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-28",
+    "asset_name": "oria-lamb_healthcare_center-9575e__28a75404b6f81f82.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-28/oria-lamb_healthcare_center-9575e__28a75404b6f81f82.jsonl.gz",
+    "asset_sha256": "28a75404b6f81f82d8ee6d89324a3614254e7282681545743a9bb8f7ea50a39b",
+    "published_at": "2026-10-27T02:06:35Z"
+  }
 }

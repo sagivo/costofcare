@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7302",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-jefferson_community_health_life-de7f1__77b4f04941736560.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-jefferson_community_health_life-de7f1__77b4f04941736560.jsonl.gz",
+    "asset_sha256": "77b4f04941736560059d51d7d84c1ebb20f87cd8f6b5f5ce0811da4962ec9153",
+    "published_at": "2026-10-27T02:04:29Z"
+  }
 }

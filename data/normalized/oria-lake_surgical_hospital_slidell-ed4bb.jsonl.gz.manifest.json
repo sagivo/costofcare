@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7d",
+    "asset_name": "oria-lake_surgical_hospital_slidell-ed4bb__7d4a1c70ff400bc7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-lake_surgical_hospital_slidell-ed4bb__7d4a1c70ff400bc7.jsonl.gz",
+    "asset_sha256": "7d4a1c70ff400bc74cdf8601fd714500577103ca074d3baa818129e18b0471c6",
+    "published_at": "2026-10-27T02:06:25Z"
+  }
 }

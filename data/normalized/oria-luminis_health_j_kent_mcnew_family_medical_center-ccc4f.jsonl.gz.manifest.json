@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "oria-luminis_health_j_kent_mcnew_family_medical_center-ccc4f__fcc8eb26d70cebd9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-luminis_health_j_kent_mcnew_family_medical_center-ccc4f__fcc8eb26d70cebd9.jsonl.gz",
+    "asset_sha256": "fcc8eb26d70cebd9eef2dee8226d16ea651d85c4cc54d7f571b5b76aa1395c5f",
+    "published_at": "2026-10-27T02:08:31Z"
+  }
 }

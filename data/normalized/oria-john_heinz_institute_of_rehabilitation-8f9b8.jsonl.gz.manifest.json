@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 7327",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-df",
+    "asset_name": "oria-john_heinz_institute_of_rehabilitation-8f9b8__df0f7ef09d2c7e26.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/oria-john_heinz_institute_of_rehabilitation-8f9b8__df0f7ef09d2c7e26.jsonl.gz",
+    "asset_sha256": "df0f7ef09d2c7e2667e9c0d0e7ac569096e3da795550dd114ee37cc328494089",
+    "published_at": "2026-10-27T02:04:54Z"
+  }
 }

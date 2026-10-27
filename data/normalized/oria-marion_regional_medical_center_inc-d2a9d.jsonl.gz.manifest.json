@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-marion_regional_medical_center_inc-d2a9d__02620a01fec8beb4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-marion_regional_medical_center_inc-d2a9d__02620a01fec8beb4.jsonl.gz",
+    "asset_sha256": "02620a01fec8beb41095be4faa9baad477aea7a662e02ac804b77749a2b31488",
+    "published_at": "2026-10-27T02:09:14Z"
+  }
 }

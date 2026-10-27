@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c4",
+    "asset_name": "oria-king_s_daughters_medical_center-fe492__c4b832ce4683f6f4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c4/oria-king_s_daughters_medical_center-fe492__c4b832ce4683f6f4.jsonl.gz",
+    "asset_sha256": "c4b832ce4683f6f42fae596951e7a4701215f763493f3e86790960dd3d55e741",
+    "published_at": "2026-10-27T02:05:44Z"
+  }
 }

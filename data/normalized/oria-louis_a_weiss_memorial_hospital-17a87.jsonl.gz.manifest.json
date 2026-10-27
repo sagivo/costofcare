@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7a",
+    "asset_name": "oria-louis_a_weiss_memorial_hospital-17a87__7aebcb42ca8b5a6c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7a/oria-louis_a_weiss_memorial_hospital-17a87__7aebcb42ca8b5a6c.jsonl.gz",
+    "asset_sha256": "7aebcb42ca8b5a6c1e26ce8c376466b322522e9752fd0ddf323933f5cd56cae6",
+    "published_at": "2026-10-27T02:07:59Z"
+  }
 }

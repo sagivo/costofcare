@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "oria-m_health_fairview_maple_grove_surgery_center-35ad5__f06749440076d985.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-m_health_fairview_maple_grove_surgery_center-35ad5__f06749440076d985.jsonl.gz",
+    "asset_sha256": "f06749440076d98547a18be243c2a79c3c9887735b44eb86f315dc99cf27412f",
+    "published_at": "2026-10-27T02:08:33Z"
+  }
 }

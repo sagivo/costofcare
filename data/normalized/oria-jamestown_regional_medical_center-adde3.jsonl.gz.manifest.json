@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-34",
+    "asset_name": "oria-jamestown_regional_medical_center-adde3__34aaed0c4ffce16a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-34/oria-jamestown_regional_medical_center-adde3__34aaed0c4ffce16a.jsonl.gz",
+    "asset_sha256": "34aaed0c4ffce16abd4c81492563cb16edfabf3c161b703bf6cd09a886870617",
+    "published_at": "2026-10-27T02:04:20Z"
+  }
 }

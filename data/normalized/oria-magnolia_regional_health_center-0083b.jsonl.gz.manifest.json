@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9c",
+    "asset_name": "oria-magnolia_regional_health_center-0083b__9c644d2089bf12e3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9c/oria-magnolia_regional_health_center-0083b__9c644d2089bf12e3.jsonl.gz",
+    "asset_sha256": "9c644d2089bf12e33ece265e77edd568acacf74569017689cdf0635ee150e89c",
+    "published_at": "2026-10-27T02:08:53Z"
+  }
 }

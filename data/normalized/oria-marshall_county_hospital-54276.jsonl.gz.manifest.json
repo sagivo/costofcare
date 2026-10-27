@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-91",
+    "asset_name": "oria-marshall_county_hospital-54276__91ccfbbf9a68710b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-91/oria-marshall_county_hospital-54276__91ccfbbf9a68710b.jsonl.gz",
+    "asset_sha256": "91ccfbbf9a68710bea366fb6f7ed379fb2b59e3f24c3cdc911b8531ff996a576",
+    "published_at": "2026-10-27T02:09:21Z"
+  }
 }

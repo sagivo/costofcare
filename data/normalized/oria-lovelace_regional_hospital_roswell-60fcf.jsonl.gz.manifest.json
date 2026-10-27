@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5b",
+    "asset_name": "oria-lovelace_regional_hospital_roswell-60fcf__5b58958385be086b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5b/oria-lovelace_regional_hospital_roswell-60fcf__5b58958385be086b.jsonl.gz",
+    "asset_sha256": "5b58958385be086b4398a8e6b32c9048e912a0a91ef05cca2b55802e48168481",
+    "published_at": "2026-10-27T02:08:08Z"
+  }
 }

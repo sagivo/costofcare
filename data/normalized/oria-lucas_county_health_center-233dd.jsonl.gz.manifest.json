@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "oria-lucas_county_health_center-233dd__0300865bbea90680.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/oria-lucas_county_health_center-233dd__0300865bbea90680.jsonl.gz",
+    "asset_sha256": "0300865bbea906804438160bff817b78833922bd47fd30ecb85361d9b5f40a1c",
+    "published_at": "2026-10-27T02:08:22Z"
+  }
 }

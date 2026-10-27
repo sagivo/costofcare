@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-76",
+    "asset_name": "oria-knox_county_hospital_district-4424f__76fb124915b8549b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/oria-knox_county_hospital_district-4424f__76fb124915b8549b.jsonl.gz",
+    "asset_sha256": "76fb124915b8549b0e47dc69602d04aed4653d246b034cfc3226bb62e3167270",
+    "published_at": "2026-10-27T02:05:57Z"
+  }
 }

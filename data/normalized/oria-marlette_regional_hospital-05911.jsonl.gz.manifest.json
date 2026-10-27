@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-marlette_regional_hospital-05911__b63489f7b3deaf3b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-marlette_regional_hospital-05911__b63489f7b3deaf3b.jsonl.gz",
+    "asset_sha256": "b63489f7b3deaf3b2fae9b23ee9e4b5d60f8580aa9e3361efe7a0333bd8f1a34",
+    "published_at": "2026-10-27T02:09:18Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6209",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "oria-los_angeles_general_medical_center-51fa4__817c464727e7c92d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-los_angeles_general_medical_center-51fa4__817c464727e7c92d.jsonl.gz",
+    "asset_sha256": "817c464727e7c92d2ef7c2ee6912edf54a33619d2f20ff7d61470634fa3ff660",
+    "published_at": "2026-10-27T02:07:54Z"
+  }
 }

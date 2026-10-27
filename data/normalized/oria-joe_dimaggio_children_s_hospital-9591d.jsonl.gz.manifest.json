@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "oria-joe_dimaggio_children_s_hospital-9591d__03314d70ad0fd516.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/oria-joe_dimaggio_children_s_hospital-9591d__03314d70ad0fd516.jsonl.gz",
+    "asset_sha256": "03314d70ad0fd516951cdac19ec05d13f6ebb454c6105b43c9a1f34076b08138",
+    "published_at": "2026-10-27T02:04:51Z"
+  }
 }

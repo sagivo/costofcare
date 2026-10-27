@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b5",
+    "asset_name": "oria-lane_regional_medical_center-e9c59__b534604927417251.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/oria-lane_regional_medical_center-e9c59__b534604927417251.jsonl.gz",
+    "asset_sha256": "b5346049274172515cf250eb5287300f2d244e3442e04a8ba07b489340968dda",
+    "published_at": "2026-10-27T02:06:42Z"
+  }
 }

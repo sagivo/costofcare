@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a3",
+    "asset_name": "oria-lucile_salter_packard_children_s_hospital_at_stanford-f2030__a3fe41e3b7328d51.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/oria-lucile_salter_packard_children_s_hospital_at_stanford-f2030__a3fe41e3b7328d51.jsonl.gz",
+    "asset_sha256": "a3fe41e3b7328d51437d3bd8961697dbff8d1c38de4ec786338d0abb4d71d2b8",
+    "published_at": "2026-10-27T02:08:24Z"
+  }
 }

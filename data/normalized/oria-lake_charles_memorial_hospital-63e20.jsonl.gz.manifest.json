@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e2",
+    "asset_name": "oria-lake_charles_memorial_hospital-63e20__e2b3427144262929.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e2/oria-lake_charles_memorial_hospital-63e20__e2b3427144262929.jsonl.gz",
+    "asset_sha256": "e2b34271442629292826cc3accd6d192be35399f086c5205cd4852c43de148a9",
+    "published_at": "2026-10-27T02:06:14Z"
+  }
 }

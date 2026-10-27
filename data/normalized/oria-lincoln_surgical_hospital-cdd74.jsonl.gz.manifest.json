@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6c",
+    "asset_name": "oria-lincoln_surgical_hospital-cdd74__6cf44d18928d7374.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6c/oria-lincoln_surgical_hospital-cdd74__6cf44d18928d7374.jsonl.gz",
+    "asset_sha256": "6cf44d18928d7374f6bdc959f9545620e22a0620e6848a7c7a27b39390d84184",
+    "published_at": "2026-10-27T02:07:27Z"
+  }
 }

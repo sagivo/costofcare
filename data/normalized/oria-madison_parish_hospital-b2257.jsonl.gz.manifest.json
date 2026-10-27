@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bb",
+    "asset_name": "oria-madison_parish_hospital-b2257__bb34b2534fe7610c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bb/oria-madison_parish_hospital-b2257__bb34b2534fe7610c.jsonl.gz",
+    "asset_sha256": "bb34b2534fe7610cc2de217db02aaf2c792374e600bb79b7bcbafd0d729d17dc",
+    "published_at": "2026-10-27T02:08:47Z"
+  }
 }

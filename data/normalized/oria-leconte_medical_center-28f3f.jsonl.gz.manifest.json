@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d5",
+    "asset_name": "oria-leconte_medical_center-28f3f__d53760302f1a24fd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/oria-leconte_medical_center-28f3f__d53760302f1a24fd.jsonl.gz",
+    "asset_sha256": "d53760302f1a24fd85133f228355f96a106761c1344f609d0ecf3eacbee71679",
+    "published_at": "2026-10-27T02:07:01Z"
+  }
 }

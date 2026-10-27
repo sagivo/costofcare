@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-19",
+    "asset_name": "oria-lake_regional_health_system-0e426__198071f7d2959edd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-19/oria-lake_regional_health_system-0e426__198071f7d2959edd.jsonl.gz",
+    "asset_sha256": "198071f7d2959edda885fb2fe77341f4abb43b79814e11af3307d375037cea98",
+    "published_at": "2026-10-27T02:06:23Z"
+  }
 }

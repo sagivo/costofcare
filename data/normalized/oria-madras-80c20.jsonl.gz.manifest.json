@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 863",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b5",
+    "asset_name": "oria-madras-80c20__b51d4db05350e479.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/oria-madras-80c20__b51d4db05350e479.jsonl.gz",
+    "asset_sha256": "b51d4db05350e479fba2baff3f98b2281505c7b42b8f153838cd9f6e0908b3f8",
+    "published_at": "2026-10-27T02:08:49Z"
+  }
 }

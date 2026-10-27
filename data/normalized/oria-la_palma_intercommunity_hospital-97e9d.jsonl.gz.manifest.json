@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4f",
+    "asset_name": "oria-la_palma_intercommunity_hospital-97e9d__4fd6fe72230c6d26.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4f/oria-la_palma_intercommunity_hospital-97e9d__4fd6fe72230c6d26.jsonl.gz",
+    "asset_sha256": "4fd6fe72230c6d26428529b5ceb7cb601a3258acf2d7c9c615cef81700fd2b98",
+    "published_at": "2026-10-27T02:06:05Z"
+  }
 }

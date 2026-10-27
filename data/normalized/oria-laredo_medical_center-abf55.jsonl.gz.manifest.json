@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a0",
+    "asset_name": "oria-laredo_medical_center-abf55__a035892ed9c36f18.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/oria-laredo_medical_center-abf55__a035892ed9c36f18.jsonl.gz",
+    "asset_sha256": "a035892ed9c36f186c4b306775a18e2908ed9abb1819c94ec955271fc3dbfcbf",
+    "published_at": "2026-10-27T02:06:45Z"
+  }
 }

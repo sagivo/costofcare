@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b9",
+    "asset_name": "oria-jewish_hospital-c7ce4__b9b7413aa6060267.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b9/oria-jewish_hospital-c7ce4__b9b7413aa6060267.jsonl.gz",
+    "asset_sha256": "b9b7413aa6060267e2be3571500dd664e06eb2a646d73e473a1b3263915a1fd1",
+    "published_at": "2026-10-27T02:04:49Z"
+  }
 }

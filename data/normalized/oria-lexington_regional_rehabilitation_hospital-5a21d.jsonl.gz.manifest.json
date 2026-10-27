@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-44",
+    "asset_name": "oria-lexington_regional_rehabilitation_hospital-5a21d__44986574b0d77c1f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-44/oria-lexington_regional_rehabilitation_hospital-5a21d__44986574b0d77c1f.jsonl.gz",
+    "asset_sha256": "44986574b0d77c1fde53bc0f50c88802b63cae61482fa72a02531d4cbbc0048b",
+    "published_at": "2026-10-27T02:07:04Z"
+  }
 }

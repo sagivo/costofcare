@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "oria-long_beach_memorial_medical_center-abbbd__11db4990bfb932d4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-long_beach_memorial_medical_center-abbbd__11db4990bfb932d4.jsonl.gz",
+    "asset_sha256": "11db4990bfb932d4e7a639bf9aab4efc0dafb1d05949cb89978440ba16564a85",
+    "published_at": "2026-10-27T02:07:38Z"
+  }
 }

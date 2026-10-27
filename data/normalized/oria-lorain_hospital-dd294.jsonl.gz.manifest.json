@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-lorain_hospital-dd294__059fabf3c1d3a017.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-lorain_hospital-dd294__059fabf3c1d3a017.jsonl.gz",
+    "asset_sha256": "059fabf3c1d3a0173641f6f45542c1ecf14074f8c53d26d2d73fb0534dbc038c",
+    "published_at": "2026-10-27T02:07:43Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-00",
+    "asset_name": "oria-jefferson_county_hospital-a53cb__00b7b1c7c607d2ee.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-00/oria-jefferson_county_hospital-a53cb__00b7b1c7c607d2ee.jsonl.gz",
+    "asset_sha256": "00b7b1c7c607d2eef1d19f448c9473f5de12308b11f0307809b53e044a1e5d9d",
+    "published_at": "2026-10-27T02:04:31Z"
+  }
 }

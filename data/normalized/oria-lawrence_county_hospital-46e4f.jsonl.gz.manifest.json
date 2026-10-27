@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cc",
+    "asset_name": "oria-lawrence_county_hospital-46e4f__ccfed69be1e90a5c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-lawrence_county_hospital-46e4f__ccfed69be1e90a5c.jsonl.gz",
+    "asset_sha256": "ccfed69be1e90a5cd184fa924b1b98dc92d068f405660f32fa7b91376e2ae62d",
+    "published_at": "2026-10-27T02:06:56Z"
+  }
 }

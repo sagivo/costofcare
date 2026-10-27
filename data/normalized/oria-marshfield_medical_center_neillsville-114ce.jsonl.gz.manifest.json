@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "oria-marshfield_medical_center_neillsville-114ce__9a6fd0ec644c078e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-marshfield_medical_center_neillsville-114ce__9a6fd0ec644c078e.jsonl.gz",
+    "asset_sha256": "9a6fd0ec644c078ee4c65e93d811ccea7debe54470cd8aad9ea5e0c941be6971",
+    "published_at": "2026-10-27T02:09:46Z"
+  }
 }

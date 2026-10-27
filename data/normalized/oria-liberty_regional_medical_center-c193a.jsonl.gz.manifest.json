@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dd",
+    "asset_name": "oria-liberty_regional_medical_center-c193a__dd0f46162e364449.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-liberty_regional_medical_center-c193a__dd0f46162e364449.jsonl.gz",
+    "asset_sha256": "dd0f46162e36444931c88527749a0bb2c0fe8899ca9e6a1af72ffd5cd33ffb5f",
+    "published_at": "2026-10-27T02:07:11Z"
+  }
 }

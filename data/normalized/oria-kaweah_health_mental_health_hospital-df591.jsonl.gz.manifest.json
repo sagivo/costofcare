@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-af",
+    "asset_name": "oria-kaweah_health_mental_health_hospital-df591__af3840ec1128dab8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-af/oria-kaweah_health_mental_health_hospital-df591__af3840ec1128dab8.jsonl.gz",
+    "asset_sha256": "af3840ec1128dab8caea41690b2b5c45a8bd6c7661389e967da1d286cc1366d8",
+    "published_at": "2026-10-27T02:05:28Z"
+  }
 }

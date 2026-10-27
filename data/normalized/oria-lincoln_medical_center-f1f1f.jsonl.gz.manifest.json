@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-33",
+    "asset_name": "oria-lincoln_medical_center-f1f1f__3393f5292ca56f97.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-lincoln_medical_center-f1f1f__3393f5292ca56f97.jsonl.gz",
+    "asset_sha256": "3393f5292ca56f97abfd0720454db36e38954dd241fe6160542153be7b165a20",
+    "published_at": "2026-10-27T02:07:24Z"
+  }
 }

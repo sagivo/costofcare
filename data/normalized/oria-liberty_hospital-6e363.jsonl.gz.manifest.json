@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-71",
+    "asset_name": "oria-liberty_hospital-6e363__71746eee177dfcf3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-liberty_hospital-6e363__71746eee177dfcf3.jsonl.gz",
+    "asset_sha256": "71746eee177dfcf38724f1bb42651b4cd7805f7e0e766931a25d349b682ff1fb",
+    "published_at": "2026-10-27T02:07:09Z"
+  }
 }

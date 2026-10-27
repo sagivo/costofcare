@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-mark_twain_medical_center-b9375__26a5eba9943c109a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-mark_twain_medical_center-b9375__26a5eba9943c109a.jsonl.gz",
+    "asset_sha256": "26a5eba9943c109aa0cfce9df5315141fc080a79af0189fa49bd9521555ce77e",
+    "published_at": "2026-10-27T02:09:16Z"
+  }
 }

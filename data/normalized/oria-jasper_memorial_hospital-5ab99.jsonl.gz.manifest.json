@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-jasper_memorial_hospital-5ab99__842a02cc0b0c99f1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-jasper_memorial_hospital-5ab99__842a02cc0b0c99f1.jsonl.gz",
+    "asset_sha256": "842a02cc0b0c99f1648676271cde5b56ea7c362ed2aca8512cc6f611a2e8712a",
+    "published_at": "2026-10-27T02:04:24Z"
+  }
 }

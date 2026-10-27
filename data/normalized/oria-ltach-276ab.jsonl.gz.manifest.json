@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "oria-ltach-276ab__112417fda9c5336e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-ltach-276ab__112417fda9c5336e.jsonl.gz",
+    "asset_sha256": "112417fda9c5336e2b98fcc0c612e21f4e621fd68d1a6b2853a5fdcb523e23b3",
+    "published_at": "2026-10-27T02:08:20Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-80",
+    "asset_name": "oria-maria_parham_health-babfe__800d88133fb82db0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-80/oria-maria_parham_health-babfe__800d88133fb82db0.jsonl.gz",
+    "asset_sha256": "800d88133fb82db06644ce27c01a7bd2ef169b9b8b4519bf5afc05d0e701d9a7",
+    "published_at": "2026-10-27T02:09:10Z"
+  }
 }

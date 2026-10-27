@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-64",
+    "asset_name": "oria-los_alamos_medical_center-ea889__6401061c2b203bfb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-los_alamos_medical_center-ea889__6401061c2b203bfb.jsonl.gz",
+    "asset_sha256": "6401061c2b203bfbd8045eae1844160e716d39b5f006acfc29a05059c4f38517",
+    "published_at": "2026-10-27T02:07:50Z"
+  }
 }

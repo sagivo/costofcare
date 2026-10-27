@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-34",
+    "asset_name": "oria-kirby_medical_center-41832__34491ec2836af1c9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-34/oria-kirby_medical_center-41832__34491ec2836af1c9.jsonl.gz",
+    "asset_sha256": "34491ec2836af1c9d123871f90b8bd75f73f41e97796cb8abaf605f0da896fe0",
+    "published_at": "2026-10-27T02:05:50Z"
+  }
 }

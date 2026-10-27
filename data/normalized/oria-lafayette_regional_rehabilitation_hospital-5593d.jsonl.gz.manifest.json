@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-lafayette_regional_rehabilitation_hospital-5593d__8f180cce0dfbc357.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-lafayette_regional_rehabilitation_hospital-5593d__8f180cce0dfbc357.jsonl.gz",
+    "asset_sha256": "8f180cce0dfbc357de06b379816656785a0af7b8e2367694b9eafed45fa1293e",
+    "published_at": "2026-10-27T02:06:07Z"
+  }
 }

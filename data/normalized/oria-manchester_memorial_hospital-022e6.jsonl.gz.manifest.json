@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1677",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-17",
+    "asset_name": "oria-manchester_memorial_hospital-022e6__1718485500099c8c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oria-manchester_memorial_hospital-022e6__1718485500099c8c.jsonl.gz",
+    "asset_sha256": "1718485500099c8c4ce2a9f741f4eb9081867b0b0b09e5e2f1e23167f2d16fb4",
+    "published_at": "2026-10-27T02:08:58Z"
+  }
 }

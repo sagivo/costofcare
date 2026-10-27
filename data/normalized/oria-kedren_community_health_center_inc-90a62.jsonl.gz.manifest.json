@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "oria-kedren_community_health_center_inc-90a62__81d76af0e008e6b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-kedren_community_health_center_inc-90a62__81d76af0e008e6b7.jsonl.gz",
+    "asset_sha256": "81d76af0e008e6b708d68b29e7ca3d783ad1f92a8aa77fe4e18562a7bacf4f85",
+    "published_at": "2026-10-27T02:05:37Z"
+  }
 }

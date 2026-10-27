@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-marshfield_medical_center_park_falls-2fcec__b60d9f1f509e6d1b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-marshfield_medical_center_park_falls-2fcec__b60d9f1f509e6d1b.jsonl.gz",
+    "asset_sha256": "b60d9f1f509e6d1bbe60bd07eb95b06f355306d14a0642986d183871bcb50308",
+    "published_at": "2026-10-27T02:09:49Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f1",
+    "asset_name": "oria-loring_hospital-d3cef__f11ed6c008d54793.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/oria-loring_hospital-d3cef__f11ed6c008d54793.jsonl.gz",
+    "asset_sha256": "f11ed6c008d54793025fa247d1ab4b73c48f6a590c0801a7e71cd8a6cd284cd3",
+    "published_at": "2026-10-27T02:07:47Z"
+  }
 }
