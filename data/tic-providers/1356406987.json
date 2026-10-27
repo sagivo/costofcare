@@ -1,0 +1,25 @@
+{
+  "npi": "1356406987",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:55:02Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1356406987",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ALANA",
+      "last_name": "MCNEELY-NIEVES",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "98 SEABOARD LN",
+        "city": "BRENTWOOD",
+        "state": "TN",
+        "postal_code": "370272930"
+      },
+      "last_updated": "2016-08-16"
+    }
+  ]
+}

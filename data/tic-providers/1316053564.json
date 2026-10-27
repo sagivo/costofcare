@@ -1,0 +1,25 @@
+{
+  "npi": "1316053564",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:54:43Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1316053564",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KENDALL",
+      "last_name": "GIBBS",
+      "primary_taxonomy": "Ophthalmology",
+      "location": {
+        "address_1": "24 BOSWORTH ST",
+        "city": "BARRINGTON",
+        "state": "RI",
+        "postal_code": "028064100"
+      },
+      "last_updated": "2008-06-02"
+    }
+  ]
+}

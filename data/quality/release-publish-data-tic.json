@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-26T17:43:00Z",
+  "generated_at": "2026-10-27T16:57:11Z",
   "data_dir": "data/tic",
   "release_prefix": "data-tic",
   "counts": {
-    "files_total": 116,
-    "already_published": 96,
+    "files_total": 136,
+    "already_published": 116,
     "uploaded_this_run": 20,
     "idempotent_skips": 0,
     "verified_this_run": 20,
     "errors": 0,
-    "manifests_with_verified_assets": 116,
+    "manifests_with_verified_assets": 136,
     "manifests_missing_verified_assets": 0
   }
 }

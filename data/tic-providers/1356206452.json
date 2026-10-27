@@ -1,0 +1,25 @@
+{
+  "npi": "1356206452",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:55:01Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1356206452",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ANITA",
+      "last_name": "PRASAD",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "9335 CHAMBERLAYNE RD",
+        "city": "MECHANICSVILLE",
+        "state": "VA",
+        "postal_code": "231162805"
+      },
+      "last_updated": "2025-12-20"
+    }
+  ]
+}

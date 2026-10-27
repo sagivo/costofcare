@@ -1,0 +1,25 @@
+{
+  "npi": "1477759454",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:55:57Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1477759454",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "FARHAD",
+      "last_name": "SAFI",
+      "primary_taxonomy": "Ophthalmology",
+      "location": {
+        "address_1": "741 DUNLAWTON AVE",
+        "city": "PORT ORANGE",
+        "state": "FL",
+        "postal_code": "321279226"
+      },
+      "last_updated": "2023-02-24"
+    }
+  ]
+}

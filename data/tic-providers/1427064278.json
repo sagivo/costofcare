@@ -1,0 +1,25 @@
+{
+  "npi": "1427064278",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:55:27Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1427064278",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "NANCY",
+      "last_name": "OPARA",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "1900 WEST SUBLETT ROAD",
+        "city": "ARLINGTON",
+        "state": "TX",
+        "postal_code": "76017"
+      },
+      "last_updated": "2026-06-15"
+    }
+  ]
+}

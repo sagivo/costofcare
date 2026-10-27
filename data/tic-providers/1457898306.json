@@ -1,0 +1,25 @@
+{
+  "npi": "1457898306",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:55:45Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1457898306",
+      "enumeration_type": "NPI-2",
+      "organization_name": "SOLUTIONS ON US LLC.",
+      "first_name": null,
+      "last_name": null,
+      "primary_taxonomy": "Durable Medical Equipment & Medical Supplies",
+      "location": {
+        "address_1": "35 HUDSON ST",
+        "city": "YONKERS",
+        "state": "NY",
+        "postal_code": "107016958"
+      },
+      "last_updated": "2022-07-21"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1295953453",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:54:39Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1295953453",
+      "enumeration_type": "NPI-2",
+      "organization_name": "VALLEY HI OPTICAL INC.",
+      "first_name": null,
+      "last_name": null,
+      "primary_taxonomy": "Technician/Technologist, Optician",
+      "location": {
+        "address_1": "410 VALLEY HI DR",
+        "city": "SAN ANTONIO",
+        "state": "TX",
+        "postal_code": "782274610"
+      },
+      "last_updated": "2016-07-01"
+    }
+  ]
+}

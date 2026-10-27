@@ -1,0 +1,25 @@
+{
+  "npi": "1245214147",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-27T16:54:24Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1245214147",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "FRED",
+      "last_name": "KING",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "207 E SALISBURY ST",
+        "city": "ASHEBORO",
+        "state": "NC",
+        "postal_code": "27203"
+      },
+      "last_updated": "2007-09-13"
+    }
+  ]
+}
