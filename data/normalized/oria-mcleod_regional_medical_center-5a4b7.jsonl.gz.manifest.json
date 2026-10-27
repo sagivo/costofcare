@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 84",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-74",
+    "asset_name": "oria-mcleod_regional_medical_center-5a4b7__74954355959edadc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-74/oria-mcleod_regional_medical_center-5a4b7__74954355959edadc.jsonl.gz",
+    "asset_sha256": "74954355959edadcece5a0ef62731a54bba9aa43f5e4d4fa986657a7f2fb1eaa",
+    "published_at": "2026-10-27T15:14:28Z"
+  }
 }

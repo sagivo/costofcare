@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bc",
+    "asset_name": "oria-montclair_hospital_medical_center-cbbfb__bcdd85d031d61f42.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/oria-montclair_hospital_medical_center-cbbfb__bcdd85d031d61f42.jsonl.gz",
+    "asset_sha256": "bcdd85d031d61f4267b7dc0d51d0159b97e61547f5c5cd17e5910eb0c6b9adaf",
+    "published_at": "2026-10-27T15:19:56Z"
+  }
 }

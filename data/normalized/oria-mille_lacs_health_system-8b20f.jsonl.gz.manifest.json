@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6746",
   "row_width_mismatch_records": 76967,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-15",
+    "asset_name": "oria-mille_lacs_health_system-8b20f__15bdac9330c72353.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-15/oria-mille_lacs_health_system-8b20f__15bdac9330c72353.jsonl.gz",
+    "asset_sha256": "15bdac9330c72353703cd02565135e526fb945b7e8e3d663d09a2bca515b771e",
+    "published_at": "2026-10-27T15:19:00Z"
+  }
 }

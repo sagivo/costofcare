@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-23",
+    "asset_name": "oria-niobrara_county_hospital_district-5293c__232ee7cd4aea6aa8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-23/oria-niobrara_county_hospital_district-5293c__232ee7cd4aea6aa8.jsonl.gz",
+    "asset_sha256": "232ee7cd4aea6aa834c8d57a36886891bc0fed8c0b4fb09216727b6e3459b2ab",
+    "published_at": "2026-10-27T15:22:08Z"
+  }
 }

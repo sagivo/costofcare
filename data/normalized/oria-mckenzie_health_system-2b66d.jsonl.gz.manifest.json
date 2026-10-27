@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b2",
+    "asset_name": "oria-mckenzie_health_system-2b66d__b23b299f0105450b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-mckenzie_health_system-2b66d__b23b299f0105450b.jsonl.gz",
+    "asset_sha256": "b23b299f0105450bda212d6e85f90460e1161a8a4b4e929eefb0b2c87d71a3dc",
+    "published_at": "2026-10-27T15:13:51Z"
+  }
 }

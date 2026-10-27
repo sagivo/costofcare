@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-17",
+    "asset_name": "oria-mount_graham_regional_medical_center-d0563__17f98297da869fc8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oria-mount_graham_regional_medical_center-d0563__17f98297da869fc8.jsonl.gz",
+    "asset_sha256": "17f98297da869fc8401b35c12265d17a2e45a3b1c8a3f94b554017f6009a1327",
+    "published_at": "2026-10-27T15:20:51Z"
+  }
 }

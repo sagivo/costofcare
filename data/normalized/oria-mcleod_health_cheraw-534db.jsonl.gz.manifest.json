@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2355",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6b",
+    "asset_name": "oria-mcleod_health_cheraw-534db__6b67132e566bd83b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6b/oria-mcleod_health_cheraw-534db__6b67132e566bd83b.jsonl.gz",
+    "asset_sha256": "6b67132e566bd83bbfc186e76a1ed5f4c235df318d18eff6aa5fdf95930c871e",
+    "published_at": "2026-10-27T15:14:17Z"
+  }
 }

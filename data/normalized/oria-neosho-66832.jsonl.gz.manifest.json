@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2885",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-65",
+    "asset_name": "oria-neosho-66832__653189a9f4c2b732.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/oria-neosho-66832__653189a9f4c2b732.jsonl.gz",
+    "asset_sha256": "653189a9f4c2b7325becb8b691eb48cc506ad7012ea6c157ddbf92df17c63c72",
+    "published_at": "2026-10-27T15:21:46Z"
+  }
 }

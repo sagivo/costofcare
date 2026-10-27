@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bd",
+    "asset_name": "oria-niobrara_valley_hospital-beadf__bd98f0a5905e708d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/oria-niobrara_valley_hospital-beadf__bd98f0a5905e708d.jsonl.gz",
+    "asset_sha256": "bd98f0a5905e708d0ec2a7ba03050fa2e5a5786144105b2d49e2e526a203ba61",
+    "published_at": "2026-10-27T15:22:10Z"
+  }
 }

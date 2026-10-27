@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "oria-mercy_medical_center-5d0d3__117056ba588fae71.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-mercy_medical_center-5d0d3__117056ba588fae71.jsonl.gz",
+    "asset_sha256": "117056ba588fae719918aaa1c13dee8353ac114f4e9352fccb5999981010e86e",
+    "published_at": "2026-10-27T15:16:26Z"
+  }
 }

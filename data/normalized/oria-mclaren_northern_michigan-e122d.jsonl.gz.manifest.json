@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6795",
   "row_width_mismatch_records": 1838,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7d",
+    "asset_name": "oria-mclaren_northern_michigan-e122d__7d38f6aadefba21f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-mclaren_northern_michigan-e122d__7d38f6aadefba21f.jsonl.gz",
+    "asset_sha256": "7d38f6aadefba21ff40f17085e6a9f27ed409ee4db36ca883f8a4530838283a3",
+    "published_at": "2026-10-27T15:14:07Z"
+  }
 }

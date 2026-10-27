@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7661",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "oria-mcleod_health_carolina_forest-457e9__1cbdde4440d7c5c4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-mcleod_health_carolina_forest-457e9__1cbdde4440d7c5c4.jsonl.gz",
+    "asset_sha256": "1cbdde4440d7c5c4c98d0af966c1ec3e30d4f3fc0eb0bdcf58d4e22b3e0d9928",
+    "published_at": "2026-10-27T15:14:15Z"
+  }
 }

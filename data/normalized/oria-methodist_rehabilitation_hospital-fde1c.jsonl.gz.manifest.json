@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1e",
+    "asset_name": "oria-methodist_rehabilitation_hospital-fde1c__1e4ce161858143c6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/oria-methodist_rehabilitation_hospital-fde1c__1e4ce161858143c6.jsonl.gz",
+    "asset_sha256": "1e4ce161858143c615980ce9d3694300d21a1722dd89fe166784d4d8a4c12ca2",
+    "published_at": "2026-10-27T15:18:24Z"
+  }
 }

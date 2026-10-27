@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-74",
+    "asset_name": "oria-moreno_valley_medical_center-d6093__74fa5613afad570e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-74/oria-moreno_valley_medical_center-d6093__74fa5613afad570e.jsonl.gz",
+    "asset_sha256": "74fa5613afad570e0873420a35d516298d9d36d210e69f43ad1952271c235364",
+    "published_at": "2026-10-27T15:20:12Z"
+  }
 }

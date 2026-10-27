@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "oria-massena_hospital-642dd__47eec18b05d9ad98.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-massena_hospital-642dd__47eec18b05d9ad98.jsonl.gz",
+    "asset_sha256": "47eec18b05d9ad988ccb571bff5af3ac3004044ab880095d35187fb99bc77a57",
+    "published_at": "2026-10-27T15:13:20Z"
+  }
 }

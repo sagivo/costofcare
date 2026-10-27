@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-modesto_medical_center-139b2__840e452b10a1c3cd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-modesto_medical_center-139b2__840e452b10a1c3cd.jsonl.gz",
+    "asset_sha256": "840e452b10a1c3cdd355bcfb8c065e2998b59ae843ab1df611c3405748df5b4e",
+    "published_at": "2026-10-27T15:19:26Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-55",
+    "asset_name": "oria-nocona_general_hospital-6ca78__550651ec4a2a2880.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-55/oria-nocona_general_hospital-6ca78__550651ec4a2a2880.jsonl.gz",
+    "asset_sha256": "550651ec4a2a28805a063fd67e8c8045e52ab45814f8d4b37dcecc11be51d99f",
+    "published_at": "2026-10-27T15:22:19Z"
+  }
 }

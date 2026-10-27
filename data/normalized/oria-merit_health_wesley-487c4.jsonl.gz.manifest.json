@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c4",
+    "asset_name": "oria-merit_health_wesley-487c4__c4a787adfceb6ac7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c4/oria-merit_health_wesley-487c4__c4a787adfceb6ac7.jsonl.gz",
+    "asset_sha256": "c4a787adfceb6ac7bbe6ef11325235f728a3cf2de1c3a7a14e4c6b43b41907d6",
+    "published_at": "2026-10-27T15:17:36Z"
+  }
 }

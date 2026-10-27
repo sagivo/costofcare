@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "oria-methodist_mckinney_hospital-758a7__d143a5eb9d31d363.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/oria-methodist_mckinney_hospital-758a7__d143a5eb9d31d363.jsonl.gz",
+    "asset_sha256": "d143a5eb9d31d363ca016c535bcab7c757016ae83d6d16e0b6128fe81aa04d6b",
+    "published_at": "2026-10-27T15:18:17Z"
+  }
 }

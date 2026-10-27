@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-mercyone_new_hampton_medical_center-cc079__85e8d358844234aa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-mercyone_new_hampton_medical_center-cc079__85e8d358844234aa.jsonl.gz",
+    "asset_sha256": "85e8d358844234aa3eb3186a32dedbe6e19f52978439e906ae4dba0917fed872",
+    "published_at": "2026-10-27T15:17:07Z"
+  }
 }

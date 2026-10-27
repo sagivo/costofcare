@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "oria-merit_health_river_oaks-c82d0__f0ab99fb997051c9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-merit_health_river_oaks-c82d0__f0ab99fb997051c9.jsonl.gz",
+    "asset_sha256": "f0ab99fb997051c97ca408605f7d46fa2ed6eacdd5e512a685ed60f0ae6e57dc",
+    "published_at": "2026-10-27T15:17:30Z"
+  }
 }

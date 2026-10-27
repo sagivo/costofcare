@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cb",
+    "asset_name": "oria-mile_bluff_medical_center-3cbe9__cb3925f56e8b4b27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cb/oria-mile_bluff_medical_center-3cbe9__cb3925f56e8b4b27.jsonl.gz",
+    "asset_sha256": "cb3925f56e8b4b27c5c9218eb73a07cf28ee84cd285a4912ade5b4a005316cb1",
+    "published_at": "2026-10-27T15:18:57Z"
+  }
 }

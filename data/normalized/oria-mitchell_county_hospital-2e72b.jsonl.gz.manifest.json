@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-64",
+    "asset_name": "oria-mitchell_county_hospital-2e72b__641d53d0c8d7227a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-mitchell_county_hospital-2e72b__641d53d0c8d7227a.jsonl.gz",
+    "asset_sha256": "641d53d0c8d7227ae242d69f9de6da962d4c4c2b28e744df3e27d53383f2e6e7",
+    "published_at": "2026-10-27T15:19:19Z"
+  }
 }

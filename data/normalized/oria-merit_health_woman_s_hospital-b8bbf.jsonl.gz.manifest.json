@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-72",
+    "asset_name": "oria-merit_health_woman_s_hospital-b8bbf__72632393988396e8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-72/oria-merit_health_woman_s_hospital-b8bbf__72632393988396e8.jsonl.gz",
+    "asset_sha256": "72632393988396e8ad05e7ac4271d91e6a26655619aabad796eabd54c6ad8dfa",
+    "published_at": "2026-10-27T15:17:38Z"
+  }
 }

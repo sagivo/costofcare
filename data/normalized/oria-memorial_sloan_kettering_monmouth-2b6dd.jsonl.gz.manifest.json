@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-09",
+    "asset_name": "oria-memorial_sloan_kettering_monmouth-2b6dd__09ab8e37c3d1d290.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-memorial_sloan_kettering_monmouth-2b6dd__09ab8e37c3d1d290.jsonl.gz",
+    "asset_sha256": "09ab8e37c3d1d2908687436430ab1687af13cfa65ca58d3ed033b175f3014aa5",
+    "published_at": "2026-10-27T15:15:57Z"
+  }
 }

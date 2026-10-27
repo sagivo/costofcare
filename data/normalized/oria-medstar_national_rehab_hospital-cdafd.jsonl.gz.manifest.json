@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0a",
+    "asset_name": "oria-medstar_national_rehab_hospital-cdafd__0aca55166c342373.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0a/oria-medstar_national_rehab_hospital-cdafd__0aca55166c342373.jsonl.gz",
+    "asset_sha256": "0aca55166c342373483f5ae0488b015e1b246eb3920fe17363e4de5ef54d64fa",
+    "published_at": "2026-10-27T15:15:12Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0d",
+    "asset_name": "oria-miners_colfax_medical_center-2fd54__0d233033b3f8c2b8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0d/oria-miners_colfax_medical_center-2fd54__0d233033b3f8c2b8.jsonl.gz",
+    "asset_sha256": "0d233033b3f8c2b84a678b494267638048ead57a2372acb1290fa065aea45e17",
+    "published_at": "2026-10-27T15:19:05Z"
+  }
 }

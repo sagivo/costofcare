@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1d",
+    "asset_name": "oria-methodist_medical_center_of_oak_ridge-7d4f6__1dd3efe2a38282d1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-methodist_medical_center_of_oak_ridge-7d4f6__1dd3efe2a38282d1.jsonl.gz",
+    "asset_sha256": "1dd3efe2a38282d1f466e8254042911ddbcc4e92708d2087295221f633fa8bf0",
+    "published_at": "2026-10-27T15:18:19Z"
+  }
 }

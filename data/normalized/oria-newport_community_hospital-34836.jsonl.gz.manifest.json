@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4678",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-69",
+    "asset_name": "oria-newport_community_hospital-34836__69eac16af2561472.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-newport_community_hospital-34836__69eac16af2561472.jsonl.gz",
+    "asset_sha256": "69eac16af2561472abb83786a09a239557115cda869466551d66797f42429984",
+    "published_at": "2026-10-27T15:21:57Z"
+  }
 }

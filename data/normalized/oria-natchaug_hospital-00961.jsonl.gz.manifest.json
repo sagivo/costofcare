@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-08",
+    "asset_name": "oria-natchaug_hospital-00961__083ab89d386853bf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/oria-natchaug_hospital-00961__083ab89d386853bf.jsonl.gz",
+    "asset_sha256": "083ab89d386853bffa845b127045dd101e866a9252b52a7189197bea6fcfcb36",
+    "published_at": "2026-10-27T15:21:29Z"
+  }
 }

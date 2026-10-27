@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-76",
+    "asset_name": "oria-mercyone_dubuque_medical_center-0b788__765124d002b6e98c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/oria-mercyone_dubuque_medical_center-0b788__765124d002b6e98c.jsonl.gz",
+    "asset_sha256": "765124d002b6e98c9c4023fa75ead701a06bce646397c1bf0e59a4e5d5b53dd4",
+    "published_at": "2026-10-27T15:16:58Z"
+  }
 }

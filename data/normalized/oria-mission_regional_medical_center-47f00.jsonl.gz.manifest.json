@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-mission_regional_medical_center-47f00__262fca6481771a9f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-mission_regional_medical_center-47f00__262fca6481771a9f.jsonl.gz",
+    "asset_sha256": "262fca6481771a9f23b04837d0d924370bec5b3be5761b0fb0b2311118e9e7e3",
+    "published_at": "2026-10-27T15:19:11Z"
+  }
 }

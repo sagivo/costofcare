@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0c",
+    "asset_name": "oria-middle_park_health_fraser-73044__0c5eb12b3146373d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0c/oria-middle_park_health_fraser-73044__0c5eb12b3146373d.jsonl.gz",
+    "asset_sha256": "0c5eb12b3146373dc36b95e912f349488ffd3a28803650226d7e9d940d208349",
+    "published_at": "2026-10-27T15:18:39Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a5",
+    "asset_name": "oria-mcbride_orthopedic_hospital-ad134__a53e946c337bbfb6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a5/oria-mcbride_orthopedic_hospital-ad134__a53e946c337bbfb6.jsonl.gz",
+    "asset_sha256": "a53e946c337bbfb640634c14c8e3f04c7accfbf5e1fa6040ea736c9e183855a8",
+    "published_at": "2026-10-27T15:13:36Z"
+  }
 }

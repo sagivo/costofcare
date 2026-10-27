@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e4",
+    "asset_name": "oria-northern_idaho_advanced_care_hospital-89279__e4f23c17e23de1f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e4/oria-northern_idaho_advanced_care_hospital-89279__e4f23c17e23de1f2.jsonl.gz",
+    "asset_sha256": "e4f23c17e23de1f20c00bf480b08f98d9a0c46fb1e3e95ea522dd9530b0855a4",
+    "published_at": "2026-10-27T15:23:31Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-50",
+    "asset_name": "oria-mercyone_centerville_medical_center-739f2__509118d25f688f7d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/oria-mercyone_centerville_medical_center-739f2__509118d25f688f7d.jsonl.gz",
+    "asset_sha256": "509118d25f688f7dcba69cc5af49465997ec048bf4376fb103c53bb9f5637fab",
+    "published_at": "2026-10-27T15:16:49Z"
+  }
 }

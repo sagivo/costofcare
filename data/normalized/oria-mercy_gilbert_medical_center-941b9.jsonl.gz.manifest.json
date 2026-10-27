@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7d",
+    "asset_name": "oria-mercy_gilbert_medical_center-941b9__7d1a7f32a4c1ff9d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-mercy_gilbert_medical_center-941b9__7d1a7f32a4c1ff9d.jsonl.gz",
+    "asset_sha256": "7d1a7f32a4c1ff9d20ed60aed3f8f5d09e4ac2a93101901e0b1f55b32b700c94",
+    "published_at": "2026-10-27T15:16:11Z"
+  }
 }

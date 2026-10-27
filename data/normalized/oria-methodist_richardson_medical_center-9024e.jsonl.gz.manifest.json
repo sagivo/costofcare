@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f9",
+    "asset_name": "oria-methodist_richardson_medical_center-9024e__f98e0385a55c660f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/oria-methodist_richardson_medical_center-9024e__f98e0385a55c660f.jsonl.gz",
+    "asset_sha256": "f98e0385a55c660f8e117f1f0235b0f27d227cb5034fd73edd01088ab5145341",
+    "published_at": "2026-10-27T15:18:30Z"
+  }
 }

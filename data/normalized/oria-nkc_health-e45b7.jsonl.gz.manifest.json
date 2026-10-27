@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cd",
+    "asset_name": "oria-nkc_health-e45b7__cd1b3a11814024b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/oria-nkc_health-e45b7__cd1b3a11814024b7.jsonl.gz",
+    "asset_sha256": "cd1b3a11814024b7428b1c467ef1902e9710c4037b1650cb937f68205bcd48a0",
+    "published_at": "2026-10-27T15:22:12Z"
+  }
 }

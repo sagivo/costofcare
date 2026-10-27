@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "oria-mount_sinai_rehabilitation_hospital-1166f__a250f17d7595a54f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/oria-mount_sinai_rehabilitation_hospital-1166f__a250f17d7595a54f.jsonl.gz",
+    "asset_sha256": "a250f17d7595a54f9081acd306aff2edcf2c7bca65da181efb5797d8a2f4737b",
+    "published_at": "2026-10-27T15:20:53Z"
+  }
 }

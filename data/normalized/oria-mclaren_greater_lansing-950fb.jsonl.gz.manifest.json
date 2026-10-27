@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5529",
   "row_width_mismatch_records": 1838,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1d",
+    "asset_name": "oria-mclaren_greater_lansing-950fb__1db70f43b11afdd5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-mclaren_greater_lansing-950fb__1db70f43b11afdd5.jsonl.gz",
+    "asset_sha256": "1db70f43b11afdd548771b453df8402baff617f25b9c9bb716a6e48c062c7564",
+    "published_at": "2026-10-27T15:14:00Z"
+  }
 }

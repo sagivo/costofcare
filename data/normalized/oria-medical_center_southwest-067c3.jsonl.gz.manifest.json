@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "oria-medical_center_southwest-067c3__ff39f7ec7cbe0fb2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/oria-medical_center_southwest-067c3__ff39f7ec7cbe0fb2.jsonl.gz",
+    "asset_sha256": "ff39f7ec7cbe0fb2df17b4c02ddba12460823d9eea36cca3a44ad6069d3794c1",
+    "published_at": "2026-10-27T15:14:56Z"
+  }
 }

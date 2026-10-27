@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2f",
+    "asset_name": "oria-north_canyon_medical_center-93a59__2f0dcc4f1eacaabf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/oria-north_canyon_medical_center-93a59__2f0dcc4f1eacaabf.jsonl.gz",
+    "asset_sha256": "2f0dcc4f1eacaabf451d139140a9bcb677ae0c19364e2121af406ba51eca2252",
+    "published_at": "2026-10-27T15:22:46Z"
+  }
 }

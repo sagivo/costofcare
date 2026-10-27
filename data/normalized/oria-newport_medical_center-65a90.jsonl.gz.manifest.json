@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-94",
+    "asset_name": "oria-newport_medical_center-65a90__944cb6a2302e9210.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-94/oria-newport_medical_center-65a90__944cb6a2302e9210.jsonl.gz",
+    "asset_sha256": "944cb6a2302e9210cb07c401a5066992cac6c08dde69f3c2cfa7dbdfbf85d441",
+    "published_at": "2026-10-27T15:22:01Z"
+  }
 }

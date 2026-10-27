@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "oria-mease_countryside_hospital-1f23b__319c4dc8b3ea556a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-mease_countryside_hospital-1f23b__319c4dc8b3ea556a.jsonl.gz",
+    "asset_sha256": "319c4dc8b3ea556af867746ed4cdda76ba5ef26a4f78cf0c941062d9db629117",
+    "published_at": "2026-10-27T15:14:37Z"
+  }
 }

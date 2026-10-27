@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a3",
+    "asset_name": "oria-north_alabama_medical_center-9c1e0__a3e1a6f3ee54821f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/oria-north_alabama_medical_center-9c1e0__a3e1a6f3ee54821f.jsonl.gz",
+    "asset_sha256": "a3e1a6f3ee54821fd18245e63476562a6d6731a9c7703014339ffdf8bef593f2",
+    "published_at": "2026-10-27T15:22:36Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-merit_health_river_region-89398__efb42240fbe9b027.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-merit_health_river_region-89398__efb42240fbe9b027.jsonl.gz",
+    "asset_sha256": "efb42240fbe9b027914a4e7990ab0c7ef167cfa589a89de14c3b35ee42030ed4",
+    "published_at": "2026-10-27T15:17:33Z"
+  }
 }

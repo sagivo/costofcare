@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-87",
+    "asset_name": "oria-mercyone_newton_medical_center-d4c08__87af82e02f50019e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-mercyone_newton_medical_center-d4c08__87af82e02f50019e.jsonl.gz",
+    "asset_sha256": "87af82e02f50019e10a382bfbfb3feb194056a0b1ec3abe5d0d8bcd879992dac",
+    "published_at": "2026-10-27T15:17:10Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-mercyone_waterloo_medical_center-4d5c4__b49574de44aa8973.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-mercyone_waterloo_medical_center-4d5c4__b49574de44aa8973.jsonl.gz",
+    "asset_sha256": "b49574de44aa89739bbf5d3b27101dab5695d52a24b7c49ab59bb56ca85d5800",
+    "published_at": "2026-10-27T15:17:19Z"
+  }
 }

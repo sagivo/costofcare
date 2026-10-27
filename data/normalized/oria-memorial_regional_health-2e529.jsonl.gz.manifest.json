@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-memorial_regional_health-2e529__841c86b46a9dbf7f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-memorial_regional_health-2e529__841c86b46a9dbf7f.jsonl.gz",
+    "asset_sha256": "841c86b46a9dbf7fda243e4c79438c09c6ba6fdad4791b0c6c6395d9ef80bc74",
+    "published_at": "2026-10-27T15:15:48Z"
+  }
 }

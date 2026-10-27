@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-medstar_union_memorial_hospital-c427b__efc10ed211a53727.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-medstar_union_memorial_hospital-c427b__efc10ed211a53727.jsonl.gz",
+    "asset_sha256": "efc10ed211a53727a8a29e438d4f517d17401e2db9ebc508d150a7871e8dc2d6",
+    "published_at": "2026-10-27T15:15:19Z"
+  }
 }

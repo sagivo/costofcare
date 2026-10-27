@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6e",
+    "asset_name": "oria-methodist_richardson_campus_for_continuing_care-37948__6eec99b7f05af3b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6e/oria-methodist_richardson_campus_for_continuing_care-37948__6eec99b7f05af3b2.jsonl.gz",
+    "asset_sha256": "6eec99b7f05af3b248c1b9a0f82018cbd94abed106ad90d5a4b75a0630140456",
+    "published_at": "2026-10-27T15:18:27Z"
+  }
 }

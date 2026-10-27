@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-64",
+    "asset_name": "oria-mountainview_medical_center-aea42__6414364390b4ee92.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-mountainview_medical_center-aea42__6414364390b4ee92.jsonl.gz",
+    "asset_sha256": "6414364390b4ee9253dbd5167a59ce16df09b027803871fcf84686cf60ba47fe",
+    "published_at": "2026-10-27T15:21:06Z"
+  }
 }

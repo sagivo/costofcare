@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7d",
+    "asset_name": "oria-marshfield_medical_center_weston-50a5f__7d1abfc16bb5ff21.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-marshfield_medical_center_weston-50a5f__7d1abfc16bb5ff21.jsonl.gz",
+    "asset_sha256": "7d1abfc16bb5ff21bcfe90b403531bfc4562f7a814c9de036fd3309f5665580b",
+    "published_at": "2026-10-27T15:13:00Z"
+  }
 }

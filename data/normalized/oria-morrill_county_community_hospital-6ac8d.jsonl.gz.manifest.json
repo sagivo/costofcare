@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "oria-morrill_county_community_hospital-6ac8d__ff8d2df8933d8cd9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/oria-morrill_county_community_hospital-6ac8d__ff8d2df8933d8cd9.jsonl.gz",
+    "asset_sha256": "ff8d2df8933d8cd99fd3bf41e552588000adda3c645845d7b2e09ed97657acd5",
+    "published_at": "2026-10-27T15:20:15Z"
+  }
 }

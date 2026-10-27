@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-20",
+    "asset_name": "oria-mercy_hospital_of_folsom-4f9f5__20add7b52ca409d6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-20/oria-mercy_hospital_of_folsom-4f9f5__20add7b52ca409d6.jsonl.gz",
+    "asset_sha256": "20add7b52ca409d6329093c3eacf46ef24eb7b9c9d0e10585d703a3ddb69dc04",
+    "published_at": "2026-10-27T15:16:23Z"
+  }
 }

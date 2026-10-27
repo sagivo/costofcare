@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-97",
+    "asset_name": "oria-morton_hospital-1e345__97f8391d390be9f4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-morton_hospital-1e345__97f8391d390be9f4.jsonl.gz",
+    "asset_sha256": "97f8391d390be9f44ee052bc75d52c27830fb455c0dba8fe5917b6cb41322060",
+    "published_at": "2026-10-27T15:20:23Z"
+  }
 }

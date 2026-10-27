@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T14:58:04.290750+00:00",
+  "generated_at": "2026-10-27T15:24:44.477535+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
@@ -9,7 +9,7 @@
     "sources_over_365_days_old": 159,
     "source_date_unparseable": 132,
     "hospital_code_aggregates": 356014,
-    "row_preserving_records": 13560303
+    "row_preserving_records": 13671520
   },
   "status_counts": {
     "ok": 2756,

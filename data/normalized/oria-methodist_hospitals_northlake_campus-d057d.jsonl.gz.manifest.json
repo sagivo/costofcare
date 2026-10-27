@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 57",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-13",
+    "asset_name": "oria-methodist_hospitals_northlake_campus-d057d__1302e86b8e834df6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/oria-methodist_hospitals_northlake_campus-d057d__1302e86b8e834df6.jsonl.gz",
+    "asset_sha256": "1302e86b8e834df68a4d84482710fdd3906b0bcf220686f30fe3048a078afce0",
+    "published_at": "2026-10-27T15:18:06Z"
+  }
 }

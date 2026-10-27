@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "oria-nmc_operating_company_llc_dba_the_spine_hospital_of_louisiana-3ecea__47946be6c0eed687.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-nmc_operating_company_llc_dba_the_spine_hospital_of_louisiana-3ecea__47946be6c0eed687.jsonl.gz",
+    "asset_sha256": "47946be6c0eed6872c56379275ec3a2a07142d0f2f48b380ea2a745a574487e4",
+    "published_at": "2026-10-27T15:22:17Z"
+  }
 }

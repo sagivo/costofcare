@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7644",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-24",
+    "asset_name": "oria-mcleod_health_seacoast-2503d__24d41a8d730dc1ba.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-24/oria-mcleod_health_seacoast-2503d__24d41a8d730dc1ba.jsonl.gz",
+    "asset_sha256": "24d41a8d730dc1ba3e0f3492c6e9cc5f59dbf8e7a486b02e203d9ad9025dba48",
+    "published_at": "2026-10-27T15:14:26Z"
+  }
 }

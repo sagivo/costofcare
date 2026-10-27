@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "oria-mercyone_dyersville_medical_center-08fd4__75c820854ab75429.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/oria-mercyone_dyersville_medical_center-08fd4__75c820854ab75429.jsonl.gz",
+    "asset_sha256": "75c820854ab75429dcd841b76892ef37dc671753b649b29f095491f0d80a9d9c",
+    "published_at": "2026-10-27T15:17:00Z"
+  }
 }

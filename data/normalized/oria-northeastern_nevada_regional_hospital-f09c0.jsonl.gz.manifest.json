@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-73",
+    "asset_name": "oria-northeastern_nevada_regional_hospital-f09c0__7397c12b702ec35e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-73/oria-northeastern_nevada_regional_hospital-f09c0__7397c12b702ec35e.jsonl.gz",
+    "asset_sha256": "7397c12b702ec35e0d8e0d722ae8e2f4e2aa1faec4eae6c0ae81fcecdc229b5f",
+    "published_at": "2026-10-27T15:23:18Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2f",
+    "asset_name": "oria-methodist_women_s_hospital-673d4__2f5df88d2ab60cd2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/oria-methodist_women_s_hospital-673d4__2f5df88d2ab60cd2.jsonl.gz",
+    "asset_sha256": "2f5df88d2ab60cd26ebae4d71fe3e39fe71e21dc13788545c46adc85816e1737",
+    "published_at": "2026-10-27T15:18:34Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-27",
+    "asset_name": "oria-mercy_fitzgerald_hospital-449e5__275e3c54e4f642e5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-27/oria-mercy_fitzgerald_hospital-449e5__275e3c54e4f642e5.jsonl.gz",
+    "asset_sha256": "275e3c54e4f642e5ba42b7bcc241d21e2956e9b071512015135dbbb5cef93542",
+    "published_at": "2026-10-27T15:16:06Z"
+  }
 }

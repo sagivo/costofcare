@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d4",
+    "asset_name": "oria-nassau_university_medical_center-fe8f5__d42456d5f914bbcc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/oria-nassau_university_medical_center-fe8f5__d42456d5f914bbcc.jsonl.gz",
+    "asset_sha256": "d42456d5f914bbcc7d78d2b675549324c934c93ee10b5d19458bcd6a56cda7b7",
+    "published_at": "2026-10-27T15:21:27Z"
+  }
 }

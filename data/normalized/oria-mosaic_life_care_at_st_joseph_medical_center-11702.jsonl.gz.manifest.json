@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "oria-mosaic_life_care_at_st_joseph_medical_center-11702__a2daa21914220e28.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/oria-mosaic_life_care_at_st_joseph_medical_center-11702__a2daa21914220e28.jsonl.gz",
+    "asset_sha256": "a2daa21914220e28c7b73ad742ebb2151c6978a8ee92bf82c2a11cd7a30885af",
+    "published_at": "2026-10-27T15:20:31Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-marshfield_medical_center_river_region_at_stevens_point-91528__b43d9fd09a0af5c3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-marshfield_medical_center_river_region_at_stevens_point-91528__b43d9fd09a0af5c3.jsonl.gz",
+    "asset_sha256": "b43d9fd09a0af5c3a82cd8861cd1356c90da5cbbf90cf6257b3730ea6f74825c",
+    "published_at": "2026-10-27T15:12:57Z"
+  }
 }

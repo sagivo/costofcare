@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-39",
+    "asset_name": "oria-mercy_hospital-61899__3953fc4ed2ea7112.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-mercy_hospital-61899__3953fc4ed2ea7112.jsonl.gz",
+    "asset_sha256": "3953fc4ed2ea71123e63b58bda8c4d053df25b3c2eebb49a13f0808c1f711fe5",
+    "published_at": "2026-10-27T15:16:14Z"
+  }
 }

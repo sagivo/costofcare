@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7b",
+    "asset_name": "oria-methodist_dallas_medical_center-3575b__7be4efbec8019148.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/oria-methodist_dallas_medical_center-3575b__7be4efbec8019148.jsonl.gz",
+    "asset_sha256": "7be4efbec8019148e113ad915e94a6814756ec4e66d42ff82598c8cce44643fe",
+    "published_at": "2026-10-27T15:17:53Z"
+  }
 }

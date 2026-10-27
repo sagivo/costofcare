@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3b",
+    "asset_name": "oria-mcalester_regional_health_center-9b6a2__3bc95a2d7bd33e8e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/oria-mcalester_regional_health_center-9b6a2__3bc95a2d7bd33e8e.jsonl.gz",
+    "asset_sha256": "3bc95a2d7bd33e8ee10f8afb1e478aec50e36102c56cffbac1a1156acd6860d7",
+    "published_at": "2026-10-27T15:13:33Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e5",
+    "asset_name": "oria-nazareth_hospital-735a2__e51659dac4852129.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-nazareth_hospital-735a2__e51659dac4852129.jsonl.gz",
+    "asset_sha256": "e51659dac4852129cfacfa670b4895c412300b2e03b0c7fe0844f0260a6bc76f",
+    "published_at": "2026-10-27T15:21:37Z"
+  }
 }

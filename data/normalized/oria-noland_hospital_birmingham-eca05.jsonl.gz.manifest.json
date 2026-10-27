@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-92",
+    "asset_name": "oria-noland_hospital_birmingham-eca05__92784c537b35009f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-92/oria-noland_hospital_birmingham-eca05__92784c537b35009f.jsonl.gz",
+    "asset_sha256": "92784c537b35009f8c009fba3264af2a45b72073bf6d6284f5c63b24cfac4a4b",
+    "published_at": "2026-10-27T15:22:24Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-medstar_st_mary_s_hospital-b520e__e062d5839602014d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-medstar_st_mary_s_hospital-b520e__e062d5839602014d.jsonl.gz",
+    "asset_sha256": "e062d5839602014dcb1446dad90017f3621624102e035fa5f19d12ce9d9bccb1",
+    "published_at": "2026-10-27T15:15:17Z"
+  }
 }

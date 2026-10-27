@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b5",
+    "asset_name": "oria-new_braunfels_regional_rehabilitation_hospital-539ce__b549cf4419409f76.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/oria-new_braunfels_regional_rehabilitation_hospital-539ce__b549cf4419409f76.jsonl.gz",
+    "asset_sha256": "b549cf4419409f769dcee177607eb186b7dc7284a663e53fdea93a1a7b74dd68",
+    "published_at": "2026-10-27T15:21:48Z"
+  }
 }

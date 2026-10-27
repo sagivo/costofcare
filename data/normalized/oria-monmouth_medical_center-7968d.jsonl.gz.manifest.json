@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-69",
+    "asset_name": "oria-monmouth_medical_center-7968d__69f09345c3ad986a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-monmouth_medical_center-7968d__69f09345c3ad986a.jsonl.gz",
+    "asset_sha256": "69f09345c3ad986a01e985cf1961f664b37a572ce98d619738e1d6fe81e05d87",
+    "published_at": "2026-10-27T15:19:39Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-51",
+    "asset_name": "oria-north_country_hospital-f7bd2__51d0f05057371cb7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-51/oria-north_country_hospital-f7bd2__51d0f05057371cb7.jsonl.gz",
+    "asset_sha256": "51d0f05057371cb7107f24df45227aedc0897307ac36f9de8a429cb3bb79a806",
+    "published_at": "2026-10-27T15:22:52Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "oria-menifee_global_medical_center-47e36__f396cb911bedf1d6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-menifee_global_medical_center-47e36__f396cb911bedf1d6.jsonl.gz",
+    "asset_sha256": "f396cb911bedf1d61a02b32ee03ac1912ee3bbd2379455b97cdc59d7fd9169fb",
+    "published_at": "2026-10-27T15:16:03Z"
+  }
 }

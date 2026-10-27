@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "oria-meadville_medical_center-3f9f2__fc9073c00d421496.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-meadville_medical_center-3f9f2__fc9073c00d421496.jsonl.gz",
+    "asset_sha256": "fc9073c00d4214965ec18da5ddfeb5320b66d2438b524f5cb05a481b38b387d0",
+    "published_at": "2026-10-27T15:14:35Z"
+  }
 }

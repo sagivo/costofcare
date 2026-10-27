@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "oria-northridge_hospital_medical_center-746f7__fd6acf57bddcafb4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-northridge_hospital_medical_center-746f7__fd6acf57bddcafb4.jsonl.gz",
+    "asset_sha256": "fd6acf57bddcafb4bb51a6dbd0dc9aeb0b057141c3d478cd3ad3f462491d6b54",
+    "published_at": "2026-10-27T15:23:47Z"
+  }
 }

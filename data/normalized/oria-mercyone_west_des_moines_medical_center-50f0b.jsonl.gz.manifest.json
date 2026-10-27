@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f5",
+    "asset_name": "oria-mercyone_west_des_moines_medical_center-50f0b__f59580c75d09168b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/oria-mercyone_west_des_moines_medical_center-50f0b__f59580c75d09168b.jsonl.gz",
+    "asset_sha256": "f59580c75d09168b6537fbcb6b3a717123c9f0005a2cbebaf69efdc44ad9bb7b",
+    "published_at": "2026-10-27T15:17:21Z"
+  }
 }

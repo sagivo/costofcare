@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b3",
+    "asset_name": "oria-noland_hospital_anniston-c5a88__b3dc5a35a96d2fd7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/oria-noland_hospital_anniston-c5a88__b3dc5a35a96d2fd7.jsonl.gz",
+    "asset_sha256": "b3dc5a35a96d2fd74e081709673200d1e5481c8dfa6fb448d699d5fe1be32460",
+    "published_at": "2026-10-27T15:22:21Z"
+  }
 }

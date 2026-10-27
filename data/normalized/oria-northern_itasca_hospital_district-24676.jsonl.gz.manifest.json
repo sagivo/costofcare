@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "oria-northern_itasca_hospital_district-24676__9a6a819bbb280ffd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-northern_itasca_hospital_district-24676__9a6a819bbb280ffd.jsonl.gz",
+    "asset_sha256": "9a6a819bbb280ffd07d150246feddfc4fdc068132f2b401111e8308e7cf8c60f",
+    "published_at": "2026-10-27T15:23:37Z"
+  }
 }

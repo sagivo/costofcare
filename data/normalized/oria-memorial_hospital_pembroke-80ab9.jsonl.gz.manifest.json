@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-memorial_hospital_pembroke-80ab9__303af74a80d8718d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-memorial_hospital_pembroke-80ab9__303af74a80d8718d.jsonl.gz",
+    "asset_sha256": "303af74a80d8718d5d56c0462c54c32746efb1d2350dcb0f79a3600a7e8eefae",
+    "published_at": "2026-10-27T15:15:41Z"
+  }
 }

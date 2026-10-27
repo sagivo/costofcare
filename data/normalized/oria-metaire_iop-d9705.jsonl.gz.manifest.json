@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2981",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ee",
+    "asset_name": "oria-metaire_iop-d9705__ee906fa7bbe119dc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-metaire_iop-d9705__ee906fa7bbe119dc.jsonl.gz",
+    "asset_sha256": "ee906fa7bbe119dc6d1c41ff8d9839f69a0d675f5215164e2838a52d8bee6a4f",
+    "published_at": "2026-10-27T15:17:49Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2e",
+    "asset_name": "oria-mount_carmel_reynoldsburg-eefe2__2e10eac5d148ce10.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-mount_carmel_reynoldsburg-eefe2__2e10eac5d148ce10.jsonl.gz",
+    "asset_sha256": "2e10eac5d148ce108162a3c5ec8b4fe8019ad560db03da091b7733ca476cb5fd",
+    "published_at": "2026-10-27T15:20:49Z"
+  }
 }

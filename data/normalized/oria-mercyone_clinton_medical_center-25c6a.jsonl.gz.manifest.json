@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "oria-mercyone_clinton_medical_center-25c6a__dce76465d3dc08b6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-mercyone_clinton_medical_center-25c6a__dce76465d3dc08b6.jsonl.gz",
+    "asset_sha256": "dce76465d3dc08b69ba689de58056f724bb3c25795c8ee4946a0c8bc024c3922",
+    "published_at": "2026-10-27T15:16:52Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c8",
+    "asset_name": "oria-mount_carmel_grove_city-bee74__c8ff5eaf573d4466.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c8/oria-mount_carmel_grove_city-bee74__c8ff5eaf573d4466.jsonl.gz",
+    "asset_sha256": "c8ff5eaf573d446631abefae23097a9f0a42328803c6de821ef25925b03985eb",
+    "published_at": "2026-10-27T15:20:44Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-41",
+    "asset_name": "oria-northern_colorado_rehabilitation_hospital-bdedc__412c0715279ae752.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-northern_colorado_rehabilitation_hospital-bdedc__412c0715279ae752.jsonl.gz",
+    "asset_sha256": "412c0715279ae752654e4dee24634d28a41758a4a2515896af8c483726f99264",
+    "published_at": "2026-10-27T15:23:29Z"
+  }
 }

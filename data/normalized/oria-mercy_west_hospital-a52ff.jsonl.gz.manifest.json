@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e5",
+    "asset_name": "oria-mercy_west_hospital-a52ff__e55a18b7842235fa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-mercy_west_hospital-a52ff__e55a18b7842235fa.jsonl.gz",
+    "asset_sha256": "e55a18b7842235faf969da9a039ded33be7518cb247f1c3c9e9eaa2be7e81d1b",
+    "published_at": "2026-10-27T15:16:43Z"
+  }
 }

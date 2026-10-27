@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-metro_nashville_general_hospital-d11c5__d974162490222904.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-metro_nashville_general_hospital-d11c5__d974162490222904.jsonl.gz",
+    "asset_sha256": "d974162490222904a3e30e6752e37d9e6499e1b1e2be3c49f73ade1f2782c0bb",
+    "published_at": "2026-10-27T15:18:37Z"
+  }
 }

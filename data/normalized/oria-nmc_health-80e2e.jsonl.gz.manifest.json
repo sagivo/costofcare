@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "oria-nmc_health-80e2e__dc895099947a5e55.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-nmc_health-80e2e__dc895099947a5e55.jsonl.gz",
+    "asset_sha256": "dc895099947a5e55a7a8383baf4daafe0d7a6e4b14a639d4cabd24b5ada02220",
+    "published_at": "2026-10-27T15:22:15Z"
+  }
 }

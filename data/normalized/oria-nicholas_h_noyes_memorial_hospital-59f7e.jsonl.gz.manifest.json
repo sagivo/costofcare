@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 4075",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-67",
+    "asset_name": "oria-nicholas_h_noyes_memorial_hospital-59f7e__67bbfa3b58200936.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/oria-nicholas_h_noyes_memorial_hospital-59f7e__67bbfa3b58200936.jsonl.gz",
+    "asset_sha256": "67bbfa3b5820093615c69da85f466fcfed9157e5660fcb2233b9585c938c7294",
+    "published_at": "2026-10-27T15:22:04Z"
+  }
 }

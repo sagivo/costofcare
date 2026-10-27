@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-70",
+    "asset_name": "oria-matagorda_county_hospital_district-003c6__7013377c31e9d422.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-matagorda_county_hospital_district-003c6__7013377c31e9d422.jsonl.gz",
+    "asset_sha256": "7013377c31e9d42273df1e2b87c87b32ae7763deb08d332a65089ac7df7306cc",
+    "published_at": "2026-10-27T15:13:26Z"
+  }
 }

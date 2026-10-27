@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-70",
+    "asset_name": "oria-north_central_surgical_center-b5899__70d2e8e9e90a6fe2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-north_central_surgical_center-b5899__70d2e8e9e90a6fe2.jsonl.gz",
+    "asset_sha256": "70d2e8e9e90a6fe2b5f9137bf9839f43e3519f88d14dbb03b78f8ae0c3dc9ba0",
+    "published_at": "2026-10-27T15:22:49Z"
+  }
 }

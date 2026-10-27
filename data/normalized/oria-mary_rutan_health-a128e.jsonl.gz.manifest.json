@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4c",
+    "asset_name": "oria-mary_rutan_health-a128e__4c52370bd54b4790.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/oria-mary_rutan_health-a128e__4c52370bd54b4790.jsonl.gz",
+    "asset_sha256": "4c52370bd54b4790319f75a56aab6af0bd2a4e0f282633c0df49bbfef0cd9bd6",
+    "published_at": "2026-10-27T15:13:12Z"
+  }
 }

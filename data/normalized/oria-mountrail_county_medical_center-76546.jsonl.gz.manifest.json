@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-mountrail_county_medical_center-76546__84018f07c166d411.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-mountrail_county_medical_center-76546__84018f07c166d411.jsonl.gz",
+    "asset_sha256": "84018f07c166d4111cc32f708198e07048f31a928b60c51b9ab07f3e6aed4382",
+    "published_at": "2026-10-27T15:21:11Z"
+  }
 }

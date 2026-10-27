@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-eb",
+    "asset_name": "oria-moanalua_medical_center-85085__eb27da33f43d5724.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-eb/oria-moanalua_medical_center-85085__eb27da33f43d5724.jsonl.gz",
+    "asset_sha256": "eb27da33f43d5724d538c9af6cb94337836f3f678d691bdce01e45f8a8104799",
+    "published_at": "2026-10-27T15:19:21Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "oria-moberly_regional_medical_center-f105b__ec37f53f494c9630.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/oria-moberly_regional_medical_center-f105b__ec37f53f494c9630.jsonl.gz",
+    "asset_sha256": "ec37f53f494c963026c71b597e6479ea1126761b661b78ff24c5b8fee74526fc",
+    "published_at": "2026-10-27T15:19:23Z"
+  }
 }

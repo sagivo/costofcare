@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "oria-morton_plant_north_bay_hospital-109de__f35c0b6a5e157e10.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-morton_plant_north_bay_hospital-109de__f35c0b6a5e157e10.jsonl.gz",
+    "asset_sha256": "f35c0b6a5e157e10efcf2c035211b4fc87687464988f8d027eb58b473563fa1c",
+    "published_at": "2026-10-27T15:20:29Z"
+  }
 }

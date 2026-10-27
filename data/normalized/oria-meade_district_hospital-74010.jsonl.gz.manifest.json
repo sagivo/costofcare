@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e3",
+    "asset_name": "oria-meade_district_hospital-74010__e3d0c8cebe5852eb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/oria-meade_district_hospital-74010__e3d0c8cebe5852eb.jsonl.gz",
+    "asset_sha256": "e3d0c8cebe5852ebfbad06033c2a5ce15cd3e5a729f3a60d31c0b74bb8ff8f63",
+    "published_at": "2026-10-27T15:14:31Z"
+  }
 }

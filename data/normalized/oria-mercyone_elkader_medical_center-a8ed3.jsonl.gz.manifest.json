@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-56",
+    "asset_name": "oria-mercyone_elkader_medical_center-a8ed3__56e746cc6ac4407e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-56/oria-mercyone_elkader_medical_center-a8ed3__56e746cc6ac4407e.jsonl.gz",
+    "asset_sha256": "56e746cc6ac4407eeb7e73344f34648d903b510d04b0474967b1117cb42a3a77",
+    "published_at": "2026-10-27T15:17:04Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-36",
+    "asset_name": "oria-mcgehee_hospital-83d15__36acf7d8f4a8a9df.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-36/oria-mcgehee_hospital-83d15__36acf7d8f4a8a9df.jsonl.gz",
+    "asset_sha256": "36acf7d8f4a8a9dfa8a8ad1ca1dbc218192e37521568de01aed24426662f4310",
+    "published_at": "2026-10-27T15:13:46Z"
+  }
 }

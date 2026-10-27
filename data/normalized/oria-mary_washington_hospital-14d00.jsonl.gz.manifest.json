@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "oria-mary_washington_hospital-14d00__f3380e75085663ba.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-mary_washington_hospital-14d00__f3380e75085663ba.jsonl.gz",
+    "asset_sha256": "f3380e75085663bac8958f4c449604c9171b04c57a78f46c6e63cc85b84f4c8f",
+    "published_at": "2026-10-27T15:13:15Z"
+  }
 }

@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-27T02:19:43.847504+00:00",
+  "generated_at": "2026-10-27T15:30:22.725594+00:00",
   "status": "pass",
   "validated_files": 2750,
-  "validated_records": 13560303,
+  "validated_records": 13671520,
   "row_width_mismatch_records": 297391,
   "inferred_encoding_files": 278,
   "source_formats": {
-    "cms-csv": 13423146,
+    "cms-csv": 13534363,
     "cms-json": 137157
   },
   "populated_field_counts": {
-    "description": 12902180,
-    "code|1": 12760679,
-    "code|1|type": 12765052,
-    "code|2": 11712810,
-    "code|2|type": 11713638,
+    "description": 13013397,
+    "code|1": 12871896,
+    "code|1|type": 12876269,
+    "code|2": 11806147,
+    "code|2|type": 11806975,
     "code|3": 7262798,
     "code|3|type": 7262798,
-    "setting": 12747508,
+    "setting": 12858725,
     "billing_class": 10348843,
-    "standard_charge|gross": 11068223,
-    "standard_charge|discounted_cash": 11071698,
-    "standard_charge|min": 12085583,
-    "standard_charge|max": 12102215,
+    "standard_charge|gross": 11161560,
+    "standard_charge|discounted_cash": 11165035,
+    "standard_charge|min": 12196800,
+    "standard_charge|max": 12213432,
     "standard_charge|Americas PPO (Araz)(A M U)|Americas PPO (Araz)(A M U)|negotiated_dollar": 1514,
     "standard_charge|Americas PPO (Araz)(A M U)|Americas PPO (Araz)(A M U)|methodology": 1514,
     "standard_charge|First Health (A C E G H U B D N O R S)|First Health (ABDMNOSURV)|negotiated_dollar": 6352,
@@ -162,20 +162,20 @@
     "drug_information": 115,
     "code_information": 137157,
     "standard_charges": 137157,
-    "payer_name": 12566322,
-    "plan_name": 12562663,
-    "standard_charge|negotiated_dollar": 11417892,
+    "payer_name": 12677539,
+    "plan_name": 12673880,
+    "standard_charge|negotiated_dollar": 11529069,
     "standard_charge|negotiated_algorithm": 5041616,
-    "standard_charge|negotiated_percentage": 3145591,
-    "count": 7207288,
-    "standard_charge|methodology": 12415173,
+    "standard_charge|negotiated_percentage": 3145631,
+    "count": 7207328,
+    "standard_charge|methodology": 12526390,
     "count_of_compared_rates": 512264,
-    "additional_generic_notes": 8813750,
+    "additional_generic_notes": 8924967,
     "footnote": 4031287,
     "median_amount": 458041,
     "10th_percentile": 445484,
     "90th_percentile": 445522,
-    "modifiers": 3014846,
+    "modifiers": 3052182,
     "standard_charge|Aetna Direct/Indirect Regional Network|Aetna Direct/Indirect Regional (BDOSV)|negotiated_dollar": 3520,
     "standard_charge|Aetna Direct/Indirect Regional Network|Aetna Direct/Indirect Regional (BDOSV)|methodology": 3520,
     "standard_charge|Aetna|Aetna Elevate (BDOSV)|negotiated_dollar": 3510,
@@ -47526,7 +47526,7 @@
       "records": 574,
       "source_sha256": "30beedb5c4fccc0dbdc4e2a1243d779aa09568ab939d9feef5503fe86cf2b497",
       "source_url": "https://avala.com/wp-content/uploads/2026/03/721426390_fairway-medical-center_standardcharges.csv",
-      "extracted_at": "2026-10-26T15:30:05Z"
+      "extracted_at": "2026-10-27T14:56:51Z"
     },
     {
       "source_id": "avon-hospital",
@@ -50589,10 +50589,10 @@
     },
     {
       "source_id": "oria-ascension_st_vincent_carmel_ambulatory_surgery_center-a3a7e",
-      "records": 14463,
+      "records": 50721,
       "source_sha256": "440d37625051ed9f943be8137520a3801eed21ead00f1367cc0f1cfe32da4614",
       "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/320014795_carmel-ambulatory-surgery-center-llc_standardcharges.csv",
-      "extracted_at": "2026-10-22T08:46:15Z"
+      "extracted_at": "2026-10-27T15:07:03Z"
     },
     {
       "source_id": "oria-ascension_st_vincent_clay-747df",
@@ -50603,10 +50603,10 @@
     },
     {
       "source_id": "oria-ascension_st_vincent_endoscopy-44eaa",
-      "records": 14475,
+      "records": 50715,
       "source_sha256": "262c6c894618bd1bfeecff6bca630a807c4f23c14eee91720b3cb0b9008bf979",
       "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/320029881_endoscopy-center-llc_standardcharges.csv",
-      "extracted_at": "2026-10-22T08:47:35Z"
+      "extracted_at": "2026-10-27T15:07:11Z"
     },
     {
       "source_id": "oria-ascension_st_vincent_heart_center_st_vincent_heart_center_of_indiana_llc-4cdbe",
@@ -50624,10 +50624,10 @@
     },
     {
       "source_id": "oria-ascension_st_vincent_naab_surgery_center-c4fd2",
-      "records": 15447,
+      "records": 54166,
       "source_sha256": "1d7cc8691dbc1d3af56f705c8cdd8ffcaee2711de7634ad9a1bcf55931f7628f",
       "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/351991390_naab-road-surgery-center-llc_standardcharges.csv",
-      "extracted_at": "2026-10-22T08:47:45Z"
+      "extracted_at": "2026-10-27T15:06:06Z"
     },
     {
       "source_id": "oria-ascension_st_vincent_randolph-32a37",

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-mt_ascutney_hospital_and_health_center-04e72__638d1b2e3f1b3a14.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-mt_ascutney_hospital_and_health_center-04e72__638d1b2e3f1b3a14.jsonl.gz",
+    "asset_sha256": "638d1b2e3f1b3a14d0f4eb0dd1b0a499f3c18498d1a329eb6617d37b1edcb3db",
+    "published_at": "2026-10-27T15:21:13Z"
+  }
 }

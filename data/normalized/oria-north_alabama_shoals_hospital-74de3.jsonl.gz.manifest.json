@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ac",
+    "asset_name": "oria-north_alabama_shoals_hospital-74de3__acfb0b15be62f58d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/oria-north_alabama_shoals_hospital-74de3__acfb0b15be62f58d.jsonl.gz",
+    "asset_sha256": "acfb0b15be62f58d5790ade47588bb1351cd1a6a627ae0453b763205aa5fce51",
+    "published_at": "2026-10-27T15:22:39Z"
+  }
 }

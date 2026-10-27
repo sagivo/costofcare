@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5199",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-nathan_littauer_hospital_association-8c501__90b7cd2c0673f123.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-nathan_littauer_hospital_association-8c501__90b7cd2c0673f123.jsonl.gz",
+    "asset_sha256": "90b7cd2c0673f123e4770d15abbe3b26b623f95046f6e860051c32952b52aa1c",
+    "published_at": "2026-10-27T15:21:32Z"
+  }
 }

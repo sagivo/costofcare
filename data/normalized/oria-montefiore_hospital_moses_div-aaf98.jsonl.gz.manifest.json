@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a6",
+    "asset_name": "oria-montefiore_hospital_moses_div-aaf98__a6e8874b7bbef46b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-montefiore_hospital_moses_div-aaf98__a6e8874b7bbef46b.jsonl.gz",
+    "asset_sha256": "a6e8874b7bbef46bbb28100a173dca572e87dca1f4f6c0bc3846ff851c73fcca",
+    "published_at": "2026-10-27T15:19:59Z"
+  }
 }

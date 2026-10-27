@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-methodist_jennie_edmundson-4e31b__6da286e5bbcff44d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-methodist_jennie_edmundson-4e31b__6da286e5bbcff44d.jsonl.gz",
+    "asset_sha256": "6da286e5bbcff44d8442ea1f407f6dc37ae975209c5d3dbc1405f88143345033",
+    "published_at": "2026-10-27T15:18:09Z"
+  }
 }

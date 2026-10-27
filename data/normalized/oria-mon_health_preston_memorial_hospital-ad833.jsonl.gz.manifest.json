@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-mon_health_preston_memorial_hospital-ad833__86e70ebdb1d21592.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-mon_health_preston_memorial_hospital-ad833__86e70ebdb1d21592.jsonl.gz",
+    "asset_sha256": "86e70ebdb1d2159256b8631214a8c947aad670698047fc0a1c3531021b498c22",
+    "published_at": "2026-10-27T15:19:36Z"
+  }
 }

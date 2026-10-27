@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-48",
+    "asset_name": "oria-methodist_legacy_er_and_urgent_care-a7f06__48249d18f880cbe5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-48/oria-methodist_legacy_er_and_urgent_care-a7f06__48249d18f880cbe5.jsonl.gz",
+    "asset_sha256": "48249d18f880cbe53e44f2aaabdc136a7188506d2c685319552857f013b3c252",
+    "published_at": "2026-10-27T15:18:11Z"
+  }
 }

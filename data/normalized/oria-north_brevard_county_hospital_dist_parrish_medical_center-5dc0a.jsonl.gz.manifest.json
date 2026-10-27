@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-88",
+    "asset_name": "oria-north_brevard_county_hospital_dist_parrish_medical_center-5dc0a__88379dff91af0487.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-88/oria-north_brevard_county_hospital_dist_parrish_medical_center-5dc0a__88379dff91af0487.jsonl.gz",
+    "asset_sha256": "88379dff91af0487be6c81f9ff33704d80dfa6db3b2d3c52e7380301ac91d670",
+    "published_at": "2026-10-27T15:22:44Z"
+  }
 }

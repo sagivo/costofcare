@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "oria-mississippi_baptist_medical_center-d8be6__43ad2de0f3d767b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-mississippi_baptist_medical_center-d8be6__43ad2de0f3d767b7.jsonl.gz",
+    "asset_sha256": "43ad2de0f3d767b728828fd42c62c31086d7141920cc50c3b2829baca9ecdf7a",
+    "published_at": "2026-10-27T15:19:13Z"
+  }
 }

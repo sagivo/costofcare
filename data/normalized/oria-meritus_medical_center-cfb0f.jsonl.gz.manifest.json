@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2400",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fe",
+    "asset_name": "oria-meritus_medical_center-cfb0f__fef717ee46399e79.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/oria-meritus_medical_center-cfb0f__fef717ee46399e79.jsonl.gz",
+    "asset_sha256": "fef717ee46399e79fb23ecc6b74973637649cf7441ff07c9716c10e33c8a8a35",
+    "published_at": "2026-10-27T15:17:41Z"
+  }
 }

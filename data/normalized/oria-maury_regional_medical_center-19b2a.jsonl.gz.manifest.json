@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-maury_regional_medical_center-19b2a__8514d2c2ba27a122.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-maury_regional_medical_center-19b2a__8514d2c2ba27a122.jsonl.gz",
+    "asset_sha256": "8514d2c2ba27a1227ebbbe5033e25bf2cdae58d134b9fcf465ddcd3f3785d267",
+    "published_at": "2026-10-27T15:13:31Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1a",
+    "asset_name": "oria-medstar_georgetown_hospital-863a0__1a1754674cfcf3cd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/oria-medstar_georgetown_hospital-863a0__1a1754674cfcf3cd.jsonl.gz",
+    "asset_sha256": "1a1754674cfcf3cdee0b30e9c509e7289d8573a0ba9ecd7de34041bbbd18a09d",
+    "published_at": "2026-10-27T15:15:03Z"
+  }
 }

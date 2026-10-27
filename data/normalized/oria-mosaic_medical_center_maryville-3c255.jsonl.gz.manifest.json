@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ee",
+    "asset_name": "oria-mosaic_medical_center_maryville-3c255__ee2f73e8a70534d6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-mosaic_medical_center_maryville-3c255__ee2f73e8a70534d6.jsonl.gz",
+    "asset_sha256": "ee2f73e8a70534d64bd3f6bb88621da58fb6b4a0f7b247dc872aa0232b713d0f",
+    "published_at": "2026-10-27T15:20:37Z"
+  }
 }

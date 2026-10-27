@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-nacogdoches_memorial_hospital-fe880__864404a6f0350fd4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-nacogdoches_memorial_hospital-fe880__864404a6f0350fd4.jsonl.gz",
+    "asset_sha256": "864404a6f0350fd447191a47265eb1e5645bd2f760e1534e5108a87f92610403",
+    "published_at": "2026-10-27T15:21:22Z"
+  }
 }

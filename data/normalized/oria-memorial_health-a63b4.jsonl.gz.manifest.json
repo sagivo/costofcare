@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-memorial_health-a63b4__849ccfee14d22e81.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-memorial_health-a63b4__849ccfee14d22e81.jsonl.gz",
+    "asset_sha256": "849ccfee14d22e81fcc4b31b0ad145ffba042e7cc2c7b019e83f5a364f5e06f0",
+    "published_at": "2026-10-27T15:15:25Z"
+  }
 }

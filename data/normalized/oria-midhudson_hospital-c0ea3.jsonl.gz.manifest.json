@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-98",
+    "asset_name": "oria-midhudson_hospital-c0ea3__98dd0af68f98e0aa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/oria-midhudson_hospital-c0ea3__98dd0af68f98e0aa.jsonl.gz",
+    "asset_sha256": "98dd0af68f98e0aa00658e1ef5a62f0e0f2d74c1b7815f19d33a497ee8569feb",
+    "published_at": "2026-10-27T15:18:47Z"
+  }
 }

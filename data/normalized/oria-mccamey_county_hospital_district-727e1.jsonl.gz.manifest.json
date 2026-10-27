@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "oria-mccamey_county_hospital_district-727e1__1c85fccc4ed68eef.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-mccamey_county_hospital_district-727e1__1c85fccc4ed68eef.jsonl.gz",
+    "asset_sha256": "1c85fccc4ed68eef13d5de1d1ed04cdfc58ca7771d4853f1953e0e9e84bf82ee",
+    "published_at": "2026-10-27T15:13:39Z"
+  }
 }

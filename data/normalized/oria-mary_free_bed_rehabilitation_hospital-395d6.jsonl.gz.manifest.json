@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-18",
+    "asset_name": "oria-mary_free_bed_rehabilitation_hospital-395d6__18c4805095354703.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-18/oria-mary_free_bed_rehabilitation_hospital-395d6__18c4805095354703.jsonl.gz",
+    "asset_sha256": "18c4805095354703a1b39069c018362285168ff6c307a1e432010b45b799977d",
+    "published_at": "2026-10-27T15:13:07Z"
+  }
 }

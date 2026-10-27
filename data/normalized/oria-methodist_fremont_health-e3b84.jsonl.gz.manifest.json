@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-methodist_fremont_health-e3b84__86d9e3a131772d9c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-methodist_fremont_health-e3b84__86d9e3a131772d9c.jsonl.gz",
+    "asset_sha256": "86d9e3a131772d9c04e0e3c6c32c96f937256c60084a281a01c4d0afd08cf23e",
+    "published_at": "2026-10-27T15:17:56Z"
+  }
 }

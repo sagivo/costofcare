@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f4",
+    "asset_name": "oria-northbay_health_medical_center-6f337__f4b44afdc9fe055a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f4/oria-northbay_health_medical_center-6f337__f4b44afdc9fe055a.jsonl.gz",
+    "asset_sha256": "f4b44afdc9fe055a31d7254a786245c5a58d0394a6e8b1a54745a874cd98654a",
+    "published_at": "2026-10-27T15:23:10Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b9",
+    "asset_name": "oria-methodist_hospital_of_sacramento-06c59__b9b90c7ed6927ff5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b9/oria-methodist_hospital_of_sacramento-06c59__b9b90c7ed6927ff5.jsonl.gz",
+    "asset_sha256": "b9b90c7ed6927ff50c4515ba82cac43075aa6b29dceda7cd0cfca080d24bc435",
+    "published_at": "2026-10-27T15:18:03Z"
+  }
 }

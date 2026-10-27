@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-45",
+    "asset_name": "oria-monroe_hospital-bf0d7__455823fc813e5259.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-45/oria-monroe_hospital-bf0d7__455823fc813e5259.jsonl.gz",
+    "asset_sha256": "455823fc813e52592a9393f9bfa03a8f24bb5442be399695bb29742167492f46",
+    "published_at": "2026-10-27T15:19:50Z"
+  }
 }

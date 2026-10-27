@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9e",
+    "asset_name": "oria-memorial_hospital_miramar-5a9a2__9e94c5adce77ff98.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9e/oria-memorial_hospital_miramar-5a9a2__9e94c5adce77ff98.jsonl.gz",
+    "asset_sha256": "9e94c5adce77ff9815d08e157ddd3716a95b8be92a074dd1502ce3626b47d496",
+    "published_at": "2026-10-27T15:15:34Z"
+  }
 }
