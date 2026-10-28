@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-samaritan_clinic_on_patton-d7834__3031497444f5dd83.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-samaritan_clinic_on_patton-d7834__3031497444f5dd83.jsonl.gz",
+    "asset_sha256": "3031497444f5dd83266d06266c30caca39cf898988ef0af82c2ef20000ea7eec",
+    "published_at": "2026-10-28T17:21:03Z"
+  }
 }

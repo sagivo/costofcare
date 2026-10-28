@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-14",
+    "asset_name": "oria-southeast_colorado_hospital_district-c0327__146fecb51d3854b1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-14/oria-southeast_colorado_hospital_district-c0327__146fecb51d3854b1.jsonl.gz",
+    "asset_sha256": "146fecb51d3854b15df7932d4cd1089ee700bb319627d35eeeab65e77aec46a7",
+    "published_at": "2026-10-28T17:23:15Z"
+  }
 }

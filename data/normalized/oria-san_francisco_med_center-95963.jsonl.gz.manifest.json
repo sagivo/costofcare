@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cc",
+    "asset_name": "oria-san_francisco_med_center-95963__ccc7f3e2d9709191.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-san_francisco_med_center-95963__ccc7f3e2d9709191.jsonl.gz",
+    "asset_sha256": "ccc7f3e2d97091911b72624a70642526044040e467220421f3dd7598f2d7b74e",
+    "published_at": "2026-10-28T17:21:19Z"
+  }
 }

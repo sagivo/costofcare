@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-33",
+    "asset_name": "oria-specialty_hospital_of_san_antonio_medical_center_south-33ea6__33b2385c7622b48a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-specialty_hospital_of_san_antonio_medical_center_south-33ea6__33b2385c7622b48a.jsonl.gz",
+    "asset_sha256": "33b2385c7622b48a63eece470aec883404b7951af4a9050b258f9c254d9e58b1",
+    "published_at": "2026-10-28T17:23:43Z"
+  }
 }

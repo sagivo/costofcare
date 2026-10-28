@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4857",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0a",
+    "asset_name": "oria-skokie_hospital-cbef9__0a205b5a3bb3a37e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0a/oria-skokie_hospital-cbef9__0a205b5a3bb3a37e.jsonl.gz",
+    "asset_sha256": "0a205b5a3bb3a37eb219059cc98d230b2e7e793ac67f4069003df618a257fe5d",
+    "published_at": "2026-10-28T17:22:35Z"
+  }
 }

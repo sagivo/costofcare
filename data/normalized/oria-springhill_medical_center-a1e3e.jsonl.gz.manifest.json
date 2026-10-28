@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-48",
+    "asset_name": "oria-springhill_medical_center-a1e3e__48e99c4057a7d83b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-48/oria-springhill_medical_center-a1e3e__48e99c4057a7d83b.jsonl.gz",
+    "asset_sha256": "48e99c4057a7d83b7360c40b4eb9d1d174d3b0c3868be50bb591b65009ec43f2",
+    "published_at": "2026-10-28T17:23:55Z"
+  }
 }

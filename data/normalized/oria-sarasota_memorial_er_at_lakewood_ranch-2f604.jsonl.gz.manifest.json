@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c7",
+    "asset_name": "oria-sarasota_memorial_er_at_lakewood_ranch-2f604__c71ac5be18de1a03.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c7/oria-sarasota_memorial_er_at_lakewood_ranch-2f604__c71ac5be18de1a03.jsonl.gz",
+    "asset_sha256": "c71ac5be18de1a0308fc9f6bf1cb0a90a52b7e3cdc165ed021e89de9f7ed8ce4",
+    "published_at": "2026-10-28T17:21:34Z"
+  }
 }

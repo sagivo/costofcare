@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-97",
+    "asset_name": "oria-shannon_medical_center-729ca__97f2fa31ec99c3a3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-shannon_medical_center-729ca__97f2fa31ec99c3a3.jsonl.gz",
+    "asset_sha256": "97f2fa31ec99c3a3e436cf4d86cef0f9ae71aa3f0d83c4adda3b3354670cfd85",
+    "published_at": "2026-10-28T17:22:03Z"
+  }
 }

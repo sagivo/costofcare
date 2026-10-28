@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-st_elizabeth_hospital-752cf__269169da64fe93a2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-st_elizabeth_hospital-752cf__269169da64fe93a2.jsonl.gz",
+    "asset_sha256": "269169da64fe93a2a063d03f0de79e87ebed3d7f533d1630e4a2dc2993753946",
+    "published_at": "2026-10-28T17:24:32Z"
+  }
 }

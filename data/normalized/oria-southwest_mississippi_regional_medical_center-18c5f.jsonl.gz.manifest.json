@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-15",
+    "asset_name": "oria-southwest_mississippi_regional_medical_center-18c5f__15641858ca61d777.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-15/oria-southwest_mississippi_regional_medical_center-18c5f__15641858ca61d777.jsonl.gz",
+    "asset_sha256": "15641858ca61d777c8cd3e36472b05a50842644259dd7c1038f48f6b18e2acd7",
+    "published_at": "2026-10-28T17:23:33Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1509",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-st_clair_hospital-8f1e2__8617fcb7aa6a0946.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-st_clair_hospital-8f1e2__8617fcb7aa6a0946.jsonl.gz",
+    "asset_sha256": "8617fcb7aa6a0946974e63277255b6f57fd43e567f455a3c6f031c7701d214fd",
+    "published_at": "2026-10-28T17:24:23Z"
+  }
 }

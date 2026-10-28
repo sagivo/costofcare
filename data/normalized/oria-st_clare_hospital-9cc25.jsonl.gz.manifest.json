@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-st_clare_hospital-9cc25__6de0d961a5b03ede.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-st_clare_hospital-9cc25__6de0d961a5b03ede.jsonl.gz",
+    "asset_sha256": "6de0d961a5b03ede47cfff5fe0861ea92b7b7baec873abb01c013281fb230f2d",
+    "published_at": "2026-10-28T17:24:25Z"
+  }
 }

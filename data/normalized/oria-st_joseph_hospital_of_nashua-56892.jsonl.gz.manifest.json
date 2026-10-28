@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "oria-st_joseph_hospital_of_nashua-56892__f078bc5baa990134.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-st_joseph_hospital_of_nashua-56892__f078bc5baa990134.jsonl.gz",
+    "asset_sha256": "f078bc5baa99013423d9b7ccc955e97ab35f45526aaca2034059da200e3afb86",
+    "published_at": "2026-10-28T17:24:55Z"
+  }
 }

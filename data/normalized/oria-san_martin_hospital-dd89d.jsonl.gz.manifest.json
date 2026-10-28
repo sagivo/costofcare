@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-41",
+    "asset_name": "oria-san_martin_hospital-dd89d__4180db2a975763b0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-san_martin_hospital-dd89d__4180db2a975763b0.jsonl.gz",
+    "asset_sha256": "4180db2a975763b032ec1f7bc5a997b952b0de58b0b61698a0b40aa1b9f3ea2e",
+    "published_at": "2026-10-28T17:21:27Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "oria-spencer_municipal_hospital-d925b__ff3d416d7693c81a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/oria-spencer_municipal_hospital-d925b__ff3d416d7693c81a.jsonl.gz",
+    "asset_sha256": "ff3d416d7693c81ada7d5c4da16f92885dbda3fa4c1e9025a02c37f323d711b2",
+    "published_at": "2026-10-28T17:23:45Z"
+  }
 }

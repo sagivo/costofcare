@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f6",
+    "asset_name": "oria-st_joseph_s_medical_center_of_stockton-dbb71__f6fee36e584f7d75.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f6/oria-st_joseph_s_medical_center_of_stockton-dbb71__f6fee36e584f7d75.jsonl.gz",
+    "asset_sha256": "f6fee36e584f7d75cf3335e5d9adb9a6eeb560c9ebfe0efc5e084b863866a728",
+    "published_at": "2026-10-28T17:25:11Z"
+  }
 }

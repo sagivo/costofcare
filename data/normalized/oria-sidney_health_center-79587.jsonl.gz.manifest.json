@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-sidney_health_center-79587__636a351b67499c35.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-sidney_health_center-79587__636a351b67499c35.jsonl.gz",
+    "asset_sha256": "636a351b67499c35ee7b85c215920c6e8a61a89648aed369703935b608809857",
+    "published_at": "2026-10-28T17:22:20Z"
+  }
 }

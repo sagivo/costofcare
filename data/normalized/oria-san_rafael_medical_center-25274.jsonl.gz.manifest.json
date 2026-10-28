@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "oria-san_rafael_medical_center-25274__d12b98f51722a85e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/oria-san_rafael_medical_center-25274__d12b98f51722a85e.jsonl.gz",
+    "asset_sha256": "d12b98f51722a85e32f0b1ce27f7b5447c0abf7746abe6e6a2447651e4d35bfe",
+    "published_at": "2026-10-28T17:21:29Z"
+  }
 }

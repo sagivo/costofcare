@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-36",
+    "asset_name": "oria-san_dimas_community_hospital-585b3__3675aa66c2108595.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-36/oria-san_dimas_community_hospital-585b3__3675aa66c2108595.jsonl.gz",
+    "asset_sha256": "3675aa66c2108595c303c5b29136079bc2fc57c7e8c8486e57ce6a4175e1e266",
+    "published_at": "2026-10-28T17:21:17Z"
+  }
 }

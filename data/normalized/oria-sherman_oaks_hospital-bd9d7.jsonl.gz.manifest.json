@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-21",
+    "asset_name": "oria-sherman_oaks_hospital-bd9d7__21ea6d0f6282ea23.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-sherman_oaks_hospital-bd9d7__21ea6d0f6282ea23.jsonl.gz",
+    "asset_sha256": "21ea6d0f6282ea23bcb2e835375d10c9eca7ec7ef2acb732a2f8ede798e0122a",
+    "published_at": "2026-10-28T17:22:16Z"
+  }
 }

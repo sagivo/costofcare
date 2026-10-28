@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6f",
+    "asset_name": "oria-shelbyville_hospital-0bb48__6f0b09ef276f64af.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6f/oria-shelbyville_hospital-0bb48__6f0b09ef276f64af.jsonl.gz",
+    "asset_sha256": "6f0b09ef276f64afd2f29f697a5fa47f3ce3393c770a45b2c7884521f531c32c",
+    "published_at": "2026-10-28T17:22:10Z"
+  }
 }

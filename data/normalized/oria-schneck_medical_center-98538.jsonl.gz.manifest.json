@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1732",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1d",
+    "asset_name": "oria-schneck_medical_center-98538__1db5c93f2bc7b419.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-schneck_medical_center-98538__1db5c93f2bc7b419.jsonl.gz",
+    "asset_sha256": "1db5c93f2bc7b41989380eec2d93aa35db4573946a45be443d33f9b92d6e8523",
+    "published_at": "2026-10-28T17:21:45Z"
+  }
 }

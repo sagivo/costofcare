@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8c",
+    "asset_name": "oria-southside_regional_medical_center-19090__8cb94ad15acdfbc4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-southside_regional_medical_center-19090__8cb94ad15acdfbc4.jsonl.gz",
+    "asset_sha256": "8cb94ad15acdfbc4f3732aed09507f08330fae9b10ff10cd5c396a8696646884",
+    "published_at": "2026-10-28T17:23:26Z"
+  }
 }

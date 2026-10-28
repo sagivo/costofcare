@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-49",
+    "asset_name": "oria-siena_hospital-1bd4e__49f81453662aed19.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-49/oria-siena_hospital-1bd4e__49f81453662aed19.jsonl.gz",
+    "asset_sha256": "49f81453662aed194ee2fb8aec3708ada4f2cddfe763eccbb3117034b99d687a",
+    "published_at": "2026-10-28T17:22:22Z"
+  }
 }

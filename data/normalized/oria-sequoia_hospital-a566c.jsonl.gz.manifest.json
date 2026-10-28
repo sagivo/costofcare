@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b7",
+    "asset_name": "oria-sequoia_hospital-a566c__b7335d5748bd5371.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b7/oria-sequoia_hospital-a566c__b7335d5748bd5371.jsonl.gz",
+    "asset_sha256": "b7335d5748bd53717695997eef64274d541fa645af54023fca03f998268fdf70",
+    "published_at": "2026-10-28T17:21:57Z"
+  }
 }

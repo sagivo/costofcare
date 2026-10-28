@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-st_elizabeth_boardman_hospital-5d5e9__027518c27d0fc479.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-st_elizabeth_boardman_hospital-5d5e9__027518c27d0fc479.jsonl.gz",
+    "asset_sha256": "027518c27d0fc47959874defd0f5f10bc44ccdc5aa22bfbab87254ed74e0ddfb",
+    "published_at": "2026-10-28T17:24:27Z"
+  }
 }

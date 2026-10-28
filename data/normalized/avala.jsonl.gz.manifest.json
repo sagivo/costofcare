@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "avala__4300a5af0f50c06f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/avala__4300a5af0f50c06f.jsonl.gz",
+    "asset_sha256": "4300a5af0f50c06fba9ab961bfb86d8bc4c065c5e72fc28f85a2aef37258a55d",
+    "published_at": "2026-10-28T17:17:03Z"
+  }
 }

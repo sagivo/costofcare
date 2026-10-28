@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-52",
+    "asset_name": "oria-san_marcos_medical_center-1a2b4__52c43b6c9f2c43ac.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/oria-san_marcos_medical_center-1a2b4__52c43b6c9f2c43ac.jsonl.gz",
+    "asset_sha256": "52c43b6c9f2c43acb1790bc1f12ab614d8521ce155a6e67bf259775b5055fa1e",
+    "published_at": "2026-10-28T17:21:25Z"
+  }
 }

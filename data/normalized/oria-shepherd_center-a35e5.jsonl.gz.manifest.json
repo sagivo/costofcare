@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-shepherd_center-a35e5__5cf806e22f24be02.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-shepherd_center-a35e5__5cf806e22f24be02.jsonl.gz",
+    "asset_sha256": "5cf806e22f24be026c4067fa482ed9b601f47da277e9ce47c0382885da69c86d",
+    "published_at": "2026-10-28T17:22:12Z"
+  }
 }

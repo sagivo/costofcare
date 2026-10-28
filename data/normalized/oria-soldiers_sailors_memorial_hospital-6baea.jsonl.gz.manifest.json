@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-soldiers_sailors_memorial_hospital-6baea__5ed61645304b5dea.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-soldiers_sailors_memorial_hospital-6baea__5ed61645304b5dea.jsonl.gz",
+    "asset_sha256": "5ed61645304b5deacda6eb2e9b18304bd234ab42f06fc8f94fac35522381b474",
+    "published_at": "2026-10-28T17:22:46Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2f",
+    "asset_name": "oria-shirley_ryan_abilitylab-9b5c0__2faae6e31badf955.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/oria-shirley_ryan_abilitylab-9b5c0__2faae6e31badf955.jsonl.gz",
+    "asset_sha256": "2faae6e31badf9551a0d30052a7988d998882376b236a2603202df84da050089",
+    "published_at": "2026-10-28T17:22:18Z"
+  }
 }

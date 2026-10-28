@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7c",
+    "asset_name": "oria-south_texas_rehabilitation_hospital-d1c39__7c2546df586a7dba.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/oria-south_texas_rehabilitation_hospital-d1c39__7c2546df586a7dba.jsonl.gz",
+    "asset_sha256": "7c2546df586a7dbafd83ed09e256a56574b74ee0c03826824a132e4f18680856",
+    "published_at": "2026-10-28T17:23:11Z"
+  }
 }

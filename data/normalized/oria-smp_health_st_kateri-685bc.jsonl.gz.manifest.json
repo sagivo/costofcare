@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-09",
+    "asset_name": "oria-smp_health_st_kateri-685bc__0952cbb327142cec.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-smp_health_st_kateri-685bc__0952cbb327142cec.jsonl.gz",
+    "asset_sha256": "0952cbb327142cec5f645fa57ce4a3a466ce6a1102cbb7274a52f007046d7b42",
+    "published_at": "2026-10-28T17:22:43Z"
+  }
 }

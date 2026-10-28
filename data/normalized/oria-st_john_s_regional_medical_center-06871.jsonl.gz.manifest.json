@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-73",
+    "asset_name": "oria-st_john_s_regional_medical_center-06871__7364fdd482b23007.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-73/oria-st_john_s_regional_medical_center-06871__7364fdd482b23007.jsonl.gz",
+    "asset_sha256": "7364fdd482b2300730cd9e0a9d99613b44387b7397fa4b81b925828048c31d62",
+    "published_at": "2026-10-28T17:24:50Z"
+  }
 }

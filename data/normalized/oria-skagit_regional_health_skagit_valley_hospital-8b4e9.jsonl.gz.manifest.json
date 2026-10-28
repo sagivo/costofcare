@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d3",
+    "asset_name": "oria-skagit_regional_health_skagit_valley_hospital-8b4e9__d39aed594dca1627.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d3/oria-skagit_regional_health_skagit_valley_hospital-8b4e9__d39aed594dca1627.jsonl.gz",
+    "asset_sha256": "d39aed594dca1627cf9adacedbdf319ae907e943dd8470f288fc965fd64e21ef",
+    "published_at": "2026-10-28T17:22:34Z"
+  }
 }

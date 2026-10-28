@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "oria-st_john_s_camarillo_hospital-55bcb__31a706e6102bed2e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-st_john_s_camarillo_hospital-55bcb__31a706e6102bed2e.jsonl.gz",
+    "asset_sha256": "31a706e6102bed2e629cd920427432fa8ce85e58e88f80437f2936d6696fb65b",
+    "published_at": "2026-10-28T17:24:46Z"
+  }
 }

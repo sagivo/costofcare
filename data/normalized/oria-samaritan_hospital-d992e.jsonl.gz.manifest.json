@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-06",
+    "asset_name": "oria-samaritan_hospital-d992e__06be02c9a03544d6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-06/oria-samaritan_hospital-d992e__06be02c9a03544d6.jsonl.gz",
+    "asset_sha256": "06be02c9a03544d65e30dadc2d56622c3f892f31a7db0602db87beb9782a716a",
+    "published_at": "2026-10-28T17:21:05Z"
+  }
 }

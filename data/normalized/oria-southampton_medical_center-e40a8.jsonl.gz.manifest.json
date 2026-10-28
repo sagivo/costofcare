@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b4",
+    "asset_name": "oria-southampton_medical_center-e40a8__b452f4c3be431853.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-southampton_medical_center-e40a8__b452f4c3be431853.jsonl.gz",
+    "asset_sha256": "b452f4c3be431853fe341e4f60668db51b87693b812280d8872fdc4cb577290f",
+    "published_at": "2026-10-28T17:23:13Z"
+  }
 }

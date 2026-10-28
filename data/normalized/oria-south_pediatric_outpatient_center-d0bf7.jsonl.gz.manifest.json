@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4302",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-53",
+    "asset_name": "oria-south_pediatric_outpatient_center-d0bf7__5311404aee31d735.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/oria-south_pediatric_outpatient_center-d0bf7__5311404aee31d735.jsonl.gz",
+    "asset_sha256": "5311404aee31d7352f70779ccb25b602bdaa332f2d52fbf9178ca7551be4ef39",
+    "published_at": "2026-10-28T17:22:59Z"
+  }
 }

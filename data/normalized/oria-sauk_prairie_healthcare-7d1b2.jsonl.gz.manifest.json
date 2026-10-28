@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-sauk_prairie_healthcare-7d1b2__631c71e98112a87e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-sauk_prairie_healthcare-7d1b2__631c71e98112a87e.jsonl.gz",
+    "asset_sha256": "631c71e98112a87e2a3c37082baa22fdbcb8f276ad9d9b7ca233c793bf623b66",
+    "published_at": "2026-10-28T17:21:38Z"
+  }
 }

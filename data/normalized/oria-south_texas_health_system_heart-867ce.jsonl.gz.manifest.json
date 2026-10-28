@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e7",
+    "asset_name": "oria-south_texas_health_system_heart-867ce__e7ca7528ce0fc55c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/oria-south_texas_health_system_heart-867ce__e7ca7528ce0fc55c.jsonl.gz",
+    "asset_sha256": "e7ca7528ce0fc55c3db76f2b45b818e4194755eb2aa593682346e238a24fcab5",
+    "published_at": "2026-10-28T17:23:08Z"
+  }
 }

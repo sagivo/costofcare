@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-32",
+    "asset_name": "oria-st_joseph_mercy_ann_arbor-93e34__323d622d4b7aee16.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-32/oria-st_joseph_mercy_ann_arbor-93e34__323d622d4b7aee16.jsonl.gz",
+    "asset_sha256": "323d622d4b7aee16b818d5fe8a04688848988811f7c293e4f663793ced75a80f",
+    "published_at": "2026-10-28T17:25:02Z"
+  }
 }

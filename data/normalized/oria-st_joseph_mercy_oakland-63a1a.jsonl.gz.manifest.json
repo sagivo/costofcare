@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fa",
+    "asset_name": "oria-st_joseph_mercy_oakland-63a1a__faf99d5315a01508.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/oria-st_joseph_mercy_oakland-63a1a__faf99d5315a01508.jsonl.gz",
+    "asset_sha256": "faf99d5315a015083de96dd6ef44212a60eb0d8769392830e47e857b9c0f4ab8",
+    "published_at": "2026-10-28T17:25:04Z"
+  }
 }

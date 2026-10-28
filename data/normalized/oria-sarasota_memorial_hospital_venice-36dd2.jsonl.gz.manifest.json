@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "oria-sarasota_memorial_hospital_venice-36dd2__61b06492bfa73cde.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-sarasota_memorial_hospital_venice-36dd2__61b06492bfa73cde.jsonl.gz",
+    "asset_sha256": "61b06492bfa73cde8bf2b74b8f6e1e2dbeeb6711cd9b7143480e7e6f5f5ef47f",
+    "published_at": "2026-10-28T17:21:36Z"
+  }
 }

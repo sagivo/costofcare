@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fe",
+    "asset_name": "oria-specialty_hospital_of_las_vegas-799e5__fe827f22a517f4c6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/oria-specialty_hospital_of_las_vegas-799e5__fe827f22a517f4c6.jsonl.gz",
+    "asset_sha256": "fe827f22a517f4c6bf4948285912d7b4eaafe539a8925666de0fb01b0e584727",
+    "published_at": "2026-10-28T17:23:41Z"
+  }
 }

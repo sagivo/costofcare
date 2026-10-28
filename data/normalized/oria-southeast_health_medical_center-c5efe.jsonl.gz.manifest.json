@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ad",
+    "asset_name": "oria-southeast_health_medical_center-c5efe__ad8d6e8ab455097b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/oria-southeast_health_medical_center-c5efe__ad8d6e8ab455097b.jsonl.gz",
+    "asset_sha256": "ad8d6e8ab455097b64c79a66bbfaaee2ce0a5ef8d93acb2e74b5c4e4fbd4d1ed",
+    "published_at": "2026-10-28T17:23:17Z"
+  }
 }

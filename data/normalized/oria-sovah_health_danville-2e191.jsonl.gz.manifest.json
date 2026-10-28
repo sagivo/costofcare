@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-98",
+    "asset_name": "oria-sovah_health_danville-2e191__98fd95384cef42cf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/oria-sovah_health_danville-2e191__98fd95384cef42cf.jsonl.gz",
+    "asset_sha256": "98fd95384cef42cf8a8b1be0976c43f1839cfd4385a877a9e212f2711f5bfe5e",
+    "published_at": "2026-10-28T17:23:35Z"
+  }
 }

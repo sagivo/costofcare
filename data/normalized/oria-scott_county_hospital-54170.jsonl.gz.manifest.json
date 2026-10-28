@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-12",
+    "asset_name": "oria-scott_county_hospital-54170__127ce2cf1045dc02.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-12/oria-scott_county_hospital-54170__127ce2cf1045dc02.jsonl.gz",
+    "asset_sha256": "127ce2cf1045dc02fbed5a4ecc284a3dd0f154283f502e752969cb268523e11f",
+    "published_at": "2026-10-28T17:21:49Z"
+  }
 }

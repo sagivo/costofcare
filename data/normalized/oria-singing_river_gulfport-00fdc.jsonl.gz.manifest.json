@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-singing_river_gulfport-00fdc__26228741358ec3c4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-singing_river_gulfport-00fdc__26228741358ec3c4.jsonl.gz",
+    "asset_sha256": "26228741358ec3c4976169b783d41fb05cd6ebdd4fd0a00bf997e09645d52120",
+    "published_at": "2026-10-28T17:22:30Z"
+  }
 }

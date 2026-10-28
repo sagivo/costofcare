@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2a",
+    "asset_name": "oria-seymour_hospital-ba95b__2a907886403a087d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2a/oria-seymour_hospital-ba95b__2a907886403a087d.jsonl.gz",
+    "asset_sha256": "2a907886403a087df8688a7292becc8728d068b2b816049c53f7bb082d546c9a",
+    "published_at": "2026-10-28T17:22:00Z"
+  }
 }

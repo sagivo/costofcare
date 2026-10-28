@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 525",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b3",
+    "asset_name": "oria-southwest_healthcare-d3797__b3250c6cf27ba526.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/oria-southwest_healthcare-d3797__b3250c6cf27ba526.jsonl.gz",
+    "asset_sha256": "b3250c6cf27ba526c7d4cc9dec1023346d38ae7a9a2a414fa9e38da085c0b2e0",
+    "published_at": "2026-10-28T17:23:31Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1b",
+    "asset_name": "oria-silver_hill_hospital-8b5f5__1b2e788ac5b6d13b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1b/oria-silver_hill_hospital-8b5f5__1b2e788ac5b6d13b.jsonl.gz",
+    "asset_sha256": "1b2e788ac5b6d13b006f8e27e9125324f6a94f4777ad3a09c1ac36a489f50fee",
+    "published_at": "2026-10-28T17:22:28Z"
+  }
 }

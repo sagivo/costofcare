@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8f",
+    "asset_name": "oria-sedgwick_county_health_center-61311__8f5699dec22b5a39.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-sedgwick_county_health_center-61311__8f5699dec22b5a39.jsonl.gz",
+    "asset_sha256": "8f5699dec22b5a399be6d2da3ed0643833d2b4fa91b34b4a2bda41bb3c2cd8e4",
+    "published_at": "2026-10-28T17:21:53Z"
+  }
 }

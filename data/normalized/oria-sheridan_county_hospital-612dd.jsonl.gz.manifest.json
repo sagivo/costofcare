@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3f",
+    "asset_name": "oria-sheridan_county_hospital-612dd__3f7890bc2c8a4e43.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3f/oria-sheridan_county_hospital-612dd__3f7890bc2c8a4e43.jsonl.gz",
+    "asset_sha256": "3f7890bc2c8a4e43b0a1634510417df2a9fb9aa4ff95141a37f693e4bfc988ab",
+    "published_at": "2026-10-28T17:22:14Z"
+  }
 }

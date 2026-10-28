@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c4",
+    "asset_name": "oria-st_anthony_hospital-f0aca__c47c32e429a45b97.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c4/oria-st_anthony_hospital-f0aca__c47c32e429a45b97.jsonl.gz",
+    "asset_sha256": "c47c32e429a45b978b4b66617e0bba8a89f4f6e79eb1aa834e478efb45f9243f",
+    "published_at": "2026-10-28T17:24:05Z"
+  }
 }

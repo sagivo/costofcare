@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-11",
+    "asset_name": "oria-southern_virginia_medical_center-dae83__11e2aa3950b86b69.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-southern_virginia_medical_center-dae83__11e2aa3950b86b69.jsonl.gz",
+    "asset_sha256": "11e2aa3950b86b69e6394f8afe9992faa412199c2d5b6532d74cb7b57b5c4251",
+    "published_at": "2026-10-28T17:23:24Z"
+  }
 }

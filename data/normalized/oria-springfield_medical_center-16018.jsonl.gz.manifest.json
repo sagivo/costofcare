@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5c",
+    "asset_name": "oria-springfield_medical_center-16018__5c6193fb3cdb96ec.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-springfield_medical_center-16018__5c6193fb3cdb96ec.jsonl.gz",
+    "asset_sha256": "5c6193fb3cdb96ecfd38a6c267dc04537e64cfa7554803e152a350ad89992d8c",
+    "published_at": "2026-10-28T17:23:50Z"
+  }
 }

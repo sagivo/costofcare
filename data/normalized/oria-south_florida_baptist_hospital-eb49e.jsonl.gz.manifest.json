@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2e",
+    "asset_name": "oria-south_florida_baptist_hospital-eb49e__2e56c8c441ba6bce.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-south_florida_baptist_hospital-eb49e__2e56c8c441ba6bce.jsonl.gz",
+    "asset_sha256": "2e56c8c441ba6bceda7fc2e3c0d570a30da35709a3d2d9efb8380619168fd0f6",
+    "published_at": "2026-10-28T17:22:55Z"
+  }
 }

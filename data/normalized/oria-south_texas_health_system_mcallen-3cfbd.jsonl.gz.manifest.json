@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "oria-south_texas_health_system_mcallen-3cfbd__2b712094150ed519.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-south_texas_health_system_mcallen-3cfbd__2b712094150ed519.jsonl.gz",
+    "asset_sha256": "2b712094150ed519049fcad0b074d55b236c4f64d6f827dc2e8b9622152fd61e",
+    "published_at": "2026-10-28T17:23:10Z"
+  }
 }

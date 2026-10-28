@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-df",
+    "asset_name": "oria-st_joseph_s_hospital_behavioral-36262__df7dd20b4a8d91ba.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/oria-st_joseph_s_hospital_behavioral-36262__df7dd20b4a8d91ba.jsonl.gz",
+    "asset_sha256": "df7dd20b4a8d91bae8c047649dec24ddf94caebcf5e80ba8922756b127942271",
+    "published_at": "2026-10-28T17:25:09Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-62",
+    "asset_name": "oria-st_francis_medical_center-c0863__628adc4256a36022.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-62/oria-st_francis_medical_center-c0863__628adc4256a36022.jsonl.gz",
+    "asset_sha256": "628adc4256a360226532ca63121066e19ebfe866d6cf4c2dcbf146abd6933b39",
+    "published_at": "2026-10-28T17:24:38Z"
+  }
 }

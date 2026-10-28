@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-22",
+    "asset_name": "oria-santa_rosa_medical_center-62535__2251838d05dad4b7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/oria-santa_rosa_medical_center-62535__2251838d05dad4b7.jsonl.gz",
+    "asset_sha256": "2251838d05dad4b7fd66c55853f93de111ca1ddbd479200473c5270548d79800",
+    "published_at": "2026-10-28T17:21:33Z"
+  }
 }

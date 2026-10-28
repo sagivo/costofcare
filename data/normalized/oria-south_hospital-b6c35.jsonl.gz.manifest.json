@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3e",
+    "asset_name": "oria-south_hospital-b6c35__3e066a7db4f89510.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3e/oria-south_hospital-b6c35__3e066a7db4f89510.jsonl.gz",
+    "asset_sha256": "3e066a7db4f8951016e4035ca5ee8580e152e5547ef4ba9800bc7cf9074538f7",
+    "published_at": "2026-10-28T17:22:57Z"
+  }
 }

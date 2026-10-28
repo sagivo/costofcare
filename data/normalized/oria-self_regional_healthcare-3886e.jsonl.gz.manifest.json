@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 8152",
   "row_width_mismatch_records": 46,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-53",
+    "asset_name": "oria-self_regional_healthcare-3886e__537b9dd166cb2eab.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/oria-self_regional_healthcare-3886e__537b9dd166cb2eab.jsonl.gz",
+    "asset_sha256": "537b9dd166cb2eabae761c06de14b07d277a462b7be55f7ed312f875b2594ff6",
+    "published_at": "2026-10-28T17:21:55Z"
+  }
 }

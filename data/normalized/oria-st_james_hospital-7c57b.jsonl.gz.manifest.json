@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 4741",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0b",
+    "asset_name": "oria-st_james_hospital-7c57b__0be6c732b916b90d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-st_james_hospital-7c57b__0be6c732b916b90d.jsonl.gz",
+    "asset_sha256": "0be6c732b916b90d36b086db6fc9a2779cf287cc0ea29f109c9c698596f280af",
+    "published_at": "2026-10-28T17:24:43Z"
+  }
 }

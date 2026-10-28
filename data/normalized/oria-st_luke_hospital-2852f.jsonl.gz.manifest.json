@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-42",
+    "asset_name": "oria-st_luke_hospital-2852f__425f7c4b2b58071e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-42/oria-st_luke_hospital-2852f__425f7c4b2b58071e.jsonl.gz",
+    "asset_sha256": "425f7c4b2b58071eb763d57ce9fdd82c8dbbbc49faa9199b900d99a1e9a97a3b",
+    "published_at": "2026-10-28T17:25:19Z"
+  }
 }

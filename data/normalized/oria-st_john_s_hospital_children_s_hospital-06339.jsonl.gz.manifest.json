@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1503",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e6",
+    "asset_name": "oria-st_john_s_hospital_children_s_hospital-06339__e64b8a4ff2096ae7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/oria-st_john_s_hospital_children_s_hospital-06339__e64b8a4ff2096ae7.jsonl.gz",
+    "asset_sha256": "e64b8a4ff2096ae745449db45307f8411b912940894d59ede95d26accaeab24e",
+    "published_at": "2026-10-28T17:24:48Z"
+  }
 }

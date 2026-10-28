@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3b",
+    "asset_name": "oria-spring_view_hospital-8a019__3bd73de879bbcfea.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/oria-spring_view_hospital-8a019__3bd73de879bbcfea.jsonl.gz",
+    "asset_sha256": "3bd73de879bbcfeab65ca248bbbfd532ad9c0fbc87a72d93250f51344ec170ad",
+    "published_at": "2026-10-28T17:23:46Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-sierra_nevada_memorial_hospital-c5ab9__86ba84cb9d131b9e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-sierra_nevada_memorial_hospital-c5ab9__86ba84cb9d131b9e.jsonl.gz",
+    "asset_sha256": "86ba84cb9d131b9ea4e0067de1f8ab306441ab0a27477c0c00729735f6f495df",
+    "published_at": "2026-10-28T17:22:24Z"
+  }
 }

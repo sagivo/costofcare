@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "oria-st_joseph_s_westgate_medical_center-b5ea8__a26268a301b17aeb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/oria-st_joseph_s_westgate_medical_center-b5ea8__a26268a301b17aeb.jsonl.gz",
+    "asset_sha256": "a26268a301b17aebd987af2b922e50db8b2b644b892205468b10d6619b5d0fdc",
+    "published_at": "2026-10-28T17:25:13Z"
+  }
 }

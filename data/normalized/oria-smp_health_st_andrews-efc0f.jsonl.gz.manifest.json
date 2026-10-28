@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-82",
+    "asset_name": "oria-smp_health_st_andrews-efc0f__822909506f98475f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-smp_health_st_andrews-efc0f__822909506f98475f.jsonl.gz",
+    "asset_sha256": "822909506f98475f8f3e53682c7f59df97e1b125ea8de26cd9012ebaea7f182b",
+    "published_at": "2026-10-28T17:22:41Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4d",
+    "asset_name": "oria-savoy_medical_center-413d9__4d9d063204a8da97.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4d/oria-savoy_medical_center-413d9__4d9d063204a8da97.jsonl.gz",
+    "asset_sha256": "4d9d063204a8da97dee673fbd1b29600bdc6aae75d1b6698ca89c606f37d2d58",
+    "published_at": "2026-10-28T17:21:42Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b8",
+    "asset_name": "oria-san_diego_zion_medical_center-4579a__b82bc1c5b404b4d8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b8/oria-san_diego_zion_medical_center-4579a__b82bc1c5b404b4d8.jsonl.gz",
+    "asset_sha256": "b82bc1c5b404b4d822fc673dd6c751f183617c04dab352f7179dfe7a43c45ad8",
+    "published_at": "2026-10-28T17:21:15Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-46",
+    "asset_name": "oria-st_catherine_s_west_rehabilitation_hospital-fb8da__46220296a352cdb4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-46/oria-st_catherine_s_west_rehabilitation_hospital-fb8da__46220296a352cdb4.jsonl.gz",
+    "asset_sha256": "46220296a352cdb46177c0b8f460287726a421f48e2c2bcb8fa2d2c68536a9dc",
+    "published_at": "2026-10-28T17:24:16Z"
+  }
 }

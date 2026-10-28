@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e8",
+    "asset_name": "oria-st_helena_parish_hospital-0da97__e8e585276854538b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e8/oria-st_helena_parish_hospital-0da97__e8e585276854538b.jsonl.gz",
+    "asset_sha256": "e8e585276854538babf8b7d466fcb50d2f9c8ba68051f3b336792b370ce1a67d",
+    "published_at": "2026-10-28T17:24:41Z"
+  }
 }

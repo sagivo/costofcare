@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-13",
+    "asset_name": "oria-south_texas_health_system_behavioral-0bfa7__13e64dd8b6283367.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/oria-south_texas_health_system_behavioral-0bfa7__13e64dd8b6283367.jsonl.gz",
+    "asset_sha256": "13e64dd8b6283367bb75b53fd2c130f49cfe3e5fb24142728c473da63fa1ed77",
+    "published_at": "2026-10-28T17:23:04Z"
+  }
 }

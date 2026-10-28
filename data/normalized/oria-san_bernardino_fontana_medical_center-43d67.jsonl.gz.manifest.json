@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "oria-san_bernardino_fontana_medical_center-43d67__d13236a49dc62e8b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/oria-san_bernardino_fontana_medical_center-43d67__d13236a49dc62e8b.jsonl.gz",
+    "asset_sha256": "d13236a49dc62e8bb10a6f0a4e49ed120886135d48246d5e1cb4bf380e0346ff",
+    "published_at": "2026-10-28T17:21:09Z"
+  }
 }
