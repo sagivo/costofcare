@@ -5,7 +5,7 @@
   "source_url": "https://avala.com/wp-content/uploads/2026/03/721426390_fairway-medical-center_standardcharges.csv",
   "source_sha256": "30beedb5c4fccc0dbdc4e2a1243d779aa09568ab939d9feef5503fe86cf2b497",
   "download_bytes": 283976,
-  "extracted_at": "2026-10-27T14:56:51Z",
+  "extracted_at": "2026-10-28T15:30:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -183,12 +183,5 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
-  "release_asset": {
-    "release": "data-norm-43",
-    "asset_name": "avala__4300a5af0f50c06f.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/avala__4300a5af0f50c06f.jsonl.gz",
-    "asset_sha256": "4300a5af0f50c06fba9ab961bfb86d8bc4c065c5e72fc28f85a2aef37258a55d",
-    "published_at": "2026-10-27T15:12:46Z"
-  }
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
 }
