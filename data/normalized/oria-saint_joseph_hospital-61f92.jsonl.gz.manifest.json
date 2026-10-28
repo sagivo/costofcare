@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9e",
+    "asset_name": "oria-saint_joseph_hospital-61f92__9ebb3f22b7a502c5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9e/oria-saint_joseph_hospital-61f92__9ebb3f22b7a502c5.jsonl.gz",
+    "asset_sha256": "9ebb3f22b7a502c5fe1f7d53b6de79c8b6680f90bc507582c00bbc32a83bf667",
+    "published_at": "2026-10-28T02:03:13Z"
+  }
 }

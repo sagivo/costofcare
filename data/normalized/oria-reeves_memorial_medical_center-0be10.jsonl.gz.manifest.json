@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1e",
+    "asset_name": "oria-reeves_memorial_medical_center-0be10__1e19778d8b0987bb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/oria-reeves_memorial_medical_center-0be10__1e19778d8b0987bb.jsonl.gz",
+    "asset_sha256": "1e19778d8b0987bb628c936b9233ae2cffd1e1d3242d44d6935e125706e06534",
+    "published_at": "2026-10-28T02:01:18Z"
+  }
 }

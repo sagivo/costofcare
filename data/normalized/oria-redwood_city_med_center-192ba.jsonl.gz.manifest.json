@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "oria-redwood_city_med_center-192ba__614585012770d452.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-redwood_city_med_center-192ba__614585012770d452.jsonl.gz",
+    "asset_sha256": "614585012770d45293bd12a71085eed17abc21991a9d69096109e6e875e7229e",
+    "published_at": "2026-10-28T02:01:16Z"
+  }
 }

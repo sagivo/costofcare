@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "oria-randolph_health-bcd21__ec80d172782bb311.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/oria-randolph_health-bcd21__ec80d172782bb311.jsonl.gz",
+    "asset_sha256": "ec80d172782bb311d69552c56f35420e346af1a509618d258830572ee68f11ba",
+    "published_at": "2026-10-28T02:01:04Z"
+  }
 }

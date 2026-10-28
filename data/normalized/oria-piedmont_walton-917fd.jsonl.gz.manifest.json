@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-piedmont_walton-917fd__2679ee425c230a75.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-piedmont_walton-917fd__2679ee425c230a75.jsonl.gz",
+    "asset_sha256": "2679ee425c230a75a6e5b68f707e7179e5312176981255b840a0f265b92142d2",
+    "published_at": "2026-10-28T01:59:41Z"
+  }
 }

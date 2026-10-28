@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-65",
+    "asset_name": "oria-prisma_health_baptist_behavioral_care-8fa0f__6518199e00527443.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/oria-prisma_health_baptist_behavioral_care-8fa0f__6518199e00527443.jsonl.gz",
+    "asset_sha256": "6518199e005274433f8c10a618cf9b9c014d3473824a366a5c3db34b6d96ca8e",
+    "published_at": "2026-10-28T02:00:08Z"
+  }
 }

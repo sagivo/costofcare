@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-10",
+    "asset_name": "oria-ressurection_medical_center-df3c4__10c4485142013bad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-10/oria-ressurection_medical_center-df3c4__10c4485142013bad.jsonl.gz",
+    "asset_sha256": "10c4485142013bad47e45f2ae870aa081267ecec5796590cec58d4c7c597755b",
+    "published_at": "2026-10-28T02:01:43Z"
+  }
 }

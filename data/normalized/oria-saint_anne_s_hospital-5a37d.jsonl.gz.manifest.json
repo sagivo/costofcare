@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-52",
+    "asset_name": "oria-saint_anne_s_hospital-5a37d__523a87cac1013331.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/oria-saint_anne_s_hospital-5a37d__523a87cac1013331.jsonl.gz",
+    "asset_sha256": "523a87cac1013331eda9b2a8adac6f23546ee5d75e5522c3d7e92ef11d7ae880",
+    "published_at": "2026-10-28T02:02:56Z"
+  }
 }

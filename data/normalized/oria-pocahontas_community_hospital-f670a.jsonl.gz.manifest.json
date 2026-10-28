@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-pocahontas_community_hospital-f670a__85b7a78e080dede6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-pocahontas_community_hospital-f670a__85b7a78e080dede6.jsonl.gz",
+    "asset_sha256": "85b7a78e080dede6b921d8ea073e91d5c62483987c4f5cfcc9c4e814bdd618a6",
+    "published_at": "2026-10-28T01:59:50Z"
+  }
 }

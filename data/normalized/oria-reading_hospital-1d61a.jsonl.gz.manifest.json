@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3341",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2b",
+    "asset_name": "oria-reading_hospital-1d61a__2be9e1cb02efbdeb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-reading_hospital-1d61a__2be9e1cb02efbdeb.jsonl.gz",
+    "asset_sha256": "2be9e1cb02efbdebc6ad8fa937c2f1ceadafc62325f1b6f6c6f26094baf67201",
+    "published_at": "2026-10-28T02:01:11Z"
+  }
 }

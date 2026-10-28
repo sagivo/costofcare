@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c2",
+    "asset_name": "oria-saint_clare_s_health-8401f__c2386c25889f4668.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/oria-saint_clare_s_health-8401f__c2386c25889f4668.jsonl.gz",
+    "asset_sha256": "c2386c25889f46688a34f6819b4503ea7dfe836e69bc6cd85d07e79f05fe1fba",
+    "published_at": "2026-10-28T02:02:59Z"
+  }
 }

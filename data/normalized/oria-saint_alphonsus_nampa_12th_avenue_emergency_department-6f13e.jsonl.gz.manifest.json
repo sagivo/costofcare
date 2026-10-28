@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "oria-saint_alphonsus_nampa_12th_avenue_emergency_department-6f13e__e000b4880c7b0950.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-saint_alphonsus_nampa_12th_avenue_emergency_department-6f13e__e000b4880c7b0950.jsonl.gz",
+    "asset_sha256": "e000b4880c7b0950e8bc7815135896c3ad08aca9170cbd134a51280afe6289eb",
+    "published_at": "2026-10-28T02:02:54Z"
+  }
 }

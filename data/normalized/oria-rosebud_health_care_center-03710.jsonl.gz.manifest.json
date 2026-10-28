@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f9",
+    "asset_name": "oria-rosebud_health_care_center-03710__f9faa437f72d0265.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/oria-rosebud_health_care_center-03710__f9faa437f72d0265.jsonl.gz",
+    "asset_sha256": "f9faa437f72d0265b4e6d65dda414374cd80e4c626e1080645c47147c8a161fc",
+    "published_at": "2026-10-28T02:02:25Z"
+  }
 }

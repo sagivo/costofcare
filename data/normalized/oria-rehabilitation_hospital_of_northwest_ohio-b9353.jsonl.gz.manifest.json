@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-rehabilitation_hospital_of_northwest_ohio-b9353__d965b53e548100e2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-rehabilitation_hospital_of_northwest_ohio-b9353__d965b53e548100e2.jsonl.gz",
+    "asset_sha256": "d965b53e548100e264097dd75c9f46ad59962b6af945565ca61f09513ca7febd",
+    "published_at": "2026-10-28T02:01:28Z"
+  }
 }

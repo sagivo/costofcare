@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-69",
+    "asset_name": "oria-saint_alphonsus_medical_center_ontario-17365__69aa31d56fc79432.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-saint_alphonsus_medical_center_ontario-17365__69aa31d56fc79432.jsonl.gz",
+    "asset_sha256": "69aa31d56fc794328712677c435d2aeda712b523b34dc86dde93b1d7a65cdd73",
+    "published_at": "2026-10-28T02:02:52Z"
+  }
 }

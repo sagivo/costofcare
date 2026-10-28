@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cc",
+    "asset_name": "oria-prowers_medical_center-33898__cc3219c0a54737c7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-prowers_medical_center-33898__cc3219c0a54737c7.jsonl.gz",
+    "asset_sha256": "cc3219c0a54737c736d5a1309c3ab9248d8016db0b79159e47a6439d768d5d2a",
+    "published_at": "2026-10-28T02:00:49Z"
+  }
 }

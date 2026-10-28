@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-87",
+    "asset_name": "oria-plymouth_medical_center-456cc__87e09bb469b62c42.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-plymouth_medical_center-456cc__87e09bb469b62c42.jsonl.gz",
+    "asset_sha256": "87e09bb469b62c4237e4d3d9dd6ff35d3beb1dc11fd1a7f767d278b50f958c32",
+    "published_at": "2026-10-28T01:59:48Z"
+  }
 }

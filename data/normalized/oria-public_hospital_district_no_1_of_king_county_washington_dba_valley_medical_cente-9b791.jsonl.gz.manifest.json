@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-public_hospital_district_no_1_of_king_county_washington_dba_valley_medical_cente-9b791__63bd553724dcf606.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-public_hospital_district_no_1_of_king_county_washington_dba_valley_medical_cente-9b791__63bd553724dcf606.jsonl.gz",
+    "asset_sha256": "63bd553724dcf606a581608738df32496aa12bb89053356ad1f2f952582c1388",
+    "published_at": "2026-10-28T02:00:51Z"
+  }
 }

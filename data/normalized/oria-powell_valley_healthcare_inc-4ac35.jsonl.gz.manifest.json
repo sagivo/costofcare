@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-67",
+    "asset_name": "oria-powell_valley_healthcare_inc-4ac35__6788b8f9a1ed1470.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/oria-powell_valley_healthcare_inc-4ac35__6788b8f9a1ed1470.jsonl.gz",
+    "asset_sha256": "6788b8f9a1ed1470d45344e5298f76f13f3e0fde122031f8ab4b5b6013954935",
+    "published_at": "2026-10-28T02:00:02Z"
+  }
 }

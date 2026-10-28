@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-be",
+    "asset_name": "oria-prisma_health_baptist_easley_hospital-be368__bec689c0affe2a19.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-prisma_health_baptist_easley_hospital-be368__bec689c0affe2a19.jsonl.gz",
+    "asset_sha256": "bec689c0affe2a196edf384a529930a7a81445ee9bba6e0d4edde75e5d5c6fb1",
+    "published_at": "2026-10-28T02:00:10Z"
+  }
 }

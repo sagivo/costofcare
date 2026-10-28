@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d6",
+    "asset_name": "oria-roane_county_medical_center-640ba__d65e9d0f82b4e74e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d6/oria-roane_county_medical_center-640ba__d65e9d0f82b4e74e.jsonl.gz",
+    "asset_sha256": "d65e9d0f82b4e74edb10c88602bb1b9a140ee37060240075dd3322759744ae8a",
+    "published_at": "2026-10-28T02:02:06Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a0",
+    "asset_name": "oria-rappahannock_general_hospital-fbe15__a00de9862258a1f5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/oria-rappahannock_general_hospital-fbe15__a00de9862258a1f5.jsonl.gz",
+    "asset_sha256": "a00de9862258a1f575e7013e213641ee9921f3b95b76f8f7ad09ef31a8adc07b",
+    "published_at": "2026-10-28T02:01:08Z"
+  }
 }

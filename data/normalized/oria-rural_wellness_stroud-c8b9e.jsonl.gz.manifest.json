@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-20",
+    "asset_name": "oria-rural_wellness_stroud-c8b9e__20d4f66b7a352c99.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-20/oria-rural_wellness_stroud-c8b9e__20d4f66b7a352c99.jsonl.gz",
+    "asset_sha256": "20d4f66b7a352c994c611942e350ceedef3c0aba24d668d4ebcab27c1d4e55b4",
+    "published_at": "2026-10-28T02:02:34Z"
+  }
 }

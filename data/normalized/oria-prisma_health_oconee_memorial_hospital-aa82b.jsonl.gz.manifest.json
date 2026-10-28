@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "oria-prisma_health_oconee_memorial_hospital-aa82b__9a975cf0142f64c8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-prisma_health_oconee_memorial_hospital-aa82b__9a975cf0142f64c8.jsonl.gz",
+    "asset_sha256": "9a975cf0142f64c844e1365371890afbda533ca863879bfee6a36686d5ef5b8f",
+    "published_at": "2026-10-28T02:00:25Z"
+  }
 }

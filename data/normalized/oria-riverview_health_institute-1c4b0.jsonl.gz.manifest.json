@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-40",
+    "asset_name": "oria-riverview_health_institute-1c4b0__40c03ef3ef4d0b0f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-riverview_health_institute-1c4b0__40c03ef3ef4d0b0f.jsonl.gz",
+    "asset_sha256": "40c03ef3ef4d0b0ff2cb826edb40eedb3194509e7ca4988465946543e2a49d2c",
+    "published_at": "2026-10-28T02:02:03Z"
+  }
 }

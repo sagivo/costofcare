@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-92",
+    "asset_name": "oria-rural_wellness_fairfax-fc93c__926ba3b1f15e0ec4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-92/oria-rural_wellness_fairfax-fc93c__926ba3b1f15e0ec4.jsonl.gz",
+    "asset_sha256": "926ba3b1f15e0ec4e493555541b9e9fe86d95c9445c768113cf4f4cfa5e09775",
+    "published_at": "2026-10-28T02:02:32Z"
+  }
 }

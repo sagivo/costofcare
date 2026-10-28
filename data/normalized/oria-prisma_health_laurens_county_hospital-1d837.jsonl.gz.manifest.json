@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "oria-prisma_health_laurens_county_hospital-1d837__473d1067820325c7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-prisma_health_laurens_county_hospital-1d837__473d1067820325c7.jsonl.gz",
+    "asset_sha256": "473d1067820325c7ee58d369e80eefa878bdabbb9a55c8fad83a224a9f43688c",
+    "published_at": "2026-10-28T02:00:21Z"
+  }
 }

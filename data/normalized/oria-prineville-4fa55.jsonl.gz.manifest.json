@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 638",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-40",
+    "asset_name": "oria-prineville-4fa55__4036e20e03329d38.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-prineville-4fa55__4036e20e03329d38.jsonl.gz",
+    "asset_sha256": "4036e20e03329d38153be90f436e53a3b9c16b5cb019f0bd2fba86ba504587bc",
+    "published_at": "2026-10-28T02:00:06Z"
+  }
 }

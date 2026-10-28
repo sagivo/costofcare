@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-saint_agnes_medical_center-1e71a__77f13ef49abb8b4c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-saint_agnes_medical_center-1e71a__77f13ef49abb8b4c.jsonl.gz",
+    "asset_sha256": "77f13ef49abb8b4c657a657377810500093323e97cb76db18d0ff362cc82a8d0",
+    "published_at": "2026-10-28T02:02:45Z"
+  }
 }

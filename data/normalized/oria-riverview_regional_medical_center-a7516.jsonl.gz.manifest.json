@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-50",
+    "asset_name": "oria-riverview_regional_medical_center-a7516__50607a642fbeb318.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/oria-riverview_regional_medical_center-a7516__50607a642fbeb318.jsonl.gz",
+    "asset_sha256": "50607a642fbeb31885d74aadbbacd32a9017b7662fb616338a8aa7118222e81c",
+    "published_at": "2026-10-28T02:02:04Z"
+  }
 }

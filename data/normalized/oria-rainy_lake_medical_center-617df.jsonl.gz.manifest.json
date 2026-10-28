@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-94",
+    "asset_name": "oria-rainy_lake_medical_center-617df__945d6d42c55712ab.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-94/oria-rainy_lake_medical_center-617df__945d6d42c55712ab.jsonl.gz",
+    "asset_sha256": "945d6d42c55712ab41ef69dea883f8e6554b8665f99469dddc087d7cf56b08b9",
+    "published_at": "2026-10-28T02:00:59Z"
+  }
 }

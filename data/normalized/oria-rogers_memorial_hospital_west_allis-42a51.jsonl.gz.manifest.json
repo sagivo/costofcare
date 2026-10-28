@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-27",
+    "asset_name": "oria-rogers_memorial_hospital_west_allis-42a51__270a95714833e2d9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-27/oria-rogers_memorial_hospital_west_allis-42a51__270a95714833e2d9.jsonl.gz",
+    "asset_sha256": "270a95714833e2d99827bb7615b4d6e2014f3c6b16f608d2b9046da68d86c4b6",
+    "published_at": "2026-10-28T02:02:20Z"
+  }
 }

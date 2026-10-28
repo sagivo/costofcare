@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-40",
+    "asset_name": "oria-roseville_medical_center-f6a19__40ab0fc35a7dbacf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-roseville_medical_center-f6a19__40ab0fc35a7dbacf.jsonl.gz",
+    "asset_sha256": "40ab0fc35a7dbacf48b0330bda684e425b6327128728aa34090e1931ea93e9fd",
+    "published_at": "2026-10-28T02:02:26Z"
+  }
 }

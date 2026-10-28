@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-da",
+    "asset_name": "oria-roxborough_memorial_hospital-741ca__dabf6d62627a37a3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-da/oria-roxborough_memorial_hospital-741ca__dabf6d62627a37a3.jsonl.gz",
+    "asset_sha256": "dabf6d62627a37a30e2ecd734fa3a017b0eca7e5f77a978c3960d514a0591d55",
+    "published_at": "2026-10-28T02:02:28Z"
+  }
 }

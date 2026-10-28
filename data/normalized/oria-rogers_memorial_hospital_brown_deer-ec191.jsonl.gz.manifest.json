@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "oria-rogers_memorial_hospital_brown_deer-ec191__03758e970a251efe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/oria-rogers_memorial_hospital_brown_deer-ec191__03758e970a251efe.jsonl.gz",
+    "asset_sha256": "03758e970a251efebf4e0ce764d14cb451e29036a3357a8911c28d6d084d6e7f",
+    "published_at": "2026-10-28T02:02:17Z"
+  }
 }

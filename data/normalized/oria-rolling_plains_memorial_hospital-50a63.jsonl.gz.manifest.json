@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-41",
+    "asset_name": "oria-rolling_plains_memorial_hospital-50a63__4144f89bffb34536.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-rolling_plains_memorial_hospital-50a63__4144f89bffb34536.jsonl.gz",
+    "asset_sha256": "4144f89bffb34536c8b957b4c8f778f31eafba71437123048be512d3410d53e2",
+    "published_at": "2026-10-28T02:02:22Z"
+  }
 }

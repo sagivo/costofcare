@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b8",
+    "asset_name": "oria-pointe_coupee_general_hospital-026f1__b8050a84991f9618.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b8/oria-pointe_coupee_general_hospital-026f1__b8050a84991f9618.jsonl.gz",
+    "asset_sha256": "b8050a84991f96185b1cb7d3772389cdd64d27393320009dc99575931f22d35c",
+    "published_at": "2026-10-28T01:59:52Z"
+  }
 }

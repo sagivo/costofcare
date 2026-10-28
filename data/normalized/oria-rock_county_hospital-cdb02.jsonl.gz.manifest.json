@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-de",
+    "asset_name": "oria-rock_county_hospital-cdb02__de6ac0334b630a09.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/oria-rock_county_hospital-cdb02__de6ac0334b630a09.jsonl.gz",
+    "asset_sha256": "de6ac0334b630a09aa12970db3ecc3076d5d4274f9e5f584dafd94b1c54c9bdc",
+    "published_at": "2026-10-28T02:02:16Z"
+  }
 }

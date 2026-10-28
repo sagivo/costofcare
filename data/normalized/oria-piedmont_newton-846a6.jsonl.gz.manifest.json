@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-05",
+    "asset_name": "oria-piedmont_newton-846a6__059ef768852ab8cd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-piedmont_newton-846a6__059ef768852ab8cd.jsonl.gz",
+    "asset_sha256": "059ef768852ab8cd33089e29cea8219e7a4cb84efc068ab711415204f3f0b934",
+    "published_at": "2026-10-28T01:59:38Z"
+  }
 }

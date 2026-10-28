@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 4711",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-14",
+    "asset_name": "oria-riverview_health-f960f__149cdbe47428fa94.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-14/oria-riverview_health-f960f__149cdbe47428fa94.jsonl.gz",
+    "asset_sha256": "149cdbe47428fa94f57ad37206be9e5e6c1fabe4a83fb490aba53592c769d8e2",
+    "published_at": "2026-10-28T02:02:01Z"
+  }
 }

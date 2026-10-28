@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "oria-queens_medical_center_west_oahu-5921e__ec20a0feb849bc38.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/oria-queens_medical_center_west_oahu-5921e__ec20a0feb849bc38.jsonl.gz",
+    "asset_sha256": "ec20a0feb849bc38173430394f9ea28dacab39fc5bcca0351f60208dc3fc2c30",
+    "published_at": "2026-10-28T02:00:54Z"
+  }
 }

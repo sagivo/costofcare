@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-68",
+    "asset_name": "oria-prisma_health_north_greenville_hospital-8084f__685d11027920de07.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-68/oria-prisma_health_north_greenville_hospital-8084f__685d11027920de07.jsonl.gz",
+    "asset_sha256": "685d11027920de076f0b33b63dc1ece05be48711b31e8550814a7a5a70c3c158",
+    "published_at": "2026-10-28T02:00:23Z"
+  }
 }

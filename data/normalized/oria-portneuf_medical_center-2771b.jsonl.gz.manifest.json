@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-36",
+    "asset_name": "oria-portneuf_medical_center-2771b__36eea1af86622e54.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-36/oria-portneuf_medical_center-2771b__36eea1af86622e54.jsonl.gz",
+    "asset_sha256": "36eea1af86622e54004c98d9f8aa76b6b5f45c5b93839edbeb011e0400b25b3f",
+    "published_at": "2026-10-28T01:59:58Z"
+  }
 }

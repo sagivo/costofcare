@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-saint_alphonsus_medical_center_baker_city-299ce__0f412394a05ed321.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-saint_alphonsus_medical_center_baker_city-299ce__0f412394a05ed321.jsonl.gz",
+    "asset_sha256": "0f412394a05ed321bb63662d9228e6f3684a04d22e16d1d50cbcea796276b181",
+    "published_at": "2026-10-28T02:02:49Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-44",
+    "asset_name": "oria-saint_marys_hospital-8562e__441c424b1dd7725e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-44/oria-saint_marys_hospital-8562e__441c424b1dd7725e.jsonl.gz",
+    "asset_sha256": "441c424b1dd7725e276610e427e49a0533cf4413f6fa53c939c3e1970572212b",
+    "published_at": "2026-10-28T02:03:19Z"
+  }
 }

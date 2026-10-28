@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "oria-regional_one_health_rehabilitation_hospital-4ab15__fddac7b8d9a95a8e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-regional_one_health_rehabilitation_hospital-4ab15__fddac7b8d9a95a8e.jsonl.gz",
+    "asset_sha256": "fddac7b8d9a95a8e7291276f2cb7b94d1d14ac36712a2f2ca3b2254e5b6bd1f9",
+    "published_at": "2026-10-28T02:01:20Z"
+  }
 }

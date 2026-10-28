@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-66",
+    "asset_name": "oria-prisma_health_baptist_parkridge_hospital-4f8cc__664bba6dfcd838b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/oria-prisma_health_baptist_parkridge_hospital-4f8cc__664bba6dfcd838b2.jsonl.gz",
+    "asset_sha256": "664bba6dfcd838b2a8cb3deef8994fcf0f429be2675626652ea8939873726721",
+    "published_at": "2026-10-28T02:00:12Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-39",
+    "asset_name": "oria-robert_wood_johnson_university_hospital_hamilton-d8c60__39dab2f534673ab8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-robert_wood_johnson_university_hospital_hamilton-d8c60__39dab2f534673ab8.jsonl.gz",
+    "asset_sha256": "39dab2f534673ab83e30b01f00fa1f388bb370afbe53059bb6169f4b53529e58",
+    "published_at": "2026-10-28T02:02:11Z"
+  }
 }

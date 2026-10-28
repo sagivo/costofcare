@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-sacramento_medical_center-dce04__ef6e737cf2002986.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-sacramento_medical_center-dce04__ef6e737cf2002986.jsonl.gz",
+    "asset_sha256": "ef6e737cf20029864c0ed624e5eea547d8e296f03b9f9e20054049b1c23b29a7",
+    "published_at": "2026-10-28T02:02:42Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-20",
+    "asset_name": "oria-promedica_bay_park_community_hospital-52672__2035419be5292d65.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-20/oria-promedica_bay_park_community_hospital-52672__2035419be5292d65.jsonl.gz",
+    "asset_sha256": "2035419be5292d6505ff9bfe19cbc9046245ed3e748dfd7c5bb32aa5a22129ba",
+    "published_at": "2026-10-28T02:00:34Z"
+  }
 }

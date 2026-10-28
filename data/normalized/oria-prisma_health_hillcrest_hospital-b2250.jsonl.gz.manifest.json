@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "oria-prisma_health_hillcrest_hospital-b2250__75626ac6abb54a36.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/oria-prisma_health_hillcrest_hospital-b2250__75626ac6abb54a36.jsonl.gz",
+    "asset_sha256": "75626ac6abb54a368169f8dad98de9f11e53eaf94cead28c5d78547585a9ece1",
+    "published_at": "2026-10-28T02:00:19Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b9",
+    "asset_name": "oria-robert_wood_johnson_university_hospital_somerset-b2a63__b9d8e557b30e1054.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b9/oria-robert_wood_johnson_university_hospital_somerset-b2a63__b9d8e557b30e1054.jsonl.gz",
+    "asset_sha256": "b9d8e557b30e10541ce7de3149964a14dca0e7b045fac171684c739031bc044a",
+    "published_at": "2026-10-28T02:02:14Z"
+  }
 }

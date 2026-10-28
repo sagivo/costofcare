@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-porter_hospital_inc-a052b__5e4873dc059eee89.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-porter_hospital_inc-a052b__5e4873dc059eee89.jsonl.gz",
+    "asset_sha256": "5e4873dc059eee89e3870d8254962904a48417348ebe290439f66300ad66189d",
+    "published_at": "2026-10-28T01:59:57Z"
+  }
 }

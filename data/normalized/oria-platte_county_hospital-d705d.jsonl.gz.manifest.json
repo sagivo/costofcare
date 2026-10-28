@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-72",
+    "asset_name": "oria-platte_county_hospital-d705d__7261dd2065dcd2c4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-72/oria-platte_county_hospital-d705d__7261dd2065dcd2c4.jsonl.gz",
+    "asset_sha256": "7261dd2065dcd2c4d33cc7a4920e45fe0b5f97c382becd5724ae02fe7df1d475",
+    "published_at": "2026-10-28T01:59:46Z"
+  }
 }

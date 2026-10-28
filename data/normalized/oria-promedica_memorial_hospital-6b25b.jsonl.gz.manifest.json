@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-09",
+    "asset_name": "oria-promedica_memorial_hospital-6b25b__091f2ce98b1eba23.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-promedica_memorial_hospital-6b25b__091f2ce98b1eba23.jsonl.gz",
+    "asset_sha256": "091f2ce98b1eba23a68960604f2a6173875328f414e62dbd07147a7993183800",
+    "published_at": "2026-10-28T02:00:43Z"
+  }
 }

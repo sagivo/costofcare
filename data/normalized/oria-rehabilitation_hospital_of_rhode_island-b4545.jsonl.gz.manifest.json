@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e7",
+    "asset_name": "oria-rehabilitation_hospital_of_rhode_island-b4545__e7d99985a1c53666.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/oria-rehabilitation_hospital_of_rhode_island-b4545__e7d99985a1c53666.jsonl.gz",
+    "asset_sha256": "e7d99985a1c536664db9f7d2a8aadfc914cb66725af5bd64df788975799c4fbd",
+    "published_at": "2026-10-28T02:01:32Z"
+  }
 }

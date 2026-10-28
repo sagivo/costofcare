@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 7571",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "oria-riverside_university_health_system_previously_known_as_riverside_county_regional-7b28e__58ba372d60a06c48.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-riverside_university_health_system_previously_known_as_riverside_county_regional-7b28e__58ba372d60a06c48.jsonl.gz",
+    "asset_sha256": "58ba372d60a06c4838c060a9b4133c0eeebbaea6b070110ba8c5f4979b2c079c",
+    "published_at": "2026-10-28T02:01:59Z"
+  }
 }

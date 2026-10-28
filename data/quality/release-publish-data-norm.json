@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T16:25:35Z",
+  "generated_at": "2026-10-28T02:03:35Z",
   "data_dir": "data/normalized",
   "release_prefix": "data-norm",
   "counts": {
-    "files_total": 2750,
-    "already_published": 1632,
+    "files_total": 2751,
+    "already_published": 1775,
     "uploaded_this_run": 260,
     "idempotent_skips": 0,
     "verified_this_run": 260,
     "errors": 0,
-    "manifests_with_verified_assets": 1892,
-    "manifests_missing_verified_assets": 858
+    "manifests_with_verified_assets": 2035,
+    "manifests_missing_verified_assets": 716
   }
 }

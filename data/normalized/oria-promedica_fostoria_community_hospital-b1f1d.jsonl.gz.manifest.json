@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1f",
+    "asset_name": "oria-promedica_fostoria_community_hospital-b1f1d__1f79c19996dfe152.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1f/oria-promedica_fostoria_community_hospital-b1f1d__1f79c19996dfe152.jsonl.gz",
+    "asset_sha256": "1f79c19996dfe15284e5e4524ded9ecb972253313fa5ed42b077804f2871f284",
+    "published_at": "2026-10-28T02:00:41Z"
+  }
 }

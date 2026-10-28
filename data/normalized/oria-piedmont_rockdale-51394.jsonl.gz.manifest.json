@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cb",
+    "asset_name": "oria-piedmont_rockdale-51394__cb1053e7254226f5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cb/oria-piedmont_rockdale-51394__cb1053e7254226f5.jsonl.gz",
+    "asset_sha256": "cb1053e7254226f5991b2996e1b5392a795fe0cdd48575aa5eb9c083bfe3840c",
+    "published_at": "2026-10-28T01:59:40Z"
+  }
 }

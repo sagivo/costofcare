@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-09",
+    "asset_name": "oria-prisma_health_richland_hospital-80c19__09693d9bbab4ef3a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-prisma_health_richland_hospital-80c19__09693d9bbab4ef3a.jsonl.gz",
+    "asset_sha256": "09693d9bbab4ef3a8424d66d5c77217bfe2c3bbf2aa201bf4a932ccc1204fd53",
+    "published_at": "2026-10-28T02:00:29Z"
+  }
 }
