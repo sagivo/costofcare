@@ -1,0 +1,25 @@
+{
+  "npi": "1679584478",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:26:55Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1679584478",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MICHAEL",
+      "last_name": "FLEMING",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "621 STATE ROUTE 9 NE",
+        "city": "LAKE STEVENS",
+        "state": "WA",
+        "postal_code": "982588525"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

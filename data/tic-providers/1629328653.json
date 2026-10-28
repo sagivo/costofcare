@@ -1,0 +1,25 @@
+{
+  "npi": "1629328653",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:26:15Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1629328653",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MENG",
+      "last_name": "CHEN",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "1205 N. EUCILD ST",
+        "city": "ANAHEIM",
+        "state": "CA",
+        "postal_code": "92801"
+      },
+      "last_updated": "2012-09-18"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1588741995",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:25:43Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1588741995",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "LYNN",
+      "last_name": "HEALEY",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "12255 FAIR LAKES PARKWAY",
+        "city": "FAIRFAX",
+        "state": "VA",
+        "postal_code": "22033"
+      },
+      "last_updated": "2021-06-02"
+    }
+  ]
+}

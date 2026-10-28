@@ -1,0 +1,25 @@
+{
+  "npi": "1659917037",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:26:47Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1659917037",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "LING",
+      "last_name": "WANG",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2 HILLSIDE AVE STE E",
+        "city": "WILLISTON PARK",
+        "state": "NY",
+        "postal_code": "115962308"
+      },
+      "last_updated": "2021-03-17"
+    }
+  ]
+}

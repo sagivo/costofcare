@@ -1,0 +1,25 @@
+{
+  "npi": "1538993027",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:25:21Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1538993027",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "IRENE",
+      "last_name": "ZAMAN",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "622 ABBOTT ST",
+        "city": "SALINAS",
+        "state": "CA",
+        "postal_code": "939014315"
+      },
+      "last_updated": "2024-08-28"
+    }
+  ]
+}

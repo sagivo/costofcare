@@ -1,0 +1,25 @@
+{
+  "npi": "1669567301",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:26:49Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1669567301",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CALVINE",
+      "last_name": "CASTRO",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "43015 BLACK DEER LOOP STE 103",
+        "city": "TEMECULA",
+        "state": "CA",
+        "postal_code": "925903567"
+      },
+      "last_updated": "2020-10-26"
+    }
+  ]
+}

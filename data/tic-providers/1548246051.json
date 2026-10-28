@@ -1,0 +1,25 @@
+{
+  "npi": "1548246051",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:25:24Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1548246051",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "WALTER",
+      "last_name": "DRILL",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "920 N BROAD ST",
+        "city": "LANSDALE",
+        "state": "PA",
+        "postal_code": "194462351"
+      },
+      "last_updated": "2008-04-16"
+    }
+  ]
+}

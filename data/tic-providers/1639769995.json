@@ -1,0 +1,25 @@
+{
+  "npi": "1639769995",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-28T17:26:30Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1639769995",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "YONG",
+      "last_name": "CHOO",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "159 NEWARK POMPTON TPKE",
+        "city": "PEQUANNOCK",
+        "state": "NJ",
+        "postal_code": "074401300"
+      },
+      "last_updated": "2021-01-21"
+    }
+  ]
+}
