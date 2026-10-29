@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 4186",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-be",
+    "asset_name": "oria-tobey_hospital-b58b2__be50b125acb7d6c8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-tobey_hospital-b58b2__be50b125acb7d6c8.jsonl.gz",
+    "asset_sha256": "be50b125acb7d6c89db8e5b840022921eb14644109d71343abb7ecc3781d6f60",
+    "published_at": "2026-10-29T02:23:59Z"
+  }
 }

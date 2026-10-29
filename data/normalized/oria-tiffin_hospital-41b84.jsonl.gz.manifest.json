@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-69",
+    "asset_name": "oria-tiffin_hospital-41b84__6929fa70ed778491.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-tiffin_hospital-41b84__6929fa70ed778491.jsonl.gz",
+    "asset_sha256": "6929fa70ed778491b09bbaa2295d718006b08610b1a6ad160dafe074eeee0f7b",
+    "published_at": "2026-10-29T02:23:49Z"
+  }
 }

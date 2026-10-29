@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c7",
+    "asset_name": "oria-swain_community_hospital-0d6d7__c793a7b8142d4d38.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c7/oria-swain_community_hospital-0d6d7__c793a7b8142d4d38.jsonl.gz",
+    "asset_sha256": "c793a7b8142d4d386a8868c2386e306b492a453bb3c7e8726f5be100f7fd21f9",
+    "published_at": "2026-10-29T02:22:39Z"
+  }
 }

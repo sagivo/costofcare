@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-99",
+    "asset_name": "oria-united_regional_health_care_system-26e50__9928975408f5c715.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/oria-united_regional_health_care_system-26e50__9928975408f5c715.jsonl.gz",
+    "asset_sha256": "9928975408f5c715492c90e54c49bedf278a551ae70fe57c1fe393611e15667a",
+    "published_at": "2026-10-29T02:25:51Z"
+  }
 }

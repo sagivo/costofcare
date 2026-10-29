@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2a",
+    "asset_name": "oria-the_pavilion-9e170__2a6f345484f8535d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2a/oria-the_pavilion-9e170__2a6f345484f8535d.jsonl.gz",
+    "asset_sha256": "2a6f345484f8535d081b8f7f39114de8cff5297b814efe904b5c08437850d6c8",
+    "published_at": "2026-10-29T02:23:27Z"
+  }
 }

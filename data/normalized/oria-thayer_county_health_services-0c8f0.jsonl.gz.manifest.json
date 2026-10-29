@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-af",
+    "asset_name": "oria-thayer_county_health_services-0c8f0__af99b2f167462faf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-af/oria-thayer_county_health_services-0c8f0__af99b2f167462faf.jsonl.gz",
+    "asset_sha256": "af99b2f167462faf4f839267f296fb417e3771d6733c7b0d9987cc7af66d758b",
+    "published_at": "2026-10-29T02:23:12Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-84",
+    "asset_name": "oria-surgeons_choice_medical_center-76c19__84bf3bdba2e5db88.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/oria-surgeons_choice_medical_center-76c19__84bf3bdba2e5db88.jsonl.gz",
+    "asset_sha256": "84bf3bdba2e5db884f121c0291a1ebfe463e82f0105119b44caff42a8a6a7344",
+    "published_at": "2026-10-29T02:22:34Z"
+  }
 }

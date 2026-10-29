@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2426",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8b",
+    "asset_name": "oria-um_baltimore_washington_medical_center-b3ac5__8b93358eab83c301.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8b/oria-um_baltimore_washington_medical_center-b3ac5__8b93358eab83c301.jsonl.gz",
+    "asset_sha256": "8b93358eab83c301777e1cebcde5963a6d194308a7e700ac1e708fe478b3cc9e",
+    "published_at": "2026-10-29T02:24:44Z"
+  }
 }

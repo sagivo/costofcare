@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ba",
+    "asset_name": "oria-stewart_memorial_community_hospital-c7e7d__ba4b21789d610baa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/oria-stewart_memorial_community_hospital-c7e7d__ba4b21789d610baa.jsonl.gz",
+    "asset_sha256": "ba4b21789d610baa84683c74f87072d502012ee477cc3a4bdc0b08085f07eca8",
+    "published_at": "2026-10-29T02:21:52Z"
+  }
 }

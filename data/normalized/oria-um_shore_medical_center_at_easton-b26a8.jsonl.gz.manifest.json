@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2408",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-07",
+    "asset_name": "oria-um_shore_medical_center_at_easton-b26a8__07b43aa9d23b56c3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/oria-um_shore_medical_center_at_easton-b26a8__07b43aa9d23b56c3.jsonl.gz",
+    "asset_sha256": "07b43aa9d23b56c34f8c22e5ffe514f0a39ba8baf559a0de4c36c9feec7655bb",
+    "published_at": "2026-10-29T02:25:08Z"
+  }
 }

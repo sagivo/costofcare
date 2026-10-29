@@ -1,140 +1,162 @@
 {
-  "generated_at": "2026-10-28T17:43:06.773658+00:00",
-  "normalized_files": 2751,
+  "generated_at": "2026-10-29T02:39:09.683195+00:00",
+  "normalized_files": 2752,
   "parser_versions": {
-    "row-preserving-1.2": 1164,
-    "row-preserving-1.3": 1586,
+    "row-preserving-1.2": 1048,
+    "row-preserving-1.3": 1703,
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 2514,
-    "within_24h": 237
+    "1_to_7_days": 2516,
+    "within_24h": 236
   },
   "failed_attempt_classes": {
     "other": 2,
     "strict_encoding": 6,
-    "http_429": 1
+    "http_429": 1,
+    "timeout": 1
   },
   "summary_hash_missing_count": 1,
   "summary_normalized_hash_differences": [
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250965547_saint-vincent-health-center_standardcharges.csv",
       "normalized_sha256": "e8c0d60371b09a063635b4c6bbb8c3c2d5d5d242e15d08695ce9b85373a0d70e",
-      "summary_sha256": "4bb72a4e2ca1f161379958745a3d8b3c35975d4d0dcdfe07c1097eca512edfb5",
+      "summary_sha256": "20d9c86de33a7f11fae5cc583eae7db5ce026296a4b151d47be266ed0eb80f20",
       "normalized_extracted_at": "2026-10-22T18:57:14Z",
-      "summary_extracted_at": "2026-10-27T17:12:39Z"
+      "summary_extracted_at": "2026-10-28T18:01:49Z"
     },
     {
       "source_url": "https://specialistshospitalshreveport.slicedhealth.io/pricer/208810573_specialists-hospital-shreveport_standardcharges.csv",
       "normalized_sha256": "4c8d24b90949a8d926bba71bbbe7779fb3066fea78977e7b950fe572eb9a4e21",
       "summary_sha256": "21c7a1e4a544c08b6eab8581680c13ac8be50988b6b3850481c5b61bbb8c158d",
       "normalized_extracted_at": "2026-10-22T19:55:43Z",
-      "summary_extracted_at": "2026-10-27T17:32:05Z"
+      "summary_extracted_at": "2026-10-28T18:21:17Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1285667493_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "b62c4441e306f7a2a48117337c2ed502dfc241c744d2041ce447b001e3a2166c",
-      "summary_sha256": "9b9b355fee2bd5db4f6e4e2f4003d816839a475a3d76487b02e4895ced73505a",
+      "summary_sha256": "4ccf66416e1791fa7200354416659ac8977f4ef83727888b08fb4ae365e129e1",
       "normalized_extracted_at": "2026-10-24T01:05:29Z",
-      "summary_extracted_at": "2026-10-27T15:40:15Z"
+      "summary_extracted_at": "2026-10-28T16:25:47Z"
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-sewickley_standardcharges-April-2026.csv",
       "normalized_sha256": "18f8f8b1e043de47d86e6d36a8543b38803c60740fe053326ed70413a0c786e5",
-      "summary_sha256": "b90e507462203a88e0703011d9bc00cc0e153cc42fd5068d828e7f330577606d",
+      "summary_sha256": "c9b8c0783b84d797719616a765568c3020c0a49899ce62eab207c59cd9e0b6b3",
       "normalized_extracted_at": "2026-10-22T13:44:16Z",
-      "summary_extracted_at": "2026-10-27T15:29:40Z"
+      "summary_extracted_at": "2026-10-28T16:15:24Z"
+    },
+    {
+      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11148/830567637_curahealth-houston-heights-llc_standardcharges.csv",
+      "normalized_sha256": "9daaccea90ea901dc82c274380a1f414aad0c637a2a6bbc1c85207f3902d779c",
+      "summary_sha256": "57a2a93a3cf2a5b6794b19bfe3d5e66cafe6f2d1d3e62ac30d411cbfb6c121f9",
+      "normalized_extracted_at": "2026-10-22T18:08:35Z",
+      "summary_extracted_at": "2026-10-28T17:36:00Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251260215_jefferson-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "ad5bccdf4838897a17f507d5e4078e3b22d45da292a3ec4dd3d70d423013544f",
       "summary_sha256": "eff253a4b269e008f7a86f3042d7b4571fd44b1a5c1c02f09833ec82762fbafc",
       "normalized_extracted_at": "2026-10-22T13:50:58Z",
-      "summary_extracted_at": "2026-10-27T15:34:30Z"
+      "summary_extracted_at": "2026-10-28T16:20:16Z"
+    },
+    {
+      "source_url": "https://secure.claraprice.net/price-transparency/ZZKG-1724785095238/machine-readable/94-1634554_oroville-hospital_standardcharges.json",
+      "normalized_sha256": "377171f0af74c4526da8b316f7771253a2d548032a0305ca7ad2d40849ddb9eb",
+      "summary_sha256": "811ced2459b82bad415c297f9b76e9074492c0511f62bf367afcfd9c0098ddc4",
+      "normalized_extracted_at": "2026-10-22T18:08:35Z",
+      "summary_extracted_at": "2026-10-28T17:35:02Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "e9cad25405435ed4b47c6e95565b8fd6ca3c72cae3fcdf2cd81f204f19b169cf",
-      "summary_sha256": "6e0e609726454c8312be57a7ce41788f1904a3b564ead9a130f9b9acc38d76e2",
+      "summary_sha256": "768c03b8388677e8f4614c83411ff81206a648fa1fc82ea5507609fd13b5dfe1",
       "normalized_extracted_at": "2026-10-24T01:06:09Z",
-      "summary_extracted_at": "2026-10-27T15:40:03Z"
+      "summary_extracted_at": "2026-10-28T16:25:34Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1679592380_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "ce15f34c7414a95f2c7448ca924474376ec764d7297742785172e0c364da5325",
-      "summary_sha256": "bfc57ea35936364c3fdbe5ab31ed8be5319b9972d200113b1d590a70bc5cef19",
+      "summary_sha256": "5e207f41f4f61469287cf5252f2d7eedb979f100c1d595eec7224f3c6b4e6336",
       "normalized_extracted_at": "2026-10-22T17:09:10Z",
-      "summary_extracted_at": "2026-10-27T18:08:40Z"
+      "summary_extracted_at": "2026-10-28T18:58:22Z"
     },
     {
       "source_url": "https://cdn.hs.uab.edu/static/63-6005396_University-of-Alabama-Hospital_standardcharges.zip",
       "normalized_sha256": "0d4bc183a4b2b7e78ebbceccb6917cd948d1c2076625ce5be8b9f12f3d25c62c",
       "summary_sha256": "4b4fb8953e8b66881a46c9af96d17bc3451364ca32e69fcd46302413328938e4",
       "normalized_extracted_at": "2026-10-24T14:08:13Z",
-      "summary_extracted_at": "2026-10-27T18:27:58Z"
+      "summary_extracted_at": "2026-10-28T19:21:27Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1194744805_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "03c591a1d156a7366694a88cf319e10f74c6e6fad8fe1f98dcd03b4923221cd7",
-      "summary_sha256": "8829e474c4e0ad44614885027b14c7dc18f72f75ba538a1dc18d37c5ef033db5",
+      "summary_sha256": "47d06e10fb5d0e17ff8019316ebc1f46cc33f5d3038534c2c7b5d5a22c796ba9",
       "normalized_extracted_at": "2026-10-23T00:55:54Z",
-      "summary_extracted_at": "2026-10-27T18:13:19Z"
+      "summary_extracted_at": "2026-10-28T19:03:59Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/BILX-1758056023835/machine-readable/481058737_pratt-regional-medical-center_standardcharges.json",
       "normalized_sha256": "cc7eda316f0c635be653e9cea286985a122b8fcc6b0ca61f77dfa95a424af114",
       "summary_sha256": "df00f0c28e399dde1a57e35343a79995f9a8afee6c3a0e23f46a413a1090c994",
       "normalized_extracted_at": "2026-10-22T18:55:10Z",
-      "summary_extracted_at": "2026-10-27T17:04:46Z"
+      "summary_extracted_at": "2026-10-28T17:53:20Z"
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-beaver_standardcharges-April-2026.csv",
-      "normalized_sha256": "38c8a7dc5870289a5e064cce2d6c5bb0f0300826e0d008621969b0def80f0512",
-      "summary_sha256": "8d6411790a7f195bdeaf4555e9e6c0d6fdc6b55f96b763133a5ede9e60ef18ba",
-      "normalized_extracted_at": "2026-10-22T13:43:44Z",
-      "summary_extracted_at": "2026-10-27T15:29:39Z"
+      "normalized_sha256": "8d6411790a7f195bdeaf4555e9e6c0d6fdc6b55f96b763133a5ede9e60ef18ba",
+      "summary_sha256": "3f9e362618ac64b1ccd83df9a6ccff91cc62c1129f7f9d42c382366eefdcb191",
+      "normalized_extracted_at": "2026-10-29T02:07:13Z",
+      "summary_extracted_at": "2026-10-28T16:15:23Z"
     },
     {
       "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/240795411_evangelical-community-hospital_standardcharges.csv",
       "normalized_sha256": "404598efccffe9349940bd84f62fb1380eb4a0d29f235c33f2aaa6c4e4513562",
       "summary_sha256": "5caa5a483995cdad9da26ee28104729de05baec2ccc189a876a8482ec96af90a",
       "normalized_extracted_at": "2026-10-23T01:34:58Z",
-      "summary_extracted_at": "2026-10-27T15:25:22Z"
+      "summary_extracted_at": "2026-10-28T16:10:47Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251737079_canonsburg-general-hospital_standardcharges.csv",
       "normalized_sha256": "1615f7d1e81acf0993beb83eeefa5e26bd8e67db5211ba051ecb14096314618b",
-      "summary_sha256": "64a12ffb256da2c1ac7a65f363cbc07c36edc97a1bf5d6326732e1cfac7c47a0",
+      "summary_sha256": "68ce4d2b98594ba5a457e68238a454893415c69a76ce67bcbfd70cd1a7bb226d",
       "normalized_extracted_at": "2026-10-27T16:05:10Z",
-      "summary_extracted_at": "2026-10-27T16:55:04Z"
+      "summary_extracted_at": "2026-10-28T17:43:00Z"
     },
     {
       "source_url": "https://oklahomaspine.com/wp-content/uploads/731538478_Oklahoma-Spine-Hospital-LLC_standardcharges.csv",
       "normalized_sha256": "72cffa05450910034ffa69131b1fdc4377d9b0ec44393923dddd60e0991845f4",
       "summary_sha256": "03f066dd00261e4f95a4e5aa04dee1193258215f99eb2fa3e216c3214bae3b65",
       "normalized_extracted_at": "2026-10-22T18:07:50Z",
-      "summary_extracted_at": "2026-10-27T16:46:47Z"
+      "summary_extracted_at": "2026-10-28T17:34:35Z"
     },
     {
       "source_url": "https://mrfs.hyvehealthcare.com/McAlesterRegionalHealth/730992978_mcalester-regional-health-center_standardcharges.json",
       "normalized_sha256": "b5930fa1b877a52e00ccb7de3a918fb8fa69505d663164647294872f04023f6e",
       "summary_sha256": "584b0c9d064c3659333be5ffd0e026dd7a6a4542c52bff6bbfc783c8438f4b0a",
       "normalized_extracted_at": "2026-10-22T14:51:17Z",
-      "summary_extracted_at": "2026-10-27T16:05:50Z"
+      "summary_extracted_at": "2026-10-28T16:52:30Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251340370_grove-city-medical-center_standardcharges.csv",
       "normalized_sha256": "e376ff58fd62a4435683612c3363098321d69b914e2a1d3487e7c28d08c74486",
-      "summary_sha256": "af9b0129e522d62e6aecd4ab31dd976e59c053afb7ca3e40d5c0c0a11ad83233",
+      "summary_sha256": "84f9c66243bd73b0e234a9758aee7a66982d7c507eac8c3b1d1e2729a38cef90",
       "normalized_extracted_at": "2026-10-22T17:03:23Z",
-      "summary_extracted_at": "2026-10-27T18:16:47Z"
+      "summary_extracted_at": "2026-10-28T19:08:04Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251875178_alle-kiski-medical-center_standardcharges.csv",
       "normalized_sha256": "4338a488836c2204a8901239a83fcbcd47c961979b9f6f7384a4d6479edc304d",
-      "summary_sha256": "fb049ee9bd2d6ef8070dfd164cd041eb9d43e25121fddc49b347f24a674f18a3",
+      "summary_sha256": "07e1cbb2a810f76014be6d69eaa24979cef7637677cc118b81bb979e6408c176",
       "normalized_extracted_at": "2026-10-24T01:05:26Z",
-      "summary_extracted_at": "2026-10-27T15:40:24Z"
+      "summary_extracted_at": "2026-10-28T16:25:53Z"
+    },
+    {
+      "source_url": "https://secure.claraprice.net/price-transparency/TDCQ-1707436189518/machine-readable/262835957_aspire-behavioral-health_standardcharges.json",
+      "normalized_sha256": "6329bbdb554f82850b030ae1bdfc1db25b9db06d23302c1e1030c45d8cd6938f",
+      "summary_sha256": "af61da6da83d2f585a372de5ca25a9d98bb01d5179bdcbea1113db02cc84e526",
+      "normalized_extracted_at": "2026-10-26T16:58:46Z",
+      "summary_extracted_at": "2026-10-28T16:37:06Z"
     }
   ],
   "normalized_without_successful_summary": [],

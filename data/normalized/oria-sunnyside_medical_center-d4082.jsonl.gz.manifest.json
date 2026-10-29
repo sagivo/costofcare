@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "oria-sunnyside_medical_center-d4082__29629150a7465fea.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/oria-sunnyside_medical_center-d4082__29629150a7465fea.jsonl.gz",
+    "asset_sha256": "29629150a7465fea70848abb23e54c5ffd7322c767e30459ef43d937ff22f3d4",
+    "published_at": "2026-10-29T02:22:29Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "oria-trinity_medical-55ebf__31e20f979a568f24.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-trinity_medical-55ebf__31e20f979a568f24.jsonl.gz",
+    "asset_sha256": "31e20f979a568f24bdcf7bd509baf6cc31e71b20cb3a08bc60d6296977dcff23",
+    "published_at": "2026-10-29T02:24:23Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-be",
+    "asset_name": "oria-st_lukes_hospital_monroe_campus-a938b__be3ef46d0f5dc0b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-st_lukes_hospital_monroe_campus-a938b__be3ef46d0f5dc0b2.jsonl.gz",
+    "asset_sha256": "be3ef46d0f5dc0b28939a910af3ef3763c3500db081b452a660865f7f6d53857",
+    "published_at": "2026-10-29T02:20:31Z"
+  }
 }

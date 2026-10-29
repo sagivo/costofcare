@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1e",
+    "asset_name": "oria-troy_regional_medical_center-789a0__1e5dc7b77663cbf2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/oria-troy_regional_medical_center-789a0__1e5dc7b77663cbf2.jsonl.gz",
+    "asset_sha256": "1e5dc7b77663cbf2a21e9036f32943b5288571f2b64d46e2a72a74936ac2df29",
+    "published_at": "2026-10-29T02:24:27Z"
+  }
 }

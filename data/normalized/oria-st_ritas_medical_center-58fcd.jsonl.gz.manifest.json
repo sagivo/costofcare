@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-69",
+    "asset_name": "oria-st_ritas_medical_center-58fcd__691a5c4a8250a03e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-st_ritas_medical_center-58fcd__691a5c4a8250a03e.jsonl.gz",
+    "asset_sha256": "691a5c4a8250a03e3790cb88a9a8ce2af319c29b250e250f50a7849ca504b211",
+    "published_at": "2026-10-29T02:21:15Z"
+  }
 }

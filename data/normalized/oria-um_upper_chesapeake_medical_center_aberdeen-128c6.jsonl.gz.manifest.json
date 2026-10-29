@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2451",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "oria-um_upper_chesapeake_medical_center_aberdeen-128c6__815359975530d86f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-um_upper_chesapeake_medical_center_aberdeen-128c6__815359975530d86f.jsonl.gz",
+    "asset_sha256": "815359975530d86f2f2f7b67fb5f8d0989ddb2bb26fc3b14c466e740c133cefa",
+    "published_at": "2026-10-29T02:25:19Z"
+  }
 }

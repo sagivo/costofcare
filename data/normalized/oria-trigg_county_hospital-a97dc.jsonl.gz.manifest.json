@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "oria-trigg_county_hospital-a97dc__30e3f8ad6ff56f2d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-trigg_county_hospital-a97dc__30e3f8ad6ff56f2d.jsonl.gz",
+    "asset_sha256": "30e3f8ad6ff56f2dd99d295b090e4d35aaef0a976eb28cf586512796c131e9b7",
+    "published_at": "2026-10-29T02:24:07Z"
+  }
 }

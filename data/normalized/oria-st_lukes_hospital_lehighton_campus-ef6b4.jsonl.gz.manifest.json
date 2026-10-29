@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-st_lukes_hospital_lehighton_campus-ef6b4__b6fd116399ee057b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-st_lukes_hospital_lehighton_campus-ef6b4__b6fd116399ee057b.jsonl.gz",
+    "asset_sha256": "b6fd116399ee057b748635cdebba8ca883475eb108a1a55d50de75eb016c168e",
+    "published_at": "2026-10-29T02:20:26Z"
+  }
 }

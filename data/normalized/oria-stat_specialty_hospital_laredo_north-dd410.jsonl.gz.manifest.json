@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "oria-stat_specialty_hospital_laredo_north-dd410__f09490d3fb651bad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-stat_specialty_hospital_laredo_north-dd410__f09490d3fb651bad.jsonl.gz",
+    "asset_sha256": "f09490d3fb651baddda0cdbb2d95ae5ce804d3952706f4c219136f152ef54e45",
+    "published_at": "2026-10-29T02:21:39Z"
+  }
 }

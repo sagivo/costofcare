@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b7",
+    "asset_name": "oria-titusville_area_hospital-b378d__b744b2134e4cd199.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b7/oria-titusville_area_hospital-b378d__b744b2134e4cd199.jsonl.gz",
+    "asset_sha256": "b744b2134e4cd199b1f5f980bdfaa7d350206b36134b01f1e04a9d0ceaed7627",
+    "published_at": "2026-10-29T02:23:57Z"
+  }
 }

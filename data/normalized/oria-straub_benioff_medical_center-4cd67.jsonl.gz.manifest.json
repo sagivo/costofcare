@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d8",
+    "asset_name": "oria-straub_benioff_medical_center-4cd67__d842cec4ad734499.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/oria-straub_benioff_medical_center-4cd67__d842cec4ad734499.jsonl.gz",
+    "asset_sha256": "d842cec4ad734499bf1ccc1066bc7f4baf312e7b110074cd2d04b2cd7aaf578a",
+    "published_at": "2026-10-29T02:22:11Z"
+  }
 }

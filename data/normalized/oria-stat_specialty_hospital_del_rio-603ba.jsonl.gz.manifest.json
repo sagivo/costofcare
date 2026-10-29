@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-stat_specialty_hospital_del_rio-603ba__852020ea3e1a8164.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-stat_specialty_hospital_del_rio-603ba__852020ea3e1a8164.jsonl.gz",
+    "asset_sha256": "852020ea3e1a8164efd52f6be63e5c4a5605b877217e0524b04f9ecd07b56679",
+    "published_at": "2026-10-29T02:21:34Z"
+  }
 }

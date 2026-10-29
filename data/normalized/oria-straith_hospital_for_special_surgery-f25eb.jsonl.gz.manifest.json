@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-43",
+    "asset_name": "oria-straith_hospital_for_special_surgery-f25eb__43c1aee1971ce7d7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-straith_hospital_for_special_surgery-f25eb__43c1aee1971ce7d7.jsonl.gz",
+    "asset_sha256": "43c1aee1971ce7d71884c6e77b8beddb0d749bcac954ddfbef61f15f7ea80415",
+    "published_at": "2026-10-29T02:22:09Z"
+  }
 }

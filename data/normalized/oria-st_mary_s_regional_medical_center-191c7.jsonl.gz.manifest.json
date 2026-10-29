@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1080",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1d",
+    "asset_name": "oria-st_mary_s_regional_medical_center-191c7__1dc461b8e8b2d3a6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-st_mary_s_regional_medical_center-191c7__1dc461b8e8b2d3a6.jsonl.gz",
+    "asset_sha256": "1dc461b8e8b2d3a6a26ea28f6d94c79eb08e7957b541ae7b2a04eb9e10708625",
+    "published_at": "2026-10-29T02:20:56Z"
+  }
 }

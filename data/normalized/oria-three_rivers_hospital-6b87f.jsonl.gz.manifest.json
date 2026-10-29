@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8b",
+    "asset_name": "oria-three_rivers_hospital-6b87f__8b7e28dd3dde80d4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8b/oria-three_rivers_hospital-6b87f__8b7e28dd3dde80d4.jsonl.gz",
+    "asset_sha256": "8b7e28dd3dde80d40bbe47db7e1ae379302c7b9ffd10ea23edd5c7c2420c92bb",
+    "published_at": "2026-10-29T02:23:44Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a5",
+    "asset_name": "oria-st_tammany_parish_hospital-558cb__a5818612e3cca54a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a5/oria-st_tammany_parish_hospital-558cb__a5818612e3cca54a.jsonl.gz",
+    "asset_sha256": "a5818612e3cca54a7a4e0e78a6b2a58638c81963dfd6c4c74c5dd3251a456694",
+    "published_at": "2026-10-29T02:21:17Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-66",
+    "asset_name": "oria-tampa_general_rehab_hosp-27723__66c9c7bcbdec818e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/oria-tampa_general_rehab_hosp-27723__66c9c7bcbdec818e.jsonl.gz",
+    "asset_sha256": "66c9c7bcbdec818ee02f369d3cd7ea4c63c3863be96d7b6a850c651cc7061251",
+    "published_at": "2026-10-29T02:22:48Z"
+  }
 }

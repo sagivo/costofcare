@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-97",
+    "asset_name": "oria-sturgis_hospital-7b925__97966bcdd336612d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-sturgis_hospital-7b925__97966bcdd336612d.jsonl.gz",
+    "asset_sha256": "97966bcdd336612d5ec760cd998284b9a0054a2653e1a46bab16a3d97b78ffcf",
+    "published_at": "2026-10-29T02:22:19Z"
+  }
 }

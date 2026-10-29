@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2409",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-91",
+    "asset_name": "oria-um_charles_regional_medical_center-ca91d__91a6f94a9c5a798f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-91/oria-um_charles_regional_medical_center-ca91d__91a6f94a9c5a798f.jsonl.gz",
+    "asset_sha256": "91a6f94a9c5a798f0ff64efa20618a04074209eee695d5bc9e04c33dd0584a3e",
+    "published_at": "2026-10-29T02:24:51Z"
+  }
 }

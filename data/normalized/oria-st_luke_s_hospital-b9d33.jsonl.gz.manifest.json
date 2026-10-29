@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3810",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1c",
+    "asset_name": "oria-st_luke_s_hospital-b9d33__1c18e86eb8798cd3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-st_luke_s_hospital-b9d33__1c18e86eb8798cd3.jsonl.gz",
+    "asset_sha256": "1c18e86eb8798cd36d2ef36ff408e0644379636362f7fa7ef03d44b949bdb24e",
+    "published_at": "2026-10-29T02:20:05Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-00",
+    "asset_name": "oria-the_hospitals_of_providence_emergency_room_montwood-19d85__00a3075b8ba1925a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-00/oria-the_hospitals_of_providence_emergency_room_montwood-19d85__00a3075b8ba1925a.jsonl.gz",
+    "asset_sha256": "00a3075b8ba1925a9bee6ae59dbff29ca1606f7d01eda3ec39616ff9bf077c30",
+    "published_at": "2026-10-29T02:23:20Z"
+  }
 }

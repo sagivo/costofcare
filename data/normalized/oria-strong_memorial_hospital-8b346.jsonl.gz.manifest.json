@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "oria-strong_memorial_hospital-8b346__77c3e167d70ca500.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/oria-strong_memorial_hospital-8b346__77c3e167d70ca500.jsonl.gz",
+    "asset_sha256": "77c3e167d70ca5006e100728aae9275b702c7426b16dc9d1cd29b46b5eba5130",
+    "published_at": "2026-10-29T02:22:16Z"
+  }
 }

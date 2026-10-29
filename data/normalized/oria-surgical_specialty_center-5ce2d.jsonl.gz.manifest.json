@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4a",
+    "asset_name": "oria-surgical_specialty_center-5ce2d__4af95487a5c452fa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/oria-surgical_specialty_center-5ce2d__4af95487a5c452fa.jsonl.gz",
+    "asset_sha256": "4af95487a5c452fa8b53aec7cadbf3dbb1ef3781a6cbfe47da89eabd5f93a42c",
+    "published_at": "2026-10-29T02:22:36Z"
+  }
 }

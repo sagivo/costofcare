@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-15",
+    "asset_name": "oria-texas_health_springwood_hospital_hurst_euless_bedford-e6143__15ba61aa85c0041e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-15/oria-texas_health_springwood_hospital_hurst_euless_bedford-e6143__15ba61aa85c0041e.jsonl.gz",
+    "asset_sha256": "15ba61aa85c0041ea7c3e8c0b206a2fb34fcc38a08ded175cbf2ed6e72755b92",
+    "published_at": "2026-10-29T02:23:03Z"
+  }
 }

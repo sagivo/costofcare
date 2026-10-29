@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2423",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2a",
+    "asset_name": "oria-um_shore_medical_center_at_chestertown-0b70c__2a547d844438ad84.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2a/oria-um_shore_medical_center_at_chestertown-0b70c__2a547d844438ad84.jsonl.gz",
+    "asset_sha256": "2a547d844438ad84ff41eeed1cfd7571abca31c3bebb5b780460028f75ba1c62",
+    "published_at": "2026-10-29T02:25:06Z"
+  }
 }

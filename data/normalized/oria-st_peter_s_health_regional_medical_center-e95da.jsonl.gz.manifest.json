@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5263",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-st_peter_s_health_regional_medical_center-e95da__85bb014be1133051.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-st_peter_s_health_regional_medical_center-e95da__85bb014be1133051.jsonl.gz",
+    "asset_sha256": "85bb014be113305131032a4191fd001bac7e4f2b8873b3ebfaad3ce5c0968593",
+    "published_at": "2026-10-29T02:21:10Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "oria-stonewall_jackson_hospital-0fafd__fd6ac26424722270.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-stonewall_jackson_hospital-0fafd__fd6ac26424722270.jsonl.gz",
+    "asset_sha256": "fd6ac26424722270ab18c804cac5d60a84af6cf118fd846d2e6f40cf196513e0",
+    "published_at": "2026-10-29T02:21:59Z"
+  }
 }

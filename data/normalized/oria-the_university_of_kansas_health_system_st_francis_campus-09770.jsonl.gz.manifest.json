@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-the_university_of_kansas_health_system_st_francis_campus-09770__6d97ba4f24f4e3f6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-the_university_of_kansas_health_system_st_francis_campus-09770__6d97ba4f24f4e3f6.jsonl.gz",
+    "asset_sha256": "6d97ba4f24f4e3f696c028a3a569abc2d534bc74a14f873fd7e11636e8567a4d",
+    "published_at": "2026-10-29T02:23:37Z"
+  }
 }

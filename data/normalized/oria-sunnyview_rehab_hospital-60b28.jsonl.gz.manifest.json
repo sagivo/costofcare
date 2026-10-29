@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1b",
+    "asset_name": "oria-sunnyview_rehab_hospital-60b28__1bd705af00c0a37c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1b/oria-sunnyview_rehab_hospital-60b28__1bd705af00c0a37c.jsonl.gz",
+    "asset_sha256": "1bd705af00c0a37c9a4f821946441758d2e51477c6a7996bdb66bf76635f4cc3",
+    "published_at": "2026-10-29T02:22:32Z"
+  }
 }

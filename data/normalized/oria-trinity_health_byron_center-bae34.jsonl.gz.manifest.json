@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3f",
+    "asset_name": "oria-trinity_health_byron_center-bae34__3f77f9a3a6e303e0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3f/oria-trinity_health_byron_center-bae34__3f77f9a3a6e303e0.jsonl.gz",
+    "asset_sha256": "3f77f9a3a6e303e0b922325da535a9452dbd8f1e9ba2e4a3370c968f2ce78448",
+    "published_at": "2026-10-29T02:24:12Z"
+  }
 }

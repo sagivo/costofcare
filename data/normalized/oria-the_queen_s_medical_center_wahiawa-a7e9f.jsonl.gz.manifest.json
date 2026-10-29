@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-83",
+    "asset_name": "oria-the_queen_s_medical_center_wahiawa-a7e9f__83317ad75f18a042.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/oria-the_queen_s_medical_center_wahiawa-a7e9f__83317ad75f18a042.jsonl.gz",
+    "asset_sha256": "83317ad75f18a0429945eaf851970f0b3fabe5f9e6ce04c7be048a035451e541",
+    "published_at": "2026-10-29T02:23:32Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-94",
+    "asset_name": "oria-st_lukes_hospital_upper_bucks_campus-d1372__94acbb304676891f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-94/oria-st_lukes_hospital_upper_bucks_campus-d1372__94acbb304676891f.jsonl.gz",
+    "asset_sha256": "94acbb304676891f5ac66d6169442a748d723a1ec98a9a64de9a893e98e53e55",
+    "published_at": "2026-10-29T02:20:36Z"
+  }
 }

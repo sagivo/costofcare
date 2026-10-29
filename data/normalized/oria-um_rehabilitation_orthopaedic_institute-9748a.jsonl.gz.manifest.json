@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2438",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-20",
+    "asset_name": "oria-um_rehabilitation_orthopaedic_institute-9748a__200edefb8b07f181.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-20/oria-um_rehabilitation_orthopaedic_institute-9748a__200edefb8b07f181.jsonl.gz",
+    "asset_sha256": "200edefb8b07f1815b3f6d11517aba784106c7d5ee5da2676971a94c981a256d",
+    "published_at": "2026-10-29T02:24:58Z"
+  }
 }

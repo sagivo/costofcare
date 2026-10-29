@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 3474",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "oria-stormont_vail_flint_hills_llc-658be__9033f479606e4d1a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-stormont_vail_flint_hills_llc-658be__9033f479606e4d1a.jsonl.gz",
+    "asset_sha256": "9033f479606e4d1a9238192706ec4487c3f804fcd693100c5a06ee26fdac9dbe",
+    "published_at": "2026-10-29T02:22:04Z"
+  }
 }

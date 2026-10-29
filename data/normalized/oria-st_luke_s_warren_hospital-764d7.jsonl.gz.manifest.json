@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "oria-st_luke_s_warren_hospital-764d7__61e333d8d1f2e3bf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-st_luke_s_warren_hospital-764d7__61e333d8d1f2e3bf.jsonl.gz",
+    "asset_sha256": "61e333d8d1f2e3bf64151df6f28eb5404707417f2f462d77ed87cc009bdd5a75",
+    "published_at": "2026-10-29T02:20:13Z"
+  }
 }

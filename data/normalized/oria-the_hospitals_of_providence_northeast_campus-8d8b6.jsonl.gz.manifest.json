@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-28",
+    "asset_name": "oria-the_hospitals_of_providence_northeast_campus-8d8b6__280bd881471ab003.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-28/oria-the_hospitals_of_providence_northeast_campus-8d8b6__280bd881471ab003.jsonl.gz",
+    "asset_sha256": "280bd881471ab003ef54850e3e2e66c2b8e4652e2b76e218602bfcf9f21073fe",
+    "published_at": "2026-10-29T02:23:22Z"
+  }
 }

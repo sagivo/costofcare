@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 322",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2a",
+    "asset_name": "oria-temecula_valley_hospital-c3199__2a90d1a7eed5b824.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2a/oria-temecula_valley_hospital-c3199__2a90d1a7eed5b824.jsonl.gz",
+    "asset_sha256": "2a90d1a7eed5b824ce5a750868f944649cd3f441952fc4d70fe8ca11511eb6e3",
+    "published_at": "2026-10-29T02:22:53Z"
+  }
 }

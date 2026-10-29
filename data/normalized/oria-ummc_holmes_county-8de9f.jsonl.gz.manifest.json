@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 8122",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-de",
+    "asset_name": "oria-ummc_holmes_county-8de9f__de862d8c039fc961.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/oria-ummc_holmes_county-8de9f__de862d8c039fc961.jsonl.gz",
+    "asset_sha256": "de862d8c039fc961b179d04dd5ceaab5a3fac1b6bb01f24fdbfb38b8457f183c",
+    "published_at": "2026-10-29T02:25:26Z"
+  }
 }

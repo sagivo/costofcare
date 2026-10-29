@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2411",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2c",
+    "asset_name": "oria-um_capital_region_medical_center-39c41__2c5caa8418cda27c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2c/oria-um_capital_region_medical_center-39c41__2c5caa8418cda27c.jsonl.gz",
+    "asset_sha256": "2c5caa8418cda27ca263b432879a14afcaf633627293428123cca03e1ff0847f",
+    "published_at": "2026-10-29T02:24:48Z"
+  }
 }

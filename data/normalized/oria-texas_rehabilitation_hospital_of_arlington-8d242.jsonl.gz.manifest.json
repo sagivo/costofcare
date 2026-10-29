@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 5581",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8e",
+    "asset_name": "oria-texas_rehabilitation_hospital_of_arlington-8d242__8eec5c8e381b6d28.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8e/oria-texas_rehabilitation_hospital_of_arlington-8d242__8eec5c8e381b6d28.jsonl.gz",
+    "asset_sha256": "8eec5c8e381b6d28b8e8c39d28297c237e6ec084ddc428bf706de2722600dcc4",
+    "published_at": "2026-10-29T02:23:05Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6d",
+    "asset_name": "oria-stillwater_medical_blackwell-c18af__6d36d42313957e8b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-stillwater_medical_blackwell-c18af__6d36d42313957e8b.jsonl.gz",
+    "asset_sha256": "6d36d42313957e8b04fcacd1c7d931bada395b2a07205ed28e0625c0527ad32a",
+    "published_at": "2026-10-29T02:21:54Z"
+  }
 }

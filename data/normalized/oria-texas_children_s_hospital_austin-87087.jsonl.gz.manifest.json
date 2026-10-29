@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "oria-texas_children_s_hospital_austin-87087__85c02ef7b2f6c311.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-texas_children_s_hospital_austin-87087__85c02ef7b2f6c311.jsonl.gz",
+    "asset_sha256": "85c02ef7b2f6c311dc1adc1ae26897f3a141df20cd2997ea52ae1b52ff88dac1",
+    "published_at": "2026-10-29T02:22:58Z"
+  }
 }

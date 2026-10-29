@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ad",
+    "asset_name": "oria-st_peters_hospital-75773__ad978d406b73aca9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/oria-st_peters_hospital-75773__ad978d406b73aca9.jsonl.gz",
+    "asset_sha256": "ad978d406b73aca9b4a4e542fc1aaf82a7c6824fcf3d76bffa7d0d766cf4d0f0",
+    "published_at": "2026-10-29T02:21:13Z"
+  }
 }

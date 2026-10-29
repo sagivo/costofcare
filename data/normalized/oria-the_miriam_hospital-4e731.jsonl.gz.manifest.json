@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-07",
+    "asset_name": "oria-the_miriam_hospital-4e731__07c5e78b68430a27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/oria-the_miriam_hospital-4e731__07c5e78b68430a27.jsonl.gz",
+    "asset_sha256": "07c5e78b68430a27799296a2b7499a6313174780e5f307a281dcb62bf344d564",
+    "published_at": "2026-10-29T02:23:25Z"
+  }
 }

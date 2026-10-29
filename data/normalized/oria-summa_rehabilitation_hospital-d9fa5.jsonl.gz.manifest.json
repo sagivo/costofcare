@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5a",
+    "asset_name": "oria-summa_rehabilitation_hospital-d9fa5__5ac65512015a6cb7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-summa_rehabilitation_hospital-d9fa5__5ac65512015a6cb7.jsonl.gz",
+    "asset_sha256": "5ac65512015a6cb795d251aa6b1ff26d7e1e175f02e9d02170f3c59c8820123e",
+    "published_at": "2026-10-29T02:22:24Z"
+  }
 }

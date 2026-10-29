@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-st_mary_medical_center-e507b__b61b14ffe340a76e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-st_mary_medical_center-e507b__b61b14ffe340a76e.jsonl.gz",
+    "asset_sha256": "b61b14ffe340a76ec96e0805422b170b6120019cecb80d7c6eec1d124aa8349c",
+    "published_at": "2026-10-29T02:20:41Z"
+  }
 }

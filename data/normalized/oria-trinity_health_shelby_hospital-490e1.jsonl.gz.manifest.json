@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a6",
+    "asset_name": "oria-trinity_health_shelby_hospital-490e1__a64793f78dfd007c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-trinity_health_shelby_hospital-490e1__a64793f78dfd007c.jsonl.gz",
+    "asset_sha256": "a64793f78dfd007c944f6538a72a8ed1df8920237cd9329cae4044557b63f102",
+    "published_at": "2026-10-29T02:24:20Z"
+  }
 }

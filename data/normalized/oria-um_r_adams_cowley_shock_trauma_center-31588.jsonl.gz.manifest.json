@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2424",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d8",
+    "asset_name": "oria-um_r_adams_cowley_shock_trauma_center-31588__d84515bd814cc7cd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/oria-um_r_adams_cowley_shock_trauma_center-31588__d84515bd814cc7cd.jsonl.gz",
+    "asset_sha256": "d84515bd814cc7cdead78cb0b85af9e8b41ac8c859f495e991444a4764d62e48",
+    "published_at": "2026-10-29T02:24:55Z"
+  }
 }

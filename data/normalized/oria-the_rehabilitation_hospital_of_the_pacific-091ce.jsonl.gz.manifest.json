@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2e",
+    "asset_name": "oria-the_rehabilitation_hospital_of_the_pacific-091ce__2ec6e984983eb8ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-the_rehabilitation_hospital_of_the_pacific-091ce__2ec6e984983eb8ad.jsonl.gz",
+    "asset_sha256": "2ec6e984983eb8ad540166f3d130a29321e84df96ec9cae6b5a8e1f061d5573b",
+    "published_at": "2026-10-29T02:23:34Z"
+  }
 }

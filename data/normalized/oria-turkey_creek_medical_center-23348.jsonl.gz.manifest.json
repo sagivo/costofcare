@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-turkey_creek_medical_center-23348__d9df394359e19d30.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-turkey_creek_medical_center-23348__d9df394359e19d30.jsonl.gz",
+    "asset_sha256": "d9df394359e19d30c03e5542d433e505e335710c6f70e4f3d674e16d7dd5d9c2",
+    "published_at": "2026-10-29T02:24:34Z"
+  }
 }

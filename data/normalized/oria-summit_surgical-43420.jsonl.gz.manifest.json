@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2c",
+    "asset_name": "oria-summit_surgical-43420__2ca4dcd60a99f260.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2c/oria-summit_surgical-43420__2ca4dcd60a99f260.jsonl.gz",
+    "asset_sha256": "2ca4dcd60a99f2608551dc44b694934b3e2984c19aa92a51c5b384f1773d667a",
+    "published_at": "2026-10-29T02:22:26Z"
+  }
 }

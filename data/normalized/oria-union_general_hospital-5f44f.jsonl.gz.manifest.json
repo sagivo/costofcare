@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 921",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "oria-union_general_hospital-5f44f__7569099121c123aa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/oria-union_general_hospital-5f44f__7569099121c123aa.jsonl.gz",
+    "asset_sha256": "7569099121c123aaef65f469e3e52d2fd71cb2281c11bc89841299b3cdb722ca",
+    "published_at": "2026-10-29T02:25:39Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f2",
+    "asset_name": "oria-st_marys_health_care_system-ffdd8__f29b4a89a9ca93f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f2/oria-st_marys_health_care_system-ffdd8__f29b4a89a9ca93f2.jsonl.gz",
+    "asset_sha256": "f29b4a89a9ca93f27006ed2eff79254716758cc9163a4ae3802815635f1f04c2",
+    "published_at": "2026-10-29T02:21:01Z"
+  }
 }

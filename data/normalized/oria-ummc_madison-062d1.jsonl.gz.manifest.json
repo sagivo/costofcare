@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fa",
+    "asset_name": "oria-ummc_madison-062d1__fa8db2fcdd97ad89.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/oria-ummc_madison-062d1__fa8db2fcdd97ad89.jsonl.gz",
+    "asset_sha256": "fa8db2fcdd97ad896ff0e7811c08421ac6a496a366fba23fe2a189237cb144cf",
+    "published_at": "2026-10-29T02:25:31Z"
+  }
 }

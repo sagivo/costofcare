@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "oria-stephens_memorial_hospital-43b44__2622ce60f2647dc2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-stephens_memorial_hospital-43b44__2622ce60f2647dc2.jsonl.gz",
+    "asset_sha256": "2622ce60f2647dc28f5b381c4fa7c13f4f90796e56c78bb9ed1d556f7a2b5d66",
+    "published_at": "2026-10-29T02:21:47Z"
+  }
 }

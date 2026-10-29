@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2388",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cb",
+    "asset_name": "oria-um_laurel_medical_center-d2361__cbf00b8ede0c480c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cb/oria-um_laurel_medical_center-d2361__cbf00b8ede0c480c.jsonl.gz",
+    "asset_sha256": "cbf00b8ede0c480cab208adebbee18588429acf21f8d4e64e57210e0c3a83981",
+    "published_at": "2026-10-29T02:24:53Z"
+  }
 }

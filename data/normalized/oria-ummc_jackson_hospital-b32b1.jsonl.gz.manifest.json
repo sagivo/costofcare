@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-99",
+    "asset_name": "oria-ummc_jackson_hospital-b32b1__99a5a0833f2c896e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/oria-ummc_jackson_hospital-b32b1__99a5a0833f2c896e.jsonl.gz",
+    "asset_sha256": "99a5a0833f2c896e64466d483a86794ce9a62828ec6c67dc3bb5ab10d7c2d2cf",
+    "published_at": "2026-10-29T02:25:29Z"
+  }
 }

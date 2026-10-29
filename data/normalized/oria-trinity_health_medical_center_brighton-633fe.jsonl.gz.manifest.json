@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "oria-trinity_health_medical_center_brighton-633fe__b6b69010d32715b8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/oria-trinity_health_medical_center_brighton-633fe__b6b69010d32715b8.jsonl.gz",
+    "asset_sha256": "b6b69010d32715b886547bf89308a941b906823672196541947d8631595e2cda",
+    "published_at": "2026-10-29T02:24:15Z"
+  }
 }

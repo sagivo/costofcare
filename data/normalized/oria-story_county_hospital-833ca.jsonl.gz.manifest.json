@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-13",
+    "asset_name": "oria-story_county_hospital-833ca__13b9d9ec875bad1b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/oria-story_county_hospital-833ca__13b9d9ec875bad1b.jsonl.gz",
+    "asset_sha256": "13b9d9ec875bad1b4a7ee0fd08b62f10ffdbbc66a2f9107bdb1cd2a39a5a1e34",
+    "published_at": "2026-10-29T02:22:06Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9e",
+    "asset_name": "oria-throckmorton_county_memorial_hospital-af688__9ed125dd4b0f787b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9e/oria-throckmorton_county_memorial_hospital-af688__9ed125dd4b0f787b.jsonl.gz",
+    "asset_sha256": "9ed125dd4b0f787bc17f2705b61303217c879aa84a4599ed4d96670b29efc0e1",
+    "published_at": "2026-10-29T02:23:47Z"
+  }
 }

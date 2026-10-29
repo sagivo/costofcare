@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5e",
+    "asset_name": "oria-st_mary_rehabilitation_hospital-19172__5e87cc0da314665c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5e/oria-st_mary_rehabilitation_hospital-19172__5e87cc0da314665c.jsonl.gz",
+    "asset_sha256": "5e87cc0da314665c203e459b8370c86ea4460d5ed2e44cb226fef8b5f99900d7",
+    "published_at": "2026-10-29T02:20:47Z"
+  }
 }

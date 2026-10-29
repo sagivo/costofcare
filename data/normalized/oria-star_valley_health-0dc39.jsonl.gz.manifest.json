@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "oria-star_valley_health-0dc39__61437f7c572573f6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-star_valley_health-0dc39__61437f7c572573f6.jsonl.gz",
+    "asset_sha256": "61437f7c572573f67c35d0163ca34ec91984b09e0d1a66a4995cc5b1e627e8a6",
+    "published_at": "2026-10-29T02:21:25Z"
+  }
 }

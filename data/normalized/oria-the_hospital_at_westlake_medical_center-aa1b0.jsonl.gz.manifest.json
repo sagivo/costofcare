@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7240",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dc",
+    "asset_name": "oria-the_hospital_at_westlake_medical_center-aa1b0__dc0ced6337789670.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-the_hospital_at_westlake_medical_center-aa1b0__dc0ced6337789670.jsonl.gz",
+    "asset_sha256": "dc0ced6337789670fb33fcee6ecce679664cbbf20f272ce5c52870fc893fb02e",
+    "published_at": "2026-10-29T02:23:18Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-18",
+    "asset_name": "oria-umass_memorial_health_harrington_at_webster-ee4f4__183f0ca7b2f5c90e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-18/oria-umass_memorial_health_harrington_at_webster-ee4f4__183f0ca7b2f5c90e.jsonl.gz",
+    "asset_sha256": "183f0ca7b2f5c90e2ec0bf96efa8b4e3853fe7494e40af7c1d17a88df7fd3632",
+    "published_at": "2026-10-29T02:25:22Z"
+  }
 }

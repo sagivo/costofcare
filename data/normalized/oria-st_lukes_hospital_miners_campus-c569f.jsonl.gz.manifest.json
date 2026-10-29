@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a6",
+    "asset_name": "oria-st_lukes_hospital_miners_campus-c569f__a61c1daf746cef18.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-st_lukes_hospital_miners_campus-c569f__a61c1daf746cef18.jsonl.gz",
+    "asset_sha256": "a61c1daf746cef18e631c51f1cbbefcca722152c335a363a3457f5fe9c431a2a",
+    "published_at": "2026-10-29T02:20:28Z"
+  }
 }

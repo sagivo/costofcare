@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-56",
+    "asset_name": "oria-starr_county_memorial_hospital-d1ac5__56a5a258018dca94.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-56/oria-starr_county_memorial_hospital-d1ac5__56a5a258018dca94.jsonl.gz",
+    "asset_sha256": "56a5a258018dca94266d03c38b45061ca6b51de89dbb2ccf634b010aa72377e7",
+    "published_at": "2026-10-29T02:21:27Z"
+  }
 }

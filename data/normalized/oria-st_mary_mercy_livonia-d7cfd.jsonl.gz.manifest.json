@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e6",
+    "asset_name": "oria-st_mary_mercy_livonia-d7cfd__e6020e8134c27299.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/oria-st_mary_mercy_livonia-d7cfd__e6020e8134c27299.jsonl.gz",
+    "asset_sha256": "e6020e8134c2729965915ba398b8c628fc6f017185fdfc0d8d2e1ad04bfed7b8",
+    "published_at": "2026-10-29T02:20:44Z"
+  }
 }

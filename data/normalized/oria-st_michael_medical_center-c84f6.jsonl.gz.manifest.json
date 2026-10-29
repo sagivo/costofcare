@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d1",
+    "asset_name": "oria-st_michael_medical_center-c84f6__d1dcbd6153562130.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/oria-st_michael_medical_center-c84f6__d1dcbd6153562130.jsonl.gz",
+    "asset_sha256": "d1dcbd61535621300717c99fef86e0c2576a60162ce500ab855f1abb835d27ce",
+    "published_at": "2026-10-29T02:21:07Z"
+  }
 }

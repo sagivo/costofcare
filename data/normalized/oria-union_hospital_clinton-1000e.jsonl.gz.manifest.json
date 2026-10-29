@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9c",
+    "asset_name": "oria-union_hospital_clinton-1000e__9c9f6ee506cfadbc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9c/oria-union_hospital_clinton-1000e__9c9f6ee506cfadbc.jsonl.gz",
+    "asset_sha256": "9c9f6ee506cfadbcf7b07484af4dc24fc2e4071d13a87074748c1634f8c65625",
+    "published_at": "2026-10-29T02:25:44Z"
+  }
 }

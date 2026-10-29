@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-57",
+    "asset_name": "oria-trinitas_regional_medical_center-a4b72__575b87b3e08e2630.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-57/oria-trinitas_regional_medical_center-a4b72__575b87b3e08e2630.jsonl.gz",
+    "asset_sha256": "575b87b3e08e2630c0fd8a73c0504fa8a7ebfed7a6259e93ef990e0b3532af7d",
+    "published_at": "2026-10-29T02:24:09Z"
+  }
 }
