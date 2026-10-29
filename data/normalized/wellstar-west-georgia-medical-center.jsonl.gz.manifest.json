@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "wellstar-west-georgia-medical-center__9abb7cf52b8de6fc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/wellstar-west-georgia-medical-center__9abb7cf52b8de6fc.jsonl.gz",
+    "asset_sha256": "9abb7cf52b8de6fc661b2692dfc62fc40587aaf6c5cb45084815893d3ee5c09a",
+    "published_at": "2026-10-29T20:02:08Z"
+  }
 }

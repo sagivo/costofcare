@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3b",
+    "asset_name": "wellstar-north-fulton-hospital__3b95d3a79e56fdac.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/wellstar-north-fulton-hospital__3b95d3a79e56fdac.jsonl.gz",
+    "asset_sha256": "3b95d3a79e56fdac92d7197712fc786bfdb2b9910910455ee6f1ca7d5d739340",
+    "published_at": "2026-10-29T20:01:55Z"
+  }
 }

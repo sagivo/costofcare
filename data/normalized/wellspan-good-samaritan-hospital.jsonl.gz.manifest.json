@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-83",
+    "asset_name": "wellspan-good-samaritan-hospital__83f66bb3904007d9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/wellspan-good-samaritan-hospital__83f66bb3904007d9.jsonl.gz",
+    "asset_sha256": "83f66bb3904007d91656829c32b3fdee20fbd462de7987b029628d4ca99c20b3",
+    "published_at": "2026-10-29T20:01:33Z"
+  }
 }

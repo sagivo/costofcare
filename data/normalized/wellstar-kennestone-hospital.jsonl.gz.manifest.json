@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "wellstar-kennestone-hospital__90c135bb08d4c117.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/wellstar-kennestone-hospital__90c135bb08d4c117.jsonl.gz",
+    "asset_sha256": "90c135bb08d4c117d1620316cdd97bb723b82d2f64fea7cebb3e197f7d3cdb95",
+    "published_at": "2026-10-29T20:01:51Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "wellspan-carlisle-hospital__cff383e8e2a24d64.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/wellspan-carlisle-hospital__cff383e8e2a24d64.jsonl.gz",
+    "asset_sha256": "cff383e8e2a24d64274121f2ce5115c4ccd3a3dd82551e345218d02de2a57d72",
+    "published_at": "2026-10-29T20:01:20Z"
+  }
 }

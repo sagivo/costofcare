@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "vcu-medical-center__0fc430c909395c4f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/vcu-medical-center__0fc430c909395c4f.jsonl.gz",
+    "asset_sha256": "0fc430c909395c4f3465ce54e32a446fa36b206d4b378d7eea7a50d82c9b0d94",
+    "published_at": "2026-10-29T20:01:14Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-80",
+    "asset_name": "wellstar-sylvan-grove-hospital__80e9a6cb2a4d8ff5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-80/wellstar-sylvan-grove-hospital__80e9a6cb2a4d8ff5.jsonl.gz",
+    "asset_sha256": "80e9a6cb2a4d8ff58f7ec85815916272a98f0c7effec260bdf957f21fd454f7c",
+    "published_at": "2026-10-29T20:02:05Z"
+  }
 }

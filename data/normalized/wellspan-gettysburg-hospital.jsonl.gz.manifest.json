@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-26",
+    "asset_name": "wellspan-gettysburg-hospital__26b415c9147e1c91.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/wellspan-gettysburg-hospital__26b415c9147e1c91.jsonl.gz",
+    "asset_sha256": "26b415c9147e1c91a8959e7b11d9644b9e91850c358b9cf8eda96da80af6491a",
+    "published_at": "2026-10-29T20:01:30Z"
+  }
 }

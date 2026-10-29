@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-16",
+    "asset_name": "wellspan-philhaven__165e0b613380d0a0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/wellspan-philhaven__165e0b613380d0a0.jsonl.gz",
+    "asset_sha256": "165e0b613380d0a043cf985729f0f47dd992d265ce4fb77f913c20a58140becc",
+    "published_at": "2026-10-29T20:01:35Z"
+  }
 }

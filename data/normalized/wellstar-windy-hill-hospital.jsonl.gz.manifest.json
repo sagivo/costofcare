@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ca",
+    "asset_name": "wellstar-windy-hill-hospital__ca15600361702bad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/wellstar-windy-hill-hospital__ca15600361702bad.jsonl.gz",
+    "asset_sha256": "ca15600361702bade1ddc3c6ea0a9e08da031cd3d482d6f95e2c89dcaca3ccfb",
+    "published_at": "2026-10-29T20:02:11Z"
+  }
 }

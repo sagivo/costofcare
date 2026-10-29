@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-57",
+    "asset_name": "wellspan-york-hospital__57b7d69b9341bdee.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-57/wellspan-york-hospital__57b7d69b9341bdee.jsonl.gz",
+    "asset_sha256": "57b7d69b9341bdeec47b9443c3689167072f25a2166374166ae2be4a21a5a3d1",
+    "published_at": "2026-10-29T20:01:43Z"
+  }
 }
