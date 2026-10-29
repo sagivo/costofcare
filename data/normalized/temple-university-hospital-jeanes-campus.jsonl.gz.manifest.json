@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a0",
+    "asset_name": "temple-university-hospital-jeanes-campus__a099a34dff2a7310.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/temple-university-hospital-jeanes-campus__a099a34dff2a7310.jsonl.gz",
+    "asset_sha256": "a099a34dff2a73108b8769919b4b407d1ba331a34e46b43a398c814b6802bf03",
+    "published_at": "2026-10-29T17:27:22Z"
+  }
 }

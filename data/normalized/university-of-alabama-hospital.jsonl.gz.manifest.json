@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6f",
+    "asset_name": "university-of-alabama-hospital__6f6b405ef094b332.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6f/university-of-alabama-hospital__6f6b405ef094b332.jsonl.gz",
+    "asset_sha256": "6f6b405ef094b332b97704624644adecb473525a7b5e04ff6f548b3e82059472",
+    "published_at": "2026-10-29T17:29:22Z"
+  }
 }

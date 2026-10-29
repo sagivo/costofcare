@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3a",
+    "asset_name": "uchicago-crown-point__3a0868643998d77d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/uchicago-crown-point__3a0868643998d77d.jsonl.gz",
+    "asset_sha256": "3a0868643998d77dc07ca163481dda738538a91aa480b6ae40f6e3e33c39357c",
+    "published_at": "2026-10-29T17:28:28Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4b",
+    "asset_name": "temple-health-chestnut-hill-hospital__4b01c37f64e55446.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4b/temple-health-chestnut-hill-hospital__4b01c37f64e55446.jsonl.gz",
+    "asset_sha256": "4b01c37f64e5544632ceb719c74897e9a706d1c9ac418af5ad735dccb1731627",
+    "published_at": "2026-10-29T17:27:14Z"
+  }
 }

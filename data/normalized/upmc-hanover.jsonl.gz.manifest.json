@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bd",
+    "asset_name": "upmc-hanover__bdcedd450304e6cc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/upmc-hanover__bdcedd450304e6cc.jsonl.gz",
+    "asset_sha256": "bdcedd450304e6cc8c78884d6415e18025d541f76fb36d9d463f0594b5445c47",
+    "published_at": "2026-10-29T17:29:58Z"
+  }
 }

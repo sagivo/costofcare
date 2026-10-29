@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "upmc-hamot__f3324a47ab23d209.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/upmc-hamot__f3324a47ab23d209.jsonl.gz",
+    "asset_sha256": "f3324a47ab23d2098e019d14d198c1b7c3df746c2b2d1fbc6f84c6ceeefb5cd6",
+    "published_at": "2026-10-29T17:29:55Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-eb",
+    "asset_name": "usc-norris-cancer-hospital__ebb3b040f163b2c3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-eb/usc-norris-cancer-hospital__ebb3b040f163b2c3.jsonl.gz",
+    "asset_sha256": "ebb3b040f163b2c3f457ebe11fc71217d2206b1d1631d5edc8bf6c9748354a89",
+    "published_at": "2026-10-29T17:31:02Z"
+  }
 }

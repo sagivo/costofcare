@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a7",
+    "asset_name": "swedish-edmonds-hospital__a772fd4b4152b206.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/swedish-edmonds-hospital__a772fd4b4152b206.jsonl.gz",
+    "asset_sha256": "a772fd4b4152b206e67af174a1d67d7c560e33a0da3c985397e7a3b4ba3f3eb0",
+    "published_at": "2026-10-29T17:26:52Z"
+  }
 }

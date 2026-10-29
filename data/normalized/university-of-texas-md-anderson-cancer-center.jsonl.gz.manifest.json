@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2526",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "university-of-texas-md-anderson-cancer-center__5fc09cd61382af45.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/university-of-texas-md-anderson-cancer-center__5fc09cd61382af45.jsonl.gz",
+    "asset_sha256": "5fc09cd61382af450ea4f8ce4e060a57271b852627e0423d322c6282bdc4ee2a",
+    "published_at": "2026-10-29T17:29:28Z"
+  }
 }

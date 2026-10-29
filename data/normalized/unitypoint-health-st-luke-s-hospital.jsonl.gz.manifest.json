@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-53",
+    "asset_name": "unitypoint-health-st-luke-s-hospital__53858decb7382110.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/unitypoint-health-st-luke-s-hospital__53858decb7382110.jsonl.gz",
+    "asset_sha256": "53858decb73821103a49370dccc348d7e388a68d50bc58bbe3972e4407619619",
+    "published_at": "2026-10-29T17:29:05Z"
+  }
 }

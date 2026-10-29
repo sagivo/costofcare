@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5086",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-93",
+    "asset_name": "st-bernard-parish-hospital__930bf409610cd1e9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-93/st-bernard-parish-hospital__930bf409610cd1e9.jsonl.gz",
+    "asset_sha256": "930bf409610cd1e93a43d487f5f91859df86185523a2c00cb6745750fd6a51ce",
+    "published_at": "2026-10-29T17:25:09Z"
+  }
 }

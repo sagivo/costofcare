@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-73",
+    "asset_name": "unitypoint-health-grinnell-regional-medical-center__73c8bed282d36470.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-73/unitypoint-health-grinnell-regional-medical-center__73c8bed282d36470.jsonl.gz",
+    "asset_sha256": "73c8bed282d364707c8cfd42505f2807b6c48bf20acfe28dbee15d95f434a53b",
+    "published_at": "2026-10-29T17:28:48Z"
+  }
 }

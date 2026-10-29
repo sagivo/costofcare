@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b1",
+    "asset_name": "st-vincent-s-chilton__b1fc9f1b06aeb281.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/st-vincent-s-chilton__b1fc9f1b06aeb281.jsonl.gz",
+    "asset_sha256": "b1fc9f1b06aeb28197566c88d1d9cec0f146ecbb6d99333cb97b6d00c92ff415",
+    "published_at": "2026-10-29T17:26:01Z"
+  }
 }

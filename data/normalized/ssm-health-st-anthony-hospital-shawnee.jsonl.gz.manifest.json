@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-27",
+    "asset_name": "ssm-health-st-anthony-hospital-shawnee__2728f9496ce534c0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-27/ssm-health-st-anthony-hospital-shawnee__2728f9496ce534c0.jsonl.gz",
+    "asset_sha256": "2728f9496ce534c0fa8eee5bb28706e097df34b95e66cd9a75c96d6f30b50326",
+    "published_at": "2026-10-29T17:24:38Z"
+  }
 }

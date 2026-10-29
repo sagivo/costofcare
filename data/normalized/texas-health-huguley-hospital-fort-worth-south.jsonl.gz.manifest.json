@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "texas-health-huguley-hospital-fort-worth-south__fd3957197e48e604.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/texas-health-huguley-hospital-fort-worth-south__fd3957197e48e604.jsonl.gz",
+    "asset_sha256": "fd3957197e48e60407bad69eb0d7bdc732bef36868d33b3350d63cc02f44dbb8",
+    "published_at": "2026-10-29T17:27:35Z"
+  }
 }

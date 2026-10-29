@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-66",
+    "asset_name": "upmc-trinity-twin-city__66a048cfb11d3c04.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/upmc-trinity-twin-city__66a048cfb11d3c04.jsonl.gz",
+    "asset_sha256": "66a048cfb11d3c0408b33b58bfc3672f1aa9f32a4a5eeff83a9ec4ab4b4ed317",
+    "published_at": "2026-10-29T17:30:42Z"
+  }
 }

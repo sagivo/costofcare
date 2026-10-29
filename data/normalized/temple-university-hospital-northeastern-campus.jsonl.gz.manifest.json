@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "temple-university-hospital-northeastern-campus__75f427391d1ddde6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/temple-university-hospital-northeastern-campus__75f427391d1ddde6.jsonl.gz",
+    "asset_sha256": "75f427391d1ddde6a6f0d7dd0594fa5f43c4d542d65ac15caeabd84646d811b6",
+    "published_at": "2026-10-29T17:27:27Z"
+  }
 }

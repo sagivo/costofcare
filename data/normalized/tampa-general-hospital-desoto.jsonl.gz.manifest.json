@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f0",
+    "asset_name": "tampa-general-hospital-desoto__f0e266b5305147f5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/tampa-general-hospital-desoto__f0e266b5305147f5.jsonl.gz",
+    "asset_sha256": "f0e266b5305147f51f7c3b76b876657bff8da78471c5043651553f7824f95aca",
+    "published_at": "2026-10-29T17:27:08Z"
+  }
 }

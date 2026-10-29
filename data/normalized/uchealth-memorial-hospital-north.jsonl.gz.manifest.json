@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d0",
+    "asset_name": "uchealth-memorial-hospital-north__d02981c9130c91e3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/uchealth-memorial-hospital-north__d02981c9130c91e3.jsonl.gz",
+    "asset_sha256": "d02981c9130c91e30d4cabfda676ce3c33a7bdd2dded5e3e44d93ba32e7f1d15",
+    "published_at": "2026-10-29T17:28:08Z"
+  }
 }

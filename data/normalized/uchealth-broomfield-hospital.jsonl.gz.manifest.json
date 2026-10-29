@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-48",
+    "asset_name": "uchealth-broomfield-hospital__48f44928ff7b28e4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-48/uchealth-broomfield-hospital__48f44928ff7b28e4.jsonl.gz",
+    "asset_sha256": "48f44928ff7b28e4b6effecc8e304375d586f8d422b2ec2fb558835a8d0565a0",
+    "published_at": "2026-10-29T17:27:46Z"
+  }
 }

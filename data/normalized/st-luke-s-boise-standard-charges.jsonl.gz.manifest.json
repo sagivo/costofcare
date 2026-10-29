@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-99",
+    "asset_name": "st-luke-s-boise-standard-charges__991ba1d314591b1f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/st-luke-s-boise-standard-charges__991ba1d314591b1f.jsonl.gz",
+    "asset_sha256": "991ba1d314591b1f20cf71cfb43e583db30295e2f53ae932369653a1348f95b9",
+    "published_at": "2026-10-29T17:25:30Z"
+  }
 }

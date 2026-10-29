@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-53",
+    "asset_name": "st-luke-s-wood-river-standard-charges__53e1d2dfeb9fac78.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/st-luke-s-wood-river-standard-charges__53e1d2dfeb9fac78.jsonl.gz",
+    "asset_sha256": "53e1d2dfeb9fac78fe45987b85e8ed00ca84bdefdc880eb5cdb9f40de55e1036",
+    "published_at": "2026-10-29T17:25:42Z"
+  }
 }

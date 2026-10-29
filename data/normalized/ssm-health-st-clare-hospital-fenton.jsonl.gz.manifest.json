@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6c",
+    "asset_name": "ssm-health-st-clare-hospital-fenton__6c5605a97227b720.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6c/ssm-health-st-clare-hospital-fenton__6c5605a97227b720.jsonl.gz",
+    "asset_sha256": "6c5605a97227b7200c2d82e46f090d39315dce9544110be6674cb0c660230fc1",
+    "published_at": "2026-10-29T17:24:43Z"
+  }
 }

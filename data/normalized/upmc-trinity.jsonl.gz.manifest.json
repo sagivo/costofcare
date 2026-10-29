@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bc",
+    "asset_name": "upmc-trinity__bc530b99e25dac59.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/upmc-trinity__bc530b99e25dac59.jsonl.gz",
+    "asset_sha256": "bc530b99e25dac590ccb544e5606a917eb86ada47ca905cae450892958c4ea8d",
+    "published_at": "2026-10-29T17:30:44Z"
+  }
 }

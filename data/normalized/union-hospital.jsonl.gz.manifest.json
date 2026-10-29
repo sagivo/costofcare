@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3c",
+    "asset_name": "union-hospital__3c7d39e7a384988b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/union-hospital__3c7d39e7a384988b.jsonl.gz",
+    "asset_sha256": "3c7d39e7a384988b926afd5db3b5c48293cf252bf034fad9f14088e375042d85",
+    "published_at": "2026-10-29T17:28:39Z"
+  }
 }

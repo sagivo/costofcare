@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "upmc-wellsboro__90fde3a7cb1f6767.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/upmc-wellsboro__90fde3a7cb1f6767.jsonl.gz",
+    "asset_sha256": "90fde3a7cb1f6767127ed405283e4af058aec8f691dd2953cbafe25f1b2e1dbf",
+    "published_at": "2026-10-29T17:30:48Z"
+  }
 }

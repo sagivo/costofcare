@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d4",
+    "asset_name": "st-vincent-s-st-clair__d45e769c93224eab.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/st-vincent-s-st-clair__d45e769c93224eab.jsonl.gz",
+    "asset_sha256": "d45e769c93224eabfa0eddd715e4a368b626a892cfae4874aa1d84461339e75c",
+    "published_at": "2026-10-29T17:26:07Z"
+  }
 }

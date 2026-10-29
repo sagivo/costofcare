@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e0",
+    "asset_name": "sutter-center-for-psychiatry__e0bf2b6880277ca4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/sutter-center-for-psychiatry__e0bf2b6880277ca4.jsonl.gz",
+    "asset_sha256": "e0bf2b6880277ca438d66dc41d9134afb930a5b53186d915abf958e25c0f52f3",
+    "published_at": "2026-10-29T17:26:20Z"
+  }
 }

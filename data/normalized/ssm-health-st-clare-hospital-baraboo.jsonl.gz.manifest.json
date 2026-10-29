@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "ssm-health-st-clare-hospital-baraboo__a27951ac3c104b8d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/ssm-health-st-clare-hospital-baraboo__a27951ac3c104b8d.jsonl.gz",
+    "asset_sha256": "a27951ac3c104b8db781706355a34755256128e08e7951db7b6ece81ab43b48f",
+    "published_at": "2026-10-29T17:24:41Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3e",
+    "asset_name": "sutter-tracy-community-hospital__3eb2b966eec3bb21.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3e/sutter-tracy-community-hospital__3eb2b966eec3bb21.jsonl.gz",
+    "asset_sha256": "3eb2b966eec3bb21908669bb091c1d1b4e4df3c06c381eebd47588c6b3e0c354",
+    "published_at": "2026-10-29T17:26:50Z"
+  }
 }

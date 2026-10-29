@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-01",
+    "asset_name": "upmc-altoona__01565cedfb0a96ef.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-01/upmc-altoona__01565cedfb0a96ef.jsonl.gz",
+    "asset_sha256": "01565cedfb0a96ef46bde09704263e32ab6333eff6c8d2805d9feecaf21d8e58",
+    "published_at": "2026-10-29T17:29:30Z"
+  }
 }

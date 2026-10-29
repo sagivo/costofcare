@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ee",
+    "asset_name": "uchealth-medical-center-of-the-rockies__ee6f24d59e56f65a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/uchealth-medical-center-of-the-rockies__ee6f24d59e56f65a.jsonl.gz",
+    "asset_sha256": "ee6f24d59e56f65a60580dc532ee5c7ebd3fd49814823e49bd60c0eb4f2d9bad",
+    "published_at": "2026-10-29T17:28:02Z"
+  }
 }

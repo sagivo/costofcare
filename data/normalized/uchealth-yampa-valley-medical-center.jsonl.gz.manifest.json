@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "uchealth-yampa-valley-medical-center__ec8ac89f8b6dc95e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/uchealth-yampa-valley-medical-center__ec8ac89f8b6dc95e.jsonl.gz",
+    "asset_sha256": "ec8ac89f8b6dc95efb75646a1a773db2ae3e679e374851a4644ebf89d21ab3c8",
+    "published_at": "2026-10-29T17:28:25Z"
+  }
 }

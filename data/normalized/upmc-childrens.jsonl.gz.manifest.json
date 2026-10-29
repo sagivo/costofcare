@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a9",
+    "asset_name": "upmc-childrens__a93851102b26843a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/upmc-childrens__a93851102b26843a.jsonl.gz",
+    "asset_sha256": "a93851102b26843aa8dffd0ee0d08755edd1e344acb7273f2bc1c58a57d93b74",
+    "published_at": "2026-10-29T17:29:42Z"
+  }
 }

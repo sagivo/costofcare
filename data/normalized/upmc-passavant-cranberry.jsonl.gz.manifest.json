@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8e",
+    "asset_name": "upmc-passavant-cranberry__8e1738321e7523a5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8e/upmc-passavant-cranberry__8e1738321e7523a5.jsonl.gz",
+    "asset_sha256": "8e1738321e7523a504deee7c4d324908755fd0e503affb7c7c8935bad556ae5b",
+    "published_at": "2026-10-29T17:30:34Z"
+  }
 }

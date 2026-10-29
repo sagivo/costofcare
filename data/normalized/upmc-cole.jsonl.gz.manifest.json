@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-66",
+    "asset_name": "upmc-cole__668b6558f00fc74f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/upmc-cole__668b6558f00fc74f.jsonl.gz",
+    "asset_sha256": "668b6558f00fc74fbc218a413289d5be17957219ad7e8aa57938244529b60edf",
+    "published_at": "2026-10-29T17:29:44Z"
+  }
 }

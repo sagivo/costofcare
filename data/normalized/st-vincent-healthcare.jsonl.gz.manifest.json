@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-03",
+    "asset_name": "st-vincent-healthcare__03e5f2d1ff00031c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/st-vincent-healthcare__03e5f2d1ff00031c.jsonl.gz",
+    "asset_sha256": "03e5f2d1ff00031c3e541ba20a3e8b5c437b09e17b081fd88e728b9a7957232e",
+    "published_at": "2026-10-29T17:25:53Z"
+  }
 }

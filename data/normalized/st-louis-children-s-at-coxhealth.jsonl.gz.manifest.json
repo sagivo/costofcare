@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2e",
+    "asset_name": "st-louis-children-s-at-coxhealth__2ecf5ac1df27ac1b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/st-louis-children-s-at-coxhealth__2ecf5ac1df27ac1b.jsonl.gz",
+    "asset_sha256": "2ecf5ac1df27ac1b559eb14a11a2dc7814f6ec3be9ca68bfe70165ada087b158",
+    "published_at": "2026-10-29T17:25:25Z"
+  }
 }

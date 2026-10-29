@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-dd",
+    "asset_name": "swedish-medical-center-cherry-hill__dd43abff43b871f7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/swedish-medical-center-cherry-hill__dd43abff43b871f7.jsonl.gz",
+    "asset_sha256": "dd43abff43b871f72da41b95e596857fea405e21aad58d001286af96d49e3833",
+    "published_at": "2026-10-29T17:27:00Z"
+  }
 }

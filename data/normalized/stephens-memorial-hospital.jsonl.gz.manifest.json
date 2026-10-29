@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "stephens-memorial-hospital__ff83c0056c2429f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/stephens-memorial-hospital__ff83c0056c2429f2.jsonl.gz",
+    "asset_sha256": "ff83c0056c2429f2564ab83504d8b4e9ee2ed03ef6fbacf36ec738c1167d0dab",
+    "published_at": "2026-10-29T17:26:12Z"
+  }
 }

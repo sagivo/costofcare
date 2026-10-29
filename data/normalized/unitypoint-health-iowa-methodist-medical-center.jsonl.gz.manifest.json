@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-75",
+    "asset_name": "unitypoint-health-iowa-methodist-medical-center__752b73d193ac5ef8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/unitypoint-health-iowa-methodist-medical-center__752b73d193ac5ef8.jsonl.gz",
+    "asset_sha256": "752b73d193ac5ef809f42aa9968f937ffcd2f675fe51fc8066d4d8c2bfdcea9d",
+    "published_at": "2026-10-29T17:28:53Z"
+  }
 }

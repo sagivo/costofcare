@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "uchealth-estes-valley-medical-center__d9abbeedffcea50a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/uchealth-estes-valley-medical-center__d9abbeedffcea50a.jsonl.gz",
+    "asset_sha256": "d9abbeedffcea50ad4fc6a939cc7aa010d9dd7f8d78e0e2989aaa92f25ffd1e6",
+    "published_at": "2026-10-29T17:27:49Z"
+  }
 }

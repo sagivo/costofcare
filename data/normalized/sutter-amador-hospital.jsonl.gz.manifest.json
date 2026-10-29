@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "sutter-amador-hospital__ecf83bf3072fd783.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/sutter-amador-hospital__ecf83bf3072fd783.jsonl.gz",
+    "asset_sha256": "ecf83bf3072fd7839be4f5131ebab50cdb82b92cafd37115ecc72b3b218485dd",
+    "published_at": "2026-10-29T17:26:15Z"
+  }
 }

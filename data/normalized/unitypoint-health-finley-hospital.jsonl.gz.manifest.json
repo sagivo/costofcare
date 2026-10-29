@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-89",
+    "asset_name": "unitypoint-health-finley-hospital__89ab223c85b41fcd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/unitypoint-health-finley-hospital__89ab223c85b41fcd.jsonl.gz",
+    "asset_sha256": "89ab223c85b41fcdbfe4166f70cace7ac958b738d83e4eb9081a8a1f64693503",
+    "published_at": "2026-10-29T17:28:45Z"
+  }
 }

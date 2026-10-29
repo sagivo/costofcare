@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "sutter-davis-hospital__5f768baa00c2c4a2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/sutter-davis-hospital__5f768baa00c2c4a2.jsonl.gz",
+    "asset_sha256": "5f768baa00c2c4a2b943f9fbf6c26a3920f85ae34c8399807f81934db45d5bda",
+    "published_at": "2026-10-29T17:26:25Z"
+  }
 }

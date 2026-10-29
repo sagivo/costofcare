@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fa",
+    "asset_name": "upmc-western-psychiatric__fabd4ee769d8729c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/upmc-western-psychiatric__fabd4ee769d8729c.jsonl.gz",
+    "asset_sha256": "fabd4ee769d8729c94a6be4f896d78f01f4d8d4aad15a07a038b50cd62d4f475",
+    "published_at": "2026-10-29T17:30:53Z"
+  }
 }

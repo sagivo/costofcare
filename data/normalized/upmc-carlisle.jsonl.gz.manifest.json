@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a8",
+    "asset_name": "upmc-carlisle__a86e110abb6c9c66.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/upmc-carlisle__a86e110abb6c9c66.jsonl.gz",
+    "asset_sha256": "a86e110abb6c9c66f73a54e11c9b659a65093e0b402a5ee64e3140444454c2b4",
+    "published_at": "2026-10-29T17:29:36Z"
+  }
 }

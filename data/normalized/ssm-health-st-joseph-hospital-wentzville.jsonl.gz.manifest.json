@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-22",
+    "asset_name": "ssm-health-st-joseph-hospital-wentzville__22b52fabe946d2ff.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/ssm-health-st-joseph-hospital-wentzville__22b52fabe946d2ff.jsonl.gz",
+    "asset_sha256": "22b52fabe946d2ff426acc4c7f8e75395860a7a492271461e100753e773d7d81",
+    "published_at": "2026-10-29T17:24:51Z"
+  }
 }

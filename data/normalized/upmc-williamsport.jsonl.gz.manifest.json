@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-60",
+    "asset_name": "upmc-williamsport__608162899ccda1b8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-60/upmc-williamsport__608162899ccda1b8.jsonl.gz",
+    "asset_sha256": "608162899ccda1b8a05124276d3a09e91153039a8e56e4c57e64b0ba61434dc9",
+    "published_at": "2026-10-29T17:30:56Z"
+  }
 }

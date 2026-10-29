@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c2",
+    "asset_name": "sutter-delta-medical-center__c27fd76829d36bad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/sutter-delta-medical-center__c27fd76829d36bad.jsonl.gz",
+    "asset_sha256": "c27fd76829d36badc11bf2e00f94bbbb3614f7387fe62cb2c9093d032cfeb027",
+    "published_at": "2026-10-29T17:26:28Z"
+  }
 }

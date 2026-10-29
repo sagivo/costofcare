@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7f",
+    "asset_name": "uchealth-poudre-valley-hospital__7fbac659b882e152.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7f/uchealth-poudre-valley-hospital__7fbac659b882e152.jsonl.gz",
+    "asset_sha256": "7fbac659b882e1522cd13b324937e07a634a4d00d75620447d3d853e5d702edb",
+    "published_at": "2026-10-29T17:28:19Z"
+  }
 }

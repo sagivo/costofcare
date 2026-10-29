@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-89",
+    "asset_name": "sutter-solano-medical-center__89768b9d7905e928.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/sutter-solano-medical-center__89768b9d7905e928.jsonl.gz",
+    "asset_sha256": "89768b9d7905e928216981d6d7eb73135665c0e1743b305d74413ca81ca5df46",
+    "published_at": "2026-10-29T17:26:47Z"
+  }
 }

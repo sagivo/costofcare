@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ec",
+    "asset_name": "st-mary-medical-center__ec91118cfa095b01.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/st-mary-medical-center__ec91118cfa095b01.jsonl.gz",
+    "asset_sha256": "ec91118cfa095b01cbf3ce841931838a6cacdac5556e7369f20c9585d3dfe35d",
+    "published_at": "2026-10-29T17:25:44Z"
+  }
 }

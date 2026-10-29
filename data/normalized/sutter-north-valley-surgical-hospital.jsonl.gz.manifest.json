@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cb",
+    "asset_name": "sutter-north-valley-surgical-hospital__cb6e84e13a8222fa.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cb/sutter-north-valley-surgical-hospital__cb6e84e13a8222fa.jsonl.gz",
+    "asset_sha256": "cb6e84e13a8222fa944b2654b4e65c081f59d77589289b920dc8da5e37584c6c",
+    "published_at": "2026-10-29T17:26:39Z"
+  }
 }

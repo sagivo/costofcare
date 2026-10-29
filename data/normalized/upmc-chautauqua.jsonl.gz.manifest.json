@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1d",
+    "asset_name": "upmc-chautauqua__1dce4c63b2e68282.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/upmc-chautauqua__1dce4c63b2e68282.jsonl.gz",
+    "asset_sha256": "1dce4c63b2e68282e38c3bf4d2a02aa921ac6b49760888131f695cad076eb9d7",
+    "published_at": "2026-10-29T17:29:39Z"
+  }
 }

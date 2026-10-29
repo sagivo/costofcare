@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-99",
+    "asset_name": "upmc-mckeesport__9920d4ef24ef0087.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/upmc-mckeesport__9920d4ef24ef0087.jsonl.gz",
+    "asset_sha256": "9920d4ef24ef008798cd30ad98c3210eb89e1a8b303fc1cbd9a09d9aa777e365",
+    "published_at": "2026-10-29T17:30:17Z"
+  }
 }

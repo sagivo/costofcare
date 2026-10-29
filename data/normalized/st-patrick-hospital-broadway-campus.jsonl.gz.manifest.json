@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c9",
+    "asset_name": "st-patrick-hospital-broadway-campus__c9d50fcc763e246b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c9/st-patrick-hospital-broadway-campus__c9d50fcc763e246b.jsonl.gz",
+    "asset_sha256": "c9d50fcc763e246bc65c0a159a07aff47386efba0e60e6ed6553b74109f481ca",
+    "published_at": "2026-10-29T17:25:50Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4b",
+    "asset_name": "ssm-health-st-mary-s-hospital-madison__4be1d4ac8a399b4d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4b/ssm-health-st-mary-s-hospital-madison__4be1d4ac8a399b4d.jsonl.gz",
+    "asset_sha256": "4be1d4ac8a399b4d5c7f3ade9acd872807bbc9ac677b3993e5b19e9909e22549",
+    "published_at": "2026-10-29T17:25:01Z"
+  }
 }

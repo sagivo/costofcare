@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-22",
+    "asset_name": "st-luke-s-nampa-standard-charges__22599ca709584d8b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/st-luke-s-nampa-standard-charges__22599ca709584d8b.jsonl.gz",
+    "asset_sha256": "22599ca709584d8bf4cef7079387cf5a2fceaccdc86f5d21426bd591f9d92b1e",
+    "published_at": "2026-10-29T17:25:39Z"
+  }
 }

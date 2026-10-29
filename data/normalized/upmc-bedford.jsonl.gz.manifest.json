@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "upmc-bedford__85ec5192f624fe22.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/upmc-bedford__85ec5192f624fe22.jsonl.gz",
+    "asset_sha256": "85ec5192f624fe2296a8d335e4d0011286dc0b9783a48080387feda9f84f71ed",
+    "published_at": "2026-10-29T17:29:33Z"
+  }
 }

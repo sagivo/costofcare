@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-04",
+    "asset_name": "ssm-health-st-mary-s-hospital-jefferson-city__041b22ef48e9b067.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-04/ssm-health-st-mary-s-hospital-jefferson-city__041b22ef48e9b067.jsonl.gz",
+    "asset_sha256": "041b22ef48e9b0675cfe9f7fbfd4cf4d8997fb68b8e1f22172d24a0fb20f57a1",
+    "published_at": "2026-10-29T17:24:59Z"
+  }
 }

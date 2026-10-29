@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-30",
+    "asset_name": "tri-city-medical-center__30c0c4418cd94b79.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/tri-city-medical-center__30c0c4418cd94b79.jsonl.gz",
+    "asset_sha256": "30c0c4418cd94b7911a3f70f96e2c570332063a1e8f2eb98f4f46d76235e8267",
+    "published_at": "2026-10-29T17:27:43Z"
+  }
 }

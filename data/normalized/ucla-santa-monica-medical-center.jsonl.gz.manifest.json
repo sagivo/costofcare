@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b6",
+    "asset_name": "ucla-santa-monica-medical-center__b69d73ecdab0efb9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b6/ucla-santa-monica-medical-center__b69d73ecdab0efb9.jsonl.gz",
+    "asset_sha256": "b69d73ecdab0efb9eaee48172d054da08154c290f3f2427e3b209551b7f09752",
+    "published_at": "2026-10-29T17:28:33Z"
+  }
 }

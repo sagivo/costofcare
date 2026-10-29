@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "unitypoint-health-trinity-bettendorf__cfa0112bb9fd3056.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/unitypoint-health-trinity-bettendorf__cfa0112bb9fd3056.jsonl.gz",
+    "asset_sha256": "cfa0112bb9fd3056dd3c4465642d406b2b23318e68f8be253732da926eaeae70",
+    "published_at": "2026-10-29T17:29:10Z"
+  }
 }

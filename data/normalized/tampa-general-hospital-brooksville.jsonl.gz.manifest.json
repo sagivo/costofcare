@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-28",
+    "asset_name": "tampa-general-hospital-brooksville__28fcb59df6c5b579.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-28/tampa-general-hospital-brooksville__28fcb59df6c5b579.jsonl.gz",
+    "asset_sha256": "28fcb59df6c5b5795c213f6cb7e1741e5132d2edfcfd62a6ed34aefd739c2602",
+    "published_at": "2026-10-29T17:27:02Z"
+  }
 }

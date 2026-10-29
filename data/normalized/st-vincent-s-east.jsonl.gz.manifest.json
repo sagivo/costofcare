@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "st-vincent-s-east__d958ba68a382755a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/st-vincent-s-east__d958ba68a382755a.jsonl.gz",
+    "asset_sha256": "d958ba68a382755a675c04eb07a68561257116bf699f7e389a4d7aaa51938689",
+    "published_at": "2026-10-29T17:26:04Z"
+  }
 }

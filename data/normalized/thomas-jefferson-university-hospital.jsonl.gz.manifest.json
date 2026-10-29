@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-87",
+    "asset_name": "thomas-jefferson-university-hospital__874fe76c47d51215.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/thomas-jefferson-university-hospital__874fe76c47d51215.jsonl.gz",
+    "asset_sha256": "874fe76c47d512154c62c2ca8375f26f61a2e79b234ce6a1009ba8ecb388973e",
+    "published_at": "2026-10-29T17:27:38Z"
+  }
 }

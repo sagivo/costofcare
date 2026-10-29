@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "temple-university-hospital-fox-chase__61fbc8d68a18f84d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/temple-university-hospital-fox-chase__61fbc8d68a18f84d.jsonl.gz",
+    "asset_sha256": "61fbc8d68a18f84d73a0c08eb4b68339513b84709ac14af8d81e3b017bf2faae",
+    "published_at": "2026-10-29T17:27:19Z"
+  }
 }

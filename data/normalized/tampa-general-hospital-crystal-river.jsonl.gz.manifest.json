@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-64",
+    "asset_name": "tampa-general-hospital-crystal-river__64f754782211c3d4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/tampa-general-hospital-crystal-river__64f754782211c3d4.jsonl.gz",
+    "asset_sha256": "64f754782211c3d4d40a7e4e3a0bfc56f57d435974d5f09a8663cb701e437cb3",
+    "published_at": "2026-10-29T17:27:05Z"
+  }
 }

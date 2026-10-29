@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-59",
+    "asset_name": "st-luke-s-mccall-standard-charges__59818afd48175dee.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-59/st-luke-s-mccall-standard-charges__59818afd48175dee.jsonl.gz",
+    "asset_sha256": "59818afd48175dee0f16a2706f27c733f8362721f6ff0cf585e9f3e946ee77a1",
+    "published_at": "2026-10-29T17:25:36Z"
+  }
 }
