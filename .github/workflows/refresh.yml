@@ -44,7 +44,7 @@ jobs:
           python scripts/quality_report.py
           git config user.name 'CostOfCare data refresh'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data public/data src/data/summary.json
+          git add -- data ':(exclude)data/normalized/*.jsonl.gz' ':(exclude)data/tic/*.jsonl.gz' public/data src/data/summary.json
           git diff --cached --quiet && exit 0
           git commit -m 'data: daily primary-source refresh'
           for i in 1 2 3; do

@@ -10,7 +10,12 @@ def main():
  def flag(kind,r,field,value):
   counts[kind]+=1
   if sum(x['flag']==kind for x in examples)<20:examples.append({'flag':kind,'source_id':r['source_id'],'source_record_ordinal':r['source_record_ordinal'],'source_sha256':r['source_sha256'],'field':field,'raw_value':value})
- for p in glob.glob(ROOT+'/data/normalized/*.jsonl.gz'):
+ blob_paths=glob.glob(ROOT+'/data/normalized/*.jsonl.gz');remote_only=0
+ for mp in glob.glob(ROOT+'/data/normalized/*.manifest.json'):
+  blob=mp[:-len('.manifest.json')]
+  if not blob.endswith('.jsonl.gz'):blob+='.jsonl.gz'
+  if not os.path.exists(blob):remote_only+=1
+ for p in blob_paths:
   with gzip.open(p,'rt') as f:
    for line in f:
     r=json.loads(line);records+=1
@@ -44,6 +49,6 @@ def main():
         elif value==0:flag('zero_published_amount_review',r,'standard_charge_dollar',value)
         elif value>1_000_000:flag('large_published_amount_review',r,'standard_charge_dollar',value)
      coverage['json_source_records']+=1
- report={'generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'records_scanned':records,'flag_counts':dict(counts),'review_examples':examples,'populated_qualifier_counts':dict(coverage),'interpretation':'Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged.'}
+ report={'generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'records_scanned':records,'flag_counts':dict(counts),'review_examples':examples,'populated_qualifier_counts':dict(coverage),'coverage_note':{'local_blob_files':len(blob_paths),'remote_only_files':remote_only,'note':'Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally.'},'interpretation':'Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged.'}
  json.dump(report,open(ROOT+'/data/quality/semantic-review.json','w'),indent=2);print(records,'records scanned',dict(counts))
 if __name__=='__main__':main()

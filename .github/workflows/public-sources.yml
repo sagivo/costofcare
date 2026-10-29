@@ -38,7 +38,7 @@ jobs:
           cd publication
           git config user.name 'CostOfCare public sources'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/catalogs data/reference data/normalized data/quality
+          git add -- data/catalogs data/reference data/normalized ':(exclude)data/normalized/*.jsonl.gz' data/quality
           git diff --cached --quiet && exit 0
           git commit -m 'data: refresh public source catalogs and benchmarks'
           for i in 1 2 3; do

@@ -153,12 +153,14 @@ def main() -> int:
     }
     hard_error = False
     file_hashes: dict[Path, str] = {}
+    error_files: list[dict[str, str]] = []
 
     for path in files:
         stem = path.name[: -len(".jsonl.gz")]
         manifest_path = find_manifest(data_dir, path)
         if manifest_path is None:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": "no sibling manifest found"})
             print(f"ERROR {path.name}: no sibling manifest found")
             continue
 
@@ -166,10 +168,12 @@ def main() -> int:
             manifest = read_manifest(manifest_path)
         except ValueError as exc:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": f"{exc}"})
             print(f"ERROR {path.name}: {exc}")
             continue
         if manifest is None:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": "no sibling manifest found"})
             print(f"ERROR {path.name}: no sibling manifest found")
             continue
 
@@ -177,6 +181,7 @@ def main() -> int:
             digest = sha256_file(path)
         except OSError as exc:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": f"cannot read file: {exc}"})
             print(f"ERROR {path.name}: cannot read file: {exc}")
             continue
         file_hashes[path] = digest
@@ -202,6 +207,7 @@ def main() -> int:
         err = ensure_release(tag, args.repo)
         if err:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": f"{err}"})
             print(f"ERROR {path.name}: {err}")
             continue
 
@@ -214,6 +220,7 @@ def main() -> int:
                     shutil.copyfile(path, staged)
             except OSError as exc:
                 counts["errors"] += 1
+                error_files.append({"file": path.name, "error": f"cannot stage upload file: {exc}"})
                 print(f"ERROR {path.name}: cannot stage upload file: {exc}")
                 continue
             upload = run_gh([
@@ -226,6 +233,7 @@ def main() -> int:
             counts["idempotent_skips"] += 1
         else:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": f"upload failed: {output_of(upload)}"})
             print(f"ERROR {path.name}: upload failed: {output_of(upload)}")
             continue
 
@@ -237,6 +245,7 @@ def main() -> int:
             downloaded = Path(tmpdir) / asset_name
             if download.returncode != 0 or not downloaded.is_file():
                 counts["errors"] += 1
+                error_files.append({"file": path.name, "error": f"verification download failed: {output_of(download)}"})
                 print(f"ERROR {path.name}: verification download failed: {output_of(download)}")
                 continue
             downloaded_sha = sha256_file(downloaded)
@@ -247,6 +256,8 @@ def main() -> int:
         if downloaded_sha != digest:
             counts["errors"] += 1
             hard_error = True
+            error_files.append({"file": path.name, "error": f"hash mismatch for {tag}/{asset_name}: "
+                  f"expected {digest}, downloaded {downloaded_sha}; manifest NOT updated"})
             print(f"FATAL {path.name}: hash mismatch for {tag}/{asset_name}: "
                   f"expected {digest}, downloaded {downloaded_sha}; manifest NOT updated")
             continue
@@ -255,6 +266,7 @@ def main() -> int:
         download_url = lookup_download_url(tag, args.repo, asset_name)
         if not download_url:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": f"verified, but no download_url found for {asset_name}; manifest NOT updated"})
             print(f"ERROR {path.name}: verified, but no download_url found for {asset_name}; "
                   "manifest NOT updated")
             continue
@@ -271,6 +283,7 @@ def main() -> int:
             write_json_atomic(manifest_path, updated)
         except OSError as exc:
             counts["errors"] += 1
+            error_files.append({"file": path.name, "error": f"cannot write manifest: {exc}"})
             print(f"ERROR {path.name}: cannot write manifest: {exc}")
             continue
         action = "uploaded" if uploaded else "already on release"
@@ -282,6 +295,7 @@ def main() -> int:
               "no changes made")
         return 0
 
+    missing_files: set[str] = set()
     for path, digest in file_hashes.items():
         manifest_path = find_manifest(data_dir, path)
         try:
@@ -289,7 +303,10 @@ def main() -> int:
         except ValueError:
             ok = False
         counts["manifests_with_verified_assets" if ok else "manifests_missing_verified_assets"] += 1
+        if not ok:
+            missing_files.add(path.name)
     counts["manifests_missing_verified_assets"] += counts["files_total"] - len(file_hashes)
+    missing_files.update(p.name for p in files if p not in file_hashes)
 
     report_path = data_dir.parent / "quality" / f"release-publish-{args.release_prefix}.json"
     write_json_atomic(report_path, {
@@ -297,6 +314,8 @@ def main() -> int:
         "data_dir": str(args.data_dir),
         "release_prefix": args.release_prefix,
         "counts": counts,
+        "missing_files": sorted(missing_files),
+        "error_files": error_files,
     })
     print(f"report: {report_path}")
     print(json.dumps(counts))
