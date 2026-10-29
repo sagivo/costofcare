@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ea",
+    "asset_name": "oria-west_anaheim_medical_center-f1e7e__ea32541510a07ec9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/oria-west_anaheim_medical_center-f1e7e__ea32541510a07ec9.jsonl.gz",
+    "asset_sha256": "ea32541510a07ec95159a24e2cd89be367dfa03591dc8fed9dbde823c7e5e134",
+    "published_at": "2026-10-29T07:59:28Z"
+  }
 }

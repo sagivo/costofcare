@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b2",
+    "asset_name": "oria-west_los_angeles_medical_center-db2ee__b2e02fae42507b38.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-west_los_angeles_medical_center-db2ee__b2e02fae42507b38.jsonl.gz",
+    "asset_sha256": "b2e02fae42507b384b87deade5c03e4bf6ca8402c2b6c5871fd81ab4c9a74582",
+    "published_at": "2026-10-29T07:59:43Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e6",
+    "asset_name": "penn-medicine-chester-county-hospital__e62964448b507dfd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/penn-medicine-chester-county-hospital__e62964448b507dfd.jsonl.gz",
+    "asset_sha256": "e62964448b507dfdccee6ead7d6508645043f0c1d8fef9efc31a9df21d2f2d0a",
+    "published_at": "2026-10-29T08:01:42Z"
+  }
 }

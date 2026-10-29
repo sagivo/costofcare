@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-87",
+    "asset_name": "oria-walnut_creek_medical_center-e12ec__870fb37fd3aeda00.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-walnut_creek_medical_center-e12ec__870fb37fd3aeda00.jsonl.gz",
+    "asset_sha256": "870fb37fd3aeda00f7b70961bb0efe6f8c927e091f5fe4769e994868474c5e14",
+    "published_at": "2026-10-29T07:58:59Z"
+  }
 }

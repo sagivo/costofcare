@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8b",
+    "asset_name": "oria-whiteriverhealth-e467a__8be4b76974cd6fe4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8b/oria-whiteriverhealth-e467a__8be4b76974cd6fe4.jsonl.gz",
+    "asset_sha256": "8be4b76974cd6fe4061edd9528a919de0d3240d4f12c0622495c0f5b1854809c",
+    "published_at": "2026-10-29T08:00:18Z"
+  }
 }

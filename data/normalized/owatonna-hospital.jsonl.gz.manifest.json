@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-78",
+    "asset_name": "owatonna-hospital__78294fb2da0af7d8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-78/owatonna-hospital__78294fb2da0af7d8.jsonl.gz",
+    "asset_sha256": "78294fb2da0af7d86f091a0e18da997d34a7ce41249212239fc3e54e0780803d",
+    "published_at": "2026-10-29T08:01:31Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 7300",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-0f",
+    "asset_name": "oria-westerly_hospital-98fe2__0f7b239629de8e27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-westerly_hospital-98fe2__0f7b239629de8e27.jsonl.gz",
+    "asset_sha256": "0f7b239629de8e27f54b1966a991cc699170d547f64ce1789d3ddef7e760037c",
+    "published_at": "2026-10-29T08:00:00Z"
+  }
 }

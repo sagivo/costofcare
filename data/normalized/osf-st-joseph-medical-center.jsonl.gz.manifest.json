@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "osf-st-joseph-medical-center__90b16dfc65d8ba90.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/osf-st-joseph-medical-center__90b16dfc65d8ba90.jsonl.gz",
+    "asset_sha256": "90b16dfc65d8ba90b1ca76ae42cd2cb80d696283301a7c026dedc4fded0e1dc4",
+    "published_at": "2026-10-29T08:01:27Z"
+  }
 }

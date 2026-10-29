@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 530",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ac",
+    "asset_name": "oria-university_hospital-8f19f__ac832fd43c09d53b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/oria-university_hospital-8f19f__ac832fd43c09d53b.jsonl.gz",
+    "asset_sha256": "ac832fd43c09d53b044f699e557d1fc1c7c121425ba73cd15da1fffff146616d",
+    "published_at": "2026-10-29T07:57:52Z"
+  }
 }

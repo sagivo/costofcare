@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cd",
+    "asset_name": "ssm-health-st-agnes-hospital-fond-du-lac__cd05ce8f16704a4e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/ssm-health-st-agnes-hospital-fond-du-lac__cd05ce8f16704a4e.jsonl.gz",
+    "asset_sha256": "cd05ce8f16704a4e2a65aa4ac618e5c937dfaf410e3a7b9972be2c98e2f9a869",
+    "published_at": "2026-10-29T08:05:10Z"
+  }
 }

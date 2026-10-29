@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d9",
+    "asset_name": "oria-west_calcasieu_cameron_hospital-6f485__d9b7da56e96509a4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-west_calcasieu_cameron_hospital-6f485__d9b7da56e96509a4.jsonl.gz",
+    "asset_sha256": "d9b7da56e96509a45a325053f8ec6312b9c51bad1125aed7589ba68dbc034127",
+    "published_at": "2026-10-29T07:59:30Z"
+  }
 }

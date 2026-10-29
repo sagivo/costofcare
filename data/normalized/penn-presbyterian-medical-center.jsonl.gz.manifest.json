@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-df",
+    "asset_name": "penn-presbyterian-medical-center__dff1d43cf72df45b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/penn-presbyterian-medical-center__dff1d43cf72df45b.jsonl.gz",
+    "asset_sha256": "dff1d43cf72df45b661318dd1e70f63b335cab8c127ca0cff795ff1ce77e1932",
+    "published_at": "2026-10-29T08:01:48Z"
+  }
 }

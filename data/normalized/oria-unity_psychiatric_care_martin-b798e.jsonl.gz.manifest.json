@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a9",
+    "asset_name": "oria-unity_psychiatric_care_martin-b798e__a9e1e2d0f5424a5c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/oria-unity_psychiatric_care_martin-b798e__a9e1e2d0f5424a5c.jsonl.gz",
+    "asset_sha256": "a9e1e2d0f5424a5c124f7822aba5980c402321a03e10aa1bf83075587e3e6fc6",
+    "published_at": "2026-10-29T07:57:46Z"
+  }
 }

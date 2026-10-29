@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-31",
+    "asset_name": "pennsylvania-hospital__3189e088ba27e580.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/pennsylvania-hospital__3189e088ba27e580.jsonl.gz",
+    "asset_sha256": "3189e088ba27e580a55c9e87fd6deb676a0afa90ad9164247912b2b2a796f480",
+    "published_at": "2026-10-29T08:01:50Z"
+  }
 }

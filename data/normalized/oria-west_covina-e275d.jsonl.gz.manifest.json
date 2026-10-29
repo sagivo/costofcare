@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a8",
+    "asset_name": "oria-west_covina-e275d__a868890e7513db8b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/oria-west_covina-e275d__a868890e7513db8b.jsonl.gz",
+    "asset_sha256": "a868890e7513db8b239915c7e9099a16c0493c4212ba9c91519f0eaf3ba82f2f",
+    "published_at": "2026-10-29T07:59:38Z"
+  }
 }

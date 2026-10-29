@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5696",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b5",
+    "asset_name": "oria-virtua_willingboro_hospital_psych-61527__b535c971df21d2ea.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/oria-virtua_willingboro_hospital_psych-61527__b535c971df21d2ea.jsonl.gz",
+    "asset_sha256": "b535c971df21d2ea25ac9141bd79341dee82c6579cb57624b35a1980ad3bb0f8",
+    "published_at": "2026-10-29T07:58:44Z"
+  }
 }

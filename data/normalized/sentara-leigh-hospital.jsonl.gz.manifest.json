@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7e",
+    "asset_name": "sentara-leigh-hospital__7ee8ba352a96eb75.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7e/sentara-leigh-hospital__7ee8ba352a96eb75.jsonl.gz",
+    "asset_sha256": "7ee8ba352a96eb7537d4561054b5a75cc16c767dfb930f88a6da90923719ea7a",
+    "published_at": "2026-10-29T08:04:36Z"
+  }
 }

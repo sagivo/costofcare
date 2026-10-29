@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ef",
+    "asset_name": "oria-westside_medical_center-2be15__effd759be790ff34.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-westside_medical_center-2be15__effd759be790ff34.jsonl.gz",
+    "asset_sha256": "effd759be790ff3480871cd97dcdb7c394fae28468cd99add2baf871ab578e96",
+    "published_at": "2026-10-29T08:00:12Z"
+  }
 }

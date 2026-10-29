@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-14",
+    "asset_name": "oria-university_health_lakewood_medical_center-9b10d__14353685dae5a6ce.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-14/oria-university_health_lakewood_medical_center-9b10d__14353685dae5a6ce.jsonl.gz",
+    "asset_sha256": "14353685dae5a6ce439add95ffd4695c7a2efd3dce48e23dfdea32a3217c49f3",
+    "published_at": "2026-10-29T07:57:49Z"
+  }
 }

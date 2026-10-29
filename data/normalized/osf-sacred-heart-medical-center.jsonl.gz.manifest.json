@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-c3",
+    "asset_name": "osf-sacred-heart-medical-center__c323afc397d8d333.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c3/osf-sacred-heart-medical-center__c323afc397d8d333.jsonl.gz",
+    "asset_sha256": "c323afc397d8d333320054c4c7071873995eb0898aab75b177d890d3aa23a0b0",
+    "published_at": "2026-10-29T08:01:12Z"
+  }
 }

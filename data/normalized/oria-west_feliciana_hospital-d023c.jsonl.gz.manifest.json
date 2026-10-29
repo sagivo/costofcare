@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b2",
+    "asset_name": "oria-west_feliciana_hospital-d023c__b2c2ab9e7269830a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-west_feliciana_hospital-d023c__b2c2ab9e7269830a.jsonl.gz",
+    "asset_sha256": "b2c2ab9e7269830a9b60c2f6c533ed0f46a360bc97094d7b908b73fa5511dda9",
+    "published_at": "2026-10-29T07:59:40Z"
+  }
 }

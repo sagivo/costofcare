@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-db",
+    "asset_name": "ronald-reagan-ucla-medical-center__dbd41b417b0aa0f0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/ronald-reagan-ucla-medical-center__dbd41b417b0aa0f0.jsonl.gz",
+    "asset_sha256": "dbd41b417b0aa0f04fcbc1f8c80d2f5a29e783e96b1e317a4212a907ef127509",
+    "published_at": "2026-10-29T08:03:24Z"
+  }
 }

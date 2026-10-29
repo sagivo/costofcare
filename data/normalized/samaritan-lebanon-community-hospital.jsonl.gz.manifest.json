@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "samaritan-lebanon-community-hospital__4795911b7c58e9ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/samaritan-lebanon-community-hospital__4795911b7c58e9ad.jsonl.gz",
+    "asset_sha256": "4795911b7c58e9ade45a722ecdb35d11a72f4a880816733246778da02c0106cc",
+    "published_at": "2026-10-29T08:03:33Z"
+  }
 }

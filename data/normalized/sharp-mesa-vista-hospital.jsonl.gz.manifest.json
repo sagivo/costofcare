@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 1,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e5",
+    "asset_name": "sharp-mesa-vista-hospital__e54b0b6674f8828a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/sharp-mesa-vista-hospital__e54b0b6674f8828a.jsonl.gz",
+    "asset_sha256": "e54b0b6674f8828ab5d98bb5af29f069232c5ff28b151db29604a810de6a6019",
+    "published_at": "2026-10-29T08:04:53Z"
+  }
 }

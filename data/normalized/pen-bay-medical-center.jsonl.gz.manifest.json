@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9f",
+    "asset_name": "pen-bay-medical-center__9f67027b203e5494.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/pen-bay-medical-center__9f67027b203e5494.jsonl.gz",
+    "asset_sha256": "9f67027b203e5494f9a2aa13bcf6f65fbbb00a436e7a40350b0b6f9612a8f02f",
+    "published_at": "2026-10-29T08:01:40Z"
+  }
 }

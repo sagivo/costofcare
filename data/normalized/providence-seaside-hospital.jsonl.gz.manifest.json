@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3b",
+    "asset_name": "providence-seaside-hospital__3b792c0b4f20c5b8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/providence-seaside-hospital__3b792c0b4f20c5b8.jsonl.gz",
+    "asset_sha256": "3b792c0b4f20c5b81f2a4a7a2f653d32bde8713a2afdbfeb370ebf88f24d1469",
+    "published_at": "2026-10-29T08:02:54Z"
+  }
 }

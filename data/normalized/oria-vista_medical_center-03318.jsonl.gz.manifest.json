@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a1",
+    "asset_name": "oria-vista_medical_center-03318__a1cf6c334defb41d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-vista_medical_center-03318__a1cf6c334defb41d.jsonl.gz",
+    "asset_sha256": "a1cf6c334defb41d55b4c6f6b2759115a924031231c8458877c6de7a91b54b17",
+    "published_at": "2026-10-29T07:58:46Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ea",
+    "asset_name": "oria-up_health_system_portage-8f18b__ea43f750d1cc91f9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/oria-up_health_system_portage-8f18b__ea43f750d1cc91f9.jsonl.gz",
+    "asset_sha256": "ea43f750d1cc91f97ab9fab24e711389c671effe45605b1dd57da9482dd62936",
+    "published_at": "2026-10-29T07:58:10Z"
+  }
 }

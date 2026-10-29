@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-85",
+    "asset_name": "sanford-worthington-medical-center__858722380b20d48b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/sanford-worthington-medical-center__858722380b20d48b.jsonl.gz",
+    "asset_sha256": "858722380b20d48bff4337fb23efd5484d93c644f6b95c4d7014b28eabb96cbd",
+    "published_at": "2026-10-29T08:04:14Z"
+  }
 }

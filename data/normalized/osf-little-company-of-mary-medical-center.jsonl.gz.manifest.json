@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-28",
+    "asset_name": "osf-little-company-of-mary-medical-center__28fff3732cab5592.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-28/osf-little-company-of-mary-medical-center__28fff3732cab5592.jsonl.gz",
+    "asset_sha256": "28fff3732cab55922cefcfecf34ba6c92b0848eca9f207bf0c6cacda258fe916",
+    "published_at": "2026-10-29T08:01:11Z"
+  }
 }

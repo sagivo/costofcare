@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cf",
+    "asset_name": "oria-white_river_medical_center-041ab__cfb83d708d067909.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-white_river_medical_center-041ab__cfb83d708d067909.jsonl.gz",
+    "asset_sha256": "cfb83d708d0679094facfbb8f79fad1f750190878a655a6d302d2174cefeaa7d",
+    "published_at": "2026-10-29T08:00:15Z"
+  }
 }

@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 534",
   "row_width_mismatch_records": 42065,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-28",
+    "asset_name": "oria-watsonville_community_hospital-7fd52__28134e9c59a9aeeb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-28/oria-watsonville_community_hospital-7fd52__28134e9c59a9aeeb.jsonl.gz",
+    "asset_sha256": "28134e9c59a9aeebb3d5b7fe612cd79b7fcec4a0d7435c234c1b0c315f89f07b",
+    "published_at": "2026-10-29T07:59:15Z"
+  }
 }

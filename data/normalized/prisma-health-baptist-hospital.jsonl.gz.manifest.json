@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8c",
+    "asset_name": "prisma-health-baptist-hospital__8c69577e590bf667.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/prisma-health-baptist-hospital__8c69577e590bf667.jsonl.gz",
+    "asset_sha256": "8c69577e590bf667100e09f0e8ceacef547d616b178a54bc7a4c21838a0a72d5",
+    "published_at": "2026-10-29T08:01:57Z"
+  }
 }

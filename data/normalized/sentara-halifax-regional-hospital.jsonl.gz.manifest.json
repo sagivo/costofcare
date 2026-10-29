@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-61",
+    "asset_name": "sentara-halifax-regional-hospital__614c461fffb37826.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/sentara-halifax-regional-hospital__614c461fffb37826.jsonl.gz",
+    "asset_sha256": "614c461fffb378260441c46a5afe3868e47efe5b7250f9281644b52742268b32",
+    "published_at": "2026-10-29T08:04:31Z"
+  }
 }

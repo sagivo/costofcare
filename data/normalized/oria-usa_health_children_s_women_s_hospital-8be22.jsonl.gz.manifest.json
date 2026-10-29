@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fd",
+    "asset_name": "oria-usa_health_children_s_women_s_hospital-8be22__fd52efecf06fda45.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-usa_health_children_s_women_s_hospital-8be22__fd52efecf06fda45.jsonl.gz",
+    "asset_sha256": "fd52efecf06fda45c5e0b33703138cd0a9fbf3759b61e56bb69a7789f9db4712",
+    "published_at": "2026-10-29T07:58:13Z"
+  }
 }

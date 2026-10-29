@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2e",
+    "asset_name": "sentara-lake-ridge__2e3368beb7ec19ff.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/sentara-lake-ridge__2e3368beb7ec19ff.jsonl.gz",
+    "asset_sha256": "2e3368beb7ec19ff687322446881c46a3e973799199d150622940e79d8b2b4b3",
+    "published_at": "2026-10-29T08:04:35Z"
+  }
 }

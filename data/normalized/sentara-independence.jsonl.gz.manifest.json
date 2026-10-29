@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-44",
+    "asset_name": "sentara-independence__44c23a8369438350.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-44/sentara-independence__44c23a8369438350.jsonl.gz",
+    "asset_sha256": "44c23a836943835082d2bddafee8f6c1d1ad931759de3d18f0ee1016fcab7421",
+    "published_at": "2026-10-29T08:04:33Z"
+  }
 }

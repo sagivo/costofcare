@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-66",
+    "asset_name": "oria-west_carroll_memorial_hospital-f783e__66715f4530a4fe27.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/oria-west_carroll_memorial_hospital-f783e__66715f4530a4fe27.jsonl.gz",
+    "asset_sha256": "66715f4530a4fe27c9e2cd92aa1d79affeda4922344be47da9175eb5d0ea83a8",
+    "published_at": "2026-10-29T07:59:32Z"
+  }
 }

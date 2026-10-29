@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-52",
+    "asset_name": "oria-woodland_hills_medical_center-22829__5275a1e1177c2f3b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/oria-woodland_hills_medical_center-22829__5275a1e1177c2f3b.jsonl.gz",
+    "asset_sha256": "5275a1e1177c2f3b6910ae87a5a9f2e1dbd17b46d2dbda39eb8c64d7d98e1db1",
+    "published_at": "2026-10-29T08:00:55Z"
+  }
 }

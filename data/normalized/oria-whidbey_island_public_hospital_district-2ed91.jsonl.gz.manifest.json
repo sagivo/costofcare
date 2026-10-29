@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e6",
+    "asset_name": "oria-whidbey_island_public_hospital_district-2ed91__e66988782f2bd5ed.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/oria-whidbey_island_public_hospital_district-2ed91__e66988782f2bd5ed.jsonl.gz",
+    "asset_sha256": "e66988782f2bd5ed61c6dd3bb65a62fd66dddd4470a51178f5a611b7ae595c7e",
+    "published_at": "2026-10-29T08:00:14Z"
+  }
 }

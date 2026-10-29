@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ff",
+    "asset_name": "oria-warm_springs_rehabilitation_hospital_of_kyle-a5ed6__ffd24f16653b05b9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/oria-warm_springs_rehabilitation_hospital_of_kyle-a5ed6__ffd24f16653b05b9.jsonl.gz",
+    "asset_sha256": "ffd24f16653b05b9316ecc33163d396766494f12735c5b558bc5e09cfbd5af08",
+    "published_at": "2026-10-29T07:59:05Z"
+  }
 }

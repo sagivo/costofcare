@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b0",
+    "asset_name": "oria-unity_medical_center-a41b8__b087acd91784fbda.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/oria-unity_medical_center-a41b8__b087acd91784fbda.jsonl.gz",
+    "asset_sha256": "b087acd91784fbda53b9ff4a3ca0b9d24c06fa762a3eea2eefd070af56625ffc",
+    "published_at": "2026-10-29T07:57:37Z"
+  }
 }

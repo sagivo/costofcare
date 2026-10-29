@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b8",
+    "asset_name": "samaritan-pacific-communities-hospital__b83c0f02c92b3efc.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b8/samaritan-pacific-communities-hospital__b83c0f02c92b3efc.jsonl.gz",
+    "asset_sha256": "b83c0f02c92b3efc58562cb8fa629c2a0b21e3c7ddf4ae4e67025b3e6681837d",
+    "published_at": "2026-10-29T08:03:37Z"
+  }
 }

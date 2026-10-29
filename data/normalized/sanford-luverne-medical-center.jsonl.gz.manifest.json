@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9c",
+    "asset_name": "sanford-luverne-medical-center__9ce2f50151fb4841.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9c/sanford-luverne-medical-center__9ce2f50151fb4841.jsonl.gz",
+    "asset_sha256": "9ce2f50151fb48411b9be9e1d473503f2402dfeed8f2bf2aa49d61c8a215805c",
+    "published_at": "2026-10-29T08:03:56Z"
+  }
 }

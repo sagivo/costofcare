@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b1",
+    "asset_name": "oria-wilson_medical_center-776da__b1cd242fac6e9513.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/oria-wilson_medical_center-776da__b1cd242fac6e9513.jsonl.gz",
+    "asset_sha256": "b1cd242fac6e9513c27b2e893d7403d35fda2f4778f955c4f5b6fb6934e803aa",
+    "published_at": "2026-10-29T08:00:39Z"
+  }
 }

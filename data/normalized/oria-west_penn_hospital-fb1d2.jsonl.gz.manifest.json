@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 1737",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bd",
+    "asset_name": "oria-west_penn_hospital-fb1d2__bd371ff0b293b073.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/oria-west_penn_hospital-fb1d2__bd371ff0b293b073.jsonl.gz",
+    "asset_sha256": "bd371ff0b293b073d0b6e6cd3da7a190b78fa9f69007ed6bd5d3056b4a20bf90",
+    "published_at": "2026-10-29T07:59:44Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bb",
+    "asset_name": "oria-west_chase_houston_hospital-904e5__bbf122cc6e012d9c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bb/oria-west_chase_houston_hospital-904e5__bbf122cc6e012d9c.jsonl.gz",
+    "asset_sha256": "bbf122cc6e012d9cfbea3fa4d4c7cbd27ae3e982d60f16b530ebff5f28cfc659",
+    "published_at": "2026-10-29T07:59:34Z"
+  }
 }

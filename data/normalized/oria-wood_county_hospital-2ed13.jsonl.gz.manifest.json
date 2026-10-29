@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5d",
+    "asset_name": "oria-wood_county_hospital-2ed13__5d0224a67ea7b2f5.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5d/oria-wood_county_hospital-2ed13__5d0224a67ea7b2f5.jsonl.gz",
+    "asset_sha256": "5d0224a67ea7b2f51a6a292047ad55713888b2fc6b8e17d526e61ca3275095fd",
+    "published_at": "2026-10-29T08:00:51Z"
+  }
 }

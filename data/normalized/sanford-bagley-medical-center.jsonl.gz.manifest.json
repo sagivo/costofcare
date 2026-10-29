@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "sanford-bagley-medical-center__811ca6493e6bf734.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/sanford-bagley-medical-center__811ca6493e6bf734.jsonl.gz",
+    "asset_sha256": "811ca6493e6bf734de2306acb45340fc5e4e44d985aa4feaa53947df80749bab",
+    "published_at": "2026-10-29T08:03:40Z"
+  }
 }

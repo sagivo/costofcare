@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-77",
+    "asset_name": "providence-portland-medical-center__7734df5730765948.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/providence-portland-medical-center__7734df5730765948.jsonl.gz",
+    "asset_sha256": "7734df5730765948dfe9c175f078f175a2ee898a438f6449e8104d2d9c05b28a",
+    "published_at": "2026-10-29T08:02:46Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "oria-up_health_system_marquette-8a894__5871974d9246121d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-up_health_system_marquette-8a894__5871974d9246121d.jsonl.gz",
+    "asset_sha256": "5871974d9246121de77e5594e73eb121ab91b99957a9d57d77d8a7fc58c208e5",
+    "published_at": "2026-10-29T07:58:08Z"
+  }
 }

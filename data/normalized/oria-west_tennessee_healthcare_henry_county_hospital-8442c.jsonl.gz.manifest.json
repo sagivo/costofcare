@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4a",
+    "asset_name": "oria-west_tennessee_healthcare_henry_county_hospital-8442c__4a661e696060fcda.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/oria-west_tennessee_healthcare_henry_county_hospital-8442c__4a661e696060fcda.jsonl.gz",
+    "asset_sha256": "4a661e696060fcda9bf5d5162346304e24d97d835557cfd31caa91d2583591b7",
+    "published_at": "2026-10-29T07:59:53Z"
+  }
 }

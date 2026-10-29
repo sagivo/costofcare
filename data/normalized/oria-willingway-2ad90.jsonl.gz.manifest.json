@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f4",
+    "asset_name": "oria-willingway-2ad90__f40264c6e2e8708a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f4/oria-willingway-2ad90__f40264c6e2e8708a.jsonl.gz",
+    "asset_sha256": "f40264c6e2e8708afeb775efaeb3e0e31cd9ea3dacc730f4a711047118ef5d23",
+    "published_at": "2026-10-29T08:00:33Z"
+  }
 }

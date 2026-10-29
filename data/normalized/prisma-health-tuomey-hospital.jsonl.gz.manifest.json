@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-3c",
+    "asset_name": "prisma-health-tuomey-hospital__3cc3743277f9cd67.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/prisma-health-tuomey-hospital__3cc3743277f9cd67.jsonl.gz",
+    "asset_sha256": "3cc3743277f9cd67c72f1f8bcebcd7e87b7009f0cde10d1cacda7e3c45f2cdc4",
+    "published_at": "2026-10-29T08:02:17Z"
+  }
 }

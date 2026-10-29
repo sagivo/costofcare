@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 1,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-93",
+    "asset_name": "sharp-grossmont-hospital__9321b74460768a05.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-93/sharp-grossmont-hospital__9321b74460768a05.jsonl.gz",
+    "asset_sha256": "9321b74460768a05f91aca4df02adcbc0a9762abcb890e8844bde236a8552be2",
+    "published_at": "2026-10-29T08:04:50Z"
+  }
 }

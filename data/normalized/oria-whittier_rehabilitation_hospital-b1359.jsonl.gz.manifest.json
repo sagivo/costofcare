@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid continuation byte at byte 3680",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a6",
+    "asset_name": "oria-whittier_rehabilitation_hospital-b1359__a63d1172bf75d587.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-whittier_rehabilitation_hospital-b1359__a63d1172bf75d587.jsonl.gz",
+    "asset_sha256": "a63d1172bf75d58791c74d17450f95ce5d4ba425e65e53bc35e08756a2f90b12",
+    "published_at": "2026-10-29T08:00:23Z"
+  }
 }

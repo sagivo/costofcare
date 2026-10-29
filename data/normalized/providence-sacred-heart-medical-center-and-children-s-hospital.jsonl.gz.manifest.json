@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d5",
+    "asset_name": "providence-sacred-heart-medical-center-and-children-s-hospital__d5c0ebfb50369f68.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/providence-sacred-heart-medical-center-and-children-s-hospital__d5c0ebfb50369f68.jsonl.gz",
+    "asset_sha256": "d5c0ebfb50369f68bf28b4ceae878f5aaee3c3af6a45777351e62ff44c009849",
+    "published_at": "2026-10-29T08:02:49Z"
+  }
 }

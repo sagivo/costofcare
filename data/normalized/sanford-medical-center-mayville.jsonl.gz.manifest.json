@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e9",
+    "asset_name": "sanford-medical-center-mayville__e95f048f2437f976.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e9/sanford-medical-center-mayville__e95f048f2437f976.jsonl.gz",
+    "asset_sha256": "e95f048f2437f976e6e5b4d0c33b94a2a37e4497d1f60958d2be0966c1a1707a",
+    "published_at": "2026-10-29T08:04:01Z"
+  }
 }

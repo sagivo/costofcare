@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-47",
+    "asset_name": "osf-st-francis-hospital__474aa702f41aefc4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/osf-st-francis-hospital__474aa702f41aefc4.jsonl.gz",
+    "asset_sha256": "474aa702f41aefc4eaa0c4ebeb5bc402cbab23518b13f526f306ccdd330698d0",
+    "published_at": "2026-10-29T08:01:25Z"
+  }
 }

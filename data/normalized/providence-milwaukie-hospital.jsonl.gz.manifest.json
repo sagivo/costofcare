@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a5",
+    "asset_name": "providence-milwaukie-hospital__a51e594b30b0ff76.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a5/providence-milwaukie-hospital__a51e594b30b0ff76.jsonl.gz",
+    "asset_sha256": "a51e594b30b0ff76e1f8770331565f4b5c82fd678ec77136367ef33ec3693878",
+    "published_at": "2026-10-29T08:02:38Z"
+  }
 }

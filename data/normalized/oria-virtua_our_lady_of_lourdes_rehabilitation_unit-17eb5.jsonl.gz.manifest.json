@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 7124",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-de",
+    "asset_name": "oria-virtua_our_lady_of_lourdes_rehabilitation_unit-17eb5__de16cfde4dbb160c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/oria-virtua_our_lady_of_lourdes_rehabilitation_unit-17eb5__de16cfde4dbb160c.jsonl.gz",
+    "asset_sha256": "de16cfde4dbb160cbf8586018ef04f950f54a67b4c1dc4cf0c498d4cd3a0dff5",
+    "published_at": "2026-10-29T07:58:41Z"
+  }
 }

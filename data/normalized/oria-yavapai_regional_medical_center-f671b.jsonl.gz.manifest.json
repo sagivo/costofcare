@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-7d",
+    "asset_name": "oria-yavapai_regional_medical_center-f671b__7d233f4e632e0efd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-yavapai_regional_medical_center-f671b__7d233f4e632e0efd.jsonl.gz",
+    "asset_sha256": "7d233f4e632e0efdc46c25a8e1cab95a13bd519446dddfc0da5529d33ca832c7",
+    "published_at": "2026-10-29T08:01:02Z"
+  }
 }

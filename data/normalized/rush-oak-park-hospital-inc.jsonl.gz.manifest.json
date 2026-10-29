@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-58",
+    "asset_name": "rush-oak-park-hospital-inc__58fde4ca8ee7b103.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/rush-oak-park-hospital-inc__58fde4ca8ee7b103.jsonl.gz",
+    "asset_sha256": "58fde4ca8ee7b103c4b138f159affa3abe34d49e1a2fc761e68d95c4827e9153",
+    "published_at": "2026-10-29T08:03:25Z"
+  }
 }

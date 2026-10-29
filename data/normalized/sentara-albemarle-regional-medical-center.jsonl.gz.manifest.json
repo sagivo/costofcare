@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5a",
+    "asset_name": "sentara-albemarle-regional-medical-center__5afc4cd436de5364.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/sentara-albemarle-regional-medical-center__5afc4cd436de5364.jsonl.gz",
+    "asset_sha256": "5afc4cd436de5364ce903a50b023268f89fb1028a1f44508e071a981e2e3753d",
+    "published_at": "2026-10-29T08:04:26Z"
+  }
 }

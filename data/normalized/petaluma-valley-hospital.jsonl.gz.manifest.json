@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bf",
+    "asset_name": "petaluma-valley-hospital__bf107c6382d203b3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bf/petaluma-valley-hospital__bf107c6382d203b3.jsonl.gz",
+    "asset_sha256": "bf107c6382d203b3a6bb4513f6f5d7803ec571e11c2f53dd9c026504337f3963",
+    "published_at": "2026-10-29T08:01:52Z"
+  }
 }

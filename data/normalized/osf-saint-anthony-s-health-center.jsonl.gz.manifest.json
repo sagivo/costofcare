@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e3",
+    "asset_name": "osf-saint-anthony-s-health-center__e3469ebb8181f426.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/osf-saint-anthony-s-health-center__e3469ebb8181f426.jsonl.gz",
+    "asset_sha256": "e3469ebb8181f426356aeb79867fb15b8c906f446a2f20596572f5db1271782d",
+    "published_at": "2026-10-29T08:01:15Z"
+  }
 }

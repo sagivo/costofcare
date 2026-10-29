@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9d",
+    "asset_name": "oria-ward_memorial_hospital-c21a0__9d43c5992170809b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/oria-ward_memorial_hospital-c21a0__9d43c5992170809b.jsonl.gz",
+    "asset_sha256": "9d43c5992170809b906f31c7a65e7af6c0db8f478129f59e6e948770b01f47c0",
+    "published_at": "2026-10-29T07:59:02Z"
+  }
 }

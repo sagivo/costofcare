@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2135",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2a",
+    "asset_name": "oria-virtua_marlton_hospital-bca0f__2a7eb51bc6737528.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2a/oria-virtua_marlton_hospital-bca0f__2a7eb51bc6737528.jsonl.gz",
+    "asset_sha256": "2a7eb51bc6737528d42e6d7a87bcccf48827781c8d410680db941e2c2f30aa1b",
+    "published_at": "2026-10-29T07:58:37Z"
+  }
 }

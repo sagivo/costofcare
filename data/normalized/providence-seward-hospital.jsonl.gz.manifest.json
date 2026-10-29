@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-de",
+    "asset_name": "providence-seward-hospital__def82c6d439a92fb.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/providence-seward-hospital__def82c6d439a92fb.jsonl.gz",
+    "asset_sha256": "def82c6d439a92fb453aa60e8d634042b188284fb4fe306ab9b242b5532ff862",
+    "published_at": "2026-10-29T08:02:56Z"
+  }
 }

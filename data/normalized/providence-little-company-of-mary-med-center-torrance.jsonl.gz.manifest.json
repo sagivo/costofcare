@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-64",
+    "asset_name": "providence-little-company-of-mary-med-center-torrance__64d05ec5f9425615.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/providence-little-company-of-mary-med-center-torrance__64d05ec5f9425615.jsonl.gz",
+    "asset_sha256": "64d05ec5f94256157c13a235c1bbe44076e7c8a5cd6beab0c33593c49e4ec153",
+    "published_at": "2026-10-29T08:02:35Z"
+  }
 }

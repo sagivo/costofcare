@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-81",
+    "asset_name": "spring-harbor-hospital__8195c206583b3e41.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/spring-harbor-hospital__8195c206583b3e41.jsonl.gz",
+    "asset_sha256": "8195c206583b3e411a48e3b57862e8e3ae14ab64e7971ef48b8c2154d9a4ef0c",
+    "published_at": "2026-10-29T08:04:57Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-63",
+    "asset_name": "oria-willamette_valley_medical_center-eebb2__63d0af1fc1daf7e1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-willamette_valley_medical_center-eebb2__63d0af1fc1daf7e1.jsonl.gz",
+    "asset_sha256": "63d0af1fc1daf7e1918f7d43929bc330af736fc77034f94dfa9215cc531c14ac",
+    "published_at": "2026-10-29T08:00:29Z"
+  }
 }

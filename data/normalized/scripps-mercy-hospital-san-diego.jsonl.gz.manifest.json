@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "scripps-mercy-hospital-san-diego__297a369c04330e0c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/scripps-mercy-hospital-san-diego__297a369c04330e0c.jsonl.gz",
+    "asset_sha256": "297a369c04330e0c5df5f4895ee1c413d37ec13f2e01696b615b9fe2f5393989",
+    "published_at": "2026-10-29T08:04:25Z"
+  }
 }

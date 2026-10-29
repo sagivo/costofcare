@@ -70,5 +70,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 1,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a5",
+    "asset_name": "sharp-chula-vista-medical-center__a5f91d9a981c9025.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a5/sharp-chula-vista-medical-center__a5f91d9a981c9025.jsonl.gz",
+    "asset_sha256": "a5f91d9a981c9025d7104f53736bf63558b1ae00f82cb7655461a310b326a09b",
+    "published_at": "2026-10-29T08:04:46Z"
+  }
 }

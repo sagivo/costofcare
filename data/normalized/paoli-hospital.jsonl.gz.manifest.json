@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-38",
+    "asset_name": "paoli-hospital__38905dc60644b588.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-38/paoli-hospital__38905dc60644b588.jsonl.gz",
+    "asset_sha256": "38905dc60644b588d76fca23edbf490b79d44e95d503795c2dbeb23ac5de22e7",
+    "published_at": "2026-10-29T08:01:32Z"
+  }
 }

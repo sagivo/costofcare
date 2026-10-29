@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-35",
+    "asset_name": "sentara-careplex-hospital__35ee3f228df5c8d0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-35/sentara-careplex-hospital__35ee3f228df5c8d0.jsonl.gz",
+    "asset_sha256": "35ee3f228df5c8d0a45f4ccc0fd5213ac381d8e81dd80a854c6c5434e1b8630c",
+    "published_at": "2026-10-29T08:04:29Z"
+  }
 }

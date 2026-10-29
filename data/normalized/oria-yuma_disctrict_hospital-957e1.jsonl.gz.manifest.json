@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4a",
+    "asset_name": "oria-yuma_disctrict_hospital-957e1__4a6727540baffd4c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/oria-yuma_disctrict_hospital-957e1__4a6727540baffd4c.jsonl.gz",
+    "asset_sha256": "4a6727540baffd4ca67b977aab405da181e133403c2e77235dfb26500bb06840",
+    "published_at": "2026-10-29T08:01:03Z"
+  }
 }

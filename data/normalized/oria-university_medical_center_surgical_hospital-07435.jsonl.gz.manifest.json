@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 5502",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9a",
+    "asset_name": "oria-university_medical_center_surgical_hospital-07435__9a80cd9f3f976450.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-university_medical_center_surgical_hospital-07435__9a80cd9f3f976450.jsonl.gz",
+    "asset_sha256": "9a80cd9f3f97645084538d3c6bbea51fb4db82a1ba718f51415a7a8a5ecd4016",
+    "published_at": "2026-10-29T07:57:57Z"
+  }
 }

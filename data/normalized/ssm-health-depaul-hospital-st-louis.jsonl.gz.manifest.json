@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d0",
+    "asset_name": "ssm-health-depaul-hospital-st-louis__d0bea323c260d5fd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/ssm-health-depaul-hospital-st-louis__d0bea323c260d5fd.jsonl.gz",
+    "asset_sha256": "d0bea323c260d5fd1f8ee31c8d4060e63cc972df6c7dde1ebda8e260b0d1aba5",
+    "published_at": "2026-10-29T08:05:02Z"
+  }
 }

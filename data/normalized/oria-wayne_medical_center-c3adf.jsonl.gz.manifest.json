@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-94",
+    "asset_name": "oria-wayne_medical_center-c3adf__94c7bc0e8e72147e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-94/oria-wayne_medical_center-c3adf__94c7bc0e8e72147e.jsonl.gz",
+    "asset_sha256": "94c7bc0e8e72147ed27f98e6e7f57ab8eb7f96e263ec1de92cb742e3067d502c",
+    "published_at": "2026-10-29T07:59:18Z"
+  }
 }

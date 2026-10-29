@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-50",
+    "asset_name": "oria-winona_health_services-be519__50d9d12fbb181930.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/oria-winona_health_services-be519__50d9d12fbb181930.jsonl.gz",
+    "asset_sha256": "50d9d12fbb18193001d2d7a668f942d24d52f6e23552575ace31c9d3515c0853",
+    "published_at": "2026-10-29T08:00:46Z"
+  }
 }

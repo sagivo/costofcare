@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-40",
+    "asset_name": "providence-regional-medical-center-everett-colby-campus__40dfb4fa10aab376.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/providence-regional-medical-center-everett-colby-campus__40dfb4fa10aab376.jsonl.gz",
+    "asset_sha256": "40dfb4fa10aab376f5be9fa595c2eb403afbf648da33e20aa3c6aae4eb15fb30",
+    "published_at": "2026-10-29T08:02:48Z"
+  }
 }

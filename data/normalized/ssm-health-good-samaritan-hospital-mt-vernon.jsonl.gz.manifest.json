@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1f",
+    "asset_name": "ssm-health-good-samaritan-hospital-mt-vernon__1f692d755af17964.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1f/ssm-health-good-samaritan-hospital-mt-vernon__1f692d755af17964.jsonl.gz",
+    "asset_sha256": "1f692d755af17964acddea28995f1f740f3be4029a37404685425d620ca80ad7",
+    "published_at": "2026-10-29T08:05:03Z"
+  }
 }

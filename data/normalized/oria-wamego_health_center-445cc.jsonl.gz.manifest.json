@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-10",
+    "asset_name": "oria-wamego_health_center-445cc__100c2fa8111252b3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-10/oria-wamego_health_center-445cc__100c2fa8111252b3.jsonl.gz",
+    "asset_sha256": "100c2fa8111252b3a4ee750fec5a9f92ad0bc7156ed540f716e71c5c2c673b52",
+    "published_at": "2026-10-29T07:59:01Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e7",
+    "asset_name": "scripps-mercy-hospital-chula-vista__e720e81360eac579.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/scripps-mercy-hospital-chula-vista__e720e81360eac579.jsonl.gz",
+    "asset_sha256": "e720e81360eac579b2ed27a24cd4c8862e0dd4f6c86399a3c76bce6e28009dcb",
+    "published_at": "2026-10-29T08:04:23Z"
+  }
 }

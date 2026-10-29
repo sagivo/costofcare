@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e8",
+    "asset_name": "oria-west_tennessee_healthcare_bolivar_hospital-e2346__e8cde5839fabe1b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e8/oria-west_tennessee_healthcare_bolivar_hospital-e2346__e8cde5839fabe1b2.jsonl.gz",
+    "asset_sha256": "e8cde5839fabe1b24df3a4f069dc60ccf8b89ee42059f1b6406397df8fdd902d",
+    "published_at": "2026-10-29T07:59:48Z"
+  }
 }

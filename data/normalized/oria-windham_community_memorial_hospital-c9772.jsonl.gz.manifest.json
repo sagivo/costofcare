@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-cc",
+    "asset_name": "oria-windham_community_memorial_hospital-c9772__cc16c785d512c32f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-windham_community_memorial_hospital-c9772__cc16c785d512c32f.jsonl.gz",
+    "asset_sha256": "cc16c785d512c32f8c775512e39c318a49b1b07b393083cf0201a39ce5eae41d",
+    "published_at": "2026-10-29T08:00:41Z"
+  }
 }

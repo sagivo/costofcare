@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a4",
+    "asset_name": "osf-holy-family-medical-center__a44a632dfb93ea5c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a4/osf-holy-family-medical-center__a44a632dfb93ea5c.jsonl.gz",
+    "asset_sha256": "a44a632dfb93ea5c0a48131068f3f6a559502eb28504ec05def3fedd78be716a",
+    "published_at": "2026-10-29T08:01:09Z"
+  }
 }

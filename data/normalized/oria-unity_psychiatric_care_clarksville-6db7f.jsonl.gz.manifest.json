@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b3",
+    "asset_name": "oria-unity_psychiatric_care_clarksville-6db7f__b364da4a1c1b1e6c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/oria-unity_psychiatric_care_clarksville-6db7f__b364da4a1c1b1e6c.jsonl.gz",
+    "asset_sha256": "b364da4a1c1b1e6cc0b68a2cbbd22bde163a7065c28133d515d98e9bc10cda0a",
+    "published_at": "2026-10-29T07:57:41Z"
+  }
 }

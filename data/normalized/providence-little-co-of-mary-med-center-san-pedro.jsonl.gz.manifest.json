@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-9b",
+    "asset_name": "providence-little-co-of-mary-med-center-san-pedro__9b35f39b6bb1132d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/providence-little-co-of-mary-med-center-san-pedro__9b35f39b6bb1132d.jsonl.gz",
+    "asset_sha256": "9b35f39b6bb1132d4df0c4dabe670e6e9db40737f382cbf9d8256133ef8d2d16",
+    "published_at": "2026-10-29T08:02:33Z"
+  }
 }

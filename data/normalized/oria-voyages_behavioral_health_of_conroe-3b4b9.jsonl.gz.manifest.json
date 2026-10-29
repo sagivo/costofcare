@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bd",
+    "asset_name": "oria-voyages_behavioral_health_of_conroe-3b4b9__bd26e163c7f1bd99.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/oria-voyages_behavioral_health_of_conroe-3b4b9__bd26e163c7f1bd99.jsonl.gz",
+    "asset_sha256": "bd26e163c7f1bd9918a4894af8b45c712fb35f278543ba6e3bd2654e883f1e6c",
+    "published_at": "2026-10-29T07:58:48Z"
+  }
 }

@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b9",
+    "asset_name": "sanford-medical-center-bismarck__b94789bf8c547229.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b9/sanford-medical-center-bismarck__b94789bf8c547229.jsonl.gz",
+    "asset_sha256": "b94789bf8c5472299d8643769f59409c12a91ed25ddbd5eb57add94d9369b5a5",
+    "published_at": "2026-10-29T08:03:58Z"
+  }
 }

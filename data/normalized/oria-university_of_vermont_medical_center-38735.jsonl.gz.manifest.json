@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5f",
+    "asset_name": "oria-university_of_vermont_medical_center-38735__5f3af609ff917d48.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-university_of_vermont_medical_center-38735__5f3af609ff917d48.jsonl.gz",
+    "asset_sha256": "5f3af609ff917d489404db1a771526cd85dc61ad678a3ee8e9073ec8035df1fe",
+    "published_at": "2026-10-29T07:58:05Z"
+  }
 }

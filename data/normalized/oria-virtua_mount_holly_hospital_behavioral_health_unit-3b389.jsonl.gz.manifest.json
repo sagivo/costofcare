@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 6335",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-2f",
+    "asset_name": "oria-virtua_mount_holly_hospital_behavioral_health_unit-3b389__2f597f14d1e522af.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/oria-virtua_mount_holly_hospital_behavioral_health_unit-3b389__2f597f14d1e522af.jsonl.gz",
+    "asset_sha256": "2f597f14d1e522af95ba72ae4dbfee70cbebd80f029e8643f4c084432bb67139",
+    "published_at": "2026-10-29T07:58:39Z"
+  }
 }

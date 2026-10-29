@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-1a",
+    "asset_name": "oria-unity_psychiatric_care_huntsville-a9a0f__1a147c361bca4538.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/oria-unity_psychiatric_care_huntsville-a9a0f__1a147c361bca4538.jsonl.gz",
+    "asset_sha256": "1a147c361bca4538900bb52c0bd695b1a3ae51177a2fb0e4a79edd6982f5b443",
+    "published_at": "2026-10-29T07:57:44Z"
+  }
 }

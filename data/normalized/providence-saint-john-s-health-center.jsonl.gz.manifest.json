@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-23",
+    "asset_name": "providence-saint-john-s-health-center__2326b150cb6c2ab9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-23/providence-saint-john-s-health-center__2326b150cb6c2ab9.jsonl.gz",
+    "asset_sha256": "2326b150cb6c2ab9e31b04f537b522743b405de35225b878fed9c5478ea76082",
+    "published_at": "2026-10-29T08:02:51Z"
+  }
 }

@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-4d",
+    "asset_name": "oria-westmoreland_regional_hospital-ce7c5__4d9f70f06033209b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4d/oria-westmoreland_regional_hospital-ce7c5__4d9f70f06033209b.jsonl.gz",
+    "asset_sha256": "4d9f70f06033209b5368c32267c8952df7ea82ae975eaa0f4e7a859a35c2ae8f",
+    "published_at": "2026-10-29T08:00:10Z"
+  }
 }

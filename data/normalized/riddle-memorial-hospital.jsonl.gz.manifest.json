@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-29",
+    "asset_name": "riddle-memorial-hospital__294cf73abf7d2187.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/riddle-memorial-hospital__294cf73abf7d2187.jsonl.gz",
+    "asset_sha256": "294cf73abf7d2187c5122c29f8df96bbd9b4933d1a30ab61b9da22ea4ce1f348",
+    "published_at": "2026-10-29T08:03:20Z"
+  }
 }

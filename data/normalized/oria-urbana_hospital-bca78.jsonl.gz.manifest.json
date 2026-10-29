@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-64",
+    "asset_name": "oria-urbana_hospital-bca78__64860b93e8b6e975.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-urbana_hospital-bca78__64860b93e8b6e975.jsonl.gz",
+    "asset_sha256": "64860b93e8b6e975055a601d514be77a1c0451a6e99cf755e225ef06194796e4",
+    "published_at": "2026-10-29T07:58:11Z"
+  }
 }

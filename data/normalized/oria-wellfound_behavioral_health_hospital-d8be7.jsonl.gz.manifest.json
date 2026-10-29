@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-39",
+    "asset_name": "oria-wellfound_behavioral_health_hospital-d8be7__39c5246f21133070.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-wellfound_behavioral_health_hospital-d8be7__39c5246f21133070.jsonl.gz",
+    "asset_sha256": "39c5246f211330702ec9d9078a544ad66f86d8e2138a5fd62809f00c41b25922",
+    "published_at": "2026-10-29T07:59:25Z"
+  }
 }

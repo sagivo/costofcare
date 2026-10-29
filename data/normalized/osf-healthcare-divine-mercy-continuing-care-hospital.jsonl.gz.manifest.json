@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-6f",
+    "asset_name": "osf-healthcare-divine-mercy-continuing-care-hospital__6f8c465e7f53d75e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6f/osf-healthcare-divine-mercy-continuing-care-hospital__6f8c465e7f53d75e.jsonl.gz",
+    "asset_sha256": "6f8c465e7f53d75ea2560e52e5fed3e9cd10f2dfb6baa103fe4c96d5f16706a0",
+    "published_at": "2026-10-29T08:01:05Z"
+  }
 }

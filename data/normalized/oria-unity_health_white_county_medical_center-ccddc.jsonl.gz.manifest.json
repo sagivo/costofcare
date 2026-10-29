@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-12",
+    "asset_name": "oria-unity_health_white_county_medical_center-ccddc__121705dce979c1b2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-12/oria-unity_health_white_county_medical_center-ccddc__121705dce979c1b2.jsonl.gz",
+    "asset_sha256": "121705dce979c1b26af00708a1484a7780b5dd6b72d425aeee3a7fb1733f2ec9",
+    "published_at": "2026-10-29T07:57:36Z"
+  }
 }

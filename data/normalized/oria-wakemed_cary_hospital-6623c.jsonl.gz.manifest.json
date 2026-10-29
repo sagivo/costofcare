@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-27",
+    "asset_name": "oria-wakemed_cary_hospital-6623c__270cd6d4f651e2bf.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-27/oria-wakemed_cary_hospital-6623c__270cd6d4f651e2bf.jsonl.gz",
+    "asset_sha256": "270cd6d4f651e2bfce607143f3066ed9a482bac65a3caf98ca8e915229b293dc",
+    "published_at": "2026-10-29T07:58:51Z"
+  }
 }

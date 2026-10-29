@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-bd",
+    "asset_name": "sanford-medical-center-hillsboro__bd2ac095cc44966f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/sanford-medical-center-hillsboro__bd2ac095cc44966f.jsonl.gz",
+    "asset_sha256": "bd2ac095cc44966fe54b7df9d6c36674bff720cc4462ca29391ccb51530cf61b",
+    "published_at": "2026-10-29T08:04:00Z"
+  }
 }

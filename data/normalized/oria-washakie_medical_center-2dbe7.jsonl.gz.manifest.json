@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d3",
+    "asset_name": "oria-washakie_medical_center-2dbe7__d33f1669a259485f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d3/oria-washakie_medical_center-2dbe7__d33f1669a259485f.jsonl.gz",
+    "asset_sha256": "d33f1669a259485f5654629d2e25bb6aa98e5c45d71c23cd486e514afd849d1e",
+    "published_at": "2026-10-29T07:59:07Z"
+  }
 }

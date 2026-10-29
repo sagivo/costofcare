@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-usa_health_hca_providence_hospital_llc-a1401__86dd4040cd520d88.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-usa_health_hca_providence_hospital_llc-a1401__86dd4040cd520d88.jsonl.gz",
+    "asset_sha256": "86dd4040cd520d881d8e89d8607dde9cc332f9375764f73db34d4408017c93df",
+    "published_at": "2026-10-29T07:58:14Z"
+  }
 }

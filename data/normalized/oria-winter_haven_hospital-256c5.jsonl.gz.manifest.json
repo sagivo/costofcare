@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f1",
+    "asset_name": "oria-winter_haven_hospital-256c5__f1c01eed3ea78a83.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/oria-winter_haven_hospital-256c5__f1c01eed3ea78a83.jsonl.gz",
+    "asset_sha256": "f1c01eed3ea78a83feb9a36d1116ac51b32f492ce09106542c86de9f8c1ff654",
+    "published_at": "2026-10-29T08:00:48Z"
+  }
 }

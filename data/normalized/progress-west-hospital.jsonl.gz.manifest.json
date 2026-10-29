@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a9",
+    "asset_name": "progress-west-hospital__a9da8b084bcaa533.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/progress-west-hospital__a9da8b084bcaa533.jsonl.gz",
+    "asset_sha256": "a9da8b084bcaa533379bc5e45c2cdd7eb75099cd03d8e8ce94a73919a8979704",
+    "published_at": "2026-10-29T08:02:19Z"
+  }
 }

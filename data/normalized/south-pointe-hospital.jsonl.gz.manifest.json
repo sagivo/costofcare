@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-d8",
+    "asset_name": "south-pointe-hospital__d812c22910898612.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/south-pointe-hospital__d812c22910898612.jsonl.gz",
+    "asset_sha256": "d812c2291089861264133ab452e3b7c073bdaf7c0dec6ee5cbdaa8f3e5359851",
+    "published_at": "2026-10-29T08:04:55Z"
+  }
 }

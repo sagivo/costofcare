@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-f3",
+    "asset_name": "oria-washington_county_hospital-b4cc3__f314b842005dca33.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-washington_county_hospital-b4cc3__f314b842005dca33.jsonl.gz",
+    "asset_sha256": "f314b842005dca33813926be5322ffa0bedcc4a4ca139cfafa6809ff4b88c47e",
+    "published_at": "2026-10-29T07:59:08Z"
+  }
 }

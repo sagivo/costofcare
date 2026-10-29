@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-fc",
+    "asset_name": "prisma-health-blount-memorial-hospital__fc269786ad424a18.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/prisma-health-blount-memorial-hospital__fc269786ad424a18.jsonl.gz",
+    "asset_sha256": "fc269786ad424a181d22cfa5bdb8d9f6d5bbbcb7a22a4a70da1fcfcca686d585",
+    "published_at": "2026-10-29T08:02:01Z"
+  }
 }

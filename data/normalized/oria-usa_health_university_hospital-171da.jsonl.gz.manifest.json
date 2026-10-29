@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-86",
+    "asset_name": "oria-usa_health_university_hospital-171da__86b4b0a8bab1c1c9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-usa_health_university_hospital-171da__86b4b0a8bab1c1c9.jsonl.gz",
+    "asset_sha256": "86b4b0a8bab1c1c938be360013013d29a02287a393956eb40fa74517bd5c9b04",
+    "published_at": "2026-10-29T07:58:16Z"
+  }
 }

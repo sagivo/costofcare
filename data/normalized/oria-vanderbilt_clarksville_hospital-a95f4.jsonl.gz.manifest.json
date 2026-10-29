@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-04",
+    "asset_name": "oria-vanderbilt_clarksville_hospital-a95f4__04125d7af6e3dc28.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-04/oria-vanderbilt_clarksville_hospital-a95f4__04125d7af6e3dc28.jsonl.gz",
+    "asset_sha256": "04125d7af6e3dc28b75cd66038f444f3f96f04c75ac07fcf116bf13ac5c0f3cc",
+    "published_at": "2026-10-29T07:58:32Z"
+  }
 }

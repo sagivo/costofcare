@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e2",
+    "asset_name": "providence-saint-joseph-medical-center__e273d25270ee6322.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e2/providence-saint-joseph-medical-center__e273d25270ee6322.jsonl.gz",
+    "asset_sha256": "e273d25270ee6322d11eacba72d08fdd03b07b3ce3192ff5848e33dc48786b2c",
+    "published_at": "2026-10-29T08:02:53Z"
+  }
 }

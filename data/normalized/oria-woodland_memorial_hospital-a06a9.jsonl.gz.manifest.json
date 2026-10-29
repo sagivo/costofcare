@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-b8",
+    "asset_name": "oria-woodland_memorial_hospital-a06a9__b841b8f694c4f844.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b8/oria-woodland_memorial_hospital-a06a9__b841b8f694c4f844.jsonl.gz",
+    "asset_sha256": "b841b8f694c4f8448ccd90bf7a73014466fd340813e9db636e262b2accded06a",
+    "published_at": "2026-10-29T08:00:56Z"
+  }
 }

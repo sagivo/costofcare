@@ -70,5 +70,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 398",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-02",
+    "asset_name": "oria-westfields_hospital-61f79__023f9618b47dcb1c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-westfields_hospital-61f79__023f9618b47dcb1c.jsonl.gz",
+    "asset_sha256": "023f9618b47dcb1ca6c65e5becfcdcb51e8e73a71d42bb0a8152f9b983affca2",
+    "published_at": "2026-10-29T08:00:08Z"
+  }
 }

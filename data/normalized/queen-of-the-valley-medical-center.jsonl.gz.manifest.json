@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-8e",
+    "asset_name": "queen-of-the-valley-medical-center__8eff62ca26a5327e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8e/queen-of-the-valley-medical-center__8eff62ca26a5327e.jsonl.gz",
+    "asset_sha256": "8eff62ca26a5327e2e34003d922beee92eb4574a5fae6e7d3c202ded7b0a0d52",
+    "published_at": "2026-10-29T08:03:16Z"
+  }
 }

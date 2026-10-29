@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e9",
+    "asset_name": "oria-wythe_county_community_hospital-35e4c__e9151bc3996f9799.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e9/oria-wythe_county_community_hospital-35e4c__e9151bc3996f9799.jsonl.gz",
+    "asset_sha256": "e9151bc3996f97992f686010220776a0ebf099492230d50ea64fd7a63ef944d6",
+    "published_at": "2026-10-29T08:01:00Z"
+  }
 }

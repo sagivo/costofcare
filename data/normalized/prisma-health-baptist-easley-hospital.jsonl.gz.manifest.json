@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-db",
+    "asset_name": "prisma-health-baptist-easley-hospital__db392105bbd50949.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/prisma-health-baptist-easley-hospital__db392105bbd50949.jsonl.gz",
+    "asset_sha256": "db392105bbd50949c16b711486f4ce129854f6efc1205e738d9d913ebe218126",
+    "published_at": "2026-10-29T08:01:55Z"
+  }
 }

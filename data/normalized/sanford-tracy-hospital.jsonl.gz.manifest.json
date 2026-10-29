@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-ba",
+    "asset_name": "sanford-tracy-hospital__ba6ebb7faf7d5c89.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/sanford-tracy-hospital__ba6ebb7faf7d5c89.jsonl.gz",
+    "asset_sha256": "ba6ebb7faf7d5c895d0b56176510f3950485b89f654e7680e93d5fa4b9364912",
+    "published_at": "2026-10-29T08:04:07Z"
+  }
 }

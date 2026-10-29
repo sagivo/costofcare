@@ -183,5 +183,12 @@
   "source_encoding_inferred": true,
   "strict_utf8_failure": "invalid start byte at byte 2139",
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5a",
+    "asset_name": "oria-virtua_voorhees_hospital-96419__5a8a2c8c7f8b1f9e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-virtua_voorhees_hospital-96419__5a8a2c8c7f8b1f9e.jsonl.gz",
+    "asset_sha256": "5a8a2c8c7f8b1f9e2545b46ef4688e7f6dbba9c6e91158237123253aa555644d",
+    "published_at": "2026-10-29T07:58:42Z"
+  }
 }

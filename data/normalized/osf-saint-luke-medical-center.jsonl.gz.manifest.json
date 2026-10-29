@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-a2",
+    "asset_name": "osf-saint-luke-medical-center__a2f4d86128a9358e.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/osf-saint-luke-medical-center__a2f4d86128a9358e.jsonl.gz",
+    "asset_sha256": "a2f4d86128a9358e287602d454d966f36a8a6b6e7e28cee8323447271281a4bc",
+    "published_at": "2026-10-29T08:01:22Z"
+  }
 }

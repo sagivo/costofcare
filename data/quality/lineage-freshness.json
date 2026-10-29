@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-29T02:39:09.683195+00:00",
+  "generated_at": "2026-10-29T08:23:16.019885+00:00",
   "normalized_files": 2752,
   "parser_versions": {
-    "row-preserving-1.2": 1048,
-    "row-preserving-1.3": 1703,
+    "row-preserving-1.2": 1047,
+    "row-preserving-1.3": 1704,
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 2516,
-    "within_24h": 236
+    "1_to_7_days": 2514,
+    "within_24h": 237,
+    "over_7_days": 1
   },
   "failed_attempt_classes": {
     "other": 2,
     "strict_encoding": 6,
-    "http_429": 1,
-    "timeout": 1
+    "http_429": 1
   },
   "summary_hash_missing_count": 1,
   "summary_normalized_hash_differences": [

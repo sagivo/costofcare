@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-e3",
+    "asset_name": "oria-west_chester_hospital-6f0b1__e396f5a767e41c90.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/oria-west_chester_hospital-6f0b1__e396f5a767e41c90.jsonl.gz",
+    "asset_sha256": "e396f5a767e41c90e61b971ce2efa86dfbfd1d6f5a1f0e73a9a08818c346cfb0",
+    "published_at": "2026-10-29T07:59:36Z"
+  }
 }

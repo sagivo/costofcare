@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-5b",
+    "asset_name": "providence-holy-cross-medical-center__5b449e556b0ec13d.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5b/providence-holy-cross-medical-center__5b449e556b0ec13d.jsonl.gz",
+    "asset_sha256": "5b449e556b0ec13d97800049f2ff428c6554f998a0aebd410575322726891822",
+    "published_at": "2026-10-29T08:02:26Z"
+  }
 }

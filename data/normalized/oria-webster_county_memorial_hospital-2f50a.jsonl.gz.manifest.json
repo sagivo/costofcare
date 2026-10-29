@@ -66,5 +66,12 @@
   "complete_source_download": true,
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-51",
+    "asset_name": "oria-webster_county_memorial_hospital-2f50a__51d03616d28d52f2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-51/oria-webster_county_memorial_hospital-2f50a__51d03616d28d52f2.jsonl.gz",
+    "asset_sha256": "51d03616d28d52f253b3c01cbfc35a7404d8bb4f59de478c7fb51f2d71049ab4",
+    "published_at": "2026-10-29T07:59:24Z"
+  }
 }

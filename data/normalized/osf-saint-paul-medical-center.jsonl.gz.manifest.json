@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-24",
+    "asset_name": "osf-saint-paul-medical-center__24097c3ae5a4faa8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-24/osf-saint-paul-medical-center__24097c3ae5a4faa8.jsonl.gz",
+    "asset_sha256": "24097c3ae5a4faa85f74d3c2e25a57800c02f46f7b076e7f9ced603a44830c58",
+    "published_at": "2026-10-29T08:01:24Z"
+  }
 }

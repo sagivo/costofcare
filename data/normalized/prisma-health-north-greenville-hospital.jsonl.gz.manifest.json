@@ -183,5 +183,12 @@
   "source_encoding_inferred": false,
   "strict_utf8_failure": null,
   "row_width_mismatch_records": 0,
-  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal"
+  "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
+  "release_asset": {
+    "release": "data-norm-90",
+    "asset_name": "prisma-health-north-greenville-hospital__90cbd9869ad5650a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/prisma-health-north-greenville-hospital__90cbd9869ad5650a.jsonl.gz",
+    "asset_sha256": "90cbd9869ad5650aa4ac39e0c82611fae9e9e06fd67468dd948d05aa5cf86c71",
+    "published_at": "2026-10-29T08:02:10Z"
+  }
 }
