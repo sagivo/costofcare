@@ -1,0 +1,25 @@
+{
+  "npi": "1154417459",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-29T17:33:25Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1154417459",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SUSAN",
+      "last_name": "HAMMOND",
+      "primary_taxonomy": "Speech-Language Pathologist,  ",
+      "location": {
+        "address_1": "1999 W TOWNSHIP LINE RD",
+        "city": "BLUE BELL",
+        "state": "PA",
+        "postal_code": "194223585"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

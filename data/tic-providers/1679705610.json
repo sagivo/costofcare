@@ -1,0 +1,25 @@
+{
+  "npi": "1679705610",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-29T17:34:27Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1679705610",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BROOKE",
+      "last_name": "SMITH",
+      "primary_taxonomy": "Speech-Language Pathologist,  ",
+      "location": {
+        "address_1": "10392 MCCRAW RD",
+        "city": "MERIDIAN",
+        "state": "MS",
+        "postal_code": "393079747"
+      },
+      "last_updated": "2009-08-09"
+    }
+  ]
+}

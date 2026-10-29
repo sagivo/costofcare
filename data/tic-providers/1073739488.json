@@ -1,0 +1,25 @@
+{
+  "npi": "1073739488",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-29T17:33:19Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1073739488",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "PAMELA",
+      "last_name": "COLEMAN",
+      "primary_taxonomy": "Speech-Language Pathologist,  ",
+      "location": {
+        "address_1": "1715 SAGEBRUSH DR",
+        "city": "FRISCO",
+        "state": "TX",
+        "postal_code": "750337648"
+      },
+      "last_updated": "2025-10-20"
+    }
+  ]
+}

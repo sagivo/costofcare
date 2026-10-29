@@ -1,0 +1,25 @@
+{
+  "npi": "1699949537",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-29T17:34:50Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1699949537",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CHRISTINE",
+      "last_name": "CLIFT",
+      "primary_taxonomy": "Mechanotherapist",
+      "location": {
+        "address_1": "5010 164TH ST SW",
+        "city": "EDMONDS",
+        "state": "WA",
+        "postal_code": "980264834"
+      },
+      "last_updated": "2008-04-22"
+    }
+  ]
+}

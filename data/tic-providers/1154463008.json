@@ -1,0 +1,25 @@
+{
+  "npi": "1154463008",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-29T17:33:26Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1154463008",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BELINDA",
+      "last_name": "WORLEY",
+      "primary_taxonomy": "Speech-Language Pathologist,  ",
+      "location": {
+        "address_1": "703 ELLARE LN",
+        "city": "DEXTER",
+        "state": "MO",
+        "postal_code": "638412806"
+      },
+      "last_updated": "2007-07-09"
+    }
+  ]
+}

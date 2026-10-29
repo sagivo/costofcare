@@ -1,0 +1,25 @@
+{
+  "npi": "1154607463",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-29T17:33:27Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1154607463",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "XAVIER",
+      "last_name": "ORTIZ",
+      "primary_taxonomy": "Speech-Language Pathologist,  ",
+      "location": {
+        "address_1": "1919 5TH ST",
+        "city": "SANTA FE",
+        "state": "NM",
+        "postal_code": "875055402"
+      },
+      "last_updated": "2016-06-29"
+    }
+  ]
+}

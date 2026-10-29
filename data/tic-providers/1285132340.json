@@ -1,0 +1,25 @@
+{
+  "npi": "1285132340",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-29T17:33:44Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1285132340",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CAREN",
+      "last_name": "MIGLIN",
+      "primary_taxonomy": "Speech-Language Pathologist,  ",
+      "location": {
+        "address_1": "619 NEELA DR",
+        "city": "VAN WERT",
+        "state": "OH",
+        "postal_code": "458912296"
+      },
+      "last_updated": "2024-04-24"
+    }
+  ]
+}
