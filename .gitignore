@@ -6,7 +6,7 @@ scripts/__pycache__/
 site-tmp/
 
 # Phase 2 data distribution: new row-level blobs are not committed to git.
-# Already-tracked blobs and git history are unaffected (ignore rules do not untrack files).
+# Migrated blobs were untracked after hash-verified release upload; this ignore rule keeps them untracked.
 # New blobs distribute via GitHub release assets; manifests point at them.
 # If a release publish fails, the workflows fall back to `git add -f` to avoid data loss.
 data/normalized/*.jsonl.gz

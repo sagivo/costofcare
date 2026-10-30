@@ -28,6 +28,8 @@ def main():
    sha=hashlib.sha256(raw).hexdigest();result['readback_sha256']=sha
    if sha!=m['source_sha256']:
     result['status']='source_changed_since_snapshot';results.append(result);continue
+   if not os.path.exists(p.removesuffix('.manifest.json')):
+    result.update(status='local_blob_not_checked_out',note='row-level blob lives on GitHub Releases and must be downloaded locally before readback');results.append(result);continue
    with gzip.open(p.removesuffix('.manifest.json'),'rt') as f:rows=[json.loads(l) for l in f]
    sample=[rows[i] for i in sorted({0,len(rows)//2,len(rows)-1})] if rows else []
    if not sample:raise ValueError('no normalized rows to compare')
