@@ -48,5 +48,6 @@ def main():
   except Exception as e:errors.append({'path':os.path.basename(path),'error':str(e)})
  out={'generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'status':'pass' if not errors else 'fail','validated_files':len(sources),'validated_records':total,'local_blob_files':len(blob_paths),'manifest_files':len(manifest_paths),'manifest_records':manifest_records,'remote_only_files':remote_only,'row_width_mismatch_records':mismatch_total,'inferred_encoding_files':sum(1 for x in inferred_files),'source_formats':dict(formats),'populated_field_counts':dict(fields),'sources':sources,'errors':errors,'scope':'Artifact integrity and source-preserving contract only; no independent clinical, coding, payer/network or amount validation'}
  os.makedirs(ROOT+'/data/quality',exist_ok=True);json.dump(out,open(ROOT+'/data/quality/normalized-validation.json','w'),indent=2)
+ for e in errors:print(f"VALIDATION_ERROR {e['path']}: {e['error']}")
  print(out['status'],len(sources),'files',total,'records',len(errors),'errors');return bool(errors)
 if __name__=='__main__':sys.exit(main())
