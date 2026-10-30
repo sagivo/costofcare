@@ -77,6 +77,8 @@ jobs:
               echo "::warning::PUBLISH-FALLBACK: unpublished blob $name not found in data/normalized"
             fi
           done < <(jq -r '.missing_files[]' "$report")
+          # release assets are canonical; drop unstaged tracked-blob changes so rebase works
+          git checkout -- 'data/normalized/*.jsonl.gz' || true
           git diff --cached --quiet && exit 0
           git commit -m 'data: row-preserving primary extraction tranche'
           for i in 1 2 3; do
