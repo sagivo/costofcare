@@ -1,0 +1,25 @@
+{
+  "npi": "1770879967",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:40Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1770879967",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "YU-YING",
+      "last_name": "CHANG",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "10906 SIERRA VERDE TRL",
+        "city": "AUSTIN",
+        "state": "TX",
+        "postal_code": "787595118"
+      },
+      "last_updated": "2011-06-25"
+    }
+  ]
+}

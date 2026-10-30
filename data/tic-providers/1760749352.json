@@ -1,0 +1,25 @@
+{
+  "npi": "1760749352",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:29Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1760749352",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JONG",
+      "last_name": "PARK",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2707 S DIAMOND BAR BLVD",
+        "city": "DIAMOND BAR",
+        "state": "CA",
+        "postal_code": "917653500"
+      },
+      "last_updated": "2012-04-19"
+    }
+  ]
+}

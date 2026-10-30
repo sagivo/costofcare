@@ -1,0 +1,25 @@
+{
+  "npi": "1760572226",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:26Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1760572226",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DENO",
+      "last_name": "PERSIANI",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "5211 PLEASANT AVE",
+        "city": "FAIRFIELD",
+        "state": "OH",
+        "postal_code": "450143533"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

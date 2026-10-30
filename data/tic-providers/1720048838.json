@@ -1,0 +1,25 @@
+{
+  "npi": "1720048838",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:12:46Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1720048838",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ALVIN",
+      "last_name": "FREY",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "4495 ATLANTA HWY",
+        "city": "LOGANVILLE",
+        "state": "GA",
+        "postal_code": "300526736"
+      },
+      "last_updated": "2012-08-23"
+    }
+  ]
+}

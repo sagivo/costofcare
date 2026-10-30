@@ -1,0 +1,25 @@
+{
+  "npi": "1780852186",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:51Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1780852186",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "AMY",
+      "last_name": "MAGER",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "27 BREWSTER CT # 1L",
+        "city": "NORTHAMPTON",
+        "state": "MA",
+        "postal_code": "010603800"
+      },
+      "last_updated": "2021-10-25"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1770788853",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:38Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1770788853",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JENNIFER",
+      "last_name": "WAGGONER",
+      "primary_taxonomy": "Massage Therapist",
+      "location": {
+        "address_1": "111 W 39TH ST",
+        "city": "VANCOUVER",
+        "state": "WA",
+        "postal_code": "986601974"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

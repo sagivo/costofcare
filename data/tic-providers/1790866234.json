@@ -1,0 +1,25 @@
+{
+  "npi": "1790866234",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:14:01Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1790866234",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KATHERINE",
+      "last_name": "SIPIORSKI",
+      "primary_taxonomy": "Massage Therapist",
+      "location": {
+        "address_1": "11521 NE 21ST ST",
+        "city": "BELLEVUE",
+        "state": "WA",
+        "postal_code": "980043026"
+      },
+      "last_updated": "2017-04-17"
+    }
+  ]
+}

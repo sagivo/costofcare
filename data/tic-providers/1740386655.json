@@ -1,0 +1,25 @@
+{
+  "npi": "1740386655",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:07Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1740386655",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "LINDA",
+      "last_name": "FRADY",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "60 AIRPORT RD",
+        "city": "ARDEN",
+        "state": "NC",
+        "postal_code": "287049405"
+      },
+      "last_updated": "2018-03-17"
+    }
+  ]
+}

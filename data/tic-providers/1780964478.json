@@ -1,0 +1,25 @@
+{
+  "npi": "1780964478",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:54Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1780964478",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JOCELYN",
+      "last_name": "SHINAGAWA",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "27450 YNEZ RD",
+        "city": "TEMECULA",
+        "state": "CA",
+        "postal_code": "925914671"
+      },
+      "last_updated": "2011-08-25"
+    }
+  ]
+}

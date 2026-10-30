@@ -1,0 +1,25 @@
+{
+  "npi": "1780904979",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-30T17:13:52Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1780904979",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ANDREA",
+      "last_name": "COLYAR",
+      "primary_taxonomy": "Doula",
+      "location": {
+        "address_1": "816 KENNY CT",
+        "city": "GOLDENDALE",
+        "state": "WA",
+        "postal_code": "986202348"
+      },
+      "last_updated": "2026-07-08"
+    }
+  ]
+}
