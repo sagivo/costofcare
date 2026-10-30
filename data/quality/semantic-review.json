@@ -1,347 +1,41 @@
 {
-  "generated_at": "2026-10-30T08:10:08.953952+00:00",
-  "records_scanned": 15760630,
+  "generated_at": "2026-10-30T21:46:16.441430+00:00",
+  "records_scanned": 474889,
   "flag_counts": {
-    "large_published_amount_review": 13300,
-    "zero_published_amount_review": 260
+    "large_published_amount_review": 2
   },
   "review_examples": [
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 416,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
+      "source_id": "oria-lafollette_medical_center-e040b",
+      "source_record_ordinal": 42178,
+      "source_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
+      "field": "standard_charge|max",
+      "raw_value": "1100886.93"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 417,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 705,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 706,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 707,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 818,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1686,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1687,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|BCBS KS|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1687,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1693,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1694,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1703,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1736,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1757,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|BCBS KS|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1757,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1777,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1927,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1928,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1930,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 1931,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2419,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2419,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2420,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2420,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2422,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2422,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2469,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2469,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2510,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2510,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2511,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2511,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2515,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2515,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2516,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2516,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2520,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2520,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2521,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2521,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
+      "source_id": "oria-lafollette_medical_center-e040b",
+      "source_record_ordinal": 42178,
+      "source_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
+      "field": "standard_charge|Beech Street Work Comp TN|Beech Street Work Comp TN|negotiated_dollar",
+      "raw_value": "1100886.93"
     }
   ],
   "populated_qualifier_counts": {
-    "setting": 15069702,
-    "billing_class": 11763258,
-    "modifiers": 3521518,
-    "payer_name": 14633346,
-    "plan_name": 14629557,
-    "json_source_records": 184895,
-    "json_payer_name": 2295513,
-    "json_plan_name": 2295513,
-    "json_methodology": 2295513,
-    "row_width_mismatch_records_skipped": 297439
+    "setting": 475792,
+    "billing_class": 324779,
+    "payer_name": 432641,
+    "plan_name": 432641,
+    "modifiers": 132015,
+    "json_payer_name": 90473,
+    "json_plan_name": 90473,
+    "json_methodology": 90473,
+    "json_source_records": 8409
   },
   "coverage_note": {
-    "local_blob_files": 2754,
-    "remote_only_files": 0,
+    "local_blob_files": 117,
+    "remote_only_files": 2637,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

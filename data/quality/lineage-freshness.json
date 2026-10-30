@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-30T08:10:08.976725+00:00",
+  "generated_at": "2026-10-30T21:46:16.466748+00:00",
   "normalized_files": 2754,
   "parser_versions": {
-    "row-preserving-1.2": 928,
-    "row-preserving-1.3": 1825,
+    "row-preserving-1.2": 811,
+    "row-preserving-1.3": 1942,
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1360,
-    "1_to_7_days": 1272,
-    "within_24h": 122
+    "over_7_days": 1363,
+    "1_to_7_days": 1270,
+    "within_24h": 121
   },
   "failed_attempt_classes": {
-    "other": 2,
+    "other": 3,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -21,30 +21,51 @@
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250965547_saint-vincent-health-center_standardcharges.csv",
       "normalized_sha256": "e8c0d60371b09a063635b4c6bbb8c3c2d5d5d242e15d08695ce9b85373a0d70e",
-      "summary_sha256": "af4c1be13b252a203529b9d4f8e2cf9fd5b615d469849eb2381eb2e8a6e6264c",
+      "summary_sha256": "c78e2f78de6b441e1b245ff76c8c6c6bf50df685a02d1c1d92e0cd940098c077",
       "normalized_extracted_at": "2026-10-22T18:57:14Z",
-      "summary_extracted_at": "2026-10-29T17:58:05Z"
+      "summary_extracted_at": "2026-10-30T17:14:06Z"
     },
     {
       "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRUMCCHICAGOIL&type=CDMWithoutLabel&fileType=CSV",
       "normalized_sha256": "a7d0f09cb08aed3fd67c0eb13e97572f7cf714dd52f0e1912e18553435cc213e",
-      "summary_sha256": "36215de97e623ca7ae82e0c8486be788b804ce110c1c20a471bd82cfa003a682",
+      "summary_sha256": "3c82819dbaf02ebdb7f00b1bee612cd5e536325ed1be87f1c15333f69708c7c7",
       "normalized_extracted_at": "2026-10-24T14:06:41Z",
-      "summary_extracted_at": "2026-10-29T19:03:11Z"
+      "summary_extracted_at": "2026-10-30T17:59:50Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/941196203-1689769911_dignity-health_standardcharges.json",
+      "normalized_sha256": "74b1b4039ed4a591e6ba71c0f67db06867f9c7754216a050e458b7e08a1451f9",
+      "summary_sha256": "59262a8e7ae6fd9f704083ec54f74da80447497fbbb9199f4d8ed0415175e128",
+      "normalized_extracted_at": "2026-10-22T19:59:16Z",
+      "summary_extracted_at": "2026-10-30T17:29:05Z"
     },
     {
       "source_url": "https://specialistshospitalshreveport.slicedhealth.io/pricer/208810573_specialists-hospital-shreveport_standardcharges.csv",
       "normalized_sha256": "4c8d24b90949a8d926bba71bbbe7779fb3066fea78977e7b950fe572eb9a4e21",
       "summary_sha256": "21c7a1e4a544c08b6eab8581680c13ac8be50988b6b3850481c5b61bbb8c158d",
       "normalized_extracted_at": "2026-10-22T19:55:43Z",
-      "summary_extracted_at": "2026-10-29T18:16:26Z"
+      "summary_extracted_at": "2026-10-30T17:25:48Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1285667493_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "b62c4441e306f7a2a48117337c2ed502dfc241c744d2041ce447b001e3a2166c",
-      "summary_sha256": "62bd4afe6d793f79784aa6b438217cdd08055e1e04495065133df6b7c1f5b521",
+      "summary_sha256": "f369b316afd68c08a5fff4e1b63c1bdfd6acb0fa42d6422905cf5589a79f9a0c",
       "normalized_extracted_at": "2026-10-24T01:05:29Z",
-      "summary_extracted_at": "2026-10-29T16:29:03Z"
+      "summary_extracted_at": "2026-10-30T16:09:23Z"
+    },
+    {
+      "source_url": "https://secure.claraprice.net/price-transparency/KNAL-1701801986440/machine-readable/560789196_catawba-valley-health-system_standardcharges.json",
+      "normalized_sha256": "c3bfef6938f997b8b3b1e7567dbc1fd6fcbb67dfac626b5dbf1b65ed3b21d3c3",
+      "summary_sha256": "96426c79dea15547239abbd1f0617f90cc8c2879d5ee2dcf7296ee843829b389",
+      "normalized_extracted_at": "2026-10-27T16:01:31Z",
+      "summary_extracted_at": "2026-10-30T16:48:46Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/815009488-1114081056_dignity-community-care_standardcharges.json",
+      "normalized_sha256": "64d528ceeb7e070b3c30dcf92930b4ca7126e9d269f972274b30b764ec48ad5b",
+      "summary_sha256": "98bb7abaa947229a4382b43c6a27b74d9283bfb647acff4fbb8ca7ed17064208",
+      "normalized_extracted_at": "2026-10-27T16:03:23Z",
+      "summary_extracted_at": "2026-10-30T16:47:00Z"
     },
     {
       "source_url": "https://www.lorettohospital.org/documents/362200248_loretto-hospital_standardcharges.csv",
@@ -54,165 +75,354 @@
       "summary_extracted_at": "2026-10-27T15:58:59Z"
     },
     {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/815009488-1417089350_dignity-community-care_standardcharges.json",
+      "normalized_sha256": "ffbd68141743f9dfb343d8d9e435e93395c55b474b6283771baf99b3f267ae71",
+      "summary_sha256": "80e1805c2f4223cb61b7da8dccf48900a5600006662bc1850fe89234681eb2bc",
+      "normalized_extracted_at": "2026-10-22T18:08:55Z",
+      "summary_extracted_at": "2026-10-30T16:51:17Z"
+    },
+    {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-sewickley_standardcharges-April-2026.csv",
       "normalized_sha256": "7e13e3aab011ab018e9b33d4b078b99630b1f79657e2c76ea150e487bcdb60ae",
-      "summary_sha256": "0b507a7c8445e6693d6c1b59e5c849375d463e1163c34aa3977feb32d25b970d",
+      "summary_sha256": "b90e507462203a88e0703011d9bc00cc0e153cc42fd5068d828e7f330577606d",
       "normalized_extracted_at": "2026-10-29T17:05:11Z",
-      "summary_extracted_at": "2026-10-29T16:18:54Z"
+      "summary_extracted_at": "2026-10-30T16:02:23Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11148/830567637_curahealth-houston-heights-llc_standardcharges.csv",
       "normalized_sha256": "9daaccea90ea901dc82c274380a1f414aad0c637a2a6bbc1c85207f3902d779c",
       "summary_sha256": "57a2a93a3cf2a5b6794b19bfe3d5e66cafe6f2d1d3e62ac30d411cbfb6c121f9",
       "normalized_extracted_at": "2026-10-22T18:08:35Z",
-      "summary_extracted_at": "2026-10-29T17:34:07Z"
+      "summary_extracted_at": "2026-10-30T16:53:17Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/815009488-1477610640_dignity-community-care_standardcharges.json",
+      "normalized_sha256": "c88265f3a5fddb97fbf43f8d941e40a15ed1bd4e31f8f2c7013f0a90764fe664",
+      "summary_sha256": "cb76ae2ac8bd48c1eeceb7d7982265fdabfe47336d3ddc1be150bacf4e6cadda",
+      "normalized_extracted_at": "2026-10-29T01:59:04Z",
+      "summary_extracted_at": "2026-10-30T17:57:30Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251260215_jefferson-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "12f15df37ccd7efb59949d8941dacdc4c24676594ef5dbd8d9235dcb358b7586",
-      "summary_sha256": "8074273569a198c5cfd47b534560eeb2aabd4c55c3bb03f1c587175589150442",
+      "summary_sha256": "67efbabe164e8af1579976b739822499c4a6b0ff15545f43efaffaba2a4e38cb",
       "normalized_extracted_at": "2026-10-29T17:10:00Z",
-      "summary_extracted_at": "2026-10-29T16:23:52Z"
+      "summary_extracted_at": "2026-10-30T16:05:35Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsac/casa/finance/price-transparency/815009488-1922116037_dignity-community-care_standardcharges.json",
+      "normalized_sha256": "9ce0153da481315f3f63ac7ed1eca075419ce7722775b1898f551b55d97f3a33",
+      "summary_sha256": "3766857cd9410a8c0ce37473a2a5434fccfc9d93d55b209873b188292067652d",
+      "normalized_extracted_at": "2026-10-22T22:02:04Z",
+      "summary_extracted_at": "2026-10-30T17:56:56Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/ZZKG-1724785095238/machine-readable/94-1634554_oroville-hospital_standardcharges.json",
       "normalized_sha256": "377171f0af74c4526da8b316f7771253a2d548032a0305ca7ad2d40849ddb9eb",
       "summary_sha256": "811ced2459b82bad415c297f9b76e9074492c0511f62bf367afcfd9c0098ddc4",
       "normalized_extracted_at": "2026-10-22T18:08:35Z",
-      "summary_extracted_at": "2026-10-29T17:33:19Z"
+      "summary_extracted_at": "2026-10-30T16:52:29Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsac/casa/finance/price-transparency/815009488-1467560599_dignity-community-care_standardcharges.json",
+      "normalized_sha256": "cf1aac9e03a767a5c74671723079e86b516961c1ab5ca4d0576508999ac80004",
+      "summary_sha256": "53961b9e28198c684e7c611452d1f239c5c922f4f480b4587780cfd1a97ee7f6",
+      "normalized_extracted_at": "2026-10-22T17:02:27Z",
+      "summary_extracted_at": "2026-10-30T16:36:54Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "e9cad25405435ed4b47c6e95565b8fd6ca3c72cae3fcdf2cd81f204f19b169cf",
-      "summary_sha256": "32af850eedc02ac2f4ec5da7df44a4157e69119ef4c30e704cc257ca0397e7ee",
+      "summary_sha256": "4ae802a631dd4a083441b892061774c48f80e7c1a5ac89ebfc0621f44a760bb3",
       "normalized_extracted_at": "2026-10-24T01:06:09Z",
-      "summary_extracted_at": "2026-10-29T16:28:53Z"
+      "summary_extracted_at": "2026-10-30T16:09:13Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1679592380_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "ce15f34c7414a95f2c7448ca924474376ec764d7297742785172e0c364da5325",
-      "summary_sha256": "2ca687107e99f43314eb517d8c93ca31a9a6c1b814858e3e7a951f2429ff961f",
+      "summary_sha256": "f7c9744856470eace524ecc31720e442122e4eca9868aaa146cda2070360674c",
       "normalized_extracted_at": "2026-10-22T17:09:10Z",
-      "summary_extracted_at": "2026-10-29T18:52:42Z"
+      "summary_extracted_at": "2026-10-30T17:52:01Z"
     },
     {
-      "source_url": "https://cdn.hs.uab.edu/static/63-6005396_University-of-Alabama-Hospital_standardcharges.zip",
-      "normalized_sha256": "0d4bc183a4b2b7e78ebbceccb6917cd948d1c2076625ce5be8b9f12f3d25c62c",
-      "summary_sha256": "4b4fb8953e8b66881a46c9af96d17bc3451364ca32e69fcd46302413328938e4",
-      "normalized_extracted_at": "2026-10-24T14:08:13Z",
-      "summary_extracted_at": "2026-10-29T19:11:41Z"
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcva/cacv/finance/price-transparency/465322209-1053443473_port-city-operating-company-llc_standardcharges.json",
+      "normalized_sha256": "120aa5ed90f893da7104a45de447f697454e1bb33ed0a9c566d437e89a730cbd",
+      "summary_sha256": "ff61ecf30afce2bff93ad8322addc9dcf94801c182fdb43c66757909fbf0d56a",
+      "normalized_extracted_at": "2026-10-22T19:56:57Z",
+      "summary_extracted_at": "2026-10-30T17:29:52Z"
+    },
+    {
+      "source_url": "https://www.silverlakehospital.org/price-transparency/272315199-1104144641_silver-lake-hospital_standardcharges.csv",
+      "normalized_sha256": "f632a032c1b8aa2c75b4a5fe6dfc7d1c0e8cec28d3d5ca45277c8a5f5dea5b8b",
+      "summary_sha256": "31fd4b590527f81e03104ad460000439bacf1ad303687c90271a34c9389f7c31",
+      "normalized_extracted_at": "2026-10-30T21:32:31Z",
+      "summary_extracted_at": "2026-10-23T14:53:34Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1194744805_west-penn-allegheny-health-system-inc_standardcharges.csv",
       "normalized_sha256": "03c591a1d156a7366694a88cf319e10f74c6e6fad8fe1f98dcd03b4923221cd7",
-      "summary_sha256": "47af99593490afc5a5c303799a61f2689bf83ef944317dfb932db4a79fa6107c",
+      "summary_sha256": "1fee5fcb0c13ccac86c11387d988ddc6ebdc38e3e0b162611a5c99b7d187e28f",
       "normalized_extracted_at": "2026-10-23T00:55:54Z",
-      "summary_extracted_at": "2026-10-29T18:57:38Z"
+      "summary_extracted_at": "2026-10-30T17:55:37Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/BILX-1758056023835/machine-readable/481058737_pratt-regional-medical-center_standardcharges.json",
       "normalized_sha256": "cc7eda316f0c635be653e9cea286985a122b8fcc6b0ca61f77dfa95a424af114",
       "summary_sha256": "df00f0c28e399dde1a57e35343a79995f9a8afee6c3a0e23f46a413a1090c994",
       "normalized_extracted_at": "2026-10-22T18:55:10Z",
-      "summary_extracted_at": "2026-10-29T17:50:25Z"
+      "summary_extracted_at": "2026-10-30T17:07:23Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnst/cans/finance/price-transparency/941196203-1083732853_dignity-health_standardcharges.json",
+      "normalized_sha256": "b2c666b59d0b1e622a80b7dd63b55edccd6fad0a5b50570f56d105309f9ac794",
+      "summary_sha256": "49fc29d1513c6be4d8c91f2f549f298431193e4d21b22b54f16bb027ad63787e",
+      "normalized_extracted_at": "2026-10-22T19:57:58Z",
+      "summary_extracted_at": "2026-10-30T17:29:24Z"
     },
     {
       "source_url": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsecure.claraprice.net%2fprice-transparency%2fMUXR-1741132099318%2fmachine-readable%2f756000602_nacogdoches-memorial-hospital_standardcharges.json&c=E,1,QCFikZbxV7FRDVARBPGPRRUyWFLqp2p5kscCbtmUQBbhpiRqcGUW5nqCKBIhkgo69LvxBvxN9S5Tg-7xeKmyhEfopv1Ee864dNyMQ_DHwH0MNLdG7BKd&typo=1",
       "normalized_sha256": "42a62c4b0696d44ae4f0dc2066756742d6f28fe3096a570da6482d6e5aad2352",
-      "summary_sha256": "e2586dd6c160b68bc374593345e947b076313016a5b1489823eeffd95ab84ae2",
+      "summary_sha256": "10d89c00d55308e879baa11c2f0ddf0ebfac08c003cb13b133ba464e74e4a8a2",
       "normalized_extracted_at": "2026-10-22T16:51:27Z",
-      "summary_extracted_at": "2026-10-29T17:15:59Z"
+      "summary_extracted_at": "2026-10-30T16:40:32Z"
     },
     {
       "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/240795411_evangelical-community-hospital_standardcharges.csv",
       "normalized_sha256": "404598efccffe9349940bd84f62fb1380eb4a0d29f235c33f2aaa6c4e4513562",
       "summary_sha256": "5caa5a483995cdad9da26ee28104729de05baec2ccc189a876a8482ec96af90a",
       "normalized_extracted_at": "2026-10-23T01:34:58Z",
-      "summary_extracted_at": "2026-10-29T16:14:26Z"
+      "summary_extracted_at": "2026-10-30T15:59:31Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251737079_canonsburg-general-hospital_standardcharges.csv",
       "normalized_sha256": "1615f7d1e81acf0993beb83eeefa5e26bd8e67db5211ba051ecb14096314618b",
-      "summary_sha256": "62c750910fb82259a9536f7720aad3660ae81257e22b19713f89580c951ab3e1",
+      "summary_sha256": "186d9c810a8550d2f64975293186fb8677c282cbe4d676dc59da24b8a2ce611f",
       "normalized_extracted_at": "2026-10-27T16:05:10Z",
-      "summary_extracted_at": "2026-10-29T17:40:34Z"
+      "summary_extracted_at": "2026-10-30T16:59:00Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/951643373-1235290818_community-hospital-of-san-bernardino_standardcharges.json",
+      "normalized_sha256": "2d5d842c0e10632bfe0201bec0e58a70d9135f933d3b85f07e4cf1ca7f284b07",
+      "summary_sha256": "2453c264ca9584d7edfcf6cf5376e861faec3ead05675dcae379956fa9bf19b8",
+      "normalized_extracted_at": "2026-10-28T16:57:45Z",
+      "summary_extracted_at": "2026-10-30T17:23:58Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsac/casa/finance/price-transparency/941196203-1487694857_dignity-health_standardcharges.json",
+      "normalized_sha256": "84c98eb1080ad5171fb6629b5870151f7e6908b9fced2226cd5a1f60f75c6e8e",
+      "summary_sha256": "ff47bb71f1dc1c9cd287da6d98f917782eb5533dfde4c16b2bb8077cd2aed983",
+      "normalized_extracted_at": "2026-10-22T17:03:52Z",
+      "summary_extracted_at": "2026-10-30T16:33:31Z"
     },
     {
       "source_url": "https://oklahomaspine.com/wp-content/uploads/731538478_Oklahoma-Spine-Hospital-LLC_standardcharges.csv",
       "normalized_sha256": "72cffa05450910034ffa69131b1fdc4377d9b0ec44393923dddd60e0991845f4",
       "summary_sha256": "03f066dd00261e4f95a4e5aa04dee1193258215f99eb2fa3e216c3214bae3b65",
       "normalized_extracted_at": "2026-10-22T18:07:50Z",
-      "summary_extracted_at": "2026-10-29T17:33:10Z"
+      "summary_extracted_at": "2026-10-30T16:52:12Z"
     },
     {
       "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRushOakPark&type=CDMWithoutLabel&fileType=CSV",
       "normalized_sha256": "5dcc085a9e207707254e5926868c2b165bf73ce8a4fc075a757c5b482bb9c3f3",
       "summary_sha256": "6619790159ad17cf7daca0d5852687ea01808f1718bbffa32da912638f33a046",
       "normalized_extracted_at": "2026-10-23T15:33:00Z",
-      "summary_extracted_at": "2026-10-29T19:03:09Z"
+      "summary_extracted_at": "2026-10-30T17:59:50Z"
     },
     {
       "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCMHAURORAIL&type=CDMWithoutLabel&fileType=CSV",
       "normalized_sha256": "8a5e58997269a311f5f58f9755d4ebf01d7d1b635acb1c10c9e67eaa10faf950",
       "summary_sha256": "efa375c3149e75ff84e3ce8b54f1c6cbc262b04b765629acf2386c4126e45d9c",
       "normalized_extracted_at": "2026-10-23T15:33:33Z",
-      "summary_extracted_at": "2026-10-29T17:22:52Z"
+      "summary_extracted_at": "2026-10-30T16:44:39Z"
     },
     {
       "source_url": "https://cdn.accureg.net/trans/wickenburg/860096775_Wickenburg-Community-Hospital_standardcharges.csv",
       "normalized_sha256": "7af08220919dcad64f77fb91e7340a2c68587f97d7d6c3d1c5f9ac73b067b692",
       "summary_sha256": "27ff20ddd7bb20d90938c301987563b0a163a7240c037288479944d0039a5c73",
       "normalized_extracted_at": "2026-10-22T22:03:18Z",
-      "summary_extracted_at": "2026-10-29T18:58:30Z"
+      "summary_extracted_at": "2026-10-30T17:56:28Z"
     },
     {
-      "source_url": "https://mrfs.hyvehealthcare.com/McAlesterRegionalHealth/730992978_mcalester-regional-health-center_standardcharges.json",
-      "normalized_sha256": "b5930fa1b877a52e00ccb7de3a918fb8fa69505d663164647294872f04023f6e",
-      "summary_sha256": "584b0c9d064c3659333be5ffd0e026dd7a6a4542c52bff6bbfc783c8438f4b0a",
-      "normalized_extracted_at": "2026-10-22T14:51:17Z",
-      "summary_extracted_at": "2026-10-29T16:51:26Z"
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhbay/cacc/finance/price-transparency/815009488-1568646735_dignity-community-care_standardcharges.json",
+      "normalized_sha256": "bdebd3e0069b68f442d0273f02f52116137f2c8efba9e982870a11692c8460e8",
+      "summary_sha256": "8916fdf0c303dbdb2c9343dbfd1ca53edfade48f664ff977ac35c2a10bbeafdb",
+      "normalized_extracted_at": "2026-10-22T19:57:58Z",
+      "summary_extracted_at": "2026-10-30T17:24:27Z"
+    },
+    {
+      "source_url": "https://secure.claraprice.net/price-transparency/ZFYY-1731000747134/machine-readable/330737312_pacifica-hospital-of-the-valley_standardcharges.json",
+      "normalized_sha256": "4d65fbd1cf1f0bfe167b906679a4b45b290d1e84511c375f0ff26f927455e963",
+      "summary_sha256": "f8fe701e458a7730fda0fca2a0d6e9d57cea07f1828266a7eb3caf3bc124652b",
+      "normalized_extracted_at": "2026-10-22T18:07:18Z",
+      "summary_extracted_at": "2026-10-30T16:52:48Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcco/cacc/finance/price-transparency/815009488-1881760452_dignity-community-care_standardcharges.json?target=%22_blank%22",
+      "normalized_sha256": "d7a2fde7d1b87cf574875e354c40280b87c824402a7235f54b7db6c80cea6634",
+      "summary_sha256": "c6d4e4d21d11491c7342b82c76e1f6969d1946496c6a20f4f82876ae849443f5",
+      "normalized_extracted_at": "2026-10-29T01:58:29Z",
+      "summary_extracted_at": "2026-10-30T17:53:04Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251340370_grove-city-medical-center_standardcharges.csv",
       "normalized_sha256": "e376ff58fd62a4435683612c3363098321d69b914e2a1d3487e7c28d08c74486",
-      "summary_sha256": "bbbef82b4163a57c8d1db59b097d790af4748bb76c97b3f31dd7a284e019af2a",
+      "summary_sha256": "b0d07734c26c0b6cc7e270034c88c3162b52af879ff914e547464beb3e78821d",
       "normalized_extracted_at": "2026-10-22T17:03:23Z",
-      "summary_extracted_at": "2026-10-29T19:00:56Z"
+      "summary_extracted_at": "2026-10-30T17:58:15Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhven/cacc/finance/price-transparency/941196203-1073665360_dignity-health-st-johns-hospital-camarillo_standardcharges.json",
+      "normalized_sha256": "c4992ff920d167c441179f22e512b3c3366153d6de0cc651f47e0b2efbc64e19",
+      "summary_sha256": "6dc1926c9070de55b73814bdf3c56bb8e14b76da0bab2ac730ceecfbf724a4ca",
+      "normalized_extracted_at": "2026-10-22T19:58:06Z",
+      "summary_extracted_at": "2026-10-30T17:29:44Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcva/cacv/finance/price-transparency/465322209-1528190931_port-city-operating-company-llc_standardcharges.json",
+      "normalized_sha256": "6bcb507bc3718a47f46a9aa1be3f1e4628747217dbf1cd10d8ff56b51bd07eaf",
+      "summary_sha256": "c3cb379f7124a7b6d3a48a8845a806ebc7f5e54a3d21f1e916ef9929e0ea5b56",
+      "normalized_extracted_at": "2026-10-22T19:58:51Z",
+      "summary_extracted_at": "2026-10-30T17:29:56Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsac/casa/finance/price-transparency/941439787-1659361392_sierra-nevada-memorial-miners-hospital_standardcharges.json",
+      "normalized_sha256": "94b50bf9d2720d7d8b84ff5e506a8bfbf5da1ecd67b16af0fc8c6f6d89dddad2",
+      "summary_sha256": "a92ea859afd172a734f556785caf4beee432db5aa64a902e890219eb9ef5af9f",
+      "normalized_extracted_at": "2026-10-22T19:58:16Z",
+      "summary_extracted_at": "2026-10-30T17:24:50Z"
     },
     {
       "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/940562680-1295181477_alta-bates-summit-medical-center-summit-campus_standardcharges.csv",
       "normalized_sha256": "779a137da57a4ba272d959c890b1069884ba9f5049dc0e2dd8d712f98b8455c9",
       "summary_sha256": "2b7b397790f05666d4405b651a36c3519fa95a69bd59449deb1bc90ff1096e6a",
       "normalized_extracted_at": "2026-10-23T01:44:25Z",
-      "summary_extracted_at": "2026-10-29T16:59:33Z"
+      "summary_extracted_at": "2026-10-30T16:30:29Z"
     },
     {
       "source_url": "https://cueroregionalhospital.slicedhealth.io/pricer/746075588_cuero-regional-hospital_standardcharges.csv",
       "normalized_sha256": "09c0211429d5976cd77ff5fbac79588270108353cdd57734bdabbff7bb005bf0",
       "summary_sha256": "8fb84f27e25935b7e9dbadf39a8f3045a0288ad2063fec93a48fd62fac869b1c",
       "normalized_extracted_at": "2026-10-28T01:47:04Z",
-      "summary_extracted_at": "2026-10-29T18:24:29Z"
+      "summary_extracted_at": "2026-10-30T17:31:33Z"
     },
     {
-      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/160743222_westfield-memorial-hospital-inc_standardcharges.csv",
-      "normalized_sha256": "8a2d6867c2d2925f7fe2caf5fdc9f8f8d57f6bade26aec02d80d4f986b585581",
-      "summary_sha256": "7f134346d7cf83490614157b5830d0339cff39dbb55836500bc42e2b4d24e531",
-      "normalized_extracted_at": "2026-10-23T00:55:44Z",
-      "summary_extracted_at": "2026-10-29T18:58:08Z"
+      "source_url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/231365353_lancaster-general-hospital_standardcharges.csv",
+      "normalized_sha256": "9047c37e50bba5d6f88f156aa0c19cf3379d0c1bd449c0c211c8eb4eb6b90f23",
+      "summary_sha256": "0500d5b01592c28fc0485a8e6a919025ce8286ca87810397a54981eb4bcaeaaa",
+      "normalized_extracted_at": "2026-10-26T01:05:17Z",
+      "summary_extracted_at": "2026-10-30T17:48:40Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcva/cacv/finance/price-transparency/941196203-1518018191_dignity-health_standardcharges.json",
+      "normalized_sha256": "e1d39c4fb5804543026198c8cfd1d3a83e0bac599ce6e903c792066dba5fa83c",
+      "summary_sha256": "d4e14fdeebc4b9905c17f31f35dc81e41d3bec2303a563560c26124e17ae6794",
+      "normalized_extracted_at": "2026-10-22T17:03:55Z",
+      "summary_extracted_at": "2026-10-30T16:33:55Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsac/casa/finance/price-transparency/941196203-1972541498_dignity-health_standardcharges.json",
+      "normalized_sha256": "5d4b66dc5dd8bc4541fef0f8cffbcf82ec4d0932c8ec148e149fedc3f163a236",
+      "summary_sha256": "52259bd71da4832df8696fb7b4a6e20fe09ac06f42764383fc452b91bdeb9bce",
+      "normalized_extracted_at": "2026-10-22T17:07:43Z",
+      "summary_extracted_at": "2026-10-30T16:33:58Z"
+    },
+    {
+      "source_url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/210635009_penn-medicine-princeton-medical-center_standardcharges.csv",
+      "normalized_sha256": "48c6470a28ac50915473c8f3ec83361b777f87299295d4cdc9798257b5897b4a",
+      "summary_sha256": "085c199106ca7e38aa616377a1de400fdf40a04b951c9379421d73ec3e6e18e2",
+      "normalized_extracted_at": "2026-10-26T00:40:20Z",
+      "summary_extracted_at": "2026-10-30T17:48:45Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251875178_alle-kiski-medical-center_standardcharges.csv",
       "normalized_sha256": "4338a488836c2204a8901239a83fcbcd47c961979b9f6f7384a4d6479edc304d",
-      "summary_sha256": "0d5b19428c3057d17bb022fbcf20bc888910e4c96edfde11611de2430f16e453",
+      "summary_sha256": "c7be2dd166cdf536a39e07572604c2e5d2244e46b00197286d5d36b411b0ce27",
       "normalized_extracted_at": "2026-10-24T01:05:26Z",
-      "summary_extracted_at": "2026-10-29T16:29:08Z"
+      "summary_extracted_at": "2026-10-30T16:09:25Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhven/cacc/finance/price-transparency/941196203-1073665360_dignity-health-st-johns-regional-medical-center_standardcharges.json",
+      "normalized_sha256": "2d026954600ecf9b5d2a14e456ea558fc4f46e6585a7086b1531b31d009322c9",
+      "summary_sha256": "18f6992c670dca54286f5a779c08abde40e04c62631e3c24bc1bad8c8ed91ed7",
+      "normalized_extracted_at": "2026-10-22T19:58:05Z",
+      "summary_extracted_at": "2026-10-30T17:29:45Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhbay/cacc/finance/price-transparency/941196203-1427181007_dignity-health_standardcharges.json",
+      "normalized_sha256": "82b09ee844dd625b6b785044e5e6e5a3f1d3d5a781bf458899b901c42c265ca1",
+      "summary_sha256": "ea7995bcecf75f695d7c2fcccd5856277bf4d6a66cb8dbe2be693cb2ce90d721",
+      "normalized_extracted_at": "2026-10-28T16:56:56Z",
+      "summary_extracted_at": "2026-10-30T17:32:34Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcva/cacv/finance/price-transparency/951802779-1467538520_bakersfield-memorial-hospital_standardcharges.json",
+      "normalized_sha256": "cfc8c2911c25d5889a7d273b47e4ee4b64ada55c18f65246c2d115419e3bdfb5",
+      "summary_sha256": "5907125f5bd58526d5a316db1c90b4661b56aedc8c3840516b8ad9b83be7e3bb",
+      "normalized_extracted_at": "2026-10-27T01:38:17Z",
+      "summary_extracted_at": "2026-10-30T16:26:13Z"
+    },
+    {
+      "source_url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/230469150_the-chester-county-hospital_standardcharges.csv",
+      "normalized_sha256": "e2f2c479cfd291ba6f80a6fa5918a3bd33baca73c0f0485a593473265a22ae3a",
+      "summary_sha256": "ae67500331f3cb02ecaf4dcb4ecac03917e718020c517c5becfe1aaf40732590",
+      "normalized_extracted_at": "2026-10-26T00:55:19Z",
+      "summary_extracted_at": "2026-10-30T17:48:36Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnst/cans/finance/price-transparency/941196203-1518085430_dignity-health_standardcharges.json",
+      "normalized_sha256": "b6d8c428e0896a655db32f5fda1479becb4b8b97c3a9f3034ab57dd6e2cca73e",
+      "summary_sha256": "c4c587d8b1fcf34fe1894765365bffeb6763cb3d4aeeecfbd8f851394e82864d",
+      "normalized_extracted_at": "2026-10-22T16:56:28Z",
+      "summary_extracted_at": "2026-10-30T16:33:55Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsac/casa/finance/price-transparency/941196203-1356389878_dignity-health_standardcharges.json",
+      "normalized_sha256": "3ece1a48124ce714261f1c0a22ca7213bc8534f7339fc0eb78d7589baffb4734",
+      "summary_sha256": "4ef9217a77f8dee5dfe41f964ca7bd65f774b3940146ebfc13292842ca6eaabb",
+      "normalized_extracted_at": "2026-10-22T16:59:42Z",
+      "summary_extracted_at": "2026-10-30T16:33:50Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnst/cans/finance/price-transparency/941196203-1477671535_dignity-health_standardcharges.json",
+      "normalized_sha256": "0d14505ece92a0e4185964f65287adfd4e56cff104461d88a262d46379354c50",
+      "summary_sha256": "893be8e7b38defe0c7e3670bda3610729e89025f7d032da0ac1c1314677982e2",
+      "normalized_extracted_at": "2026-10-22T16:56:33Z",
+      "summary_extracted_at": "2026-10-30T16:33:56Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcva/cacv/finance/price-transparency/941196203-1104981661_dignity-health_standardcharges.json",
+      "normalized_sha256": "83524a79bc1e7a2af6e8c8bd4c97ec2445a4d9040c74022a36594f706a741646",
+      "summary_sha256": "b8a423ffd0ac0023908a2938bdee7c5b48d0125fed5b9d72e0eed8b75fed49ef",
+      "normalized_extracted_at": "2026-10-22T17:03:49Z",
+      "summary_extracted_at": "2026-10-30T16:33:46Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/TDCQ-1707436189518/machine-readable/262835957_aspire-behavioral-health_standardcharges.json",
       "normalized_sha256": "6329bbdb554f82850b030ae1bdfc1db25b9db06d23302c1e1030c45d8cd6938f",
       "summary_sha256": "af61da6da83d2f585a372de5ca25a9d98bb01d5179bdcbea1113db02cc84e526",
       "normalized_extracted_at": "2026-10-26T16:58:46Z",
-      "summary_extracted_at": "2026-10-29T16:39:47Z"
+      "summary_extracted_at": "2026-10-30T16:16:43Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcco/cacc/finance/price-transparency/941196203-1760510937_dignity-health-marian-regional-medical-center_standardcharges.json?target=%22_blank%22",
+      "normalized_sha256": "06acfe434e63e79b7a747edd90bc361aa2488edadf67ad8bee3c67434a9e8cbd",
+      "summary_sha256": "da53d17b2987005d793fa523fad51fa0e7a3516b972d3a89c7339cdb1311f218",
+      "normalized_extracted_at": "2026-10-24T14:11:28Z",
+      "summary_extracted_at": "2026-10-30T16:11:34Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/941196203-1194840421_dignity-health_standardcharges.json",
+      "normalized_sha256": "5797d0a7196ebef9add5127d68bc95eb98b20bd6ce55bceccd10304e7af3c0cc",
+      "summary_sha256": "ce23d7f200fcc2814935598f79b55aa6839d02c3172dae819878c0bc0348c5a0",
+      "normalized_extracted_at": "2026-10-22T19:59:42Z",
+      "summary_extracted_at": "2026-10-30T17:30:16Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dharz/ceaz/finance/price-transparency/860098923-1902897820_yavapai-community-hospital-association_standardcharges.json",
+      "normalized_sha256": "096a935c9a4b235fbd048bded3661c02f830399e2a81a25bf92170573c07ae68",
+      "summary_sha256": "35a0413cecb2d57406521832ff3eb793de2e6fa6bd95bf067e4b6a451895a8da",
+      "normalized_extracted_at": "2026-10-22T22:01:07Z",
+      "summary_extracted_at": "2026-10-30T17:57:00Z"
     }
   ],
   "normalized_without_successful_summary": [],
