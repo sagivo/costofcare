@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-30T15:23:56.731934+00:00",
+  "generated_at": "2026-10-30T18:15:03.295342+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2753,
     "distinct_successful_mrf_urls": 2753,
-    "extracted_within_24h": 2708,
+    "extracted_within_24h": 2714,
     "sources_over_365_days_old": 161,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 356937,
+    "hospital_code_aggregates": 356858,
     "row_preserving_records": 15760630
   },
   "status_counts": {
@@ -74,49 +74,49 @@
     "PR": 3
   },
   "hospital_entries_per_code": {
-    "11042": 2399,
+    "11042": 2400,
     "12001": 2336,
-    "20610": 2478,
+    "20610": 2479,
     "55700": 1647,
-    "70450": 2528,
-    "70460": 2459,
-    "70486": 2501,
-    "70491": 2503,
-    "70544": 2382,
-    "70551": 2437,
-    "70552": 2308,
-    "70553": 2437,
-    "71045": 2555,
-    "71046": 2556,
-    "71250": 2509,
-    "71260": 2504,
-    "71275": 2495,
-    "72125": 2504,
-    "72131": 2499,
-    "72141": 2430,
-    "72146": 2429,
-    "72148": 2443,
-    "72149": 2283,
-    "72156": 2410,
-    "72158": 2422,
-    "73218": 2318,
-    "73221": 2372,
-    "73222": 2196,
-    "73700": 2450,
-    "73718": 2343,
-    "73721": 2370,
-    "73722": 2155,
-    "73723": 2321,
-    "74150": 2496,
-    "74160": 2476,
-    "74176": 2513,
-    "74177": 2519,
-    "76536": 2505,
-    "76642": 2309,
-    "76700": 2540,
-    "76775": 2395,
-    "76830": 2478,
-    "76856": 2508,
+    "70450": 2526,
+    "70460": 2457,
+    "70486": 2499,
+    "70491": 2501,
+    "70544": 2381,
+    "70551": 2436,
+    "70552": 2307,
+    "70553": 2436,
+    "71045": 2554,
+    "71046": 2555,
+    "71250": 2508,
+    "71260": 2503,
+    "71275": 2494,
+    "72125": 2503,
+    "72131": 2498,
+    "72141": 2429,
+    "72146": 2428,
+    "72148": 2442,
+    "72149": 2282,
+    "72156": 2409,
+    "72158": 2421,
+    "73218": 2317,
+    "73221": 2371,
+    "73222": 2195,
+    "73700": 2449,
+    "73718": 2342,
+    "73721": 2369,
+    "73722": 2154,
+    "73723": 2320,
+    "74150": 2495,
+    "74160": 2475,
+    "74176": 2512,
+    "74177": 2518,
+    "76536": 2504,
+    "76642": 2308,
+    "76700": 2539,
+    "76775": 2394,
+    "76830": 2477,
+    "76856": 2507,
     "80048": 2559,
     "80053": 2564,
     "80061": 2556,
@@ -130,28 +130,28 @@
     "85027": 2493,
     "85610": 2574,
     "86580": 2042,
-    "87804": 2157,
-    "90471": 2413,
-    "90686": 1524,
-    "93303": 1692,
+    "87804": 2156,
+    "90471": 2409,
+    "90686": 1523,
+    "93303": 1691,
     "93306": 2457,
     "93880": 2480,
     "93970": 2502,
-    "93971": 2482,
+    "93971": 2478,
     "93978": 2104,
     "94640": 2456,
     "96372": 2495,
     "97110": 2506,
     "97161": 2469,
     "97530": 2496,
-    "99202": 1909,
+    "99202": 1910,
     "99203": 1916,
     "99204": 1956,
-    "99205": 1931,
+    "99205": 1928,
     "99212": 2014,
-    "99213": 2047,
-    "99214": 2049,
-    "99215": 1990,
+    "99213": 2048,
+    "99214": 2050,
+    "99215": 1991,
     "99281": 2382,
     "99282": 2390,
     "99283": 2398,
@@ -164,38 +164,38 @@
     "29848": 1422,
     "29881": 1779,
     "30520": 1565,
-    "36415": 2509,
+    "36415": 2510,
     "43235": 2128,
     "43239": 2131,
     "43249": 1923,
-    "45378": 2098,
-    "45380": 2096,
-    "45384": 1804,
-    "45385": 2083,
-    "47562": 1863,
+    "45378": 2100,
+    "45380": 2098,
+    "45384": 1806,
+    "45385": 2085,
+    "47562": 1864,
     "49505": 1862,
     "52353": 1512,
     "58150": 1295,
     "59025": 2020,
-    "59400": 1052,
-    "59510": 1004,
-    "62323": 2065,
-    "64483": 2030,
-    "64721": 1816,
-    "69436": 1542,
-    "76805": 2361,
-    "77014": 1252,
-    "77063": 2084,
+    "59400": 1051,
+    "59510": 1003,
+    "62323": 2064,
+    "64483": 2028,
+    "64721": 1814,
+    "69436": 1540,
+    "76805": 2360,
+    "77014": 1234,
+    "77063": 2083,
     "77065": 2107,
     "77066": 2161,
     "77067": 2237,
     "77080": 2287,
-    "77385": 1228,
+    "77385": 1219,
     "78452": 2241,
-    "78815": 1761,
+    "78815": 1759,
     "80074": 2470,
     "81002": 2145,
-    "82306": 2541,
+    "82306": 2540,
     "82310": 2508,
     "82565": 2529,
     "82607": 2536,
@@ -210,38 +210,38 @@
     "84478": 2515,
     "84520": 2520,
     "84550": 2530,
-    "85652": 2199,
+    "85652": 2198,
     "86140": 2530,
     "87086": 2471,
     "87491": 2472,
     "87591": 2457,
     "87635": 2443,
-    "88112": 2282,
-    "88175": 1801,
+    "88112": 2283,
+    "88175": 1802,
     "88305": 2456,
     "90791": 1612,
     "90834": 1649,
-    "92557": 1272,
+    "92557": 1271,
     "93000": 1129,
     "94010": 2380,
     "95810": 1936,
     "96413": 2097,
-    "99223": 1198,
-    "99232": 1207,
+    "99223": 1199,
+    "99232": 1210,
     "99385": 1130,
     "99395": 1126,
-    "G0121": 1674,
-    "G0439": 1088,
-    "42820": 1483,
-    "59410": 1007,
+    "G0121": 1675,
+    "G0439": 1091,
+    "42820": 1484,
+    "59410": 1008,
     "59515": 1000,
-    "66984": 1494,
-    "90837": 1641,
+    "66984": 1492,
+    "90837": 1640,
     "92004": 1054,
-    "92014": 1027,
-    "92134": 1113,
-    "93015": 900,
-    "E0601": 455
+    "92014": 1026,
+    "92134": 1112,
+    "93015": 899,
+    "E0601": 454
   },
   "qa_flags": [
     {
@@ -2812,10 +2812,1515 @@
     },
     {
       "id": "oria-mark_twain_medical_center-b9375",
-      "code": "77080",
+      "code": "11042",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 352.85
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 506.32
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 489.9
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 353.29
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 350.89
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 352.05
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 351.63
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 353.34
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 348.63
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "11042",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 104.43
+      "ratio": 567.22
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.69
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.37
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 174.52
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.85
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.41
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.26
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.87
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.19
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "12001",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 202.06
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 1624.13
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 2330.6
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 2255.02
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 1626.2
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 1615.18
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 1620.48
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 1618.58
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 1626.44
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 1604.76
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "20610",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 2610.91
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.35
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 137.87
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.4
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.48
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.79
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.13
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.5
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.13
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "36415",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.44
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 2714.07
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 3435.15
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 3335.72
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 2717.53
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 2699.11
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 2707.98
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 2704.79
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 2717.93
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 2681.69
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "76856",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 3747.58
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.24
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 211.3
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 204.45
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.43
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 146.43
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 146.92
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 146.74
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.45
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 145.48
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "83036",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 236.7
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 140.07
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.98
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.47
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 140.24
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.29
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.75
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.58
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 140.26
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 138.39
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "87804",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 225.16
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.11
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 288.6
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 279.24
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.37
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.66
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.42
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.39
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.71
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90471",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 323.3
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 342.07
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 490.87
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 474.95
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 342.51
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 340.18
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 341.31
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 340.89
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 342.55
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 337.98
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90791",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 549.89
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 326.8
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 468.97
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 453.76
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 327.22
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 325.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 326.07
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 325.68
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 327.27
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 322.9
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90834",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 525.36
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 474.95
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 681.53
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 659.43
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 475.55
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 472.32
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 473.87
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 473.32
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 475.61
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 469.27
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "90837",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 763.5
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "92557",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.7
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "92557",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 128.4
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "92557",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.67
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 350.14
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 502.45
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 486.16
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 350.59
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 348.21
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 349.36
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 348.95
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 350.64
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 345.97
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "94640",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 562.89
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.73
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 280.87
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 271.76
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.98
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.64
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.28
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.05
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 196.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 193.39
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "96372",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 314.64
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.22
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 224.18
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.91
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.42
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.36
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.87
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.68
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.44
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.35
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99202",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 251.14
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 223.56
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 320.8
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 310.4
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 223.84
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 222.32
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 223.05
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 222.79
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 223.87
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 220.89
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99203",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 359.39
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 341.16
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 489.57
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 473.69
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 341.6
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 339.29
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 340.4
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 340.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 341.65
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 337.1
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99204",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 548.45
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 423.77
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 608.1
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 588.38
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 424.31
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 421.43
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 422.82
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 422.32
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 424.37
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 418.71
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99205",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 681.23
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99212",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.7
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99212",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 128.4
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99212",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.67
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 150.84
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.45
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 209.43
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 151.03
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 150.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 150.49
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 150.32
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 151.05
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 149.03
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99213",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 242.48
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 222.66
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 319.52
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 309.16
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 222.95
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 221.43
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 222.16
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 221.89
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 222.97
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 220.0
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99214",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 357.94
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 298.98
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 429.02
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 415.1
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 299.36
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 297.32
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 298.31
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 297.95
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 299.39
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 295.4
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "99215",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 480.62
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 263.96
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 378.78
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 366.5
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 264.29
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 262.5
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "Health Net",
+      "flag": "wide_payer_range_review",
+      "ratio": 263.37
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 263.05
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 264.33
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 260.81
+    },
+    {
+      "id": "oria-mark_twain_medical_center-b9375",
+      "code": "G0439",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 424.33
     },
     {
       "id": "mercy-primary-care-bloomfield",
@@ -12374,6 +13879,34 @@
       "ratio": 354800.0
     },
     {
+      "id": "oria-arroyo_grande_hospital-08843",
+      "code": "80053",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.05
+    },
+    {
+      "id": "oria-arroyo_grande_hospital-08843",
+      "code": "80061",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.81
+    },
+    {
+      "id": "oria-arroyo_grande_hospital-08843",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.87
+    },
+    {
+      "id": "oria-arroyo_grande_hospital-08843",
+      "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.48
+    },
+    {
       "id": "oria-pecos_county_memorial_hospital-515c5",
       "flag": "source_update_date_unparseable",
       "value": null
@@ -15016,6 +16549,20 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 226.72
+    },
+    {
+      "id": "oria-canonsburg_hospital-aa632",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
+      "id": "oria-canonsburg_hospital-aa632",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 137.94
     },
     {
       "id": "upmc-kane",
@@ -21378,10 +22925,31 @@
     },
     {
       "id": "oria-yavapai_regional_medical_center-f671b",
+      "code": "73723",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.04
+    },
+    {
+      "id": "oria-yavapai_regional_medical_center-f671b",
       "code": "90686",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
       "ratio": 3870.0
+    },
+    {
+      "id": "oria-yavapai_regional_medical_center-f671b",
+      "code": "90686",
+      "payer": "Arizona Foundation",
+      "flag": "wide_payer_range_review",
+      "ratio": 4171.0
+    },
+    {
+      "id": "oria-yavapai_regional_medical_center-f671b",
+      "code": "90686",
+      "payer": "Arizona Medical Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 4171.0
     },
     {
       "id": "oria-yavapai_regional_medical_center-f671b",
@@ -21393,9 +22961,16 @@
     {
       "id": "oria-yavapai_regional_medical_center-f671b",
       "code": "90686",
+      "payer": "Beech Street",
+      "flag": "wide_payer_range_review",
+      "ratio": 4171.0
+    },
+    {
+      "id": "oria-yavapai_regional_medical_center-f671b",
+      "code": "90686",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 3754.0
+      "ratio": 4085.0
     },
     {
       "id": "oria-yavapai_regional_medical_center-f671b",
@@ -21403,6 +22978,13 @@
       "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 4085.0
+    },
+    {
+      "id": "oria-yavapai_regional_medical_center-f671b",
+      "code": "90686",
+      "payer": "Health Management Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 4171.0
     },
     {
       "id": "oria-yavapai_regional_medical_center-f671b",
@@ -21416,7 +22998,21 @@
       "code": "90686",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 1322.0
+      "ratio": 1413.0
+    },
+    {
+      "id": "oria-yavapai_regional_medical_center-f671b",
+      "code": "90686",
+      "payer": "PHCS",
+      "flag": "wide_payer_range_review",
+      "ratio": 4171.0
+    },
+    {
+      "id": "oria-yavapai_regional_medical_center-f671b",
+      "code": "90686",
+      "payer": "Rural Arizona Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 4171.0
     },
     {
       "id": "oria-yavapai_regional_medical_center-f671b",
@@ -39459,6 +41055,13 @@
       "ratio": 226.72
     },
     {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
       "id": "oria-er_at_westlake-bfcd1",
       "code": "84443",
       "payer": "Cigna",
@@ -44311,17 +45914,10 @@
     },
     {
       "id": "oria-dominican_hospital-19aeb",
-      "code": "36415",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 1918.44
-    },
-    {
-      "id": "oria-dominican_hospital-19aeb",
       "code": "82310",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 123.69
+      "ratio": 127.59
     },
     {
       "id": "oria-dominican_hospital-19aeb",
@@ -44363,77 +45959,56 @@
       "code": "83735",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 116.0
+      "ratio": 113.92
     },
     {
       "id": "oria-dominican_hospital-19aeb",
       "code": "84478",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 111.68
-    },
-    {
-      "id": "oria-dominican_hospital-19aeb",
-      "code": "84520",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 100.43
+      "ratio": 115.2
     },
     {
       "id": "oria-dominican_hospital-19aeb",
       "code": "94640",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 287.01
+      "ratio": 239.02
     },
     {
       "id": "oria-dominican_hospital-19aeb",
       "code": "99202",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 5791.72
-    },
-    {
-      "id": "oria-dominican_hospital-19aeb",
-      "code": "99204",
-      "payer": "United",
-      "flag": "wide_payer_range_review",
-      "ratio": 4458.71
+      "ratio": 101.11
     },
     {
       "id": "oria-dominican_hospital-19aeb",
       "code": "99212",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 7249.0
+      "ratio": 126.55
     },
     {
       "id": "oria-dominican_hospital-19aeb",
       "code": "99213",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 5791.72
+      "ratio": 101.11
     },
     {
-      "id": "oria-dominican_hospital-19aeb",
-      "code": "99214",
-      "payer": "United",
+      "id": "oria-methodist_hospital_of_sacramento-06c59",
+      "code": "80061",
+      "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 5275.09
-    },
-    {
-      "id": "oria-dominican_hospital-19aeb",
-      "code": "99215",
-      "payer": "United",
-      "flag": "wide_payer_range_review",
-      "ratio": 4458.71
+      "ratio": 101.83
     },
     {
       "id": "oria-methodist_hospital_of_sacramento-06c59",
       "code": "82310",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 116.88
+      "ratio": 121.45
     },
     {
       "id": "oria-methodist_hospital_of_sacramento-06c59",
@@ -44447,7 +46022,7 @@
       "code": "83036",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 249.95
+      "ratio": 259.91
     },
     {
       "id": "oria-methodist_hospital_of_sacramento-06c59",
@@ -44460,13 +46035,6 @@
       "id": "oria-methodist_hospital_of_sacramento-06c59",
       "code": "83036",
       "payer": "Healthsmart",
-      "flag": "wide_payer_range_review",
-      "ratio": 108.8
-    },
-    {
-      "id": "oria-methodist_hospital_of_sacramento-06c59",
-      "code": "83036",
-      "payer": "Kaiser Permanente",
       "flag": "wide_payer_range_review",
       "ratio": 108.8
     },
@@ -44503,7 +46071,14 @@
       "code": "84439",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 219.35
+      "ratio": 228.05
+    },
+    {
+      "id": "oria-methodist_hospital_of_sacramento-06c59",
+      "code": "99285",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.42
     },
     {
       "id": "oria-brownfield_regional_medical_center-59ca1",
@@ -51498,6 +53073,27 @@
     },
     {
       "id": "oria-catawba_valley_health_system-d2908",
+      "code": "76856",
+      "payer": "MedCost",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.0
+    },
+    {
+      "id": "oria-catawba_valley_health_system-d2908",
+      "code": "80076",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.75
+    },
+    {
+      "id": "oria-catawba_valley_health_system-d2908",
+      "code": "84550",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.5
+    },
+    {
+      "id": "oria-catawba_valley_health_system-d2908",
       "code": "93970",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
@@ -51530,6 +53126,13 @@
       "payer": "MedCost",
       "flag": "wide_payer_range_review",
       "ratio": 230.33
+    },
+    {
+      "id": "oria-catawba_valley_health_system-d2908",
+      "code": "93970",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 189.0
     },
     {
       "id": "oria-catawba_valley_health_system-d2908",
@@ -51570,20 +53173,6 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 226.72
-    },
-    {
-      "id": "oria-grove_city_hospital-25a5d",
-      "code": "47562",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 100.53
-    },
-    {
-      "id": "oria-grove_city_hospital-25a5d",
-      "code": "49505",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 113.72
     },
     {
       "id": "upmc-washington",
@@ -57483,21 +59072,35 @@
       "code": "71250",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 541.15
+      "ratio": 672.28
     },
     {
       "id": "penn-medicine-princeton-health",
       "code": "71250",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 120.21
+      "ratio": 119.3
     },
     {
       "id": "penn-medicine-princeton-health",
       "code": "71250",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 649.64
+      "ratio": 807.06
+    },
+    {
+      "id": "penn-medicine-princeton-health",
+      "code": "72131",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.19
+    },
+    {
+      "id": "penn-medicine-princeton-health",
+      "code": "74176",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.93
     },
     {
       "id": "doylestown-hospital",
@@ -60894,108 +62497,45 @@
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "19083",
-      "payer": "First Health",
+      "code": "72156",
+      "payer": "Oscar",
       "flag": "wide_payer_range_review",
-      "ratio": 2764.8
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "19083",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 2738.09
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "77063",
-      "payer": "First Health",
-      "flag": "wide_payer_range_review",
-      "ratio": 122.4
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "77063",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 121.22
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "77066",
-      "payer": "First Health",
-      "flag": "wide_payer_range_review",
-      "ratio": 663.3
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "77066",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 656.89
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "77067",
-      "payer": "First Health",
-      "flag": "wide_payer_range_review",
-      "ratio": 512.1
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "77067",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 507.15
+      "ratio": 100.0
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
       "code": "80061",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 118.52
+      "ratio": 121.29
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
       "code": "82306",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 106.01
+      "ratio": 112.37
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
       "code": "82306",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 110.5
+      "ratio": 107.35
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
       "code": "83036",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 105.24
+      "ratio": 107.67
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
       "code": "84478",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 218.07
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "84478",
-      "payer": "First Health",
-      "flag": "wide_payer_range_review",
-      "ratio": 176.51
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "84478",
-      "payer": "Healthsmart",
-      "flag": "wide_payer_range_review",
-      "ratio": 175.98
+      "ratio": 222.91
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
@@ -61007,9 +62547,9 @@
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
       "code": "84478",
-      "payer": "MultiPlan",
+      "payer": "Oscar",
       "flag": "wide_payer_range_review",
-      "ratio": 176.06
+      "ratio": 176.27
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
@@ -61023,21 +62563,14 @@
       "code": "85610",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 101.59
+      "ratio": 119.51
     },
     {
       "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
       "code": "96372",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 146.03
-    },
-    {
-      "id": "oria-st_joseph_s_medical_center_of_stockton-dbb71",
-      "code": "99202",
-      "payer": "United",
-      "flag": "wide_payer_range_review",
-      "ratio": 174.45
+      "ratio": 128.04
     },
     {
       "id": "oria-anmed_health_cannon-d537c",
@@ -62584,49 +64117,42 @@
       "code": "80061",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 139.99
+      "ratio": 125.21
     },
     {
       "id": "oria-northridge_hospital_medical_center-746f7",
       "code": "80061",
-      "payer": "Healthsmart",
+      "payer": "MHN",
       "flag": "wide_payer_range_review",
-      "ratio": 115.65
+      "ratio": 110.0
     },
     {
       "id": "oria-northridge_hospital_medical_center-746f7",
       "code": "80061",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 115.75
+      "ratio": 110.0
     },
     {
       "id": "oria-northridge_hospital_medical_center-746f7",
       "code": "80061",
-      "payer": "Medicare",
+      "payer": "Oscar",
       "flag": "wide_payer_range_review",
-      "ratio": 115.75
-    },
-    {
-      "id": "oria-northridge_hospital_medical_center-746f7",
-      "code": "80061",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 115.75
+      "ratio": 110.0
     },
     {
       "id": "oria-northridge_hospital_medical_center-746f7",
       "code": "80061",
       "payer": "US Behavioral Health",
       "flag": "wide_payer_range_review",
-      "ratio": 115.75
+      "ratio": 110.0
     },
     {
       "id": "oria-northridge_hospital_medical_center-746f7",
-      "code": "99202",
-      "payer": "United",
+      "code": "84478",
+      "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 126.33
+      "ratio": 102.96
     },
     {
       "id": "oria-anderson_hospital-e952f",
@@ -65577,14 +67103,14 @@
       "code": "80053",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 107.03
+      "ratio": 109.06
     },
     {
       "id": "oria-st_elizabeth_community_hospital-1c6a5",
       "code": "81001",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 122.21
+      "ratio": 124.31
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
@@ -79212,24 +80738,17 @@
     },
     {
       "id": "oria-mercy_medical_center_merced-b8b5a",
-      "code": "59025",
-      "payer": "United",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.49
-    },
-    {
-      "id": "oria-mercy_medical_center_merced-b8b5a",
       "code": "84153",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 110.0
+      "ratio": 126.5
     },
     {
       "id": "oria-mercy_medical_center_merced-b8b5a",
       "code": "84153",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 100.59
+      "ratio": 112.69
     },
     {
       "id": "oria-prisma_health_greer_memorial_hospital-16038",
@@ -79269,14 +80788,21 @@
       "code": "82310",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 107.77
+      "ratio": 118.94
     },
     {
       "id": "oria-mercy_san_juan_medical_center-7b3d3",
       "code": "83036",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 231.64
+      "ratio": 253.87
+    },
+    {
+      "id": "oria-mercy_san_juan_medical_center-7b3d3",
+      "code": "83036",
+      "payer": "Connected Care",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.8
     },
     {
       "id": "oria-mercy_san_juan_medical_center-7b3d3",
@@ -79339,7 +80865,14 @@
       "code": "84439",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 203.02
+      "ratio": 222.44
+    },
+    {
+      "id": "oria-mercy_san_juan_medical_center-7b3d3",
+      "code": "99285",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.42
     },
     {
       "id": "jefferson-frankford-hospital",
@@ -80750,16 +82283,23 @@
     {
       "id": "oria-woodland_memorial_hospital-a06a9",
       "code": "83036",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.39
+    },
+    {
+      "id": "oria-woodland_memorial_hospital-a06a9",
+      "code": "83036",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 176.8
+      "ratio": 169.03
     },
     {
       "id": "oria-woodland_memorial_hospital-a06a9",
       "code": "83036",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 145.07
+      "ratio": 145.95
     },
     {
       "id": "oria-woodland_memorial_hospital-a06a9",
@@ -80843,14 +82383,14 @@
       "code": "84439",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 155.16
+      "ratio": 148.34
     },
     {
       "id": "oria-woodland_memorial_hospital-a06a9",
       "code": "84439",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 127.03
+      "ratio": 127.78
     },
     {
       "id": "oria-woodland_memorial_hospital-a06a9",
@@ -80871,14 +82411,14 @@
       "code": "99284",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 204.95
+      "ratio": 219.5
     },
     {
       "id": "oria-woodland_memorial_hospital-a06a9",
       "code": "99285",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 240.08
+      "ratio": 257.12
     },
     {
       "id": "oria-coast_plaza_hospital-a03de",
@@ -126167,41 +127707,6 @@
     },
     {
       "id": "oria-mercy_medical_center_redding-5b623",
-      "code": "36415",
-      "payer": "Cigna",
-      "flag": "wide_payer_range_review",
-      "ratio": 500.0
-    },
-    {
-      "id": "oria-mercy_medical_center_redding-5b623",
-      "code": "36415",
-      "payer": "Coventry",
-      "flag": "wide_payer_range_review",
-      "ratio": 500.0
-    },
-    {
-      "id": "oria-mercy_medical_center_redding-5b623",
-      "code": "36415",
-      "payer": "Health Net",
-      "flag": "wide_payer_range_review",
-      "ratio": 538.89
-    },
-    {
-      "id": "oria-mercy_medical_center_redding-5b623",
-      "code": "36415",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 101.0
-    },
-    {
-      "id": "oria-mercy_medical_center_redding-5b623",
-      "code": "36415",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 544.44
-    },
-    {
-      "id": "oria-mercy_medical_center_redding-5b623",
       "code": "81001",
       "payer": "Coventry",
       "flag": "wide_payer_range_review",
@@ -126212,7 +127717,7 @@
       "code": "81001",
       "payer": "Health Net",
       "flag": "wide_payer_range_review",
-      "ratio": 125.34
+      "ratio": 125.55
     },
     {
       "id": "oria-mercy_medical_center_redding-5b623",
@@ -126220,13 +127725,6 @@
       "payer": "MultiPlan",
       "flag": "wide_payer_range_review",
       "ratio": 125.41
-    },
-    {
-      "id": "oria-mercy_medical_center_redding-5b623",
-      "code": "99202",
-      "payer": "United",
-      "flag": "wide_payer_range_review",
-      "ratio": 143.42
     },
     {
       "id": "oria-willamette_valley_medical_center-eebb2",
@@ -127472,10 +128970,24 @@
     },
     {
       "id": "oria-mercy_general_hospital-4ff7a",
+      "code": "82310",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.32
+    },
+    {
+      "id": "oria-mercy_general_hospital-4ff7a",
       "code": "83036",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 168.99
+      "ratio": 229.69
+    },
+    {
+      "id": "oria-mercy_general_hospital-4ff7a",
+      "code": "83036",
+      "payer": "Connected Care",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.8
     },
     {
       "id": "oria-mercy_general_hospital-4ff7a",
@@ -127488,13 +129000,6 @@
       "id": "oria-mercy_general_hospital-4ff7a",
       "code": "83036",
       "payer": "Healthsmart",
-      "flag": "wide_payer_range_review",
-      "ratio": 108.8
-    },
-    {
-      "id": "oria-mercy_general_hospital-4ff7a",
-      "code": "83036",
-      "payer": "Kaiser Permanente",
       "flag": "wide_payer_range_review",
       "ratio": 108.8
     },
@@ -127531,7 +129036,14 @@
       "code": "84439",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 148.12
+      "ratio": 201.53
+    },
+    {
+      "id": "oria-mercy_general_hospital-4ff7a",
+      "code": "99285",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.42
     },
     {
       "id": "upmc-passavant-cranberry",
@@ -137040,14 +138552,14 @@
       "code": "11042",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 123.15
+      "ratio": 135.82
     },
     {
       "id": "penn-medicine-chester-county-hospital",
       "code": "59025",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 394.29
+      "ratio": 406.12
     },
     {
       "id": "penn-medicine-chester-county-hospital",
@@ -137061,7 +138573,14 @@
       "code": "83735",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 145.02
+      "ratio": 160.2
+    },
+    {
+      "id": "penn-medicine-chester-county-hospital",
+      "code": "94010",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.67
     },
     {
       "id": "oria-hospital_service_district_no_2_of_the_parish_of_beauregard_state_of_louisiana_db-b9fdb",
@@ -141000,55 +142519,6 @@
       "ratio": 190.79
     },
     {
-      "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
-      "code": "36415",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 2123.06
-    },
-    {
-      "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
-      "code": "82306",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 111.0
-    },
-    {
-      "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
-      "code": "82607",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 157.8
-    },
-    {
-      "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
-      "code": "82728",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 107.33
-    },
-    {
-      "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
-      "code": "84153",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 158.4
-    },
-    {
-      "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
-      "code": "84443",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 171.0
-    },
-    {
-      "id": "oria-glendale_memorial_hospital_and_health_center-135bb",
-      "code": "85610",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 117.31
-    },
-    {
       "id": "oria-unity_health_white_county_medical_center-ccddc",
       "flag": "source_over_365_days_old",
       "age_days": 608
@@ -143518,6 +144988,20 @@
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "36415",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.46
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "36415",
+      "payer": "ChineseCommunity",
+      "flag": "wide_payer_range_review",
+      "ratio": 151.09
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "36415",
       "payer": "Connected Care",
       "flag": "wide_payer_range_review",
       "ratio": 151.09
@@ -143539,14 +145023,14 @@
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "36415",
-      "payer": "Medicare",
+      "payer": "Multiplan",
       "flag": "wide_payer_range_review",
-      "ratio": 2018.26
+      "ratio": 151.09
     },
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "36415",
-      "payer": "Multiplan",
+      "payer": "Oscar",
       "flag": "wide_payer_range_review",
       "ratio": 151.09
     },
@@ -143623,23 +145107,37 @@
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "82306",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 219.07
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
+      "payer": "ChineseCommunity",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.88
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
       "payer": "Connected Care",
       "flag": "wide_payer_range_review",
-      "ratio": 164.12
+      "ratio": 155.88
     },
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "82306",
       "payer": "Healthsmart",
       "flag": "wide_payer_range_review",
-      "ratio": 164.12
+      "ratio": 155.88
     },
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "82306",
       "payer": "Kaiser Permanente",
       "flag": "wide_payer_range_review",
-      "ratio": 164.12
+      "ratio": 155.88
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -143653,7 +145151,14 @@
       "code": "82306",
       "payer": "Multiplan",
       "flag": "wide_payer_range_review",
-      "ratio": 164.13
+      "ratio": 155.88
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82306",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.88
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -143672,16 +145177,107 @@
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "82607",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 177.07
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82607",
+      "payer": "ChineseCommunity",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82607",
+      "payer": "Connected Care",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82607",
+      "payer": "Healthsmart",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82607",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82607",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 1216.58
+      "ratio": 3669.2
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82607",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82607",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.8
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82728",
+      "payer": "ChineseCommunity",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.0
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82728",
+      "payer": "Connected Care",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.0
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82728",
+      "payer": "Healthsmart",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.0
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82728",
+      "payer": "Kaiser Permanente",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.0
     },
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "82728",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 1346.0
+      "ratio": 2038.44
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82728",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.0
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "82728",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.0
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -143693,23 +145289,37 @@
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.95
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
+      "payer": "ChineseCommunity",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.0
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
       "payer": "Connected Care",
       "flag": "wide_payer_range_review",
-      "ratio": 175.8
+      "ratio": 167.0
     },
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "83036",
       "payer": "Healthsmart",
       "flag": "wide_payer_range_review",
-      "ratio": 175.8
+      "ratio": 167.0
     },
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "83036",
       "payer": "Kaiser Permanente",
       "flag": "wide_payer_range_review",
-      "ratio": 175.8
+      "ratio": 167.0
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -143723,7 +145333,14 @@
       "code": "83036",
       "payer": "Multiplan",
       "flag": "wide_payer_range_review",
-      "ratio": 175.8
+      "ratio": 167.0
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "83036",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.0
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -143756,6 +145373,13 @@
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 217.78
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "84153",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 3669.2
@@ -143773,6 +145397,13 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 2033.92
+    },
+    {
+      "id": "oria-sequoia_hospital-a566c",
+      "code": "84443",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.36
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -143849,7 +145480,7 @@
       "code": "87591",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 1834.6
+      "ratio": 522.83
     },
     {
       "id": "oria-sequoia_hospital-a566c",
@@ -143863,14 +145494,14 @@
       "code": "88112",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 234.12
+      "ratio": 255.48
     },
     {
       "id": "oria-sequoia_hospital-a566c",
       "code": "88305",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 234.12
+      "ratio": 287.28
     },
     {
       "id": "mercy-family-medicine-elsberry",
@@ -143886,13 +145517,6 @@
     {
       "id": "oria-saint_joseph_medical_center-5d698",
       "flag": "unresolved_geography"
-    },
-    {
-      "id": "oria-community_hospital_of_san_bernardino-2f68c",
-      "code": "99202",
-      "payer": "United",
-      "flag": "wide_payer_range_review",
-      "ratio": 123.61
     },
     {
       "id": "oria-frio_regional_hospital-b8ffc",
@@ -143927,38 +145551,10 @@
     },
     {
       "id": "oria-st_john_s_camarillo_hospital-55bcb",
-      "code": "82306",
-      "payer": "Anthem BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 118.06
-    },
-    {
-      "id": "oria-st_john_s_camarillo_hospital-55bcb",
       "code": "82607",
-      "payer": "Anthem BCBS",
+      "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 220.74
-    },
-    {
-      "id": "oria-st_john_s_camarillo_hospital-55bcb",
-      "code": "83036",
-      "payer": "Anthem BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 132.59
-    },
-    {
-      "id": "oria-st_john_s_camarillo_hospital-55bcb",
-      "code": "84153",
-      "payer": "Anthem BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 161.48
-    },
-    {
-      "id": "oria-st_john_s_camarillo_hospital-55bcb",
-      "code": "84443",
-      "payer": "Anthem BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 166.4
+      "ratio": 106.31
     },
     {
       "id": "oria-merit_health_river_region-89398",
@@ -144262,7 +145858,14 @@
       "code": "83036",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 181.99
+      "ratio": 177.3
+    },
+    {
+      "id": "oria-mercy_hospital_of_folsom-4f9f5",
+      "code": "83036",
+      "payer": "Connected Care",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.8
     },
     {
       "id": "oria-mercy_hospital_of_folsom-4f9f5",
@@ -144275,13 +145878,6 @@
       "id": "oria-mercy_hospital_of_folsom-4f9f5",
       "code": "83036",
       "payer": "Healthsmart",
-      "flag": "wide_payer_range_review",
-      "ratio": 108.8
-    },
-    {
-      "id": "oria-mercy_hospital_of_folsom-4f9f5",
-      "code": "83036",
-      "payer": "Kaiser Permanente",
       "flag": "wide_payer_range_review",
       "ratio": 108.8
     },
@@ -144325,7 +145921,14 @@
       "code": "84439",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 159.7
+      "ratio": 155.57
+    },
+    {
+      "id": "oria-mercy_hospital_of_folsom-4f9f5",
+      "code": "99285",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.42
     },
     {
       "id": "oria-continuing_care_hospital-3ee46",
@@ -157876,34 +159479,6 @@
       "ratio": 137.86
     },
     {
-      "id": "oria-st_bernardine_medical_center-ae67c",
-      "code": "84153",
-      "payer": "First Health",
-      "flag": "wide_payer_range_review",
-      "ratio": 101.8
-    },
-    {
-      "id": "oria-st_bernardine_medical_center-ae67c",
-      "code": "84153",
-      "payer": "Healthsmart",
-      "flag": "wide_payer_range_review",
-      "ratio": 101.8
-    },
-    {
-      "id": "oria-st_bernardine_medical_center-ae67c",
-      "code": "84153",
-      "payer": "Kaiser Permanente",
-      "flag": "wide_payer_range_review",
-      "ratio": 101.8
-    },
-    {
-      "id": "oria-st_bernardine_medical_center-ae67c",
-      "code": "84153",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 101.8
-    },
-    {
       "id": "oria-ummc_holmes_county-8de9f",
       "flag": "source_update_date_unparseable",
       "value": null
@@ -160738,6 +162313,27 @@
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
       "ratio": 12929.0
+    },
+    {
+      "id": "oria-french_hospital-a9da1",
+      "code": "80053",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.43
+    },
+    {
+      "id": "oria-french_hospital-a9da1",
+      "code": "83036",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.84
+    },
+    {
+      "id": "oria-french_hospital-a9da1",
+      "code": "84153",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 115.02
     },
     {
       "id": "oria-chi_st_luke_s_health_memorial_san_augustine-a5156",
@@ -177932,6 +179528,41 @@
       "ratio": 169.08
     },
     {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 256.4
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "42820",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 332.81
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "43235",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.42
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "43239",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.57
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "43249",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.24
+    },
+    {
       "id": "oria-gadsden_regional_medical_center-f20ce",
       "code": "36415",
       "payer": "Aetna",
@@ -180099,38 +181730,17 @@
     },
     {
       "id": "oria-st_john_s_regional_medical_center-06871",
-      "code": "82306",
+      "code": "82607",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 118.06
+      "ratio": 108.36
     },
     {
       "id": "oria-st_john_s_regional_medical_center-06871",
       "code": "82607",
-      "payer": "Anthem BCBS",
+      "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 220.74
-    },
-    {
-      "id": "oria-st_john_s_regional_medical_center-06871",
-      "code": "83036",
-      "payer": "Anthem BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 132.59
-    },
-    {
-      "id": "oria-st_john_s_regional_medical_center-06871",
-      "code": "84153",
-      "payer": "Anthem BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 161.48
-    },
-    {
-      "id": "oria-st_john_s_regional_medical_center-06871",
-      "code": "84443",
-      "payer": "Anthem BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 166.4
+      "ratio": 106.31
     },
     {
       "id": "oria-westchester_medical_center-2d701",
