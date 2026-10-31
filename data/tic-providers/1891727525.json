@@ -1,0 +1,25 @@
+{
+  "npi": "1891727525",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:21:43Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1891727525",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ALFONSO",
+      "last_name": "BULLOCK",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "261A BROAD AVE.",
+        "city": "PALISADES PARK",
+        "state": "NJ",
+        "postal_code": "07650"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1821130238",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:20:27Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1821130238",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "STEVEN",
+      "last_name": "YOO",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "9042 GARDEN GROVE BLVD STE 110",
+        "city": "GARDEN GROVE",
+        "state": "CA",
+        "postal_code": "928441370"
+      },
+      "last_updated": "2011-06-21"
+    }
+  ]
+}

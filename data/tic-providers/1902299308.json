@@ -1,0 +1,25 @@
+{
+  "npi": "1902299308",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:21:57Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1902299308",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CHONG",
+      "last_name": "SO",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2120 W 8TH ST",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postal_code": "900574019"
+      },
+      "last_updated": "2015-03-09"
+    }
+  ]
+}

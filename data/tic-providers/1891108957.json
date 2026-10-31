@@ -1,0 +1,25 @@
+{
+  "npi": "1891108957",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:21:38Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1891108957",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "TYLER",
+      "last_name": "BRADFORD",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "3165 MYRTLE AVE STE 7",
+        "city": "GRANITE CITY",
+        "state": "IL",
+        "postal_code": "620405012"
+      },
+      "last_updated": "2023-04-12"
+    }
+  ]
+}

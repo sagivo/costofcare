@@ -1,0 +1,25 @@
+{
+  "npi": "1891874996",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:21:48Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1891874996",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DAVID",
+      "last_name": "EDGE",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "1528 US HIGHWAY 395 N",
+        "city": "GARDNERVILLE",
+        "state": "NV",
+        "postal_code": "894105265"
+      },
+      "last_updated": "2017-02-09"
+    }
+  ]
+}

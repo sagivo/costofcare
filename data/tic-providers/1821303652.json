@@ -1,0 +1,25 @@
+{
+  "npi": "1821303652",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:20:33Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1821303652",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SHANE",
+      "last_name": "DURRANT",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "14230 NE 20TH ST",
+        "city": "BELLEVUE",
+        "state": "WA",
+        "postal_code": "980073745"
+      },
+      "last_updated": "2015-12-02"
+    }
+  ]
+}

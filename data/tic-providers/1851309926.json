@@ -1,0 +1,25 @@
+{
+  "npi": "1851309926",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:20:57Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1851309926",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DAVID",
+      "last_name": "HARTIG",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "120 CARLYLE PLAZA DR",
+        "city": "BELLEVILLE",
+        "state": "IL",
+        "postal_code": "622216678"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

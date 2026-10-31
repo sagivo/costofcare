@@ -1,0 +1,25 @@
+{
+  "npi": "1881891018",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:21:37Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1881891018",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "NATHAN",
+      "last_name": "ANDERSON",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2856 E FORT LOWELL RD",
+        "city": "TUCSON",
+        "state": "AZ",
+        "postal_code": "857161518"
+      },
+      "last_updated": "2021-08-18"
+    }
+  ]
+}

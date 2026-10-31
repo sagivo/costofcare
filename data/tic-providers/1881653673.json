@@ -1,0 +1,25 @@
+{
+  "npi": "1881653673",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-10-31T16:21:34Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1881653673",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "STEPHEN",
+      "last_name": "KOOS",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "1927 COOPER FOSTER PARK RD",
+        "city": "AMHERST",
+        "state": "OH",
+        "postal_code": "440011207"
+      },
+      "last_updated": "2008-10-09"
+    }
+  ]
+}
