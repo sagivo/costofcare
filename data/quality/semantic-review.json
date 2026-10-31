@@ -1,18 +1,133 @@
 {
-  "generated_at": "2026-10-31T02:02:24.389785+00:00",
-  "records_scanned": 825669,
-  "flag_counts": {},
-  "review_examples": [],
+  "generated_at": "2026-10-31T16:17:18.823680+00:00",
+  "records_scanned": 1910265,
+  "flag_counts": {
+    "zero_published_amount_review": 14
+  },
+  "review_examples": [
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25675,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|gross",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25675,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|discounted_cash",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25675,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|min",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25675,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|max",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25676,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|gross",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25676,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|discounted_cash",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25676,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|min",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25676,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|max",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25679,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|gross",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25679,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|discounted_cash",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25679,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|min",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25679,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|max",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25691,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|min",
+      "raw_value": "0"
+    },
+    {
+      "flag": "zero_published_amount_review",
+      "source_id": "oria-north_arkansas_regional_medical_center-980b0",
+      "source_record_ordinal": 25691,
+      "source_sha256": "bf710e434619734586ba5db371f81d69dcf3f343c48ac9c0dd3f224326415224",
+      "field": "standard_charge|max",
+      "raw_value": "0"
+    }
+  ],
   "populated_qualifier_counts": {
-    "setting": 822847,
-    "modifiers": 206019,
-    "billing_class": 614438,
-    "payer_name": 795834,
-    "plan_name": 789741,
-    "json_payer_name": 89609,
-    "json_plan_name": 89609,
-    "json_methodology": 89609,
-    "json_source_records": 7264
+    "setting": 1910266,
+    "payer_name": 1870036,
+    "plan_name": 1870036,
+    "modifiers": 535542,
+    "billing_class": 1649240,
+    "json_payer_name": 271852,
+    "json_plan_name": 271852,
+    "json_methodology": 271852,
+    "json_source_records": 19263
   },
   "coverage_note": {
     "local_blob_files": 115,
