@@ -1,41 +1,22 @@
 {
-  "generated_at": "2026-10-30T21:46:16.441430+00:00",
-  "records_scanned": 474889,
-  "flag_counts": {
-    "large_published_amount_review": 2
-  },
-  "review_examples": [
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-lafollette_medical_center-e040b",
-      "source_record_ordinal": 42178,
-      "source_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
-      "field": "standard_charge|max",
-      "raw_value": "1100886.93"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-lafollette_medical_center-e040b",
-      "source_record_ordinal": 42178,
-      "source_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
-      "field": "standard_charge|Beech Street Work Comp TN|Beech Street Work Comp TN|negotiated_dollar",
-      "raw_value": "1100886.93"
-    }
-  ],
+  "generated_at": "2026-10-31T02:02:24.389785+00:00",
+  "records_scanned": 825669,
+  "flag_counts": {},
+  "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 475792,
-    "billing_class": 324779,
-    "payer_name": 432641,
-    "plan_name": 432641,
-    "modifiers": 132015,
-    "json_payer_name": 90473,
-    "json_plan_name": 90473,
-    "json_methodology": 90473,
-    "json_source_records": 8409
+    "setting": 822847,
+    "modifiers": 206019,
+    "billing_class": 614438,
+    "payer_name": 795834,
+    "plan_name": 789741,
+    "json_payer_name": 89609,
+    "json_plan_name": 89609,
+    "json_methodology": 89609,
+    "json_source_records": 7264
   },
   "coverage_note": {
-    "local_blob_files": 117,
-    "remote_only_files": 2637,
+    "local_blob_files": 115,
+    "remote_only_files": 2639,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-30T21:46:16.466748+00:00",
+  "generated_at": "2026-10-31T02:02:24.415678+00:00",
   "normalized_files": 2754,
   "parser_versions": {
-    "row-preserving-1.2": 811,
-    "row-preserving-1.3": 1942,
+    "row-preserving-1.3": 2057,
+    "row-preserving-1.2": 696,
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1363,
-    "1_to_7_days": 1270,
-    "within_24h": 121
+    "within_24h": 236,
+    "1_to_7_days": 1150,
+    "over_7_days": 1368
   },
   "failed_attempt_classes": {
-    "other": 3,
+    "other": 5,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -178,13 +178,6 @@
       "summary_sha256": "49fc29d1513c6be4d8c91f2f549f298431193e4d21b22b54f16bb027ad63787e",
       "normalized_extracted_at": "2026-10-22T19:57:58Z",
       "summary_extracted_at": "2026-10-30T17:29:24Z"
-    },
-    {
-      "source_url": "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsecure.claraprice.net%2fprice-transparency%2fMUXR-1741132099318%2fmachine-readable%2f756000602_nacogdoches-memorial-hospital_standardcharges.json&c=E,1,QCFikZbxV7FRDVARBPGPRRUyWFLqp2p5kscCbtmUQBbhpiRqcGUW5nqCKBIhkgo69LvxBvxN9S5Tg-7xeKmyhEfopv1Ee864dNyMQ_DHwH0MNLdG7BKd&typo=1",
-      "normalized_sha256": "42a62c4b0696d44ae4f0dc2066756742d6f28fe3096a570da6482d6e5aad2352",
-      "summary_sha256": "10d89c00d55308e879baa11c2f0ddf0ebfac08c003cb13b133ba464e74e4a8a2",
-      "normalized_extracted_at": "2026-10-22T16:51:27Z",
-      "summary_extracted_at": "2026-10-30T16:40:32Z"
     },
     {
       "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/240795411_evangelical-community-hospital_standardcharges.csv",
