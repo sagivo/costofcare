@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-31T16:15:12.995755+00:00",
+  "generated_at": "2026-10-31T18:10:26.853282+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2753,
     "distinct_successful_mrf_urls": 2753,
-    "extracted_within_24h": 2396,
-    "sources_over_365_days_old": 161,
+    "extracted_within_24h": 2720,
+    "sources_over_365_days_old": 154,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 356858,
+    "hospital_code_aggregates": 356050,
     "row_preserving_records": 17719397
   },
   "status_counts": {
@@ -74,174 +74,174 @@
     "PR": 3
   },
   "hospital_entries_per_code": {
-    "11042": 2400,
+    "11042": 2401,
     "12001": 2336,
-    "20610": 2479,
-    "55700": 1647,
-    "70450": 2526,
-    "70460": 2457,
-    "70486": 2499,
-    "70491": 2501,
-    "70544": 2381,
-    "70551": 2436,
-    "70552": 2307,
-    "70553": 2436,
-    "71045": 2554,
-    "71046": 2555,
-    "71250": 2508,
-    "71260": 2503,
-    "71275": 2494,
-    "72125": 2503,
-    "72131": 2498,
-    "72141": 2429,
-    "72146": 2428,
-    "72148": 2442,
-    "72149": 2282,
-    "72156": 2409,
-    "72158": 2421,
-    "73218": 2317,
-    "73221": 2371,
-    "73222": 2195,
-    "73700": 2449,
-    "73718": 2342,
-    "73721": 2369,
-    "73722": 2154,
-    "73723": 2320,
-    "74150": 2495,
-    "74160": 2475,
-    "74176": 2512,
-    "74177": 2518,
-    "76536": 2504,
-    "76642": 2308,
-    "76700": 2539,
-    "76775": 2394,
-    "76830": 2477,
-    "76856": 2507,
-    "80048": 2559,
-    "80053": 2564,
-    "80061": 2556,
-    "80069": 2507,
-    "80076": 2551,
-    "81001": 2511,
-    "82947": 2521,
-    "83036": 2571,
-    "84443": 2568,
-    "85025": 2552,
-    "85027": 2493,
-    "85610": 2574,
-    "86580": 2042,
-    "87804": 2156,
-    "90471": 2409,
-    "90686": 1523,
-    "93303": 1691,
-    "93306": 2457,
-    "93880": 2480,
-    "93970": 2502,
-    "93971": 2478,
-    "93978": 2104,
-    "94640": 2456,
-    "96372": 2495,
-    "97110": 2506,
-    "97161": 2469,
-    "97530": 2496,
-    "99202": 1910,
-    "99203": 1916,
-    "99204": 1956,
-    "99205": 1928,
-    "99212": 2014,
-    "99213": 2048,
-    "99214": 2050,
-    "99215": 1991,
-    "99281": 2382,
-    "99282": 2390,
-    "99283": 2398,
-    "99284": 2401,
-    "99285": 2404,
-    "19083": 2041,
-    "27130": 1668,
-    "27447": 1702,
-    "29827": 1700,
-    "29848": 1422,
-    "29881": 1779,
-    "30520": 1565,
-    "36415": 2510,
-    "43235": 2128,
-    "43239": 2131,
-    "43249": 1923,
-    "45378": 2100,
-    "45380": 2098,
-    "45384": 1806,
-    "45385": 2085,
-    "47562": 1864,
-    "49505": 1862,
-    "52353": 1512,
-    "58150": 1295,
-    "59025": 2020,
-    "59400": 1051,
-    "59510": 1003,
-    "62323": 2064,
-    "64483": 2028,
-    "64721": 1814,
-    "69436": 1540,
-    "76805": 2360,
-    "77014": 1234,
-    "77063": 2083,
-    "77065": 2107,
-    "77066": 2161,
-    "77067": 2237,
-    "77080": 2287,
-    "77385": 1219,
-    "78452": 2241,
-    "78815": 1759,
-    "80074": 2470,
-    "81002": 2145,
-    "82306": 2540,
-    "82310": 2508,
-    "82565": 2529,
-    "82607": 2536,
-    "82728": 2534,
-    "83718": 2358,
-    "83735": 2553,
-    "84100": 2541,
-    "84132": 2541,
-    "84153": 2524,
-    "84295": 2528,
-    "84439": 2545,
-    "84478": 2515,
-    "84520": 2520,
-    "84550": 2530,
-    "85652": 2198,
-    "86140": 2530,
-    "87086": 2471,
-    "87491": 2472,
-    "87591": 2457,
-    "87635": 2443,
-    "88112": 2283,
-    "88175": 1802,
-    "88305": 2456,
-    "90791": 1612,
-    "90834": 1649,
-    "92557": 1271,
-    "93000": 1129,
-    "94010": 2380,
-    "95810": 1936,
-    "96413": 2097,
-    "99223": 1199,
-    "99232": 1210,
-    "99385": 1130,
-    "99395": 1126,
-    "G0121": 1675,
-    "G0439": 1091,
-    "42820": 1484,
-    "59410": 1008,
-    "59515": 1000,
-    "66984": 1492,
-    "90837": 1640,
-    "92004": 1054,
-    "92014": 1026,
-    "92134": 1112,
-    "93015": 899,
-    "E0601": 454
+    "20610": 2471,
+    "55700": 1640,
+    "70450": 2523,
+    "70460": 2455,
+    "70486": 2497,
+    "70491": 2499,
+    "70544": 2378,
+    "70551": 2433,
+    "70552": 2304,
+    "70553": 2433,
+    "71045": 2551,
+    "71046": 2552,
+    "71250": 2505,
+    "71260": 2500,
+    "71275": 2490,
+    "72125": 2499,
+    "72131": 2494,
+    "72141": 2422,
+    "72146": 2423,
+    "72148": 2435,
+    "72149": 2277,
+    "72156": 2404,
+    "72158": 2416,
+    "73218": 2311,
+    "73221": 2364,
+    "73222": 2189,
+    "73700": 2443,
+    "73718": 2335,
+    "73721": 2362,
+    "73722": 2147,
+    "73723": 2313,
+    "74150": 2491,
+    "74160": 2471,
+    "74176": 2507,
+    "74177": 2513,
+    "76536": 2500,
+    "76642": 2302,
+    "76700": 2535,
+    "76775": 2391,
+    "76830": 2474,
+    "76856": 2504,
+    "80048": 2555,
+    "80053": 2560,
+    "80061": 2552,
+    "80069": 2504,
+    "80076": 2548,
+    "81001": 2506,
+    "82947": 2517,
+    "83036": 2566,
+    "84443": 2562,
+    "85025": 2547,
+    "85027": 2489,
+    "85610": 2570,
+    "86580": 2036,
+    "87804": 2154,
+    "90471": 2405,
+    "90686": 1516,
+    "93303": 1685,
+    "93306": 2452,
+    "93880": 2475,
+    "93970": 2498,
+    "93971": 2474,
+    "93978": 2100,
+    "94640": 2452,
+    "96372": 2491,
+    "97110": 2500,
+    "97161": 2463,
+    "97530": 2490,
+    "99202": 1905,
+    "99203": 1911,
+    "99204": 1951,
+    "99205": 1923,
+    "99212": 2010,
+    "99213": 2044,
+    "99214": 2046,
+    "99215": 1987,
+    "99281": 2379,
+    "99282": 2387,
+    "99283": 2394,
+    "99284": 2397,
+    "99285": 2400,
+    "19083": 2033,
+    "27130": 1660,
+    "27447": 1694,
+    "29827": 1691,
+    "29848": 1413,
+    "29881": 1770,
+    "30520": 1556,
+    "36415": 2501,
+    "43235": 2119,
+    "43239": 2122,
+    "43249": 1914,
+    "45378": 2092,
+    "45380": 2090,
+    "45384": 1798,
+    "45385": 2077,
+    "47562": 1857,
+    "49505": 1856,
+    "52353": 1506,
+    "58150": 1290,
+    "59025": 2013,
+    "59400": 1046,
+    "59510": 998,
+    "62323": 2058,
+    "64483": 2023,
+    "64721": 1810,
+    "69436": 1537,
+    "76805": 2357,
+    "77014": 1229,
+    "77063": 2079,
+    "77065": 2103,
+    "77066": 2158,
+    "77067": 2234,
+    "77080": 2283,
+    "77385": 1215,
+    "78452": 2237,
+    "78815": 1755,
+    "80074": 2467,
+    "81002": 2140,
+    "82306": 2534,
+    "82310": 2504,
+    "82565": 2525,
+    "82607": 2532,
+    "82728": 2530,
+    "83718": 2354,
+    "83735": 2549,
+    "84100": 2537,
+    "84132": 2537,
+    "84153": 2519,
+    "84295": 2524,
+    "84439": 2541,
+    "84478": 2511,
+    "84520": 2516,
+    "84550": 2525,
+    "85652": 2194,
+    "86140": 2526,
+    "87086": 2465,
+    "87491": 2467,
+    "87591": 2452,
+    "87635": 2439,
+    "88112": 2278,
+    "88175": 1797,
+    "88305": 2452,
+    "90791": 1607,
+    "90834": 1644,
+    "92557": 1268,
+    "93000": 1122,
+    "94010": 2376,
+    "95810": 1929,
+    "96413": 2092,
+    "99223": 1196,
+    "99232": 1207,
+    "99385": 1126,
+    "99395": 1122,
+    "G0121": 1673,
+    "G0439": 1086,
+    "42820": 1474,
+    "59410": 1001,
+    "59515": 995,
+    "66984": 1489,
+    "90837": 1635,
+    "92004": 1051,
+    "92014": 1023,
+    "92134": 1109,
+    "93015": 894,
+    "E0601": 451
   },
   "qa_flags": [
     {
@@ -5102,27 +5102,6 @@
       "ratio": 120.82
     },
     {
-      "id": "oria-westfield_memorial_hospital_inc-69955",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 278.88
-    },
-    {
-      "id": "oria-westfield_memorial_hospital_inc-69955",
-      "code": "47562",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 123.66
-    },
-    {
-      "id": "oria-westfield_memorial_hospital_inc-69955",
-      "code": "69436",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 118.54
-    },
-    {
       "id": "oria-st_joseph_s_hospital_behavioral-36262",
       "code": "36415",
       "payer": "UnitedHealthcare",
@@ -6677,11 +6656,6 @@
       "ratio": 121.94
     },
     {
-      "id": "stephens-memorial-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 417
-    },
-    {
       "id": "oria-uab_medical_west-721e0",
       "code": "12001",
       "payer": "Cigna",
@@ -7128,27 +7102,6 @@
       "ratio": 190.79
     },
     {
-      "id": "oria-west_penn_hospital-fb1d2",
-      "code": "19083",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 142.27
-    },
-    {
-      "id": "oria-west_penn_hospital-fb1d2",
-      "code": "49505",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 147.47
-    },
-    {
-      "id": "oria-west_penn_hospital-fb1d2",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 113.18
-    },
-    {
       "id": "oria-columbus_springs_east-8414c",
       "flag": "source_over_365_days_old",
       "age_days": 403
@@ -7491,11 +7444,6 @@
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
       "ratio": 121.94
-    },
-    {
-      "id": "waldo-county-general-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 417
     },
     {
       "id": "sharp-chula-vista-medical-center",
@@ -16535,34 +16483,6 @@
     {
       "id": "oria-mercy_medical_center-5d0d3",
       "flag": "unresolved_geography"
-    },
-    {
-      "id": "oria-canonsburg_hospital-aa632",
-      "code": "19083",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 142.27
-    },
-    {
-      "id": "oria-canonsburg_hospital-aa632",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 226.72
-    },
-    {
-      "id": "oria-canonsburg_hospital-aa632",
-      "code": "47562",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 100.53
-    },
-    {
-      "id": "oria-canonsburg_hospital-aa632",
-      "code": "49505",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 137.94
     },
     {
       "id": "upmc-kane",
@@ -41027,41 +40947,6 @@
       "ratio": 178.91
     },
     {
-      "id": "oria-forbes_hospital-0323b",
-      "code": "19083",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 948.44
-    },
-    {
-      "id": "oria-forbes_hospital-0323b",
-      "code": "20610",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 502.12
-    },
-    {
-      "id": "oria-forbes_hospital-0323b",
-      "code": "29881",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 539.58
-    },
-    {
-      "id": "oria-forbes_hospital-0323b",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 226.72
-    },
-    {
-      "id": "oria-forbes_hospital-0323b",
-      "code": "47562",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 100.53
-    },
-    {
       "id": "oria-er_at_westlake-bfcd1",
       "code": "84443",
       "payer": "Cigna",
@@ -46099,15 +45984,731 @@
     },
     {
       "id": "oria-chandler_regional_medical_center-abd4b",
-      "code": "99281",
-      "payer": "United",
+      "code": "19083",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
-      "ratio": 150.35
+      "ratio": 125.2
     },
     {
-      "id": "lincoln-health",
-      "flag": "source_over_365_days_old",
-      "age_days": 417
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "19083",
+      "payer": "Medica",
+      "flag": "wide_payer_range_review",
+      "ratio": 149.46
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "19083",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.22
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "19083",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.21
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "19083",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 125.23
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "20610",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 152.8
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "20610",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 152.71
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "20610",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 152.77
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "20610",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 152.82
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "62323",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 252.0
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "62323",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 252.3
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "62323",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 252.07
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "62323",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 252.34
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "64483",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 348.99
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "64483",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 349.12
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "64483",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 348.75
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "64483",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 349.14
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70460",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.42
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70460",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.44
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70460",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.45
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70460",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.47
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70491",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.21
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70491",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.24
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70491",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.25
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70491",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.25
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70544",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.01
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70544",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.02
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70544",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.03
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70544",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.04
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70551",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.49
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70551",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.51
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70551",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.5
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70551",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.52
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70552",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.19
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70552",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.22
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70552",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.18
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70552",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 201.27
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70553",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.34
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70553",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.37
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70553",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.33
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "70553",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.43
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71260",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.33
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71260",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.35
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71260",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.36
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71260",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.38
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71275",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.14
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71275",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.13
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71275",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.14
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "71275",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.17
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72125",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.29
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72125",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.3
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72125",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.31
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72125",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.34
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72131",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.81
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72131",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.84
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72131",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.85
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72131",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.85
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72141",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.67
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72141",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.68
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72141",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.64
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72141",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.68
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72146",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.02
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72146",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.03
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72146",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.03
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72146",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.05
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72148",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.54
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72148",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.51
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72148",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.53
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72148",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.55
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72149",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.93
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72149",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.9
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72149",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.92
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72149",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 163.94
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72156",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 317.73
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72156",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 317.67
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72156",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 317.64
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72156",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 317.79
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72158",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 309.29
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72158",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 309.22
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72158",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 309.27
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "72158",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 309.31
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74160",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.83
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74160",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.83
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74160",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.82
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74160",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.84
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74176",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.68
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74176",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.67
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74176",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.66
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74176",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.69
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74177",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.27
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74177",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.28
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74177",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.27
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "74177",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.33
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "77080",
+      "payer": "Medica",
+      "flag": "wide_payer_range_review",
+      "ratio": 104.81
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "78452",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 281.11
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "78452",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 281.09
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "78452",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 281.06
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "78452",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 281.14
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "93306",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.49
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "93306",
+      "payer": "MultiPlan",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.61
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "93306",
+      "payer": "NHSI",
+      "flag": "wide_payer_range_review",
+      "ratio": 620.44
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "93306",
+      "payer": "Oscar",
+      "flag": "wide_payer_range_review",
+      "ratio": 621.43
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "93880",
+      "payer": "Medica",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.03
+    },
+    {
+      "id": "oria-chandler_regional_medical_center-abd4b",
+      "code": "93970",
+      "payer": "Medica",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.3
     },
     {
       "id": "prisma-health-baptist-parkridge-hospital",
@@ -49492,11 +50093,6 @@
       "payer": "WPPA Unified Health Plan",
       "flag": "wide_payer_range_review",
       "ratio": 3084.0
-    },
-    {
-      "id": "spring-harbor-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 445
     },
     {
       "id": "oria-randolph_health-bcd21",
@@ -53159,20 +53755,6 @@
       "id": "oria-lamb_healthcare_center-9575e",
       "flag": "source_update_date_unparseable",
       "value": null
-    },
-    {
-      "id": "oria-grove_city_hospital-25a5d",
-      "code": "19083",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 142.27
-    },
-    {
-      "id": "oria-grove_city_hospital-25a5d",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 226.72
     },
     {
       "id": "upmc-washington",
@@ -66681,11 +67263,6 @@
       "flag": "unresolved_geography"
     },
     {
-      "id": "mid-coast-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 417
-    },
-    {
       "id": "oria-detar_healthcare_system_north-5134b",
       "code": "80048",
       "payer": "Aetna",
@@ -74135,20 +74712,6 @@
       "id": "oria-jackson_county_hospital_district-528fb",
       "flag": "source_update_date_unparseable",
       "value": null
-    },
-    {
-      "id": "oria-jefferson_hospital-565ea",
-      "code": "19083",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 142.27
-    },
-    {
-      "id": "oria-jefferson_hospital-565ea",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 226.72
     },
     {
       "id": "oria-fairfield_medical_center-0eb1e",
@@ -91668,13 +92231,6 @@
       "ratio": 13019.0
     },
     {
-      "id": "oria-mercy_gilbert_medical_center-941b9",
-      "code": "99281",
-      "payer": "United",
-      "flag": "wide_payer_range_review",
-      "ratio": 130.21
-    },
-    {
       "id": "oria-dekalb_regional_medical_center-f5032",
       "code": "87635",
       "payer": "Aetna",
@@ -95368,11 +95924,6 @@
       "ratio": 114.43
     },
     {
-      "id": "pen-bay-medical-center",
-      "flag": "source_over_365_days_old",
-      "age_days": 417
-    },
-    {
       "id": "oria-aspirus_rhinelander_hospital-ab74c",
       "flag": "source_over_365_days_old",
       "age_days": 487
@@ -95418,41 +95969,6 @@
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
       "ratio": 125.27
-    },
-    {
-      "id": "oria-allegheny_valley_hospital-cfacb",
-      "code": "19083",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 142.27
-    },
-    {
-      "id": "oria-allegheny_valley_hospital-cfacb",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 226.72
-    },
-    {
-      "id": "oria-allegheny_valley_hospital-cfacb",
-      "code": "47562",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 100.53
-    },
-    {
-      "id": "oria-allegheny_valley_hospital-cfacb",
-      "code": "49505",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 134.95
-    },
-    {
-      "id": "oria-allegheny_valley_hospital-cfacb",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 103.49
     },
     {
       "id": "intermountain-health-lds-hospital",
@@ -112730,34 +113246,6 @@
       "ratio": 142.27
     },
     {
-      "id": "oria-allegheny_general_hospital-88bcb",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 226.72
-    },
-    {
-      "id": "oria-allegheny_general_hospital-88bcb",
-      "code": "47562",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 100.53
-    },
-    {
-      "id": "oria-allegheny_general_hospital-88bcb",
-      "code": "49505",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 148.9
-    },
-    {
-      "id": "oria-allegheny_general_hospital-88bcb",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 114.27
-    },
-    {
       "id": "oria-umass_memorial_health_harrington_at_webster-ee4f4",
       "code": "20610",
       "payer": "Medicaid",
@@ -115439,6 +115927,48 @@
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
       "ratio": 15120.0
+    },
+    {
+      "id": "oria-arizona_general_hospital_mesa_hospital-3b786",
+      "code": "42820",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 432.31
+    },
+    {
+      "id": "oria-arizona_general_hospital_mesa_hospital-3b786",
+      "code": "43235",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 543.15
+    },
+    {
+      "id": "oria-arizona_general_hospital_mesa_hospital-3b786",
+      "code": "43239",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 307.36
+    },
+    {
+      "id": "oria-arizona_general_hospital_mesa_hospital-3b786",
+      "code": "43249",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 281.96
+    },
+    {
+      "id": "oria-arizona_general_hospital_mesa_hospital-3b786",
+      "code": "45380",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 144.71
+    },
+    {
+      "id": "oria-arizona_general_hospital_mesa_hospital-3b786",
+      "code": "47562",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 326.88
     },
     {
       "id": "oria-mishawaka_medical_center-9a01c",
@@ -148405,11 +148935,6 @@
       "flag": "unresolved_geography"
     },
     {
-      "id": "franklin-memorial-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 417
-    },
-    {
       "id": "oria-sierra_nevada_memorial_hospital-c5ab9",
       "code": "99202",
       "payer": "United",
@@ -163815,6 +164340,48 @@
       "payer": "sidecar",
       "flag": "wide_payer_range_review",
       "ratio": 110.91
+    },
+    {
+      "id": "oria-arizona_general_hospital_laveen_hospital-cd919",
+      "code": "42820",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 432.31
+    },
+    {
+      "id": "oria-arizona_general_hospital_laveen_hospital-cd919",
+      "code": "43235",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 543.15
+    },
+    {
+      "id": "oria-arizona_general_hospital_laveen_hospital-cd919",
+      "code": "43239",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 307.36
+    },
+    {
+      "id": "oria-arizona_general_hospital_laveen_hospital-cd919",
+      "code": "43249",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 281.96
+    },
+    {
+      "id": "oria-arizona_general_hospital_laveen_hospital-cd919",
+      "code": "45380",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 144.71
+    },
+    {
+      "id": "oria-arizona_general_hospital_laveen_hospital-cd919",
+      "code": "47562",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 326.88
     },
     {
       "id": "nyu-langone-hospital-suffolk",
@@ -179470,97 +180037,6 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 105.65
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "19083",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 142.27
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "19083",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 163.32
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "20610",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 103.28
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "27130",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 110.92
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "27130",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 304.54
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "27447",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 111.08
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "27447",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 304.54
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "29827",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 169.08
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "42820",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 256.4
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "42820",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 332.81
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "43235",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 122.42
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "43239",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 108.57
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "43249",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 198.24
     },
     {
       "id": "oria-gadsden_regional_medical_center-f20ce",
