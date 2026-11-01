@@ -1,0 +1,25 @@
+{
+  "npi": "1780199968",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-01T17:16:16Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1780199968",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JUNGHO",
+      "last_name": "HA",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "3003 W OLYMPIC BLVD STE 201",
+        "city": "LOS ANGELES",
+        "state": "CA",
+        "postal_code": "900066511"
+      },
+      "last_updated": "2017-12-09"
+    }
+  ]
+}

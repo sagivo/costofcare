@@ -1,0 +1,25 @@
+{
+  "npi": "1407252323",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-01T17:15:49Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1407252323",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SOONMOK",
+      "last_name": "HONG",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2025 112TH AVE NE",
+        "city": "BELLEVUE",
+        "state": "WA",
+        "postal_code": "980042943"
+      },
+      "last_updated": "2014-11-05"
+    }
+  ]
+}

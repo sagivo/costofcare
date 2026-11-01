@@ -1,0 +1,25 @@
+{
+  "npi": "1851337117",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-01T17:16:20Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1851337117",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "COLLEEN",
+      "last_name": "TAYLOR",
+      "primary_taxonomy": "Massage Therapist",
+      "location": {
+        "address_1": "12845 NW CORNELL RD",
+        "city": "PORTLAND",
+        "state": "OR",
+        "postal_code": "972295813"
+      },
+      "last_updated": "2026-02-07"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1952764631",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-01T17:17:02Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1952764631",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MORGAN",
+      "last_name": "NORKIEWICZ",
+      "primary_taxonomy": "Speech-Language Pathologist,  ",
+      "location": {
+        "address_1": "201 PARK DRAG LN",
+        "city": "NORMAL",
+        "state": "IL",
+        "postal_code": "617614850"
+      },
+      "last_updated": "2019-10-23"
+    }
+  ]
+}

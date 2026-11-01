@@ -1,0 +1,25 @@
+{
+  "npi": "1942456306",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-01T17:16:53Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1942456306",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "GAILING",
+      "last_name": "LIU",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "7940 GARVEY AVE STE 102",
+        "city": "ROSEMEAD",
+        "state": "CA",
+        "postal_code": "917702400"
+      },
+      "last_updated": "2022-10-25"
+    }
+  ]
+}

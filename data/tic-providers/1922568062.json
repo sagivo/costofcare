@@ -1,0 +1,25 @@
+{
+  "npi": "1922568062",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-01T17:16:31Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1922568062",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DAN",
+      "last_name": "LI",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "4604 PINECREST OFFICE PARK DR.",
+        "city": "ALEXANDRIA",
+        "state": "VA",
+        "postal_code": "223122231"
+      },
+      "last_updated": "2025-01-09"
+    }
+  ]
+}

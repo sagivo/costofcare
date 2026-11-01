@@ -1,0 +1,25 @@
+{
+  "npi": "1902980071",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-01T17:16:25Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1902980071",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ELLIOT",
+      "last_name": "FORMAN",
+      "primary_taxonomy": "Chiropractor",
+      "location": {
+        "address_1": "515 ROUTE 111",
+        "city": "HAUPPAUGE",
+        "state": "NY",
+        "postal_code": "117884339"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}
