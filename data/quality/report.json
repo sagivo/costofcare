@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-02T20:50:03.300892+00:00",
+  "generated_at": "2026-11-02T22:07:38.866598+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2753,
     "distinct_successful_mrf_urls": 2753,
-    "extracted_within_24h": 0,
-    "sources_over_365_days_old": 171,
+    "extracted_within_24h": 2715,
+    "sources_over_365_days_old": 170,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 356113,
+    "hospital_code_aggregates": 356156,
     "row_preserving_records": 19485332
   },
   "status_counts": {
@@ -74,34 +74,34 @@
     "PR": 3
   },
   "hospital_entries_per_code": {
-    "11042": 2401,
-    "12001": 2337,
+    "11042": 2400,
+    "12001": 2336,
     "20610": 2479,
-    "55700": 1640,
+    "55700": 1642,
     "70450": 2523,
     "70460": 2455,
     "70486": 2497,
     "70491": 2499,
-    "70544": 2378,
-    "70551": 2433,
-    "70552": 2304,
-    "70553": 2433,
-    "71045": 2551,
-    "71046": 2552,
-    "71250": 2506,
-    "71260": 2501,
-    "71275": 2491,
-    "72125": 2501,
-    "72131": 2496,
-    "72141": 2424,
-    "72146": 2425,
-    "72148": 2437,
-    "72149": 2279,
-    "72156": 2405,
-    "72158": 2417,
-    "73218": 2311,
-    "73221": 2365,
-    "73222": 2189,
+    "70544": 2377,
+    "70551": 2432,
+    "70552": 2303,
+    "70553": 2432,
+    "71045": 2550,
+    "71046": 2551,
+    "71250": 2504,
+    "71260": 2499,
+    "71275": 2489,
+    "72125": 2499,
+    "72131": 2494,
+    "72141": 2422,
+    "72146": 2423,
+    "72148": 2435,
+    "72149": 2277,
+    "72156": 2404,
+    "72158": 2416,
+    "73218": 2310,
+    "73221": 2364,
+    "73222": 2188,
     "73700": 2443,
     "73718": 2335,
     "73721": 2362,
@@ -111,19 +111,19 @@
     "74160": 2471,
     "74176": 2507,
     "74177": 2513,
-    "76536": 2500,
-    "76642": 2303,
-    "76700": 2535,
-    "76775": 2391,
-    "76830": 2474,
-    "76856": 2504,
+    "76536": 2499,
+    "76642": 2302,
+    "76700": 2534,
+    "76775": 2390,
+    "76830": 2473,
+    "76856": 2503,
     "80048": 2555,
     "80053": 2560,
     "80061": 2552,
     "80069": 2504,
     "80076": 2548,
     "81001": 2506,
-    "82947": 2518,
+    "82947": 2517,
     "83036": 2566,
     "84443": 2562,
     "85025": 2547,
@@ -132,7 +132,7 @@
     "86580": 2036,
     "87804": 2154,
     "90471": 2405,
-    "90686": 1516,
+    "90686": 1519,
     "93303": 1685,
     "93306": 2452,
     "93880": 2475,
@@ -156,50 +156,50 @@
     "99282": 2387,
     "99283": 2394,
     "99284": 2397,
-    "99285": 2400,
-    "19083": 2041,
-    "27130": 1668,
+    "99285": 2399,
+    "19083": 2040,
+    "27130": 1670,
     "27447": 1701,
-    "29827": 1693,
-    "29848": 1415,
-    "29881": 1772,
-    "30520": 1558,
-    "36415": 2501,
+    "29827": 1695,
+    "29848": 1417,
+    "29881": 1773,
+    "30520": 1559,
+    "36415": 2500,
     "43235": 2119,
     "43239": 2122,
-    "43249": 1914,
+    "43249": 1915,
     "45378": 2092,
     "45380": 2090,
     "45384": 1798,
     "45385": 2077,
-    "47562": 1857,
-    "49505": 1856,
-    "52353": 1506,
-    "58150": 1290,
+    "47562": 1858,
+    "49505": 1857,
+    "52353": 1507,
+    "58150": 1292,
     "59025": 2013,
-    "59400": 1046,
-    "59510": 998,
+    "59400": 1049,
+    "59510": 1001,
     "62323": 2058,
     "64483": 2023,
-    "64721": 1810,
-    "69436": 1537,
-    "76805": 2357,
-    "77014": 1229,
+    "64721": 1812,
+    "69436": 1538,
+    "76805": 2356,
+    "77014": 1232,
     "77063": 2079,
     "77065": 2103,
-    "77066": 2158,
+    "77066": 2161,
     "77067": 2234,
     "77080": 2283,
     "77385": 1215,
     "78452": 2237,
-    "78815": 1755,
+    "78815": 1758,
     "80074": 2467,
     "81002": 2140,
-    "82306": 2535,
-    "82310": 2505,
+    "82306": 2534,
+    "82310": 2504,
     "82565": 2525,
     "82607": 2532,
-    "82728": 2531,
+    "82728": 2530,
     "83718": 2354,
     "83735": 2549,
     "84100": 2537,
@@ -210,37 +210,37 @@
     "84478": 2511,
     "84520": 2516,
     "84550": 2525,
-    "85652": 2194,
+    "85652": 2197,
     "86140": 2526,
     "87086": 2465,
     "87491": 2467,
     "87591": 2452,
     "87635": 2439,
     "88112": 2278,
-    "88175": 1797,
+    "88175": 1800,
     "88305": 2452,
     "90791": 1607,
     "90834": 1644,
     "92557": 1268,
-    "93000": 1122,
+    "93000": 1125,
     "94010": 2376,
     "95810": 1929,
     "96413": 2092,
-    "99223": 1196,
-    "99232": 1207,
-    "99385": 1126,
-    "99395": 1122,
-    "G0121": 1673,
-    "G0439": 1086,
-    "42820": 1474,
-    "59410": 1001,
-    "59515": 995,
-    "66984": 1489,
+    "99223": 1200,
+    "99232": 1211,
+    "99385": 1129,
+    "99395": 1124,
+    "G0121": 1674,
+    "G0439": 1089,
+    "42820": 1476,
+    "59410": 1005,
+    "59515": 999,
+    "66984": 1492,
     "90837": 1635,
-    "92004": 1051,
-    "92014": 1023,
-    "92134": 1109,
-    "93015": 894,
+    "92004": 1054,
+    "92014": 1026,
+    "92134": 1112,
+    "93015": 897,
     "E0601": 451
   },
   "qa_flags": [
@@ -20076,8 +20076,10 @@
     },
     {
       "id": "oria-shepherd_center-a35e5",
-      "flag": "source_over_365_days_old",
-      "age_days": 553
+      "code": "88305",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.26
     },
     {
       "id": "oria-broadlawns_community_clinic_at_drake-0235e",
@@ -77975,10 +77977,73 @@
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "11042",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1307.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "12001",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 283.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "20610",
+      "payer": "Corvel",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.89
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "20610",
+      "payer": "Employers Choice Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.11
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "20610",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.11
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "20610",
+      "payer": "Gallagher Bassett",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.56
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "20610",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 792.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 159.61
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 159.61
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "36415",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 257.56
+      "ratio": 448.02
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78020,7 +78085,7 @@
       "code": "36415",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 201.66
+      "ratio": 547.98
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78053,9 +78118,23 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "36415",
+      "payer": "Employers Choice Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 174.1
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "36415",
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 129.43
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "36415",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 234.08
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78095,9 +78174,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "36415",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 906.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "36415",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 130.2
+      "ratio": 150.0
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78139,7 +78225,7 @@
       "code": "36415",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 129.43
+      "ratio": 169.25
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78164,10 +78250,437 @@
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "47562",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 2248.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 741.25
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "59025",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 532.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "62323",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.89
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "62323",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.89
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70460",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.94
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70460",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.93
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70460",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.21
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70460",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.97
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70460",
+      "payer": "Gallagher Bassett",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.95
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70460",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.82
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70460",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.82
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70552",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.14
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70552",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.38
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70552",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.85
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "70553",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.36
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.78
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Allianz",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Axis",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Desjardins Financial Security Life Assurance Company",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Emerging Therapy Solutions",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.33
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.9
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Global Medical Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Global Reach Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "National Healthcare Solutions",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Plotkin",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Quality Health Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.15
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Quebec Inc",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.9
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Worldwide Managed Care Partners",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71045",
+      "payer": "Worldwide Medical Assurance",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71046",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 186.17
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71046",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 476.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "71275",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.97
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "72149",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "72149",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.98
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "72156",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "72158",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73218",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.89
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73222",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73222",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.06
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73222",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.49
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73222",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.04
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73721",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.38
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73722",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73722",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.06
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73722",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.49
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73722",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.04
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73723",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73723",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.32
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73723",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.59
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "73723",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.06
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "74176",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.76
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "74176",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.6
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "74176",
+      "payer": "Quality Health Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.97
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "74176",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.6
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "74177",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.38
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "74177",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.53
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "74177",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.53
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "77080",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 189.45
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "80053",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "80061",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 131.22
+      "ratio": 222.54
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78181,14 +78694,42 @@
       "code": "80061",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 102.89
+      "ratio": 279.59
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "80061",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.25
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "80069",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.74
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "80076",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.89
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "82306",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.96
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "82728",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 211.28
+      "ratio": 358.32
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78230,7 +78771,7 @@
       "code": "82728",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 165.44
+      "ratio": 449.58
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78270,6 +78811,13 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "82728",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.32
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "82728",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 106.43
@@ -78305,9 +78853,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "82728",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.49
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "82728",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 107.34
+      "ratio": 210.0
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78349,7 +78904,7 @@
       "code": "82728",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 106.37
+      "ratio": 139.1
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78377,7 +78932,7 @@
       "code": "82947",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 225.98
+      "ratio": 383.25
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78419,7 +78974,7 @@
       "code": "82947",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 177.81
+      "ratio": 483.17
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78459,6 +79014,13 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "82947",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.9
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "82947",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 114.04
@@ -78494,9 +79056,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "82947",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "82947",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 112.33
+      "ratio": 700.0
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78538,7 +79107,7 @@
       "code": "82947",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 114.01
+      "ratio": 149.08
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78566,7 +79135,7 @@
       "code": "83036",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 254.06
+      "ratio": 430.88
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78608,7 +79177,7 @@
       "code": "83036",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 199.45
+      "ratio": 541.98
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78642,6 +79211,13 @@
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "83036",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.67
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "83036",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 127.67
     },
@@ -78683,9 +79259,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "83036",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 383.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "83036",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 128.43
+      "ratio": 350.0
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78727,7 +79310,7 @@
       "code": "83036",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 127.67
+      "ratio": 166.95
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78755,7 +79338,7 @@
       "code": "83718",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 483.6
+      "ratio": 820.19
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78797,7 +79380,7 @@
       "code": "83718",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 378.17
+      "ratio": 1027.66
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78837,6 +79420,13 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "83718",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 242.21
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "83718",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 241.88
@@ -78872,9 +79462,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "83718",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 242.11
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "83718",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 249.15
+      "ratio": 807.69
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78916,7 +79513,7 @@
       "code": "83718",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 241.97
+      "ratio": 316.42
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78944,7 +79541,7 @@
       "code": "83735",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 553.93
+      "ratio": 939.48
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -78986,7 +79583,7 @@
       "code": "83735",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 433.93
+      "ratio": 1179.17
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79026,6 +79623,13 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "83735",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 279.71
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "83735",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 279.51
@@ -79061,9 +79665,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "83735",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 279.28
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "83735",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 284.67
+      "ratio": 700.0
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79105,7 +79716,7 @@
       "code": "83735",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 278.71
+      "ratio": 364.47
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79130,10 +79741,17 @@
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84100",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.95
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84153",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 574.31
+      "ratio": 974.02
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79175,7 +79793,7 @@
       "code": "84153",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 447.49
+      "ratio": 1216.01
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79209,6 +79827,13 @@
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84153",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 288.6
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84153",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 288.6
     },
@@ -79250,9 +79875,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84153",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 288.6
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84153",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 290.32
+      "ratio": 420.0
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79294,7 +79926,7 @@
       "code": "84153",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 288.6
+      "ratio": 377.4
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79322,7 +79954,7 @@
       "code": "84439",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 294.35
+      "ratio": 499.22
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79364,7 +79996,7 @@
       "code": "84439",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 230.54
+      "ratio": 626.47
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79404,6 +80036,13 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84439",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.28
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84439",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 148.3
@@ -79439,9 +80078,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84439",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.92
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84439",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 148.79
+      "ratio": 437.5
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79483,7 +80129,7 @@
       "code": "84439",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 148.39
+      "ratio": 194.05
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79511,7 +80157,7 @@
       "code": "84443",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 281.59
+      "ratio": 477.56
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79553,7 +80199,7 @@
       "code": "84443",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 220.02
+      "ratio": 597.89
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79587,6 +80233,13 @@
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84443",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84443",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 141.5
     },
@@ -79628,9 +80281,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84443",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84443",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 142.35
+      "ratio": 262.5
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79672,7 +80332,7 @@
       "code": "84443",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 141.5
+      "ratio": 185.04
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79700,7 +80360,7 @@
       "code": "84478",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 543.93
+      "ratio": 922.5
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79742,7 +80402,7 @@
       "code": "84478",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 433.38
+      "ratio": 1177.66
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79782,6 +80442,13 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84478",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 275.13
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84478",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 275.89
@@ -79817,9 +80484,16 @@
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "84478",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 275.37
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84478",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 285.54
+      "ratio": 807.69
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79861,7 +80535,7 @@
       "code": "84478",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 275.69
+      "ratio": 360.52
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79886,10 +80560,52 @@
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84520",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.81
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84520",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.79
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84520",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 262.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "84550",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.42
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "85025",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "85027",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.62
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "85610",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 135.82
+      "ratio": 230.34
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79903,14 +80619,56 @@
       "code": "85610",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 106.13
+      "ratio": 288.38
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "85610",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 273.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "85610",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 262.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "85652",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.7
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "86140",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.88
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "86140",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.14
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "86140",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.0
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "87086",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 123.5
+      "ratio": 209.45
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
@@ -79921,10 +80679,213 @@
     },
     {
       "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "87086",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 263.01
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "87086",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.43
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "87086",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.51
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "87491",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.96
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "87591",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.96
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "87804",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 471.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "88305",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 123.82
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "88305",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.54
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "90471",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "93306",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 4478.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "94010",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 245.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "94640",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 269.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "96372",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99202",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 187.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99203",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 265.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99204",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 385.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
       "code": "99205",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 117.97
+      "ratio": 483.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99212",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 187.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99213",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 265.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99214",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 385.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99215",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 471.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99223",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 457.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99232",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 208.5
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99282",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 469.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99283",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 919.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99284",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1203.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99285",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1274.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99385",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 246.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "99395",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 225.0
+    },
+    {
+      "id": "oria-memorial_hospital_miramar-5a9a2",
+      "code": "G0439",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 340.5
     },
     {
       "id": "ochsner-abrom-kaplan-memorial-hospital",
@@ -83118,10 +84079,73 @@
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "11042",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1307.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "12001",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 283.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "20610",
+      "payer": "Corvel",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.89
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "20610",
+      "payer": "Employers Choice Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.11
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "20610",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.11
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "20610",
+      "payer": "Gallagher Bassett",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.56
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "20610",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 792.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.78
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.78
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "36415",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 303.02
+      "ratio": 513.91
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83163,7 +84187,7 @@
       "code": "36415",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 201.66
+      "ratio": 547.98
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83196,9 +84220,23 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "36415",
+      "payer": "Employers Choice Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 350.18
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "36415",
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 129.43
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "36415",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 470.83
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83238,9 +84276,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "36415",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 906.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "36415",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 130.2
+      "ratio": 150.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83282,7 +84327,7 @@
       "code": "36415",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 129.43
+      "ratio": 169.25
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83307,10 +84352,437 @@
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "47562",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 2248.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 741.25
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "59025",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 532.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "62323",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.89
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "62323",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.89
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70460",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.94
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70460",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.93
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70460",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.21
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70460",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.97
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70460",
+      "payer": "Gallagher Bassett",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.95
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70460",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.82
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70460",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.82
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70552",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.14
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70552",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.38
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70552",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.85
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "70553",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.36
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.78
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Allianz",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Axis",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Desjardins Financial Security Life Assurance Company",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Emerging Therapy Solutions",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.33
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.9
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Global Medical Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Global Reach Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "National Healthcare Solutions",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Plotkin",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Quality Health Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.15
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Quebec Inc",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.9
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Worldwide Managed Care Partners",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71045",
+      "payer": "Worldwide Medical Assurance",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71046",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 186.17
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71046",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 476.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "71275",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.97
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "72149",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "72149",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.98
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "72156",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "72158",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73218",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.89
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73222",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73222",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.06
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73222",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.49
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73222",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.04
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73721",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.38
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73722",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73722",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.06
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73722",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.49
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73722",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.04
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73723",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73723",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.32
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73723",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.59
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "73723",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.06
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "74176",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.76
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "74176",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.6
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "74176",
+      "payer": "Quality Health Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.97
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "74176",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.6
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "74177",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.38
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "74177",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.53
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "74177",
+      "payer": "Star Healthcare Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.53
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "77080",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 189.45
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "80053",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "80061",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 154.37
+      "ratio": 261.81
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83324,14 +84796,42 @@
       "code": "80061",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 102.89
+      "ratio": 279.59
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "80061",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.25
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "80069",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.74
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "80076",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.89
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "82306",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.96
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "82728",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 248.35
+      "ratio": 421.19
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83373,7 +84873,7 @@
       "code": "82728",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 165.44
+      "ratio": 449.58
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83413,6 +84913,13 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "82728",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.32
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "82728",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 106.43
@@ -83448,9 +84955,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "82728",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.49
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "82728",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 107.34
+      "ratio": 210.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83492,7 +85006,7 @@
       "code": "82728",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 106.37
+      "ratio": 139.1
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83520,7 +85034,7 @@
       "code": "82947",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 266.66
+      "ratio": 452.24
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83562,7 +85076,7 @@
       "code": "82947",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 177.81
+      "ratio": 483.17
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83602,6 +85116,13 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "82947",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.9
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "82947",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 114.04
@@ -83637,9 +85158,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "82947",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 167.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "82947",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 112.33
+      "ratio": 700.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83681,7 +85209,7 @@
       "code": "82947",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 114.01
+      "ratio": 149.08
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83709,7 +85237,7 @@
       "code": "83036",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 298.89
+      "ratio": 506.91
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83751,7 +85279,7 @@
       "code": "83036",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 199.45
+      "ratio": 541.98
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83785,6 +85313,13 @@
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "83036",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.67
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "83036",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 127.67
     },
@@ -83826,9 +85361,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "83036",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 383.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "83036",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 128.43
+      "ratio": 350.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83870,7 +85412,7 @@
       "code": "83036",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 127.67
+      "ratio": 166.95
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83898,7 +85440,7 @@
       "code": "83718",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 569.58
+      "ratio": 966.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83940,7 +85482,7 @@
       "code": "83718",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 378.17
+      "ratio": 1027.66
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -83980,6 +85522,13 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "83718",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 242.21
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "83718",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 241.88
@@ -84015,9 +85564,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "83718",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 242.11
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "83718",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 249.15
+      "ratio": 807.69
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84059,7 +85615,7 @@
       "code": "83718",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 241.97
+      "ratio": 316.42
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84087,7 +85643,7 @@
       "code": "83735",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 649.81
+      "ratio": 1102.08
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84129,7 +85685,7 @@
       "code": "83735",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 433.93
+      "ratio": 1179.17
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84169,6 +85725,13 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "83735",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 279.71
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "83735",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 279.51
@@ -84204,9 +85767,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "83735",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 279.28
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "83735",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 284.67
+      "ratio": 700.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84248,7 +85818,7 @@
       "code": "83735",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 278.71
+      "ratio": 364.47
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84273,10 +85843,17 @@
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84100",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.95
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84153",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 675.66
+      "ratio": 1145.91
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84318,7 +85895,7 @@
       "code": "84153",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 447.49
+      "ratio": 1216.01
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84352,6 +85929,13 @@
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84153",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 288.6
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84153",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 288.6
     },
@@ -84393,9 +85977,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84153",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 288.6
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84153",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 290.32
+      "ratio": 420.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84437,7 +86028,7 @@
       "code": "84153",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 288.6
+      "ratio": 377.4
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84465,7 +86056,7 @@
       "code": "84439",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 348.86
+      "ratio": 591.67
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84507,7 +86098,7 @@
       "code": "84439",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 230.54
+      "ratio": 626.47
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84547,6 +86138,13 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84439",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.28
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84439",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 148.3
@@ -84582,9 +86180,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84439",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.92
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84439",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 148.79
+      "ratio": 437.5
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84626,7 +86231,7 @@
       "code": "84439",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 148.39
+      "ratio": 194.05
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84654,7 +86259,7 @@
       "code": "84443",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 331.28
+      "ratio": 561.84
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84696,7 +86301,7 @@
       "code": "84443",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 220.02
+      "ratio": 597.89
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84730,6 +86335,13 @@
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84443",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84443",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 141.5
     },
@@ -84771,9 +86383,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84443",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84443",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 142.35
+      "ratio": 262.5
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84815,7 +86434,7 @@
       "code": "84443",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 141.5
+      "ratio": 185.04
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84843,7 +86462,7 @@
       "code": "84478",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 638.52
+      "ratio": 1082.93
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84885,7 +86504,7 @@
       "code": "84478",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 433.38
+      "ratio": 1177.66
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -84925,6 +86544,13 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84478",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 275.13
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84478",
       "payer": "Gallagher Bassett",
       "flag": "wide_payer_range_review",
       "ratio": 275.89
@@ -84960,9 +86586,16 @@
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "84478",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 275.37
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84478",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 285.54
+      "ratio": 807.69
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -85004,7 +86637,7 @@
       "code": "84478",
       "payer": "Star Healthcare Network",
       "flag": "wide_payer_range_review",
-      "ratio": 275.69
+      "ratio": 360.52
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -85029,10 +86662,52 @@
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84520",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.72
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84520",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 164.79
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84520",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 262.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "84550",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.42
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "85025",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "85027",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.62
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "85610",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 159.79
+      "ratio": 270.99
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -85046,14 +86721,63 @@
       "code": "85610",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 106.13
+      "ratio": 288.38
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "85610",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 273.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "85610",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 262.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "85652",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.7
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "86140",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.23
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "86140",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.88
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "86140",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.14
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "86140",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.0
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "87086",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 145.04
+      "ratio": 245.98
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
@@ -85064,10 +86788,213 @@
     },
     {
       "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "87086",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 263.01
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "87086",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.43
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "87086",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.51
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "87491",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.96
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "87591",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.96
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "87804",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 471.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "88305",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 145.75
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "88305",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.54
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "90471",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "93306",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 4478.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "94010",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 245.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "94640",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 269.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "96372",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99202",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 187.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99203",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 265.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99204",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 385.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
       "code": "99205",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 117.97
+      "ratio": 483.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99212",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 187.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99213",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 265.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99214",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 385.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99215",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 471.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99223",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 457.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99232",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 208.5
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99282",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 469.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99283",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 919.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99284",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1203.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99285",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1274.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99385",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 246.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "99395",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 225.0
+    },
+    {
+      "id": "oria-memorial_hospital_pembroke-80ab9",
+      "code": "G0439",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 340.5
     },
     {
       "id": "doctors-hospital-2",
@@ -174346,22 +176273,43 @@
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "20610",
+      "payer": "Corvel",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.89
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "20610",
+      "payer": "Employers Choice Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.11
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "20610",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.11
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "20610",
+      "payer": "Gallagher Bassett",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.56
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "36415",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 257.56
+      "ratio": 448.02
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "36415",
       "payer": "Allianz",
-      "flag": "wide_payer_range_review",
-      "ratio": 129.43
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "36415",
-      "payer": "Ambetter/Centene",
       "flag": "wide_payer_range_review",
       "ratio": 129.43
     },
@@ -174391,7 +176339,7 @@
       "code": "36415",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 201.66
+      "ratio": 547.98
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174424,9 +176372,23 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "36415",
+      "payer": "Employers Choice Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 174.1
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "36415",
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 129.43
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "36415",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 234.08
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174468,7 +176430,7 @@
       "code": "36415",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 129.43
+      "ratio": 184.9
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174508,44 +176470,506 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "36415",
-      "payer": "Quebec Inc",
-      "flag": "wide_payer_range_review",
-      "ratio": 129.43
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "36415",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 129.43
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "36415",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 129.43
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "36415",
-      "payer": "World Medical Care",
+      "code": "62323",
+      "payer": "Global Health Claims",
       "flag": "wide_payer_range_review",
-      "ratio": 129.43
+      "ratio": 112.89
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "36415",
-      "payer": "Worldwide Managed Care Partners",
+      "code": "62323",
+      "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 129.43
+      "ratio": 132.81
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "36415",
-      "payer": "Worldwide Medical Assurance",
+      "code": "62323",
+      "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 129.43
+      "ratio": 106.25
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "64483",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.24
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 142.94
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.93
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.21
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.97
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "Gallagher Bassett",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.95
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.82
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 157.07
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70460",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.73
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70552",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.14
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70552",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.38
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70552",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.85
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70553",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.36
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "70553",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.69
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 203.78
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Allianz",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Axis",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Desjardins Financial Security Life Assurance Company",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Emerging Therapy Solutions",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.33
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.9
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Global Medical Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Global Reach Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.1
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.67
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "National Healthcare Solutions",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Plotkin",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Quality Health Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.15
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71045",
+      "payer": "Quebec Inc",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71046",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 186.17
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71275",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 158.97
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "71275",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.02
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "72149",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "72149",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "72156",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "72156",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.7
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "72158",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "72158",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.7
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73218",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.89
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73222",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73222",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.06
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73222",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.49
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73222",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.04
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73222",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.39
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73222",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.39
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73721",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.38
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73722",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 153.15
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73722",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.06
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73722",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.49
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73722",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.04
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73722",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.39
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73722",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.39
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73723",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 188.39
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73723",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.32
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73723",
+      "payer": "Dimension Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.59
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73723",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.06
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73723",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 101.07
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "73723",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.7
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74176",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 133.76
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74176",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 129.6
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74176",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 174.26
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74176",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.98
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74176",
+      "payer": "Quality Health Management",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.97
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74177",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 180.38
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74177",
+      "payer": "Global Health Claims",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.53
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74177",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 149.96
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "74177",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.86
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "77080",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 189.45
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "80053",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.5
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174559,7 +176983,7 @@
       "code": "80061",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 131.22
+      "ratio": 222.54
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174573,7 +176997,7 @@
       "code": "80061",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 102.89
+      "ratio": 279.59
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174581,6 +177005,20 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 461.56
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "80069",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.74
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "80076",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 116.89
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174594,7 +177032,7 @@
       "code": "82728",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 211.28
+      "ratio": 358.32
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174602,13 +177040,6 @@
       "payer": "Allianz",
       "flag": "wide_payer_range_review",
       "ratio": 106.37
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82728",
-      "payer": "Ambetter/Centene",
-      "flag": "wide_payer_range_review",
-      "ratio": 106.45
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174636,7 +177067,7 @@
       "code": "82728",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 165.44
+      "ratio": 449.58
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174672,6 +177103,13 @@
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 106.37
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "82728",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.32
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174713,7 +177151,7 @@
       "code": "82728",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 106.4
+      "ratio": 151.99
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174753,51 +177191,16 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "82728",
-      "payer": "Quebec Inc",
-      "flag": "wide_payer_range_review",
-      "ratio": 106.37
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82728",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 106.37
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82728",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 106.43
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82728",
-      "payer": "World Medical Care",
-      "flag": "wide_payer_range_review",
-      "ratio": 106.37
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82728",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 106.37
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82728",
-      "payer": "Worldwide Medical Assurance",
-      "flag": "wide_payer_range_review",
-      "ratio": 106.37
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "82947",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 225.98
+      "ratio": 383.25
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174805,13 +177208,6 @@
       "payer": "Allianz",
       "flag": "wide_payer_range_review",
       "ratio": 114.01
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82947",
-      "payer": "Ambetter/Centene",
-      "flag": "wide_payer_range_review",
-      "ratio": 114.39
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174839,7 +177235,7 @@
       "code": "82947",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 177.81
+      "ratio": 483.17
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174875,6 +177271,13 @@
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 114.04
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "82947",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.9
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174916,7 +177319,7 @@
       "code": "82947",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 113.83
+      "ratio": 162.62
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -174956,63 +177359,21 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "82947",
-      "payer": "Quebec Inc",
-      "flag": "wide_payer_range_review",
-      "ratio": 114.01
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82947",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 114.01
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82947",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 113.56
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82947",
-      "payer": "World Medical Care",
-      "flag": "wide_payer_range_review",
-      "ratio": 114.01
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82947",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 114.01
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "82947",
-      "payer": "Worldwide Medical Assurance",
-      "flag": "wide_payer_range_review",
-      "ratio": 114.01
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "83036",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 254.06
+      "ratio": 430.88
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "83036",
       "payer": "Allianz",
-      "flag": "wide_payer_range_review",
-      "ratio": 127.67
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83036",
-      "payer": "Ambetter/Centene",
       "flag": "wide_payer_range_review",
       "ratio": 127.67
     },
@@ -175042,7 +177403,7 @@
       "code": "83036",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 199.45
+      "ratio": 541.98
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175076,6 +177437,13 @@
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "83036",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.67
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "83036",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 127.67
     },
@@ -175119,7 +177487,7 @@
       "code": "83036",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 127.67
+      "ratio": 182.38
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175159,42 +177527,7 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "83036",
-      "payer": "Quebec Inc",
-      "flag": "wide_payer_range_review",
-      "ratio": 127.67
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83036",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 127.67
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83036",
       "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 127.67
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83036",
-      "payer": "World Medical Care",
-      "flag": "wide_payer_range_review",
-      "ratio": 127.67
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83036",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 127.67
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83036",
-      "payer": "Worldwide Medical Assurance",
       "flag": "wide_payer_range_review",
       "ratio": 127.67
     },
@@ -175203,7 +177536,7 @@
       "code": "83718",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 483.6
+      "ratio": 820.19
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175211,13 +177544,6 @@
       "payer": "Allianz",
       "flag": "wide_payer_range_review",
       "ratio": 241.97
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83718",
-      "payer": "Ambetter/Centene",
-      "flag": "wide_payer_range_review",
-      "ratio": 241.5
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175245,7 +177571,7 @@
       "code": "83718",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 378.17
+      "ratio": 1027.66
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175281,6 +177607,13 @@
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 242.45
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "83718",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 242.21
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175322,7 +177655,7 @@
       "code": "83718",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 242.37
+      "ratio": 346.24
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175369,44 +177702,16 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "83718",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 241.97
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83718",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 243.02
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83718",
-      "payer": "World Medical Care",
-      "flag": "wide_payer_range_review",
-      "ratio": 241.97
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83718",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 241.97
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83718",
-      "payer": "Worldwide Medical Assurance",
-      "flag": "wide_payer_range_review",
-      "ratio": 241.97
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "83735",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 553.93
+      "ratio": 939.48
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175414,13 +177719,6 @@
       "payer": "Allianz",
       "flag": "wide_payer_range_review",
       "ratio": 278.71
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83735",
-      "payer": "Ambetter/Centene",
-      "flag": "wide_payer_range_review",
-      "ratio": 278.58
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175448,7 +177746,7 @@
       "code": "83735",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 433.93
+      "ratio": 1179.17
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175484,6 +177782,13 @@
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 280.08
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "83735",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 279.71
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175525,7 +177830,7 @@
       "code": "83735",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 280.33
+      "ratio": 400.47
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175572,56 +177877,28 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "83735",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 278.71
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83735",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 278.36
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83735",
-      "payer": "World Medical Care",
+      "code": "84100",
+      "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 278.71
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83735",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 278.71
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "83735",
-      "payer": "Worldwide Medical Assurance",
-      "flag": "wide_payer_range_review",
-      "ratio": 278.71
+      "ratio": 118.95
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84153",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 574.31
+      "ratio": 974.02
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84153",
       "payer": "Allianz",
-      "flag": "wide_payer_range_review",
-      "ratio": 288.6
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84153",
-      "payer": "Ambetter/Centene",
       "flag": "wide_payer_range_review",
       "ratio": 288.6
     },
@@ -175651,7 +177928,7 @@
       "code": "84153",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 447.49
+      "ratio": 1216.01
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175685,6 +177962,13 @@
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84153",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 288.6
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "84153",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 288.6
     },
@@ -175728,7 +178012,7 @@
       "code": "84153",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 288.6
+      "ratio": 412.29
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175768,42 +178052,7 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84153",
-      "payer": "Quebec Inc",
-      "flag": "wide_payer_range_review",
-      "ratio": 288.6
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84153",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 288.6
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84153",
       "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 288.6
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84153",
-      "payer": "World Medical Care",
-      "flag": "wide_payer_range_review",
-      "ratio": 288.6
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84153",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 288.6
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84153",
-      "payer": "Worldwide Medical Assurance",
       "flag": "wide_payer_range_review",
       "ratio": 288.6
     },
@@ -175812,7 +178061,7 @@
       "code": "84439",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 294.35
+      "ratio": 499.22
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175820,13 +178069,6 @@
       "payer": "Allianz",
       "flag": "wide_payer_range_review",
       "ratio": 148.39
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84439",
-      "payer": "Ambetter/Centene",
-      "flag": "wide_payer_range_review",
-      "ratio": 148.36
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175854,7 +178096,7 @@
       "code": "84439",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 230.54
+      "ratio": 626.47
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175890,6 +178132,13 @@
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 148.5
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "84439",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.28
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175931,7 +178180,7 @@
       "code": "84439",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 147.92
+      "ratio": 211.31
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -175971,63 +178220,21 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84439",
-      "payer": "Quebec Inc",
-      "flag": "wide_payer_range_review",
-      "ratio": 148.39
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84439",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 148.39
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84439",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 147.92
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84439",
-      "payer": "World Medical Care",
-      "flag": "wide_payer_range_review",
-      "ratio": 148.39
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84439",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 148.39
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84439",
-      "payer": "Worldwide Medical Assurance",
-      "flag": "wide_payer_range_review",
-      "ratio": 148.39
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84443",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 281.59
+      "ratio": 477.56
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84443",
       "payer": "Allianz",
-      "flag": "wide_payer_range_review",
-      "ratio": 141.5
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84443",
-      "payer": "Ambetter/Centene",
       "flag": "wide_payer_range_review",
       "ratio": 141.5
     },
@@ -176057,7 +178264,7 @@
       "code": "84443",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 220.02
+      "ratio": 597.89
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176091,6 +178298,13 @@
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84443",
       "payer": "Employers Health Network",
+      "flag": "wide_payer_range_review",
+      "ratio": 141.5
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "84443",
+      "payer": "First Health",
       "flag": "wide_payer_range_review",
       "ratio": 141.5
     },
@@ -176134,7 +178348,7 @@
       "code": "84443",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 141.5
+      "ratio": 202.14
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176174,42 +178388,7 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84443",
-      "payer": "Quebec Inc",
-      "flag": "wide_payer_range_review",
-      "ratio": 141.5
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84443",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 141.5
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84443",
       "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 141.5
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84443",
-      "payer": "World Medical Care",
-      "flag": "wide_payer_range_review",
-      "ratio": 141.5
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84443",
-      "payer": "Worldwide Managed Care Partners",
-      "flag": "wide_payer_range_review",
-      "ratio": 141.5
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84443",
-      "payer": "Worldwide Medical Assurance",
       "flag": "wide_payer_range_review",
       "ratio": 141.5
     },
@@ -176218,7 +178397,7 @@
       "code": "84478",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 543.93
+      "ratio": 922.5
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176226,13 +178405,6 @@
       "payer": "Allianz",
       "flag": "wide_payer_range_review",
       "ratio": 275.69
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84478",
-      "payer": "Ambetter/Centene",
-      "flag": "wide_payer_range_review",
-      "ratio": 274.3
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176260,7 +178432,7 @@
       "code": "84478",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 433.38
+      "ratio": 1177.66
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176296,6 +178468,13 @@
       "payer": "Employers Health Network",
       "flag": "wide_payer_range_review",
       "ratio": 274.6
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "84478",
+      "payer": "First Health",
+      "flag": "wide_payer_range_review",
+      "ratio": 275.13
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176337,7 +178516,7 @@
       "code": "84478",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 274.79
+      "ratio": 392.55
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176384,37 +178563,23 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "84478",
-      "payer": "Star Healthcare Network",
-      "flag": "wide_payer_range_review",
-      "ratio": 275.69
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84478",
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 275.89
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84478",
-      "payer": "World Medical Care",
+      "code": "84520",
+      "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 275.69
+      "ratio": 130.81
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84478",
-      "payer": "Worldwide Managed Care Partners",
+      "code": "84520",
+      "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 275.69
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "84478",
-      "payer": "Worldwide Medical Assurance",
-      "flag": "wide_payer_range_review",
-      "ratio": 275.69
+      "ratio": 164.79
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176425,10 +178590,24 @@
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "84550",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.42
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "85027",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.62
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "85610",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 135.82
+      "ratio": 230.34
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176442,7 +178621,14 @@
       "code": "85610",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 106.13
+      "ratio": 288.38
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "85610",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.18
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176450,6 +178636,20 @@
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 477.75
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "86140",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.88
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "86140",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.14
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176463,7 +178663,7 @@
       "code": "87086",
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
-      "ratio": 123.5
+      "ratio": 209.45
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176471,6 +178671,20 @@
       "payer": "AvMed",
       "flag": "wide_payer_range_review",
       "ratio": 112.93
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "87086",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 263.01
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "87086",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 117.43
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
@@ -176496,51 +178710,44 @@
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
       "code": "88305",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 123.82
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "88305",
+      "payer": "Cigna",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.54
+    },
+    {
+      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
+      "code": "88305",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
       "ratio": 256.03
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "99204",
+      "code": "93306",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 104.0
+      "ratio": 123.04
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "99205",
+      "code": "94640",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 117.97
+      "ratio": 109.8
     },
     {
       "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "99212",
-      "payer": "Medicaid",
+      "code": "94640",
+      "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 104.0
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "99213",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 104.0
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "99214",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 104.0
-    },
-    {
-      "id": "oria-joe_dimaggio_children_s_hospital-9591d",
-      "code": "99215",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 104.0
+      "ratio": 116.67
     },
     {
       "id": "oria-winona_health_services-be519",
