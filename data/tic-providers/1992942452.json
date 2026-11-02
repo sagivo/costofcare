@@ -1,0 +1,25 @@
+{
+  "npi": "1992942452",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-02T20:53:20Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1992942452",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "NICOLE",
+      "last_name": "BARNARD",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "2901 JUAN TABO BLVD NE STE 117",
+        "city": "ALBUQUERQUE",
+        "state": "NM",
+        "postal_code": "871121885"
+      },
+      "last_updated": "2024-12-09"
+    }
+  ]
+}

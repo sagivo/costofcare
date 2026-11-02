@@ -1,0 +1,25 @@
+{
+  "npi": "1992946610",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-02T20:53:21Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1992946610",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "NANCIE",
+      "last_name": "FORREST",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "137 WATERSIDE AVE",
+        "city": "NORTHPORT",
+        "state": "NY",
+        "postal_code": "117682154"
+      },
+      "last_updated": "2009-03-09"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1972929438",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-02T20:53:03Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1972929438",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MARINEH",
+      "last_name": "BAGHOUMIAN",
+      "primary_taxonomy": "Optometrist",
+      "location": {
+        "address_1": "435 ARDEN AVE STE 430",
+        "city": "GLENDALE",
+        "state": "CA",
+        "postal_code": "912034022"
+      },
+      "last_updated": "2019-01-08"
+    }
+  ]
+}

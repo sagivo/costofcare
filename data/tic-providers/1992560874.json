@@ -1,0 +1,25 @@
+{
+  "npi": "1992560874",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-02T20:53:15Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1992560874",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ARMAN",
+      "last_name": "MOGHADAS",
+      "primary_taxonomy": "Technician",
+      "location": {
+        "address_1": "3320 E HEBRON PKWY STE 116",
+        "city": "CARROLLTON",
+        "state": "TX",
+        "postal_code": "750104577"
+      },
+      "last_updated": "2024-02-19"
+    }
+  ]
+}
