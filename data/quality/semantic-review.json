@@ -1,346 +1,186 @@
 {
-  "generated_at": "2026-11-03T03:53:04.267751+00:00",
-  "records_scanned": 659792,
+  "generated_at": "2026-11-03T18:43:31.931682+00:00",
+  "records_scanned": 1146629,
   "flag_counts": {
-    "large_published_amount_review": 35646,
-    "zero_published_amount_review": 1106
+    "large_published_amount_review": 152
   },
   "review_examples": [
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 102,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1000070.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 408,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 103,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1000071.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 416,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 104,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1000072.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 417,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 105,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1000073.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 630,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 106,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1000471.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 645,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 110,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1000782.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 668,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 112,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1000788.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 699,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 124,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1002001.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 703,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 151,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1004036.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 704,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 177,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1009283.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 705,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 187,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1210471.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 706,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 187,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|min",
-      "raw_value": "1028900.35"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 707,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 187,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|max",
-      "raw_value": "1125738.03"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 729,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 194,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "1216372.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 731,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 194,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|min",
-      "raw_value": "1033916.20"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 796,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 194,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|max",
-      "raw_value": "1131225.96"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 818,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 235,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|gross",
-      "raw_value": "4000049.00"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 819,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 235,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|discounted_cash",
-      "raw_value": "2800034.30"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 853,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 235,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|min",
-      "raw_value": "3400041.65"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 854,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     },
     {
       "flag": "large_published_amount_review",
-      "source_id": "oria-webster_county_memorial_hospital-2f50a",
-      "source_record_ordinal": 235,
-      "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
-      "field": "standard_charge|max",
-      "raw_value": "3720045.57"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1454,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1454,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1455,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1455,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1634,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1634,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1957,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 1957,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2298,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2298,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2418,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2418,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2419,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2419,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2420,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2420,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2422,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2422,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2469,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|PPO|negotiated_dollar",
-      "raw_value": "0"
-    },
-    {
-      "flag": "zero_published_amount_review",
-      "source_id": "oria-wood_county_hospital-2ed13",
-      "source_record_ordinal": 2469,
-      "source_sha256": "7042c0acf229b0f064c92a4fa0a72e82f6cf8712aa4fa119a830d01cf9982ddc",
-      "field": "standard_charge|Anthem|Marketplace|negotiated_dollar",
-      "raw_value": "0"
+      "source_id": "oria-community_healthcare_system_hospital-da4ec",
+      "source_record_ordinal": 855,
+      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
+      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
+      "raw_value": "9999999999"
     }
   ],
   "populated_qualifier_counts": {
-    "setting": 644320,
-    "billing_class": 584086,
-    "payer_name": 605335,
-    "plan_name": 605335,
-    "modifiers": 140054,
-    "json_payer_name": 81070,
-    "json_plan_name": 81070,
-    "json_methodology": 81070,
-    "json_source_records": 5938
+    "setting": 776226,
+    "modifiers": 327613,
+    "row_width_mismatch_records_skipped": 328255,
+    "plan_name": 760672,
+    "billing_class": 161927,
+    "payer_name": 760652,
+    "json_payer_name": 3133,
+    "json_plan_name": 3133,
+    "json_methodology": 3133,
+    "json_source_records": 212
   },
   "coverage_note": {
-    "local_blob_files": 113,
-    "remote_only_files": 2641,
+    "local_blob_files": 105,
+    "remote_only_files": 2649,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."
