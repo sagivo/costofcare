@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-04T16:38:16.701981+00:00",
+  "generated_at": "2026-11-04T20:29:22.028243+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2771,
     "distinct_successful_mrf_urls": 2771,
-    "extracted_within_24h": 2714,
+    "extracted_within_24h": 2697,
     "sources_over_365_days_old": 215,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 359886,
-    "row_preserving_records": 21262680
+    "hospital_code_aggregates": 360340,
+    "row_preserving_records": 22291749
   },
   "status_counts": {
     "failed": 806,
@@ -77,7 +77,7 @@
     "11042": 2422,
     "12001": 2356,
     "20610": 2496,
-    "55700": 1647,
+    "55700": 1642,
     "70450": 2551,
     "70460": 2483,
     "70486": 2525,
@@ -91,74 +91,74 @@
     "71250": 2534,
     "71260": 2529,
     "71275": 2519,
-    "72125": 2528,
-    "72131": 2523,
-    "72141": 2452,
-    "72146": 2453,
-    "72148": 2465,
-    "72149": 2307,
-    "72156": 2434,
-    "72158": 2446,
-    "73218": 2339,
-    "73221": 2391,
-    "73222": 2217,
-    "73700": 2470,
-    "73718": 2363,
-    "73721": 2389,
-    "73722": 2174,
-    "73723": 2340,
-    "74150": 2519,
-    "74160": 2499,
-    "74176": 2535,
-    "74177": 2541,
-    "76536": 2528,
-    "76642": 2321,
-    "76700": 2563,
-    "76775": 2418,
-    "76830": 2493,
-    "76856": 2531,
-    "80048": 2582,
-    "80053": 2587,
-    "80061": 2579,
-    "80069": 2523,
-    "80076": 2575,
-    "81001": 2533,
-    "82947": 2544,
-    "83036": 2593,
-    "84443": 2589,
-    "85025": 2574,
-    "85027": 2516,
-    "85610": 2597,
-    "86580": 2063,
-    "87804": 2171,
-    "90471": 2431,
-    "90686": 1535,
-    "93303": 1698,
-    "93306": 2477,
-    "93880": 2500,
-    "93970": 2523,
-    "93971": 2499,
-    "93978": 2114,
-    "94640": 2478,
-    "96372": 2516,
-    "97110": 2525,
-    "97161": 2487,
-    "97530": 2514,
-    "99202": 1922,
-    "99203": 1927,
-    "99204": 1967,
-    "99205": 1937,
-    "99212": 2025,
-    "99213": 2060,
-    "99214": 2061,
-    "99215": 2003,
-    "99281": 2403,
-    "99282": 2411,
-    "99283": 2418,
-    "99284": 2421,
-    "99285": 2424,
+    "72125": 2529,
+    "72131": 2524,
+    "72141": 2453,
+    "72146": 2454,
+    "72148": 2466,
+    "72149": 2308,
+    "72156": 2435,
+    "72158": 2447,
+    "73218": 2340,
+    "73221": 2393,
+    "73222": 2218,
+    "73700": 2472,
+    "73718": 2365,
+    "73721": 2391,
+    "73722": 2176,
+    "73723": 2342,
+    "74150": 2521,
+    "74160": 2501,
+    "74176": 2537,
+    "74177": 2543,
+    "76536": 2529,
+    "76642": 2323,
+    "76700": 2564,
+    "76775": 2420,
+    "76830": 2495,
+    "76856": 2533,
+    "80048": 2584,
+    "80053": 2589,
+    "80061": 2581,
+    "80069": 2525,
+    "80076": 2577,
+    "81001": 2535,
+    "82947": 2547,
+    "83036": 2596,
+    "84443": 2592,
+    "85025": 2577,
+    "85027": 2519,
+    "85610": 2600,
+    "86580": 2064,
+    "87804": 2174,
+    "90471": 2436,
+    "90686": 1525,
+    "93303": 1703,
+    "93306": 2481,
+    "93880": 2504,
+    "93970": 2527,
+    "93971": 2503,
+    "93978": 2118,
+    "94640": 2482,
+    "96372": 2521,
+    "97110": 2530,
+    "97161": 2492,
+    "97530": 2519,
+    "99202": 1927,
+    "99203": 1932,
+    "99204": 1972,
+    "99205": 1942,
+    "99212": 2029,
+    "99213": 2064,
+    "99214": 2065,
+    "99215": 2007,
+    "99281": 2407,
+    "99282": 2415,
+    "99283": 2422,
+    "99284": 2425,
+    "99285": 2428,
     "19083": 2052,
-    "27130": 1682,
+    "27130": 1683,
     "27447": 1715,
     "29827": 1713,
     "29848": 1434,
@@ -176,72 +176,72 @@
     "49505": 1886,
     "52353": 1516,
     "58150": 1304,
-    "59025": 2034,
-    "59400": 1062,
-    "59510": 1013,
-    "62323": 2087,
+    "59025": 2035,
+    "59400": 1068,
+    "59510": 1019,
+    "62323": 2088,
     "64483": 2052,
     "64721": 1838,
     "69436": 1554,
-    "76805": 2376,
-    "77014": 1264,
-    "77063": 2095,
-    "77065": 2121,
-    "77066": 2179,
-    "77067": 2252,
-    "77080": 2310,
-    "77385": 1238,
-    "78452": 2256,
-    "78815": 1770,
-    "80074": 2486,
-    "81002": 2158,
-    "82306": 2561,
-    "82310": 2531,
-    "82565": 2552,
-    "82607": 2559,
-    "82728": 2557,
-    "83718": 2381,
-    "83735": 2576,
-    "84100": 2564,
-    "84132": 2564,
-    "84153": 2546,
-    "84295": 2551,
-    "84439": 2568,
-    "84478": 2538,
-    "84520": 2543,
-    "84550": 2552,
-    "85652": 2222,
-    "86140": 2553,
-    "87086": 2488,
-    "87491": 2485,
-    "87591": 2470,
-    "87635": 2464,
-    "88112": 2303,
-    "88175": 1818,
-    "88305": 2477,
-    "90791": 1623,
-    "90834": 1663,
-    "92557": 1274,
-    "93000": 1132,
-    "94010": 2400,
-    "95810": 1948,
-    "96413": 2115,
-    "99223": 1216,
-    "99232": 1227,
-    "99385": 1144,
-    "99395": 1140,
-    "G0121": 1686,
-    "G0439": 1102,
+    "76805": 2378,
+    "77014": 1261,
+    "77063": 2098,
+    "77065": 2124,
+    "77066": 2182,
+    "77067": 2254,
+    "77080": 2314,
+    "77385": 1235,
+    "78452": 2258,
+    "78815": 1772,
+    "80074": 2488,
+    "81002": 2160,
+    "82306": 2564,
+    "82310": 2534,
+    "82565": 2555,
+    "82607": 2562,
+    "82728": 2560,
+    "83718": 2384,
+    "83735": 2579,
+    "84100": 2567,
+    "84132": 2567,
+    "84153": 2549,
+    "84295": 2554,
+    "84439": 2571,
+    "84478": 2541,
+    "84520": 2546,
+    "84550": 2555,
+    "85652": 2224,
+    "86140": 2556,
+    "87086": 2492,
+    "87491": 2489,
+    "87591": 2474,
+    "87635": 2468,
+    "88112": 2307,
+    "88175": 1822,
+    "88305": 2481,
+    "90791": 1634,
+    "90834": 1674,
+    "92557": 1283,
+    "93000": 1142,
+    "94010": 2404,
+    "95810": 1952,
+    "96413": 2120,
+    "99223": 1226,
+    "99232": 1237,
+    "99385": 1154,
+    "99395": 1150,
+    "G0121": 1690,
+    "G0439": 1111,
     "42820": 1496,
-    "59410": 1021,
-    "59515": 1013,
+    "59410": 1028,
+    "59515": 1019,
     "66984": 1511,
-    "90837": 1653,
-    "92004": 1062,
-    "92014": 1034,
-    "92134": 1129,
-    "93015": 903,
-    "E0601": 454
+    "90837": 1664,
+    "92004": 1072,
+    "92014": 1044,
+    "92134": 1139,
+    "93015": 912,
+    "E0601": 457
   },
   "qa_flags": [
     {
@@ -27245,20 +27245,6 @@
       "ratio": 111.58
     },
     {
-      "id": "oria-aurora_medical_center_mount_pleasant-be9ce",
-      "code": "36415",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 2105.0
-    },
-    {
-      "id": "oria-aurora_medical_center_mount_pleasant-be9ce",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.34
-    },
-    {
       "id": "oria-baylor_surgical_hospital_at_las_colinas-9bb9f",
       "code": "11042",
       "payer": "BCBS",
@@ -27488,20 +27474,6 @@
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
       "ratio": 121.94
-    },
-    {
-      "id": "oria-aurora_medical_center_manitowoc-28245",
-      "code": "36415",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 2105.0
-    },
-    {
-      "id": "oria-aurora_medical_center_manitowoc-28245",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.34
     },
     {
       "id": "oria-winter_haven_hospital-256c5",
@@ -33426,20 +33398,6 @@
       "ratio": 139.41
     },
     {
-      "id": "oria-aurora_medical_center_grafton-16ca2",
-      "code": "36415",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 2105.0
-    },
-    {
-      "id": "oria-aurora_medical_center_grafton-16ca2",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.34
-    },
-    {
       "id": "mercy-rehabilitation-hospital-northwest-arkansas",
       "flag": "unresolved_geography"
     },
@@ -34507,20 +34465,6 @@
       "payer": "WORKERS COMP [600]",
       "flag": "wide_payer_range_review",
       "ratio": 1260.0
-    },
-    {
-      "id": "oria-aurora_medical_center_bay_area-59ea3",
-      "code": "36415",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 15600.0
-    },
-    {
-      "id": "oria-aurora_medical_center_bay_area-59ea3",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.34
     },
     {
       "id": "oria-astera_health-37729",
@@ -53495,83 +53439,6 @@
       "ratio": 118.0
     },
     {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "80076",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 104.75
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "84550",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 106.5
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 199.4
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "Cigna",
-      "flag": "wide_payer_range_review",
-      "ratio": 185.0
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "DirectNet",
-      "flag": "wide_payer_range_review",
-      "ratio": 173.0
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "Humana",
-      "flag": "wide_payer_range_review",
-      "ratio": 179.33
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "MedCost",
-      "flag": "wide_payer_range_review",
-      "ratio": 230.33
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 189.0
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "MultiPlan",
-      "flag": "wide_payer_range_review",
-      "ratio": 190.56
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "Prime Health Service",
-      "flag": "wide_payer_range_review",
-      "ratio": 189.25
-    },
-    {
-      "id": "oria-catawba_valley_health_system-d2908",
-      "code": "93970",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 168.17
-    },
-    {
       "id": "oria-lamb_healthcare_center-9575e",
       "flag": "source_update_date_unparseable",
       "value": null
@@ -67315,98 +67182,98 @@
       "code": "86580",
       "payer": "AMPS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.29
+      "ratio": 148.03
+    },
+    {
+      "id": "oria-chi_health_mercy_corning-798b0",
+      "code": "86580",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "Greater Omaha Packing",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "Medica",
       "flag": "wide_payer_range_review",
-      "ratio": 136.45
+      "ratio": 156.17
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 134.52
+      "ratio": 153.96
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 135.82
+      "ratio": 155.44
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "Midlands Choice",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "Millard Public Schools",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "MultiPlan",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "One World",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "PHCS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "QuikTrip",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
-    },
-    {
-      "id": "oria-chi_health_mercy_corning-798b0",
-      "code": "86580",
-      "payer": "Timpte",
-      "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_mercy_corning-798b0",
       "code": "86580",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-honor_health_scottsdale_osborn_medical_center-fc711",
@@ -77399,101 +77266,108 @@
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
+      "code": "55700",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.7
+    },
+    {
+      "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "AMPS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.31
+      "ratio": 147.98
+    },
+    {
+      "id": "oria-chi_health_schuyler-2f71a",
+      "code": "86580",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 136.16
+      "ratio": 202.72
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "Greater Omaha Packing",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "Medica",
       "flag": "wide_payer_range_review",
-      "ratio": 136.45
+      "ratio": 156.17
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 343.92
+      "ratio": 414.33
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 135.81
+      "ratio": 155.44
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "Midlands Choice",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "Millard Public Schools",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "MultiPlan",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "One World",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "PHCS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "QuikTrip",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
-    },
-    {
-      "id": "oria-chi_health_schuyler-2f71a",
-      "code": "86580",
-      "payer": "Timpte",
-      "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_schuyler-2f71a",
       "code": "86580",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-allendale_county_hospital-3833c",
@@ -93630,6 +93504,13 @@
       "id": "oria-ummc_madison-062d1",
       "flag": "source_update_date_unparseable",
       "value": null
+    },
+    {
+      "id": "oria-advocate_trinity_hospital-adb1c",
+      "code": "62323",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 183.36
     },
     {
       "id": "oria-essentia_health_fargo-0f720",
@@ -156400,98 +156281,98 @@
       "code": "86580",
       "payer": "AMPS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.26
+      "ratio": 148.03
+    },
+    {
+      "id": "oria-chi_health_missouri_valley-ecbdc",
+      "code": "86580",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 215.58
+      "ratio": 242.48
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "Greater Omaha Packing",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "Medica",
       "flag": "wide_payer_range_review",
-      "ratio": 136.45
+      "ratio": 156.17
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 134.52
+      "ratio": 153.96
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 135.81
+      "ratio": 155.44
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "Midlands Choice",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "Millard Public Schools",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "MultiPlan",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "One World",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "PHCS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "QuikTrip",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
-    },
-    {
-      "id": "oria-chi_health_missouri_valley-ecbdc",
-      "code": "86580",
-      "payer": "Timpte",
-      "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_missouri_valley-ecbdc",
       "code": "86580",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-iroquois_memorial_hospital-2f9ea",
@@ -164105,98 +163986,98 @@
       "code": "86580",
       "payer": "AMPS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.33
+      "ratio": 148.04
+    },
+    {
+      "id": "oria-chi_health_plainview-9cfa2",
+      "code": "86580",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 136.16
+      "ratio": 202.72
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "Greater Omaha Packing",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "Medica",
       "flag": "wide_payer_range_review",
-      "ratio": 136.45
+      "ratio": 156.17
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
-      "ratio": 134.52
+      "ratio": 202.27
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 135.81
+      "ratio": 155.44
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "Midlands Choice",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "Millard Public Schools",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "MultiPlan",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "One World",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "PHCS",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "QuikTrip",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
-    },
-    {
-      "id": "oria-chi_health_plainview-9cfa2",
-      "code": "86580",
-      "payer": "Timpte",
-      "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "oria-chi_health_plainview-9cfa2",
       "code": "86580",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 129.35
+      "ratio": 148.04
     },
     {
       "id": "st-vincent-healthcare",
@@ -169900,20 +169781,6 @@
       "ratio": 179.13
     },
     {
-      "id": "oria-aurora_baycare_medical_center-7ce24",
-      "code": "36415",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 2105.0
-    },
-    {
-      "id": "oria-aurora_baycare_medical_center-7ce24",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.34
-    },
-    {
       "id": "oria-peninsula_behavioral_health-4aded",
       "code": "80053",
       "payer": "Cigna",
@@ -174673,13 +174540,6 @@
       "id": "oria-big_sky_medical_center-10e82",
       "flag": "source_over_365_days_old",
       "age_days": 715
-    },
-    {
-      "id": "oria-chi_health_mercy_council_bluffs-623ef",
-      "code": "80061",
-      "payer": "Medicaid",
-      "flag": "wide_payer_range_review",
-      "ratio": 157.42
     },
     {
       "id": "oria-inspira_medical_center_mannington-07f5d",
@@ -180109,20 +179969,6 @@
       "ratio": 639.0
     },
     {
-      "id": "oria-aurora_lakeland_medical_center-3f2ac",
-      "code": "36415",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 2105.0
-    },
-    {
-      "id": "oria-aurora_lakeland_medical_center-3f2ac",
-      "code": "59025",
-      "payer": "Aetna",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.34
-    },
-    {
       "id": "oria-marshfield_medical_center_minocqua-b9f75",
       "code": "84295",
       "payer": "UnitedHealthcare",
@@ -180160,6 +180006,90 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 116.56
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "AMPS",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.99
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 202.72
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "Greater Omaha Packing",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "Medica",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.17
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 291.62
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.44
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "Midlands Choice",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "Millard Public Schools",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "MultiPlan PHCS",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "One World",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
+    },
+    {
+      "id": "oria-chi_health_st_mary_s-288ff",
+      "code": "86580",
+      "payer": "United",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.04
     },
     {
       "id": "oria-east_los_angeles_doctor_s_hospital-c512b",
@@ -181682,13 +181612,6 @@
       "ratio": 561.6
     },
     {
-      "id": "rush-oak-park-hospital-inc",
-      "code": "96413",
-      "payer": "BCBS",
-      "flag": "wide_payer_range_review",
-      "ratio": 102.86
-    },
-    {
       "id": "oria-vista_medical_center-03318",
       "flag": "source_update_date_unparseable",
       "value": null
@@ -181916,6 +181839,27 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 198.59
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "88305",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.04
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "90471",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.72
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "90791",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.42
     },
     {
       "id": "oria-dupont_hospital-7a1a5",
