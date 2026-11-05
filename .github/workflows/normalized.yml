@@ -18,7 +18,7 @@ on:
         default: 'false'
         required: true
       source_timeout:
-        description: Seconds allowed per source (raised 240->600 Nov 2026: multi-GB uncompressed Trinity zips need >240s total process time)
+        description: "Seconds allowed per source; raised 240 to 600 Nov 2026 for multi-GB uncompressed zips"
         default: '600'
         required: true
 permissions:
