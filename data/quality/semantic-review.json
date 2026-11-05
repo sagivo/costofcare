@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-04T03:10:52.894217+00:00",
-  "records_scanned": 815412,
+  "generated_at": "2026-11-05T08:48:47.795737+00:00",
+  "records_scanned": 3750669,
   "flag_counts": {},
   "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 654245,
-    "modifiers": 103659,
-    "payer_name": 694416,
-    "plan_name": 693058,
-    "billing_class": 310201,
-    "json_payer_name": 58573,
-    "json_plan_name": 58573,
-    "json_methodology": 58573,
-    "json_source_records": 1451,
-    "row_width_mismatch_records_skipped": 70679
+    "setting": 3574599,
+    "billing_class": 3391740,
+    "payer_name": 3523136,
+    "plan_name": 3523136,
+    "modifiers": 1327800,
+    "json_source_records": 2640,
+    "json_payer_name": 1135,
+    "json_plan_name": 1135,
+    "json_methodology": 1135,
+    "row_width_mismatch_records_skipped": 176413
   },
   "coverage_note": {
-    "local_blob_files": 95,
-    "remote_only_files": 2668,
+    "local_blob_files": 110,
+    "remote_only_files": 2653,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

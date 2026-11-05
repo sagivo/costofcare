@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 4531,
   "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/240795411_evangelical-community-hospital_standardcharges.csv",
-  "source_sha256": "404598efccffe9349940bd84f62fb1380eb4a0d29f235c33f2aaa6c4e4513562",
+  "source_sha256": "5caa5a483995cdad9da26ee28104729de05baec2ccc189a876a8482ec96af90a",
   "download_bytes": 7005673,
-  "extracted_at": "2026-10-23T01:34:58Z",
+  "extracted_at": "2026-11-05T08:32:19Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-e3",
-    "asset_name": "wellspan-evangelical-community-hospital__e34493711f65cb54.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/wellspan-evangelical-community-hospital__e34493711f65cb54.jsonl.gz",
-    "asset_sha256": "e34493711f65cb54b5f21487fffa2592b890210039085ec587508d6771727ff2",
-    "published_at": "2026-10-29T20:01:28Z"
+    "release": "data-norm-68",
+    "asset_name": "wellspan-evangelical-community-hospital__68aa60e6c4d97371.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-68/wellspan-evangelical-community-hospital__68aa60e6c4d97371.jsonl.gz",
+    "asset_sha256": "68aa60e6c4d97371dea17a44f7bde0cb7b02d523546c3d6519611624f6d0cdb1",
+    "published_at": "2026-11-05T08:44:19Z"
   }
 }

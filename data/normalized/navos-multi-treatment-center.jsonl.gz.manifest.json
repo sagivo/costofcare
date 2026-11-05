@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8166/910848698-1194728105_navos-multitreatment-center_standardcharges.csv",
   "source_sha256": "85f46ec0065b5b728f6cff778b97a9c91f3707cb95667e8c6881fcf5976a75e3",
   "download_bytes": 4331566,
-  "extracted_at": "2026-10-23T01:31:22Z",
+  "extracted_at": "2026-11-05T08:28:53Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "navos-multi-treatment-center__8ae369e0f20ecb71.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8a/navos-multi-treatment-center__8ae369e0f20ecb71.jsonl.gz",
     "asset_sha256": "8ae369e0f20ecb71a9241399156f737eacf5bc31ad3fd70629ef85ddf11a83be",
-    "published_at": "2026-10-25T07:56:23Z"
+    "published_at": "2026-11-05T08:42:17Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/941156621-1447494323_sutter-amador-hospital_standardcharges.csv",
   "source_sha256": "cf7c798abb6d5788db114fd5876edfcb708eaf8c599a881a28649610a21ca629",
   "download_bytes": 7330878,
-  "extracted_at": "2026-10-23T01:35:07Z",
+  "extracted_at": "2026-11-05T08:32:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sutter-amador-hospital__ecf83bf3072fd783.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/sutter-amador-hospital__ecf83bf3072fd783.jsonl.gz",
     "asset_sha256": "ecf83bf3072fd7839be4f5131ebab50cdb82b92cafd37115ecc72b3b218485dd",
-    "published_at": "2026-10-29T17:26:15Z"
+    "published_at": "2026-11-05T08:44:04Z"
   }
 }

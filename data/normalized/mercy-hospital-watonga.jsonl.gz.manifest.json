@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/455199762_mercy-hospital-watonga_standardcharges.zip",
   "source_sha256": "df1ec31049b5ebde169f13591d104c7315251d33feb174379f0ae666781e539e",
   "download_bytes": 10231025,
-  "extracted_at": "2026-10-23T01:40:30Z",
+  "extracted_at": "2026-11-05T08:37:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-hospital-watonga__75068af6e119c26e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/mercy-hospital-watonga__75068af6e119c26e.jsonl.gz",
     "asset_sha256": "75068af6e119c26e6cfe662497eb15aad4b630045d03cc523d5577684afd1f18",
-    "published_at": "2026-10-25T07:54:47Z"
+    "published_at": "2026-11-05T08:42:10Z"
   }
 }

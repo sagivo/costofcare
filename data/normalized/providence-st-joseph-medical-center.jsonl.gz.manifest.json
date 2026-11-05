@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/wamt/live/810463482_providence-st-joseph-medical-center_standardcharges.json",
   "source_sha256": "bf8c2b4fee3de4b47effe4bb71395ed0300d3806b470f7d9402df6d41c8dc21f",
   "download_bytes": 10689259,
-  "extracted_at": "2026-10-23T01:40:24Z",
+  "extracted_at": "2026-11-05T08:37:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "providence-st-joseph-medical-center__2ff3d14194908265.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/providence-st-joseph-medical-center__2ff3d14194908265.jsonl.gz",
     "asset_sha256": "2ff3d14194908265eb6d731aee126644b1fd650a6b6eb2502a11a286d35a732b",
-    "published_at": "2026-10-29T08:03:03Z"
+    "published_at": "2026-11-05T08:43:47Z"
   }
 }

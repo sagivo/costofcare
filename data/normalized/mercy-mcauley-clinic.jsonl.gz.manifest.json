@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/431066883_mercy-hospital-washington-McAuleyClinic_RHC_standardcharges.zip",
   "source_sha256": "bebfc6f9d8fa4d28ab9642a5b96eea3300eb60ff819f13ca381a9ccd51ca914c",
   "download_bytes": 4839795,
-  "extracted_at": "2026-10-23T01:32:35Z",
+  "extracted_at": "2026-11-05T08:30:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-mcauley-clinic__1c963266a57cfc2d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/mercy-mcauley-clinic__1c963266a57cfc2d.jsonl.gz",
     "asset_sha256": "1c963266a57cfc2de956bf5a202ad725338f1c8fef10630ce4f1902b26290822",
-    "published_at": "2026-10-25T07:54:53Z"
+    "published_at": "2026-11-05T08:42:12Z"
   }
 }
