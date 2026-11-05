@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 965,
   "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/940562680-1295181477_alta-bates-summit-medical-center-summit-campus_standardcharges.csv",
-  "source_sha256": "779a137da57a4ba272d959c890b1069884ba9f5049dc0e2dd8d712f98b8455c9",
-  "download_bytes": 17061637,
-  "extracted_at": "2026-10-23T01:44:25Z",
+  "source_sha256": "2b7b397790f05666d4405b651a36c3519fa95a69bd59449deb1bc90ff1096e6a",
+  "download_bytes": 15495278,
+  "extracted_at": "2026-11-05T18:19:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-35",
-    "asset_name": "alta-bates-summit-medical-center-summit-campus__3554c277d030fccd.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-35/alta-bates-summit-medical-center-summit-campus__3554c277d030fccd.jsonl.gz",
-    "asset_sha256": "3554c277d030fccddf5e1c704441e750f3072d57e9122bfb4835e6ea7f35b115",
-    "published_at": "2026-10-25T16:06:05Z"
+    "release": "data-norm-bc",
+    "asset_name": "alta-bates-summit-medical-center-summit-campus__bcae513031a1f35c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/alta-bates-summit-medical-center-summit-campus__bcae513031a1f35c.jsonl.gz",
+    "asset_sha256": "bcae513031a1f35cd2e92337e812f2f6d49729f15024eb85269eb778384a3c72",
+    "published_at": "2026-11-05T18:29:54Z"
   }
 }

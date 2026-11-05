@@ -5,7 +5,7 @@
   "source_url": "https://www.wellstar.org/wellstar-sylvan-grove-hospital_standard-charges",
   "source_sha256": "856046431eddf67b3a9c4cc7a70838f0d97fd91ed27b291fbba0a588f5c0eba0",
   "download_bytes": 29870906,
-  "extracted_at": "2026-10-23T15:30:46Z",
+  "extracted_at": "2026-11-05T18:27:50Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "wellstar-sylvan-grove-hospital__80e9a6cb2a4d8ff5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-80/wellstar-sylvan-grove-hospital__80e9a6cb2a4d8ff5.jsonl.gz",
     "asset_sha256": "80e9a6cb2a4d8ff58f7ec85815916272a98f0c7effec260bdf957f21fd454f7c",
-    "published_at": "2026-10-29T20:02:05Z"
+    "published_at": "2026-11-05T18:32:33Z"
   }
 }

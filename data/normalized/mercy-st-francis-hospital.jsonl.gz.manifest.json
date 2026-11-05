@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/440607149_mercy-st.-francis-hospital_standardcharges.csv.zip",
   "source_sha256": "6df261eb8ac2005bb6db8fbec8f1d2d012015c725a1489c392ef403804e042c4",
   "download_bytes": 17328528,
-  "extracted_at": "2026-10-23T15:25:07Z",
+  "extracted_at": "2026-11-05T18:20:50Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-st-francis-hospital__d2d10aa73fe2f9b9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d2/mercy-st-francis-hospital__d2d10aa73fe2f9b9.jsonl.gz",
     "asset_sha256": "d2d10aa73fe2f9b926c088ab7013d568520c4bce2a0adb04a6110aa8f18a7883",
-    "published_at": "2026-10-25T07:55:45Z"
+    "published_at": "2026-11-05T18:30:55Z"
   }
 }

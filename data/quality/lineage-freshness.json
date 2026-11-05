@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:48:47.817971+00:00",
+  "generated_at": "2026-11-05T18:34:16.393868+00:00",
   "normalized_files": 2763,
   "parser_versions": {
     "row-preserving-1.3": 2755,
@@ -7,9 +7,9 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 1238,
-    "over_7_days": 1316,
-    "within_24h": 209
+    "1_to_7_days": 1186,
+    "over_7_days": 1322,
+    "within_24h": 255
   },
   "failed_attempt_classes": {
     "other": 18,
@@ -356,13 +356,6 @@
       "summary_extracted_at": "2026-11-04T18:49:49Z"
     },
     {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dharz/ceaz/finance/price-transparency/471587223-1154748416_agh-laveen-llc_standardcharges.json",
-      "normalized_sha256": "2f2fd2b220f13ca8866ffdba314594446d052fd81e75e4d9ba9c487ecabc7b48",
-      "summary_sha256": "36a2c67f933afe35170b7b13e4549dd08971888eb82b59547200544e18a1bc61",
-      "normalized_extracted_at": "2026-10-23T15:30:21Z",
-      "summary_extracted_at": "2026-11-04T17:37:38Z"
-    },
-    {
       "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/470379755-1336184019_good-samaritan-hospital_standardcharges.json",
       "normalized_sha256": "afc1b57e69e62e4fcb84365db52b176b686992e31ead6f9308f921add002af15",
       "summary_sha256": "9acc53ce231f6c2a8a4fb160daaef840f63aedff4b16129f7a9b9930cc855c7d",
@@ -629,13 +622,6 @@
       "summary_extracted_at": "2026-11-04T19:35:21Z"
     },
     {
-      "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/940562680-1295181477_alta-bates-summit-medical-center-summit-campus_standardcharges.csv",
-      "normalized_sha256": "779a137da57a4ba272d959c890b1069884ba9f5049dc0e2dd8d712f98b8455c9",
-      "summary_sha256": "2b7b397790f05666d4405b651a36c3519fa95a69bd59449deb1bc90ff1096e6a",
-      "normalized_extracted_at": "2026-10-23T01:44:25Z",
-      "summary_extracted_at": "2026-11-04T18:04:12Z"
-    },
-    {
       "source_url": "https://www.tennovajefferson.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528414_tennova-jefferson-memorial-hospital_standardcharges.csv",
       "normalized_sha256": "e2959fafb7cb8651c08762a7b523d166930dc1f78fabb7d5f5465df9536bba9f",
       "summary_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
@@ -881,13 +867,6 @@
       "summary_extracted_at": "2026-11-04T17:58:20Z"
     },
     {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dharz/ceaz/finance/price-transparency/383990879-1689121188_agh-mesa-llc_standardcharges.json",
-      "normalized_sha256": "fb88823ace22ce7bbbc984ce0bc015d9e592303a07940e4dcef7da660e9baa48",
-      "summary_sha256": "a55978cab732bde6f26d5fd93f137498bcc2d378719589b6b4c34659859e78d9",
-      "normalized_extracted_at": "2026-10-23T15:30:22Z",
-      "summary_extracted_at": "2026-11-04T17:37:40Z"
-    },
-    {
       "source_url": "https://www.tennovalafollette.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528273_tennova-lafollette-medical-center_standardcharges.csv",
       "normalized_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
       "summary_sha256": "fd34d29d70d0cda75a52e8c2fa53a1363e0e23b8a41ac17f433988b27622df6e",
@@ -942,6 +921,13 @@
       "summary_sha256": "7d8c8a9e5aa520dcf945e343b12522c4f7246314a72c6014f35311ba5728625f",
       "normalized_extracted_at": "2026-10-28T01:38:26Z",
       "summary_extracted_at": "2026-11-04T18:31:57Z"
+    },
+    {
+      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/463808276_1548698723_es-rehabilitation-llc_standardcharges.csv",
+      "normalized_sha256": "fe8f6e7d14c5c41fa54dacb822122a3e60cbc5e8d2704b5dc14a8312a096911d",
+      "summary_sha256": "bc586d1f31632ab5d23d3386325db4dabb7789c70c73bb4fa9d014d5073906c0",
+      "normalized_extracted_at": "2026-11-05T18:28:08Z",
+      "summary_extracted_at": "2026-11-04T18:26:21Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcco/cacc/finance/price-transparency/941196203-1760510937_dignity-health-marian-regional-medical-center_standardcharges.json?target=%22_blank%22",

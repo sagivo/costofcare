@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/263173902_mercy-hospital-healdton_standardcharges.zip",
   "source_sha256": "e3a3476176b08a183a31cb8748f32cc7d9a6a05acf8caa33158931f9015a068a",
   "download_bytes": 14570474,
-  "extracted_at": "2026-10-23T01:42:37Z",
+  "extracted_at": "2026-11-05T18:17:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-hospital-healdton__ed8369400e9e2056.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/mercy-hospital-healdton__ed8369400e9e2056.jsonl.gz",
     "asset_sha256": "ed8369400e9e2056adbb131a82cea11961e818602e73dbb4860c719a674560ec",
-    "published_at": "2026-10-25T16:11:15Z"
+    "published_at": "2026-11-05T18:30:45Z"
   }
 }

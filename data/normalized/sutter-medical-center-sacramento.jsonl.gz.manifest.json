@@ -5,7 +5,7 @@
   "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/941156621-1811946734_sutter-medical-center-sacramento_standardcharges.csv",
   "source_sha256": "abdfa61e67fd9ebdc85df3a0c73cf3b4d12a0d8f0502ad73472b9ec180c7db94",
   "download_bytes": 16401921,
-  "extracted_at": "2026-10-23T01:43:42Z",
+  "extracted_at": "2026-11-05T18:18:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sutter-medical-center-sacramento__d2c0213d183af9c5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d2/sutter-medical-center-sacramento__d2c0213d183af9c5.jsonl.gz",
     "asset_sha256": "d2c0213d183af9c56fb2466ebc6edde48e40c7afbe7ffe55dcf326cb426a9f70",
-    "published_at": "2026-10-29T17:26:36Z"
+    "published_at": "2026-11-05T18:32:13Z"
   }
 }

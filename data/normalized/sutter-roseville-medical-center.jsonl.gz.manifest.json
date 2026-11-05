@@ -5,7 +5,7 @@
   "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/941156621-1356390264_sutter-roseville-medical-center_standardcharges.csv",
   "source_sha256": "c3a6a33c1dcfa29972211a4cdde660330330ab37f7747ecc9d3bfdf4e8996bbe",
   "download_bytes": 18994216,
-  "extracted_at": "2026-10-23T15:26:44Z",
+  "extracted_at": "2026-11-05T18:23:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sutter-roseville-medical-center__da2471af4d4afcee.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-da/sutter-roseville-medical-center__da2471af4d4afcee.jsonl.gz",
     "asset_sha256": "da2471af4d4afcee171789797770a442cc02e336527e6a198fadc687b5dc7b1c",
-    "published_at": "2026-10-29T17:26:42Z"
+    "published_at": "2026-11-05T18:32:14Z"
   }
 }

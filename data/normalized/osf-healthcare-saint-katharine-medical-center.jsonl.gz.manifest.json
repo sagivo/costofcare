@@ -5,7 +5,7 @@
   "source_url": "https://osf-p-001.sitecorecontenthub.cloud/api/public/content/370813229_OSF-Saint-Katharine-Medical-Center_standardcharges.csv",
   "source_sha256": "c64b110d3be8364008862c71ac36b38d548b1a333c9f413fb756f7f65948bebf",
   "download_bytes": 13742765,
-  "extracted_at": "2026-10-23T01:41:52Z",
+  "extracted_at": "2026-11-05T18:14:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "osf-healthcare-saint-katharine-medical-center__85cf0b2b99156ddb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/osf-healthcare-saint-katharine-medical-center__85cf0b2b99156ddb.jsonl.gz",
     "asset_sha256": "85cf0b2b99156ddb57226568143407f7647da17d90b1ce45ca93cdd28febc90b",
-    "published_at": "2026-10-29T08:01:07Z"
+    "published_at": "2026-11-05T18:31:17Z"
   }
 }

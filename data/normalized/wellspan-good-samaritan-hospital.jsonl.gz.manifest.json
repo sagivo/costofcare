@@ -5,7 +5,7 @@
   "source_url": "https://edge.sitecorecloud.io/269a6006063e-wellspanxmcef9f-production4406-c241/media/Project/Wellspan-Site-Tenant/wellspan-site/data/media/files/Patient-Resources/Cost/230794160_good-samaritan-hospital_standardcharges.csv",
   "source_sha256": "acc8eef3bacf87672f8f529e737d3ba8388826359d9432f4fdcfab95e9df50ce",
   "download_bytes": 30215432,
-  "extracted_at": "2026-10-23T15:30:56Z",
+  "extracted_at": "2026-11-05T18:28:14Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "wellspan-good-samaritan-hospital__83f66bb3904007d9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/wellspan-good-samaritan-hospital__83f66bb3904007d9.jsonl.gz",
     "asset_sha256": "83f66bb3904007d91656829c32b3fdee20fbd462de7987b029628d4ca99c20b3",
-    "published_at": "2026-10-29T20:01:33Z"
+    "published_at": "2026-11-05T18:32:28Z"
   }
 }
