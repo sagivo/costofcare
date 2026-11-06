@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/731500629_mercy-hospital-ardmore_standardcharges.zip",
   "source_sha256": "ff723ac72b85fd851da2707f190288d01514b30217c6b1cd49c14ded155d355b",
   "download_bytes": 68524676,
-  "extracted_at": "2026-10-24T14:07:33Z",
+  "extracted_at": "2026-11-06T17:48:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-hospital-ardmore__0ca742f2545334f0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0c/mercy-hospital-ardmore__0ca742f2545334f0.jsonl.gz",
     "asset_sha256": "0ca742f2545334f097cfc79cb10bd7f873df8b99cb5ae94a340df857af851fe1",
-    "published_at": "2026-10-25T16:11:03Z"
+    "published_at": "2026-11-06T17:55:28Z"
   }
 }

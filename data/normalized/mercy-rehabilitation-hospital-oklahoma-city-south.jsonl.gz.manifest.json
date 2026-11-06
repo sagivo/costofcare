@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/815077105_mercy-rehabilitation-hospital-okcsouth_standardcharges.csv",
   "source_sha256": "efa1552ef0fc150e879f39fcd3cac670c7a3c4f6fb9a972d9bf75a563c03e75a",
   "download_bytes": 84845402,
-  "extracted_at": "2026-10-24T14:11:19Z",
+  "extracted_at": "2026-11-06T17:52:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-rehabilitation-hospital-oklahoma-city-south__81527c8fedfe3488.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/mercy-rehabilitation-hospital-oklahoma-city-south__81527c8fedfe3488.jsonl.gz",
     "asset_sha256": "81527c8fedfe348839d68f9f0a00df5846df149776a5aaf83e0954b087f17204",
-    "published_at": "2026-10-25T07:55:31Z"
+    "published_at": "2026-11-06T17:55:41Z"
   }
 }

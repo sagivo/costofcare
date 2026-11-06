@@ -5,7 +5,7 @@
   "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/331065485_legacy-salmon-creek-medical-center_standardcharges.json",
   "source_sha256": "98f9ba693f4b126613a1fd40d4a1b85cb843110896d7de07868aa8f04d0e9156",
   "download_bytes": 56267646,
-  "extracted_at": "2026-10-24T01:05:56Z",
+  "extracted_at": "2026-11-06T17:46:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "legacy-salmon-creek-medical-center__2ba63962c7633276.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/legacy-salmon-creek-medical-center__2ba63962c7633276.jsonl.gz",
     "asset_sha256": "2ba63962c7633276e76d7ef57c10f51199870ce03380244673fd72741f019485",
-    "published_at": "2026-10-25T16:09:45Z"
+    "published_at": "2026-11-06T17:55:16Z"
   }
 }

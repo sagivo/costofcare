@@ -5,7 +5,7 @@
   "source_url": "https://content.wellspan.org/MRF/231352222_york-hospital_standardcharges.csv",
   "source_sha256": "ed74e36e56c4a75b737bc8bf3497ba7d6aa69d0d1c9901b15d4b85a6205a49f0",
   "download_bytes": 86660145,
-  "extracted_at": "2026-10-24T14:11:26Z",
+  "extracted_at": "2026-11-06T17:52:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "wellspan-york-hospital__57b7d69b9341bdee.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-57/wellspan-york-hospital__57b7d69b9341bdee.jsonl.gz",
     "asset_sha256": "57b7d69b9341bdeec47b9443c3689167072f25a2166374166ae2be4a21a5a3d1",
-    "published_at": "2026-10-29T20:01:43Z"
+    "published_at": "2026-11-06T17:58:08Z"
   }
 }

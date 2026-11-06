@@ -5,7 +5,7 @@
   "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--jeanes-campus_standardcharges.csv",
   "source_sha256": "70b8fe0653afdfacb28fd9e88850ab8f3cb4c86327bc5d052f1652abd9edb6a5",
   "download_bytes": 101503910,
-  "extracted_at": "2026-10-24T14:12:45Z",
+  "extracted_at": "2026-11-06T17:54:01Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "temple-university-hospital-jeanes-campus__a099a34dff2a7310.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a0/temple-university-hospital-jeanes-campus__a099a34dff2a7310.jsonl.gz",
     "asset_sha256": "a099a34dff2a73108b8769919b4b407d1ba331a34e46b43a398c814b6802bf03",
-    "published_at": "2026-10-29T17:27:22Z"
+    "published_at": "2026-11-06T17:57:25Z"
   }
 }

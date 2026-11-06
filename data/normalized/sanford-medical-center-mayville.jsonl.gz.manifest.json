@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8381/450409348_sanford-mayville-medical-center_standardcharges.csv",
   "source_sha256": "6cabc01b2f9075b7ef9f0f646cba02f4d3be928689860a54c8a7a1295b03463c",
   "download_bytes": 47248892,
-  "extracted_at": "2026-10-24T01:02:53Z",
+  "extracted_at": "2026-11-06T17:39:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-medical-center-mayville__e95f048f2437f976.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e9/sanford-medical-center-mayville__e95f048f2437f976.jsonl.gz",
     "asset_sha256": "e95f048f2437f976e6e5b4d0c33b94a2a37e4497d1f60958d2be0966c1a1707a",
-    "published_at": "2026-10-29T08:04:01Z"
+    "published_at": "2026-11-06T17:56:47Z"
   }
 }

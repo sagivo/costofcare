@@ -5,7 +5,7 @@
   "source_url": "https://www.wellstar.org/wellstar-paulding-hospital_standard-charges",
   "source_sha256": "a593b05ab87daf2518658f7c3f447d82d2d5920faa177dd70c9e7bbf66817c1e",
   "download_bytes": 54264026,
-  "extracted_at": "2026-10-24T01:04:00Z",
+  "extracted_at": "2026-11-06T17:40:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "wellstar-paulding-hospital__ea250d612eed4a6b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/wellstar-paulding-hospital__ea250d612eed4a6b.jsonl.gz",
     "asset_sha256": "ea250d612eed4a6babcbca1e04c850d6e2d742eda4ff974d0a9216f94598068a",
-    "published_at": "2026-10-29T20:01:58Z"
+    "published_at": "2026-11-06T17:58:21Z"
   }
 }

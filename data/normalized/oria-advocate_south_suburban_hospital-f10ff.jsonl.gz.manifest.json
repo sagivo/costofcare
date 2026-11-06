@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 7547,
+  "records": 7496,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11270/362169147_advocate-south-suburban-hospital_standardcharges.csv",
-  "source_sha256": "0770bdf0fc5a7f7b640cc560f5e8c5a8bfda4824e6b7408042301c324d6f8509",
-  "download_bytes": 84041971,
-  "extracted_at": "2026-10-24T14:11:15Z",
+  "source_sha256": "e34cad04b23c8ebe2ca48d4f3b746e0ea78411dbf1c5f26748dd7d5c9193f5b8",
+  "download_bytes": 93936887,
+  "extracted_at": "2026-11-06T17:52:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-4c",
-    "asset_name": "oria-advocate_south_suburban_hospital-f10ff__4c7b8d07c6408184.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4c/oria-advocate_south_suburban_hospital-f10ff__4c7b8d07c6408184.jsonl.gz",
-    "asset_sha256": "4c7b8d07c6408184abb6148a3fab8d98d7676ad7af6c40473cd3a775dbe18ff0",
-    "published_at": "2026-10-25T07:58:59Z"
+    "release": "data-norm-08",
+    "asset_name": "oria-advocate_south_suburban_hospital-f10ff__087ff19ac48d25ad.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/oria-advocate_south_suburban_hospital-f10ff__087ff19ac48d25ad.jsonl.gz",
+    "asset_sha256": "087ff19ac48d25ad6d20e9cf67f07f9c7f8243089fb596e9e68b032da7d66ae7",
+    "published_at": "2026-11-06T17:55:56Z"
   }
 }

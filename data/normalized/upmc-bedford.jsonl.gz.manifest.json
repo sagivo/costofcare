@@ -5,7 +5,7 @@
   "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/231396795_upmc-bedford_standardcharges.csv?",
   "source_sha256": "e7fa708125ebdd2ee960daa79203a851d7be64e4f5522e8aa2ffb3fdde1b30e9",
   "download_bytes": 82337335,
-  "extracted_at": "2026-10-24T14:11:10Z",
+  "extracted_at": "2026-11-06T17:52:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "upmc-bedford__85ec5192f624fe22.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/upmc-bedford__85ec5192f624fe22.jsonl.gz",
     "asset_sha256": "85ec5192f624fe2296a8d335e4d0011286dc0b9783a48080387feda9f84f71ed",
-    "published_at": "2026-10-29T17:29:33Z"
+    "published_at": "2026-11-06T17:57:40Z"
   }
 }

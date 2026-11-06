@@ -5,7 +5,7 @@
   "source_url": "https://www.wellstar.org/wellstar-west-georgia-medical-center_standard-charges",
   "source_sha256": "44a89e4988b6ec446ce4e992cadd173d4e34f66a10de7070c473f663133a0121",
   "download_bytes": 56166456,
-  "extracted_at": "2026-10-24T01:04:25Z",
+  "extracted_at": "2026-11-06T17:40:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "wellstar-west-georgia-medical-center__9abb7cf52b8de6fc.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/wellstar-west-georgia-medical-center__9abb7cf52b8de6fc.jsonl.gz",
     "asset_sha256": "9abb7cf52b8de6fc661b2692dfc62fc40587aaf6c5cb45084815893d3ee5c09a",
-    "published_at": "2026-10-29T20:02:08Z"
+    "published_at": "2026-11-06T17:58:25Z"
   }
 }

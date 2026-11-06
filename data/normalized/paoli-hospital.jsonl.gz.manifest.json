@@ -5,7 +5,7 @@
   "source_url": "https://www.mainlinehealth.org/-/media/files/pdf/basic-content/patient-services/patient-billing/price-transparency/2026/23-1352160_paoli-hospital_standardcharges.csv",
   "source_sha256": "7a518838c12a4285ff2fbcadf1fb6740878d9e8fb60efdeb57ddeb9add7cc844",
   "download_bytes": 58464003,
-  "extracted_at": "2026-10-24T01:06:30Z",
+  "extracted_at": "2026-11-06T17:42:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "paoli-hospital__38905dc60644b588.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-38/paoli-hospital__38905dc60644b588.jsonl.gz",
     "asset_sha256": "38905dc60644b588d76fca23edbf490b79d44e95d503795c2dbeb23ac5de22e7",
-    "published_at": "2026-10-29T08:01:32Z"
+    "published_at": "2026-11-06T17:56:25Z"
   }
 }

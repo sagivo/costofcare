@@ -5,7 +5,7 @@
   "source_url": "https://www.uclahealth.org/sites/default/files/cms-hpt/953701255_resnick-neuropsychiatric-hospital-at-ucla_standardcharges.json",
   "source_sha256": "9fe4402ed867de2b52238f11f6c870bfd3e7b8916a67675927dfe6d7d659d64d",
   "download_bytes": 59367637,
-  "extracted_at": "2026-10-24T01:06:11Z",
+  "extracted_at": "2026-11-06T17:42:07Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ucla-resnick-neuropsychiatric-hospital__fda2803db3003f04.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/ucla-resnick-neuropsychiatric-hospital__fda2803db3003f04.jsonl.gz",
     "asset_sha256": "fda2803db3003f040a959406002ae84d992eabb5e83cb5f8fa506dafac0059c9",
-    "published_at": "2026-10-29T17:28:30Z"
+    "published_at": "2026-11-06T17:57:33Z"
   }
 }

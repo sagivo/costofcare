@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8375/460388596_sanford-canby-medical-center_standardcharges.csv",
   "source_sha256": "ddce283f2255ef7fadf68db00871a0a5be848238f1178dc68fbcc079d263e8ba",
   "download_bytes": 73985492,
-  "extracted_at": "2026-10-24T14:08:30Z",
+  "extracted_at": "2026-11-06T17:50:19Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-canby-medical-center__c2f1e0550877b114.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/sanford-canby-medical-center__c2f1e0550877b114.jsonl.gz",
     "asset_sha256": "c2f1e0550877b114c2f4758fa686eaed8a7b0598528fad0d5871cc9efe52de5c",
-    "published_at": "2026-10-29T08:03:45Z"
+    "published_at": "2026-11-06T17:56:36Z"
   }
 }

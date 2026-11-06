@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8382/450409348_sanford-hillsboro-medical-center_standardcharges.csv",
   "source_sha256": "32eb5a92dd5887ecea1230867535b28eb00182cc022d0b15df637ad318b3c2d1",
   "download_bytes": 49751401,
-  "extracted_at": "2026-10-24T01:03:16Z",
+  "extracted_at": "2026-11-06T17:39:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-medical-center-hillsboro__bd2ac095cc44966f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/sanford-medical-center-hillsboro__bd2ac095cc44966f.jsonl.gz",
     "asset_sha256": "bd2ac095cc44966fe54b7df9d6c36674bff720cc4462ca29391ccb51530cf61b",
-    "published_at": "2026-10-29T08:04:00Z"
+    "published_at": "2026-11-06T17:56:46Z"
   }
 }

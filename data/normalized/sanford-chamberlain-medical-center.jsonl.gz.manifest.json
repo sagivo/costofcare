@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8374/460388596_sanford-chamberlain-medical-center_standardcharges.csv",
   "source_sha256": "5a1ec9b40df070cc7d9fc3201bc7969721ed97a98695c3db79e5bad76d875e64",
   "download_bytes": 72845151,
-  "extracted_at": "2026-10-24T14:07:55Z",
+  "extracted_at": "2026-11-06T17:49:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-chamberlain-medical-center__ee80b7d549f08fdc.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/sanford-chamberlain-medical-center__ee80b7d549f08fdc.jsonl.gz",
     "asset_sha256": "ee80b7d549f08fdcb7c831aefe354be5b924ce84760099b401b096726353229b",
-    "published_at": "2026-10-29T08:03:49Z"
+    "published_at": "2026-11-06T17:56:38Z"
   }
 }

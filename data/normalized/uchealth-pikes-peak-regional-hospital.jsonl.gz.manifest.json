@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8079/824191576_uchealth-pikes-peak-regional-hospital_standardcharges.csv",
   "source_sha256": "8455a0d349660bfd3aa69ec4753c955a676d74384dcdf81682fa49d2071e96c8",
   "download_bytes": 67074924,
-  "extracted_at": "2026-10-24T01:07:38Z",
+  "extracted_at": "2026-11-06T17:44:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-pikes-peak-regional-hospital__754afecbfae8ce84.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/uchealth-pikes-peak-regional-hospital__754afecbfae8ce84.jsonl.gz",
     "asset_sha256": "754afecbfae8ce84004b32a93a857d7dff27314e30406cb36f64395d039a554e",
-    "published_at": "2026-10-29T17:28:16Z"
+    "published_at": "2026-11-06T17:57:32Z"
   }
 }

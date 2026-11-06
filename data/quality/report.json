@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-06T16:19:41.669872+00:00",
+  "generated_at": "2026-11-06T17:58:36.091798+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2771,
     "distinct_successful_mrf_urls": 2771,
-    "extracted_within_24h": 2694,
+    "extracted_within_24h": 2349,
     "sources_over_365_days_old": 216,
     "source_date_unparseable": 133,
     "hospital_code_aggregates": 358704,
-    "row_preserving_records": 24190602
+    "row_preserving_records": 24147785
   },
   "status_counts": {
     "failed": 806,

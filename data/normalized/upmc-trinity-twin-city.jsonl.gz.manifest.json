@@ -5,7 +5,7 @@
   "source_url": "https://www.trinitytwincity.org/upload/275401105-1629050240_twin-city-hospital-corporation_standardcharges.json",
   "source_sha256": "0b4699b89ea4f7dd1f7255268d1b45f78c7c5c0126190e8af8f043a72fec40fa",
   "download_bytes": 77423323,
-  "extracted_at": "2026-10-24T14:08:38Z",
+  "extracted_at": "2026-11-06T17:50:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "upmc-trinity-twin-city__66a048cfb11d3c04.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/upmc-trinity-twin-city__66a048cfb11d3c04.jsonl.gz",
     "asset_sha256": "66a048cfb11d3c0408b33b58bfc3672f1aa9f32a4a5eeff83a9ec4ab4b4ed317",
-    "published_at": "2026-10-29T17:30:42Z"
+    "published_at": "2026-11-06T17:57:57Z"
   }
 }

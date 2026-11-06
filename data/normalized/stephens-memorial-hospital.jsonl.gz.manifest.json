@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 7285,
+  "records": 6362,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7980/010238552-1346299815_mainehealth_standardcharges.csv",
-  "source_sha256": "643b43047edcabe948b03547167d7daee0483a44013414189cd4b98f1b411ddb",
-  "download_bytes": 70018840,
-  "extracted_at": "2026-10-24T14:06:50Z",
+  "source_sha256": "5c53bab19f7f4aa8d8df5988f18eb6040fb744284f067a233713ee2f61ed5254",
+  "download_bytes": 63300782,
+  "extracted_at": "2026-11-06T17:47:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ff",
-    "asset_name": "stephens-memorial-hospital__ff83c0056c2429f2.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/stephens-memorial-hospital__ff83c0056c2429f2.jsonl.gz",
-    "asset_sha256": "ff83c0056c2429f2564ab83504d8b4e9ee2ed03ef6fbacf36ec738c1167d0dab",
-    "published_at": "2026-10-29T17:26:12Z"
+    "release": "data-norm-aa",
+    "asset_name": "stephens-memorial-hospital__aab99bf20dbeb6b8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-aa/stephens-memorial-hospital__aab99bf20dbeb6b8.jsonl.gz",
+    "asset_sha256": "aab99bf20dbeb6b851b11b22d422b93bb332e8877f885396645bb38e97fd284a",
+    "published_at": "2026-11-06T17:57:17Z"
   }
 }

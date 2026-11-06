@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 20984,
+  "records": 3056,
   "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251875178_alle-kiski-medical-center_standardcharges.csv",
-  "source_sha256": "4338a488836c2204a8901239a83fcbcd47c961979b9f6f7384a4d6479edc304d",
-  "download_bytes": 165111538,
-  "extracted_at": "2026-10-24T01:05:26Z",
+  "source_sha256": "ce41ae22688fe9ac9ab57be91614a9214e0454e4e4161de6ec1198ccd024a594",
+  "download_bytes": 101698225,
+  "extracted_at": "2026-11-06T17:41:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-3c",
-    "asset_name": "oria-allegheny_valley_hospital-cfacb__3c7847ab6d5abbc1.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/oria-allegheny_valley_hospital-cfacb__3c7847ab6d5abbc1.jsonl.gz",
-    "asset_sha256": "3c7847ab6d5abbc189fdf352dea0093b2ca7e5264a9596f14da3a5fdfb2b5061",
-    "published_at": "2026-10-25T07:59:21Z"
+    "release": "data-norm-be",
+    "asset_name": "oria-allegheny_valley_hospital-cfacb__be964dadc7534439.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-allegheny_valley_hospital-cfacb__be964dadc7534439.jsonl.gz",
+    "asset_sha256": "be964dadc7534439c44147848de4eb1398f1b81d858f76e727c8bac9b02dabc6",
+    "published_at": "2026-11-06T17:56:07Z"
   }
 }

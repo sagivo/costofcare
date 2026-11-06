@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T02:52:03.288031+00:00",
+  "generated_at": "2026-11-06T17:59:21.552519+00:00",
   "normalized_files": 2763,
   "parser_versions": {
     "row-preserving-1.3": 2755,
@@ -7,12 +7,12 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 1218,
-    "over_7_days": 1214,
-    "within_24h": 331
+    "1_to_7_days": 1325,
+    "over_7_days": 1108,
+    "within_24h": 330
   },
   "failed_attempt_classes": {
-    "other": 19,
+    "other": 20,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -31,13 +31,6 @@
       "summary_sha256": "f43ad9361dc029cd0c50698ff84352eea5bc90f031bc18494ddad371d0d4dbee",
       "normalized_extracted_at": "2026-11-01T17:02:34Z",
       "summary_extracted_at": "2026-11-05T19:27:00Z"
-    },
-    {
-      "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbRUMCCHICAGOIL&type=CDMWithoutLabel&fileType=CSV",
-      "normalized_sha256": "a7d0f09cb08aed3fd67c0eb13e97572f7cf714dd52f0e1912e18553435cc213e",
-      "summary_sha256": "3c82819dbaf02ebdb7f00b1bee612cd5e536325ed1be87f1c15333f69708c7c7",
-      "normalized_extracted_at": "2026-10-24T14:06:41Z",
-      "summary_extracted_at": "2026-11-05T20:37:19Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11248/391211629_aurora-medical-center-manitowoc_standardcharges.csv",
@@ -97,9 +90,9 @@
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1285667493_west-penn-allegheny-health-system-inc_standardcharges.csv",
-      "normalized_sha256": "b62c4441e306f7a2a48117337c2ed502dfc241c744d2041ce447b001e3a2166c",
+      "normalized_sha256": "a8d343597be215e9164e8b9fe635f4cdbbd3f7e9540c9015ecaf8fdc4d30416f",
       "summary_sha256": "aa92a7b00be2958361cb829458d3e2f43e33ff51f26c9b3431044d35053e0690",
-      "normalized_extracted_at": "2026-10-24T01:05:29Z",
+      "normalized_extracted_at": "2026-11-06T17:41:31Z",
       "summary_extracted_at": "2026-11-05T17:44:05Z"
     },
     {
@@ -208,13 +201,6 @@
       "summary_extracted_at": "2026-11-05T18:53:31Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11270/362169147_advocate-south-suburban-hospital_standardcharges.csv",
-      "normalized_sha256": "0770bdf0fc5a7f7b640cc560f5e8c5a8bfda4824e6b7408042301c324d6f8509",
-      "summary_sha256": "e34cad04b23c8ebe2ca48d4f3b746e0ea78411dbf1c5f26748dd7d5c9193f5b8",
-      "normalized_extracted_at": "2026-10-24T14:11:15Z",
-      "summary_extracted_at": "2026-11-05T17:43:45Z"
-    },
-    {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7942/420698265_allen-memorial-hospital-corporation_standardcharges.csv",
       "normalized_sha256": "90be7e1a1a7d32016735befa9c867265e2cd0905987995ccc2de47447d223a18",
       "summary_sha256": "0eda2de1c77bba67bb3db46e8ec2815007568c2a80626e071fa86de490ff3b8a",
@@ -237,9 +223,9 @@
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv",
-      "normalized_sha256": "e9cad25405435ed4b47c6e95565b8fd6ca3c72cae3fcdf2cd81f204f19b169cf",
+      "normalized_sha256": "ea1236d0a954280d91916a50c46f40cd2c77106207f3012dfdb7cef4f89f2a34",
       "summary_sha256": "a831c4c63a3e355fda7bbfd43dce8da5de9c1df2384ecefc3b409df89afc82bf",
-      "normalized_extracted_at": "2026-10-24T01:06:09Z",
+      "normalized_extracted_at": "2026-11-06T17:42:21Z",
       "summary_extracted_at": "2026-11-05T17:43:50Z"
     },
     {
@@ -271,25 +257,11 @@
       "summary_extracted_at": "2026-11-05T20:05:42Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7978/010238552-1922791417_mainehealth_standardcharges.csv",
-      "normalized_sha256": "650a42f262ddf7e628c2cbedf5659c9e12c46afab3873334f3b60fe9b6d9d824",
-      "summary_sha256": "e297f0f64a60fc82d0b076c9f19dc1ca52039526253bf7afd09df81c72a00f7d",
-      "normalized_extracted_at": "2026-10-24T14:06:59Z",
-      "summary_extracted_at": "2026-11-05T18:47:05Z"
-    },
-    {
       "source_url": "https://www.flowershospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762412_flowers-hospital_standardcharges.csv",
       "normalized_sha256": "f5d9696a579fcccfec7c8a8861b04ee8ecda63d907d4709eee3af4bccb17dfff",
       "summary_sha256": "dbf672fd23f51177f110cbf606563943963df802ca3e905cfeb526d461099ec9",
       "normalized_extracted_at": "2026-10-29T02:00:35Z",
       "summary_extracted_at": "2026-11-05T20:26:11Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11267/363196629_advocate-illinois-masonic-medical-center_standardcharges.csv",
-      "normalized_sha256": "162f7e7250a036a79d112b59e4eabed6f26a004f32b48ed15cd41340ecc25ba1",
-      "summary_sha256": "9ddafcaf7e6e7079abb7a42b9816efbe98f647ee5e4c0be294a1ca26998fc499",
-      "normalized_extracted_at": "2026-10-24T14:13:27Z",
-      "summary_extracted_at": "2026-11-05T17:43:43Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7954/421019872_northwest-iowa-hospital-corporation_standardcharges.csv",
@@ -309,7 +281,7 @@
       "source_url": "https://cdn.hs.uab.edu/static/63-6005396_University-of-Alabama-Hospital_standardcharges.zip",
       "normalized_sha256": "0d4bc183a4b2b7e78ebbceccb6917cd948d1c2076625ce5be8b9f12f3d25c62c",
       "summary_sha256": "4b4fb8953e8b66881a46c9af96d17bc3451364ca32e69fcd46302413328938e4",
-      "normalized_extracted_at": "2026-10-24T14:08:13Z",
+      "normalized_extracted_at": "2026-11-06T17:50:14Z",
       "summary_extracted_at": "2026-11-05T20:45:42Z"
     },
     {
@@ -502,32 +474,11 @@
       "summary_extracted_at": "2026-11-05T18:51:54Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11266/362169147_advocate-good-shepherd-hospital_standardcharges.csv",
-      "normalized_sha256": "763a42127ee5547fbec286d63201e9683406a9cc7383422dd9c3d6e2642880b4",
-      "summary_sha256": "f23b7c136c20d568d6f509d1b856ec6063adc6c037c20ca63db8b72cb2de9224",
-      "normalized_extracted_at": "2026-10-24T14:13:00Z",
-      "summary_extracted_at": "2026-11-05T17:43:38Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11269/362167920_advocate-sherman-hospital_standardcharges.csv",
-      "normalized_sha256": "38f3daa1eb6417948e6e5830116b10c18609f4b062c059247504857c43edb681",
-      "summary_sha256": "fdc6ab647d4aacd29497e32f825f9adc15f76e6592846ed39c86fd7a5fc97afd",
-      "normalized_extracted_at": "2026-10-24T14:12:47Z",
-      "summary_extracted_at": "2026-11-05T17:43:43Z"
-    },
-    {
       "source_url": "https://www.lkmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/650905661_lower-keys-medical-center_standardcharges.csv",
       "normalized_sha256": "ed0f858073b6e9b706e304a26eb3450ada056f6c389cbeddb8c34ac7482ce23f",
       "summary_sha256": "d3aefe7bc8f7096695276c46272eb893b83aebcadcaf07b22ea9058a5725f9b9",
       "normalized_extracted_at": "2026-10-28T16:57:48Z",
       "summary_extracted_at": "2026-11-05T19:56:27Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7977/010238552-1841397932_mainehealth_standardcharges.csv",
-      "normalized_sha256": "bb6248fbc775f7686663e7c77575178f5247b1eb87940bf34e484e65beeb62af",
-      "summary_sha256": "ef683889c6134d1a7a30c90b03c089a7f377113bdbdd4093c1276d21fa633be7",
-      "normalized_extracted_at": "2026-10-24T14:12:32Z",
-      "summary_extracted_at": "2026-11-05T17:27:49Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11264/262525968_advocate-condell-medical-center_standardcharges.csv",
@@ -654,13 +605,6 @@
       "summary_sha256": "643143807c90e77aac548d8022e252ca62e37530f138e5cdd84f6cbed4e6c09e",
       "normalized_extracted_at": "2026-10-30T21:36:16Z",
       "summary_extracted_at": "2026-11-05T18:00:20Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11271/362169147_advocate-trinity-hospital_standardcharges.csv",
-      "normalized_sha256": "1dac47f3b4bb1ff1798e3de3d270697997910e498cbb53e06db5a17b96d7e189",
-      "summary_sha256": "3b2090a18c594d7c8e7664b848f3e92b0f8e051ed3c8cb019dc8408a69535f57",
-      "normalized_extracted_at": "2026-10-24T14:07:51Z",
-      "summary_extracted_at": "2026-11-05T17:43:45Z"
     },
     {
       "source_url": "https://www.grandviewhealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/203391873_grandview-medical-center_standardcharges.csv",
@@ -880,13 +824,6 @@
       "summary_extracted_at": "2026-11-05T18:02:03Z"
     },
     {
-      "source_url": "https://www.alliancehealthdurant.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/383862800_alliancehealth-madill_standardcharges.csv",
-      "normalized_sha256": "c3c00f57aa0be42034aec2149d59a9ec3b8089b6b7109869c7e3b6a324884674",
-      "summary_sha256": "b69f4c4a32147afbac9e53341d7487af6b9e6ce4b7c0ff508708a18d12b3a830",
-      "normalized_extracted_at": "2026-10-24T01:05:55Z",
-      "summary_extracted_at": "2026-11-05T17:44:39Z"
-    },
-    {
       "source_url": "https://www.gibsonhospital.org/file/2582/370647938_gibson-area-hospital_standardcharges.csv",
       "normalized_sha256": "ab50fdb2cf4171ba21de4d6b498f0e6f357234df3b0c585abbe3e16fc4aa915d",
       "summary_sha256": "52cdf34e65fa9dddd756801590ab126014dc09a935cd6a20d36abcc94265984c",
@@ -895,9 +832,9 @@
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251875178_alle-kiski-medical-center_standardcharges.csv",
-      "normalized_sha256": "4338a488836c2204a8901239a83fcbcd47c961979b9f6f7384a4d6479edc304d",
+      "normalized_sha256": "ce41ae22688fe9ac9ab57be91614a9214e0454e4e4161de6ec1198ccd024a594",
       "summary_sha256": "47fee008aa5ed3689d5e9a021a1be5d4e4c7bff5dbe00bb9de8bb1791198eced",
-      "normalized_extracted_at": "2026-10-24T01:05:26Z",
+      "normalized_extracted_at": "2026-11-06T17:41:29Z",
       "summary_extracted_at": "2026-11-05T17:44:12Z"
     },
     {
@@ -941,13 +878,6 @@
       "summary_sha256": "ae67500331f3cb02ecaf4dcb4ecac03917e718020c517c5becfe1aaf40732590",
       "normalized_extracted_at": "2026-10-26T00:55:19Z",
       "summary_extracted_at": "2026-11-05T20:20:23Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7981/010238552-1912094806_mainehealth_standardcharges.csv",
-      "normalized_sha256": "8cd977ca5f7cc04b6738b23ab572ccdbc27d1192bddea5fecadcd520b9c4ba63",
-      "summary_sha256": "759e37527d621fc1c534cb32461d4485661990c02d1a9ba88f0995e416af0ee8",
-      "normalized_extracted_at": "2026-10-24T14:12:16Z",
-      "summary_extracted_at": "2026-11-05T19:32:43Z"
     },
     {
       "source_url": "https://www.laredomedical.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/200175530_laredo-medical-center_standardcharges.csv",
@@ -1006,13 +936,6 @@
       "summary_extracted_at": "2026-11-05T17:43:33Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7980/010238552-1346299815_mainehealth_standardcharges.csv",
-      "normalized_sha256": "643b43047edcabe948b03547167d7daee0483a44013414189cd4b98f1b411ddb",
-      "summary_sha256": "5c53bab19f7f4aa8d8df5988f18eb6040fb744284f067a233713ee2f61ed5254",
-      "normalized_extracted_at": "2026-10-24T14:06:50Z",
-      "summary_extracted_at": "2026-11-05T20:41:49Z"
-    },
-    {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11265/362169147_advocate-good-samaritan-hospital_standardcharges.csv",
       "normalized_sha256": "bcdc607d501853c978bd32aecd2910ee7da7e44dc9505120a38276403ca4c66c",
       "summary_sha256": "9f5e7c5660d983260ec0f4fc617cd888d0a5727c88ecf8a5c4133c45aeed2d6d",
@@ -1039,13 +962,6 @@
       "summary_sha256": "bc586d1f31632ab5d23d3386325db4dabb7789c70c73bb4fa9d014d5073906c0",
       "normalized_extracted_at": "2026-11-05T18:28:08Z",
       "summary_extracted_at": "2026-11-05T18:46:40Z"
-    },
-    {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcco/cacc/finance/price-transparency/941196203-1760510937_dignity-health-marian-regional-medical-center_standardcharges.json?target=%22_blank%22",
-      "normalized_sha256": "06acfe434e63e79b7a747edd90bc361aa2488edadf67ad8bee3c67434a9e8cbd",
-      "summary_sha256": "da53d17b2987005d793fa523fad51fa0e7a3516b972d3a89c7339cdb1311f218",
-      "normalized_extracted_at": "2026-10-24T14:11:28Z",
-      "summary_extracted_at": "2026-11-05T17:47:21Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7959/362739299-1316047632_trinity-medical-center_standardcharges.csv",

@@ -5,7 +5,7 @@
   "source_url": "https://www.wellstar.org/wellstar-spalding-regional-hospital_standard-charges",
   "source_sha256": "a42080542bd840e0461867b6f12232297361b1d5affa6ee3071082fe20c76b17",
   "download_bytes": 54807021,
-  "extracted_at": "2026-10-24T01:04:10Z",
+  "extracted_at": "2026-11-06T17:40:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "wellstar-spalding-regional-hospital__fe99cecc5ddb1fc1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/wellstar-spalding-regional-hospital__fe99cecc5ddb1fc1.jsonl.gz",
     "asset_sha256": "fe99cecc5ddb1fc11e630ddd0fb105fb041f235e1b87b11968534a1a1b8e17ad",
-    "published_at": "2026-10-29T20:02:03Z"
+    "published_at": "2026-11-06T17:58:23Z"
   }
 }
