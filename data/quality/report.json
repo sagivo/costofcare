@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-06T17:58:36.091798+00:00",
+  "generated_at": "2026-11-06T18:56:11.408039+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
-    "successful_entries": 2771,
-    "distinct_successful_mrf_urls": 2771,
-    "extracted_within_24h": 2349,
-    "sources_over_365_days_old": 216,
+    "successful_entries": 2772,
+    "distinct_successful_mrf_urls": 2772,
+    "extracted_within_24h": 2715,
+    "sources_over_365_days_old": 215,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 358704,
+    "hospital_code_aggregates": 360570,
     "row_preserving_records": 24147785
   },
   "status_counts": {
-    "failed": 806,
-    "ok": 2778,
+    "failed": 805,
+    "ok": 2779,
     "no_target_codes": 465
   },
   "successful_entries_by_state": {
@@ -58,7 +58,7 @@
     "AZ": 50,
     "PO": 11,
     "VT": 11,
-    "MO": 49,
+    "MO": 50,
     "NC": 38,
     "MS": 45,
     "MT": 17,
@@ -74,174 +74,174 @@
     "PR": 3
   },
   "hospital_entries_per_code": {
-    "11042": 2421,
-    "12001": 2356,
-    "20610": 2496,
-    "55700": 1630,
-    "70450": 2542,
-    "70460": 2474,
-    "70486": 2516,
-    "70491": 2518,
-    "70544": 2397,
-    "70551": 2452,
-    "70552": 2322,
-    "70553": 2452,
-    "71045": 2568,
-    "71046": 2569,
-    "71250": 2523,
-    "71260": 2518,
-    "71275": 2508,
-    "72125": 2518,
-    "72131": 2513,
-    "72141": 2442,
-    "72146": 2443,
-    "72148": 2455,
-    "72149": 2297,
-    "72156": 2424,
-    "72158": 2436,
-    "73218": 2329,
-    "73221": 2382,
-    "73222": 2207,
-    "73700": 2461,
-    "73718": 2354,
-    "73721": 2380,
-    "73722": 2165,
-    "73723": 2331,
-    "74150": 2510,
-    "74160": 2490,
-    "74176": 2526,
-    "74177": 2532,
-    "76536": 2518,
-    "76642": 2312,
-    "76700": 2553,
-    "76775": 2409,
-    "76830": 2484,
-    "76856": 2522,
-    "80048": 2574,
-    "80053": 2579,
-    "80061": 2571,
-    "80069": 2515,
-    "80076": 2567,
-    "81001": 2524,
-    "82947": 2536,
-    "83036": 2585,
-    "84443": 2581,
-    "85025": 2566,
-    "85027": 2508,
-    "85610": 2589,
-    "86580": 2053,
-    "87804": 2165,
-    "90471": 2425,
-    "90686": 1513,
-    "93303": 1695,
-    "93306": 2471,
-    "93880": 2493,
-    "93970": 2516,
-    "93971": 2492,
-    "93978": 2107,
-    "94640": 2472,
-    "96372": 2511,
-    "97110": 2520,
-    "97161": 2481,
-    "97530": 2509,
-    "99202": 1917,
-    "99203": 1922,
-    "99204": 1962,
-    "99205": 1932,
-    "99212": 2019,
-    "99213": 2055,
-    "99214": 2056,
-    "99215": 1998,
-    "99281": 2397,
-    "99282": 2404,
-    "99283": 2412,
-    "99284": 2414,
-    "99285": 2417,
-    "19083": 2051,
-    "27130": 1681,
-    "27447": 1713,
-    "29827": 1706,
-    "29848": 1426,
-    "29881": 1786,
-    "30520": 1564,
-    "36415": 2518,
-    "43235": 2129,
-    "43239": 2132,
-    "43249": 1922,
-    "45378": 2101,
-    "45380": 2100,
-    "45384": 1810,
-    "45385": 2087,
-    "47562": 1868,
-    "49505": 1876,
-    "52353": 1506,
-    "58150": 1295,
-    "59025": 2023,
-    "59400": 1058,
-    "59510": 1009,
-    "62323": 2076,
-    "64483": 2041,
-    "64721": 1828,
-    "69436": 1544,
-    "76805": 2367,
-    "77014": 1245,
-    "77063": 2088,
-    "77065": 2114,
-    "77066": 2173,
-    "77067": 2246,
-    "77080": 2305,
-    "77385": 1220,
-    "78452": 2248,
-    "78815": 1763,
-    "80074": 2478,
-    "81002": 2150,
-    "82306": 2553,
-    "82310": 2523,
-    "82565": 2544,
-    "82607": 2551,
-    "82728": 2549,
-    "83718": 2373,
-    "83735": 2568,
-    "84100": 2556,
-    "84132": 2556,
-    "84153": 2538,
-    "84295": 2543,
-    "84439": 2560,
-    "84478": 2530,
-    "84520": 2535,
-    "84550": 2544,
-    "85652": 2215,
-    "86140": 2545,
-    "87086": 2481,
-    "87491": 2478,
-    "87591": 2463,
-    "87635": 2457,
-    "88112": 2296,
-    "88175": 1810,
-    "88305": 2470,
-    "90791": 1624,
-    "90834": 1664,
-    "92557": 1276,
-    "93000": 1136,
-    "94010": 2394,
-    "95810": 1941,
-    "96413": 2111,
-    "99223": 1220,
-    "99232": 1232,
-    "99385": 1147,
-    "99395": 1141,
-    "G0121": 1685,
-    "G0439": 1108,
-    "42820": 1487,
-    "59410": 1016,
-    "59515": 1008,
-    "66984": 1501,
-    "90837": 1654,
-    "92004": 1066,
-    "92014": 1038,
-    "92134": 1133,
-    "93015": 908,
-    "E0601": 451
+    "11042": 2423,
+    "12001": 2358,
+    "20610": 2498,
+    "55700": 1641,
+    "70450": 2552,
+    "70460": 2484,
+    "70486": 2527,
+    "70491": 2528,
+    "70544": 2409,
+    "70551": 2464,
+    "70552": 2334,
+    "70553": 2464,
+    "71045": 2580,
+    "71046": 2580,
+    "71250": 2535,
+    "71260": 2530,
+    "71275": 2520,
+    "72125": 2530,
+    "72131": 2525,
+    "72141": 2455,
+    "72146": 2456,
+    "72148": 2468,
+    "72149": 2310,
+    "72156": 2437,
+    "72158": 2449,
+    "73218": 2342,
+    "73221": 2395,
+    "73222": 2220,
+    "73700": 2474,
+    "73718": 2367,
+    "73721": 2393,
+    "73722": 2178,
+    "73723": 2344,
+    "74150": 2522,
+    "74160": 2502,
+    "74176": 2538,
+    "74177": 2544,
+    "76536": 2531,
+    "76642": 2325,
+    "76700": 2565,
+    "76775": 2422,
+    "76830": 2497,
+    "76856": 2535,
+    "80048": 2586,
+    "80053": 2591,
+    "80061": 2583,
+    "80069": 2527,
+    "80076": 2579,
+    "81001": 2537,
+    "82947": 2549,
+    "83036": 2598,
+    "84443": 2594,
+    "85025": 2579,
+    "85027": 2521,
+    "85610": 2602,
+    "86580": 2063,
+    "87804": 2176,
+    "90471": 2438,
+    "90686": 1524,
+    "93303": 1704,
+    "93306": 2484,
+    "93880": 2506,
+    "93970": 2529,
+    "93971": 2504,
+    "93978": 2120,
+    "94640": 2485,
+    "96372": 2524,
+    "97110": 2532,
+    "97161": 2493,
+    "97530": 2520,
+    "99202": 1927,
+    "99203": 1931,
+    "99204": 1971,
+    "99205": 1941,
+    "99212": 2029,
+    "99213": 2063,
+    "99214": 2065,
+    "99215": 2007,
+    "99281": 2408,
+    "99282": 2416,
+    "99283": 2423,
+    "99284": 2426,
+    "99285": 2429,
+    "19083": 2053,
+    "27130": 1683,
+    "27447": 1715,
+    "29827": 1713,
+    "29848": 1432,
+    "29881": 1793,
+    "30520": 1570,
+    "36415": 2530,
+    "43235": 2139,
+    "43239": 2142,
+    "43249": 1933,
+    "45378": 2111,
+    "45380": 2110,
+    "45384": 1821,
+    "45385": 2097,
+    "47562": 1878,
+    "49505": 1886,
+    "52353": 1516,
+    "58150": 1305,
+    "59025": 2036,
+    "59400": 1065,
+    "59510": 1016,
+    "62323": 2089,
+    "64483": 2053,
+    "64721": 1838,
+    "69436": 1553,
+    "76805": 2380,
+    "77014": 1253,
+    "77063": 2101,
+    "77065": 2127,
+    "77066": 2185,
+    "77067": 2258,
+    "77080": 2316,
+    "77385": 1231,
+    "78452": 2259,
+    "78815": 1773,
+    "80074": 2490,
+    "81002": 2162,
+    "82306": 2566,
+    "82310": 2536,
+    "82565": 2557,
+    "82607": 2564,
+    "82728": 2562,
+    "83718": 2386,
+    "83735": 2581,
+    "84100": 2569,
+    "84132": 2569,
+    "84153": 2551,
+    "84295": 2556,
+    "84439": 2573,
+    "84478": 2543,
+    "84520": 2548,
+    "84550": 2557,
+    "85652": 2226,
+    "86140": 2558,
+    "87086": 2494,
+    "87491": 2491,
+    "87591": 2476,
+    "87635": 2471,
+    "88112": 2309,
+    "88175": 1824,
+    "88305": 2483,
+    "90791": 1635,
+    "90834": 1675,
+    "92557": 1287,
+    "93000": 1147,
+    "94010": 2407,
+    "95810": 1954,
+    "96413": 2124,
+    "99223": 1232,
+    "99232": 1243,
+    "99385": 1156,
+    "99395": 1151,
+    "G0121": 1692,
+    "G0439": 1117,
+    "42820": 1495,
+    "59410": 1027,
+    "59515": 1017,
+    "66984": 1511,
+    "90837": 1665,
+    "92004": 1075,
+    "92014": 1047,
+    "92134": 1142,
+    "93015": 917,
+    "E0601": 457
   },
   "qa_flags": [
     {
@@ -4991,6 +4991,20 @@
       "ratio": 278.88
     },
     {
+      "id": "oria-westfield_memorial_hospital_inc-69955",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 123.66
+    },
+    {
+      "id": "oria-westfield_memorial_hospital_inc-69955",
+      "code": "69436",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 118.54
+    },
+    {
       "id": "oria-st_joseph_s_hospital_behavioral-36262",
       "code": "36415",
       "payer": "UnitedHealthcare",
@@ -7001,6 +7015,20 @@
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
       "ratio": 142.27
+    },
+    {
+      "id": "oria-west_penn_hospital-fb1d2",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.47
+    },
+    {
+      "id": "oria-west_penn_hospital-fb1d2",
+      "code": "59025",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.18
     },
     {
       "id": "oria-columbus_springs_east-8414c",
@@ -16431,7 +16459,7 @@
       "code": "85652",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 110.76
+      "ratio": 103.06
     },
     {
       "id": "uchealth-pikes-peak-regional-hospital",
@@ -16467,6 +16495,34 @@
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
       "ratio": 142.27
+    },
+    {
+      "id": "oria-canonsburg_hospital-aa632",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 226.72
+    },
+    {
+      "id": "oria-canonsburg_hospital-aa632",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
+      "id": "oria-canonsburg_hospital-aa632",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 137.94
+    },
+    {
+      "id": "oria-canonsburg_hospital-aa632",
+      "code": "59025",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.79
     },
     {
       "id": "upmc-kane",
@@ -25155,7 +25211,7 @@
       "code": "85652",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 110.76
+      "ratio": 103.06
     },
     {
       "id": "oria-candler_hospital-15850",
@@ -40252,6 +40308,62 @@
       "ratio": 502.12
     },
     {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "29881",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 539.58
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 226.72
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 126.98
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "49505",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 105.77
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "78815",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.94
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "99385",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.47
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "99395",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.47
+    },
+    {
       "id": "oria-er_at_westlake-bfcd1",
       "code": "84443",
       "payer": "Cigna",
@@ -53337,6 +53449,27 @@
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
       "ratio": 142.27
+    },
+    {
+      "id": "oria-grove_city_hospital-25a5d",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 226.72
+    },
+    {
+      "id": "oria-grove_city_hospital-25a5d",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
+      "id": "oria-grove_city_hospital-25a5d",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.72
     },
     {
       "id": "upmc-washington",
@@ -74091,6 +74224,27 @@
       "payer": "Medicaid",
       "flag": "wide_payer_range_review",
       "ratio": 142.27
+    },
+    {
+      "id": "oria-jefferson_hospital-565ea",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 226.72
+    },
+    {
+      "id": "oria-jefferson_hospital-565ea",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
+      "id": "oria-jefferson_hospital-565ea",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.53
     },
     {
       "id": "oria-fairfield_medical_center-0eb1e",
@@ -97305,6 +97459,34 @@
       "ratio": 142.27
     },
     {
+      "id": "oria-allegheny_valley_hospital-cfacb",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 226.72
+    },
+    {
+      "id": "oria-allegheny_valley_hospital-cfacb",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
+      "id": "oria-allegheny_valley_hospital-cfacb",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 134.95
+    },
+    {
+      "id": "oria-allegheny_valley_hospital-cfacb",
+      "code": "59025",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.49
+    },
+    {
       "id": "intermountain-health-lds-hospital",
       "code": "27130",
       "payer": "selecthealth",
@@ -114221,6 +114403,34 @@
       "ratio": 142.27
     },
     {
+      "id": "oria-allegheny_general_hospital-88bcb",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 226.72
+    },
+    {
+      "id": "oria-allegheny_general_hospital-88bcb",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.53
+    },
+    {
+      "id": "oria-allegheny_general_hospital-88bcb",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.9
+    },
+    {
+      "id": "oria-allegheny_general_hospital-88bcb",
+      "code": "59025",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 114.27
+    },
+    {
       "id": "oria-umass_memorial_health_harrington_at_webster-ee4f4",
       "code": "20610",
       "payer": "Medicaid",
@@ -130212,7 +130422,7 @@
       "code": "85652",
       "payer": "United",
       "flag": "wide_payer_range_review",
-      "ratio": 110.76
+      "ratio": 103.06
     },
     {
       "id": "oria-lake_granbury_medical_center-4ee03",
@@ -181503,6 +181713,272 @@
       "ratio": 103.28
     },
     {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "27130",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 110.92
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "27130",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 304.54
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "27447",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.08
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "27447",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 304.54
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "29827",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 169.08
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "42820",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 256.4
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "42820",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 332.81
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "43235",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 122.42
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "43239",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.57
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "43249",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.24
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "47562",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.69
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "47562",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 140.76
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "49505",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.91
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "49505",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 107.87
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "52353",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 206.8
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "55700",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 250.0
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "59025",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 783.01
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "62323",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 111.68
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "64483",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 128.25
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "69436",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.99
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "69436",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 154.3
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "71045",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 199.34
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "71046",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.42
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "73222",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.46
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "73722",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 156.46
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "77080",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 174.29
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "78452",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 267.42
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "78815",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.59
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "88305",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.04
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "90471",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 130.72
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "90791",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 112.42
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "93303",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.05
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "93306",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 120.97
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "93970",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.15
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "94010",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 319.29
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "94640",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 195.71
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "95810",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 135.3
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "code": "96372",
+      "payer": "UnitedHealthcare",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.93
+    },
+    {
       "id": "oria-dupont_hospital-7a1a5",
       "flag": "source_over_365_days_old",
       "age_days": 689
@@ -181847,11 +182323,6 @@
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
       "ratio": 581.72
-    },
-    {
-      "id": "oria-mountain_view_hospital-f10fb",
-      "flag": "source_over_365_days_old",
-      "age_days": 702
     },
     {
       "id": "rush-university-medical-center",
