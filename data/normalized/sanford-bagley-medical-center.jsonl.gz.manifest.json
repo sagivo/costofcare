@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8387/411266009_sanford-bagley-medical-center_standardcharges.csv",
   "source_sha256": "b38d391c2cbf562a80538ef44c7c1ec8da70cc4ffefcf0cedf5a74ff636653cc",
   "download_bytes": 45145802,
-  "extracted_at": "2026-10-24T01:02:13Z",
+  "extracted_at": "2026-11-06T02:45:25Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-bagley-medical-center__811ca6493e6bf734.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/sanford-bagley-medical-center__811ca6493e6bf734.jsonl.gz",
     "asset_sha256": "811ca6493e6bf734de2306acb45340fc5e4e44d985aa4feaa53947df80749bab",
-    "published_at": "2026-10-29T08:03:40Z"
+    "published_at": "2026-11-06T02:50:33Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/930281321_legacy-silverton-medical-center_standardcharges.json",
   "source_sha256": "bab0074de7225363034898c1f6d3f7a49ab221f912089b271783f13286deee80",
   "download_bytes": 37832246,
-  "extracted_at": "2026-10-23T15:34:05Z",
+  "extracted_at": "2026-11-06T02:43:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "legacy-silverton-medical-center__18c3dc31424d4005.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-18/legacy-silverton-medical-center__18c3dc31424d4005.jsonl.gz",
     "asset_sha256": "18c3dc31424d40058e96934089a6b237692a84d88b9697587ecf54271fd20235",
-    "published_at": "2026-10-25T16:09:47Z"
+    "published_at": "2026-11-06T02:47:54Z"
   }
 }

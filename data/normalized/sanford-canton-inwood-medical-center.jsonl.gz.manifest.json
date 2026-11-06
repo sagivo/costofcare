@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8376/460388596_sanford-canton-inwood-medical-center_standardcharges.csv",
   "source_sha256": "57a54b5fbfbfac64b34c3cf883c6c39a9a323b1b58531c03bc78b9ee90b43724",
   "download_bytes": 37219705,
-  "extracted_at": "2026-10-23T15:33:11Z",
+  "extracted_at": "2026-11-06T02:41:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-canton-inwood-medical-center__019c1c52f2da1486.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-01/sanford-canton-inwood-medical-center__019c1c52f2da1486.jsonl.gz",
     "asset_sha256": "019c1c52f2da148630e6616a5342fc05d2fa039c0fbad784825f505a95a223d1",
-    "published_at": "2026-10-29T08:03:47Z"
+    "published_at": "2026-11-06T02:50:35Z"
   }
 }

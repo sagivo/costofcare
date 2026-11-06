@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 5008,
+  "records": 6053,
   "source_url": "https://apps.para-hcfs.com/PTT/FinalLinks/Reports.aspx?dbName=dbCMHAURORAIL&type=CDMWithoutLabel&fileType=CSV",
-  "source_sha256": "8a5e58997269a311f5f58f9755d4ebf01d7d1b635acb1c10c9e67eaa10faf950",
-  "download_bytes": 62195641,
-  "extracted_at": "2026-10-23T15:33:33Z",
+  "source_sha256": "1a76aa139927a1403d2015dc3996ca07f9010284ae86ca71799bc1fc47211fd8",
+  "download_bytes": 76914305,
+  "extracted_at": "2026-11-06T02:42:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-6d",
-    "asset_name": "copley-memorial-hospital-inc__6d8e9aeee934c273.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/copley-memorial-hospital-inc__6d8e9aeee934c273.jsonl.gz",
-    "asset_sha256": "6d8e9aeee934c2737236b8741a624a69f3165aeec70eaf7faa8d07079a82d8c0",
-    "published_at": "2026-10-25T16:07:30Z"
+    "release": "data-norm-84",
+    "asset_name": "copley-memorial-hospital-inc__84cc7bee46c42411.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-84/copley-memorial-hospital-inc__84cc7bee46c42411.jsonl.gz",
+    "asset_sha256": "84cc7bee46c424115cc5c5f1c5fcd5484f88f8a7e580405f6014ca8b7f25fc7c",
+    "published_at": "2026-11-06T02:47:44Z"
   }
 }

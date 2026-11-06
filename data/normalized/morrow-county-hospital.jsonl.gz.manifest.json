@@ -5,7 +5,7 @@
   "source_url": "https://www.ohiohealth.com/siteassets/patients-and-visitors/preparing-for-your-visit/out-of-pocket-estimates/316402699_morrow-county-hospital-_standardcharges.csv",
   "source_sha256": "765965322569ce85f12430f20811ec500b69783cb9587067106b79455c1a8a0b",
   "download_bytes": 41644665,
-  "extracted_at": "2026-10-24T01:01:38Z",
+  "extracted_at": "2026-11-06T02:43:53Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "morrow-county-hospital__ff6cf8432081156e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/morrow-county-hospital__ff6cf8432081156e.jsonl.gz",
     "asset_sha256": "ff6cf8432081156eb6d66e7f5d02ec58bde433359a6e3d22279c51910c6b09e7",
-    "published_at": "2026-10-25T07:55:59Z"
+    "published_at": "2026-11-06T02:48:32Z"
   }
 }

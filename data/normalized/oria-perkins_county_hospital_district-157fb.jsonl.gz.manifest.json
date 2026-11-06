@@ -5,7 +5,7 @@
   "source_url": "https://www.pchsgrant.com/docs/476014365_perkins-county-hospital-district_standardcharges.csv",
   "source_sha256": "8a66bbb15d359ac06ecc3703d231e994b85f46b834d39425553f539d963776c4",
   "download_bytes": 7851559,
-  "extracted_at": "2026-10-24T01:00:07Z",
+  "extracted_at": "2026-11-06T02:43:14Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-perkins_county_hospital_district-157fb__71b37073d34b489b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-perkins_county_hospital_district-157fb__71b37073d34b489b.jsonl.gz",
     "asset_sha256": "71b37073d34b489bf79f931f3145a319f21aab734ed9c87bdb75be797a5a6f6d",
-    "published_at": "2026-10-27T16:24:35Z"
+    "published_at": "2026-11-06T02:50:00Z"
   }
 }

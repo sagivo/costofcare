@@ -5,7 +5,7 @@
   "source_url": "https://stanfordhealthcare.org/content/dam/valleycare/patients-visitors/941429628_stanford-health-care---tri-valley_standardcharges.json",
   "source_sha256": "57add70c54230e430986c15a577777920ec0accbbd22090d77f12ef46260ef1b",
   "download_bytes": 43065577,
-  "extracted_at": "2026-10-24T01:02:07Z",
+  "extracted_at": "2026-11-06T02:45:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "stanford-health-care-tri-valley__2baaabe57f4b8900.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/stanford-health-care-tri-valley__2baaabe57f4b8900.jsonl.gz",
     "asset_sha256": "2baaabe57f4b8900eadb322d0c5f1364677c621bd51e25507aedad61df008cf6",
-    "published_at": "2026-10-29T17:26:10Z"
+    "published_at": "2026-11-06T02:51:02Z"
   }
 }
