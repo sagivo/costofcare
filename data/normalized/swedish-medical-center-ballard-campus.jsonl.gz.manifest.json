@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/swedish/live/910433740_swedish-medical-center_standardcharges.json",
   "source_sha256": "85cdce4f8e845bdc715a2f1feb4f187f47e6f3f44be8b60f82ae8dfebf3ba256",
   "download_bytes": 234112770,
-  "extracted_at": "2026-10-26T00:38:59Z",
+  "extracted_at": "2026-11-07T16:42:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "swedish-medical-center-ballard-campus__edd64c6029c302a3.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/swedish-medical-center-ballard-campus__edd64c6029c302a3.jsonl.gz",
     "asset_sha256": "edd64c6029c302a3c137c91c8e3ec4876727c88968331b5443a27d528a8739f7",
-    "published_at": "2026-10-29T17:26:57Z"
+    "published_at": "2026-11-07T16:56:10Z"
   }
 }

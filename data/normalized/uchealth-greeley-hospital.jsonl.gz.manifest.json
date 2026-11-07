@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8082/822666059_uchealth-greeley-hospital_standardcharges.csv",
   "source_sha256": "732e2668460640fcc9530878d2065fdeb6219e632f043a5ca6b96ecf9528d309",
   "download_bytes": 238032236,
-  "extracted_at": "2026-10-26T00:39:45Z",
+  "extracted_at": "2026-11-07T16:43:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-greeley-hospital__b1e16d14639dceb7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/uchealth-greeley-hospital__b1e16d14639dceb7.jsonl.gz",
     "asset_sha256": "b1e16d14639dceb7ffa594f00088eee797187f9b9700c02bb84535325af18e21",
-    "published_at": "2026-10-29T17:27:54Z"
+    "published_at": "2026-11-07T16:56:18Z"
   }
 }

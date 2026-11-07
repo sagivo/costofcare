@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8384/460388596_sanford-aberdeen-medical-center_standardcharges.csv",
   "source_sha256": "a5a5ecce19d75d3cd6dc80fc55e5a43c94c219cf5a94727daa96b0c95527558a",
   "download_bytes": 223444077,
-  "extracted_at": "2026-10-26T00:38:15Z",
+  "extracted_at": "2026-11-07T16:40:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-aberdeen-medical-center__6c429e4ca2a57af5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6c/sanford-aberdeen-medical-center__6c429e4ca2a57af5.jsonl.gz",
     "asset_sha256": "6c429e4ca2a57af5430dcadd08dbbad10946b828cdf640fb79dc0c21fcb99f57",
-    "published_at": "2026-10-29T08:03:38Z"
+    "published_at": "2026-11-07T16:55:58Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965429_upmc-mercy_standardcharges.csv?",
   "source_sha256": "14cf6c437987b8d73d66be0ad3e090892c5dbf56cf72361960457704cc002449",
   "download_bytes": 199073957,
-  "extracted_at": "2026-10-25T15:52:50Z",
+  "extracted_at": "2026-11-07T16:39:51Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "upmc-mercy__887c598f260194e6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-88/upmc-mercy__887c598f260194e6.jsonl.gz",
     "asset_sha256": "887c598f260194e6ea87e37c715387935fe7e90884104ed60e4b4578ad440aff",
-    "published_at": "2026-10-29T17:30:22Z"
+    "published_at": "2026-11-07T16:56:43Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www2.novanthealth.org/Public_Files/regulatory/934604680_hilton-head-medical-center-llc-dba-hilton-head-hospital_standardcharges.json",
   "source_sha256": "080ac731ed6f537e2fc754367bd2cb4456db51b08a2f1d9270f563df7870ec48",
   "download_bytes": 213483919,
-  "extracted_at": "2026-10-25T15:53:06Z",
+  "extracted_at": "2026-11-07T16:38:54Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "novant-health-hilton-head-medical-center__f223991c0357a43f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f2/novant-health-hilton-head-medical-center__f223991c0357a43f.jsonl.gz",
     "asset_sha256": "f223991c0357a43f18496575036a745d91659fcce960802b9fba4caef9bbb500",
-    "published_at": "2026-10-25T16:11:51Z"
+    "published_at": "2026-11-07T16:54:45Z"
   }
 }

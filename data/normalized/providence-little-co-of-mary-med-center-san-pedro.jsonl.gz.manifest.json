@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 346,
   "source_url": "https://pricetransparency.providence.org/socal/live/421672806_providence-little-co-of-mary-med-center-san-pedro_standardcharges.json",
-  "source_sha256": "9aff90a88d9e84b68ee42e49d84a4365bd7f1c7d93e10d630f9cb406c981037e",
-  "download_bytes": 217265239,
-  "extracted_at": "2026-10-25T15:53:33Z",
+  "source_sha256": "46193121b1ff59cf98c8aeb8716d42fb1dbf24912daa4b3a3e1c069c6a51faf2",
+  "download_bytes": 219651353,
+  "extracted_at": "2026-11-07T16:39:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-9b",
-    "asset_name": "providence-little-co-of-mary-med-center-san-pedro__9b35f39b6bb1132d.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/providence-little-co-of-mary-med-center-san-pedro__9b35f39b6bb1132d.jsonl.gz",
-    "asset_sha256": "9b35f39b6bb1132d4df0c4dabe670e6e9db40737f382cbf9d8256133ef8d2d16",
-    "published_at": "2026-10-29T08:02:33Z"
+    "release": "data-norm-cb",
+    "asset_name": "providence-little-co-of-mary-med-center-san-pedro__cbaf360d73adbd42.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cb/providence-little-co-of-mary-med-center-san-pedro__cbaf360d73adbd42.jsonl.gz",
+    "asset_sha256": "cbaf360d73adbd42f4f37af707a885fc817b9ba070637d0ea1f54c61ee3eab6c",
+    "published_at": "2026-11-07T16:55:40Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/wamt/live/352346161_providence-regional-medical-center-everett_standardcharges.json",
   "source_sha256": "b7d7ee544c298a350fc359ddb3b3852a4b513bed8e4786bbc943b6e8777e071c",
   "download_bytes": 218857959,
-  "extracted_at": "2026-10-25T15:54:02Z",
+  "extracted_at": "2026-11-07T16:39:53Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "providence-regional-medical-center-everett-colby-campus__40dfb4fa10aab376.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/providence-regional-medical-center-everett-colby-campus__40dfb4fa10aab376.jsonl.gz",
     "asset_sha256": "40dfb4fa10aab376f5be9fa595c2eb403afbf648da33e20aa3c6aae4eb15fb30",
-    "published_at": "2026-10-29T08:02:48Z"
+    "published_at": "2026-11-07T16:55:46Z"
   }
 }

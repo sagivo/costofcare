@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/900799724_bay-county-health-system-llc_standardcharges.csv",
   "source_sha256": "47e3c67e6fe27488627a6ac53f1fcc58e6c17406e08ca307850bd5a4f8635df5",
   "download_bytes": 217576291,
-  "extracted_at": "2026-10-25T15:54:06Z",
+  "extracted_at": "2026-11-07T16:40:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_sacred_heart_bay-987c9__c0302ce42150f08d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c0/oria-ascension_sacred_heart_bay-987c9__c0302ce42150f08d.jsonl.gz",
     "asset_sha256": "c0302ce42150f08d7ec764455fbb1e3d0adbb3cec9937d7ebd52070334e6a69f",
-    "published_at": "2026-10-25T16:11:56Z"
+    "published_at": "2026-11-07T16:55:18Z"
   }
 }

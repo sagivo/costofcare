@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620347580-1629025648_saint-thomas-west-hospital_standardcharges.csv",
   "source_sha256": "8670684896cfe16e748d89195b792172613f3278bde49846a37d75d070bf62d7",
   "download_bytes": 336565400,
-  "extracted_at": "2026-10-26T00:47:53Z",
+  "extracted_at": "2026-11-07T16:50:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_saint_thomas_west-b1ca4__30a69267546d58fe.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-ascension_saint_thomas_west-b1ca4__30a69267546d58fe.jsonl.gz",
     "asset_sha256": "30a69267546d58fe57b8ccdf9a1b7c9b180ef0ba6609cea8cc63d029f7fc492c",
-    "published_at": "2026-10-26T01:20:06Z"
+    "published_at": "2026-11-07T16:55:23Z"
   }
 }

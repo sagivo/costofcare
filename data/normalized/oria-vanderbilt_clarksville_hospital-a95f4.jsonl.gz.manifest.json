@@ -5,7 +5,7 @@
   "source_url": "https://finance.vumc.org/assets/pub/pt/203500835_vanderbilt-clarksville-hospital_standardcharges.json",
   "source_sha256": "83972e76b320075692d62f4f62f7686700ae33bf543549bf83fdac040bbc3a35",
   "download_bytes": 212534503,
-  "extracted_at": "2026-10-26T00:40:01Z",
+  "extracted_at": "2026-11-07T16:45:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-vanderbilt_clarksville_hospital-a95f4__04125d7af6e3dc28.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-04/oria-vanderbilt_clarksville_hospital-a95f4__04125d7af6e3dc28.jsonl.gz",
     "asset_sha256": "04125d7af6e3dc28b75cd66038f444f3f96f04c75ac07fcf116bf13ac5c0f3cc",
-    "published_at": "2026-10-29T07:58:32Z"
+    "published_at": "2026-11-07T16:55:34Z"
   }
 }

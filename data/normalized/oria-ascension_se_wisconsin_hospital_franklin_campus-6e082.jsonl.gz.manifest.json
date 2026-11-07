@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816857-1427007384_ascension-se-wisconsin-hospital-inc-franklin_standardcharges.csv",
   "source_sha256": "39ec9963212f199d7888f800519d22dba3d1aa4433cc2a0d0533bba0bad9cef9",
   "download_bytes": 270799866,
-  "extracted_at": "2026-10-26T00:42:47Z",
+  "extracted_at": "2026-11-07T16:46:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_se_wisconsin_hospital_franklin_campus-6e082__1ff9d3750d011bf9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1f/oria-ascension_se_wisconsin_hospital_franklin_campus-6e082__1ff9d3750d011bf9.jsonl.gz",
     "asset_sha256": "1ff9d3750d011bf9587e768e5a7e6dcfd5f9a234efd19175ab94b7f2eeb82c3a",
-    "published_at": "2026-10-26T01:20:10Z"
+    "published_at": "2026-11-07T16:55:26Z"
   }
 }

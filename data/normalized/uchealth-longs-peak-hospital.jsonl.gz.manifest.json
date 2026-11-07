@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8083/611786722_longs-peak-hospital_standardcharges.csv",
   "source_sha256": "a66e35bb8a25846dba3e7eb20172e7f6740dd147b35af300fb85e5208c45392b",
   "download_bytes": 317747725,
-  "extracted_at": "2026-10-26T00:46:42Z",
+  "extracted_at": "2026-11-07T16:49:50Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-longs-peak-hospital__08b169fef9d675ff.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/uchealth-longs-peak-hospital__08b169fef9d675ff.jsonl.gz",
     "asset_sha256": "08b169fef9d675ff1f4be409e8f7dc1aa01c36cade67016d1df9c4bc1aaca323",
-    "published_at": "2026-10-29T17:28:00Z"
+    "published_at": "2026-11-07T16:56:22Z"
   }
 }

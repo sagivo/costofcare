@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8080/841262971_poudre-valley-health-care,-inc_standardcharges.csv",
   "source_sha256": "72aa184a789f7ea223051dd0d7abddd7f8e2e1419a2f9d333e17eca7e36096e2",
   "download_bytes": 306143961,
-  "extracted_at": "2026-10-26T00:46:21Z",
+  "extracted_at": "2026-11-07T16:49:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-poudre-valley-hospital__7fbac659b882e152.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7f/uchealth-poudre-valley-hospital__7fbac659b882e152.jsonl.gz",
     "asset_sha256": "7fbac659b882e1522cd13b324937e07a634a4d00d75620447d3d853e5d702edb",
-    "published_at": "2026-10-29T17:28:19Z"
+    "published_at": "2026-11-07T16:56:29Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.allinahealth.org/-/media/allina-health/files/customer-service/billing-and-insurance/price-transparency/363261413_abbott-northwestern-hospital_standardcharges.csv",
   "source_sha256": "20dcdc0a8528daef0fc62b1197f04d098cff8bbffdb001b84f00371f3de03812",
   "download_bytes": 209031552,
-  "extracted_at": "2026-10-25T15:53:49Z",
+  "extracted_at": "2026-11-07T16:39:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "abbott-northwestern-hospital__fed37b724e8c4f24.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/abbott-northwestern-hospital__fed37b724e8c4f24.jsonl.gz",
     "asset_sha256": "fed37b724e8c4f248020a2f8f078062b8f7c68f799a8ce973d4ec67b6484ddfb",
-    "published_at": "2026-10-25T16:05:48Z"
+    "published_at": "2026-11-07T16:53:43Z"
   }
 }

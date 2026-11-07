@@ -5,7 +5,7 @@
   "source_url": "https://www.bjc.org/hpt/1/370661172_AltonMemorialHospital_standardcharges.json",
   "source_sha256": "7b3fc7a1e1d3fb4929481e041e94598ab49beaf6739ffa5025e3c4ae156d234e",
   "download_bytes": 226999785,
-  "extracted_at": "2026-10-26T00:38:18Z",
+  "extracted_at": "2026-11-07T16:40:53Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "alton-memorial-hospital__fc9c375f6e691bf4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/alton-memorial-hospital__fc9c375f6e691bf4.jsonl.gz",
     "asset_sha256": "fc9c375f6e691bf4c2c022b4d271239d05b5ee929c188494de55f3291a3259a3",
-    "published_at": "2026-10-26T01:17:33Z"
+    "published_at": "2026-11-07T16:53:45Z"
   }
 }

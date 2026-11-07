@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816857-1427007384_ascension-se-wisconsin-hospital-inc-elmbroook_standardcharges.csv",
   "source_sha256": "a995d738eb76239e6f65e77283ef351245faa37a297e27871ace739dafe890e3",
   "download_bytes": 286322262,
-  "extracted_at": "2026-10-26T00:45:12Z",
+  "extracted_at": "2026-11-07T16:48:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_se_wisconsin_hospital_elmbrook_campus-0bd12__39637bb56ad38346.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-ascension_se_wisconsin_hospital_elmbrook_campus-0bd12__39637bb56ad38346.jsonl.gz",
     "asset_sha256": "39637bb56ad38346582f61e0f1688caeb195330bc1c0c4c3627a09aee8961b8f",
-    "published_at": "2026-10-26T01:20:08Z"
+    "published_at": "2026-11-07T16:55:24Z"
   }
 }

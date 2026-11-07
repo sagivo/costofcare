@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/620475842_saint-thomas-rutherford-hospital_standardcharges.csv",
   "source_sha256": "54b93049575453e8c441f6d4ec828205553fe640794db8d7d10ee361b521e747",
   "download_bytes": 348852580,
-  "extracted_at": "2026-10-26T00:49:35Z",
+  "extracted_at": "2026-11-07T16:52:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_saint_thomas_rutherford-6e90f__75efbbf5654dadcf.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/oria-ascension_saint_thomas_rutherford-6e90f__75efbbf5654dadcf.jsonl.gz",
     "asset_sha256": "75efbbf5654dadcf907b222f2b31ca39946dd3ebe600d0b6790a299c21e46e70",
-    "published_at": "2026-10-26T01:20:04Z"
+    "published_at": "2026-11-07T16:55:21Z"
   }
 }

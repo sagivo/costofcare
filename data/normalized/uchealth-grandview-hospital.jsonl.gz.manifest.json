@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8084/473455146_uchealth-grandview-hospital_standardcharges.csv",
   "source_sha256": "40df380a792212b72d4227be829f790ae045792dfcd41cafb8ac94c72d7e5b16",
   "download_bytes": 278326187,
-  "extracted_at": "2026-10-26T00:43:25Z",
+  "extracted_at": "2026-11-07T16:46:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-grandview-hospital__7db8b0da33036a56.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/uchealth-grandview-hospital__7db8b0da33036a56.jsonl.gz",
     "asset_sha256": "7db8b0da33036a56687df8fff089bd583c8669b42c650ea339abd70bc1436b81",
-    "published_at": "2026-10-29T17:27:51Z"
+    "published_at": "2026-11-07T16:56:17Z"
   }
 }

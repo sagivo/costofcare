@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/swedish/live/910373400_swedish-medical-center-cherry-hill_standardcharges.json",
   "source_sha256": "ddac5ec195afb64518c0e31d0211f39282585fcdf1e3b9b43790f73ccc20ef36",
   "download_bytes": 221141896,
-  "extracted_at": "2026-10-25T15:54:21Z",
+  "extracted_at": "2026-11-07T16:40:09Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "swedish-medical-center-cherry-hill__dd43abff43b871f7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/swedish-medical-center-cherry-hill__dd43abff43b871f7.jsonl.gz",
     "asset_sha256": "dd43abff43b871f72da41b95e596857fea405e21aad58d001286af96d49e3833",
-    "published_at": "2026-10-29T17:27:00Z"
+    "published_at": "2026-11-07T16:56:12Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8215/843381796_froedtert-community-hospital-new-berlin_standardcharges.csv",
   "source_sha256": "106143f40b11c3911064b60cf1d7515f123613c0c1d2796bf20253a43630ca0a",
   "download_bytes": 260517240,
-  "extracted_at": "2026-10-26T00:41:33Z",
+  "extracted_at": "2026-11-07T16:45:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "froedtert-community-hospital-new-berlin__e6505ad7e2e48663.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/froedtert-community-hospital-new-berlin__e6505ad7e2e48663.jsonl.gz",
     "asset_sha256": "e6505ad7e2e48663c919ea005381c3db30cfb8181224868868b37647de656fda",
-    "published_at": "2026-10-26T01:18:40Z"
+    "published_at": "2026-11-07T16:53:59Z"
   }
 }

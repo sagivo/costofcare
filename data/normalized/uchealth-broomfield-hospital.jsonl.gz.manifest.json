@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8085/473393862_uchealth-broomfield-hospital_standardcharges.csv",
   "source_sha256": "84feff50d616e1051d868342cbed45af32bb86b4bd806052ca75119d0b33a3d5",
   "download_bytes": 270145741,
-  "extracted_at": "2026-10-26T00:42:24Z",
+  "extracted_at": "2026-11-07T16:46:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-broomfield-hospital__48f44928ff7b28e4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-48/uchealth-broomfield-hospital__48f44928ff7b28e4.jsonl.gz",
     "asset_sha256": "48f44928ff7b28e4b6effecc8e304375d586f8d422b2ec2fb558835a8d0565a0",
-    "published_at": "2026-10-29T17:27:46Z"
+    "published_at": "2026-11-07T16:56:15Z"
   }
 }

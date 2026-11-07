@@ -5,7 +5,7 @@
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/202850920_baylor-scott--white-continuing-care-hospital_standardcharges.csv",
   "source_sha256": "4ac8e6d2607355efc556f01e9f4c38eb09cb0958934346ce6d718ed10d6d944a",
   "download_bytes": 315324252,
-  "extracted_at": "2026-10-26T00:47:04Z",
+  "extracted_at": "2026-11-07T16:50:04Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "baylor-scott-white-continuing-care-hospital__c12410ecea830ed7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c1/baylor-scott-white-continuing-care-hospital__c12410ecea830ed7.jsonl.gz",
     "asset_sha256": "c12410ecea830ed772410e4bcce4851c30f11b09bbb2130f4e4755348c5f3412",
-    "published_at": "2026-10-26T01:17:38Z"
+    "published_at": "2026-11-07T16:53:48Z"
   }
 }

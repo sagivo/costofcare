@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8087/821885403_uchealth-highlands-ranch-hospital_standardcharges.csv",
   "source_sha256": "4e2c4bc6362292282d10aa08feee4fc2204b86aaa64f9c30cd9c351dd5ee7b44",
   "download_bytes": 276985448,
-  "extracted_at": "2026-10-26T00:42:54Z",
+  "extracted_at": "2026-11-07T16:46:48Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-highlands-ranch-hospital__951a1b934ee8081b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-95/uchealth-highlands-ranch-hospital__951a1b934ee8081b.jsonl.gz",
     "asset_sha256": "951a1b934ee8081bd9f4d1e4fd44d72c4fa204a7a398df49451f1b0d3a7d9930",
-    "published_at": "2026-10-29T17:27:57Z"
+    "published_at": "2026-11-07T16:56:20Z"
   }
 }

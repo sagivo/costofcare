@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8142/390806302_st-josephs-community-hospital-of-west-bend-inc_standardcharges.csv",
   "source_sha256": "3a33a35c069b227b8650b365ff579930304a646e1ba5995bfa0dd5cd68b9c6b9",
   "download_bytes": 328296216,
-  "extracted_at": "2026-10-26T00:47:14Z",
+  "extracted_at": "2026-11-07T16:50:18Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "froedtert-west-bend-hospital__bc412ce36731c6b9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/froedtert-west-bend-hospital__bc412ce36731c6b9.jsonl.gz",
     "asset_sha256": "bc412ce36731c6b9fd6a999f4d8c4b5cfe6961451ed336d4fedc4cfa2f9e9924",
-    "published_at": "2026-10-26T01:18:50Z"
+    "published_at": "2026-11-07T16:54:06Z"
   }
 }

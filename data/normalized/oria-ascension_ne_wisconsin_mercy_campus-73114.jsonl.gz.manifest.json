@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/wi-csv/390816818-1912527193_ascension-ne-wisconsin-inc-fka-st-elizabeth-hospital-inc_standardcharges.csv",
   "source_sha256": "6afb4cfd877b6a8213fdba5fae7d9d3531ab87cbc83f5a6a877a77cb1bcb55d8",
   "download_bytes": 358646342,
-  "extracted_at": "2026-10-26T00:49:33Z",
+  "extracted_at": "2026-11-07T16:51:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_ne_wisconsin_mercy_campus-73114__8ec4df86168f1711.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8e/oria-ascension_ne_wisconsin_mercy_campus-73114__8ec4df86168f1711.jsonl.gz",
     "asset_sha256": "8ec4df86168f1711a1c268c46d727be79d879cf0f3951ed6370fa8bb5d3e68b9",
-    "published_at": "2026-10-26T01:19:59Z"
+    "published_at": "2026-11-07T16:55:16Z"
   }
 }

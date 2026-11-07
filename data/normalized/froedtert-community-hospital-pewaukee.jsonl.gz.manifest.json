@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11567/843381796_froedtert-community-hospital-pewaukee_standardcharges.csv",
   "source_sha256": "3d89e6f3892bf1dbc0c189b6930340d777816b7324cdd1f2b620ecb992fca6d4",
   "download_bytes": 260284716,
-  "extracted_at": "2026-10-26T00:40:54Z",
+  "extracted_at": "2026-11-07T16:45:04Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "froedtert-community-hospital-pewaukee__3ef724bf0fb22b54.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3e/froedtert-community-hospital-pewaukee__3ef724bf0fb22b54.jsonl.gz",
     "asset_sha256": "3ef724bf0fb22b5485dce771325d5a1d61601818ded0de876fc3ab7d0d9b3b47",
-    "published_at": "2026-10-26T01:18:44Z"
+    "published_at": "2026-11-07T16:54:02Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/oregon/live/930386906_providence-portland-medical-center_standardcharges.json",
   "source_sha256": "e1a2f4a4fdf463e283cd76a29467625ab991e2571edd0eba3be2ff0d4130c388",
   "download_bytes": 208900329,
-  "extracted_at": "2026-10-25T15:52:57Z",
+  "extracted_at": "2026-11-07T16:38:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "providence-portland-medical-center__7734df5730765948.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-77/providence-portland-medical-center__7734df5730765948.jsonl.gz",
     "asset_sha256": "7734df5730765948dfe9c175f078f175a2ee898a438f6449e8104d2d9c05b28a",
-    "published_at": "2026-10-29T08:02:46Z"
+    "published_at": "2026-11-07T16:55:44Z"
   }
 }

@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 79,
   "source_url": "https://lvhn.pt.panaceainc.com/MRFDownload/lvhn/pocono",
-  "source_sha256": "78743c190f029ba9ecef7c115d1fa2a6438c5e70d2befa45b882fc57789996cc",
-  "download_bytes": 386246587,
-  "extracted_at": "2026-10-26T00:49:46Z",
+  "source_sha256": "b052183d0f7d284e613170f30b6c123d9a237dc136fc6e0cb69462e8f76bff7f",
+  "download_bytes": 386248517,
+  "extracted_at": "2026-11-07T16:52:09Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-c8",
-    "asset_name": "lehigh-valley-hospital-pocono__c8a67630858b5e0b.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c8/lehigh-valley-hospital-pocono__c8a67630858b5e0b.jsonl.gz",
-    "asset_sha256": "c8a67630858b5e0b8b17f2564aff3818b6a55c66b5ebe033528212c0e84e5ffa",
-    "published_at": "2026-10-26T01:19:12Z"
+    "release": "data-norm-a7",
+    "asset_name": "lehigh-valley-hospital-pocono__a74a10665ebbf54b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/lehigh-valley-hospital-pocono__a74a10665ebbf54b.jsonl.gz",
+    "asset_sha256": "a74a10665ebbf54b27034dfda2e448fd69619534ad1db0cf6d357e975ab8478b",
+    "published_at": "2026-11-07T16:54:22Z"
   }
 }

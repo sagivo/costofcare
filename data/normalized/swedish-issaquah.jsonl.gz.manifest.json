@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/swedish/live/910433740_swedish-medical-center-issaquah_standardcharges.json",
   "source_sha256": "1123d09ceab3999e0f2238577eb67cd20300d3fa1f41ba9088aed95bc29728de",
   "download_bytes": 219853448,
-  "extracted_at": "2026-10-25T15:54:12Z",
+  "extracted_at": "2026-11-07T16:40:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "swedish-issaquah__b59bcd0468e80456.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/swedish-issaquah__b59bcd0468e80456.jsonl.gz",
     "asset_sha256": "b59bcd0468e804568e8d3982b2acb0641941a783966063af62656d0180bb3347",
-    "published_at": "2026-10-29T17:26:55Z"
+    "published_at": "2026-11-07T16:56:08Z"
   }
 }
