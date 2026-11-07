@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/wamt/live/910655392_kadlec-regional-medical-center_standardcharges.json",
   "source_sha256": "23502eaac87f5d76f5d014081644be04213fd809cc964a28a6de4aee41b7785f",
   "download_bytes": 177975479,
-  "extracted_at": "2026-10-25T07:45:23Z",
+  "extracted_at": "2026-11-07T02:23:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "kadlec-freestanding-emergency-room__f1aa6f41698cf74d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/kadlec-freestanding-emergency-room__f1aa6f41698cf74d.jsonl.gz",
     "asset_sha256": "f1aa6f41698cf74da04fad2a29fb40839d7de2a01067df798468c4fbc7406aee",
-    "published_at": "2026-10-25T16:09:33Z"
+    "published_at": "2026-11-07T02:30:56Z"
   }
 }

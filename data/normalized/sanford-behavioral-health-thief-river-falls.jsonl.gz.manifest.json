@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13728/450409348_sanford-behavioral-health-thief-river-falls_standardcharges.csv",
   "source_sha256": "2e26ed9aefb8cebbb3c3262a5c17781cdf7cff81de50f802080b16feae740640",
   "download_bytes": 154228417,
-  "extracted_at": "2026-10-24T14:23:08Z",
+  "extracted_at": "2026-11-07T02:18:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-behavioral-health-thief-river-falls__5266d6ba56b67df7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/sanford-behavioral-health-thief-river-falls__5266d6ba56b67df7.jsonl.gz",
     "asset_sha256": "5266d6ba56b67df715bf7848a2fc05625b61ed7479deb298dc9b773ee531d5f3",
-    "published_at": "2026-10-29T08:03:42Z"
+    "published_at": "2026-11-07T02:32:21Z"
   }
 }

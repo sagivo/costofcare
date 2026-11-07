@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 402,
   "source_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-queen-of-the-valley-medical-center_standardcharges.json",
-  "source_sha256": "a4bbab7b8b12c2bbd8fda016638e4e46a53716a4f3a1b4373d2b45817e04509b",
-  "download_bytes": 188950942,
-  "extracted_at": "2026-10-25T07:45:54Z",
+  "source_sha256": "d3e1c0206ed2a9f719db4fb99aab7e2931e35bd0f479e64433d1dcfef9d4c0e5",
+  "download_bytes": 191534155,
+  "extracted_at": "2026-11-07T02:26:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-8e",
-    "asset_name": "queen-of-the-valley-medical-center__8eff62ca26a5327e.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8e/queen-of-the-valley-medical-center__8eff62ca26a5327e.jsonl.gz",
-    "asset_sha256": "8eff62ca26a5327e2e34003d922beee92eb4574a5fae6e7d3c202ded7b0a0d52",
-    "published_at": "2026-10-29T08:03:16Z"
+    "release": "data-norm-2c",
+    "asset_name": "queen-of-the-valley-medical-center__2c7dec56163a4945.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2c/queen-of-the-valley-medical-center__2c7dec56163a4945.jsonl.gz",
+    "asset_sha256": "2c7dec56163a4945d5b40c346cd4f8b2aeea1990595278796405d132fdc36e61",
+    "published_at": "2026-11-07T02:32:18Z"
   }
 }

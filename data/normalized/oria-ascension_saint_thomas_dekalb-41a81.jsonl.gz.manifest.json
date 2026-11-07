@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tn-csv/474063289_saint-thomas-dekalb-hospital-llc-_standardcharges.csv",
   "source_sha256": "6d8d876cca485783c3eab180832b093ba4338fa66c4c7e92260e984c562177df",
   "download_bytes": 121170690,
-  "extracted_at": "2026-10-24T14:17:09Z",
+  "extracted_at": "2026-11-07T02:11:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_saint_thomas_dekalb-41a81__2e6fe6234f891562.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-ascension_saint_thomas_dekalb-41a81__2e6fe6234f891562.jsonl.gz",
     "asset_sha256": "2e6fe6234f8915629a8c4dcc9fe4ff823af5c7b99759e8b23ecad2a2b4a67590",
-    "published_at": "2026-10-25T08:01:12Z"
+    "published_at": "2026-11-07T02:31:36Z"
   }
 }

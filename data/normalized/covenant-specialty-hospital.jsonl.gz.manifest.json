@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/txnm/live/205033419_covenant-specialty-hospital_standardcharges.json",
   "source_sha256": "21738e178870bae6f17da867dc516147f384a35bc1a1fc6486bc1090cd18444d",
   "download_bytes": 148328913,
-  "extracted_at": "2026-10-24T14:21:26Z",
+  "extracted_at": "2026-11-07T02:16:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "covenant-specialty-hospital__0e4950b581249fa9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0e/covenant-specialty-hospital__0e4950b581249fa9.jsonl.gz",
     "asset_sha256": "0e4950b581249fa92144632160bcf8546fe20cf154c2156ea2b499d2e8903508",
-    "published_at": "2026-10-25T16:07:38Z"
+    "published_at": "2026-11-07T02:30:45Z"
   }
 }

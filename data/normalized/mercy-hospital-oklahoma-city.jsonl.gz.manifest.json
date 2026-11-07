@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/730579285_mercy-hospital-oklahoma-city_standardcharges.zip",
   "source_sha256": "fae2d5cf7a05760eecf501d40490ce8602198b42fb411a21c21e481ebbc31472",
   "download_bytes": 126806007,
-  "extracted_at": "2026-10-24T14:22:04Z",
+  "extracted_at": "2026-11-07T02:19:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-hospital-oklahoma-city__bd328433a5b2c13d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/mercy-hospital-oklahoma-city__bd328433a5b2c13d.jsonl.gz",
     "asset_sha256": "bd328433a5b2c13dfbbf8b7df93c52a68ad688209b40cc0064ad5a1433e20dbf",
-    "published_at": "2026-10-25T16:11:26Z"
+    "published_at": "2026-11-07T02:31:03Z"
   }
 }

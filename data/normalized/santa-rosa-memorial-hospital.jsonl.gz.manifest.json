@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 414,
   "source_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-santa-rosa-memorial-hospital_standardcharges.json",
-  "source_sha256": "2cb01402d6598ad8edab2b76aa5c00427b14519892b721738a1c444a5f66d7d8",
-  "download_bytes": 189005348,
-  "extracted_at": "2026-10-25T07:45:56Z",
+  "source_sha256": "3c7e0bdbfece4fb1a5d2abe8969242a93cf57f19613bac1c69ad81a36c92c61b",
+  "download_bytes": 190938050,
+  "extracted_at": "2026-11-07T02:26:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-e1",
-    "asset_name": "santa-rosa-memorial-hospital__e18b9d609cdcea48.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e1/santa-rosa-memorial-hospital__e18b9d609cdcea48.jsonl.gz",
-    "asset_sha256": "e18b9d609cdcea48cdc98b8a03a66498a42793b4fbb030c2035b29bca5628694",
-    "published_at": "2026-10-29T08:04:16Z"
+    "release": "data-norm-f3",
+    "asset_name": "santa-rosa-memorial-hospital__f36f908e92e55f35.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/santa-rosa-memorial-hospital__f36f908e92e55f35.jsonl.gz",
+    "asset_sha256": "f36f908e92e55f3559b42cc23fc9cdd49ee199a357db23f346d90208e4dd6371",
+    "published_at": "2026-11-07T02:32:26Z"
   }
 }

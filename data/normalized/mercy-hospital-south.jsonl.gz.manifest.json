@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/430980256_mercy-hospital-south_standardcharges.zip",
   "source_sha256": "c34225b49155400023463eb9c4a1a573e9aab78fc04b56067c0ca051057240b6",
   "download_bytes": 103029386,
-  "extracted_at": "2026-10-24T14:15:44Z",
+  "extracted_at": "2026-11-07T02:10:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-hospital-south__008b770d44d8d38d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-00/mercy-hospital-south__008b770d44d8d38d.jsonl.gz",
     "asset_sha256": "008b770d44d8d38d8e5d461769d1490d30eb7b5ab5a028b1a59ef58803e00d5c",
-    "published_at": "2026-10-25T16:11:39Z"
+    "published_at": "2026-11-07T02:31:04Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8075/840398876_yampa-valley-medical-center_standardcharges.csv",
   "source_sha256": "685c4fc716e38529462c74bb9e3f77d4481cf0ecf14d8080a47e563798e07703",
   "download_bytes": 148255631,
-  "extracted_at": "2026-10-24T14:21:46Z",
+  "extracted_at": "2026-11-07T02:17:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-yampa-valley-medical-center__ec8ac89f8b6dc95e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/uchealth-yampa-valley-medical-center__ec8ac89f8b6dc95e.jsonl.gz",
     "asset_sha256": "ec8ac89f8b6dc95efb75646a1a773db2ae3e679e374851a4644ebf89d21ab3c8",
-    "published_at": "2026-10-29T17:28:25Z"
+    "published_at": "2026-11-07T02:32:42Z"
   }
 }

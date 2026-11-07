@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 392,
   "source_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-st-joseph-hospital-eureka_standardcharges.json",
-  "source_sha256": "2f255cc0373cbc1898e91dd820e34e218d6e8ec8a07a46b3e9ea6bebdaabaa1a",
-  "download_bytes": 179090257,
-  "extracted_at": "2026-10-25T07:45:36Z",
+  "source_sha256": "025f500741be51ef3c22bab49e89ba924ebee8cca8a41807294d59cb4d3fe3ee",
+  "download_bytes": 181732954,
+  "extracted_at": "2026-11-07T02:25:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-f6",
-    "asset_name": "providence-st-joseph-hospital-eureka__f6efd03986996a28.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f6/providence-st-joseph-hospital-eureka__f6efd03986996a28.jsonl.gz",
-    "asset_sha256": "f6efd03986996a28655125a490ef534c59b8efa47c3a932debdcb345bf21eec0",
-    "published_at": "2026-10-29T08:02:58Z"
+    "release": "data-norm-cf",
+    "asset_name": "providence-st-joseph-hospital-eureka__cf0ceea5cadee06f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/providence-st-joseph-hospital-eureka__cf0ceea5cadee06f.jsonl.gz",
+    "asset_sha256": "cf0ceea5cadee06f5b17c9360fbd719c06e5c1d36157e8b60a31f010fb6576b5",
+    "published_at": "2026-11-07T02:32:09Z"
   }
 }

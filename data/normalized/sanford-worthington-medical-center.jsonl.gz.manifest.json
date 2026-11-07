@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8370/460388596_sanford-worthington-medical-center_standardcharges.csv",
   "source_sha256": "5a09390b70e0c2e8fcc6314c04ea81c7a7bce01444ac9b95834d0d9e8ab35bea",
   "download_bytes": 145196514,
-  "extracted_at": "2026-10-24T14:20:48Z",
+  "extracted_at": "2026-11-07T02:16:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-worthington-medical-center__858722380b20d48b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/sanford-worthington-medical-center__858722380b20d48b.jsonl.gz",
     "asset_sha256": "858722380b20d48bff4337fb23efd5484d93c644f6b95c4d7014b28eabb96cbd",
-    "published_at": "2026-10-29T08:04:14Z"
+    "published_at": "2026-11-07T02:32:23Z"
   }
 }

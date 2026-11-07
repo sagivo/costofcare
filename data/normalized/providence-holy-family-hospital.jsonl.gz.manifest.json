@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/wamt/live/352345508_providence-holy-family-hospital_standardcharges.json",
   "source_sha256": "c876bc8c6b51a559259676a727e392d67f8aa7fa83e7292b8e34c4755d71f32d",
   "download_bytes": 150943864,
-  "extracted_at": "2026-10-24T14:22:09Z",
+  "extracted_at": "2026-11-07T02:17:51Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "providence-holy-family-hospital__86bada3c35eff2c9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/providence-holy-family-hospital__86bada3c35eff2c9.jsonl.gz",
     "asset_sha256": "86bada3c35eff2c9e49dc9c7913148536bdc6ca8837ebd65f6045cd79a408e3e",
-    "published_at": "2026-10-29T08:02:28Z"
+    "published_at": "2026-11-07T02:31:56Z"
   }
 }

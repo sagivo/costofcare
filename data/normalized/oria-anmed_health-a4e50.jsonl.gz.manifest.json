@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 122037,
   "source_url": "https://anmed.org/sites/default/files/pricing/570359174_anmed-health_standardcharges.zip",
-  "source_sha256": "e81375daa543a33d862a2629d93536457b2a680dea33b075ec7e579335c15b0f",
-  "download_bytes": 122601275,
-  "extracted_at": "2026-10-24T14:20:20Z",
+  "source_sha256": "ce8c8fc3374a6d98a9133326afc80b622a2af1d0d0e8a4fde69fa8d8ad29b930",
+  "download_bytes": 127269484,
+  "extracted_at": "2026-11-07T02:17:33Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-8f",
-    "asset_name": "oria-anmed_health-a4e50__8f26e6170dc2a791.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-anmed_health-a4e50__8f26e6170dc2a791.jsonl.gz",
-    "asset_sha256": "8f26e6170dc2a791abb3ce69d868aa6c19e9854c98d52cd9ee8ab27cc4434360",
-    "published_at": "2026-10-25T08:00:13Z"
+    "release": "data-norm-64",
+    "asset_name": "oria-anmed_health-a4e50__6414fdbf302be7bd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-anmed_health-a4e50__6414fdbf302be7bd.jsonl.gz",
+    "asset_sha256": "6414fdbf302be7bd1f3186f07cf31f9274a6f4e950b8c46da2fa562e90b1c39b",
+    "published_at": "2026-11-07T02:31:27Z"
   }
 }

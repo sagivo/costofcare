@@ -5,7 +5,7 @@
   "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/232875070_upmc-st-margaret_standardcharges.csv?",
   "source_sha256": "98873445a34a17b1e418d578dda1347f64bf32661aecd3e813e41ad069cb7773",
   "download_bytes": 129168494,
-  "extracted_at": "2026-10-24T14:19:29Z",
+  "extracted_at": "2026-11-07T02:15:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "upmc-st-margaret__a381c1a7fa22e073.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/upmc-st-margaret__a381c1a7fa22e073.jsonl.gz",
     "asset_sha256": "a381c1a7fa22e07394d7c544bd45981313e95cdb7961f7a3ef27ecb1847e35c7",
-    "published_at": "2026-10-29T17:30:39Z"
+    "published_at": "2026-11-07T02:33:20Z"
   }
 }

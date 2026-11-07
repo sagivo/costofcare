@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8187/393395823_uchealth-estes-valley-medical-center_standardcharges.csv",
   "source_sha256": "96a0a7d7f75b9263eb13b7e13144b024b96a78b19f16b1295d69ff1fb39f8121",
   "download_bytes": 179048662,
-  "extracted_at": "2026-10-25T07:45:52Z",
+  "extracted_at": "2026-11-07T02:26:09Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "uchealth-estes-valley-medical-center__d9abbeedffcea50a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/uchealth-estes-valley-medical-center__d9abbeedffcea50a.jsonl.gz",
     "asset_sha256": "d9abbeedffcea50ad4fc6a939cc7aa010d9dd7f8d78e0e2989aaa92f25ffd1e6",
-    "published_at": "2026-10-29T17:27:49Z"
+    "published_at": "2026-11-07T02:32:38Z"
   }
 }

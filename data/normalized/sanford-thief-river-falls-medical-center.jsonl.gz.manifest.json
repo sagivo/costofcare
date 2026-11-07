@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8386/450409348_sanford-thief-river-falls-medical-center_standardcharges.csv",
   "source_sha256": "de2d023e4a8f85ba2587a5c9afb0c9dee715d2a94033e34d9b389be680118774",
   "download_bytes": 153908630,
-  "extracted_at": "2026-10-24T14:22:41Z",
+  "extracted_at": "2026-11-07T02:18:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-thief-river-falls-medical-center__a848c3b7813851e3.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/sanford-thief-river-falls-medical-center__a848c3b7813851e3.jsonl.gz",
     "asset_sha256": "a848c3b7813851e37c3075a8934f503f412947d61b4fc04bde350d0006ffa12d",
-    "published_at": "2026-10-29T08:04:05Z"
+    "published_at": "2026-11-07T02:32:22Z"
   }
 }

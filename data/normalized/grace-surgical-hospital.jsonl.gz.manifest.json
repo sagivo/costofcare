@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 327,
   "source_url": "https://pricetransparency.providence.org/txnm/live/264021016_grace-surgical-hospital_standardcharges.json",
-  "source_sha256": "cc2e8609f5f493bd0684d332fee9072b5edd1903de320c701b4e8d92d7e0c2c9",
-  "download_bytes": 173024196,
-  "extracted_at": "2026-10-25T07:44:58Z",
+  "source_sha256": "49295641dd116b18731b8184d4ed78ad116ffb0608e4982a648ad2c00f5567ea",
+  "download_bytes": 180472516,
+  "extracted_at": "2026-11-07T02:23:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -186,9 +186,9 @@
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
     "release": "data-norm-a3",
-    "asset_name": "grace-surgical-hospital__a3eda3bfed1cf1a0.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/grace-surgical-hospital__a3eda3bfed1cf1a0.jsonl.gz",
-    "asset_sha256": "a3eda3bfed1cf1a03d5ee894810174fbe8e59be4fa55c8b5a81176b3b38235ab",
-    "published_at": "2026-10-25T16:08:18Z"
+    "asset_name": "grace-surgical-hospital__a3a1cdb24e217b21.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/grace-surgical-hospital__a3a1cdb24e217b21.jsonl.gz",
+    "asset_sha256": "a3a1cdb24e217b2148c6bf53db313220a0b990cfc8afcce7aff34cb54b2ad84c",
+    "published_at": "2026-11-07T02:30:47Z"
   }
 }

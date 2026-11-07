@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 402,
   "source_url": "https://pricetransparency.providence.org/txnm/live/752426010_covenant-hospital-plainview_standardcharges.json",
-  "source_sha256": "922056f36aac21494a23bcc04821620668aeeadaa863b6d3f3d3c4dee8f8dcf6",
-  "download_bytes": 179394156,
-  "extracted_at": "2026-10-25T07:45:36Z",
+  "source_sha256": "e86e827d9d3793621971f58c2f32e6ff34e9a1c76d7ca1da85198451314ce1d6",
+  "download_bytes": 180358508,
+  "extracted_at": "2026-11-07T02:25:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-5f",
-    "asset_name": "covenant-hospital-plainview__5ff25a4b30439724.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/covenant-hospital-plainview__5ff25a4b30439724.jsonl.gz",
-    "asset_sha256": "5ff25a4b304397245e26b73bc969865e016a5839bbfe25c8c45c1a5fdccff810",
-    "published_at": "2026-10-25T16:07:37Z"
+    "release": "data-norm-37",
+    "asset_name": "covenant-hospital-plainview__37e6b196ecc5b22f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/covenant-hospital-plainview__37e6b196ecc5b22f.jsonl.gz",
+    "asset_sha256": "37e6b196ecc5b22f13ff9e92f7dc36dc52adf63688279e4e9f7772b1b059f711",
+    "published_at": "2026-11-07T02:30:43Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/il-csv/362235165_presence-chicago-hospitals-network_standardcharges.csv",
   "source_sha256": "ef269e435594c68c91ba2b4cb0895cca60c4f60de343b8b6b92e9d052b17f888",
   "download_bytes": 124756364,
-  "extracted_at": "2026-10-24T14:17:31Z",
+  "extracted_at": "2026-11-07T02:12:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_saint_joseph_chicago-5e5c2__5c6e8a38d1c7bd66.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-ascension_saint_joseph_chicago-5e5c2__5c6e8a38d1c7bd66.jsonl.gz",
     "asset_sha256": "5c6e8a38d1c7bd661d48af3f760242351a6361fa76fc37328dae05a22b86d432",
-    "published_at": "2026-10-25T08:01:09Z"
+    "published_at": "2026-11-07T02:31:34Z"
   }
 }
