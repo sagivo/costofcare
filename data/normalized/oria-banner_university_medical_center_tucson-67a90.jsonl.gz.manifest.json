@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/901074557_banner-university-medical-center-tucson_standardcharges.csv",
   "source_sha256": "6de8bc6ea59b004b271cbd38a2e8b8ab0955b94d0d0e1f33ad3a52f5559c7776",
   "download_bytes": 147135870,
-  "extracted_at": "2026-10-27T01:40:13Z",
+  "extracted_at": "2026-11-08T16:59:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_university_medical_center_tucson-67a90__a80e430f6874989c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/oria-banner_university_medical_center_tucson-67a90__a80e430f6874989c.jsonl.gz",
     "asset_sha256": "a80e430f6874989ca1ca202d4ee1295dc69f216551943ce794152407dfe473cc",
-    "published_at": "2026-10-27T02:01:39Z"
+    "published_at": "2026-11-08T17:06:35Z"
   }
 }

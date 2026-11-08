@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ks-csv/481186704_ascension-via-christi-hospital-manhattan-inc_standardcharges.csv",
   "source_sha256": "8086d9b77aadaa728ff6e46ad291ddc41b3b897c33ba0a8dd1e81b9c7f718fd4",
   "download_bytes": 96914765,
-  "extracted_at": "2026-10-26T17:04:09Z",
+  "extracted_at": "2026-11-08T16:53:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_via_christi_hospital_manhattan_inc-f861d__d2822221518a0fb8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d2/oria-ascension_via_christi_hospital_manhattan_inc-f861d__d2822221518a0fb8.jsonl.gz",
     "asset_sha256": "d2822221518a0fb8e9cf853c785251321f19db35ea155c90d3cc57b20eb7906e",
-    "published_at": "2026-10-26T17:10:35Z"
+    "published_at": "2026-11-08T17:04:34Z"
   }
 }

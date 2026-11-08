@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 11025,
+  "records": 11122,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11244/390806347_aurora-lakeland-medical-center_standardcharges.csv",
-  "source_sha256": "a1f3d06d4cc2f4435ddb37d6bdf33b52e38d3ffa89560d24340360f2460f56ed",
-  "download_bytes": 99974925,
-  "extracted_at": "2026-10-26T17:04:32Z",
+  "source_sha256": "02ea4ca1e642e001510dd01ccd6eb4262e4dc34acd12f58d7eab429575c33bde",
+  "download_bytes": 103394286,
+  "extracted_at": "2026-11-08T16:54:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-43",
-    "asset_name": "oria-aurora_lakeland_medical_center-3f2ac__439fa895ff3d50c9.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-aurora_lakeland_medical_center-3f2ac__439fa895ff3d50c9.jsonl.gz",
-    "asset_sha256": "439fa895ff3d50c90a7757980ed71f16b19e7c916a4747637de71ef99f586b93",
-    "published_at": "2026-10-26T17:11:09Z"
+    "release": "data-norm-cf",
+    "asset_name": "oria-aurora_lakeland_medical_center-3f2ac__cfabc18983a621e7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-aurora_lakeland_medical_center-3f2ac__cfabc18983a621e7.jsonl.gz",
+    "asset_sha256": "cfabc18983a621e75b9904a0337a7110e995bb7c0a0b6c56c30bc08d4ab5d27e",
+    "published_at": "2026-11-08T17:05:17Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7803/436052772_bates-county-memorial-hospital_standardcharges.csv",
   "source_sha256": "1a74d35819974a34b0b52ecdb7b38754cebbd14f1ab710d628c51e1b28a202e5",
   "download_bytes": 50695808,
-  "extracted_at": "2026-10-26T17:00:54Z",
+  "extracted_at": "2026-11-08T16:47:51Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-bates_county_memorial_hospital-9013a__706bd1e260bf955f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-bates_county_memorial_hospital-9013a__706bd1e260bf955f.jsonl.gz",
     "asset_sha256": "706bd1e260bf955f8a21f6a03b1d38a56c056de10140474bb17832d4d1e45e32",
-    "published_at": "2026-10-26T17:13:19Z"
+    "published_at": "2026-11-08T17:07:09Z"
   }
 }

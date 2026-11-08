@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900065118_banner-estrella-medical-center_standardcharges.csv",
   "source_sha256": "09e87def26a082a4097c5c91d4b72b85498ae72ce739c373e7ccbd40c13a97ef",
   "download_bytes": 111686119,
-  "extracted_at": "2026-10-26T17:05:01Z",
+  "extracted_at": "2026-11-08T16:55:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_estrella_medical_center-0e980__e5c79018dd3591d9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-banner_estrella_medical_center-0e980__e5c79018dd3591d9.jsonl.gz",
     "asset_sha256": "e5c79018dd3591d9ea6a2bf0033fdcec542bbb683459cefda234b76483e0b1fe",
-    "published_at": "2026-10-26T17:11:48Z"
+    "published_at": "2026-11-08T17:06:10Z"
   }
 }

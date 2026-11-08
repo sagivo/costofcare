@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 9791,
+  "records": 9864,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11250/391150165_aurora-medical-center-washington-county_standardcharges.csv",
-  "source_sha256": "c92019892531d061215fed8344c1e58d2e2df6d1b594684d5518d256b40a8cee",
-  "download_bytes": 111725941,
-  "extracted_at": "2026-10-27T01:37:09Z",
+  "source_sha256": "cd781926243a848a97cf7298d7535239167e19a8086e40ea0e9f2c8e6056f16d",
+  "download_bytes": 112376895,
+  "extracted_at": "2026-11-08T16:57:03Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ee",
-    "asset_name": "oria-aurora_medical_center_washington_county-afcc7__ee81ae5f214de5ec.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-aurora_medical_center_washington_county-afcc7__ee81ae5f214de5ec.jsonl.gz",
-    "asset_sha256": "ee81ae5f214de5ec84850096180ea4b5a0386f58ef14c7c29654e923b90d867c",
-    "published_at": "2026-10-27T02:01:12Z"
+    "release": "data-norm-d7",
+    "asset_name": "oria-aurora_medical_center_washington_county-afcc7__d7104e7bfbb945c1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d7/oria-aurora_medical_center_washington_county-afcc7__d7104e7bfbb945c1.jsonl.gz",
+    "asset_sha256": "d7104e7bfbb945c13c9b8fdd46426481e94d5b7d41c40d1306a8a4aa7ff420f3",
+    "published_at": "2026-11-08T17:05:41Z"
   }
 }

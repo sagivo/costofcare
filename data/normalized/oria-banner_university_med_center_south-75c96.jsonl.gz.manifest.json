@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/901074558_banner-university-med-center-south_standardcharges.csv",
   "source_sha256": "9b0cb683c38c0c55f10aba7c45a6f22f1cbcc184cf57e9488ed7fc177507c6f5",
   "download_bytes": 99734071,
-  "extracted_at": "2026-10-26T17:04:27Z",
+  "extracted_at": "2026-11-08T16:54:48Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_university_med_center_south-75c96__35b0726dd47f0940.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-35/oria-banner_university_med_center_south-75c96__35b0726dd47f0940.jsonl.gz",
     "asset_sha256": "35b0726dd47f0940d04fea00c124052d5b4e47c31a602c1bdbf5a366450c8199",
-    "published_at": "2026-10-26T17:12:17Z"
+    "published_at": "2026-11-08T17:06:32Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/450233470_banner-payson-medical-center_standardcharges.csv",
   "source_sha256": "580fc9557c55041bab165175ae025e8db79c063b0319c8b5cdb500ae46cd048f",
   "download_bytes": 81945770,
-  "extracted_at": "2026-10-26T17:03:40Z",
+  "extracted_at": "2026-11-08T16:53:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_payson_medical_center-de656__8d9b4ced3a7ab580.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8d/oria-banner_payson_medical_center-de656__8d9b4ced3a7ab580.jsonl.gz",
     "asset_sha256": "8d9b4ced3a7ab58040ec39c718e05c921e2804ec605fc2b3310fe8b01c5cda09",
-    "published_at": "2026-10-26T17:12:14Z"
+    "published_at": "2026-11-08T17:06:28Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7982/340726081_ashtabula-county-medical-center_standardcharges.csv",
   "source_sha256": "e78e21c9f6f39a244c18491c4f337700d76186b972e8d917cfd30eaa0fb1ff75",
   "download_bytes": 134428640,
-  "extracted_at": "2026-10-27T01:39:39Z",
+  "extracted_at": "2026-11-08T16:58:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ashtabula_regional_medical_center-ce533__5a82d8f01423aa04.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-ashtabula_regional_medical_center-ce533__5a82d8f01423aa04.jsonl.gz",
     "asset_sha256": "5a82d8f01423aa04ff774d45504e46acdc1b3bc1bbb49a30e414bcaddfe816ca",
-    "published_at": "2026-10-27T02:00:06Z"
+    "published_at": "2026-11-08T17:04:39Z"
   }
 }

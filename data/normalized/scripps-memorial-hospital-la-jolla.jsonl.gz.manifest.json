@@ -5,7 +5,7 @@
   "source_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Memorial-Hospital-La-Jolla_standardcharges.csv",
   "source_sha256": "8ca082896a0c8cdf1bedd0067520d908f0861f2cb35f00f8d6d725455260c1a5",
   "download_bytes": 632184790,
-  "extracted_at": "2026-10-27T01:40:30Z",
+  "extracted_at": "2026-11-08T17:03:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "scripps-memorial-hospital-la-jolla__ab7476bd801b19e8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ab/scripps-memorial-hospital-la-jolla__ab7476bd801b19e8.jsonl.gz",
     "asset_sha256": "ab7476bd801b19e856be97d5913b4eeb1c3e2048e2752209b9acd922a1d20b28",
-    "published_at": "2026-10-29T08:04:21Z"
+    "published_at": "2026-11-08T17:07:29Z"
   }
 }

@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 4202,
+  "records": 4334,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11254/390872192_aurora-psychiatric-hospital_standardcharges.csv",
-  "source_sha256": "2f3f8a1c6cd7950f73a66ace429c91928ffb005fe7b809e8acaa7f9d7d620a4b",
-  "download_bytes": 62508275,
-  "extracted_at": "2026-10-26T17:02:20Z",
+  "source_sha256": "e122ad02f3727709fd95b17eacebe2bea11fe1b7da82177707f395e85220740d",
+  "download_bytes": 61044563,
+  "extracted_at": "2026-11-08T16:50:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-16",
-    "asset_name": "oria-aurora_psychiatric_hospital-79ba2__167f0a89a01a0009.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/oria-aurora_psychiatric_hospital-79ba2__167f0a89a01a0009.jsonl.gz",
-    "asset_sha256": "167f0a89a01a0009c5670e5d55ab7eb4af1bb39ac8180811efaefa0cbd62c04b",
-    "published_at": "2026-10-26T17:11:16Z"
+    "release": "data-norm-bc",
+    "asset_name": "oria-aurora_psychiatric_hospital-79ba2__bc1219973836ea0f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/oria-aurora_psychiatric_hospital-79ba2__bc1219973836ea0f.jsonl.gz",
+    "asset_sha256": "bc1219973836ea0fe3f3adf19a5b40b4634211695097ca2bb4eef4c608925553",
+    "published_at": "2026-11-08T17:05:43Z"
   }
 }

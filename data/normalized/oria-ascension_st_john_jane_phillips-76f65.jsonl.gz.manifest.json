@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ok-csv/730606129_jane-phillips-memorial-medical-center-inc_standardcharges.csv",
   "source_sha256": "dec300c4cf065d92c65b9b02bc097db93729e1440a7cabfefff9c6a5be8c9469",
   "download_bytes": 25844124,
-  "extracted_at": "2026-10-26T17:00:49Z",
+  "extracted_at": "2026-11-08T16:48:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_john_jane_phillips-76f65__2b47b3a29119ab31.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-ascension_st_john_jane_phillips-76f65__2b47b3a29119ab31.jsonl.gz",
     "asset_sha256": "2b47b3a29119ab31632acc67c4043135958788bf9a9fb782dc15fdaaa7dfdee6",
-    "published_at": "2026-10-26T17:10:23Z"
+    "published_at": "2026-11-08T17:04:30Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900412842_banner-ironwood-medical-center_standardcharges.csv",
   "source_sha256": "96fab1ef82bf9c821bcd83570d7dcf146d06aa54e852f0bbbb98a8bb5a14174c",
   "download_bytes": 84484791,
-  "extracted_at": "2026-10-26T17:03:50Z",
+  "extracted_at": "2026-11-08T16:53:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_ironwood_medical_center-20736__67b26244fa99dea2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/oria-banner_ironwood_medical_center-20736__67b26244fa99dea2.jsonl.gz",
     "asset_sha256": "67b26244fa99dea2bd19b5bdfb9322ea5af8b1a2dd6897fc37a06ba6c40d85be",
-    "published_at": "2026-10-26T17:11:57Z"
+    "published_at": "2026-11-08T17:06:18Z"
   }
 }

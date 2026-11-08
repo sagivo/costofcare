@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/363386394_banner-baywood-medical-center_standardcharges.csv",
   "source_sha256": "d64a67a40df9cd7d81f65e0e8567217719869120c0daf7541e118ef3eb768769",
   "download_bytes": 100076693,
-  "extracted_at": "2026-10-26T17:04:34Z",
+  "extracted_at": "2026-11-08T16:55:01Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_baywood_medical_center-f5576__5c6860e5f01cd063.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-banner_baywood_medical_center-f5576__5c6860e5f01cd063.jsonl.gz",
     "asset_sha256": "5c6860e5f01cd063cb68b0e66d763372e6979e3238f688bbd16f80d477288bef",
-    "published_at": "2026-10-26T17:11:32Z"
+    "published_at": "2026-11-08T17:06:00Z"
   }
 }

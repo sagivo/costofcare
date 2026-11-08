@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900981239_banner-goldfield-medical-center_standardcharges.csv",
   "source_sha256": "423c5585ef506b5eaf5afd112dc18be3c97e3d96949d409cc13848345f918dc5",
   "download_bytes": 70562586,
-  "extracted_at": "2026-10-26T17:02:58Z",
+  "extracted_at": "2026-11-08T16:51:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_goldfield_medical_center-aede0__86e8fafe8a2ea517.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-banner_goldfield_medical_center-aede0__86e8fafe8a2ea517.jsonl.gz",
     "asset_sha256": "86e8fafe8a2ea51799fcee224d929ad9d296a51bb93feb13ab114451b0c1fe0e",
-    "published_at": "2026-10-26T17:11:52Z"
+    "published_at": "2026-11-08T17:06:15Z"
   }
 }

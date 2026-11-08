@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/900054201_banner-desert-medical-center_standardcharges.csv",
   "source_sha256": "4fce7e46419ce32f995a405bda61e2293c5d1fcada0ec651b6be8c1b9f3b85ad",
   "download_bytes": 131574431,
-  "extracted_at": "2026-10-27T01:38:47Z",
+  "extracted_at": "2026-11-08T16:58:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_desert_medical_center-5cb36__db810b324eadfcf6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-banner_desert_medical_center-5cb36__db810b324eadfcf6.jsonl.gz",
     "asset_sha256": "db810b324eadfcf62bf81febf911a7ed77d42e9f5160fac0e243786d080cb829",
-    "published_at": "2026-10-27T02:01:29Z"
+    "published_at": "2026-11-08T17:06:08Z"
   }
 }

@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 10794,
+  "records": 10848,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11248/391211629_aurora-medical-center-manitowoc_standardcharges.csv",
-  "source_sha256": "65d4acb1c01d9c15d3eb73605346ffcb9ab7ddc0ec301bb44a70a308194fe647",
-  "download_bytes": 111761266,
-  "extracted_at": "2026-10-27T01:37:09Z",
+  "source_sha256": "db04fe21ebe60a28f69fcf638747d76da0c76ea0ba43ac9bd90b0a06bc6dcbe9",
+  "download_bytes": 112662721,
+  "extracted_at": "2026-11-08T16:57:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-11",
-    "asset_name": "oria-aurora_medical_center_manitowoc-28245__119bd9d458d391c8.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-aurora_medical_center_manitowoc-28245__119bd9d458d391c8.jsonl.gz",
-    "asset_sha256": "119bd9d458d391c8736fb1a60e33abc3c57f6bc7e41915bf61c2f5abda8cf72f",
-    "published_at": "2026-10-27T02:01:00Z"
+    "release": "data-norm-e5",
+    "asset_name": "oria-aurora_medical_center_manitowoc-28245__e5738300d536b08b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-aurora_medical_center_manitowoc-28245__e5738300d536b08b.jsonl.gz",
+    "asset_sha256": "e5738300d536b08bf47713f8f03249cd252cf9bf6a9be23f38e74017ed600451",
+    "published_at": "2026-11-08T17:05:30Z"
   }
 }

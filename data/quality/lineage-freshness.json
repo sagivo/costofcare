@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:06:27.866300+00:00",
+  "generated_at": "2026-11-08T17:08:52.349611+00:00",
   "normalized_files": 2764,
   "parser_versions": {
     "row-preserving-1.3": 2756,
@@ -7,9 +7,9 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1257,
-    "within_24h": 315,
-    "1_to_7_days": 1192
+    "over_7_days": 1270,
+    "within_24h": 207,
+    "1_to_7_days": 1287
   },
   "failed_attempt_classes": {
     "other": 26,
@@ -18,13 +18,6 @@
   },
   "summary_hash_missing_count": 1,
   "summary_normalized_hash_differences": [
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11250/391150165_aurora-medical-center-washington-county_standardcharges.csv",
-      "normalized_sha256": "c92019892531d061215fed8344c1e58d2e2df6d1b594684d5518d256b40a8cee",
-      "summary_sha256": "cd781926243a848a97cf7298d7535239167e19a8086e40ea0e9f2c8e6056f16d",
-      "normalized_extracted_at": "2026-10-27T01:37:09Z",
-      "summary_extracted_at": "2026-11-07T16:01:00Z"
-    },
     {
       "source_url": "https://www.urmc.rochester.edu/getmedia/636ee711-58e5-4a53-abe8-aac528ae0614/222807681-JONES-MEMORIAL-HOSPITAL-standardcharges.csv",
       "normalized_sha256": "785360c903d7a7d2970d657c0158aaae6f6673986c98a3a107c558515ebbca97",
@@ -38,20 +31,6 @@
       "summary_sha256": "48855e216fb7155a9300091d713e1c7da6c1ba289720d2d7bb6545baf3b30291",
       "normalized_extracted_at": "2026-11-01T17:02:34Z",
       "summary_extracted_at": "2026-11-07T16:46:55Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11248/391211629_aurora-medical-center-manitowoc_standardcharges.csv",
-      "normalized_sha256": "65d4acb1c01d9c15d3eb73605346ffcb9ab7ddc0ec301bb44a70a308194fe647",
-      "summary_sha256": "db04fe21ebe60a28f69fcf638747d76da0c76ea0ba43ac9bd90b0a06bc6dcbe9",
-      "normalized_extracted_at": "2026-10-27T01:37:09Z",
-      "summary_extracted_at": "2026-11-07T16:00:51Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11258/390806181_aurora-st-lukes-south-shore-of-aurora-health-care-metro-inc_standardcharges.csv",
-      "normalized_sha256": "37717fc52cf3de59373a31bb949f8785c72a5b739eacc38b9d40689f753cb3ce",
-      "summary_sha256": "479aa507feea8c1fc4f22fa9aa305ce125ef919424fd6cdbbf3cf17fa3640dbd",
-      "normalized_extracted_at": "2026-10-27T01:38:00Z",
-      "summary_extracted_at": "2026-11-07T16:05:26Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/stjoh/sobv/finance/price-transparency/742759890-1750377289_burleson-st-joseph-health-center-of-caldwell-texas_standardcharges.json",
@@ -264,13 +243,6 @@
       "summary_extracted_at": "2026-11-07T16:24:15Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11260/391528430_aurora-medical-center-bay-area_standardcharges.csv",
-      "normalized_sha256": "f2a2648decca7ef459e510f385e54855c23e4b69a2aa2641156696c7197dcf3f",
-      "summary_sha256": "d489568384d326b8ad5bd9495136f00f18cf21e423670f3d17f5d90bbbf8a342",
-      "normalized_extracted_at": "2026-10-26T17:04:50Z",
-      "summary_extracted_at": "2026-11-07T16:00:46Z"
-    },
-    {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnev/celv/finance/price-transparency/941196203-1770626426_dignity-health_standardcharges.json",
       "normalized_sha256": "55ae94d93b723cfb786dacc5bd7b103cda4263862f5024d08e11ce325907656d",
       "summary_sha256": "315371c1888b51fcaff25c99e75becb5af8b8da581c15a737de3f4f8b11f5500",
@@ -311,13 +283,6 @@
       "summary_sha256": "734164aedc20c29937da4cb769c097737448302ecae8aa2527c2aec8a57b9816",
       "normalized_extracted_at": "2026-10-29T17:13:34Z",
       "summary_extracted_at": "2026-11-07T15:45:53Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11255/390930748_aurora-medical-center-sheboygan-county_standardcharges.csv",
-      "normalized_sha256": "e377e3b8d8d6d224655755f88224d417eec09408f7433539048b14a366eec815",
-      "summary_sha256": "66e2395110c0aa206f5be2554039cf0916b99beb5b6b0c921bcd2a564ddeee92",
-      "normalized_extracted_at": "2026-10-27T01:38:11Z",
-      "summary_extracted_at": "2026-11-07T16:00:56Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dharz/ceaz/finance/price-transparency/815009488-1700910189_dignity-community-care_standardcharges.json",
@@ -388,13 +353,6 @@
       "summary_sha256": "62c1f94b3eb3b8f718a1c5f74a2efa62ad98280595c11897e751f60cdc0620e1",
       "normalized_extracted_at": "2026-10-27T16:05:10Z",
       "summary_extracted_at": "2026-11-07T16:36:51Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11259/391022464_aurora-west-allis-medical-center_standardcharges.csv",
-      "normalized_sha256": "a571699838d3b60ae40fb0b9bb1121c8b29ea2d345cdc468caa8ba16eb1cce9a",
-      "summary_sha256": "2320c2f83fea8b5f686be88463184c10f33667d1352b9c8bdd5c22cc12f4e607",
-      "normalized_extracted_at": "2026-10-27T01:39:47Z",
-      "summary_extracted_at": "2026-11-07T16:05:30Z"
     },
     {
       "source_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-standard-charges/450227311-1205807013_carrington-health-center_standardcharges.json",
@@ -565,13 +523,6 @@
       "summary_extracted_at": "2026-11-07T17:18:14Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13373/391027676_aurora-medical-center-fond-du-lac_standardcharges.csv",
-      "normalized_sha256": "a141623f141136f5b43ba24d15ba5e4b2a782ed1a1ffc6b5c90d328b086f53cf",
-      "summary_sha256": "2218d31d6b93fb409a8c1c38d2d50796ee042d4ccb113d1691a07930b6c5ca78",
-      "normalized_extracted_at": "2026-10-26T17:04:40Z",
-      "summary_extracted_at": "2026-11-07T16:00:50Z"
-    },
-    {
       "source_url": "https://www.urmc.rochester.edu/getmedia/016bb4df-9b94-41b6-a803-c44ad94a879c/160743979-NICHOLAS-H-NOYES-MEMORIAL-HOSPITAL-standardcharges.csv",
       "normalized_sha256": "06efe9ded72d7bc20677562dba551873308f54c7637cb286ec0f9b445c513554",
       "summary_sha256": "cb3b6483db0d0f97f4beed5ca3c08c76d3f77b50ce13a6d5e7cc718c0bf4ea5b",
@@ -642,13 +593,6 @@
       "summary_extracted_at": "2026-11-07T15:48:26Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11246/390806347_aurora-medical-center-burlington_standardcharges.csv",
-      "normalized_sha256": "199ccfe8bf8cb4798a613b74983555b790061c6e6a17cc412f8d3b36056cac02",
-      "summary_sha256": "b624cc1450837e54fecd88acef338e08b658afbe56543d465d5747e6b3db47ce",
-      "normalized_extracted_at": "2026-10-27T01:37:23Z",
-      "summary_extracted_at": "2026-11-07T16:00:46Z"
-    },
-    {
       "source_url": "https://secure.claraprice.net/price-transparency/HRHW-1731105964107/machine-readable/273815440_crescent-regional-hospital_standardcharges.json",
       "normalized_sha256": "7d83a300d9160bba16c2e587a6ead537e3fb1bbcd87aa65a63270cb43c2cdca9",
       "summary_sha256": "246a3e87e54fef31de0590b8b1abc43346be6461b64ca4b28fec0d3570b6b87a",
@@ -668,13 +612,6 @@
       "summary_sha256": "8fb84f27e25935b7e9dbadf39a8f3045a0288ad2063fec93a48fd62fac869b1c",
       "normalized_extracted_at": "2026-10-28T01:47:04Z",
       "summary_extracted_at": "2026-11-07T17:02:30Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11252/391027676_aurora-medical-center-oshkosh_standardcharges.csv",
-      "normalized_sha256": "2f0a6011d27ab176b8760a68621216bf0d6210e46862cee0aae04b28fd17c34e",
-      "summary_sha256": "6653d801cc96c9d047b814f3e928cd1565840600e5a16796ad24c38d07258f8b",
-      "normalized_extracted_at": "2026-10-27T01:39:19Z",
-      "summary_extracted_at": "2026-11-07T16:00:56Z"
     },
     {
       "source_url": "https://csdam.widen.net/content/io4ekzbiq8/original/480543721-1689317190_commonspirit-kansas-inc_standardcharges.csv",
@@ -705,13 +642,6 @@
       "summary_extracted_at": "2026-11-07T16:37:10Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11256/390806181_aurora-sinai-medical-center-of-aurora-health-care-metro-inc_standardcharges.csv",
-      "normalized_sha256": "2072602f439fec3cc9217894088142a44c33b70990580f1aa902b8e576282217",
-      "summary_sha256": "b0a2911f88ade4e56109d06a0ec4cc88c1ac693cb8a9bb24e6acabfd772adf23",
-      "normalized_extracted_at": "2026-10-27T01:38:33Z",
-      "summary_extracted_at": "2026-11-07T16:01:01Z"
-    },
-    {
       "source_url": "https://www.merithealthnatchez.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640833457_merit-health-natchez_standardcharges.csv",
       "normalized_sha256": "a79c2bd004dadc3928053d2215097b9cefa22a9d1e46a2c0a9402905c6de99b0",
       "summary_sha256": "73134f670bb4e020a4147ea1bd9ef464d4b2e61dad947d39c11cc7ac59f1cbf5",
@@ -738,13 +668,6 @@
       "summary_sha256": "1274547368822d040f8f1d0cf6a2f9abd68b104548ffc0897c0b964e280a1c50",
       "normalized_extracted_at": "2026-10-27T01:42:58Z",
       "summary_extracted_at": "2026-11-07T16:00:45Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11244/390806347_aurora-lakeland-medical-center_standardcharges.csv",
-      "normalized_sha256": "a1f3d06d4cc2f4435ddb37d6bdf33b52e38d3ffa89560d24340360f2460f56ed",
-      "summary_sha256": "02ea4ca1e642e001510dd01ccd6eb4262e4dc34acd12f58d7eab429575c33bde",
-      "normalized_extracted_at": "2026-10-26T17:04:32Z",
-      "summary_extracted_at": "2026-11-07T16:00:46Z"
     },
     {
       "source_url": "https://www.chistalexiushealth.org/content/dam/stalexiushealthorg/documents/financial/price-transparency-standard-charges/450226711-1306832654_st-alexius-medical-center_standardcharges.json",
@@ -775,25 +698,11 @@
       "summary_extracted_at": "2026-11-07T16:24:36Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11249/390806347_aurora-medical-center-summit_standardcharges.csv",
-      "normalized_sha256": "0aee4cdd9c995e4d589a4a77a5883c176ffc9133132c3d72f46d14e5e337c602",
-      "summary_sha256": "746aaae5a1819535643524c600ffc731e248f035247d2f06308e15407459901c",
-      "normalized_extracted_at": "2026-10-27T01:40:05Z",
-      "summary_extracted_at": "2026-11-07T16:00:57Z"
-    },
-    {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11257/390806181_aurora-st-lukes-medical-center-of-aurora-health-care-metro-inc_standardcharges.csv",
       "normalized_sha256": "6918771554ccbe15994caa0e6c5edae1b7d0301832afd5a24087c695076f7cfa",
       "summary_sha256": "f017985f1157d23738f2a2cf840f7f4da2196aa10e0fd9e542df2b4315dcc03e",
       "normalized_extracted_at": "2026-10-27T01:44:12Z",
       "summary_extracted_at": "2026-11-07T16:01:02Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11247/272953799_aurora-medical-center-grafton_standardcharges.csv",
-      "normalized_sha256": "5dc8f91525f4dd13c62dad85843a1480c8cc9e81d81b2c5b6aeab54484525d7e",
-      "summary_sha256": "28158f6d0fcf1e230ea2a976cad20fcc050290e83493756f9eb5987c59922af1",
-      "normalized_extracted_at": "2026-10-27T01:42:09Z",
-      "summary_extracted_at": "2026-11-07T16:00:50Z"
     },
     {
       "source_url": "https://www.longviewregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762420_longview-regional-medical-center_standardcharges.csv",
@@ -824,25 +733,11 @@
       "summary_extracted_at": "2026-11-07T16:13:39Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11251/390806347_aurora-medical-center-kenosha_standardcharges.csv",
-      "normalized_sha256": "f47dc301a164c6fecb69f13c19707ed70bb36d02e505a21d3d270755e5823816",
-      "summary_sha256": "8a35b9488eb3780132d723101d22240b95390d701457a433ab884eba842fc5f3",
-      "normalized_extracted_at": "2026-10-27T01:39:03Z",
-      "summary_extracted_at": "2026-11-07T16:00:51Z"
-    },
-    {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhbay/cacc/finance/price-transparency/941196203-1427181007_dignity-health_standardcharges.json",
       "normalized_sha256": "82b09ee844dd625b6b785044e5e6e5a3f1d3d5a781bf458899b901c42c265ca1",
       "summary_sha256": "ea7995bcecf75f695d7c2fcccd5856277bf4d6a66cb8dbe2be693cb2ce90d721",
       "normalized_extracted_at": "2026-10-28T16:56:56Z",
       "summary_extracted_at": "2026-11-07T17:03:30Z"
-    },
-    {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcva/cacv/finance/price-transparency/951802779-1467538520_bakersfield-memorial-hospital_standardcharges.json",
-      "normalized_sha256": "cfc8c2911c25d5889a7d273b47e4ee4b64ada55c18f65246c2d115419e3bdfb5",
-      "summary_sha256": "5907125f5bd58526d5a316db1c90b4661b56aedc8c3840516b8ad9b83be7e3bb",
-      "normalized_extracted_at": "2026-10-27T01:38:17Z",
-      "summary_extracted_at": "2026-11-07T16:05:38Z"
     },
     {
       "source_url": "https://www.laredomedical.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/200175530_laredo-medical-center_standardcharges.csv",
@@ -866,13 +761,6 @@
       "summary_extracted_at": "2026-11-07T17:03:21Z"
     },
     {
-      "source_url": "https://www.baldwinhealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621811413_south-baldwin-regional-medical-center_standardcharges.csv",
-      "normalized_sha256": "3bcc1344affeeb05edd574d9213f00ed64decffb306dfc04f352857c70201c81",
-      "summary_sha256": "193fa945e88b6bae8829abced2fa2674f02eb6f5018402fcf554276afffe8bd0",
-      "normalized_extracted_at": "2026-10-26T17:04:15Z",
-      "summary_extracted_at": "2026-11-07T16:05:39Z"
-    },
-    {
       "source_url": "https://www.tennovalafollette.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528273_tennova-lafollette-medical-center_standardcharges.csv",
       "normalized_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
       "summary_sha256": "fd34d29d70d0cda75a52e8c2fa53a1363e0e23b8a41ac17f433988b27622df6e",
@@ -885,13 +773,6 @@
       "summary_sha256": "f072332f5abf0c8a61aa179c1a1c4d6c753cd8dbe33ee7db049b8a113dbad045",
       "normalized_extracted_at": "2026-10-31T01:47:51Z",
       "summary_extracted_at": "2026-11-07T16:04:30Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11254/390872192_aurora-psychiatric-hospital_standardcharges.csv",
-      "normalized_sha256": "2f3f8a1c6cd7950f73a66ace429c91928ffb005fe7b809e8acaa7f9d7d620a4b",
-      "summary_sha256": "e122ad02f3727709fd95b17eacebe2bea11fe1b7da82177707f395e85220740d",
-      "normalized_extracted_at": "2026-10-26T17:02:20Z",
-      "summary_extracted_at": "2026-11-07T16:01:01Z"
     },
     {
       "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/420776568-1508964123_alegent-health-community-memorial-hospital-of-missouri-valley-iowa_standardcharges.json",

@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/860394148_page-hospital_standardcharges.csv",
   "source_sha256": "879262f6f02b0d22bc5331bbf2f2e3b7fa378b6fc35b82b1e898bf91006bec58",
   "download_bytes": 81820430,
-  "extracted_at": "2026-10-26T17:03:32Z",
+  "extracted_at": "2026-11-08T16:53:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_page_hospital-dc3f8__927f45d6f11f9727.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-92/oria-banner_page_hospital-dc3f8__927f45d6f11f9727.jsonl.gz",
     "asset_sha256": "927f45d6f11f9727af8d1433968e365a551c394429360554d3c0e3c644f19644",
-    "published_at": "2026-10-26T17:12:12Z"
+    "published_at": "2026-11-08T17:06:27Z"
   }
 }

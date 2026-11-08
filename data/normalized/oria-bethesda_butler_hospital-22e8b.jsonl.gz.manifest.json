@@ -5,7 +5,7 @@
   "source_url": "https://apps.trihealth.com/static/pricing/310537122_BETHESDAHOSPITALINC_STANDARDCHARGES.csv",
   "source_sha256": "e7898e6d1b4991fa38dffa3837ef26bef01b9bd5e85da386a68da6457201f99a",
   "download_bytes": 64285754,
-  "extracted_at": "2026-10-26T17:02:52Z",
+  "extracted_at": "2026-11-08T16:51:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-bethesda_butler_hospital-22e8b__f0505383e57b5fc7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-bethesda_butler_hospital-22e8b__f0505383e57b5fc7.jsonl.gz",
     "asset_sha256": "f0505383e57b5fc79938b271809b39d97cf879fd0d97586f7aa1b25d68c9b574",
-    "published_at": "2026-10-26T17:14:35Z"
+    "published_at": "2026-11-08T17:07:23Z"
   }
 }

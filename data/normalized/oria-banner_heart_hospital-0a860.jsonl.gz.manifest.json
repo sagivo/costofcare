@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/861035549_banner-heart-hospital_standardcharges.csv",
   "source_sha256": "466702546a26ea4a2cb30d1ee402709e4ab09c33863036a79b04303fc7c41e2a",
   "download_bytes": 91721837,
-  "extracted_at": "2026-10-26T17:03:59Z",
+  "extracted_at": "2026-11-08T16:53:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_heart_hospital-0a860__8714d5996f5a6280.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-banner_heart_hospital-0a860__8714d5996f5a6280.jsonl.gz",
     "asset_sha256": "8714d5996f5a628062cb8d450b2f839e87fcfcf75075217cd6016d38a09dc585",
-    "published_at": "2026-10-26T17:11:55Z"
+    "published_at": "2026-11-08T17:06:16Z"
   }
 }

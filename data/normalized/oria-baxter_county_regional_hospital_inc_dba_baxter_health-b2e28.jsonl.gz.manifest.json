@@ -5,7 +5,7 @@
   "source_url": "https://www.baxterhealth.org/documents/systems/710561765_baxter-health_standardcharges.csv",
   "source_sha256": "eaaac454e35d171ec003a7ac0b6a3e576e5c2cb286fb83ef13e8fc8edd72c0c0",
   "download_bytes": 50929339,
-  "extracted_at": "2026-10-26T17:01:22Z",
+  "extracted_at": "2026-11-08T16:48:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-baxter_county_regional_hospital_inc_dba_baxter_health-b2e28__ef2404abcde81c03.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-baxter_county_regional_hospital_inc_dba_baxter_health-b2e28__ef2404abcde81c03.jsonl.gz",
     "asset_sha256": "ef2404abcde81c0346b7309cc4ac7e322d7ab84a5747fcb664da7dfb6ff07c0d",
-    "published_at": "2026-10-26T17:13:27Z"
+    "published_at": "2026-11-08T17:07:10Z"
   }
 }

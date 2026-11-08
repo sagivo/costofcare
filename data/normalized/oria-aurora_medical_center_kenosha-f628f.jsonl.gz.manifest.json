@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 11578,
+  "records": 11504,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11251/390806347_aurora-medical-center-kenosha_standardcharges.csv",
-  "source_sha256": "f47dc301a164c6fecb69f13c19707ed70bb36d02e505a21d3d270755e5823816",
-  "download_bytes": 133902472,
-  "extracted_at": "2026-10-27T01:39:03Z",
+  "source_sha256": "8a35b9488eb3780132d723101d22240b95390d701457a433ab884eba842fc5f3",
+  "download_bytes": 134797166,
+  "extracted_at": "2026-11-08T16:58:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-9d",
-    "asset_name": "oria-aurora_medical_center_kenosha-f628f__9dc188de2a11b684.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/oria-aurora_medical_center_kenosha-f628f__9dc188de2a11b684.jsonl.gz",
-    "asset_sha256": "9dc188de2a11b68496dbcc95de202526524507091a2c9aa11308a7ec5fce8d94",
-    "published_at": "2026-10-27T02:00:58Z"
+    "release": "data-norm-8a",
+    "asset_name": "oria-aurora_medical_center_kenosha-f628f__8a2f11481e0da9ed.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8a/oria-aurora_medical_center_kenosha-f628f__8a2f11481e0da9ed.jsonl.gz",
+    "asset_sha256": "8a2f11481e0da9ed8c0102e127a02db84f859c9e818a2847330d3c723af7cd40",
+    "published_at": "2026-11-08T17:05:28Z"
   }
 }
