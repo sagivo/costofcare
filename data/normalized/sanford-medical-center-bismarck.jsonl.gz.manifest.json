@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8388/450226700_sanford-medical-center-bismarck_standardcharges.csv",
   "source_sha256": "9142038f9efcbcd276256f91f934d308af7319265132acab84df30247d914257",
   "download_bytes": 613991115,
-  "extracted_at": "2026-10-26T01:07:02Z",
+  "extracted_at": "2026-11-08T01:54:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-medical-center-bismarck__b94789bf8c547229.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b9/sanford-medical-center-bismarck__b94789bf8c547229.jsonl.gz",
     "asset_sha256": "b94789bf8c5472299d8643769f59409c12a91ed25ddbd5eb57add94d9369b5a5",
-    "published_at": "2026-10-29T08:03:58Z"
+    "published_at": "2026-11-08T02:04:39Z"
   }
 }

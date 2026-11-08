@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/RZMZ-1739314586867/machine-readable/832329088_bmc-north-hospital_standardcharges.json",
   "source_sha256": "0694ef36c32bdb0f6ea65f685c0c141a8b7485360e7c4cdf1f0d1eeaa8344387",
   "download_bytes": 10080598,
-  "extracted_at": "2026-10-26T16:58:51Z",
+  "extracted_at": "2026-11-08T01:58:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-bmc_north_hospital-fe2d7__7127070ceca2653a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-bmc_north_hospital-fe2d7__7127070ceca2653a.jsonl.gz",
     "asset_sha256": "7127070ceca2653a3e936228531ffddcc8b5ecbf76f5ec3d7ab7f22b98038ed8",
-    "published_at": "2026-10-26T17:14:44Z"
+    "published_at": "2026-11-08T02:04:26Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.barlowhospital.org/documents/951647809_barlow-respiratory-hospital_standardcharges.csv",
   "source_sha256": "c7f4c35dace2d44f5a14829d7ed6764939b94172f02b77bb63b31069bbb28082",
   "download_bytes": 5511841,
-  "extracted_at": "2026-10-26T16:58:45Z",
+  "extracted_at": "2026-11-08T01:58:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-barlow_respiratory_hospital-f8294__3a8f2d72ccfdd366.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-barlow_respiratory_hospital-f8294__3a8f2d72ccfdd366.jsonl.gz",
     "asset_sha256": "3a8f2d72ccfdd36647b29d495789568c7477c62f462466ee0fbc9f309fc34e75",
-    "published_at": "2026-10-26T17:13:12Z"
+    "published_at": "2026-11-08T02:03:41Z"
   }
 }

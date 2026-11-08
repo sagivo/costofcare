@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8123/866007695_benson-hospital-corporation_standardcharges.csv",
   "source_sha256": "7ae4cd79716e4be6278c35ff315ee0534f3709bec5fea5cfe9c1b06ec3aec725",
   "download_bytes": 24398190,
-  "extracted_at": "2026-10-26T16:59:40Z",
+  "extracted_at": "2026-11-08T02:00:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-benson_family_healthcare_clinic-91add__895e8e501dc07efe.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/oria-benson_family_healthcare_clinic-91add__895e8e501dc07efe.jsonl.gz",
     "asset_sha256": "895e8e501dc07efe66da44edbffcae9152e98c294af5ccd5d554f2dcbf6156c6",
-    "published_at": "2026-10-26T17:14:24Z"
+    "published_at": "2026-11-08T02:04:17Z"
   }
 }

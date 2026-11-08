@@ -5,7 +5,7 @@
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752586857_baylor-scott--white-medical-center--irving_standardcharges.csv",
   "source_sha256": "865f35ffc9b9f4e0bc5d450fa586f78dcf570043eb6d6390d8205dc5a77ed68a",
   "download_bytes": 512011044,
-  "extracted_at": "2026-10-26T00:58:32Z",
+  "extracted_at": "2026-11-08T01:47:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "baylor-scott-white-medical-center-irving__a3c40503405f1502.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/baylor-scott-white-medical-center-irving__a3c40503405f1502.jsonl.gz",
     "asset_sha256": "a3c40503405f1502261b0fd2f84c8b95166cd1b6290e6cc5642e649a4f404740",
-    "published_at": "2026-10-26T01:18:03Z"
+    "published_at": "2026-11-08T02:02:32Z"
   }
 }

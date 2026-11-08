@@ -5,7 +5,7 @@
   "source_url": "https://www.bjc.org/hpt/16/431527130_BarnesJewishWestCountyHospital_standardcharges.json",
   "source_sha256": "7b679ded075fa50d15dd2882c5c4a9dfac7661b052f14759f743b696e829c2c8",
   "download_bytes": 632986549,
-  "extracted_at": "2026-10-26T16:55:48Z",
+  "extracted_at": "2026-11-08T01:55:07Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "barnes-jewish-west-county-hospital__0a77e74685f87a21.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0a/barnes-jewish-west-county-hospital__0a77e74685f87a21.jsonl.gz",
     "asset_sha256": "0a77e74685f87a21b853059c832c1de46de1fc0a628c20636de32513bb897b27",
-    "published_at": "2026-10-26T17:10:06Z"
+    "published_at": "2026-11-08T02:02:12Z"
   }
 }

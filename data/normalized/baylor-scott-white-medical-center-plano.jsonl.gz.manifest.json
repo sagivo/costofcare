@@ -5,7 +5,7 @@
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/820551704_baylor-scott--white-medical-center--plano_standardcharges.csv",
   "source_sha256": "ccfc703152b84b170e2c606a349df937c18359c757a1796e5da6efc37564615d",
   "download_bytes": 524160024,
-  "extracted_at": "2026-10-26T00:59:43Z",
+  "extracted_at": "2026-11-08T01:49:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "baylor-scott-white-medical-center-plano__27abeed6c42c26bf.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-27/baylor-scott-white-medical-center-plano__27abeed6c42c26bf.jsonl.gz",
     "asset_sha256": "27abeed6c42c26bf5e92c3adc25e8a9227e8754f32684bdd206c3e5e2ecbe4a5",
-    "published_at": "2026-10-26T01:18:18Z"
+    "published_at": "2026-11-08T02:02:42Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "http://www.barnes-kasson.org/images/docs/240798681_barnes-kasson-county-hospital_standardcharges.csv",
   "source_sha256": "fbabf14fdb7a23502cd866d052204b68b491627666bf7676e75ed0a222023c72",
   "download_bytes": 16177999,
-  "extracted_at": "2026-10-26T16:59:12Z",
+  "extracted_at": "2026-11-08T01:59:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-barnes_kasson_county_hospital-53b09__92174017a090d38b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-92/oria-barnes_kasson_county_hospital-53b09__92174017a090d38b.jsonl.gz",
     "asset_sha256": "92174017a090d38b133520bac3be5b0a45c3662403f271a9c7da8455d769b713",
-    "published_at": "2026-10-26T17:13:15Z"
+    "published_at": "2026-11-08T02:03:43Z"
   }
 }

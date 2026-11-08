@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/680422620_banner-lassen-medical-center_standardcharges.csv",
   "source_sha256": "fa7a7e820fc49a01b35b4d26b3b8248e3773e45e28d60b973053684063775379",
   "download_bytes": 21618220,
-  "extracted_at": "2026-10-26T16:59:28Z",
+  "extracted_at": "2026-11-08T02:00:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-banner_lassen_medical_center-c8df1__a10ff2ed2a79a964.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-banner_lassen_medical_center-c8df1__a10ff2ed2a79a964.jsonl.gz",
     "asset_sha256": "a10ff2ed2a79a964d0fba7b2904c0f221adf4876dec5c07116d5b36dfce42301",
-    "published_at": "2026-10-26T17:11:59Z"
+    "published_at": "2026-11-08T02:03:35Z"
   }
 }

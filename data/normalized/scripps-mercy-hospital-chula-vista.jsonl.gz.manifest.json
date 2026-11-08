@@ -5,7 +5,7 @@
   "source_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Mercy-Hospital-Chula-Vista_standardcharges.csv",
   "source_sha256": "8718ad7825156189ad90b33b6db1561466c87860c189f348a7e2e9dbf7b9bd1b",
   "download_bytes": 551680690,
-  "extracted_at": "2026-10-26T01:04:29Z",
+  "extracted_at": "2026-11-08T01:52:32Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "scripps-mercy-hospital-chula-vista__e720e81360eac579.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/scripps-mercy-hospital-chula-vista__e720e81360eac579.jsonl.gz",
     "asset_sha256": "e720e81360eac579b2ed27a24cd4c8862e0dd4f6c86399a3c76bce6e28009dcb",
-    "published_at": "2026-10-29T08:04:23Z"
+    "published_at": "2026-11-08T02:04:44Z"
   }
 }

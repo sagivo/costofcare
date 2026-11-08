@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8385/411266009_sanford-bemidji-medical-center_standardcharges.csv",
   "source_sha256": "ceaad10b314a9c28141fe5f89f7ea4fefb9941430e77f56d29dcbce46fa35adb",
   "download_bytes": 575650366,
-  "extracted_at": "2026-10-26T01:05:29Z",
+  "extracted_at": "2026-11-08T01:53:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "sanford-bemidji-medical-center__f2f7bd0350dbb736.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f2/sanford-bemidji-medical-center__f2f7bd0350dbb736.jsonl.gz",
     "asset_sha256": "f2f7bd0350dbb736117aaa7ec0284d793accb8fc429b9a6c7c0a5916c0e098f2",
-    "published_at": "2026-10-29T08:03:44Z"
+    "published_at": "2026-11-08T02:04:38Z"
   }
 }

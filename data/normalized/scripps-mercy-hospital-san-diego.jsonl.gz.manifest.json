@@ -5,7 +5,7 @@
   "source_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Mercy-Hospital-San-Diego_standardcharges.csv",
   "source_sha256": "73e99955e6cacd4cd24bfd1b0d50c72f928b8faad2e75b0a51f8dd3fc21f2ce6",
   "download_bytes": 578732995,
-  "extracted_at": "2026-10-26T01:09:23Z",
+  "extracted_at": "2026-11-08T01:56:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "scripps-mercy-hospital-san-diego__297a369c04330e0c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/scripps-mercy-hospital-san-diego__297a369c04330e0c.jsonl.gz",
     "asset_sha256": "297a369c04330e0c5df5f4895ee1c413d37ec13f2e01696b615b9fe2f5393989",
-    "published_at": "2026-10-29T08:04:25Z"
+    "published_at": "2026-11-08T02:04:46Z"
   }
 }

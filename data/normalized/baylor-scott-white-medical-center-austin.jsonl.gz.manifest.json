@@ -5,7 +5,7 @@
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/813040663_baylor-scott--white-medical-center--austin_standardcharges.csv",
   "source_sha256": "b545804f6108d82cf280b579649de17af941f281d80403da9e359fb5e3af9ba4",
   "download_bytes": 371666748,
-  "extracted_at": "2026-10-26T00:51:01Z",
+  "extracted_at": "2026-11-08T01:40:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "baylor-scott-white-medical-center-austin__9cfe1e6461fa55f1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9c/baylor-scott-white-medical-center-austin__9cfe1e6461fa55f1.jsonl.gz",
     "asset_sha256": "9cfe1e6461fa55f19b02f5e6a5dc5e7cc83240c8587e3df9b520f70db8ad63c2",
-    "published_at": "2026-10-26T01:17:47Z"
+    "published_at": "2026-11-08T02:02:19Z"
   }
 }

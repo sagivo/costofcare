@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/352103153_st-vincent-randolph-hospital-inc_standardcharges.csv",
   "source_sha256": "862729474a874bf88b2356457add3bac0c86732a1fffe0194b2084ed461afb06",
   "download_bytes": 25406525,
-  "extracted_at": "2026-10-26T17:00:20Z",
+  "extracted_at": "2026-11-08T02:01:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_randolph-32a37__47f63a36910c5481.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-ascension_st_vincent_randolph-32a37__47f63a36910c5481.jsonl.gz",
     "asset_sha256": "47f63a36910c5481cf32be174f6e9c5b2a87b0661f36f233f1fafeb6f460791d",
-    "published_at": "2026-10-26T17:10:30Z"
+    "published_at": "2026-11-08T02:03:14Z"
   }
 }

@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 162,
   "source_url": "https://secure.claraprice.net/price-transparency/TDCQ-1707436189518/machine-readable/262835957_aspire-behavioral-health_standardcharges.json",
-  "source_sha256": "6329bbdb554f82850b030ae1bdfc1db25b9db06d23302c1e1030c45d8cd6938f",
-  "download_bytes": 5780878,
-  "extracted_at": "2026-10-26T16:58:46Z",
+  "source_sha256": "af61da6da83d2f585a372de5ca25a9d98bb01d5179bdcbea1113db02cc84e526",
+  "download_bytes": 3761399,
+  "extracted_at": "2026-11-08T01:58:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-03",
-    "asset_name": "oria-aspire_behavioral_health_hospital-8df3d__03fab0ff92ce0d1c.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-03/oria-aspire_behavioral_health_hospital-8df3d__03fab0ff92ce0d1c.jsonl.gz",
-    "asset_sha256": "03fab0ff92ce0d1c933fe3b7b8223a05c6d8ac2b88fc11fe4791f67f46456887",
-    "published_at": "2026-10-26T17:10:49Z"
+    "release": "data-norm-69",
+    "asset_name": "oria-aspire_behavioral_health_hospital-8df3d__69be4dfd46c5d1f0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-aspire_behavioral_health_hospital-8df3d__69be4dfd46c5d1f0.jsonl.gz",
+    "asset_sha256": "69be4dfd46c5d1f0e816972415bda5db145f07e909a63939d055bad790d8c6ae",
+    "published_at": "2026-11-08T02:03:22Z"
   }
 }
