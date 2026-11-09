@@ -5,7 +5,7 @@
   "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/930386823_legacy-emanuel-medical-center_standardcharges.json",
   "source_sha256": "30afb6e3600eacc8c194207a46130777feb69905090eb8e1a5ffabc2f7a12668",
   "download_bytes": 68753145,
-  "extracted_at": "2026-10-27T16:02:42Z",
+  "extracted_at": "2026-11-09T21:06:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "legacy-emanuel-medical-center__c11a3a9a4a106fa2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c1/legacy-emanuel-medical-center__c11a3a9a4a106fa2.jsonl.gz",
     "asset_sha256": "c11a3a9a4a106fa20b1e784cb6c9ddf79d5aea266be14fa9cff8312976a54e13",
-    "published_at": "2026-10-27T16:14:08Z"
+    "published_at": "2026-11-09T21:08:12Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/930618975_legacy-meridian-park-medical-center_standardcharges.json",
   "source_sha256": "65112ac394aa13393629a079ad3d7de7016d858df46dcf7b5d790f9ec16ff730",
   "download_bytes": 63170781,
-  "extracted_at": "2026-10-27T16:01:47Z",
+  "extracted_at": "2026-11-09T21:04:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "legacy-meridian-park-medical-center__e7406085b9e60e07.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/legacy-meridian-park-medical-center__e7406085b9e60e07.jsonl.gz",
     "asset_sha256": "e7406085b9e60e077b3b58a34eb227c09c9a1ae04f397c308c52caa66d35eb9c",
-    "published_at": "2026-10-27T16:14:17Z"
+    "published_at": "2026-11-09T21:08:18Z"
   }
 }

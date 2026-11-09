@@ -5,7 +5,7 @@
   "source_url": "https://cascademedical.org/price-transparency/910856279_chelan-county-public-hospital-district-no-1_standardcharges.csv",
   "source_sha256": "97e341e5854671f6d8e5feb1a024b063b465adca9f42a4a4fe44ec8e24eb62fb",
   "download_bytes": 38525233,
-  "extracted_at": "2026-10-27T16:00:33Z",
+  "extracted_at": "2026-11-09T21:01:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-cascade_medical-ea08e__354045743bba834b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-35/oria-cascade_medical-ea08e__354045743bba834b.jsonl.gz",
     "asset_sha256": "354045743bba834bd265bb6aae9fc5cf97c32020bdb437edb5d32279fa4c184f",
-    "published_at": "2026-10-27T16:16:02Z"
+    "published_at": "2026-11-09T21:09:15Z"
   }
 }

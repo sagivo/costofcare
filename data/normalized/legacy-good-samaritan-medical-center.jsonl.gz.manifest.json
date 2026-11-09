@@ -5,7 +5,7 @@
   "source_url": "https://www.legacyhealth.org/-/media/Files/JSON/930386793_legacy-good-samaritan-medical-center_standardcharges.json",
   "source_sha256": "32e0e4b7ef068064aee400eb5d1d116becb72c5283d412486d5e6ae6cb02d44e",
   "download_bytes": 65284708,
-  "extracted_at": "2026-10-27T16:02:05Z",
+  "extracted_at": "2026-11-09T21:05:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "legacy-good-samaritan-medical-center__f305677dcc6ee645.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/legacy-good-samaritan-medical-center__f305677dcc6ee645.jsonl.gz",
     "asset_sha256": "f305677dcc6ee64582eaac8d45a628d915c92caf9d63890b0ac637cd851aac66",
-    "published_at": "2026-10-27T16:14:14Z"
+    "published_at": "2026-11-09T21:08:16Z"
   }
 }

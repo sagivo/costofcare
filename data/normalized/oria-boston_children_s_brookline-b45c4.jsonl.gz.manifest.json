@@ -5,7 +5,7 @@
   "source_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2026/04-2774441_Boston-Childrens-Brookline_StandardCharges.json",
   "source_sha256": "103a74b00385c1247d7d655dc692e3fc0d746c459944fd2980339fc492beeb94",
   "download_bytes": 70723455,
-  "extracted_at": "2026-10-27T16:02:32Z",
+  "extracted_at": "2026-11-09T21:04:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-boston_children_s_brookline-b45c4__2ef5bbbc9df13621.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-boston_children_s_brookline-b45c4__2ef5bbbc9df13621.jsonl.gz",
     "asset_sha256": "2ef5bbbc9df136210e7cf28e81250c372650b7115bdc2a97239845e736603fce",
-    "published_at": "2026-10-27T16:14:28Z"
+    "published_at": "2026-11-09T21:08:24Z"
   }
 }

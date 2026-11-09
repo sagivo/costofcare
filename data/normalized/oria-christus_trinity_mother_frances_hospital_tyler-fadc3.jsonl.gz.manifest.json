@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/750818167_motherfranceshospitaltyler_standardcharges.json",
   "source_sha256": "d769f07c7cd09c347e61a76f7f7eaec20eb0055957524caf5deff179db64555d",
   "download_bytes": 133237068,
-  "extracted_at": "2026-10-27T16:04:28Z",
+  "extracted_at": "2026-11-09T21:07:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_trinity_mother_frances_hospital_tyler-fadc3__9f0764192191cd1f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/oria-christus_trinity_mother_frances_hospital_tyler-fadc3__9f0764192191cd1f.jsonl.gz",
     "asset_sha256": "9f0764192191cd1f7a5377b11769e80d3538cde4d6bb6325c0785ca07994db06",
-    "published_at": "2026-10-27T16:18:35Z"
+    "published_at": "2026-11-09T21:10:57Z"
   }
 }

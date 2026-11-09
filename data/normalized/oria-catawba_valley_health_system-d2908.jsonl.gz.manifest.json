@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 420,
+  "records": 405,
   "source_url": "https://secure.claraprice.net/price-transparency/KNAL-1701801986440/machine-readable/560789196_catawba-valley-health-system_standardcharges.json",
-  "source_sha256": "c3bfef6938f997b8b3b1e7567dbc1fd6fcbb67dfac626b5dbf1b65ed3b21d3c3",
-  "download_bytes": 59895479,
-  "extracted_at": "2026-10-27T16:01:31Z",
+  "source_sha256": "8b338e10c2492252bb3da226144edc5cad4dee333474947459a49245ba7e1bc7",
+  "download_bytes": 40310905,
+  "extracted_at": "2026-11-09T21:02:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-4d",
-    "asset_name": "oria-catawba_valley_health_system-d2908__4df4821e1ce9868d.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4d/oria-catawba_valley_health_system-d2908__4df4821e1ce9868d.jsonl.gz",
-    "asset_sha256": "4df4821e1ce9868dc73b7a1cf349edbd115d1aadaabc4de022287785b39358d6",
-    "published_at": "2026-10-27T16:16:07Z"
+    "release": "data-norm-3a",
+    "asset_name": "oria-catawba_valley_health_system-d2908__3aec6d22037ea694.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-catawba_valley_health_system-d2908__3aec6d22037ea694.jsonl.gz",
+    "asset_sha256": "3aec6d22037ea6940c2775737322cb332477eb8999c14b0d3b2f3643daf2eb91",
+    "published_at": "2026-11-09T21:09:19Z"
   }
 }

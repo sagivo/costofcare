@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/750974351_goodshepherdmedicalcenterlongview_standardcharges.json",
   "source_sha256": "ca2efc4ab37aa4b65da8fc32bd2fe70668714ad045b4098bd9e1ab9826cb1771",
   "download_bytes": 127469086,
-  "extracted_at": "2026-10-27T16:04:20Z",
+  "extracted_at": "2026-11-09T21:07:01Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_good_shepherd_medical_center_longview-3c8ca__b84d9016089a92a7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b8/oria-christus_good_shepherd_medical_center_longview-3c8ca__b84d9016089a92a7.jsonl.gz",
     "asset_sha256": "b84d9016089a92a74054e4c77586c47af0f6a71bee0b8392fdc43ddd2a4b2726",
-    "published_at": "2026-10-27T16:18:22Z"
+    "published_at": "2026-11-09T21:10:45Z"
   }
 }

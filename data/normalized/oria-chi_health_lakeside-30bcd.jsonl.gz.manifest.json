@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 371,
+  "records": 369,
   "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/470757164-1649355132_alegent-creighton-health_standardcharges.json",
-  "source_sha256": "c79a57a6ec965936a85f6c6ddac12ba085c038085f97f74bb6b988ccf9a2f446",
-  "download_bytes": 138540999,
-  "extracted_at": "2026-10-27T16:04:32Z",
+  "source_sha256": "4aaf1e50060e634d017dcbda04b2a0b6dc82f6d813d392a68a0663f5feb86e9f",
+  "download_bytes": 138017224,
+  "extracted_at": "2026-11-09T21:07:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-47",
-    "asset_name": "oria-chi_health_lakeside-30bcd__47f4d50ff54021dd.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-47/oria-chi_health_lakeside-30bcd__47f4d50ff54021dd.jsonl.gz",
-    "asset_sha256": "47f4d50ff54021dd3a183dbae56e69acdd63ee94957da81756e6b689930224f6",
-    "published_at": "2026-10-27T16:16:44Z"
+    "release": "data-norm-db",
+    "asset_name": "oria-chi_health_lakeside-30bcd__db0652ae2c489ed2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-chi_health_lakeside-30bcd__db0652ae2c489ed2.jsonl.gz",
+    "asset_sha256": "db0652ae2c489ed2f29ec4a85f04742e1fbf5e48820750df83b07925e4f91713",
+    "published_at": "2026-11-09T21:09:44Z"
   }
 }

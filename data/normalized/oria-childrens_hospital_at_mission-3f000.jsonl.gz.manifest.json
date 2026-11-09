@@ -5,7 +5,7 @@
   "source_url": "https://choc.org/files/charges/330528802_Childrens-Hospital-at-Mission_standardcharges.csv",
   "source_sha256": "fec83215e0b2106618a9eac19018a4c85fc03c2daedf4db3b19a8c3f11224fff",
   "download_bytes": 72166831,
-  "extracted_at": "2026-10-27T16:02:47Z",
+  "extracted_at": "2026-11-09T21:05:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-childrens_hospital_at_mission-3f000__5dd8700bc98305a7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5d/oria-childrens_hospital_at_mission-3f000__5dd8700bc98305a7.jsonl.gz",
     "asset_sha256": "5dd8700bc98305a7b648167dd1b12e08a1f3237fdf3fa652b00bcd72604e72f1",
-    "published_at": "2026-10-27T16:18:14Z"
+    "published_at": "2026-11-09T21:10:41Z"
   }
 }

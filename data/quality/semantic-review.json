@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-09T02:04:56.011725+00:00",
-  "records_scanned": 454263,
+  "generated_at": "2026-11-09T21:12:19.923803+00:00",
+  "records_scanned": 242032,
   "flag_counts": {},
   "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 454264,
-    "payer_name": 434301,
-    "plan_name": 434351,
-    "billing_class": 128695,
-    "json_source_records": 9778,
-    "json_payer_name": 92816,
-    "json_plan_name": 92816,
-    "json_methodology": 92816,
-    "modifiers": 98060
+    "setting": 234892,
+    "billing_class": 128611,
+    "payer_name": 210769,
+    "plan_name": 210769,
+    "modifiers": 16744,
+    "json_payer_name": 263347,
+    "json_plan_name": 263347,
+    "json_methodology": 263347,
+    "json_source_records": 17432
   },
   "coverage_note": {
-    "local_blob_files": 103,
-    "remote_only_files": 2661,
+    "local_blob_files": 93,
+    "remote_only_files": 2671,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

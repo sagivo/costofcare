@@ -5,7 +5,7 @@
   "source_url": "https://www.uvmhealth.org/sites/default/files/222547186_central-vermont-medical-center-inc_standardcharges.csv",
   "source_sha256": "391de04bd24ef5e9ba32ed44e90f4a3d5bf44c7e5ce1aa37ce37c6ca89081e0d",
   "download_bytes": 52895861,
-  "extracted_at": "2026-10-27T16:01:17Z",
+  "extracted_at": "2026-11-09T21:02:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-central_vermont_medical_center-c94de__ce32fa28b2b704d0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ce/oria-central_vermont_medical_center-c94de__ce32fa28b2b704d0.jsonl.gz",
     "asset_sha256": "ce32fa28b2b704d04e276950b9e8c1a085e5774d038b8c4439ac73ff1c8e42ae",
-    "published_at": "2026-10-27T16:16:20Z"
+    "published_at": "2026-11-09T21:09:27Z"
   }
 }

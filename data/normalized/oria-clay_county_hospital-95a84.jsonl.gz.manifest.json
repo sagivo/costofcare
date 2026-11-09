@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/100278/376000605_county-of-clay_standardcharges.csv",
   "source_sha256": "dc2fd789458947df05c78fa2aa219d3bf4329d821ce0df5f7af57b42443c35db",
   "download_bytes": 48277253,
-  "extracted_at": "2026-10-27T16:01:17Z",
+  "extracted_at": "2026-11-09T21:02:15Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-clay_county_hospital-95a84__f27f9699e8c2c3c6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f2/oria-clay_county_hospital-95a84__f27f9699e8c2c3c6.jsonl.gz",
     "asset_sha256": "f27f9699e8c2c3c66e2ddeda221c02351cee94bec8b449d5f7b123d3a5bfcb12",
-    "published_at": "2026-10-27T16:18:46Z"
+    "published_at": "2026-11-09T21:11:03Z"
   }
 }

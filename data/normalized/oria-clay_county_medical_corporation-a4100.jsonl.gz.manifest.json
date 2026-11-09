@@ -5,7 +5,7 @@
   "source_url": "https://apps.nmhs.net/files/pt_mrf/640668465_clay-county-medical-corporation_standardcharges.json",
   "source_sha256": "b218dec1e395ddeefc3f4db99b0fcd77ec2b8c5e406012a6cfb5fb3ed0edc0c1",
   "download_bytes": 32350553,
-  "extracted_at": "2026-10-27T16:00:41Z",
+  "extracted_at": "2026-11-09T21:01:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-clay_county_medical_corporation-a4100__e7ea21cb4ed26c5f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/oria-clay_county_medical_corporation-a4100__e7ea21cb4ed26c5f.jsonl.gz",
     "asset_sha256": "e7ea21cb4ed26c5f98fc9d0846619aed7f6c9f92a80907056ce0dc266db0bbc0",
-    "published_at": "2026-10-27T16:18:48Z"
+    "published_at": "2026-11-09T21:11:05Z"
   }
 }

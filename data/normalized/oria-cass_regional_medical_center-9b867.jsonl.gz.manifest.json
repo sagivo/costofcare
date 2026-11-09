@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7984/440665664_cass-regional-medical-center_standardcharges.csv",
   "source_sha256": "26b3bceca8ef11ce1ec6e0d1e48b61e06d3c0646ab114e12a81980219676e4fc",
   "download_bytes": 95159139,
-  "extracted_at": "2026-10-27T16:03:19Z",
+  "extracted_at": "2026-11-09T21:06:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-cass_regional_medical_center-9b867__c733c398030f32a5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c7/oria-cass_regional_medical_center-9b867__c733c398030f32a5.jsonl.gz",
     "asset_sha256": "c733c398030f32a5f5b2d1cd46f6674a239a49ef4b8223c57d794c75ed82986b",
-    "published_at": "2026-10-27T16:16:05Z"
+    "published_at": "2026-11-09T21:09:17Z"
   }
 }

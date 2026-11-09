@@ -5,7 +5,7 @@
   "source_url": "https://brookingshealthsystem.pg.quadax.revenuemasters.com/cdm-files/466000069_brookings-health-system_standardcharges.csv",
   "source_sha256": "6614a40cc0ee8d9104ac2601da4a55089d77ac4cd1abde76094afb26049bf00a",
   "download_bytes": 39261861,
-  "extracted_at": "2026-10-27T16:00:35Z",
+  "extracted_at": "2026-11-09T21:01:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-brookings_health_system-40410__218a361e47bce39c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-brookings_health_system-40410__218a361e47bce39c.jsonl.gz",
     "asset_sha256": "218a361e47bce39c4288bda916b2cd6d0f41abd4fd67c382a237ae5e0d826914",
-    "published_at": "2026-10-27T16:15:08Z"
+    "published_at": "2026-11-09T21:08:45Z"
   }
 }

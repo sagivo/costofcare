@@ -5,7 +5,7 @@
   "source_url": "https://www.childrenshospital.org/sites/default/files/cms-hpt/comp-2026/04-2774441_Boston-Childrens-Waltham_StandardCharges.json",
   "source_sha256": "9f04be4d4aada38c1991fde6e12057f8600e4292de66dc27bb8350a8c3a9060c",
   "download_bytes": 106551951,
-  "extracted_at": "2026-10-27T16:03:51Z",
+  "extracted_at": "2026-11-09T21:06:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-boston_children_s_waltham-19615__649a12e17a9a2a45.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-boston_children_s_waltham-19615__649a12e17a9a2a45.jsonl.gz",
     "asset_sha256": "649a12e17a9a2a454a1001bd516bf0452222ca4ec718a914d84682521295221a",
-    "published_at": "2026-10-27T16:14:43Z"
+    "published_at": "2026-11-09T21:08:36Z"
   }
 }

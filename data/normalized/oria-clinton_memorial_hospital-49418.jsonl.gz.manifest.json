@@ -5,7 +5,7 @@
   "source_url": "https://apps.trihealth.com/static/pricing/273633811_clinton-memorial-hospital_standardcharges.json",
   "source_sha256": "ff1614eb9bfc4865aa037766c17942d572aa2fee734e3fb017de424ae3468bfd",
   "download_bytes": 30398128,
-  "extracted_at": "2026-10-27T16:00:26Z",
+  "extracted_at": "2026-11-09T21:01:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-clinton_memorial_hospital-49418__16ad7edceba7b723.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/oria-clinton_memorial_hospital-49418__16ad7edceba7b723.jsonl.gz",
     "asset_sha256": "16ad7edceba7b7232142e4e418431b060e1be7c60c09745bb0f988c590843fbf",
-    "published_at": "2026-10-27T16:19:01Z"
+    "published_at": "2026-11-09T21:11:10Z"
   }
 }

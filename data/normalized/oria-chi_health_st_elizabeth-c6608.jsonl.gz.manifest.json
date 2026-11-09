@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 339,
+  "records": 332,
   "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/470379836-1336155738_saint-elizabeth-regional-medical-center_standardcharges.json",
-  "source_sha256": "fe89794c797d8388413b69aad46f2f66457709508496add559f58ca1cbb2948d",
-  "download_bytes": 90481192,
-  "extracted_at": "2026-10-27T16:02:56Z",
+  "source_sha256": "b37ff869461875f73f239647b28e4abd7bcca579d9534b12789ff0f921689f02",
+  "download_bytes": 107493127,
+  "extracted_at": "2026-11-09T21:05:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ee",
-    "asset_name": "oria-chi_health_st_elizabeth-c6608__eedb8eca09876cfd.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-chi_health_st_elizabeth-c6608__eedb8eca09876cfd.jsonl.gz",
-    "asset_sha256": "eedb8eca09876cfdf07c5eab908327e8c6bd22e20d535e7b050639c49d47e995",
-    "published_at": "2026-10-27T16:16:49Z"
+    "release": "data-norm-7d",
+    "asset_name": "oria-chi_health_st_elizabeth-c6608__7d5b35b11f0f4c88.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-chi_health_st_elizabeth-c6608__7d5b35b11f0f4c88.jsonl.gz",
+    "asset_sha256": "7d5b35b11f0f4c88a615df18c6cac8a63d3b54f41d7f273e2ae31fb0d3b76038",
+    "published_at": "2026-11-09T21:09:53Z"
   }
 }
