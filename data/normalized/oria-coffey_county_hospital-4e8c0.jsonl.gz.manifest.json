@@ -5,7 +5,7 @@
   "source_url": "https://coffeyhealth.org/Documents/480860883_Coffey_County_Hospital_Standardcharges.csv",
   "source_sha256": "4a520ebd8e769746f8ca2195ba0ad41e6797fd33a027de4660a7ce8200b91b2a",
   "download_bytes": 6288925,
-  "extracted_at": "2026-10-27T01:50:43Z",
+  "extracted_at": "2026-11-09T01:52:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-coffey_county_hospital-4e8c0__79b49392289f3d84.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/oria-coffey_county_hospital-4e8c0__79b49392289f3d84.jsonl.gz",
     "asset_sha256": "79b49392289f3d84a016ee249eba88308d2b55795c51717158851fa73de1130a",
-    "published_at": "2026-10-27T02:04:08Z"
+    "published_at": "2026-11-09T02:03:31Z"
   }
 }

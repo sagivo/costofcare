@@ -5,7 +5,7 @@
   "source_url": "https://www.hendricks.org/upload/docs/Billing/351361243_hendricks-regional-health_standardcharges.csv",
   "source_sha256": "6869509bbc277ce1f275d7d9dbb9fd523095e93a46eb6533d814657adfcdd12a",
   "download_bytes": 7345657,
-  "extracted_at": "2026-10-27T01:50:46Z",
+  "extracted_at": "2026-11-09T01:52:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-brownsburg_hospital-e4832__fe011fed0946885a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/oria-brownsburg_hospital-e4832__fe011fed0946885a.jsonl.gz",
     "asset_sha256": "fe011fed0946885a4614dd88570e29a8c1be8e7c910a9a6cd581eddb5891d313",
-    "published_at": "2026-10-27T02:02:35Z"
+    "published_at": "2026-11-09T02:01:42Z"
   }
 }

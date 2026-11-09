@@ -5,7 +5,7 @@
   "source_url": "https://www.claritycgc.org/standard-charges.csv",
   "source_sha256": "f6608faad1336ab7fdaedab9674fee37929d6ad31d638f44eb9eef9a88fd9f6f",
   "download_bytes": 27664,
-  "extracted_at": "2026-10-27T01:50:12Z",
+  "extracted_at": "2026-11-09T01:51:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-clarity_child_guidance_center-93dd7__3398a3cc522c38ce.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-clarity_child_guidance_center-93dd7__3398a3cc522c38ce.jsonl.gz",
     "asset_sha256": "3398a3cc522c38ced37291fa4055d13e52c5fef4a647a12a6a8f9bd91191eb97",
-    "published_at": "2026-10-27T02:03:57Z"
+    "published_at": "2026-11-09T02:03:14Z"
   }
 }

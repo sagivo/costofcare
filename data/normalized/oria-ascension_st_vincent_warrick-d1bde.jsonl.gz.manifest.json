@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/351343019_st-marys-warrick-hospital-inc_standardcharges.csv",
   "source_sha256": "9274f56fd254b1b3681f5f196ec5cacb46dcebb40ecaab549ebbac7b60cd2012",
   "download_bytes": 385391294,
-  "extracted_at": "2026-10-27T01:50:20Z",
+  "extracted_at": "2026-11-09T01:52:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_warrick-d1bde__df6f1fcade921503.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/oria-ascension_st_vincent_warrick-d1bde__df6f1fcade921503.jsonl.gz",
     "asset_sha256": "df6f1fcade9215033514dba94d655fc158b47d3e7c80e47fb0ae3920c7d042b7",
-    "published_at": "2026-10-27T02:00:01Z"
+    "published_at": "2026-11-09T02:00:43Z"
   }
 }

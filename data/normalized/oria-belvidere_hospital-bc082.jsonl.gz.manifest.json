@@ -5,7 +5,7 @@
   "source_url": "https://bynder.uwhealth.org/m/1d39d4b3bd3ce8bb/original/362222696_SwedishAmerican-Hospital_standardcharges.csv",
   "source_sha256": "8e9389ad272113d1fcd526a0a458cc7a9e7963034a7f8883359b1f5ff0a66146",
   "download_bytes": 264424259,
-  "extracted_at": "2026-10-27T01:48:23Z",
+  "extracted_at": "2026-11-09T01:50:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-belvidere_hospital-bc082__a39c33ac9b3812bb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a3/oria-belvidere_hospital-bc082__a39c33ac9b3812bb.jsonl.gz",
     "asset_sha256": "a39c33ac9b3812bb199192a8d9dc77f63e90e2fd238cf07b2aec05cb7e835706",
-    "published_at": "2026-10-27T02:01:54Z"
+    "published_at": "2026-11-09T02:01:03Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://aspen-valley-health-cms-hpt.s3.us-east-1.amazonaws.com/840720309_Aspen-Valley-Hospital-District_standardcharges.csv",
   "source_sha256": "9495fb96705e57837d10903b849cf24d96140b88bffe7481710e9595ad712360",
   "download_bytes": 327625319,
-  "extracted_at": "2026-10-27T01:48:43Z",
+  "extracted_at": "2026-11-09T01:50:51Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-aspen_valley_health-01054__bd3aa921026256de.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/oria-aspen_valley_health-01054__bd3aa921026256de.jsonl.gz",
     "asset_sha256": "bd3aa921026256de18c92bc9ffbdd999caf6aa934ae752a2f1d0dc60313b8d3e",
-    "published_at": "2026-10-27T02:00:09Z"
+    "published_at": "2026-11-09T02:00:46Z"
   }
 }

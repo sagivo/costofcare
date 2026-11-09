@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/fl-csv/593650609_st-vincents-health-system-inc_standardcharges.csv",
   "source_sha256": "d5ea5b15f3808c1712af8f6d7bdb508c149565bcbc020b3560b8ff50ebea39bd",
   "download_bytes": 353059133,
-  "extracted_at": "2026-10-27T01:49:36Z",
+  "extracted_at": "2026-11-09T01:51:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_s_st_johns_county-e3830__ab1eca692ecdecf3.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ab/oria-ascension_st_vincent_s_st_johns_county-e3830__ab1eca692ecdecf3.jsonl.gz",
     "asset_sha256": "ab1eca692ecdecf31c638bfb5ad90fd871f3d6ba4f018b8c9791e283240f635b",
-    "published_at": "2026-10-27T01:59:57Z"
+    "published_at": "2026-11-09T02:00:39Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/320029881_endoscopy-center-llc_standardcharges.csv",
   "source_sha256": "262c6c894618bd1bfeecff6bca630a807c4f23c14eee91720b3cb0b9008bf979",
   "download_bytes": 205901732,
-  "extracted_at": "2026-10-27T15:07:11Z",
+  "extracted_at": "2026-11-09T01:59:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_endoscopy-44eaa__401ad66d28b9ae18.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-ascension_st_vincent_endoscopy-44eaa__401ad66d28b9ae18.jsonl.gz",
     "asset_sha256": "401ad66d28b9ae18a6072ecdb0f3359f155244af7d0b0d9f296f11684c584348",
-    "published_at": "2026-10-27T15:12:52Z"
+    "published_at": "2026-11-09T02:00:31Z"
   }
 }

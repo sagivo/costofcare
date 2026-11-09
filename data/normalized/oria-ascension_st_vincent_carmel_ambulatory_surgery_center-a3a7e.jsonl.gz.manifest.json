@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/320014795_carmel-ambulatory-surgery-center-llc_standardcharges.csv",
   "source_sha256": "440d37625051ed9f943be8137520a3801eed21ead00f1367cc0f1cfe32da4614",
   "download_bytes": 204851925,
-  "extracted_at": "2026-10-27T15:07:03Z",
+  "extracted_at": "2026-11-09T01:59:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_carmel_ambulatory_surgery_center-a3a7e__2aa5cc75235cf15d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2a/oria-ascension_st_vincent_carmel_ambulatory_surgery_center-a3a7e__2aa5cc75235cf15d.jsonl.gz",
     "asset_sha256": "2aa5cc75235cf15d48311ae9ff7729f2440628a38c284941ad7cd126be8afab6",
-    "published_at": "2026-10-27T15:12:49Z"
+    "published_at": "2026-11-09T02:00:25Z"
   }
 }

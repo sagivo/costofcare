@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/351712001_st-vincent-seton-specialty-hospital-inc_standardcharges.csv",
   "source_sha256": "74826e30eecfa817c664f0e1ca5e96df3e3f7a15142811322a009d1a3b432e4e",
   "download_bytes": 351542533,
-  "extracted_at": "2026-10-27T01:49:12Z",
+  "extracted_at": "2026-11-09T01:51:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_seton_st_vincent_seton_specialty_hospital_inc-380b2__04e41b0d0d98e52d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-04/oria-ascension_st_vincent_seton_st_vincent_seton_specialty_hospital_inc-380b2__04e41b0d0d98e52d.jsonl.gz",
     "asset_sha256": "04e41b0d0d98e52d45da6320bfe384ee0f932e2c59d39c5d84f2a9a7b64f7aaa",
-    "published_at": "2026-10-27T01:59:59Z"
+    "published_at": "2026-11-09T02:00:41Z"
   }
 }

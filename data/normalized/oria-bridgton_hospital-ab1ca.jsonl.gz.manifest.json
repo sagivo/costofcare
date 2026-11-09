@@ -5,7 +5,7 @@
   "source_url": "https://www.cmhc.org/wp-content/uploads/2026/04/40059_BridgtonHospital_StandardCharges.json",
   "source_sha256": "69dff08167947b87b532286eac95d126b9786280c2376d90aec35ab3d6cf585c",
   "download_bytes": 4265105,
-  "extracted_at": "2026-10-27T01:50:36Z",
+  "extracted_at": "2026-11-09T01:52:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-bridgton_hospital-ab1ca__74017083654847a8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-74/oria-bridgton_hospital-ab1ca__74017083654847a8.jsonl.gz",
     "asset_sha256": "74017083654847a868027154284536c7477a98bef41e80a308f05a9ef1410e16",
-    "published_at": "2026-10-27T02:02:19Z"
+    "published_at": "2026-11-09T02:01:26Z"
   }
 }

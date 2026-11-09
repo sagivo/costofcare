@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/OHL3996173618/machine-readable/760153629_chambers-health_standardcharges.json",
   "source_sha256": "c6e862dd794e748ff1c963529487894d44bd7af812a17839aa4f5c983457cefd",
   "download_bytes": 16952154,
-  "extracted_at": "2026-10-27T15:59:49Z",
+  "extracted_at": "2026-11-09T01:57:42Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-chambers_health-32dcf__a2151398e122c629.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a2/oria-chambers_health-32dcf__a2151398e122c629.jsonl.gz",
     "asset_sha256": "a2151398e122c629200c885d5cd223a869007a4ab0d8fc0f80dd09d86228ef38",
-    "published_at": "2026-10-27T16:16:23Z"
+    "published_at": "2026-11-09T02:02:32Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/352112529_st-vincent-clay-hospital-inc_standardcharges.csv",
   "source_sha256": "e341149f64fa4c66cd4ee673dd104922f9978ff3439e6454caa882d969b973ad",
   "download_bytes": 381676783,
-  "extracted_at": "2026-10-27T01:50:12Z",
+  "extracted_at": "2026-11-09T01:52:32Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_clay-747df__fc3f8baa152c9650.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-ascension_st_vincent_clay-747df__fc3f8baa152c9650.jsonl.gz",
     "asset_sha256": "fc3f8baa152c9650ebff7820e7293e2ae627ea0bfb7623dadfd6767ecae305c2",
-    "published_at": "2026-10-27T01:59:51Z"
+    "published_at": "2026-11-09T02:00:27Z"
   }
 }

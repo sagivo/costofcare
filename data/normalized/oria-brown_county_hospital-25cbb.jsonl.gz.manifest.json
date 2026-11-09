@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/OPOL-1689186416631/machine-readable/470532256_brown-county-hospital_standardcharges.json",
   "source_sha256": "331f711430c56e964ee43b11d5c8d27c4e8fe3385c6c8f0f64c10bf95badf23f",
   "download_bytes": 5526062,
-  "extracted_at": "2026-10-27T01:50:38Z",
+  "extracted_at": "2026-11-09T01:52:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-brown_county_hospital-25cbb__cc1eb0b6c39e73fe.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-brown_county_hospital-25cbb__cc1eb0b6c39e73fe.jsonl.gz",
     "asset_sha256": "cc1eb0b6c39e73fed02699a37ccf4118b27e620894e02c7e10e1ec2e5c2183f6",
-    "published_at": "2026-10-27T02:02:30Z"
+    "published_at": "2026-11-09T02:01:38Z"
   }
 }

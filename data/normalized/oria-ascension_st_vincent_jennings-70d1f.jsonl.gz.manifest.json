@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/351841606_st-vincent-jennings-hospital-inc_standardcharges.csv",
   "source_sha256": "50db6bb6382de86c00e8df0bd4f483e2556dc159ceb2f3f585931311ae06c2c3",
   "download_bytes": 365603073,
-  "extracted_at": "2026-10-27T01:50:32Z",
+  "extracted_at": "2026-11-09T01:53:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_jennings-70d1f__962793e937612de1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-96/oria-ascension_st_vincent_jennings-70d1f__962793e937612de1.jsonl.gz",
     "asset_sha256": "962793e937612de1bf689145a84b6a7096f6825f4dd8deb2ed818ee246b6c092",
-    "published_at": "2026-10-27T01:59:54Z"
+    "published_at": "2026-11-09T02:00:33Z"
   }
 }

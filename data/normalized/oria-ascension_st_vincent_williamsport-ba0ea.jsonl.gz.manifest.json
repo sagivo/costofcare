@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/in-csv/350784551_st-vincent-williamsport-hospital-inc_standardcharges.csv",
   "source_sha256": "d36e935f1fbc081ed7b64e14a83522c5a2435b08bd3403a4ded82eb75dae65c7",
   "download_bytes": 335156619,
-  "extracted_at": "2026-10-27T01:49:32Z",
+  "extracted_at": "2026-11-09T01:51:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_st_vincent_williamsport-ba0ea__6087295b691ae79d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-60/oria-ascension_st_vincent_williamsport-ba0ea__6087295b691ae79d.jsonl.gz",
     "asset_sha256": "6087295b691ae79d98cc46a11205fb982dab18a9e58e41111b5089e6704635ce",
-    "published_at": "2026-10-27T02:00:04Z"
+    "published_at": "2026-11-09T02:00:44Z"
   }
 }
