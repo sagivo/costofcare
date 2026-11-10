@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-10T18:19:43.219097+00:00",
+  "generated_at": "2026-11-10T20:03:52.117886+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
-    "successful_entries": 2773,
-    "distinct_successful_mrf_urls": 2773,
-    "extracted_within_24h": 2674,
+    "successful_entries": 2774,
+    "distinct_successful_mrf_urls": 2774,
+    "extracted_within_24h": 2688,
     "sources_over_365_days_old": 215,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 360701,
+    "hospital_code_aggregates": 360690,
     "row_preserving_records": 24166209
   },
   "status_counts": {
-    "ok": 2780,
-    "failed": 804,
+    "ok": 2781,
+    "failed": 803,
     "no_target_codes": 465
   },
   "successful_entries_by_state": {
@@ -36,7 +36,7 @@
     "MI": 69,
     "IA": 57,
     "CO": 59,
-    "PA": 141,
+    "PA": 142,
     "OH": 94,
     "OR": 40,
     "VA": 45,
@@ -74,88 +74,88 @@
     "RI": 7
   },
   "hospital_entries_per_code": {
-    "11042": 2424,
-    "12001": 2359,
-    "19083": 2053,
-    "20610": 2498,
-    "27130": 1686,
-    "27447": 1719,
-    "29827": 1717,
-    "29848": 1432,
-    "29881": 1793,
-    "30520": 1572,
-    "36415": 2529,
-    "42820": 1495,
-    "43235": 2140,
+    "11042": 2425,
+    "12001": 2360,
+    "19083": 2054,
+    "20610": 2499,
+    "27130": 1683,
+    "27447": 1716,
+    "29827": 1714,
+    "29848": 1430,
+    "29881": 1791,
+    "30520": 1570,
+    "36415": 2530,
+    "42820": 1493,
+    "43235": 2139,
     "43249": 1936,
-    "45378": 2112,
-    "45380": 2111,
-    "45384": 1823,
-    "45385": 2098,
-    "49505": 1889,
-    "58150": 1308,
-    "59025": 2035,
-    "59400": 1065,
-    "59410": 1027,
-    "59510": 1016,
-    "59515": 1017,
-    "62323": 2088,
-    "64483": 2053,
-    "66984": 1511,
-    "69436": 1554,
-    "70450": 2554,
-    "70460": 2486,
-    "70486": 2529,
-    "70491": 2530,
-    "70544": 2410,
-    "70551": 2465,
-    "70552": 2335,
-    "70553": 2465,
-    "71045": 2581,
-    "71046": 2581,
-    "71250": 2535,
-    "71260": 2530,
-    "71275": 2520,
-    "72125": 2530,
-    "72131": 2525,
-    "72141": 2455,
-    "72146": 2456,
-    "72148": 2468,
-    "72149": 2310,
-    "72156": 2437,
-    "72158": 2449,
-    "73218": 2342,
-    "73221": 2395,
-    "73222": 2220,
-    "73700": 2474,
-    "73718": 2367,
-    "73721": 2393,
-    "73722": 2178,
-    "73723": 2344,
-    "74150": 2522,
-    "74160": 2502,
-    "74176": 2538,
-    "74177": 2544,
-    "76536": 2531,
-    "76642": 2325,
-    "76700": 2565,
-    "76775": 2422,
-    "76805": 2380,
-    "76830": 2497,
-    "76856": 2535,
-    "77065": 2127,
+    "45378": 2111,
+    "45380": 2110,
+    "45384": 1822,
+    "45385": 2097,
+    "49505": 1887,
+    "58150": 1306,
+    "59025": 2036,
+    "59400": 1063,
+    "59410": 1025,
+    "59510": 1014,
+    "59515": 1015,
+    "62323": 2089,
+    "64483": 2054,
+    "66984": 1509,
+    "69436": 1552,
+    "70450": 2555,
+    "70460": 2487,
+    "70486": 2530,
+    "70491": 2531,
+    "70544": 2411,
+    "70551": 2466,
+    "70552": 2336,
+    "70553": 2466,
+    "71045": 2582,
+    "71046": 2582,
+    "71250": 2536,
+    "71260": 2531,
+    "71275": 2521,
+    "72125": 2531,
+    "72131": 2526,
+    "72141": 2456,
+    "72146": 2457,
+    "72148": 2469,
+    "72149": 2311,
+    "72156": 2438,
+    "72158": 2450,
+    "73218": 2343,
+    "73221": 2396,
+    "73222": 2221,
+    "73700": 2475,
+    "73718": 2368,
+    "73721": 2394,
+    "73722": 2179,
+    "73723": 2345,
+    "74150": 2523,
+    "74160": 2503,
+    "74176": 2539,
+    "74177": 2545,
+    "76536": 2532,
+    "76642": 2326,
+    "76700": 2566,
+    "76775": 2423,
+    "76805": 2381,
+    "76830": 2498,
+    "76856": 2536,
+    "77065": 2128,
     "77066": 2186,
-    "77067": 2259,
+    "77067": 2260,
     "77080": 2317,
     "78452": 2260,
-    "80048": 2586,
-    "80053": 2591,
-    "80061": 2583,
-    "80069": 2527,
-    "80074": 2490,
-    "80076": 2579,
-    "81001": 2537,
-    "81002": 2162,
+    "80048": 2585,
+    "80053": 2590,
+    "80061": 2582,
+    "80069": 2526,
+    "80074": 2489,
+    "80076": 2578,
+    "81001": 2536,
+    "81002": 2161,
     "82306": 2565,
     "82310": 2535,
     "82565": 2556,
@@ -179,7 +179,7 @@
     "85610": 2601,
     "85652": 2227,
     "86140": 2557,
-    "86580": 2062,
+    "86580": 2063,
     "87086": 2493,
     "87491": 2490,
     "87591": 2475,
@@ -188,60 +188,60 @@
     "88112": 2308,
     "88175": 1823,
     "88305": 2482,
-    "90471": 2437,
-    "90686": 1522,
-    "92004": 1081,
-    "92014": 1053,
-    "92134": 1148,
-    "93015": 924,
-    "93303": 1708,
-    "93306": 2484,
-    "93880": 2506,
-    "93970": 2529,
-    "93971": 2504,
-    "93978": 2120,
-    "94010": 2407,
-    "94640": 2485,
-    "96372": 2523,
-    "96413": 2124,
-    "97110": 2532,
-    "97161": 2492,
-    "97530": 2519,
+    "90471": 2438,
+    "90686": 1520,
+    "92004": 1079,
+    "92014": 1052,
+    "92134": 1149,
+    "93015": 922,
+    "93303": 1709,
+    "93306": 2485,
+    "93880": 2507,
+    "93970": 2530,
+    "93971": 2505,
+    "93978": 2121,
+    "94010": 2408,
+    "94640": 2486,
+    "96372": 2524,
+    "96413": 2126,
+    "97110": 2534,
+    "97161": 2494,
+    "97530": 2521,
     "99281": 2408,
     "99282": 2416,
     "99283": 2423,
     "99284": 2426,
     "99285": 2429,
-    "43239": 2143,
-    "47562": 1879,
-    "52353": 1518,
+    "43239": 2142,
+    "47562": 1877,
+    "52353": 1516,
     "55700": 1641,
-    "64721": 1843,
+    "64721": 1842,
     "78815": 1775,
-    "90791": 1638,
-    "90834": 1678,
-    "90837": 1668,
-    "92557": 1293,
-    "93000": 1151,
-    "95810": 1953,
-    "99202": 1929,
-    "99203": 1933,
-    "99204": 1973,
-    "99205": 1942,
-    "99212": 2031,
-    "99213": 2065,
-    "99214": 2067,
-    "99215": 2009,
+    "90791": 1639,
+    "90834": 1679,
+    "90837": 1669,
+    "92557": 1294,
+    "93000": 1149,
+    "95810": 1954,
+    "99202": 1928,
+    "99203": 1932,
+    "99204": 1972,
+    "99205": 1941,
+    "99212": 2029,
+    "99213": 2063,
+    "99214": 2065,
+    "99215": 2007,
     "99223": 1248,
     "99232": 1259,
-    "99385": 1163,
-    "99395": 1158,
-    "G0121": 1696,
-    "G0439": 1124,
-    "E0601": 457,
-    "77063": 2101,
+    "99385": 1161,
+    "99395": 1156,
+    "G0121": 1691,
+    "G0439": 1122,
+    "E0601": 455,
+    "77063": 2102,
     "77014": 1249,
-    "77385": 1224
+    "77385": 1223
   },
   "qa_flags": [
     {
@@ -65349,349 +65349,6 @@
       "payer": "WPPA Unified Health Plan",
       "flag": "wide_payer_range_review",
       "ratio": 3084.0
-    },
-    {
-      "id": "upmc-kane",
-      "code": "11042",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 330.12
-    },
-    {
-      "id": "upmc-kane",
-      "code": "12001",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 234.46
-    },
-    {
-      "id": "upmc-kane",
-      "code": "19083",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 121.69
-    },
-    {
-      "id": "upmc-kane",
-      "code": "20610",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 127.92
-    },
-    {
-      "id": "upmc-kane",
-      "code": "36415",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 140.41
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70450",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 3250.21
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70460",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 321.93
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70486",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 324.89
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70491",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 321.6
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70544",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1078.07
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70551",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 849.31
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70552",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 823.65
-    },
-    {
-      "id": "upmc-kane",
-      "code": "70553",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 704.92
-    },
-    {
-      "id": "upmc-kane",
-      "code": "71045",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 100.73
-    },
-    {
-      "id": "upmc-kane",
-      "code": "71250",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 320.33
-    },
-    {
-      "id": "upmc-kane",
-      "code": "71260",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 337.0
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72125",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 320.54
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72131",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 320.54
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72141",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 757.07
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72146",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 820.65
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72148",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 884.95
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72149",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 819.13
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72156",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 959.96
-    },
-    {
-      "id": "upmc-kane",
-      "code": "72158",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1040.89
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73218",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1856.98
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73221",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1817.25
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73222",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1758.58
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73700",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 323.8
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73718",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1842.14
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73721",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1828.31
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73722",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 1748.26
-    },
-    {
-      "id": "upmc-kane",
-      "code": "73723",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 2246.31
-    },
-    {
-      "id": "upmc-kane",
-      "code": "74150",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 312.88
-    },
-    {
-      "id": "upmc-kane",
-      "code": "74160",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 338.51
-    },
-    {
-      "id": "upmc-kane",
-      "code": "76536",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 300.71
-    },
-    {
-      "id": "upmc-kane",
-      "code": "76700",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 229.79
-    },
-    {
-      "id": "upmc-kane",
-      "code": "76805",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 296.61
-    },
-    {
-      "id": "upmc-kane",
-      "code": "76830",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 455.92
-    },
-    {
-      "id": "upmc-kane",
-      "code": "76856",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 213.31
-    },
-    {
-      "id": "upmc-kane",
-      "code": "77067",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 188.36
-    },
-    {
-      "id": "upmc-kane",
-      "code": "81001",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 118.86
-    },
-    {
-      "id": "upmc-kane",
-      "code": "83735",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 317.37
-    },
-    {
-      "id": "upmc-kane",
-      "code": "84100",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 105.88
-    },
-    {
-      "id": "upmc-kane",
-      "code": "85027",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 156.79
-    },
-    {
-      "id": "upmc-kane",
-      "code": "87086",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 142.37
-    },
-    {
-      "id": "upmc-kane",
-      "code": "93880",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 353.61
-    },
-    {
-      "id": "upmc-kane",
-      "code": "93970",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 360.28
-    },
-    {
-      "id": "upmc-kane",
-      "code": "99213",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 107.08
-    },
-    {
-      "id": "upmc-kane",
-      "code": "99281",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 111.87
     },
     {
       "id": "oria-fisher_titus_medical_center-28c75",
@@ -136815,6 +136472,20 @@
       "ratio": 108.94
     },
     {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "99385",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.47
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "code": "99395",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 136.47
+    },
+    {
       "id": "oria-unity_health_white_county_medical_center-ccddc",
       "flag": "source_over_365_days_old",
       "age_days": 619
@@ -142122,41 +141793,6 @@
       "ratio": 102.93
     },
     {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "99281",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 101.07
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "99282",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 108.33
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "99283",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 145.3
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "99284",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 156.42
-    },
-    {
-      "id": "oria-saint_vincent_hospital-44cdc",
-      "code": "99285",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 225.21
-    },
-    {
       "id": "oria-western_missouri_medical_center-4e0ac",
       "flag": "source_over_365_days_old",
       "age_days": 709
@@ -144115,6 +143751,1133 @@
       "payer": "BCBS",
       "flag": "wide_payer_range_review",
       "ratio": 156.13
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "11042",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 401.46
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "11042",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 181.46
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "12001",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 198.14
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "19083",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1631.08
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "19083",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 737.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "20610",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 303.14
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "20610",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 137.02
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "36415",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 2613.87
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "43235",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 895.72
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "43235",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 404.86
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "43239",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 895.72
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "43239",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 404.86
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "43249",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1895.07
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "43249",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 856.57
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45378",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 918.4
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45378",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 415.12
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45380",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1181.78
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45380",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 534.16
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45384",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1181.78
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45384",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 534.16
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45385",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1181.78
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "45385",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 534.16
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "59025",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 199.66
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "62323",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 697.11
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "62323",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 315.1
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "64483",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 873.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "64483",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 394.82
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70450",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70460",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 173.22
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70486",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70491",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 173.22
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70544",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70544",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70551",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70551",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70552",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 344.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70552",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.73
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70553",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 344.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "70553",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.73
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "71045",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 217.47
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "71046",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 148.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "71250",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "71260",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 173.22
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "71275",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 173.22
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72125",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72131",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72141",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72141",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72146",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72146",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72148",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72148",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72149",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 344.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72149",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.73
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72156",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 344.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72156",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.73
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72158",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 344.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "72158",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.73
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73218",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73218",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73221",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73221",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73222",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 774.18
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73222",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 349.93
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73700",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73718",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73718",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73721",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73721",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73722",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 774.18
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73722",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 349.93
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73723",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 344.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "73723",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.73
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "74150",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "74160",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 173.22
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "74176",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "74176",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "74177",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 344.54
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "74177",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 155.73
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "76536",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "76700",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "76775",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "76805",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "76830",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "76856",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "77063",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 504.24
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "77065",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.63
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "77066",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.85
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "77066",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.0
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "77067",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 138.82
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "77080",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 139.33
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "77080",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "78452",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1278.57
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "78452",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 577.91
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "78815",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 1412.18
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "78815",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 638.31
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "86580",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 977.86
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "90471",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 1124.39
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "90791",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 109.91
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "90791",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.29
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "90834",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 194.86
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "90834",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.29
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "90837",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 184.93
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "90837",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 175.29
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "92014",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 389.08
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "92014",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "92134",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 299.05
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "92557",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 189.61
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "92557",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 127.07
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93303",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 539.63
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93303",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 243.91
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93306",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 774.18
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93306",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 349.93
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93880",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93880",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93970",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93970",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93971",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 103.25
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93978",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 235.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "93978",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 106.51
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "94010",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 213.24
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "94640",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 218.34
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "94640",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 216.26
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "95810",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 848.07
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "95810",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 383.33
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "96372",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 230.4
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "96413",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 326.2
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "96413",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 147.44
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "97110",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 523.01
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "97161",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.12
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "97530",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 265.18
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99202",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 231.83
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99202",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99203",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 220.47
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99203",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99204",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 210.16
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99204",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99205",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.79
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99205",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99212",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 231.83
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99212",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99213",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 220.47
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99213",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99214",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 210.16
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99214",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99215",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 200.79
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99215",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 131.48
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99281",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 108.11
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99282",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 151.64
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99283",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 269.59
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99283",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 121.85
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99284",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 412.08
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99284",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 186.26
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99285",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 588.13
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99285",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 265.84
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99385",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 444.41
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "99395",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 573.6
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "G0121",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 918.4
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "G0121",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 415.12
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "G0439",
+      "payer": "BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 573.6
+    },
+    {
+      "id": "geisinger-south-wilkes-barre",
+      "code": "G0439",
+      "payer": "Medicaid",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.0
     },
     {
       "id": "oria-smp_health_st_kateri-685bc",
