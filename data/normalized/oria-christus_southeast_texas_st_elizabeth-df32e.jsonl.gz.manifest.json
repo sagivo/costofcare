@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/760591590_southeasttexasstelizabeth_standardcharges.json",
   "source_sha256": "d1ab6206fd30bf3a52a7b835ca8a942c86e0a06f25edec0a02dfc01d9e92a544",
   "download_bytes": 310701098,
-  "extracted_at": "2026-10-28T01:40:00Z",
+  "extracted_at": "2026-11-10T04:17:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_southeast_texas_st_elizabeth-df32e__5d8bb0e4d009159b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5d/oria-christus_southeast_texas_st_elizabeth-df32e__5d8bb0e4d009159b.jsonl.gz",
     "asset_sha256": "5d8bb0e4d009159b3e519a4ba2401721eab653341a8081610b76e9bb553c5ba6",
-    "published_at": "2026-10-28T01:57:32Z"
+    "published_at": "2026-11-10T04:22:15Z"
   }
 }

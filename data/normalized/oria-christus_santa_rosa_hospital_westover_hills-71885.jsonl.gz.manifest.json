@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109665_santarosahospitalwestoverhills_standardcharges.json",
   "source_sha256": "531f009982fb5ee97461e8c5b644fdaed1ff5a1dc5946a5c93bf8559e3c9738d",
   "download_bytes": 349260353,
-  "extracted_at": "2026-10-28T01:40:21Z",
+  "extracted_at": "2026-11-10T04:17:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_santa_rosa_hospital_westover_hills-71885__5d509842ccfa113f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5d/oria-christus_santa_rosa_hospital_westover_hills-71885__5d509842ccfa113f.jsonl.gz",
     "asset_sha256": "5d509842ccfa113fcea2d5ed209b8e1542ae922e63dc9df15f2a69510124339e",
-    "published_at": "2026-10-28T01:57:24Z"
+    "published_at": "2026-11-10T04:22:08Z"
   }
 }

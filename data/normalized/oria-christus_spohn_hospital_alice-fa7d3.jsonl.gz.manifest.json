@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109836_spohnhospitalalice_standardcharges.json",
   "source_sha256": "579cd11d25ec1a57998bf31c3581dc2d6dbe84d8565eda34cde9958dcca1baac",
   "download_bytes": 202455265,
-  "extracted_at": "2026-10-28T01:37:50Z",
+  "extracted_at": "2026-11-10T04:15:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_spohn_hospital_alice-fa7d3__bcdeffa1f136ca7e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/oria-christus_spohn_hospital_alice-fa7d3__bcdeffa1f136ca7e.jsonl.gz",
     "asset_sha256": "bcdeffa1f136ca7e35ccd914c9e0a858deb634f52a23fd6e8f7ba4f7367b5848",
-    "published_at": "2026-10-28T01:57:34Z"
+    "published_at": "2026-11-10T04:22:17Z"
   }
 }

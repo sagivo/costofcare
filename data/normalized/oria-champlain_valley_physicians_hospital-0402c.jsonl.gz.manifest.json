@@ -5,7 +5,7 @@
   "source_url": "https://www.uvmhealth.org/sites/default/files/141338471_champlain-valley-physicians-hospital-medical-center_standardcharges.csv",
   "source_sha256": "2df1b0a5482e5a5070f329372794891c2d9d8226dba5bfbdebc903b3628109d3",
   "download_bytes": 168221255,
-  "extracted_at": "2026-10-28T01:36:59Z",
+  "extracted_at": "2026-11-10T04:14:32Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-champlain_valley_physicians_hospital-0402c__e718336e653d7b52.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/oria-champlain_valley_physicians_hospital-0402c__e718336e653d7b52.jsonl.gz",
     "asset_sha256": "e718336e653d7b527b554f0ac853f251f735a526799ca546ff6e1e23ad41d09f",
-    "published_at": "2026-10-28T01:56:42Z"
+    "published_at": "2026-11-10T04:21:36Z"
   }
 }

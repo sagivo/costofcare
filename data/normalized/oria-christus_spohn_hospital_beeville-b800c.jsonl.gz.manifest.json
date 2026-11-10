@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109836_spohnhospitalbeeville_standardcharges.json",
   "source_sha256": "78561c1cb884d1c07c58e00d32475baef99287dccc84f72d2d8a1978e0f29040",
   "download_bytes": 210563589,
-  "extracted_at": "2026-10-28T01:37:46Z",
+  "extracted_at": "2026-11-10T04:14:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_spohn_hospital_beeville-b800c__a1c4306278991f8d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a1/oria-christus_spohn_hospital_beeville-b800c__a1c4306278991f8d.jsonl.gz",
     "asset_sha256": "a1c4306278991f8da32f249de65db5ea76f14c7fe7f4b121340dd0d90c47bf54",
-    "published_at": "2026-10-28T01:57:35Z"
+    "published_at": "2026-11-10T04:22:18Z"
   }
 }

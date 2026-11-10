@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11405/371119538_the-carle-foundation-hospital_standardcharges.csv",
   "source_sha256": "e7c6381f7c8ce2b634d5af488076759ce42b4d502f34138bd9db4e221b8fa468",
   "download_bytes": 697169303,
-  "extracted_at": "2026-10-28T01:46:46Z",
+  "extracted_at": "2026-11-10T04:20:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-carle_foundation_hospital-c0f16__d6aad4c2cec2b693.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d6/oria-carle_foundation_hospital-c0f16__d6aad4c2cec2b693.jsonl.gz",
     "asset_sha256": "d6aad4c2cec2b69336da5df70fdba849f4363f8fe36fd0299c705a79e68c9413",
-    "published_at": "2026-10-28T01:56:25Z"
+    "published_at": "2026-11-10T04:21:21Z"
   }
 }

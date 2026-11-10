@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 550,
+  "records": 520,
   "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/470399853-1568547032_alegent-health-memorial-hospital-schuyler_standardcharges.json",
-  "source_sha256": "0df2e175dd27eb5b8c30bb793beeb41790fcdb178bf993a76d94ace71e49d24f",
-  "download_bytes": 222376142,
-  "extracted_at": "2026-10-28T01:38:22Z",
+  "source_sha256": "4d9160899135fde7c83fd0f8912d84ac35aa41f055593121fa38503008d09731",
+  "download_bytes": 203073069,
+  "extracted_at": "2026-11-10T04:15:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-81",
-    "asset_name": "oria-chi_health_schuyler-2f71a__818476322b9a1df1.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-chi_health_schuyler-2f71a__818476322b9a1df1.jsonl.gz",
-    "asset_sha256": "818476322b9a1df181a2aed7a4f054c4761f11d124da92ab67b85a6933f506a1",
-    "published_at": "2026-10-28T01:56:57Z"
+    "release": "data-norm-e0",
+    "asset_name": "oria-chi_health_schuyler-2f71a__e0e01449df3e98fd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-chi_health_schuyler-2f71a__e0e01449df3e98fd.jsonl.gz",
+    "asset_sha256": "e0e01449df3e98fdee8cfddd08cbdb0ba17b8284d78516da2d22e3cf453dabc9",
+    "published_at": "2026-11-10T04:21:46Z"
   }
 }

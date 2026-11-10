@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109665_santarosahospitalsanmarcos_standardcharges.json",
   "source_sha256": "50243b197b5f3a9bd652c293fca4fd2aca22539a5c77e6deb951494b724c4ae6",
   "download_bytes": 171344773,
-  "extracted_at": "2026-10-28T01:36:54Z",
+  "extracted_at": "2026-11-10T04:14:25Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_santa_rosa_hospital_san_marcos-3edd9__59ddf2c76d33e33d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-59/oria-christus_santa_rosa_hospital_san_marcos-3edd9__59ddf2c76d33e33d.jsonl.gz",
     "asset_sha256": "59ddf2c76d33e33d45d68e24ee428018143cffd90debc3a371d3c5deb7b54752",
-    "published_at": "2026-10-28T01:57:22Z"
+    "published_at": "2026-11-10T04:22:07Z"
   }
 }

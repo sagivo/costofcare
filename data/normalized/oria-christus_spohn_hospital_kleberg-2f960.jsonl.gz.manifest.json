@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109836_spohnhospitalkleberg_standardcharges.json",
   "source_sha256": "75e7edd55aa0a1a757d6ffab28e61fbb0d31e50798b87ecf9333de64bb3ddaff",
   "download_bytes": 199370935,
-  "extracted_at": "2026-10-28T01:37:35Z",
+  "extracted_at": "2026-11-10T04:14:50Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_spohn_hospital_kleberg-2f960__028972a3f71e1229.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-02/oria-christus_spohn_hospital_kleberg-2f960__028972a3f71e1229.jsonl.gz",
     "asset_sha256": "028972a3f71e1229e8e587539b6c75e7204bfbcb432c143518eef9349450f178",
-    "published_at": "2026-10-28T01:57:40Z"
+    "published_at": "2026-11-10T04:22:23Z"
   }
 }

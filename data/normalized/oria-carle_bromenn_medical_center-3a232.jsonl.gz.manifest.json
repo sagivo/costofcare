@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11475/850682363_carle-bromenn-medical-center_standardcharges.csv",
   "source_sha256": "ae0aea66459d90fe1dda4f80d6542babd00d7978b9f5ef95f817f503b770df61",
   "download_bytes": 473869492,
-  "extracted_at": "2026-10-28T01:42:53Z",
+  "extracted_at": "2026-11-10T04:19:03Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-carle_bromenn_medical_center-3a232__3152e98dd714dd0f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-carle_bromenn_medical_center-3a232__3152e98dd714dd0f.jsonl.gz",
     "asset_sha256": "3152e98dd714dd0f45c2fc8e86b0849be4aeb34333806b3fb3f77d38c6056245",
-    "published_at": "2026-10-28T01:56:21Z"
+    "published_at": "2026-11-10T04:21:18Z"
   }
 }

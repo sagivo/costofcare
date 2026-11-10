@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10714/030107300_brattleboro-memorial-hospital_standardcharges.csv",
   "source_sha256": "208a9d5b171f570b8796fc0841c853f5b95d531debb4bf25258c23912a7c3c9a",
   "download_bytes": 173236470,
-  "extracted_at": "2026-10-28T01:37:27Z",
+  "extracted_at": "2026-11-10T04:14:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-brattleboro_memorial_hospital-cd2b6__ce2e9b18d8239286.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ce/oria-brattleboro_memorial_hospital-cd2b6__ce2e9b18d8239286.jsonl.gz",
     "asset_sha256": "ce2e9b18d823928635a947822428150a9b26f62f085080d3f289f99c7f1b51b4",
-    "published_at": "2026-10-28T01:56:14Z"
+    "published_at": "2026-11-10T04:21:10Z"
   }
 }

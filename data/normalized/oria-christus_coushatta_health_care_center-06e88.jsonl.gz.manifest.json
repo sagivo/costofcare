@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/720408984_coushattahealthcarecenter_standardcharges.json",
   "source_sha256": "c32bd5dc079441cf3a96781d0755cf8fb5dde3e16d23fffdd5ca2c21431103f3",
   "download_bytes": 208288992,
-  "extracted_at": "2026-10-28T01:37:41Z",
+  "extracted_at": "2026-11-10T04:14:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_coushatta_health_care_center-06e88__58b1c2176927fdc9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-christus_coushatta_health_care_center-06e88__58b1c2176927fdc9.jsonl.gz",
     "asset_sha256": "58b1c2176927fdc9b179ca81da3c6ffece8ba931ce7071b07a60ac435cdc2368",
-    "published_at": "2026-10-28T01:57:06Z"
+    "published_at": "2026-11-10T04:21:52Z"
   }
 }

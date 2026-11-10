@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109836_christussurgicalhospital_standardcharges.json",
   "source_sha256": "68446df0a90f02b8c73b68157e07d40edbb20867fab5fb58a03eb96fd5f67f99",
   "download_bytes": 220996722,
-  "extracted_at": "2026-10-28T01:38:13Z",
+  "extracted_at": "2026-11-10T04:15:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_surgical_hospital-73969__41a5f23ce794a6f6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-christus_surgical_hospital-73969__41a5f23ce794a6f6.jsonl.gz",
     "asset_sha256": "41a5f23ce794a6f6df479f315a4d49b510b8991bf8f2f012971025c176bb43e6",
-    "published_at": "2026-10-28T01:57:48Z"
+    "published_at": "2026-11-10T04:22:32Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11407/370681540_proctor-community-hospital_standardcharges.csv",
   "source_sha256": "bf1c08a12339d0729747e23b4864cb6afbd4aede408c4cc6960bdc27d75f6201",
   "download_bytes": 517338380,
-  "extracted_at": "2026-10-28T01:42:39Z",
+  "extracted_at": "2026-11-10T04:18:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-carle_health_proctor_hospital-b1f86__80d6a21153eb3aff.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-80/oria-carle_health_proctor_hospital-b1f86__80d6a21153eb3aff.jsonl.gz",
     "asset_sha256": "80d6a21153eb3affbd8c3e90e730863732892fc033e5fb84970a2f055ded1d03",
-    "published_at": "2026-10-28T01:56:30Z"
+    "published_at": "2026-11-10T04:21:26Z"
   }
 }

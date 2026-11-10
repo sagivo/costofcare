@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109665_santarosahospitalalamoheights_standardcharges.json",
   "source_sha256": "6d8f08525acdda8997115a016c5d9c2d47934e1d25eb59386004ffb36858c7a2",
   "download_bytes": 262495393,
-  "extracted_at": "2026-10-28T01:38:57Z",
+  "extracted_at": "2026-11-10T04:16:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_santa_rosa_hospital_alamo_heights-6e197__1763fed976aa424b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-17/oria-christus_santa_rosa_hospital_alamo_heights-6e197__1763fed976aa424b.jsonl.gz",
     "asset_sha256": "1763fed976aa424b4fd909add293c05188843bb56eff833f0d5e51e0d1757320",
-    "published_at": "2026-10-28T01:57:19Z"
+    "published_at": "2026-11-10T04:22:04Z"
   }
 }

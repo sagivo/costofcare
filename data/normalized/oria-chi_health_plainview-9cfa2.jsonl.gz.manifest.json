@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 550,
+  "records": 520,
   "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/470757164-1861765034_alegent-creighton-health_standardcharges.json",
-  "source_sha256": "6a1df2b10a20220f779569cf29affe97342336f19a83f15cdd671d9fafe30ba8",
-  "download_bytes": 217440598,
-  "extracted_at": "2026-10-28T01:38:09Z",
+  "source_sha256": "0a919016545fdc71d2a4ae1db69083dbd9c5c38c5ea0f4db9893754efa7c06ac",
+  "download_bytes": 195043022,
+  "extracted_at": "2026-11-10T04:15:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-d9",
-    "asset_name": "oria-chi_health_plainview-9cfa2__d9de100261625fb0.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-chi_health_plainview-9cfa2__d9de100261625fb0.jsonl.gz",
-    "asset_sha256": "d9de100261625fb0354d79d990494704230558ff3f6e3f8cda73dc44039b8545",
-    "published_at": "2026-10-28T01:56:55Z"
+    "release": "data-norm-2a",
+    "asset_name": "oria-chi_health_plainview-9cfa2__2a440d3bb9a3fe54.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2a/oria-chi_health_plainview-9cfa2__2a440d3bb9a3fe54.jsonl.gz",
+    "asset_sha256": "2a440d3bb9a3fe544023ffcb103cec3acb8fdd831e2f7f92c2d44e13f9f81f9c",
+    "published_at": "2026-11-10T04:21:44Z"
   }
 }

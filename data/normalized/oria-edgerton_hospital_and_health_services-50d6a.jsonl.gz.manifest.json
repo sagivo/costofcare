@@ -5,7 +5,7 @@
   "source_url": "https://www.edgertonhospital.com/media/2922/390819992-1326192261_ehhs-milton-clinic-medicare_standardchargescsv.csv",
   "source_sha256": "f7d47234d6e3d5ea2ca12cc053a43c196c417319b58b96beee23195512ecd96f",
   "download_bytes": 33685,
-  "extracted_at": "2026-10-28T01:46:47Z",
+  "extracted_at": "2026-11-10T04:20:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-edgerton_hospital_and_health_services-50d6a__fa584514f96f6aad.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/oria-edgerton_hospital_and_health_services-50d6a__fa584514f96f6aad.jsonl.gz",
     "asset_sha256": "fa584514f96f6aad7bcec60d84d72e1a23d63198f916ac1516a4ff91a5ab31d5",
-    "published_at": "2026-10-28T01:59:15Z"
+    "published_at": "2026-11-10T04:23:15Z"
   }
 }

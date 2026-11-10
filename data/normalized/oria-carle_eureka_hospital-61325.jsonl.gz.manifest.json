@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11404/850688306_carle-eureka-hospital_standardcharges.csv",
   "source_sha256": "d93afab4f0987a900c042399c981ee858a8cbac5ca3180f324e2d41e9a790f5d",
   "download_bytes": 453501524,
-  "extracted_at": "2026-10-28T01:41:48Z",
+  "extracted_at": "2026-11-10T04:18:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-carle_eureka_hospital-61325__15b0fcb223f0cfe5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-15/oria-carle_eureka_hospital-61325__15b0fcb223f0cfe5.jsonl.gz",
     "asset_sha256": "15b0fcb223f0cfe516eb82def820efba3a5ec981230eed1bf56d98f390a76e73",
-    "published_at": "2026-10-28T01:56:23Z"
+    "published_at": "2026-11-10T04:21:19Z"
   }
 }

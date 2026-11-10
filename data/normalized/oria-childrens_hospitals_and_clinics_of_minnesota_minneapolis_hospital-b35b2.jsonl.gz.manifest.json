@@ -5,7 +5,7 @@
   "source_url": "https://www.childrensmn.org/applications/pricetransparency/411754276_childrens-health-care_standardcharges.csv",
   "source_sha256": "1acbce9fa3caa761e7b6cefb1814fcef16339939207e7936e894df6eabf752de",
   "download_bytes": 159023486,
-  "extracted_at": "2026-10-28T01:37:36Z",
+  "extracted_at": "2026-11-10T04:15:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-childrens_hospitals_and_clinics_of_minnesota_minneapolis_hospital-b35b2__19ed9ae4b1b6c128.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-19/oria-childrens_hospitals_and_clinics_of_minnesota_minneapolis_hospital-b35b2__19ed9ae4b1b6c128.jsonl.gz",
     "asset_sha256": "19ed9ae4b1b6c128afb996cefc6947bb135d46bdc2971d6b1bc770914d043023",
-    "published_at": "2026-10-28T01:57:04Z"
+    "published_at": "2026-11-10T04:21:50Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.conemaugh.org/docs/ahconemaughhealthsystemlibraries/hcl/mrf2q26/472546387_nason-hospital_standardcharges.csv.zip",
   "source_sha256": "76f7a13b32b1bd1ac7c2b9835d3bf0bcdd308317151b9ccf509da5d0cc7dd9f3",
   "download_bytes": 281881,
-  "extracted_at": "2026-10-28T01:46:51Z",
+  "extracted_at": "2026-11-10T04:20:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-conemaugh_nason_medical_center-92c21__cd5b830e6d4fcb2f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/oria-conemaugh_nason_medical_center-92c21__cd5b830e6d4fcb2f.jsonl.gz",
     "asset_sha256": "cd5b830e6d4fcb2f42f9bae49f422be30be6297065efb6cd980c53fc86c61e2b",
-    "published_at": "2026-10-28T01:58:30Z"
+    "published_at": "2026-11-10T04:22:52Z"
   }
 }

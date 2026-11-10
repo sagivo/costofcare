@@ -5,7 +5,7 @@
   "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/760591590_southeasttexasjaspermemorial_standardcharges.json",
   "source_sha256": "74f7e5c8f5dd02984da285ca2797f44e45c99f92a161fcb2b18489d153972171",
   "download_bytes": 258623234,
-  "extracted_at": "2026-10-28T01:38:31Z",
+  "extracted_at": "2026-11-10T04:15:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-christus_southeast_texas_jasper_memorial-ddb7e__fdec7546bcfa11ff.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-christus_southeast_texas_jasper_memorial-ddb7e__fdec7546bcfa11ff.jsonl.gz",
     "asset_sha256": "fdec7546bcfa11ff3a1f0bb23dfc26cf648463b60759c568442aca3f9fb1d66c",
-    "published_at": "2026-10-28T01:57:27Z"
+    "published_at": "2026-11-10T04:22:11Z"
   }
 }

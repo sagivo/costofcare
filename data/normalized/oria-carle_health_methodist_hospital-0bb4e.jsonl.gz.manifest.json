@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11406/370661223_methodist-medical-center-of-illinois_standardcharges.csv",
   "source_sha256": "b1b5b2ccde5348d4c02484775f61868b7927528ad063590d2bedbd7ca3ea0860",
   "download_bytes": 536330424,
-  "extracted_at": "2026-10-28T01:44:05Z",
+  "extracted_at": "2026-11-10T04:19:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-carle_health_methodist_hospital-0bb4e__3010cacf52739d67.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-carle_health_methodist_hospital-0bb4e__3010cacf52739d67.jsonl.gz",
     "asset_sha256": "3010cacf52739d67861311e43e954f5625c1e0fbba572bbd0935913abe79b8b6",
-    "published_at": "2026-10-28T01:56:27Z"
+    "published_at": "2026-11-10T04:21:23Z"
   }
 }
