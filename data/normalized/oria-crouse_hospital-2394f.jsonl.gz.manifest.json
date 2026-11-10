@@ -5,7 +5,7 @@
   "source_url": "https://www.crouse.org/wp-content/uploads/2026/05/16-0960470_Crouse-Hospital_standardcharges.csv",
   "source_sha256": "6eb3a11023f37122d8f16c79c90f90acacc269c2dcde90dbc1073747741a1d01",
   "download_bytes": 14715182,
-  "extracted_at": "2026-10-28T16:55:57Z",
+  "extracted_at": "2026-11-10T18:12:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-crouse_hospital-2394f__9ffafd3327815a59.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/oria-crouse_hospital-2394f__9ffafd3327815a59.jsonl.gz",
     "asset_sha256": "9ffafd3327815a59d8f369328240869cf0c57b4a0c89186258ee79c9b8e08379",
-    "published_at": "2026-10-28T17:17:58Z"
+    "published_at": "2026-11-10T18:16:56Z"
   }
 }

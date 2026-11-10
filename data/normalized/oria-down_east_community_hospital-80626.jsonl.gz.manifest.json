@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 367,
   "source_url": "https://secure.claraprice.net/price-transparency/BEUN-1748023745659/machine-readable/010263198_down-east-community-hospital_standardcharges.json",
-  "source_sha256": "60c8d7f8dd289c288d8647c0b0ac9712ca9b6b3bb69bdcbced0210dd48a2739a",
-  "download_bytes": 19672895,
-  "extracted_at": "2026-10-28T16:56:04Z",
+  "source_sha256": "370f9be19db90fb163651a46f714e6ba8794cb00f93e8cdf1467ad810b4cb9d4",
+  "download_bytes": 11729105,
+  "extracted_at": "2026-11-10T18:12:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-32",
-    "asset_name": "oria-down_east_community_hospital-80626__3249e45e88776045.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-32/oria-down_east_community_hospital-80626__3249e45e88776045.jsonl.gz",
-    "asset_sha256": "3249e45e8877604572029934dd2a1adc0cb37f4d763242d72ecf2077bdb60239",
-    "published_at": "2026-10-28T17:19:07Z"
+    "release": "data-norm-c2",
+    "asset_name": "oria-down_east_community_hospital-80626__c20371d84e3741c8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/oria-down_east_community_hospital-80626__c20371d84e3741c8.jsonl.gz",
+    "asset_sha256": "c20371d84e3741c866c31f31ed2ade90e2b2389280145c0ca9ea10de718cd30b",
+    "published_at": "2026-11-10T18:18:13Z"
   }
 }

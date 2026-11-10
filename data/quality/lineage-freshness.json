@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T04:24:25.062776+00:00",
+  "generated_at": "2026-11-10T18:20:15.596264+00:00",
   "normalized_files": 2765,
   "parser_versions": {
     "row-preserving-1.3": 2757,
@@ -7,12 +7,12 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 1257,
-    "over_7_days": 1332,
-    "within_24h": 176
+    "1_to_7_days": 1217,
+    "over_7_days": 1280,
+    "within_24h": 268
   },
   "failed_attempt_classes": {
-    "other": 47,
+    "other": 37,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -40,11 +40,11 @@
       "summary_extracted_at": "2026-11-09T22:21:24Z"
     },
     {
-      "source_url": "https://www.lkmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/650905661_lower-keys-medical-center_standardcharges.csv",
-      "normalized_sha256": "ed0f858073b6e9b706e304a26eb3450ada056f6c389cbeddb8c34ac7482ce23f",
-      "summary_sha256": "d3aefe7bc8f7096695276c46272eb893b83aebcadcaf07b22ea9058a5725f9b9",
-      "normalized_extracted_at": "2026-10-28T16:57:48Z",
-      "summary_extracted_at": "2026-11-09T22:01:32Z"
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1992701429_saint-joseph-health-system-inc_standardcharges.csv",
+      "normalized_sha256": "d67df052cfd181f150211a8c3cba30b27d9fca20ffade1c1aa85b454cc35fcaf",
+      "summary_sha256": "c68ecc75537031765af1624e11a390c162f8016d6620ffafc1439f18a1354401",
+      "normalized_extracted_at": "2026-11-10T18:10:23Z",
+      "summary_extracted_at": "2026-11-04T18:49:46Z"
     },
     {
       "source_url": "https://www.urmc.rochester.edu/getmedia/824004d0-5956-4624-bbd7-018711440b65/160743310-ST-JAMES-HOSPITAL-standardcharges.csv",
@@ -145,13 +145,6 @@
       "summary_extracted_at": "2026-11-09T22:31:41Z"
     },
     {
-      "source_url": "https://www.deltahealthsystem.org/documents/640586958_delta-regional-medical-center_standardcharges.csv",
-      "normalized_sha256": "a602b98dea6adf81290f499383dea46c40d68a1e7509d9dd555c5aad7fe5f3a0",
-      "summary_sha256": "de75a1bf9a626f9f27e71cf1eec1ca38ccafb85621ddd98225634a507cd7e2fd",
-      "normalized_extracted_at": "2026-10-28T16:55:30Z",
-      "summary_extracted_at": "2026-11-09T22:01:27Z"
-    },
-    {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnev/celv/finance/price-transparency/941196203-1770626426_dignity-health_standardcharges.json",
       "normalized_sha256": "55ae94d93b723cfb786dacc5bd7b103cda4263862f5024d08e11ce325907656d",
       "summary_sha256": "315371c1888b51fcaff25c99e75becb5af8b8da581c15a737de3f4f8b11f5500",
@@ -201,13 +194,6 @@
       "summary_extracted_at": "2026-11-09T22:31:12Z"
     },
     {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/951643373-1235290818_community-hospital-of-san-bernardino_standardcharges.json",
-      "normalized_sha256": "2d5d842c0e10632bfe0201bec0e58a70d9135f933d3b85f07e4cf1ca7f284b07",
-      "summary_sha256": "2453c264ca9584d7edfcf6cf5376e861faec3ead05675dcae379956fa9bf19b8",
-      "normalized_extracted_at": "2026-10-28T16:57:45Z",
-      "summary_extracted_at": "2026-11-09T21:50:14Z"
-    },
-    {
       "source_url": "https://www.tennovanorthknoxville.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452535623_tennova-north-knoxville-medical-center_standardcharges.csv",
       "normalized_sha256": "7544fdd0347c63a5ac2d08c594c795813e0598abed18c3f54146cb961a4b7dc1",
       "summary_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
@@ -241,6 +227,13 @@
       "summary_sha256": "1b219eb34ef5d85c8bcb2ecce010b0b7751c06da9ddd216744c4d94c045963e2",
       "normalized_extracted_at": "2026-10-31T15:50:48Z",
       "summary_extracted_at": "2026-11-09T21:02:13Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1437150984_saint-joseph-health-system-inc-saint-joseph-hospital_standardcharges.csv",
+      "normalized_sha256": "01206b50dc40028d3227d9a1836cf458cec54826835bd932a10fbd5c09294b4f",
+      "summary_sha256": "41a55c566d150d3feb6aff452ce23c3fc8d71e841181126d620f5afd04206d56",
+      "normalized_extracted_at": "2026-11-10T18:11:25Z",
+      "summary_extracted_at": "2026-11-04T18:49:43Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/IXDF-1743091820455/machine-readable/476000999_rock-county-hospital_standardcharges.json",
@@ -299,11 +292,11 @@
       "summary_extracted_at": "2026-11-09T20:45:47Z"
     },
     {
-      "source_url": "https://www.detar.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621754940_detar-healthcare-system-north_standardcharges.csv",
-      "normalized_sha256": "7978d3358129340ac077836a929a03686f8da3240ba91b8e26d8c92da26c324b",
-      "summary_sha256": "d3b62264ddd02df2d7a30e580687ef173701958023e62afceea2d46e838e6596",
-      "normalized_extracted_at": "2026-10-28T16:59:52Z",
-      "summary_extracted_at": "2026-11-09T22:01:41Z"
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisv/soar/finance/price-transparency/710236913-1689628232_chi-st-vincent-hospital-hot-springs_standardcharges.csv",
+      "normalized_sha256": "38e444b2fcae7bdc661955e72b5f0b0d2799604928d69e77e8d416ffbe5fd177",
+      "summary_sha256": "4917e5e7067e6b8ee5ba8a5f694ad416ccfccae9c9f71737223f56e420dc2467",
+      "normalized_extracted_at": "2026-11-10T18:10:39Z",
+      "summary_extracted_at": "2026-11-05T19:10:11Z"
     },
     {
       "source_url": "https://www.mcehospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/631159023_medical-center-enterprise_standardcharges.csv",
@@ -341,18 +334,18 @@
       "summary_extracted_at": "2026-11-09T20:51:00Z"
     },
     {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1437150984_saint-joseph-health-system-inc-saint-joseph-jessamine_standardcharges.csv",
+      "normalized_sha256": "5b82da606a921f435d4dd35d8bb1e34f3c027ca7846a8c311d6f8c69f31d65bf",
+      "summary_sha256": "5d1019bbf2ca9e8d028c2b79b228b51365941983b87b4c8dd817b843f8692974",
+      "normalized_extracted_at": "2026-11-10T18:10:45Z",
+      "summary_extracted_at": "2026-11-04T18:49:45Z"
+    },
+    {
       "source_url": "https://www.merithealthcentral.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640907122_merit-health-central_standardcharges.csv",
       "normalized_sha256": "5fcaa26908ff57b9b6013e8be7b01c0d101ee652726d885d580de99c34a6d978",
       "summary_sha256": "d8c6464336d2c3b62032a1a3c6f8bab5de5fa45c163aebdc27e1f975e7bbb769",
       "normalized_extracted_at": "2026-10-31T16:02:22Z",
       "summary_extracted_at": "2026-11-09T20:45:10Z"
-    },
-    {
-      "source_url": "https://secure.claraprice.net/price-transparency/BEUN-1748023745659/machine-readable/010263198_down-east-community-hospital_standardcharges.json",
-      "normalized_sha256": "60c8d7f8dd289c288d8647c0b0ac9712ca9b6b3bb69bdcbced0210dd48a2739a",
-      "summary_sha256": "370f9be19db90fb163651a46f714e6ba8794cb00f93e8cdf1467ad810b4cb9d4",
-      "normalized_extracted_at": "2026-10-28T16:56:04Z",
-      "summary_extracted_at": "2026-11-09T22:02:11Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnev/celv/finance/price-transparency/941196203-1447393152_dignity-health_standardcharges.json",
@@ -404,6 +397,13 @@
       "summary_extracted_at": "2026-11-09T22:07:31Z"
     },
     {
+      "source_url": "https://csdam.widen.net/content/ltomberpry/original/840460697-1366465866_longmont-united-hospital_standardcharges.csv",
+      "normalized_sha256": "e30acb02ed5e1fc4f016d5e467365c57be192539e4399b86ba928f7d1199e3c4",
+      "summary_sha256": "5ff8ea700d01d6ac72ca88933d355830f659404b47918951336b05cb8f6ff1f4",
+      "normalized_extracted_at": "2026-11-10T18:12:18Z",
+      "summary_extracted_at": "2026-11-08T17:27:14Z"
+    },
+    {
       "source_url": "https://www.merithealthnatchez.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640833457_merit-health-natchez_standardcharges.csv",
       "normalized_sha256": "a79c2bd004dadc3928053d2215097b9cefa22a9d1e46a2c0a9402905c6de99b0",
       "summary_sha256": "73134f670bb4e020a4147ea1bd9ef464d4b2e61dad947d39c11cc7ac59f1cbf5",
@@ -446,13 +446,6 @@
       "summary_extracted_at": "2026-11-09T21:36:38Z"
     },
     {
-      "source_url": "https://secure.claraprice.net/price-transparency/IXIY-1769634466888/machine-readable/201282261_coosa-valley-medical-center_standardcharges.json",
-      "normalized_sha256": "7a9dbe7dd559c88b029d7b09af4ff3ef99d7f31cb65a194e199a807ef1586767",
-      "summary_sha256": "3eded48248b33a0fa322627ed85c1b5d113275a1cc26041f0f0427aad13a009b",
-      "normalized_extracted_at": "2026-10-28T16:56:28Z",
-      "summary_extracted_at": "2026-11-09T21:50:46Z"
-    },
-    {
       "source_url": "https://www.laredomedical.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/200175530_laredo-medical-center_standardcharges.csv",
       "normalized_sha256": "14f1166134bf2e4b2e436d63543b5a2c714a59cfeaf00f970bcaf0a6de4d3dcd",
       "summary_sha256": "25e1d36d3a96fddd021d44ac04eeae187e1228ded2c5e64e764858c18cea31f9",
@@ -488,11 +481,11 @@
       "summary_extracted_at": "2026-11-09T22:33:47Z"
     },
     {
-      "source_url": "https://secure.claraprice.net/price-transparency/HRHW-1731105964107/machine-readable/273815440_crescent-regional-hospital_standardcharges.json",
-      "normalized_sha256": "7d83a300d9160bba16c2e587a6ead537e3fb1bbcd87aa65a63270cb43c2cdca9",
-      "summary_sha256": "246a3e87e54fef31de0590b8b1abc43346be6461b64ca4b28fec0d3570b6b87a",
-      "normalized_extracted_at": "2026-10-28T16:56:40Z",
-      "summary_extracted_at": "2026-11-09T22:00:03Z"
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611345363-1871588772_flaget-healthcare-inc_standardcharges.csv",
+      "normalized_sha256": "0f9fc221b8edd561c97d40f122ef91c40fe4a89c9d4c7ac480f0f726ca4f0a1a",
+      "summary_sha256": "7b2d1939aa69a7a373fecad62240b5a1c8a16d48699255c2cff04fce15a3a436",
+      "normalized_extracted_at": "2026-11-10T18:11:27Z",
+      "summary_extracted_at": "2026-11-04T18:49:38Z"
     },
     {
       "source_url": "https://www.tennovajefferson.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528414_tennova-jefferson-memorial-hospital_standardcharges.csv",
@@ -530,11 +523,11 @@
       "summary_extracted_at": "2026-11-09T21:04:34Z"
     },
     {
-      "source_url": "https://www.eastgeorgiaregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/582190713_east-georgia-regional-medical-center_standardcharges.csv",
-      "normalized_sha256": "de8f48b56d5b5d033c39c4bab007206f44445bc8cd267ba8bae972908bdc4257",
-      "summary_sha256": "eb497e25c8b3ade22156664aad45abc698848421a88c2e6e517960ba4e469413",
-      "normalized_extracted_at": "2026-10-28T16:58:40Z",
-      "summary_extracted_at": "2026-11-09T22:02:39Z"
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1447457775_saint-joseph-health-system-inc_standardcharges.csv",
+      "normalized_sha256": "14a15ac0837e9863f6061bac72b8dcc856dfa5bc8bcdd0944fed54b5280da3e1",
+      "summary_sha256": "75bf2282191aaa166da58e14070842086c05b3bfc919acecce2aa44a05f2e2cc",
+      "normalized_extracted_at": "2026-11-10T18:11:20Z",
+      "summary_extracted_at": "2026-11-04T18:49:43Z"
     },
     {
       "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/470484764-1396969499_alegent-health-bergan-mercy-health-system_standardcharges.json",
@@ -621,18 +614,18 @@
       "summary_extracted_at": "2026-11-09T22:28:04Z"
     },
     {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhbay/cacc/finance/price-transparency/941196203-1427181007_dignity-health_standardcharges.json",
-      "normalized_sha256": "82b09ee844dd625b6b785044e5e6e5a3f1d3d5a781bf458899b901c42c265ca1",
-      "summary_sha256": "ea7995bcecf75f695d7c2fcccd5856277bf4d6a66cb8dbe2be693cb2ce90d721",
-      "normalized_extracted_at": "2026-10-28T16:56:56Z",
-      "summary_extracted_at": "2026-11-09T22:02:07Z"
-    },
-    {
       "source_url": "https://secure.claraprice.net/price-transparency/NUH2773072790/machine-readable/463085950_glen-rose-medical-center_standardcharges.json",
       "normalized_sha256": "65bf5fbf9ba0f25d897ca192fd8140040b20dbd453f459f8ae73638af4339ab4",
       "summary_sha256": "cc1780c45a1442fbcf15065fca209de9ee94c39c91a025dc17c6e0ae36c705f4",
       "normalized_extracted_at": "2026-10-29T01:57:17Z",
       "summary_extracted_at": "2026-11-09T22:33:12Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1679679146_saint-joseph-health-system-inc_standardcharges.csv",
+      "normalized_sha256": "f669aeddeea0edacfd7a9e8feb62981c7ff984cac524fa2d1f9fb3367abfd0c1",
+      "summary_sha256": "886a3c4a06fc42690000d823288cb039880189fb61876c8af9075c5c9a0ddbb1",
+      "normalized_extracted_at": "2026-11-10T18:10:48Z",
+      "summary_extracted_at": "2026-11-04T18:49:47Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/5f7492531a/machine-readable/841465990_arkansas-valley-regional-medical-center_standardcharges.json",
@@ -682,6 +675,13 @@
       "summary_sha256": "0e612b166001c9fbf1265592f622fdd44f49cf38f93fe496a6e0ffc998f96372",
       "normalized_extracted_at": "2026-10-31T16:03:23Z",
       "summary_extracted_at": "2026-11-09T22:26:48Z"
+    },
+    {
+      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1740488386_saint-joseph-health-system-inc_standardcharges.csv",
+      "normalized_sha256": "47e77a89804e3cc16b0ae0d5fdc17919d357bedea226efa6d2700e817108ff80",
+      "summary_sha256": "55edb698ee825909b71e3aab951b03048239a671d5907c965b1ad0f0c36e890f",
+      "normalized_extracted_at": "2026-11-10T18:11:29Z",
+      "summary_extracted_at": "2026-11-04T18:49:40Z"
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-beaver_standardcharges-April-2026.csv",

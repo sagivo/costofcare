@@ -5,7 +5,7 @@
   "source_url": "https://www.dalemedical.org/docs/636001875_dale-medical-center_standardcharges.csv",
   "source_sha256": "41ecd64da0dba9e8ffb1874d64686076990af7c315de025626870373f1a8ce88",
   "download_bytes": 38789023,
-  "extracted_at": "2026-10-28T16:56:45Z",
+  "extracted_at": "2026-11-10T18:13:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-dale_medical_center-cecbf__64bb03194bad67c6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-dale_medical_center-cecbf__64bb03194bad67c6.jsonl.gz",
     "asset_sha256": "64bb03194bad67c6345d72dda05a84bd31a87baafac1702878953ac6f845c9a7",
-    "published_at": "2026-10-28T17:18:07Z"
+    "published_at": "2026-11-10T18:17:10Z"
   }
 }

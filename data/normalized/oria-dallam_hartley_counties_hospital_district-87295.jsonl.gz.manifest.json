@@ -5,7 +5,7 @@
   "source_url": "https://dhchd.slicedhealth.io/pricer/751702162_dallam-hartley-counties-hospital-district_standardcharges.csv",
   "source_sha256": "113a1a59d0e75ce006084a4744296941e0e1e6ba9e9e795a112e5b95dca861b8",
   "download_bytes": 6902433,
-  "extracted_at": "2026-10-28T01:47:13Z",
+  "extracted_at": "2026-11-10T18:12:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-dallam_hartley_counties_hospital_district-87295__c1842bcbb7b15e78.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c1/oria-dallam_hartley_counties_hospital_district-87295__c1842bcbb7b15e78.jsonl.gz",
     "asset_sha256": "c1842bcbb7b15e7844868c01bb631c89d05a284f2b619b1478cdf30d495fb13c",
-    "published_at": "2026-10-28T01:58:52Z"
+    "published_at": "2026-11-10T18:17:13Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.uvmhealth.org/sites/default/files/141364513_elizabethtown-community-hospital_standardcharges.csv",
   "source_sha256": "a27e9069b0c4a35decdf23d0e84818bbe0692ae56573c3d75f82be479935e82e",
   "download_bytes": 36960123,
-  "extracted_at": "2026-10-28T16:56:35Z",
+  "extracted_at": "2026-11-10T18:13:23Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-elizabethtown_community_hospital-af282__05c9f8cea7c7a8b5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-elizabethtown_community_hospital-af282__05c9f8cea7c7a8b5.jsonl.gz",
     "asset_sha256": "05c9f8cea7c7a8b55f150e689eb4945f95772685bc8c27868b7803bb0a967129",
-    "published_at": "2026-10-28T17:19:33Z"
+    "published_at": "2026-11-10T18:18:39Z"
   }
 }

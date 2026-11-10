@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-11-10T04:24:25.040970+00:00",
-  "records_scanned": 304738,
-  "flag_counts": {},
-  "review_examples": [],
+  "generated_at": "2026-11-10T18:20:15.556669+00:00",
+  "records_scanned": 260183,
+  "flag_counts": {
+    "large_published_amount_review": 1
+  },
+  "review_examples": [
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-crescent_regional_hospital-b540f",
+      "source_record_ordinal": 325,
+      "source_sha256": "246a3e87e54fef31de0590b8b1abc43346be6461b64ca4b28fec0d3570b6b87a",
+      "field": "standard_charge_dollar",
+      "raw_value": 1796817
+    }
+  ],
   "populated_qualifier_counts": {
-    "setting": 305883,
-    "billing_class": 291946,
-    "json_source_records": 12226,
-    "payer_name": 285538,
-    "plan_name": 285538,
-    "modifiers": 10761,
-    "json_payer_name": 328283,
-    "json_plan_name": 328283,
-    "json_methodology": 328283
+    "setting": 260581,
+    "payer_name": 237537,
+    "plan_name": 237537,
+    "json_payer_name": 96698,
+    "json_plan_name": 96698,
+    "json_methodology": 96698,
+    "json_source_records": 8160,
+    "billing_class": 96705,
+    "modifiers": 28902
   },
   "coverage_note": {
-    "local_blob_files": 82,
-    "remote_only_files": 2683,
+    "local_blob_files": 92,
+    "remote_only_files": 2673,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

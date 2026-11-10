@@ -5,7 +5,7 @@
   "source_url": "https://bhs-publicdownload.s3.us-east-1.amazonaws.com/Public/042133860_Fairview-Hospital_StandardCharges.csv",
   "source_sha256": "735c8d95c5bbae360fff210651c5d642098f2f4930e7828a1e96c204e55bebae",
   "download_bytes": 76081268,
-  "extracted_at": "2026-10-28T16:57:14Z",
+  "extracted_at": "2026-11-10T18:14:03Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-east_mountain_medical-d8bbc__9b8050546abe859a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/oria-east_mountain_medical-d8bbc__9b8050546abe859a.jsonl.gz",
     "asset_sha256": "9b8050546abe859a44e8662d0632bd5579e90983e7d7e0ccbc7273697b02435d",
-    "published_at": "2026-10-28T17:19:26Z"
+    "published_at": "2026-11-10T18:18:32Z"
   }
 }

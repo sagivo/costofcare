@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/840826336_east-morgan-county-hospital_standardcharges.csv",
   "source_sha256": "60b74b0a4f12039bfecd81cf25c8cae0e57df4a4c086041ef663dcd86989cea5",
   "download_bytes": 55082150,
-  "extracted_at": "2026-10-28T16:56:54Z",
+  "extracted_at": "2026-11-10T18:13:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-east_morgan_county_hospital-473c7__44c4e67b5685b7e5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-44/oria-east_morgan_county_hospital-473c7__44c4e67b5685b7e5.jsonl.gz",
     "asset_sha256": "44c4e67b5685b7e5ab771da5a68cb7287bc496bb67a6d28a3dc409560ba06737",
-    "published_at": "2026-10-28T17:19:24Z"
+    "published_at": "2026-11-10T18:18:29Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://dallascountymedicalcenter.pg.quadax.revenuemasters.com/cdm-files/270029542_dallas-county-medical-center_standardcharges.csv",
   "source_sha256": "5a83c161ee5fb6de918864e677ef78f362ac043b5f881d350296187387849fa8",
   "download_bytes": 8581890,
-  "extracted_at": "2026-10-28T01:47:16Z",
+  "extracted_at": "2026-11-10T18:12:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-dallas_county_medical_center-e7b56__08b96b3db29c5ad4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/oria-dallas_county_medical_center-e7b56__08b96b3db29c5ad4.jsonl.gz",
     "asset_sha256": "08b96b3db29c5ad44f80e1d57dabf3c7483e3c061272fff780076d239edd50e2",
-    "published_at": "2026-10-28T01:58:54Z"
+    "published_at": "2026-11-10T18:17:17Z"
   }
 }

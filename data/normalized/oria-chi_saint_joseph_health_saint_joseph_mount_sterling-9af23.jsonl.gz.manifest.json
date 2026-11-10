@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 330,
-  "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1679679146_saint-joseph-health-system-inc_standardcharges.json",
-  "source_sha256": "886a3c4a06fc42690000d823288cb039880189fb61876c8af9075c5c9a0ddbb1",
-  "download_bytes": 48462447,
-  "extracted_at": "2026-10-27T16:01:10Z",
+  "records": 5514,
+  "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1679679146_saint-joseph-health-system-inc_standardcharges.csv",
+  "source_sha256": "f669aeddeea0edacfd7a9e8feb62981c7ff984cac524fa2d1f9fb3367abfd0c1",
+  "download_bytes": 93974195,
+  "extracted_at": "2026-11-10T18:10:48Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-9f",
-    "asset_name": "oria-chi_saint_joseph_health_saint_joseph_mount_sterling-9af23__9f6be2e124048698.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/oria-chi_saint_joseph_health_saint_joseph_mount_sterling-9af23__9f6be2e124048698.jsonl.gz",
-    "asset_sha256": "9f6be2e124048698468c6c12334bcc31b732323645b15ba8e6c7383d4264ccda",
-    "published_at": "2026-10-27T16:17:19Z"
+    "release": "data-norm-fa",
+    "asset_name": "oria-chi_saint_joseph_health_saint_joseph_mount_sterling-9af23__fa8f285161f6f7a9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/oria-chi_saint_joseph_health_saint_joseph_mount_sterling-9af23__fa8f285161f6f7a9.jsonl.gz",
+    "asset_sha256": "fa8f285161f6f7a9e7c553062761a3cdda1e58f6889bc1bbe34ee122cd66d725",
+    "published_at": "2026-11-10T18:15:52Z"
   }
 }

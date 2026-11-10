@@ -5,7 +5,7 @@
   "source_url": "https://www.endeavorhealth.org/362179813_1831151257_swedish-covenant-health_standardcharges.json",
   "source_sha256": "12951043ee3342c5c42c73498afa1a3e466792f2cf738461b38ca843a8e34595",
   "download_bytes": 32192885,
-  "extracted_at": "2026-10-28T16:56:24Z",
+  "extracted_at": "2026-11-10T18:13:15Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-endeavor_health_swedish_hospital-98482__b103052cc7cbbd14.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/oria-endeavor_health_swedish_hospital-98482__b103052cc7cbbd14.jsonl.gz",
     "asset_sha256": "b103052cc7cbbd14532edf71fe0a731a0ae71654fc0c8a1e86251e1e101961ac",
-    "published_at": "2026-10-28T17:19:52Z"
+    "published_at": "2026-11-10T18:19:04Z"
   }
 }

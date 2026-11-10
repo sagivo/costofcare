@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/ellenville/134111638_ellenville-regional-hospital_standardcharges.csv",
   "source_sha256": "8dd3aababcba9904982ea3a2b5b92f4043224639f88218a94bd518c224517b68",
   "download_bytes": 23335680,
-  "extracted_at": "2026-10-28T16:56:19Z",
+  "extracted_at": "2026-11-10T18:13:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ellenville_regional_hospital-96a8f__54b10996b1e7fc5f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-54/oria-ellenville_regional_hospital-96a8f__54b10996b1e7fc5f.jsonl.gz",
     "asset_sha256": "54b10996b1e7fc5f3d4e5f44f23d4c4c0b622e0492d1932e59b76d68cf55dadf",
-    "published_at": "2026-10-28T17:19:35Z"
+    "published_at": "2026-11-10T18:18:44Z"
   }
 }

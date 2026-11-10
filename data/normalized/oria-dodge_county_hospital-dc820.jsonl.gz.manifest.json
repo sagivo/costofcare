@@ -5,7 +5,7 @@
   "source_url": "https://dodgecountyhospital.slicedhealth.io/pricer/580625140_dodge-county-hospital-authority_standardcharges.csv",
   "source_sha256": "fab529b7668c94028359cbd778475831a0e279ecb623591342d3a000e3aec74b",
   "download_bytes": 27696367,
-  "extracted_at": "2026-10-28T16:56:21Z",
+  "extracted_at": "2026-11-10T18:13:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-dodge_county_hospital-dc820__34d706e94456178f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-34/oria-dodge_county_hospital-dc820__34d706e94456178f.jsonl.gz",
     "asset_sha256": "34d706e94456178fef790a5c9e7b26c46c974f83a98b29342513f9dae03e7d34",
-    "published_at": "2026-10-28T17:18:59Z"
+    "published_at": "2026-11-10T18:18:02Z"
   }
 }
