@@ -5,7 +5,7 @@
   "source_url": "https://cdn.coxhealth.com/documents/440577118_lester-e-cox-medical-centers_standardcharges.csv",
   "source_sha256": "aa83f6da372784a28b49b75e7ef5957a0cbd61f25198a4f1bee85887434073cc",
   "download_bytes": 508568997,
-  "extracted_at": "2026-10-28T17:04:59Z",
+  "extracted_at": "2026-11-11T02:05:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-cox_medical_center_north-5f28c__5970339fe8563658.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-59/oria-cox_medical_center_north-5f28c__5970339fe8563658.jsonl.gz",
     "asset_sha256": "5970339fe856365800488a9e5806c38605972de3eeb98c6ae1973c561a3ea0cf",
-    "published_at": "2026-10-28T17:17:44Z"
+    "published_at": "2026-11-11T02:08:15Z"
   }
 }

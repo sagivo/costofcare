@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12701/470529089_fillmore-county-hospital_standardcharges.csv",
   "source_sha256": "f9ee05ffb280f2ecbd864bcb7c5448f11b79c1a545ea6f86438a46d398b0e752",
   "download_bytes": 47226178,
-  "extracted_at": "2026-10-29T01:57:38Z",
+  "extracted_at": "2026-11-11T02:06:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-fillmore_county_hospital-a593e__39f96edcbdf86c0b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-fillmore_county_hospital-a593e__39f96edcbdf86c0b.jsonl.gz",
     "asset_sha256": "39f96edcbdf86c0be7101673cafa37bd8176177ef205dfd9a04e9fea517e6649",
-    "published_at": "2026-10-29T02:15:56Z"
+    "published_at": "2026-11-11T02:09:06Z"
   }
 }

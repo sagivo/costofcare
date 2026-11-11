@@ -5,7 +5,7 @@
   "source_url": "https://cdn.coxhealth.com/documents/431656689_cox-monett-hospital-inc_standardcharges.csv",
   "source_sha256": "820221d3c11c24ab7c08621546470c2b278b544b2f7ca3ff5e5c7a556bed6b50",
   "download_bytes": 295919349,
-  "extracted_at": "2026-10-28T17:02:17Z",
+  "extracted_at": "2026-11-11T02:04:00Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-cox_monett_hospital-744c0__c8983e040a5184f5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c8/oria-cox_monett_hospital-744c0__c8983e040a5184f5.jsonl.gz",
     "asset_sha256": "c8983e040a5184f56b8be7f35276e8edd2ae4dc79cc4c412918444aaba32e146",
-    "published_at": "2026-10-28T17:17:46Z"
+    "published_at": "2026-11-11T02:08:17Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://cdn.coxhealth.com/documents/440584290_skaggs-community-hospital-association_standardcharges.csv",
   "source_sha256": "9f9587b4940845175987299b13a3d675d64521bc4d22163ba619741ea276b942",
   "download_bytes": 450117152,
-  "extracted_at": "2026-10-28T17:04:52Z",
+  "extracted_at": "2026-11-11T02:05:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-cox_medical_center_branson-1bf4b__7ed8cba3d7497e11.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7e/oria-cox_medical_center_branson-1bf4b__7ed8cba3d7497e11.jsonl.gz",
     "asset_sha256": "7ed8cba3d7497e11e90d47bca048678f03111317df91d98f3010a59f66da4269",
-    "published_at": "2026-10-28T17:17:42Z"
+    "published_at": "2026-11-11T02:08:13Z"
   }
 }

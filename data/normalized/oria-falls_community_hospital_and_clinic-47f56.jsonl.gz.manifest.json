@@ -5,7 +5,7 @@
   "source_url": "https://fallshospital.slicedhealth.io/pricer/741471231_falls-community-hospital-and-clinic_standardcharges.csv",
   "source_sha256": "bed11a49f1ad32d9b112094ea649d87e8ef45c9f5642af028f70cb827b7d62ff",
   "download_bytes": 3400456,
-  "extracted_at": "2026-10-28T17:05:56Z",
+  "extracted_at": "2026-11-11T02:05:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-falls_community_hospital_and_clinic-47f56__855194e87856ae1b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-falls_community_hospital_and_clinic-47f56__855194e87856ae1b.jsonl.gz",
     "asset_sha256": "855194e87856ae1b05cf4e8db88017313eddf3820025813f9f5a4d70d38f1460",
-    "published_at": "2026-10-28T17:20:06Z"
+    "published_at": "2026-11-11T02:08:57Z"
   }
 }

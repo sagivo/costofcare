@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/gifford-medical-center/030179418_gifford-medical-center_standardcharges.csv",
   "source_sha256": "feba51856c8917bb35735b5719969af7c7ff3ee65151458bce8b0e40519f8493",
   "download_bytes": 48539794,
-  "extracted_at": "2026-10-29T01:58:04Z",
+  "extracted_at": "2026-11-11T02:07:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-gifford_medical_center-7209d__2fba1088de8e2b72.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2f/oria-gifford_medical_center-7209d__2fba1088de8e2b72.jsonl.gz",
     "asset_sha256": "2fba1088de8e2b72986bfffa29124baf18743c0562fc49a02eb13402189ef4e9",
-    "published_at": "2026-10-29T02:17:17Z"
+    "published_at": "2026-11-11T02:09:36Z"
   }
 }

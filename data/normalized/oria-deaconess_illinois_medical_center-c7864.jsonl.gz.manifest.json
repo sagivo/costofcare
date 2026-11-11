@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10475/810693478_deaconess-regional-healthcare-services-illinois-inc_standardcharges.csv",
   "source_sha256": "783e81a02c8df3200dd70bc519a3761f172e5017224813adc5b48f07f524807e",
   "download_bytes": 337257000,
-  "extracted_at": "2026-10-28T17:03:47Z",
+  "extracted_at": "2026-11-11T02:05:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-deaconess_illinois_medical_center-c7864__39bc635a4ef17f88.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-deaconess_illinois_medical_center-c7864__39bc635a4ef17f88.jsonl.gz",
     "asset_sha256": "39bc635a4ef17f88ace515f37ac5a5324796875180586b5e7dff112d69c36667",
-    "published_at": "2026-10-28T17:18:20Z"
+    "published_at": "2026-11-11T02:08:25Z"
   }
 }

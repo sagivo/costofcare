@@ -5,7 +5,7 @@
   "source_url": "https://freestonemc.slicedhealth.io/pricer/741774669_fairfield-hospital-district_standardcharges.csv",
   "source_sha256": "0cc6665dcaae38d77dd89936a4334871783a4c8018047cb509785423f08fe150",
   "download_bytes": 3186015,
-  "extracted_at": "2026-10-28T17:05:56Z",
+  "extracted_at": "2026-11-11T02:05:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-fairfield_hospital_district-abe58__463a4da7a4426852.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-46/oria-fairfield_hospital_district-abe58__463a4da7a4426852.jsonl.gz",
     "asset_sha256": "463a4da7a442685204dde5e168918b81710e8359b09e0a6429ed5aa64e0fa07e",
-    "published_at": "2026-10-28T17:20:04Z"
+    "published_at": "2026-11-11T02:08:56Z"
   }
 }

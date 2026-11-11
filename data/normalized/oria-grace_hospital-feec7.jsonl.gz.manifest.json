@@ -5,7 +5,7 @@
   "source_url": "https://www.gracehospital.org/pdfs/34-0714479_grace-hospital_standardcharges.csv",
   "source_sha256": "70db1cebe9e4f635953a1785d37a38283f950c8b58db30228f86bd656a67f023",
   "download_bytes": 3487420,
-  "extracted_at": "2026-10-28T17:05:58Z",
+  "extracted_at": "2026-11-11T02:05:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-grace_hospital-feec7__70353553995942a7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-grace_hospital-feec7__70353553995942a7.jsonl.gz",
     "asset_sha256": "70353553995942a798fa7bc9f8980111fa029cfdac874c85f3385cad5e9c1f84",
-    "published_at": "2026-10-28T17:20:37Z"
+    "published_at": "2026-11-11T02:09:53Z"
   }
 }

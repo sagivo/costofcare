@@ -5,7 +5,7 @@
   "source_url": "https://www.gprmc-ok.com/730579295_great-plains-regional-medical_standardcharges.csv",
   "source_sha256": "6e3fbed25069c88202397697a40150d5076da37788346375ca58b345bebae9c7",
   "download_bytes": 191584,
-  "extracted_at": "2026-10-28T17:05:34Z",
+  "extracted_at": "2026-11-11T02:05:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-great_plains_regional_medical_center-807f3__71c22b010e2eed18.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-great_plains_regional_medical_center-807f3__71c22b010e2eed18.jsonl.gz",
     "asset_sha256": "71c22b010e2eed1884fd26308cb693fdb045fc96fc1eeb0d37f754db6971a4f2",
-    "published_at": "2026-10-28T17:20:40Z"
+    "published_at": "2026-11-11T02:10:03Z"
   }
 }

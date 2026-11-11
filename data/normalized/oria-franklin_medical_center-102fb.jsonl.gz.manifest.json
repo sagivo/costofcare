@@ -5,7 +5,7 @@
   "source_url": "https://franklinmedicalcenter.pg.quadax.revenuemasters.com/cdm-files/720685244_franklin-medical-center_standardcharges.csv",
   "source_sha256": "1d016eb5a300e5841f093531c647948df36eb0f747a35d308324a1733cdd3089",
   "download_bytes": 17374498,
-  "extracted_at": "2026-10-29T01:57:05Z",
+  "extracted_at": "2026-11-11T02:06:42Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-franklin_medical_center-102fb__d006abd3ab3b5234.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/oria-franklin_medical_center-102fb__d006abd3ab3b5234.jsonl.gz",
     "asset_sha256": "d006abd3ab3b523463c583f7436089b3b6c78473d89edcfe20a48b1e64308697",
-    "published_at": "2026-10-29T02:16:32Z"
+    "published_at": "2026-11-11T02:09:20Z"
   }
 }

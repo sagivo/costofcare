@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 151,
   "source_url": "https://secure.claraprice.net/price-transparency/NUH2773072790/machine-readable/463085950_glen-rose-medical-center_standardcharges.json",
-  "source_sha256": "65bf5fbf9ba0f25d897ca192fd8140040b20dbd453f459f8ae73638af4339ab4",
-  "download_bytes": 29481017,
-  "extracted_at": "2026-10-29T01:57:17Z",
+  "source_sha256": "cc1780c45a1442fbcf15065fca209de9ee94c39c91a025dc17c6e0ae36c705f4",
+  "download_bytes": 19705665,
+  "extracted_at": "2026-11-11T02:06:46Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-e7",
-    "asset_name": "oria-glen_rose_medical_center-bd514__e77485f36b732984.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/oria-glen_rose_medical_center-bd514__e77485f36b732984.jsonl.gz",
-    "asset_sha256": "e77485f36b7329840a338729f93511c7f84f4101ec41c10a5fab1301dd46a77c",
-    "published_at": "2026-10-29T02:17:22Z"
+    "release": "data-norm-a4",
+    "asset_name": "oria-glen_rose_medical_center-bd514__a47b727bf8936bd7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a4/oria-glen_rose_medical_center-bd514__a47b727bf8936bd7.jsonl.gz",
+    "asset_sha256": "a47b727bf8936bd7640a7364ae167a7d73b13616523caf1265a664514be2f110",
+    "published_at": "2026-11-11T02:09:38Z"
   }
 }

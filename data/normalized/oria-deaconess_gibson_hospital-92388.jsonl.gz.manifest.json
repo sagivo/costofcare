@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8110/350877575_deaconess-health-system-gibson-general-hospital_standardcharges.csv",
   "source_sha256": "de9fff6b836e98d7ec6ce3f76f852b37f5bca69d18b829bf460a267ce1fd96c3",
   "download_bytes": 329241394,
-  "extracted_at": "2026-10-28T17:03:30Z",
+  "extracted_at": "2026-11-11T02:04:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-deaconess_gibson_hospital-92388__79fe2fe92df332f7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/oria-deaconess_gibson_hospital-92388__79fe2fe92df332f7.jsonl.gz",
     "asset_sha256": "79fe2fe92df332f7a6bf326fba860c29c24b8305e37213c98236f833ad88a227",
-    "published_at": "2026-10-28T17:18:16Z"
+    "published_at": "2026-11-11T02:08:22Z"
   }
 }

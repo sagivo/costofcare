@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10477/884142509_deaconess-illinois-red-bud-regional-hospital-inc_standardcharges.csv",
   "source_sha256": "92f5c0e96313b6c8e099f612177607ef5f6f02641e56734084302823b70e6639",
   "download_bytes": 253457396,
-  "extracted_at": "2026-10-28T17:02:19Z",
+  "extracted_at": "2026-11-11T02:04:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-deaconess_illinois_red_bud_regional_hospital_inc-d31c3__43280b5aa5625f00.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-deaconess_illinois_red_bud_regional_hospital_inc-d31c3__43280b5aa5625f00.jsonl.gz",
     "asset_sha256": "43280b5aa5625f002efff5efd6c8fd4d2074176f64a85a22ae854889a2a03787",
-    "published_at": "2026-10-28T17:18:23Z"
+    "published_at": "2026-11-11T02:08:28Z"
   }
 }
