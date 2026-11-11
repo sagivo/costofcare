@@ -5,7 +5,7 @@
   "source_url": "https://www.fcmcpa.org/docs/231401561_fulton-county-medical-center_standardcharges.csv",
   "source_sha256": "fb07dd5b13ac9b4b3656d81960abb385376cd0776c293473eeface90d979d19d",
   "download_bytes": 28796482,
-  "extracted_at": "2026-10-29T01:57:23Z",
+  "extracted_at": "2026-11-11T18:01:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-fulton_county_medical_center-3c7a3__16cca1cac41d9562.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/oria-fulton_county_medical_center-3c7a3__16cca1cac41d9562.jsonl.gz",
     "asset_sha256": "16cca1cac41d95620a3d90e594b529bb5eae202a39b9df4a6077f7b9f3f382cd",
-    "published_at": "2026-10-29T02:16:47Z"
+    "published_at": "2026-11-11T18:12:33Z"
   }
 }

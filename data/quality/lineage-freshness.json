@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:11:13.556644+00:00",
+  "generated_at": "2026-11-11T18:15:33.915549+00:00",
   "normalized_files": 2766,
   "parser_versions": {
     "row-preserving-1.3": 2758,
@@ -7,25 +7,17 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1256,
-    "1_to_7_days": 1245,
-    "within_24h": 265
+    "over_7_days": 1259,
+    "within_24h": 183,
+    "1_to_7_days": 1324
   },
   "failed_attempt_classes": {
     "other": 37,
     "strict_encoding": 6,
-    "timeout": 2,
     "http_429": 1
   },
   "summary_hash_missing_count": 1,
   "summary_normalized_hash_differences": [
-    {
-      "source_url": "https://www.gadsdenregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/631102774_gadsden-regional-medical-center_standardcharges.csv",
-      "normalized_sha256": "2deeea276770aec3d7bd2a835277a444930f6d6659094263cf13c81edba24bac",
-      "summary_sha256": "b61b95d29fcfb5960486d8fb39f0c7728e6796fa131c6049a10039c13ca8c011",
-      "normalized_extracted_at": "2026-10-29T01:59:36Z",
-      "summary_extracted_at": "2026-11-10T19:40:21Z"
-    },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/VQPK-1746646727450/machine-readable/756001193_ward-memorial-hospital_standardcharges.json",
       "normalized_sha256": "ed44e6af29aea9d3e655cb363b708d93a93042c3afab8cc8240840c6f9ae2180",
@@ -123,13 +115,6 @@
       "summary_sha256": "744adb36e5d978616e806a38b904f615eadfee20fb39103fa2e29d50f4f23c02",
       "normalized_extracted_at": "2026-11-02T20:42:56Z",
       "summary_extracted_at": "2026-11-10T19:23:09Z"
-    },
-    {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhsoc/casc/finance/price-transparency/815009488-1477610640_dignity-community-care_standardcharges.json",
-      "normalized_sha256": "c88265f3a5fddb97fbf43f8d941e40a15ed1bd4e31f8f2c7013f0a90764fe664",
-      "summary_sha256": "cb76ae2ac8bd48c1eeceb7d7982265fdabfe47336d3ddc1be150bacf4e6cadda",
-      "normalized_extracted_at": "2026-10-29T01:59:04Z",
-      "summary_extracted_at": "2026-11-10T19:45:23Z"
     },
     {
       "source_url": "https://csdam.widen.net/content/dhzssnfvo0/original/840405257-1932112125_catholic-health-initiatives-colorado-st-francis-medical-center_standardcharges.csv",
@@ -566,25 +551,11 @@
       "summary_extracted_at": "2026-11-10T19:44:44Z"
     },
     {
-      "source_url": "https://www.flowershospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762412_flowers-hospital_standardcharges.csv",
-      "normalized_sha256": "f5d9696a579fcccfec7c8a8861b04ee8ecda63d907d4709eee3af4bccb17dfff",
-      "summary_sha256": "dbf672fd23f51177f110cbf606563943963df802ca3e905cfeb526d461099ec9",
-      "normalized_extracted_at": "2026-10-29T02:00:35Z",
-      "summary_extracted_at": "2026-11-10T19:38:48Z"
-    },
-    {
       "source_url": "https://www.southeasthealth.org/wp-content/uploads/636004476_Southeast-Health-Medical-Center-_standardcharges.csv",
       "normalized_sha256": "b0dba188567b74e05b2e66c013756268baa00eb4e1089dcd194fc8c26721b68b",
       "summary_sha256": "fc4d16bceb8ad3cac696ecd06b35980f8146670ae2e3fb1e5d864a1851f5b3b6",
       "normalized_extracted_at": "2026-11-02T20:30:31Z",
       "summary_extracted_at": "2026-11-10T19:04:41Z"
-    },
-    {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcco/cacc/finance/price-transparency/815009488-1881760452_dignity-community-care_standardcharges.json?target=%22_blank%22",
-      "normalized_sha256": "d7a2fde7d1b87cf574875e354c40280b87c824402a7235f54b7db6c80cea6634",
-      "summary_sha256": "c6d4e4d21d11491c7342b82c76e1f6969d1946496c6a20f4f82876ae849443f5",
-      "normalized_extracted_at": "2026-10-29T01:58:29Z",
-      "summary_extracted_at": "2026-11-10T19:40:11Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/CKEC-1760711468288/machine-readable/450226426_smp-health---st-andrews_standardcharges.json",
@@ -606,13 +577,6 @@
       "summary_sha256": "f87ca0f8ca6405a8776414ac9a46cc1d5c74ebb3876e08c223762bdb44005392",
       "normalized_extracted_at": "2026-10-31T15:59:32Z",
       "summary_extracted_at": "2026-11-10T17:58:00Z"
-    },
-    {
-      "source_url": "https://www.grandviewhealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/203391873_grandview-medical-center_standardcharges.csv",
-      "normalized_sha256": "f6d5614d80a3809efe387d7e552a2967531ece43731c6f7788c2b1ba6b0fe2e6",
-      "summary_sha256": "0dba194cf2de946d1f3dffcbc3005ef06c15f3b6de096015ac038d544f0f4f90",
-      "normalized_extracted_at": "2026-10-29T02:00:58Z",
-      "summary_extracted_at": "2026-11-10T19:46:16Z"
     },
     {
       "source_url": "https://www.lorettohospital.org/documents/362200248_loretto-hospital_standardcharges.csv",
@@ -693,9 +657,9 @@
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-beaver_standardcharges-April-2026.csv",
-      "normalized_sha256": "8d6411790a7f195bdeaf4555e9e6c0d6fdc6b55f96b763133a5ede9e60ef18ba",
+      "normalized_sha256": "ba8338028d3e89bb2af9af1272f3dcb93165398762be15474e8f91c91b5bfc6d",
       "summary_sha256": "06cddf0a908d5a02bf4c1f8c3953f69f3ba4f185d190f97be6464f41a4eb8f17",
-      "normalized_extracted_at": "2026-10-29T02:07:13Z",
+      "normalized_extracted_at": "2026-11-11T18:10:17Z",
       "summary_extracted_at": "2026-11-10T17:10:53Z"
     },
     {

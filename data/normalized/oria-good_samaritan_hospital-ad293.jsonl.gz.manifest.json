@@ -5,7 +5,7 @@
   "source_url": "https://www.wmchealth.org/131740104_GoodSamaritanHospital_standardcharges.csv",
   "source_sha256": "e8aac825f9a9a689fd8dd94e0559d276a9613211f93c0fa290951c6fca69663f",
   "download_bytes": 326915605,
-  "extracted_at": "2026-10-29T02:02:40Z",
+  "extracted_at": "2026-11-11T18:06:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-good_samaritan_hospital-ad293__cd82ac6042cb82d0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cd/oria-good_samaritan_hospital-ad293__cd82ac6042cb82d0.jsonl.gz",
     "asset_sha256": "cd82ac6042cb82d0311dc05d64b9243c3e0c0dcb995632b367bb0238329a4180",
-    "published_at": "2026-10-29T02:17:37Z"
+    "published_at": "2026-11-11T18:12:51Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "http://www.jmc.org/docs/920735990_jackson-medical-center_standardcharges.csv",
   "source_sha256": "ec6f1e9eb2e5037659420bf8c1b769d87aa61b48ac5ae2daa413937fdbc6ce8b",
   "download_bytes": 1485735,
-  "extracted_at": "2026-10-29T02:06:35Z",
+  "extracted_at": "2026-11-11T18:09:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-jackson_medical_center-af5ea__ca015c7abf305179.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/oria-jackson_medical_center-af5ea__ca015c7abf305179.jsonl.gz",
     "asset_sha256": "ca015c7abf305179eee4c179127c1ec8f384ff90a234cc04d114b91b57d4f1c6",
-    "published_at": "2026-10-29T02:19:41Z"
+    "published_at": "2026-11-11T18:13:49Z"
   }
 }

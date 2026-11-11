@@ -5,7 +5,7 @@
   "source_url": "https://www.frhssd.org/docs/460450523_Fall-River-Health-Services_standardcharges.csv",
   "source_sha256": "0c830e8cbfaf1888baec545c4d53e29e6a41531d5fc0370c236d748d4f67d070",
   "download_bytes": 48261693,
-  "extracted_at": "2026-10-29T01:57:57Z",
+  "extracted_at": "2026-11-11T18:01:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-fall_river_health_service_hot_springs-38d10__35cd181515578917.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-35/oria-fall_river_health_service_hot_springs-38d10__35cd181515578917.jsonl.gz",
     "asset_sha256": "35cd181515578917c4a826d548620e6a1a267e09ec2c533bb69c4b7c87d24d38",
-    "published_at": "2026-10-29T02:15:43Z"
+    "published_at": "2026-11-11T18:12:11Z"
   }
 }

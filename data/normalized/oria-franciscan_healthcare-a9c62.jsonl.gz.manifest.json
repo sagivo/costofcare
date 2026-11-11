@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7971/470486026_franciscan-care-services_standardcharges.csv",
   "source_sha256": "84c96fb2480cc16077808afd46bf68c4e81afbe36eb6403d397d083008c78418",
   "download_bytes": 72592033,
-  "extracted_at": "2026-10-29T01:58:23Z",
+  "extracted_at": "2026-11-11T18:01:50Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-franciscan_healthcare-a9c62__66cda127939e30af.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-66/oria-franciscan_healthcare-a9c62__66cda127939e30af.jsonl.gz",
     "asset_sha256": "66cda127939e30af51c361e116906dee67f30aab0da0b0d85847fbad84a8ca14",
-    "published_at": "2026-10-29T02:16:23Z"
+    "published_at": "2026-11-11T18:12:25Z"
   }
 }

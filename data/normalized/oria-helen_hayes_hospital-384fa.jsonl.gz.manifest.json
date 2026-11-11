@@ -5,7 +5,7 @@
   "source_url": "https://shop.helenhayeshosp.org/00-0432000_Helen-Hayes-Hospital_standardcharges.csv",
   "source_sha256": "bfeeba739e9e06dedcc111d0e1fdde3711166159ce77e01db47f3fea19486070",
   "download_bytes": 1643717,
-  "extracted_at": "2026-10-29T02:06:36Z",
+  "extracted_at": "2026-11-11T18:09:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-helen_hayes_hospital-384fa__d39c8d5fe3343b25.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d3/oria-helen_hayes_hospital-384fa__d39c8d5fe3343b25.jsonl.gz",
     "asset_sha256": "d39c8d5fe3343b251bdaadd4c1c89be97c9de11a29e907451426fb2bccf548f3",
-    "published_at": "2026-10-29T02:18:49Z"
+    "published_at": "2026-11-11T18:13:11Z"
   }
 }

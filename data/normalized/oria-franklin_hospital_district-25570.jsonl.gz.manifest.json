@@ -5,7 +5,7 @@
   "source_url": "http://www.franklinhospital.net/docs/376006885_Franklin-Hospital-District_standardcharges.csv",
   "source_sha256": "e257dd56bbf21cfa88bc6597e4d7df5fcb0bb2764fb84385d87670d76fb47caa",
   "download_bytes": 67897383,
-  "extracted_at": "2026-10-29T01:58:18Z",
+  "extracted_at": "2026-11-11T18:01:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-franklin_hospital_district-25570__64653cbdd0ae6689.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-64/oria-franklin_hospital_district-25570__64653cbdd0ae6689.jsonl.gz",
     "asset_sha256": "64653cbdd0ae66890d6a471e2e13c5382b644632c1fa8446a045747f176d37c2",
-    "published_at": "2026-10-29T02:16:28Z"
+    "published_at": "2026-11-11T18:12:27Z"
   }
 }

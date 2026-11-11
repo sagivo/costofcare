@@ -5,7 +5,7 @@
   "source_url": "https://apps.trihealth.com/static/pricing/310537486_THEGOODSAMARITANHOSPITAL_STANDARDCHARGES.csv",
   "source_sha256": "3ad205c4682465911552d01b5c8507bb5e91743cd7cd10da05e4b49ae0f6348a",
   "download_bytes": 64788315,
-  "extracted_at": "2026-10-29T01:58:56Z",
+  "extracted_at": "2026-11-11T18:02:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-good_samaritan_hospital-351ce__ba9b63dcd1ffd890.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/oria-good_samaritan_hospital-351ce__ba9b63dcd1ffd890.jsonl.gz",
     "asset_sha256": "ba9b63dcd1ffd89009875c55dbb14c91102773bd6c52dd5a19334f26d6d094e5",
-    "published_at": "2026-10-29T02:17:31Z"
+    "published_at": "2026-11-11T18:12:48Z"
   }
 }

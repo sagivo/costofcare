@@ -1,185 +1,22 @@
 {
-  "generated_at": "2026-11-11T02:11:13.539276+00:00",
-  "records_scanned": 438941,
-  "flag_counts": {
-    "large_published_amount_review": 21
-  },
-  "review_examples": [
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 322,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1132866
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 326,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1116990
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 327,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1263276
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 328,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1797768
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 392,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1176336
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 394,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1214892
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 395,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1177470
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 396,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1323756
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 397,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1904364
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 480,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1155924
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 481,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1176336
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 482,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1472688
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 549,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1154790
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 551,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1123038
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 552,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1418634
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 553,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1712718
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-guadalupe_county_hospital-e99c1",
-      "source_record_ordinal": 572,
-      "source_sha256": "349168ffd744b0125d4a17d4ec90498387ba445fb072ac1152832a04d8f0e14f",
-      "field": "standard_charge_dollar",
-      "raw_value": 1107162
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-gibson_area_hospital-5d33e",
-      "source_record_ordinal": 21125,
-      "source_sha256": "52cdf34e65fa9dddd756801590ab126014dc09a935cd6a20d36abcc94265984c",
-      "field": "standard_charge|Aetna|General|negotiated_dollar",
-      "raw_value": "3315926.903"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-gibson_area_hospital-5d33e",
-      "source_record_ordinal": 21125,
-      "source_sha256": "52cdf34e65fa9dddd756801590ab126014dc09a935cd6a20d36abcc94265984c",
-      "field": "standard_charge|max",
-      "raw_value": "3315926.903"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-gibson_area_hospital-5d33e",
-      "source_record_ordinal": 21201,
-      "source_sha256": "52cdf34e65fa9dddd756801590ab126014dc09a935cd6a20d36abcc94265984c",
-      "field": "standard_charge|Aetna|General|negotiated_dollar",
-      "raw_value": "1343193.399"
-    }
-  ],
+  "generated_at": "2026-11-11T18:15:33.891014+00:00",
+  "records_scanned": 938500,
+  "flag_counts": {},
+  "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 439405,
-    "payer_name": 400169,
-    "plan_name": 400169,
-    "billing_class": 320420,
-    "modifiers": 79231,
-    "json_payer_name": 104407,
-    "json_plan_name": 104407,
-    "json_methodology": 104407,
-    "json_source_records": 14137
+    "setting": 937600,
+    "billing_class": 418463,
+    "modifiers": 468708,
+    "payer_name": 907875,
+    "plan_name": 907661,
+    "json_payer_name": 120327,
+    "json_plan_name": 120327,
+    "json_methodology": 120327,
+    "json_source_records": 6930
   },
   "coverage_note": {
-    "local_blob_files": 90,
-    "remote_only_files": 2676,
+    "local_blob_files": 92,
+    "remote_only_files": 2674,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

@@ -5,7 +5,7 @@
   "source_url": "https://estimator.myinsightcare.com/static/mrf/386108110_insight-hospital-and-medical-center-coldwater_standardcharges.csv",
   "source_sha256": "c363e40005842de5c552a7b6e3a826855996620dc5ae7e7de5689837e56859b3",
   "download_bytes": 999582,
-  "extracted_at": "2026-10-29T02:06:29Z",
+  "extracted_at": "2026-11-11T18:09:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-insight_hospital_and_medical_center_coldwater-bc806__333d10dff2f50ebd.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-insight_hospital_and_medical_center_coldwater-bc806__333d10dff2f50ebd.jsonl.gz",
     "asset_sha256": "333d10dff2f50ebd60627683f44e2a4471b5a4acabdcafbba7c11f40b33efebf",
-    "published_at": "2026-10-29T02:19:32Z"
+    "published_at": "2026-11-11T18:13:40Z"
   }
 }
