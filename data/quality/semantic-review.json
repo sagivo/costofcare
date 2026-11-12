@@ -1,22 +1,73 @@
 {
-  "generated_at": "2026-11-11T18:15:33.891014+00:00",
-  "records_scanned": 938500,
-  "flag_counts": {},
-  "review_examples": [],
+  "generated_at": "2026-11-12T03:26:26.421808+00:00",
+  "records_scanned": 709705,
+  "flag_counts": {
+    "large_published_amount_review": 6
+  },
+  "review_examples": [
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-jefferson_memorial_hospital-5e717",
+      "source_record_ordinal": 20738,
+      "source_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
+      "field": "standard_charge|max",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-jefferson_memorial_hospital-5e717",
+      "source_record_ordinal": 20738,
+      "source_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
+      "field": "standard_charge|Beech Street Work Comp TN|Beech Street Work Comp TN|negotiated_dollar",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-jefferson_memorial_hospital-5e717",
+      "source_record_ordinal": 20757,
+      "source_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
+      "field": "standard_charge|max",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-jefferson_memorial_hospital-5e717",
+      "source_record_ordinal": 20757,
+      "source_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
+      "field": "standard_charge|Beech Street Work Comp TN|Beech Street Work Comp TN|negotiated_dollar",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-jefferson_memorial_hospital-5e717",
+      "source_record_ordinal": 20884,
+      "source_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
+      "field": "standard_charge|max",
+      "raw_value": "1012224.51"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-jefferson_memorial_hospital-5e717",
+      "source_record_ordinal": 20884,
+      "source_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
+      "field": "standard_charge|Beech Street Work Comp TN|Beech Street Work Comp TN|negotiated_dollar",
+      "raw_value": "1012224.51"
+    }
+  ],
   "populated_qualifier_counts": {
-    "setting": 937600,
-    "billing_class": 418463,
-    "modifiers": 468708,
-    "payer_name": 907875,
-    "plan_name": 907661,
-    "json_payer_name": 120327,
-    "json_plan_name": 120327,
-    "json_methodology": 120327,
-    "json_source_records": 6930
+    "setting": 692948,
+    "billing_class": 489420,
+    "payer_name": 682546,
+    "plan_name": 682543,
+    "modifiers": 153003,
+    "json_payer_name": 49513,
+    "json_plan_name": 49513,
+    "json_methodology": 49513,
+    "json_source_records": 3804
   },
   "coverage_note": {
-    "local_blob_files": 92,
-    "remote_only_files": 2674,
+    "local_blob_files": 89,
+    "remote_only_files": 2677,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

@@ -5,7 +5,7 @@
   "source_url": "https://iroquois.slicedhealth.io/pricer/37-0673512_IroquoisMemorialHospital_standardcharges.CSV",
   "source_sha256": "77685c0752def31dcf251b1dc170a954bf3b7e4936fbeb5cf71740658e2031d2",
   "download_bytes": 16703497,
-  "extracted_at": "2026-10-29T17:05:18Z",
+  "extracted_at": "2026-11-12T03:11:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-iroquois_memorial_hospital-2f9ea__49ca6ecae86f4aa7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-49/oria-iroquois_memorial_hospital-2f9ea__49ca6ecae86f4aa7.jsonl.gz",
     "asset_sha256": "49ca6ecae86f4aa75b34a104bf97d6566833233130f939a93e12088c77932908",
-    "published_at": "2026-10-29T17:22:19Z"
+    "published_at": "2026-11-12T03:24:14Z"
   }
 }

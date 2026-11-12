@@ -5,7 +5,7 @@
   "source_url": "https://www.henrycountyhospital.org/documents/344477047_henry-county-hospital_standardcharges.csv",
   "source_sha256": "e0e2bfab09fa4dabf16e3eea4746c5dacdf8af8e157b45fff316057f714f010d",
   "download_bytes": 10873177,
-  "extracted_at": "2026-10-29T17:05:14Z",
+  "extracted_at": "2026-11-12T03:11:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-henry_county_hospital-fe327__e30cdfc3bb881d48.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/oria-henry_county_hospital-fe327__e30cdfc3bb881d48.jsonl.gz",
     "asset_sha256": "e30cdfc3bb881d4853497d9c3607d8492920abdf176dfcb1503fa14109833b6f",
-    "published_at": "2026-10-29T17:19:33Z"
+    "published_at": "2026-11-12T03:23:06Z"
   }
 }

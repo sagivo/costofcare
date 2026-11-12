@@ -5,7 +5,7 @@
   "source_url": "https://www.hf.org/sites/default/files/2026-03/590624371_Holmes-Regional-Medical-Center_standardcharges.csv",
   "source_sha256": "c4c094dd35f3b8476759a8128c0387a56012bad5c3631088f07904c8d6280a10",
   "download_bytes": 35195020,
-  "extracted_at": "2026-10-29T17:05:45Z",
+  "extracted_at": "2026-11-12T03:12:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-holmes_regional_medical_center-000b1__45ec6de1b4001e18.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-45/oria-holmes_regional_medical_center-000b1__45ec6de1b4001e18.jsonl.gz",
     "asset_sha256": "45ec6de1b4001e18da1e612d1164dc3e1309c14da6e199584da35e650026f8c9",
-    "published_at": "2026-10-29T17:20:09Z"
+    "published_at": "2026-11-12T03:23:23Z"
   }
 }

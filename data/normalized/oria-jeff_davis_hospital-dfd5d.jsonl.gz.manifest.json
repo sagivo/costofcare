@@ -5,7 +5,7 @@
   "source_url": "https://jeffdavis.pg.quadax.revenuemasters.com/cdm-files/580903829_jeff_davis_hospital_standardcharges.csv",
   "source_sha256": "a53ad352f8d4c3c8ba05b39d30049705a37688cf2395534ea239ad92b821c332",
   "download_bytes": 31435398,
-  "extracted_at": "2026-10-29T17:05:37Z",
+  "extracted_at": "2026-11-12T03:12:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-jeff_davis_hospital-dfd5d__7fa74482433c2359.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7f/oria-jeff_davis_hospital-dfd5d__7fa74482433c2359.jsonl.gz",
     "asset_sha256": "7fa74482433c2359c68841b3d9ea44c5daa3f67075da374178318dbc5708f321",
-    "published_at": "2026-10-29T17:22:44Z"
+    "published_at": "2026-11-12T03:24:25Z"
   }
 }

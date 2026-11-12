@@ -5,7 +5,7 @@
   "source_url": "https://dorminymedical.slicedhealth.io/pricer/581157005_hospital-authority-of-ben-hill-dba-dorminy-medical-center_standardcharges.csv",
   "source_sha256": "15b7b70a54d90bc28f43b7072857d423d4170f101544a4db4556383cde141df2",
   "download_bytes": 34864457,
-  "extracted_at": "2026-10-29T17:05:41Z",
+  "extracted_at": "2026-11-12T03:12:42Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-hospital_authority_of_ben_hill_dba_dorminy_medical_center-1fed5__5a006357b778f549.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-hospital_authority_of_ben_hill_dba_dorminy_medical_center-1fed5__5a006357b778f549.jsonl.gz",
     "asset_sha256": "5a006357b778f54994d4e5e11336871951821c3f68f63498e6ed964289bd2d14",
-    "published_at": "2026-10-29T17:21:02Z"
+    "published_at": "2026-11-12T03:23:41Z"
   }
 }

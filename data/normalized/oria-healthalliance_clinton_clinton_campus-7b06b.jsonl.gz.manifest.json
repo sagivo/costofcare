@@ -5,7 +5,7 @@
   "source_url": "https://ummh-price-transparency.s3.us-east-2.amazonaws.com/042103555_umass-memorial-healthalliance-clinton-hospital-inc._standardcharges.csv",
   "source_sha256": "37431cc1925eb22c5a64bc48af8e00486aa9b34af505e31e86df2a605c847892",
   "download_bytes": 489022220,
-  "extracted_at": "2026-10-29T17:10:21Z",
+  "extracted_at": "2026-11-12T03:19:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-healthalliance_clinton_clinton_campus-7b06b__82e840fe677eee7e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-healthalliance_clinton_clinton_campus-7b06b__82e840fe677eee7e.jsonl.gz",
     "asset_sha256": "82e840fe677eee7ee0f82e5167a93203e57f9b149da67d814fe2c4fef5157381",
-    "published_at": "2026-10-29T17:19:16Z"
+    "published_at": "2026-11-12T03:22:57Z"
   }
 }

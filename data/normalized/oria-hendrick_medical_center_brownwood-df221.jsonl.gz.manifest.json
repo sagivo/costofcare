@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8819/851941193-1184233785_hendrick-medical-center_standardcharges.csv",
   "source_sha256": "b27e5c8e23e13d41230fc12c3d8fba5f45132920d8572c2fd6537761e76462a0",
   "download_bytes": 123349372,
-  "extracted_at": "2026-10-29T17:07:26Z",
+  "extracted_at": "2026-11-12T03:15:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-hendrick_medical_center_brownwood-df221__2101ab68a2a00a31.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-hendrick_medical_center_brownwood-df221__2101ab68a2a00a31.jsonl.gz",
     "asset_sha256": "2101ab68a2a00a31764a1d5a7c64fe799706684335ee47e225912deaeda8be7f",
-    "published_at": "2026-10-29T17:19:27Z"
+    "published_at": "2026-11-12T03:23:04Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/100109/610482973_jennie-stuart-medical-center_standardcharges.csv",
   "source_sha256": "f0f47de36aa8e537d3ab99ebf57d92ed990eac15b4f282333d31d4429230f2e6",
   "download_bytes": 225853217,
-  "extracted_at": "2026-10-29T17:09:07Z",
+  "extracted_at": "2026-11-12T03:16:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-jennie_stuart_medical_center-2ae8a__95ef5277410434b0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-95/oria-jennie_stuart_medical_center-2ae8a__95ef5277410434b0.jsonl.gz",
     "asset_sha256": "95ef5277410434b05c8df1b6d9e905f103c17baea4e2bc0d2a15b86e0b557781",
-    "published_at": "2026-10-29T17:22:59Z"
+    "published_at": "2026-11-12T03:24:33Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8291/750827446-1528064649_hendrick-medical-center_standardcharges.csv",
   "source_sha256": "59d468e776a798cbc173ad011397695f50c979ad3523080229a697f1c0ef202f",
   "download_bytes": 136282125,
-  "extracted_at": "2026-10-29T17:08:10Z",
+  "extracted_at": "2026-11-12T03:15:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-hendrick_medical_center-58dd0__44b16d33c36deac8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-44/oria-hendrick_medical_center-58dd0__44b16d33c36deac8.jsonl.gz",
     "asset_sha256": "44b16d33c36deac8173b0962d6daf5b0ed73245f68a663239f7a277c2f88909b",
-    "published_at": "2026-10-29T17:19:24Z"
+    "published_at": "2026-11-12T03:23:02Z"
   }
 }

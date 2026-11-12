@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 994,
+  "records": 40432,
   "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251260215_jefferson-regional-medical-center_standardcharges.csv",
-  "source_sha256": "12f15df37ccd7efb59949d8941dacdc4c24676594ef5dbd8d9235dcb358b7586",
-  "download_bytes": 53185840,
-  "extracted_at": "2026-10-29T17:10:00Z",
+  "source_sha256": "92886a9091175b55a466dbe02c93fdcb5957c644f1a0f944b4a9746f4f849305",
+  "download_bytes": 262560305,
+  "extracted_at": "2026-11-12T03:19:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-1c",
-    "asset_name": "oria-jefferson_hospital-565ea__1c2f057490a9cf24.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1c/oria-jefferson_hospital-565ea__1c2f057490a9cf24.jsonl.gz",
-    "asset_sha256": "1c2f057490a9cf24a965c1fa749c04fcc34564d96219475daa637e476b35d9fa",
-    "published_at": "2026-10-29T17:22:50Z"
+    "release": "data-norm-c9",
+    "asset_name": "oria-jefferson_hospital-565ea__c9f605613ac34d5b.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c9/oria-jefferson_hospital-565ea__c9f605613ac34d5b.jsonl.gz",
+    "asset_sha256": "c9f605613ac34d5b5830b4313fdfc0546ad19585fc4443e6f244719805050cdb",
+    "published_at": "2026-11-12T03:24:29Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.holyokehealth.com/22-2520073_holyoke-medical-center_standardcharges.csv",
   "source_sha256": "5aeb9ad8d4e0bc84441356a0496a8f166db70bac544549a1a565975e132de352",
   "download_bytes": 99779720,
-  "extracted_at": "2026-10-29T17:06:56Z",
+  "extracted_at": "2026-11-12T03:14:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-holyoke_medical_center-9cf49__00fb5d5a5771b749.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-00/oria-holyoke_medical_center-9cf49__00fb5d5a5771b749.jsonl.gz",
     "asset_sha256": "00fb5d5a5771b74959b0253d6c31811d2fb1e82056001a16fa7c9bf82dbfc406",
-    "published_at": "2026-10-29T17:20:27Z"
+    "published_at": "2026-11-12T03:23:25Z"
   }
 }

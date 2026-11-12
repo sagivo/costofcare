@@ -5,7 +5,7 @@
   "source_url": "https://highlandhills.pg.quadax.revenuemasters.com/cdm-files/922135241_tate-county-hospital-dba-highland-hills-medical-center_standardcharges.csv",
   "source_sha256": "83e9365d30a4dfdef081a1505a33fc5628c0e357e01188ca7c774cfe6a4fd4aa",
   "download_bytes": 22529457,
-  "extracted_at": "2026-10-29T17:05:31Z",
+  "extracted_at": "2026-11-12T03:12:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-highland_hills_medical_center-2c86c__43675dcb02fbf62d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-highland_hills_medical_center-2c86c__43675dcb02fbf62d.jsonl.gz",
     "asset_sha256": "43675dcb02fbf62d7e1b513b851065b66c8390061c640523d485bf41585fa87b",
-    "published_at": "2026-10-29T17:19:41Z"
+    "published_at": "2026-11-12T03:23:10Z"
   }
 }
