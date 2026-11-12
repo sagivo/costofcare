@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 23848,
   "source_url": "https://www.lorettohospital.org/documents/362200248_loretto-hospital_standardcharges.csv",
-  "source_sha256": "3ef20a398ec57cb3277ec9f242d72ae7eab9724c345ddb635ecd9804260caee7",
+  "source_sha256": "3c3ea822a42dde320bf4f25cc571b453fa5cb91215a9306a45fb54e727d74f6e",
   "download_bytes": 62908394,
-  "extracted_at": "2026-10-29T19:49:26Z",
+  "extracted_at": "2026-11-12T18:35:07Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-4e",
-    "asset_name": "oria-loretto_hospital-4caa3__4eaea9610c272231.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4e/oria-loretto_hospital-4caa3__4eaea9610c272231.jsonl.gz",
-    "asset_sha256": "4eaea9610c2722311961d242d643bf5a2516682aadebeb8f3d3fab29893ac38c",
-    "published_at": "2026-10-29T20:01:11Z"
+    "release": "data-norm-29",
+    "asset_name": "oria-loretto_hospital-4caa3__2952b8badc9d0c02.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-29/oria-loretto_hospital-4caa3__2952b8badc9d0c02.jsonl.gz",
+    "asset_sha256": "2952b8badc9d0c023a1be103a7ae4bda4b0defa2eb4d49609dc82a02367284dc",
+    "published_at": "2026-11-12T18:39:07Z"
   }
 }

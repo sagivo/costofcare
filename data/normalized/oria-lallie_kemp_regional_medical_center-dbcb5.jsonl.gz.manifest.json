@@ -5,7 +5,7 @@
   "source_url": "https://www.lsuhospitals.org/lak/docs/726000749_Lallie-Kemp-Regional-Medical-Center_standardcharges.csv",
   "source_sha256": "db6c5833f88f41d12d0e2e2a6310cb28503b8c43cd7bddb079f3c11678b9b450",
   "download_bytes": 17750172,
-  "extracted_at": "2026-10-30T21:29:04Z",
+  "extracted_at": "2026-11-12T18:36:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-lallie_kemp_regional_medical_center-dbcb5__1e721f129f97d82f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/oria-lallie_kemp_regional_medical_center-dbcb5__1e721f129f97d82f.jsonl.gz",
     "asset_sha256": "1e721f129f97d82f753665e28cd8b5020f751cf588ec07ab653cdcd5ecb35b43",
-    "published_at": "2026-10-30T21:42:22Z"
+    "published_at": "2026-11-12T18:38:30Z"
   }
 }

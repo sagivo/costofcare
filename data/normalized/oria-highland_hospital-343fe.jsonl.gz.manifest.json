@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 13879,
   "source_url": "https://www.urmc.rochester.edu/getmedia/5479e418-958b-4a8a-b3ab-610f5962d661/160743037-HIGHLAND-HOSPITAL-OF-ROCHESTER-standardcharges.csv",
-  "source_sha256": "0d610d4ebf7f73f07b7efcca576e3acb8c6a2bfabc134023f152e97aa061084b",
+  "source_sha256": "734164aedc20c29937da4cb769c097737448302ecae8aa2527c2aec8a57b9816",
   "download_bytes": 363553175,
-  "extracted_at": "2026-10-29T17:13:34Z",
+  "extracted_at": "2026-11-12T18:36:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-31",
-    "asset_name": "oria-highland_hospital-343fe__319c17a5d1f097ca.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-31/oria-highland_hospital-343fe__319c17a5d1f097ca.jsonl.gz",
-    "asset_sha256": "319c17a5d1f097caaec7827eb6ce965af304f1408c0ce718473c92350c3f1ae6",
-    "published_at": "2026-10-29T17:19:44Z"
+    "release": "data-norm-d8",
+    "asset_name": "oria-highland_hospital-343fe__d83be4a6974ad093.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/oria-highland_hospital-343fe__d83be4a6974ad093.jsonl.gz",
+    "asset_sha256": "d83be4a6974ad09375d76cbbfa7dd039a36fbc54a5f637d53f2332c80db46fb2",
+    "published_at": "2026-11-12T18:38:07Z"
   }
 }

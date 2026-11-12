@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 218,
   "source_url": "https://cdn.accureg.net/trans/smrmc/640468873_Lawrence-County-Hospital_standardcharges.csv",
-  "source_sha256": "0a13696073281b78d1840c136a7b82e7e3b5afff9e6c85f2f9404d2075f14445",
-  "download_bytes": 8796510,
-  "extracted_at": "2026-10-30T21:28:13Z",
+  "source_sha256": "29a9a85cfdcbf489d9062f6ae9b152cbdda43f35f56f8f87e14edacc9ca1b060",
+  "download_bytes": 13316516,
+  "extracted_at": "2026-11-12T18:35:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-27",
-    "asset_name": "oria-lawrence_county_hospital-46e4f__27c69e4a7e3f804d.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-27/oria-lawrence_county_hospital-46e4f__27c69e4a7e3f804d.jsonl.gz",
-    "asset_sha256": "27c69e4a7e3f804d422c3e0051d5f6f28af2b6fb1de628a2972be70ab814005f",
-    "published_at": "2026-10-30T21:42:34Z"
+    "release": "data-norm-8f",
+    "asset_name": "oria-lawrence_county_hospital-46e4f__8f700a1c76746717.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/oria-lawrence_county_hospital-46e4f__8f700a1c76746717.jsonl.gz",
+    "asset_sha256": "8f700a1c7674671797347b5ff263a59d610b491f6e695aa2f56721d5a88de45e",
+    "published_at": "2026-11-12T18:38:44Z"
   }
 }

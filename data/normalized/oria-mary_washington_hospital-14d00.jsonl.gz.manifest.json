@@ -5,7 +5,7 @@
   "source_url": "https://www.marywashingtonhealthcare.com/documents/540519577_mary-washington-hospital_standardcharges.csv",
   "source_sha256": "ee4cac034872555672c99881af36b331556c496b1694a7c7a3d58e696135e7b5",
   "download_bytes": 6513244,
-  "extracted_at": "2026-10-30T21:28:04Z",
+  "extracted_at": "2026-11-12T18:35:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mary_washington_hospital-14d00__f5c509370adea31a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/oria-mary_washington_hospital-14d00__f5c509370adea31a.jsonl.gz",
     "asset_sha256": "f5c509370adea31a3126a2daabc40ae190658c1ba1e4bb3d42da919bfe4b7893",
-    "published_at": "2026-10-30T21:44:20Z"
+    "published_at": "2026-11-12T18:40:12Z"
   }
 }

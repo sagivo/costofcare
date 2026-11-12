@@ -5,7 +5,7 @@
   "source_url": "https://madisonparish.pg.quadax.revenuemasters.com/cdm-files/720985610_madison-parish-hospital_standardcharges.csv",
   "source_sha256": "5fe077fe1b2a24418d62e85514e621e9cf01c88b35e4d4b8a87c1b5ff684b9b2",
   "download_bytes": 5134001,
-  "extracted_at": "2026-10-30T07:48:14Z",
+  "extracted_at": "2026-11-12T18:35:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-madison_parish_hospital-b2257__d82d299c2fc463be.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/oria-madison_parish_hospital-b2257__d82d299c2fc463be.jsonl.gz",
     "asset_sha256": "d82d299c2fc463be2cb2a88cc0c45f92b380c2a0795690075f007c03b24ed304",
-    "published_at": "2026-10-30T07:56:31Z"
+    "published_at": "2026-11-12T18:39:31Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://medicalcenterbarbour.pg.quadax.revenuemasters.com/cdm-files/680640677_medical-center-barbour_standardcharges.csv",
   "source_sha256": "efdb6aea41cde7a2beb2e7fd4a304d55a146619ef62a8ba578a13561c4264646",
   "download_bytes": 11150214,
-  "extracted_at": "2026-10-30T21:28:46Z",
+  "extracted_at": "2026-11-12T18:35:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-medical_center_barbour-6c6da__2b7cde38df12a432.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-medical_center_barbour-6c6da__2b7cde38df12a432.jsonl.gz",
     "asset_sha256": "2b7cde38df12a4326ac4b344efe75ba35dc94c0e8972dde2efd37f70122287c5",
-    "published_at": "2026-10-30T21:44:45Z"
+    "published_at": "2026-11-12T18:40:36Z"
   }
 }

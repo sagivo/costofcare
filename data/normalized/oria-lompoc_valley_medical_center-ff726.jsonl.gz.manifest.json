@@ -5,7 +5,7 @@
   "source_url": "https://lompocvalleymedicalcenter.pg.revenuemasters.com/cdm-files/956001880_lompoc-valley-medical-center_standardcharges.csv",
   "source_sha256": "0cafb0fdd083f637f226e85776b1574cd6b0edc16654f4b28eacc76dd48b359e",
   "download_bytes": 5832931,
-  "extracted_at": "2026-10-30T21:27:51Z",
+  "extracted_at": "2026-11-12T18:35:25Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-lompoc_valley_medical_center-ff726__a78927bd7e52a5d0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-lompoc_valley_medical_center-ff726__a78927bd7e52a5d0.jsonl.gz",
     "asset_sha256": "a78927bd7e52a5d0b5a74f0ba2ee9f4582a25b87174712f90a5e418d4867803a",
-    "published_at": "2026-10-30T21:42:48Z"
+    "published_at": "2026-11-12T18:39:02Z"
   }
 }

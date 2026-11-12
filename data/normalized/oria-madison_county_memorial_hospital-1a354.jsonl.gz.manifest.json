@@ -5,7 +5,7 @@
   "source_url": "https://madisoncounty.pg.quadax.revenuemasters.com/cdm-files/592319288_madison-county-memorial-hospital_standardcharges.csv",
   "source_sha256": "df82eaef65e53e85e1c28ed200db1222f783434c68f68dbd640dc73611a88ce9",
   "download_bytes": 21176748,
-  "extracted_at": "2026-10-30T21:29:06Z",
+  "extracted_at": "2026-11-12T18:36:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-madison_county_memorial_hospital-1a354__bf19c5bebb2e24df.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bf/oria-madison_county_memorial_hospital-1a354__bf19c5bebb2e24df.jsonl.gz",
     "asset_sha256": "bf19c5bebb2e24df9f96ecad0d9336b78a577fb9c9e34757e073458de3aa272b",
-    "published_at": "2026-10-30T21:43:21Z"
+    "published_at": "2026-11-12T18:39:27Z"
   }
 }

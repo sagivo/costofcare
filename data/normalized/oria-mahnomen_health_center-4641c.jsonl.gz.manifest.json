@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8195/416008946_mahnomen-health-center_standardcharges.csv",
   "source_sha256": "a2f47f8514b3459b9babecb6cea80516fbce3f9a438ae3212f480dac3c6114dd",
   "download_bytes": 21367004,
-  "extracted_at": "2026-10-30T21:29:09Z",
+  "extracted_at": "2026-11-12T18:36:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mahnomen_health_center-4641c__68a6f24b7dd1b398.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-68/oria-mahnomen_health_center-4641c__68a6f24b7dd1b398.jsonl.gz",
     "asset_sha256": "68a6f24b7dd1b398c288221681be46961a01c25ee964cdc870d055cfd17bc1fb",
-    "published_at": "2026-10-30T21:43:30Z"
+    "published_at": "2026-11-12T18:39:35Z"
   }
 }

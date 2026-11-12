@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 181,
+  "records": 190,
   "source_url": "https://secure.claraprice.net/price-transparency/VDLQ-1687968511716/machine-readable/200561474_mcbride-orthopedic-hospital_standardcharges.json",
-  "source_sha256": "e54828a1c7b5d0cfea8e339988c9419660c0683082650d24dd84a0e10d8f5e35",
-  "download_bytes": 7981734,
-  "extracted_at": "2026-10-30T21:28:11Z",
+  "source_sha256": "83ea5939381213588f4941bd8e3bfeb4ba19cbcbd5a3c712e708a92ef9d6db46",
+  "download_bytes": 7235260,
+  "extracted_at": "2026-11-12T18:35:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-41",
-    "asset_name": "oria-mcbride_orthopedic_hospital-ad134__41c593c09d4aebee.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-mcbride_orthopedic_hospital-ad134__41c593c09d4aebee.jsonl.gz",
-    "asset_sha256": "41c593c09d4aebee0d805223e4e30f42302a78e54448181a0fd44c596f4122d3",
-    "published_at": "2026-10-30T21:44:28Z"
+    "release": "data-norm-b4",
+    "asset_name": "oria-mcbride_orthopedic_hospital-ad134__b49e6671eb1dfe4f.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-mcbride_orthopedic_hospital-ad134__b49e6671eb1dfe4f.jsonl.gz",
+    "asset_sha256": "b49e6671eb1dfe4f6d038d95d30eead81a6772e4aef2953b080e5d916acaf8bf",
+    "published_at": "2026-11-12T18:40:19Z"
   }
 }
