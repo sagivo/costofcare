@@ -5,7 +5,7 @@
   "source_url": "https://minershosp.slicedhealth.io/pricer/85-0323546_MinersColfaxMedicalCenter_standardcharges.CSV",
   "source_sha256": "cf8cf848d80190a4f77bb05a8cc93298a94a296a4c03f6d6871adf8fa2727794",
   "download_bytes": 25036165,
-  "extracted_at": "2026-10-31T01:50:39Z",
+  "extracted_at": "2026-11-13T18:02:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-miners_colfax_medical_center-2fd54__979146b0781d02d7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-miners_colfax_medical_center-2fd54__979146b0781d02d7.jsonl.gz",
     "asset_sha256": "979146b0781d02d784f0027c43b8aff52c9025030c7bdaea8ab886cd9b54f57c",
-    "published_at": "2026-10-31T01:59:27Z"
+    "published_at": "2026-11-13T18:08:25Z"
   }
 }

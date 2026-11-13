@@ -5,7 +5,7 @@
   "source_url": "https://app.vestacare.com/download/csv/43-0633449_missourideltamedicalcenter_standardcharges.csv",
   "source_sha256": "3c5960569e6f3edba1ba9c8b2aac7daf1f9bb7b0ae500679f8f04951eea5ee56",
   "download_bytes": 8950346,
-  "extracted_at": "2026-10-31T01:49:25Z",
+  "extracted_at": "2026-11-13T18:02:14Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-missouri_delta_medical_center-3c282__3d6622926d65dfd2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3d/oria-missouri_delta_medical_center-3c282__3d6622926d65dfd2.jsonl.gz",
     "asset_sha256": "3d6622926d65dfd2b73eb7ea5baf86d6d7f5ae37021d6a6e8a5eb49b9f2ce0f4",
-    "published_at": "2026-10-31T01:59:32Z"
+    "published_at": "2026-11-13T18:08:28Z"
   }
 }

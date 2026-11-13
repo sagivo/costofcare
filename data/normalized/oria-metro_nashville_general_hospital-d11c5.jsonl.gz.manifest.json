@@ -5,7 +5,7 @@
   "source_url": "https://nashvillegeneral-440111.s3.amazonaws.com/62-1383977_METRO-NASHVILLE-GENERAL-HOSPITAL_standardcharges.csv",
   "source_sha256": "a0b7c90a1387705c24fe8bc0752a041d989a5f3c271bad63a469511f86a5127d",
   "download_bytes": 16962905,
-  "extracted_at": "2026-10-31T01:50:24Z",
+  "extracted_at": "2026-11-13T18:02:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-metro_nashville_general_hospital-d11c5__79221220f8b3b701.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/oria-metro_nashville_general_hospital-d11c5__79221220f8b3b701.jsonl.gz",
     "asset_sha256": "79221220f8b3b7018a7ebd2aa549edf8371deaba8811fcd896af7173c13ff71c",
-    "published_at": "2026-10-31T01:59:10Z"
+    "published_at": "2026-11-13T18:08:11Z"
   }
 }

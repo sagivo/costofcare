@@ -5,7 +5,7 @@
   "source_url": "https://apps.nmhs.net/files/pt_mrf/320583236_monroe-health-services-inc_standardcharges.json",
   "source_sha256": "d81b1f6a40a01b48e3ed675752dd9bb6187fbf51c9130ffb0b98fdfdee034d73",
   "download_bytes": 33928816,
-  "extracted_at": "2026-10-31T01:51:33Z",
+  "extracted_at": "2026-11-13T18:03:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-monroe_health_services_inc-e3a0e__52db4fe596da2c69.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/oria-monroe_health_services_inc-e3a0e__52db4fe596da2c69.jsonl.gz",
     "asset_sha256": "52db4fe596da2c69ac395ce0e5d5fc608eb40423a8982b42ddcd7725787d7792",
-    "published_at": "2026-10-31T01:59:49Z"
+    "published_at": "2026-11-13T18:08:41Z"
   }
 }

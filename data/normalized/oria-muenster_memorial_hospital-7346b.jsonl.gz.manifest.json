@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 170,
+  "records": 161,
   "source_url": "https://secure.claraprice.net/price-transparency/PVK6945983240/machine-readable/751244289_muenster-memorial-hospital_standardcharges.json",
-  "source_sha256": "5894ee99917630c9acc9a80bfcce364cddfbf4ebfc164085a9df5b4032959f1d",
-  "download_bytes": 3072896,
-  "extracted_at": "2026-10-31T01:48:57Z",
+  "source_sha256": "a874526903f93842ad811a64369fde9589f749ff1da4aa04f7afeff50e22c39b",
+  "download_bytes": 2071271,
+  "extracted_at": "2026-11-13T18:01:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-09",
-    "asset_name": "oria-muenster_memorial_hospital-7346b__09d710a87fad4b60.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-muenster_memorial_hospital-7346b__09d710a87fad4b60.jsonl.gz",
-    "asset_sha256": "09d710a87fad4b60310352e9e58d56c3113a9c31d047cd185a8c51c4cb863393",
-    "published_at": "2026-10-31T02:00:30Z"
+    "release": "data-norm-d5",
+    "asset_name": "oria-muenster_memorial_hospital-7346b__d56c681168a684d3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/oria-muenster_memorial_hospital-7346b__d56c681168a684d3.jsonl.gz",
+    "asset_sha256": "d56c681168a684d3f2848aa6e27e92853df308a3bf3e7d18597f2fcfed85060f",
+    "published_at": "2026-11-13T18:09:11Z"
   }
 }

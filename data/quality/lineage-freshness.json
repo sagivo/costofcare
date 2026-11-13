@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T03:02:20.434414+00:00",
+  "generated_at": "2026-11-13T18:10:46.268903+00:00",
   "normalized_files": 2767,
   "parser_versions": {
     "row-preserving-1.3": 2759,
@@ -7,12 +7,12 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1428,
-    "1_to_7_days": 1078,
-    "within_24h": 261
+    "over_7_days": 1449,
+    "1_to_7_days": 1058,
+    "within_24h": 260
   },
   "failed_attempt_classes": {
-    "other": 41,
+    "other": 42,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -299,13 +299,6 @@
       "summary_extracted_at": "2026-11-12T18:17:43Z"
     },
     {
-      "source_url": "https://www.carlsbadmedicalcenter.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762526_carlsbad-medical-center_standardcharges.csv",
-      "normalized_sha256": "7a7de6dcbaddb55705a1035e4947a3f048c0b48c3260bb0156cbf3b711510397",
-      "summary_sha256": "1b219eb34ef5d85c8bcb2ecce010b0b7751c06da9ddd216744c4d94c045963e2",
-      "normalized_extracted_at": "2026-10-31T15:50:48Z",
-      "summary_extracted_at": "2026-11-12T18:24:44Z"
-    },
-    {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1437150984_saint-joseph-health-system-inc-saint-joseph-hospital_standardcharges.csv",
       "normalized_sha256": "01206b50dc40028d3227d9a1836cf458cec54826835bd932a10fbd5c09294b4f",
       "summary_sha256": "41a55c566d150d3feb6aff452ce23c3fc8d71e841181126d620f5afd04206d56",
@@ -437,13 +430,6 @@
       "summary_sha256": "bc586d1f31632ab5d23d3386325db4dabb7789c70c73bb4fa9d014d5073906c0",
       "normalized_extracted_at": "2026-11-05T18:28:08Z",
       "summary_extracted_at": "2026-11-12T18:21:31Z"
-    },
-    {
-      "source_url": "https://secure.claraprice.net/price-transparency/PVK6945983240/machine-readable/751244289_muenster-memorial-hospital_standardcharges.json",
-      "normalized_sha256": "5894ee99917630c9acc9a80bfcce364cddfbf4ebfc164085a9df5b4032959f1d",
-      "summary_sha256": "a874526903f93842ad811a64369fde9589f749ff1da4aa04f7afeff50e22c39b",
-      "normalized_extracted_at": "2026-10-31T01:48:57Z",
-      "summary_extracted_at": "2026-11-12T18:16:51Z"
     },
     {
       "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910564491-1952309098_franciscan-health-system_standardcharges.json",
@@ -892,13 +878,6 @@
       "summary_sha256": "05fd88849d328f834c2bc039b6a91d7fe487917368800521b064dd03afa53b94",
       "normalized_extracted_at": "2026-11-11T18:10:17Z",
       "summary_extracted_at": "2026-11-12T17:41:19Z"
-    },
-    {
-      "source_url": "https://www.moberlyregionalmedicalcenter.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/431651906_moberly-regional-medical-center_standardcharges.csv",
-      "normalized_sha256": "25c578396b6dac04444297b2eabfed581a345add8abd55055292dac1a55aceef",
-      "summary_sha256": "331353664085f977081bdda7bd1cabe4f186b816ab7753661d86a9f38b7c9119",
-      "normalized_extracted_at": "2026-10-31T01:51:40Z",
-      "summary_extracted_at": "2026-11-12T18:14:42Z"
     }
   ],
   "normalized_without_successful_summary": [],

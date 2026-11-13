@@ -5,7 +5,7 @@
   "source_url": "https://mchcare.com/wp-content/uploads/2026/04/630438739_monroe-county-hospital_standardcharges.csv",
   "source_sha256": "88b653a6e9ae3f498ec0d5fa816b9156a57438e13fdae38b698f7c804763e541",
   "download_bytes": 26656890,
-  "extracted_at": "2026-10-31T01:50:42Z",
+  "extracted_at": "2026-11-13T18:02:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-monroe_county_hospital-9d71a__81c93d37cbef6924.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-monroe_county_hospital-9d71a__81c93d37cbef6924.jsonl.gz",
     "asset_sha256": "81c93d37cbef69243abb8f8fc2c9ef2c6a573819688e897a1c8c69977242f6a3",
-    "published_at": "2026-10-31T01:59:47Z"
+    "published_at": "2026-11-13T18:08:39Z"
   }
 }

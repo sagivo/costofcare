@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/274433830_mercy-hospital-tishomingo_standardcharges.zip",
   "source_sha256": "1cc96460f008cd17b6c2c0fade23fa68cecac27cb92029914543f2fa97828f02",
   "download_bytes": 2785682,
-  "extracted_at": "2026-10-31T01:48:20Z",
+  "extracted_at": "2026-11-13T18:00:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-hospital-tishomingo__baeae76830e955a8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ba/mercy-hospital-tishomingo__baeae76830e955a8.jsonl.gz",
     "asset_sha256": "baeae76830e955a8f214c49eb099e6dd00cdd31b87798f352c175cae747e10af",
-    "published_at": "2026-10-31T01:56:42Z"
+    "published_at": "2026-11-13T18:06:55Z"
   }
 }

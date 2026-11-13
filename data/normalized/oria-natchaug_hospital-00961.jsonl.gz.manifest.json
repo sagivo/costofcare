@@ -5,7 +5,7 @@
   "source_url": "https://hartfordhealthcare.org/file%20library/price%20data/060966963_natchaug_hospital_standardcharges.csv",
   "source_sha256": "25bdac2a4f69d02948249e6d2cfc12117c52d50707b25478d7b661b46e648b0c",
   "download_bytes": 187599,
-  "extracted_at": "2026-10-31T01:48:51Z",
+  "extracted_at": "2026-11-13T18:01:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-natchaug_hospital-00961__dd6f058dee607942.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-natchaug_hospital-00961__dd6f058dee607942.jsonl.gz",
     "asset_sha256": "dd6f058dee607942cef0b0d78947253e450bbdc16865d49eccb2434eb38dddf2",
-    "published_at": "2026-10-31T02:00:37Z"
+    "published_at": "2026-11-13T18:09:16Z"
   }
 }
