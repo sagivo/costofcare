@@ -5,7 +5,7 @@
   "source_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2026/522218584_medstar_georgetown_university_hospital_standardcharges.csv",
   "source_sha256": "216bf4e59243abae3daef7843f910ebdb1e1226bc1fc181c4226e4fb07ee09d3",
   "download_bytes": 130616328,
-  "extracted_at": "2026-10-30T21:36:40Z",
+  "extracted_at": "2026-11-13T02:50:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-medstar_georgetown_hospital-863a0__f6cf85e7717e522f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f6/oria-medstar_georgetown_hospital-863a0__f6cf85e7717e522f.jsonl.gz",
     "asset_sha256": "f6cf85e7717e522fab30a6f7470883eb483dc009e7b262f66b16d0205c6237c0",
-    "published_at": "2026-10-30T21:44:55Z"
+    "published_at": "2026-11-13T03:00:28Z"
   }
 }

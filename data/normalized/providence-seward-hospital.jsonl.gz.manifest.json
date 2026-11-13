@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 219,
   "source_url": "https://pricetransparency.providence.org/alaska/live/611442487_providence-seward-hospital_standardcharges.json",
-  "source_sha256": "09b16b13b2f72de034d8b7f4998eb1a94da0c32379d5dd8b2e729769107c3e2a",
-  "download_bytes": 2940817,
-  "extracted_at": "2026-10-31T01:48:15Z",
+  "source_sha256": "266e3022887e62aabe113d497dc3534ad04b2a1302b581658a9b31a732edb042",
+  "download_bytes": 3243123,
+  "extracted_at": "2026-11-13T02:54:51Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-59",
-    "asset_name": "providence-seward-hospital__59c3e293e53ff41c.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-59/providence-seward-hospital__59c3e293e53ff41c.jsonl.gz",
-    "asset_sha256": "59c3e293e53ff41c947046f32c2b3d2b3b0f71d7f2baf960057346fa646582f7",
-    "published_at": "2026-10-31T02:00:51Z"
+    "release": "data-norm-62",
+    "asset_name": "providence-seward-hospital__6227e7bb4cb5d38c.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-62/providence-seward-hospital__6227e7bb4cb5d38c.jsonl.gz",
+    "asset_sha256": "6227e7bb4cb5d38c2d6268bf976d7635d571412d9dab5ea75f7ccda5969b9db4",
+    "published_at": "2026-11-13T03:00:50Z"
   }
 }

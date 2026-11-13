@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 4524,
+  "records": 9684,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7804/610444716_ashland-hospital-corporation_standardcharges.csv",
-  "source_sha256": "07e83e459b7668e83d9cc9e82f86fe3f7caa6653d1f3f163522e5b49dd96827d",
-  "download_bytes": 80026781,
-  "extracted_at": "2026-10-30T21:34:04Z",
+  "source_sha256": "0bc80c106840c46d0c7d3d103b0079a39f873d41a47a1e689cafc1ecf1795798",
+  "download_bytes": 166947409,
+  "extracted_at": "2026-11-13T02:48:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-e1",
-    "asset_name": "oria-king_s_daughters_medical_center-fe492__e152b44dc06c5fd1.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e1/oria-king_s_daughters_medical_center-fe492__e152b44dc06c5fd1.jsonl.gz",
-    "asset_sha256": "e152b44dc06c5fd14b3e7e32b2100e102b798a9af4c1eaed69a329dd07dda140",
-    "published_at": "2026-10-30T21:41:52Z"
+    "release": "data-norm-46",
+    "asset_name": "oria-king_s_daughters_medical_center-fe492__4614364ea4624258.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-46/oria-king_s_daughters_medical_center-fe492__4614364ea4624258.jsonl.gz",
+    "asset_sha256": "4614364ea4624258f554c612407c99a25b27e674dad3998d923a77adb75b841b",
+    "published_at": "2026-11-13T02:58:33Z"
   }
 }

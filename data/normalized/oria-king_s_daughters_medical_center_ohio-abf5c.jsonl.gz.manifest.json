@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 4122,
+  "records": 8850,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7805/453215312_portsmouth-hospital-corporation_standardcharges.csv",
-  "source_sha256": "c82b263f3028b882ed7c3b881029195e008ef78f1246bd7b8f02b417eacb3364",
-  "download_bytes": 73641149,
-  "extracted_at": "2026-10-30T21:33:47Z",
+  "source_sha256": "2205db6b34ce4321a26e53932c8d1b2628c77ebe128166ff1bc60ce1c209b178",
+  "download_bytes": 155597200,
+  "extracted_at": "2026-11-13T02:47:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-3f",
-    "asset_name": "oria-king_s_daughters_medical_center_ohio-abf5c__3f79c443cc453d14.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3f/oria-king_s_daughters_medical_center_ohio-abf5c__3f79c443cc453d14.jsonl.gz",
-    "asset_sha256": "3f79c443cc453d14a2995f2f4cb606155f699b70cb7547ebfe7a112dc41968b7",
-    "published_at": "2026-10-30T21:41:54Z"
+    "release": "data-norm-be",
+    "asset_name": "oria-king_s_daughters_medical_center_ohio-abf5c__bee94859799b2dec.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-king_s_daughters_medical_center_ohio-abf5c__bee94859799b2dec.jsonl.gz",
+    "asset_sha256": "bee94859799b2dec8db6a99b37b4aa52f3d23e103d6a544cb8b8b6c2b6d2af05",
+    "published_at": "2026-11-13T02:58:35Z"
   }
 }

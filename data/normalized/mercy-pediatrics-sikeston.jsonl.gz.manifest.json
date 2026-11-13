@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Sikeston_RHC_standardcharges.zip",
   "source_sha256": "ee2574edd47ca1dff572f1f70ed0cc6018b34194185e0546ff0b64b46b4e8ecb",
   "download_bytes": 1247884,
-  "extracted_at": "2026-10-31T01:47:50Z",
+  "extracted_at": "2026-11-13T02:54:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-pediatrics-sikeston__ce27e1ab973a8972.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ce/mercy-pediatrics-sikeston__ce27e1ab973a8972.jsonl.gz",
     "asset_sha256": "ce27e1ab973a89723f742ecfa655d3ad7cd7138df3c603dee0c95d7f492c06a2",
-    "published_at": "2026-10-31T01:56:45Z"
+    "published_at": "2026-11-13T02:57:57Z"
   }
 }

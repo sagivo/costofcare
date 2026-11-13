@@ -5,7 +5,7 @@
   "source_url": "https://madisonalhospital.org/images/price-transparency/630845288_Madison-Hospital_standardcharges.csv",
   "source_sha256": "c2d9d247ad2a15f891fd433b47c3d0e93900239db7643ae502a00b0e2bdee872",
   "download_bytes": 140211738,
-  "extracted_at": "2026-10-30T21:36:53Z",
+  "extracted_at": "2026-11-13T02:50:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-madison_hospital-bc3ac__df7542ee61cd61bc.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/oria-madison_hospital-bc3ac__df7542ee61cd61bc.jsonl.gz",
     "asset_sha256": "df7542ee61cd61bc099b60be257c17447ae28f7c16fda6ebf0fcc6df0ec11f01",
-    "published_at": "2026-10-30T21:43:24Z"
+    "published_at": "2026-11-13T02:59:35Z"
   }
 }

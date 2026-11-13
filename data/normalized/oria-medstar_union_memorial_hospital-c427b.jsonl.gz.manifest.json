@@ -5,7 +5,7 @@
   "source_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2026/520591685_medstar_union_memorial_hospital_standardcharges.csv",
   "source_sha256": "300287d74ffa14e6cf0bc0935ab442732f776e6d9404c6b5bb93b717dd8be335",
   "download_bytes": 113014791,
-  "extracted_at": "2026-10-30T21:36:06Z",
+  "extracted_at": "2026-11-13T02:49:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-medstar_union_memorial_hospital-c427b__a6ce83d872920568.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a6/oria-medstar_union_memorial_hospital-c427b__a6ce83d872920568.jsonl.gz",
     "asset_sha256": "a6ce83d872920568c18aa91fdbf335c66d874f4a6b33d69a2a841e82449aa90b",
-    "published_at": "2026-10-30T21:45:07Z"
+    "published_at": "2026-11-13T03:00:43Z"
   }
 }

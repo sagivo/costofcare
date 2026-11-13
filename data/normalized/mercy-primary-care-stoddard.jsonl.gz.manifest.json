@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Dexter_RHC_standardcharges.zip",
   "source_sha256": "8260ec3bf1accfd90c86692831e18c6ac450ecbf8fc5e2821e2368cc55761b8a",
   "download_bytes": 1257243,
-  "extracted_at": "2026-10-31T01:48:05Z",
+  "extracted_at": "2026-11-13T02:54:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-primary-care-stoddard__ff6622190fd0270c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/mercy-primary-care-stoddard__ff6622190fd0270c.jsonl.gz",
     "asset_sha256": "ff6622190fd0270ccdaf4b445b75c38eef5b5640cf114db77db59b0f7e5f3197",
-    "published_at": "2026-10-31T01:57:08Z"
+    "published_at": "2026-11-13T02:58:14Z"
   }
 }

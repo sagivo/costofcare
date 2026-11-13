@@ -5,7 +5,7 @@
   "source_url": "https://www.wmchealth.org/150552726_MargaretvilleHospital_standardcharges.csv",
   "source_sha256": "3dadacb9ffc3fb1c627d1bb44c7c53344ddf6d6ecb5d65a48ff9eabc25532b15",
   "download_bytes": 96710520,
-  "extracted_at": "2026-10-30T21:34:19Z",
+  "extracted_at": "2026-11-13T02:48:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-margaretville_hospital-33ab8__e0ff57ec8f24831f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-margaretville_hospital-33ab8__e0ff57ec8f24831f.jsonl.gz",
     "asset_sha256": "e0ff57ec8f24831f3d17bbfccc3ddfc56c4ab68643b79a7ee3e332cbe7238a1f",
-    "published_at": "2026-10-30T21:43:37Z"
+    "published_at": "2026-11-13T02:59:43Z"
   }
 }

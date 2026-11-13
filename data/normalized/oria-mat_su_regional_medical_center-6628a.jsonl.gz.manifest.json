@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 920,
+  "records": 452,
   "source_url": "https://www.matsuregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/721563402_mat-su-regional-medical-center_standardcharges.csv",
-  "source_sha256": "9d6ecf831e550792bb280d2cb678dfdeb5ba9e1c7468cca5c49b8df9955b04a5",
-  "download_bytes": 269452876,
-  "extracted_at": "2026-10-31T01:47:51Z",
+  "source_sha256": "f072332f5abf0c8a61aa179c1a1c4d6c753cd8dbe33ee7db049b8a113dbad045",
+  "download_bytes": 21856935,
+  "extracted_at": "2026-11-13T02:54:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-33",
-    "asset_name": "oria-mat_su_regional_medical_center-6628a__335fcad2a5ac7b0d.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-33/oria-mat_su_regional_medical_center-6628a__335fcad2a5ac7b0d.jsonl.gz",
-    "asset_sha256": "335fcad2a5ac7b0ddea1530cdf0ceeaea3820cd26ce1aee88c8c27f4e0fe701e",
-    "published_at": "2026-10-31T01:57:59Z"
+    "release": "data-norm-69",
+    "asset_name": "oria-mat_su_regional_medical_center-6628a__6936e0d63eb72d06.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-mat_su_regional_medical_center-6628a__6936e0d63eb72d06.jsonl.gz",
+    "asset_sha256": "6936e0d63eb72d0689adf2f9864d88c5939770b35911d8c7201a90d0a5214d74",
+    "published_at": "2026-11-13T03:00:04Z"
   }
 }

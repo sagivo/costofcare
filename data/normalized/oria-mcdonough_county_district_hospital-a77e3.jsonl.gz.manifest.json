@@ -5,7 +5,7 @@
   "source_url": "https://www.mdh.org/documents/376016777_mcdonough-county-hospital-district_standardcharges.csv",
   "source_sha256": "0d63042ced8bed7d681776c8229490678df27435aded0525fbaed93ef9089656",
   "download_bytes": 144999553,
-  "extracted_at": "2026-10-30T21:36:43Z",
+  "extracted_at": "2026-11-13T02:50:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mcdonough_county_district_hospital-a77e3__f9367b5ae6f098c5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/oria-mcdonough_county_district_hospital-a77e3__f9367b5ae6f098c5.jsonl.gz",
     "asset_sha256": "f9367b5ae6f098c5bc1c6381c0115429b46faefdfe97f5567bc6afd93e3d55ed",
-    "published_at": "2026-10-30T21:44:33Z"
+    "published_at": "2026-11-13T03:00:15Z"
   }
 }

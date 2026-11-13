@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 659,
+  "records": 684,
   "source_url": "https://www.tennovalafollette.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528273_tennova-lafollette-medical-center_standardcharges.csv",
-  "source_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
-  "download_bytes": 126183158,
-  "extracted_at": "2026-10-30T21:36:58Z",
+  "source_sha256": "fd34d29d70d0cda75a52e8c2fa53a1363e0e23b8a41ac17f433988b27622df6e",
+  "download_bytes": 150571234,
+  "extracted_at": "2026-11-13T02:50:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-4a",
-    "asset_name": "oria-lafollette_medical_center-e040b__4a53f2a2e3fafb53.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/oria-lafollette_medical_center-e040b__4a53f2a2e3fafb53.jsonl.gz",
-    "asset_sha256": "4a53f2a2e3fafb531b8e296b8bc1ec95e4ae6666b60beddfbd8e1d8f14a29647",
-    "published_at": "2026-10-30T21:42:09Z"
+    "release": "data-norm-b4",
+    "asset_name": "oria-lafollette_medical_center-e040b__b4f944a536d743a3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b4/oria-lafollette_medical_center-e040b__b4f944a536d743a3.jsonl.gz",
+    "asset_sha256": "b4f944a536d743a3d6bb173b245a883ba1ef01aa32519d6ea0197acb6fe71cb2",
+    "published_at": "2026-11-13T02:58:45Z"
   }
 }

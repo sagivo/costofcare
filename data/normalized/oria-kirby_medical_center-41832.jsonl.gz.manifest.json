@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11428/370661215_kirby-medical-center_standardcharges.csv",
   "source_sha256": "38c33b1a7defea5c9a027094862dc569137ea723eecc6957b116e89e0c9d4dca",
   "download_bytes": 105732918,
-  "extracted_at": "2026-10-30T21:34:25Z",
+  "extracted_at": "2026-11-13T02:48:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-kirby_medical_center-41832__9bb7db245068050c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/oria-kirby_medical_center-41832__9bb7db245068050c.jsonl.gz",
     "asset_sha256": "9bb7db245068050c3bf74798f2dd6f4531334b608382e3fe5051b2a759dabb33",
-    "published_at": "2026-10-30T21:41:57Z"
+    "published_at": "2026-11-13T02:58:37Z"
   }
 }

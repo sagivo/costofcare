@@ -5,7 +5,7 @@
   "source_url": "https://alliancehcs.slicedhealth.io/pricer/00-0000000-1295826337_AllianceHealthCareSystem_standardcharges.CSV",
   "source_sha256": "654dc244371beb60c222f5c396795969e1b74d25f618fb1c052add2262d59f3f",
   "download_bytes": 691540,
-  "extracted_at": "2026-10-31T01:47:19Z",
+  "extracted_at": "2026-11-13T02:54:23Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-alliance_healthcare_system-a0d19__3538342490b20490.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-35/oria-alliance_healthcare_system-a0d19__3538342490b20490.jsonl.gz",
     "asset_sha256": "3538342490b20490564520bcb0c83e7d7ee4d787be1b4071c66d13c3a4bf6d5b",
-    "published_at": "2026-10-31T01:57:17Z"
+    "published_at": "2026-11-13T02:58:22Z"
   }
 }

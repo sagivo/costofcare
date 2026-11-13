@@ -5,7 +5,7 @@
   "source_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2026/520608007_medstar_franklin_square_medical_center_standardcharges.csv",
   "source_sha256": "a86a3b9c2c273c8bc2365bfdb9f3a40d7a511364c4334f9f1c2a8c80b1af8435",
   "download_bytes": 112167260,
-  "extracted_at": "2026-10-30T21:35:33Z",
+  "extracted_at": "2026-11-13T02:49:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-medstar_franklin_square_medical_center-dd827__b16514247b2501c8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b1/oria-medstar_franklin_square_medical_center-dd827__b16514247b2501c8.jsonl.gz",
     "asset_sha256": "b16514247b2501c816cb15f110de51d48fe5e17b7b6d2d9e3c128b003c385aed",
-    "published_at": "2026-10-30T21:44:53Z"
+    "published_at": "2026-11-13T03:00:26Z"
   }
 }

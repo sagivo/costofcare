@@ -5,7 +5,7 @@
   "source_url": "https://www.marshallmedical.org/documents/standard_charges/941450151_marshall-medical-center_standardcharges.csv",
   "source_sha256": "a4b098a26924de148b8cd5ff53770e829545ac79d0b17df04db08aa5b905679d",
   "download_bytes": 71064372,
-  "extracted_at": "2026-10-30T21:33:41Z",
+  "extracted_at": "2026-11-13T02:47:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-marshall_medical_center-3eb02__7e3bce2d5868c5d3.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7e/oria-marshall_medical_center-3eb02__7e3bce2d5868c5d3.jsonl.gz",
     "asset_sha256": "7e3bce2d5868c5d39e37efd06ed71c62e6e6c97ee23738780dd9c72605d3d325",
-    "published_at": "2026-10-30T21:43:45Z"
+    "published_at": "2026-11-13T02:59:47Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/263173902_mercy-hospital-healdton-PrimaryCare_RHC_standardcharges.zip",
   "source_sha256": "bad1650700729625aa7e774f3289bcf85ccd6f42394f2e6a050f20ccdf274445",
   "download_bytes": 1181874,
-  "extracted_at": "2026-10-31T01:47:39Z",
+  "extracted_at": "2026-11-13T02:54:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-primary-care-healdton__078bb4bae7f2558e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/mercy-primary-care-healdton__078bb4bae7f2558e.jsonl.gz",
     "asset_sha256": "078bb4bae7f2558ea966c41d7cd7ea1d910c01fa97a1233129996b32b43c74c8",
-    "published_at": "2026-10-31T01:56:58Z"
+    "published_at": "2026-11-13T02:58:06Z"
   }
 }

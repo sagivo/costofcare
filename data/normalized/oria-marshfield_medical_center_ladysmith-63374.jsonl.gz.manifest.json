@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 20133,
+  "records": 18682,
   "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--ladysmith_standardcharges.zip",
-  "source_sha256": "2c5ce15a8e8abfbce8022fc65335adfac421a5f032802035e192a404a8e7eb48",
-  "download_bytes": 41818440,
-  "extracted_at": "2026-10-30T21:32:38Z",
+  "source_sha256": "9147773a4e9c42bf98ff90bcaf91c4df2b20eb86bf46d81d7e9857c250141406",
+  "download_bytes": 36798977,
+  "extracted_at": "2026-11-13T02:47:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ee",
-    "asset_name": "oria-marshfield_medical_center_ladysmith-63374__ee6f6108e331b88e.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-marshfield_medical_center_ladysmith-63374__ee6f6108e331b88e.jsonl.gz",
-    "asset_sha256": "ee6f6108e331b88e446dbcefff262d05ad390f68d0b2aed57129f7e6577cba26",
-    "published_at": "2026-10-30T21:43:59Z"
+    "release": "data-norm-3c",
+    "asset_name": "oria-marshfield_medical_center_ladysmith-63374__3c5f18eb492ba1cd.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3c/oria-marshfield_medical_center_ladysmith-63374__3c5f18eb492ba1cd.jsonl.gz",
+    "asset_sha256": "3c5f18eb492ba1cd8766888835be71999609503ff78ccfe4c55702aa52b29bc0",
+    "published_at": "2026-11-13T02:59:57Z"
   }
 }

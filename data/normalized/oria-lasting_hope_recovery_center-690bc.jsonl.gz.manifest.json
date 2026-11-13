@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 369,
+  "records": 370,
   "source_url": "https://www.chihealth.com/content/dam/chihealthcom/documents/patients-and-visitors/financial-assistance/price-transparency-standard-charges/470484764-1396969499_alegent-health-bergan-mercy-health-system_standardcharges.json",
-  "source_sha256": "2deec0364b577151fdd9ded20f4bb8fcedad60f856aa83ed47f58f3a82d2a9b6",
-  "download_bytes": 121743708,
-  "extracted_at": "2026-10-30T21:35:43Z",
+  "source_sha256": "6cf8e8d06bd5a0e34edc7f4a1ae2c3214e71ca7f47637a69c4ba7d04422d57b7",
+  "download_bytes": 119328482,
+  "extracted_at": "2026-11-13T02:49:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-1a",
-    "asset_name": "oria-lasting_hope_recovery_center-690bc__1acc0a7a453cac89.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1a/oria-lasting_hope_recovery_center-690bc__1acc0a7a453cac89.jsonl.gz",
-    "asset_sha256": "1acc0a7a453cac89416f27565c4a7270811a56762ce38119f49b7c6fb11aa969",
-    "published_at": "2026-10-30T21:42:31Z"
+    "release": "data-norm-bb",
+    "asset_name": "oria-lasting_hope_recovery_center-690bc__bbf321178bc8a3e8.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bb/oria-lasting_hope_recovery_center-690bc__bbf321178bc8a3e8.jsonl.gz",
+    "asset_sha256": "bbf321178bc8a3e8cbfb58ad5ad31342273e9ea423fd9a19494df89751deabb2",
+    "published_at": "2026-11-13T02:59:04Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://ahcs.slicedhealth.io/pricer/58-6002659-1861615304_ApplingHealthCareSystem_standardcharges.CSV",
   "source_sha256": "7516d0b49f2fe31351edb4efee1071b88ca668589707a73843574ca40e6492a0",
   "download_bytes": 2200328,
-  "extracted_at": "2026-10-31T01:48:14Z",
+  "extracted_at": "2026-11-13T02:54:50Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-appling_healthcare-d618f__d64e5e1bfd3e79c4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d6/oria-appling_healthcare-d618f__d64e5e1bfd3e79c4.jsonl.gz",
     "asset_sha256": "d64e5e1bfd3e79c49c4747193e2ae826f2a1bb5d4006315e8055e71ef540584b",
-    "published_at": "2026-10-31T01:57:21Z"
+    "published_at": "2026-11-13T02:58:26Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.medstarhealth.org/-/media/project/mho/medstar/billing-and-insurance/2026/521272129_medstar_washington_hospital_center_standardcharges.csv",
   "source_sha256": "f85d58b4105960c206835b7147292a33fbe34786737b770438f38dbdc2cb4449",
   "download_bytes": 155342152,
-  "extracted_at": "2026-10-30T21:38:45Z",
+  "extracted_at": "2026-11-13T02:51:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-medstar_washington_hospital_center-030ea__ddcf5a810adf509f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-medstar_washington_hospital_center-030ea__ddcf5a810adf509f.jsonl.gz",
     "asset_sha256": "ddcf5a810adf509fcf0b6d89dc262a0ca3407b424b1b15be079735cdc2576a49",
-    "published_at": "2026-10-30T21:45:08Z"
+    "published_at": "2026-11-13T03:00:46Z"
   }
 }

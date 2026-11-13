@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/461481133_mercy-hospital-stoddard-Malden_RHC_standardcharges.zip",
   "source_sha256": "b3222ab834d03442503518a877a2dc826a33a8609caf2f4fea984797e7e21855",
   "download_bytes": 1248057,
-  "extracted_at": "2026-10-31T01:47:56Z",
+  "extracted_at": "2026-11-13T02:54:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "mercy-primary-care-malden__ed8625838f87afe4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/mercy-primary-care-malden__ed8625838f87afe4.jsonl.gz",
     "asset_sha256": "ed8625838f87afe466396c93401e9a1b531940ac8920a7efdc4977d0b92c6332",
-    "published_at": "2026-10-31T01:57:00Z"
+    "published_at": "2026-11-13T02:58:08Z"
   }
 }

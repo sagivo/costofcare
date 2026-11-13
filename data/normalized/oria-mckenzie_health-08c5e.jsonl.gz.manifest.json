@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8104/770637498_mckenzie-county-healthcare-system_standardcharges.csv",
   "source_sha256": "dd1cd5ee429e4e4617d634522b9ba8afa9d8d2ca66781cef18ec95650b363433",
   "download_bytes": 52345509,
-  "extracted_at": "2026-10-30T21:32:40Z",
+  "extracted_at": "2026-11-13T02:46:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mckenzie_health-08c5e__e5af4eef24a5288f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-mckenzie_health-08c5e__e5af4eef24a5288f.jsonl.gz",
     "asset_sha256": "e5af4eef24a5288f453be9e3a4f0b813e76af2fff2d0f41e1efc4ec0444dc3b9",
-    "published_at": "2026-10-30T21:44:37Z"
+    "published_at": "2026-11-13T03:00:17Z"
   }
 }
