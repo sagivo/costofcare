@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T18:47:14Z",
+  "generated_at": "2026-11-14T17:18:46Z",
   "npi_type_tins_total": 1098,
-  "ein_type_tins_total": 19156,
+  "ein_type_tins_total": 19175,
   "npi_lookups_stored": 1099,
   "ein_unresolved_reason": "no authoritative public EIN-to-provider registry",
   "caveat": "NPPES rows are registry self-reported facts per NPI, not verified network or hospital-identity joins."
