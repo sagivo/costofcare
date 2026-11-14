@@ -5,7 +5,7 @@
   "source_url": "https://www.fmchealth.org/app/uploads/2026/02/310645626_fairfield-medical-center_standardcharges.csv",
   "source_sha256": "980cec5d70ed76e9518b2755b969669ad8804407f16d77b05e3414380aa32acd",
   "download_bytes": 179425631,
-  "extracted_at": "2026-10-31T16:03:13Z",
+  "extracted_at": "2026-11-14T02:43:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-fairfield_medical_center-0eb1e__b2f6fb59dc88e617.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-fairfield_medical_center-0eb1e__b2f6fb59dc88e617.jsonl.gz",
     "asset_sha256": "b2f6fb59dc88e617965b3b95a91de41336eb57216306924a60350f34b13a0e4b",
-    "published_at": "2026-10-31T16:10:51Z"
+    "published_at": "2026-11-14T02:49:58Z"
   }
 }

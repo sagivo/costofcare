@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 417,
+  "records": 420,
   "source_url": "https://www.merithealthriverregion.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621752111_merit-health-river-region_standardcharges.csv",
-  "source_sha256": "0f2dbdb7a127ee57fca62bd34ae7489767246c5ee8760aee429e70b6285c7f27",
-  "download_bytes": 167828878,
-  "extracted_at": "2026-10-31T16:02:41Z",
+  "source_sha256": "662ac50491bafe12f3ff82f46efabd038df426657a3fce34a65dde89a034330d",
+  "download_bytes": 90091205,
+  "extracted_at": "2026-11-14T02:43:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-40",
-    "asset_name": "oria-merit_health_river_region-89398__40b829a0fe647338.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-40/oria-merit_health_river_region-89398__40b829a0fe647338.jsonl.gz",
-    "asset_sha256": "40b829a0fe647338b37624de76079109a0ea1860f7fbe0c6c62a7c47bfdb124f",
-    "published_at": "2026-10-31T16:12:19Z"
+    "release": "data-norm-8e",
+    "asset_name": "oria-merit_health_river_region-89398__8e2dc8553e108ea3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8e/oria-merit_health_river_region-89398__8e2dc8553e108ea3.jsonl.gz",
+    "asset_sha256": "8e2dc8553e108ea3ff847e56651672fcd557d9ce9f76def56a932a286e2cf5b6",
+    "published_at": "2026-11-14T02:51:10Z"
   }
 }

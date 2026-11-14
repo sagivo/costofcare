@@ -5,7 +5,7 @@
   "source_url": "https://methodistsite.s3.us-east-1.amazonaws.com/263195791_Methodist-Hospital-for-Surgery_standardcharges.csv",
   "source_sha256": "d3ec4c3a95f710b4054d8455f3b43d895d887ce8cc76d8b121b1e168cbfdd2ac",
   "download_bytes": 71634304,
-  "extracted_at": "2026-10-31T15:51:36Z",
+  "extracted_at": "2026-11-14T02:35:07Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-methodist_hospital_for_surgery-ea96d__bd2e6cc550c4d779.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/oria-methodist_hospital_for_surgery-ea96d__bd2e6cc550c4d779.jsonl.gz",
     "asset_sha256": "bd2e6cc550c4d779a968e7b5a1b721ed1507419a3a704a67c11af2c03313eead",
-    "published_at": "2026-10-31T16:12:26Z"
+    "published_at": "2026-11-14T02:51:18Z"
   }
 }

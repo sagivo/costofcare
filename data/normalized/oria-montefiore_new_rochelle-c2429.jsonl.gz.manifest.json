@@ -5,7 +5,7 @@
   "source_url": "https://assets.montefioreeinstein.org/patient-information/462931956_new-rochelle-hospital_standardcharges.csv",
   "source_sha256": "d419d7d790036db75ec5f9c5b19a041bfbd5a38162a2dddf51de9c48f70554c5",
   "download_bytes": 299963988,
-  "extracted_at": "2026-10-31T16:06:36Z",
+  "extracted_at": "2026-11-14T02:47:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-montefiore_new_rochelle-c2429__51b4a53cd99acd47.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-51/oria-montefiore_new_rochelle-c2429__51b4a53cd99acd47.jsonl.gz",
     "asset_sha256": "51b4a53cd99acd479da5d8f15c4710c52cba354896052f02fdd3d9e8290f3711",
-    "published_at": "2026-10-31T16:13:05Z"
+    "published_at": "2026-11-14T02:51:46Z"
   }
 }

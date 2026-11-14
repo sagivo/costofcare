@@ -5,7 +5,7 @@
   "source_url": "https://www.wmchealth.org/133964321_MidHudsonHospital_standardcharges.csv",
   "source_sha256": "966ce2b3ec3a7e63771c92912e275cf422f19f5faa071a1a31299b21ab08747b",
   "download_bytes": 118297711,
-  "extracted_at": "2026-10-31T15:57:23Z",
+  "extracted_at": "2026-11-14T02:39:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-midhudson_hospital-c0ea3__1f9bd3bd55d3d890.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1f/oria-midhudson_hospital-c0ea3__1f9bd3bd55d3d890.jsonl.gz",
     "asset_sha256": "1f9bd3bd55d3d8903cdef3d3138e9eb9c3c05ada7714db7fdefd2104323f3ebd",
-    "published_at": "2026-10-31T16:12:38Z"
+    "published_at": "2026-11-14T02:51:26Z"
   }
 }

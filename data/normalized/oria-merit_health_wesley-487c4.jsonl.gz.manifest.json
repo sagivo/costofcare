@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 434,
+  "records": 437,
   "source_url": "https://www.merithealthwesley.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/522050792_merit-health-wesley_standardcharges.csv",
-  "source_sha256": "60021b283c677454ece3cff60c451cdc437af989935eae5b059e3d5962c736b2",
-  "download_bytes": 140921029,
-  "extracted_at": "2026-10-31T16:01:15Z",
+  "source_sha256": "749a7aacb5458b8649c2e9a6912a9db3980d5b83b3869377c0198764585345d5",
+  "download_bytes": 81064361,
+  "extracted_at": "2026-11-14T02:41:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-82",
-    "asset_name": "oria-merit_health_wesley-487c4__8281a36b273c6289.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-merit_health_wesley-487c4__8281a36b273c6289.jsonl.gz",
-    "asset_sha256": "8281a36b273c62893ab4b67c5749ad55179caebb3ad4a0ac64b3a079e071bc5b",
-    "published_at": "2026-10-31T16:12:22Z"
+    "release": "data-norm-d9",
+    "asset_name": "oria-merit_health_wesley-487c4__d99565f7fb1a2775.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/oria-merit_health_wesley-487c4__d99565f7fb1a2775.jsonl.gz",
+    "asset_sha256": "d99565f7fb1a2775d40ba9afdd822b80055a534932ab4423687f7a6bbd50ff78",
+    "published_at": "2026-11-14T02:51:13Z"
   }
 }

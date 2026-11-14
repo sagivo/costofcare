@@ -5,7 +5,7 @@
   "source_url": "https://hpt.trinity-health.org/231352191_mercy-fitzgerald-hospital_standardcharges.zip",
   "source_sha256": "d046f7dd87ac406e3e35e23cc8f93f1a4b74da323d1ead78cd1f87aa8515d9f8",
   "download_bytes": 122269447,
-  "extracted_at": "2026-10-31T16:00:30Z",
+  "extracted_at": "2026-11-14T02:42:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mercy_fitzgerald_hospital-449e5__fb9645778096184c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fb/oria-mercy_fitzgerald_hospital-449e5__fb9645778096184c.jsonl.gz",
     "asset_sha256": "fb9645778096184c25dff895855dbd0c58b396f8b9592110e465b5cf40633643",
-    "published_at": "2026-10-31T16:11:30Z"
+    "published_at": "2026-11-14T02:50:28Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://monhealthmedicalcenter.pg.quadax.revenuemasters.com/cdm-files/237441353_mon-health-medical-center_standardcharges.csv",
   "source_sha256": "ef07903db2d97e0847c0efccd659db7c18a7554de621de2c0912abe1a11b173f",
   "download_bytes": 210627967,
-  "extracted_at": "2026-10-31T16:05:22Z",
+  "extracted_at": "2026-11-14T02:44:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mon_health_medical_center-6b59b__1d2a710192b63d99.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-mon_health_medical_center-6b59b__1d2a710192b63d99.jsonl.gz",
     "asset_sha256": "1d2a710192b63d992b16c865854aedb32fc08a199784398aaeaeebfe9600044b",
-    "published_at": "2026-10-31T16:12:52Z"
+    "published_at": "2026-11-14T02:51:38Z"
   }
 }
