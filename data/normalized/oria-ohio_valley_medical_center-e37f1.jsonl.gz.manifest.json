@@ -5,7 +5,7 @@
   "source_url": "https://clariti-health.com/csp/clariti/machinereadable/v2/205882991_Ohio-Valley-Medical-Center_standardcharges.csv",
   "source_sha256": "234feae1ce76764c4fafb71a165024872b09de4aa133cc7a14fcab257d7c6bee",
   "download_bytes": 40518518,
-  "extracted_at": "2026-11-01T01:25:47Z",
+  "extracted_at": "2026-11-14T16:47:00Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ohio_valley_medical_center-e37f1__b218e941da62cf09.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b2/oria-ohio_valley_medical_center-e37f1__b218e941da62cf09.jsonl.gz",
     "asset_sha256": "b218e941da62cf09a81447071201e394dd06c04a3ad226066f380b5081e4a67e",
-    "published_at": "2026-11-01T01:34:23Z"
+    "published_at": "2026-11-14T16:50:02Z"
   }
 }

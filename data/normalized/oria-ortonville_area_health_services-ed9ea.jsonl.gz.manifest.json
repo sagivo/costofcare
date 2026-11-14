@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8030/411369442_ortonville-area-health-services_standardcharges.csv",
   "source_sha256": "9f14b1a898409e94159ac8da9fb95ad0da0b706fef30f7d648a3d23749e06e64",
   "download_bytes": 83778782,
-  "extracted_at": "2026-11-01T01:27:06Z",
+  "extracted_at": "2026-11-14T16:48:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ortonville_area_health_services-ed9ea__2dc1e0981ce00d48.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2d/oria-ortonville_area_health_services-ed9ea__2dc1e0981ce00d48.jsonl.gz",
     "asset_sha256": "2dc1e0981ce00d4876146f79568708618d56cbf6354ae6be040d0fb66e4dee15",
-    "published_at": "2026-11-01T01:34:46Z"
+    "published_at": "2026-11-14T16:50:11Z"
   }
 }

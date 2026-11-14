@@ -5,7 +5,7 @@
   "source_url": "https://pachs.com/wp-content/uploads/420455510_Palo-Alto-County-Hospital_StandardCharges.csv",
   "source_sha256": "09b7d6eee7e5e0aa3dc63fc3705f2d348ab7fbd43f70ac20b91535b2d127c522",
   "download_bytes": 12752177,
-  "extracted_at": "2026-10-31T16:09:20Z",
+  "extracted_at": "2026-11-14T16:44:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-palo_alto_county_health_system-bcef7__69db6693aaa95325.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-palo_alto_county_health_system-bcef7__69db6693aaa95325.jsonl.gz",
     "asset_sha256": "69db6693aaa95325878c46f87c37f64b8107103585d36f2a23891ea8df22773b",
-    "published_at": "2026-10-31T16:14:32Z"
+    "published_at": "2026-11-14T16:50:16Z"
   }
 }

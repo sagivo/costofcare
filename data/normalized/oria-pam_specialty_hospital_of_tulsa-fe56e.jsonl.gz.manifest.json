@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10984/462632812_post-acute-specialty-hospital-of-tulsa-llc_standardcharges.csv",
   "source_sha256": "2401f3520fc97cb80d27620e5c0561808ca7ff98ac32178ab7256ee2c02a3a42",
   "download_bytes": 45138765,
-  "extracted_at": "2026-11-01T01:25:58Z",
+  "extracted_at": "2026-11-14T16:47:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pam_specialty_hospital_of_tulsa-fe56e__98f213284e0966fb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-98/oria-pam_specialty_hospital_of_tulsa-fe56e__98f213284e0966fb.jsonl.gz",
     "asset_sha256": "98f213284e0966fb720a87ee95695ff4f2938a12a80b17163997d4b280e06110",
-    "published_at": "2026-11-01T01:36:43Z"
+    "published_at": "2026-11-14T16:51:01Z"
   }
 }

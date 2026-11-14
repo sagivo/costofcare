@@ -5,7 +5,7 @@
   "source_url": "https://www.omegahospital.com/s/470901008_Omega-Hospital_standardcharges_3.csv",
   "source_sha256": "2d0d2136699f8096372babf0c828c7fa33072c7eb5d7a0bb2df928d3858a7719",
   "download_bytes": 9549375,
-  "extracted_at": "2026-10-31T16:09:15Z",
+  "extracted_at": "2026-11-14T16:44:33Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-omega_hospital-67173__81a507970f6b7066.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-81/oria-omega_hospital-67173__81a507970f6b7066.jsonl.gz",
     "asset_sha256": "81a507970f6b706626a82c42386411fd567f9487f426f6f4ad3c82f6c46cfefb",
-    "published_at": "2026-10-31T16:14:20Z"
+    "published_at": "2026-11-14T16:50:06Z"
   }
 }

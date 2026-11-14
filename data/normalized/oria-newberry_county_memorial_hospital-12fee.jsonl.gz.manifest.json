@@ -5,7 +5,7 @@
   "source_url": "https://newberryhealth.slicedhealth.io/pricer/57-0324929-1316030083_NewberryCountyMemorialHospital_standardcharges.CSV",
   "source_sha256": "d766facede60f804098802c3bf188dbdad0c15df730337a36ccac42eb27c3ffb",
   "download_bytes": 16001279,
-  "extracted_at": "2026-10-31T16:09:23Z",
+  "extracted_at": "2026-11-14T16:44:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-newberry_county_memorial_hospital-12fee__f069ce4b540624fb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f0/oria-newberry_county_memorial_hospital-12fee__f069ce4b540624fb.jsonl.gz",
     "asset_sha256": "f069ce4b540624fb33a54ece92f2cb9eaac29bed41e3cdf38be926df392eaae1",
-    "published_at": "2026-10-31T16:13:34Z"
+    "published_at": "2026-11-14T16:49:21Z"
   }
 }

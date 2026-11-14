@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-14T02:52:57Z",
+  "generated_at": "2026-11-14T16:51:40Z",
   "data_dir": "data/normalized",
   "release_prefix": "data-norm",
   "counts": {
     "files_total": 87,
     "already_published": 0,
-    "uploaded_this_run": 11,
-    "idempotent_skips": 76,
+    "uploaded_this_run": 3,
+    "idempotent_skips": 84,
     "verified_this_run": 87,
     "errors": 0,
     "manifests_with_verified_assets": 87,
