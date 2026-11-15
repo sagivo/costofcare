@@ -5,7 +5,7 @@
   "source_url": "https://salemhealth.org/431960221_west-valley-hospital_standardcharges.json",
   "source_sha256": "430cbe2f32737990b92a0bd19a71dc5eae29863a1ec05d3aa7d25aa7ed9c6763",
   "download_bytes": 19949086,
-  "extracted_at": "2026-11-01T16:56:50Z",
+  "extracted_at": "2026-11-15T17:25:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-salem_health_west_valley-5297c__83257f5530c962d5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/oria-salem_health_west_valley-5297c__83257f5530c962d5.jsonl.gz",
     "asset_sha256": "83257f5530c962d5b3a11b8a3e569b851227201467f39d9733e6b97550d76090",
-    "published_at": "2026-11-01T17:06:46Z"
+    "published_at": "2026-11-15T17:38:10Z"
   }
 }

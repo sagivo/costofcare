@@ -1,85 +1,18 @@
 {
-  "generated_at": "2026-11-15T02:13:17.936584+00:00",
-  "records_scanned": 422978,
-  "flag_counts": {
-    "large_published_amount_review": 8
-  },
-  "review_examples": [
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 20875,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|max",
-      "raw_value": "1862163.27"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 20875,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|NovaNet Work Comp TN|NovaNet Work Comp TN|negotiated_dollar",
-      "raw_value": "1862163.27"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 20908,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|max",
-      "raw_value": "1862163.27"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 20908,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|NovaNet Work Comp TN|NovaNet Work Comp TN|negotiated_dollar",
-      "raw_value": "1862163.27"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 21078,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|max",
-      "raw_value": "1012224.51"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 21078,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|NovaNet Work Comp TN|NovaNet Work Comp TN|negotiated_dollar",
-      "raw_value": "1012224.51"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 21739,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|max",
-      "raw_value": "2966990.4"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-north_knoxville_medical_center-c1405",
-      "source_record_ordinal": 21739,
-      "source_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
-      "field": "standard_charge|NovaNet Work Comp TN|NovaNet Work Comp TN|negotiated_dollar",
-      "raw_value": "2966990.4"
-    }
-  ],
+  "generated_at": "2026-11-15T17:39:44.109350+00:00",
+  "records_scanned": 903979,
+  "flag_counts": {},
+  "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 423246,
-    "payer_name": 402830,
-    "plan_name": 402830,
-    "modifiers": 11929,
-    "billing_class": 256029,
-    "json_payer_name": 76389,
-    "json_plan_name": 76389,
-    "json_methodology": 76389,
-    "json_source_records": 8072
+    "setting": 904211,
+    "json_payer_name": 136684,
+    "json_plan_name": 136684,
+    "json_methodology": 136684,
+    "json_source_records": 5866,
+    "payer_name": 888928,
+    "plan_name": 888715,
+    "modifiers": 267039,
+    "billing_class": 624615
   },
   "coverage_note": {
     "local_blob_files": 87,

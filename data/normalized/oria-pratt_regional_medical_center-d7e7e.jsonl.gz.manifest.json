@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/BILX-1758056023835/machine-readable/481058737_pratt-regional-medical-center_standardcharges.json",
   "source_sha256": "df00f0c28e399dde1a57e35343a79995f9a8afee6c3a0e23f46a413a1090c994",
   "download_bytes": 27421352,
-  "extracted_at": "2026-11-01T16:57:20Z",
+  "extracted_at": "2026-11-15T17:26:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pratt_regional_medical_center-d7e7e__9784188c6c54280a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/oria-pratt_regional_medical_center-d7e7e__9784188c6c54280a.jsonl.gz",
     "asset_sha256": "9784188c6c54280afdaad62bf20a4620c63d28974f2d21f647b12a66cc4dd93d",
-    "published_at": "2026-11-01T17:04:31Z"
+    "published_at": "2026-11-15T17:36:57Z"
   }
 }

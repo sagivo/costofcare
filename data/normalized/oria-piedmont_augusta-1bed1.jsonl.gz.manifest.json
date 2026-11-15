@@ -5,7 +5,7 @@
   "source_url": "https://www.piedmont.org/-/media/files/patients-and-visitors/price-estimates/price-estimates-2026/581581103_piedmont-augusta-hospital_standardcharges.zip",
   "source_sha256": "b08d4076f99b9d43ce69982298b6a3f2f59b532157688c98b1114083d61e945d",
   "download_bytes": 90442152,
-  "extracted_at": "2026-11-01T17:03:23Z",
+  "extracted_at": "2026-11-15T17:31:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-piedmont_augusta-1bed1__7651775932357251.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/oria-piedmont_augusta-1bed1__7651775932357251.jsonl.gz",
     "asset_sha256": "7651775932357251b7564634991c9e0e9e944760736ccdb8edd5787e882268f0",
-    "published_at": "2026-11-01T17:03:54Z"
+    "published_at": "2026-11-15T17:36:30Z"
   }
 }

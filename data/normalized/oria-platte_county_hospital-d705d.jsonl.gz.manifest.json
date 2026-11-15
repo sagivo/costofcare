@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/830249710_platte-county-hospital_standardcharges.csv",
   "source_sha256": "ff736e4e7c456ea70b9977e38c7a909a4c88808f7706dca7b2c046cc5896e3f0",
   "download_bytes": 51682254,
-  "extracted_at": "2026-11-01T16:57:42Z",
+  "extracted_at": "2026-11-15T17:26:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-platte_county_hospital-d705d__b3503dd879fee450.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/oria-platte_county_hospital-d705d__b3503dd879fee450.jsonl.gz",
     "asset_sha256": "b3503dd879fee4509690ca343cb8c13bb47d36c7d23aa1e792e5f57745fdfa33",
-    "published_at": "2026-11-01T17:04:21Z"
+    "published_at": "2026-11-15T17:36:52Z"
   }
 }

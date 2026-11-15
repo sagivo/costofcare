@@ -5,7 +5,7 @@
   "source_url": "https://www.saintcroixhealth.org/documents/financial-information/390890676_St-Croix-Regional-Medical-Center_standardcharges.csv",
   "source_sha256": "f41e60c09d3e9e50d7a42fe0a8affd93da15ad2ead59936429d9b699a78cbd21",
   "download_bytes": 46902572,
-  "extracted_at": "2026-11-01T16:57:22Z",
+  "extracted_at": "2026-11-15T17:26:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-saint_croix_regional_medical_center-4a187__d4f2bff8117f9672.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d4/oria-saint_croix_regional_medical_center-4a187__d4f2bff8117f9672.jsonl.gz",
     "asset_sha256": "d4f2bff8117f967247b6c478dbafea546f7d7f2079795ed253a512d062116be3",
-    "published_at": "2026-11-01T17:06:24Z"
+    "published_at": "2026-11-15T17:37:49Z"
   }
 }

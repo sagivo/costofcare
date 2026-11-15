@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8493/430666765_ranken-jordan-home-for-convalescent-crippled-children-hospital_standardcharges.csv",
   "source_sha256": "59f544674cd2b945904a1f97d8fc7cb4e671a758c381c9712b860eb5f35f4d9b",
   "download_bytes": 48358549,
-  "extracted_at": "2026-11-01T16:57:28Z",
+  "extracted_at": "2026-11-15T17:26:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ranken_jordan_pediatric_bridge_hospital-e7865__3bc172733fc92ba2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/oria-ranken_jordan_pediatric_bridge_hospital-e7865__3bc172733fc92ba2.jsonl.gz",
     "asset_sha256": "3bc172733fc92ba2a40911550417162a842148b00e30fc7ac614854da9ad88d2",
-    "published_at": "2026-11-01T17:05:24Z"
+    "published_at": "2026-11-15T17:37:25Z"
   }
 }

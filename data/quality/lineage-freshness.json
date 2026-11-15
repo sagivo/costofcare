@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:13:17.961768+00:00",
+  "generated_at": "2026-11-15T17:39:44.133842+00:00",
   "normalized_files": 2767,
   "parser_versions": {
     "row-preserving-1.3": 2759,
@@ -7,9 +7,9 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1502,
-    "1_to_7_days": 1003,
-    "within_24h": 262
+    "over_7_days": 1518,
+    "within_24h": 175,
+    "1_to_7_days": 1074
   },
   "failed_attempt_classes": {
     "other": 43,
@@ -80,13 +80,6 @@
       "summary_sha256": "537fa90bb0685dfc96eaf487259a0eedbf306820c2233b5d18d93f44315cd030",
       "normalized_extracted_at": "2026-11-05T08:27:31Z",
       "summary_extracted_at": "2026-11-14T17:58:34Z"
-    },
-    {
-      "source_url": "https://www.uvmhealth.org/sites/default/files/030181058_porter-hospital-inc_standardcharges.csv",
-      "normalized_sha256": "3491385db9b979bd19702e74d472e8f660ad17a8840589e3e022ed17a201aba4",
-      "summary_sha256": "fe06b0c346b043ce8983331162656ff9579a1cbd8b1613bba383b045e0f1f56c",
-      "normalized_extracted_at": "2026-11-01T16:57:50Z",
-      "summary_extracted_at": "2026-11-14T17:07:05Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--marshfield_standardcharges.zip",
@@ -258,9 +251,9 @@
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250965547_saint-vincent-health-center_standardcharges.csv",
-      "normalized_sha256": "1ebe5d09bf10ca8e93034877d093a49516db97b732fa363848dd3dbf18f88f6b",
+      "normalized_sha256": "03b88de720e7b581353f0fe59263d910e9265b9f19ecf20ba04e3f110d3f3b9e",
       "summary_sha256": "9836a9910bfff33e52f9d702f2111a1c2406a58e69c91b7efdf78992aed10324",
-      "normalized_extracted_at": "2026-11-01T17:02:34Z",
+      "normalized_extracted_at": "2026-11-15T17:31:26Z",
       "summary_extracted_at": "2026-11-14T17:13:22Z"
     },
     {
@@ -311,13 +304,6 @@
       "summary_sha256": "31fd4b590527f81e03104ad460000439bacf1ad303687c90271a34c9389f7c31",
       "normalized_extracted_at": "2026-11-12T18:37:40Z",
       "summary_extracted_at": "2026-10-23T14:53:34Z"
-    },
-    {
-      "source_url": "https://www.physiciansregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/204401957_physicians-regional-healthcare-system-north_standardcharges.csv",
-      "normalized_sha256": "fe7892f16210a2dc201deb2dd8759c7b142a8fa7100383a9ab9ea30719a0e179",
-      "summary_sha256": "0f7ea84129492d4aef2ec680c92760749991daa34e190ad75be92f95322271e2",
-      "normalized_extracted_at": "2026-11-02T01:47:41Z",
-      "summary_extracted_at": "2026-11-14T17:05:36Z"
     },
     {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?",
@@ -495,13 +481,6 @@
       "summary_extracted_at": "2026-11-14T16:27:34Z"
     },
     {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnev/celv/finance/price-transparency/941196203-1447393152_dignity-health_standardcharges.json",
-      "normalized_sha256": "b56cabd82abc4692ba5a6cef9b72b0dd20a65b5207d3a5d2b32b449f6370776e",
-      "summary_sha256": "d6d9ea6dfd4eca928b8fd83ba2eb19d3bc2bf442f09bd6b09a20b23e64d3a19f",
-      "normalized_extracted_at": "2026-11-01T16:57:16Z",
-      "summary_extracted_at": "2026-11-14T17:09:57Z"
-    },
-    {
       "source_url": "https://www.pbrmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/431238701_poplar-bluff-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "eb9f28b159459182b4183b2a8fe42c35b9a43af0aa6faf52869573efca256743",
       "summary_sha256": "4d8d00f7cc46557bd89bde373ddbb14e98af23cb68fbd98a9123a9b61da89681",
@@ -598,13 +577,6 @@
       "summary_sha256": "d81f34d756358b0d6851f332515aae16ec938e207aaa8a380453072266cbd67f",
       "normalized_extracted_at": "2026-11-06T17:50:14Z",
       "summary_extracted_at": "2026-11-14T18:09:51Z"
-    },
-    {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnev/celv/finance/price-transparency/941196203-1528101284_dignity-health_standardcharges.json",
-      "normalized_sha256": "142c90674a0b6f6dbe048eb7b0af15df6fea72e4fc704b831d8b9b39be1ba151",
-      "summary_sha256": "64b3afa6f32a8dc3e5afdb31e721e468b6e1bc55568028a8741771851c97bf31",
-      "normalized_extracted_at": "2026-11-01T16:57:22Z",
-      "summary_extracted_at": "2026-11-14T17:14:46Z"
     },
     {
       "source_url": "https://stanfordhealthcare.org/content/dam/valleycare/patients-visitors/941429628_stanford-health-care---tri-valley_standardcharges.json",
@@ -745,13 +717,6 @@
       "summary_sha256": "b87127f00a75086cb49fd2cd7342d95b19177f0378d7decb04c5e1625486c8e7",
       "normalized_extracted_at": "2026-11-02T01:55:14Z",
       "summary_extracted_at": "2026-11-14T17:25:57Z"
-    },
-    {
-      "source_url": "https://cdn.accureg.net/trans/ridgecrest/952082686_Ridgecrest-Regional-Hospital_standardcharges.csv",
-      "normalized_sha256": "24b8ddf1f1082eeeacb2e3908da649c96591a1cbcd2ba76f4926c3bbb1b9c30c",
-      "summary_sha256": "357f9e885859f39847fdf21794679fed2ca61ee1b46de4358ea5675fc342a7b8",
-      "normalized_extracted_at": "2026-11-01T16:57:11Z",
-      "summary_extracted_at": "2026-11-14T17:09:10Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752834135_baylor-scott--white-heart-and-vascular-hospital--dallas_standardcharges.csv",

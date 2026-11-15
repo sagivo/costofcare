@@ -5,7 +5,7 @@
   "source_url": "https://www.smh.com/Portals/0/Documents/Financial/596012500_Sarasota-Memorial-Hospital-Venice_standardcharges.csv",
   "source_sha256": "68744d621246de0d62059204a2ca7d95be875d30534f1c906874576ddfd7a8a7",
   "download_bytes": 149299051,
-  "extracted_at": "2026-11-02T01:47:25Z",
+  "extracted_at": "2026-11-15T17:32:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-sarasota_memorial_hospital_venice-36dd2__3ddeec2d32b973bc.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3d/oria-sarasota_memorial_hospital_venice-36dd2__3ddeec2d32b973bc.jsonl.gz",
     "asset_sha256": "3ddeec2d32b973bc5db5ba4965251e2a61f39155fe21e3fc91e30dfc3ff9ee46",
-    "published_at": "2026-11-02T01:58:49Z"
+    "published_at": "2026-11-15T17:38:16Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.queens.org/wp-content/uploads/990260423_queens-north-hawaii-community-hospital_standardcharges-3.csv",
   "source_sha256": "50c3ae1c4d09efec90350fac6835c6a8d9a43ec8e7a379a9a8c8f4d6e676dd98",
   "download_bytes": 53377355,
-  "extracted_at": "2026-11-01T16:57:35Z",
+  "extracted_at": "2026-11-15T17:26:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-queens_north_hawaii_community_hospital-082e5__eaf6ff66ffcdc2a7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/oria-queens_north_hawaii_community_hospital-082e5__eaf6ff66ffcdc2a7.jsonl.gz",
     "asset_sha256": "eaf6ff66ffcdc2a7384baa686226ae578b640a7e42db70553094dcfb84c64be7",
-    "published_at": "2026-11-01T17:05:19Z"
+    "published_at": "2026-11-15T17:37:23Z"
   }
 }

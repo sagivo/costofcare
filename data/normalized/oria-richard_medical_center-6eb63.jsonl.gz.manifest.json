@@ -5,7 +5,7 @@
   "source_url": "https://richardsonmedical.pg.quadax.revenuemasters.com/cdm-files/721179028_richardson_medical_center_standardcharges.csv",
   "source_sha256": "6f5dc0f921939bab31cd40cb42ae6396c177a4d8e4448578b30d23a175e3cd44",
   "download_bytes": 29886307,
-  "extracted_at": "2026-11-01T16:57:08Z",
+  "extracted_at": "2026-11-15T17:25:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-richard_medical_center-6eb63__26ef9af157835b91.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-richard_medical_center-6eb63__26ef9af157835b91.jsonl.gz",
     "asset_sha256": "26ef9af157835b9145e0290a74f47167673141de00ff6dac2a79ff235aac7b93",
-    "published_at": "2026-11-01T17:05:53Z"
+    "published_at": "2026-11-15T17:37:33Z"
   }
 }

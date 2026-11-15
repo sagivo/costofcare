@@ -5,7 +5,7 @@
   "source_url": "https://www.brownhealth.org/sites/default/files/2026-05/994841947_saint-annes-hospital_standardcharges.csv",
   "source_sha256": "96faff3d0d0782babe388aeed66a5e75ce9a62c37ba9889cdb083d563fed0969",
   "download_bytes": 36091207,
-  "extracted_at": "2026-11-01T16:57:16Z",
+  "extracted_at": "2026-11-15T17:25:48Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-saint_anne_s_hospital-5a37d__109b8126de3b9929.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-10/oria-saint_anne_s_hospital-5a37d__109b8126de3b9929.jsonl.gz",
     "asset_sha256": "109b8126de3b9929a3479d9a01d1d326870577162ea7fe16216d56faabcb6d92",
-    "published_at": "2026-11-01T17:06:21Z"
+    "published_at": "2026-11-15T17:37:47Z"
   }
 }

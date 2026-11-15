@@ -5,7 +5,7 @@
   "source_url": "https://smdh.slicedhealth.io/pricer/436110058_salem-memorial-district-hospital_standardcharges.csv",
   "source_sha256": "f02bc0b51e7e35ced1e796d1752b7047725a045dd785309ba0e8572dc88be7ae",
   "download_bytes": 82286809,
-  "extracted_at": "2026-11-01T17:02:15Z",
+  "extracted_at": "2026-11-15T17:30:18Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-salem_memorial_district_hospital-e961e__766d35548a75f74c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/oria-salem_memorial_district_hospital-e961e__766d35548a75f74c.jsonl.gz",
     "asset_sha256": "766d35548a75f74c66a68b7c66be11801ea74f6071b0dcdf94081178ada6a537",
-    "published_at": "2026-11-01T17:06:48Z"
+    "published_at": "2026-11-15T17:38:11Z"
   }
 }

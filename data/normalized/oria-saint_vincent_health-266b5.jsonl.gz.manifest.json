@@ -5,7 +5,7 @@
   "source_url": "https://stvincent.goredde.com/Estimator/Files/840424585_st.-vincent-general-hospital_standardcharges.csv",
   "source_sha256": "292093a6335adc8c8a7f8f1a42895b2bfdad67c399d40c68ae94e34a608a081c",
   "download_bytes": 114691769,
-  "extracted_at": "2026-11-02T01:45:22Z",
+  "extracted_at": "2026-11-15T17:31:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-saint_vincent_health-266b5__887fb370e13d8f17.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-88/oria-saint_vincent_health-266b5__887fb370e13d8f17.jsonl.gz",
     "asset_sha256": "887fb370e13d8f172ae41efcc6eadce68dedbbc9e6c15a1de7d8680d646a006f",
-    "published_at": "2026-11-02T01:58:16Z"
+    "published_at": "2026-11-15T17:38:06Z"
   }
 }

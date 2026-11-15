@@ -5,7 +5,7 @@
   "source_url": "http://www.putnamgeneral.com/docs/581020324_putnam-general-hospital_standardcharges.csv",
   "source_sha256": "220a1e937789e2f6fa1982c28e1ba35f7c91b2b9ea63cc064371536f6e24d5bf",
   "download_bytes": 18569525,
-  "extracted_at": "2026-11-01T16:56:31Z",
+  "extracted_at": "2026-11-15T17:24:19Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-putnam_general_hospital-5a66f__5652ff9fe2874bf5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-56/oria-putnam_general_hospital-5a66f__5652ff9fe2874bf5.jsonl.gz",
     "asset_sha256": "5652ff9fe2874bf567559a94939d2fbf389e6e4e226e258b3178a40736c97d7e",
-    "published_at": "2026-11-01T17:05:15Z"
+    "published_at": "2026-11-15T17:37:20Z"
   }
 }

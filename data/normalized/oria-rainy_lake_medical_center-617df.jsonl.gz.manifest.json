@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8047/410726171_international-falls-memorial-hospital-association_standardcharges.csv",
   "source_sha256": "cd85f1748bef73d1438cbd6f8df42ed9048055794e7fc8d0a8d998078564db06",
   "download_bytes": 114239053,
-  "extracted_at": "2026-11-01T17:03:06Z",
+  "extracted_at": "2026-11-15T17:31:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-rainy_lake_medical_center-617df__48eb59c12206d0e1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-48/oria-rainy_lake_medical_center-617df__48eb59c12206d0e1.jsonl.gz",
     "asset_sha256": "48eb59c12206d0e1c0249c943b69f20db765b97bbc3105a0681f1107dc38cb91",
-    "published_at": "2026-11-01T17:05:20Z"
+    "published_at": "2026-11-15T17:37:24Z"
   }
 }

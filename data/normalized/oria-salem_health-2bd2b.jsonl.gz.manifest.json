@@ -5,7 +5,7 @@
   "source_url": "https://salemhealth.org/930579722_salem-hospital_standardcharges.json",
   "source_sha256": "d2687d769e74125a936bb7e083a59a5aa9c474abfb2e71413dbc52cc723e0e84",
   "download_bytes": 45272939,
-  "extracted_at": "2026-11-01T16:57:47Z",
+  "extracted_at": "2026-11-15T17:26:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-salem_health-2bd2b__f1a882e8b1fc2364.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f1/oria-salem_health-2bd2b__f1a882e8b1fc2364.jsonl.gz",
     "asset_sha256": "f1a882e8b1fc23647d9cec4ce816a0162743d44a48088df4c4b22c59905d13f0",
-    "published_at": "2026-11-01T17:06:45Z"
+    "published_at": "2026-11-15T17:38:09Z"
   }
 }
