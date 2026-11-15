@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10993/383743547_post-acute-medical-at-victoria-llc_standardcharges.csv",
   "source_sha256": "7b6fa014767fe75448c784b1c875e1ee41507bdab5d097cb8616428e4763ca03",
   "download_bytes": 108190610,
-  "extracted_at": "2026-11-01T01:27:54Z",
+  "extracted_at": "2026-11-15T02:03:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pam_specialty_hospital_of_victoria_north-900f9__d5705033a7a32226.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/oria-pam_specialty_hospital_of_victoria_north-900f9__d5705033a7a32226.jsonl.gz",
     "asset_sha256": "d5705033a7a32226c6cdae2b9e46a33cdae689f8b4f9f588eee41aad2294dff1",
-    "published_at": "2026-11-01T01:36:45Z"
+    "published_at": "2026-11-15T02:10:51Z"
   }
 }

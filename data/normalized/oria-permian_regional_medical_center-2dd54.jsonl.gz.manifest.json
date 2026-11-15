@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7829/751997880_andrews-county-hospital-district_standardcharges.csv",
   "source_sha256": "4adfe17d128cfbf705c92c3dc8278fc2a55498961aa04e97f277b072173398d9",
   "download_bytes": 156266295,
-  "extracted_at": "2026-11-01T01:29:14Z",
+  "extracted_at": "2026-11-15T02:05:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-permian_regional_medical_center-2dd54__b94a91dce600b662.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b9/oria-permian_regional_medical_center-2dd54__b94a91dce600b662.jsonl.gz",
     "asset_sha256": "b94a91dce600b66217caacfa0bbe9c06177a451d3328f0a9aab2d3f17004e404",
-    "published_at": "2026-11-01T01:37:36Z"
+    "published_at": "2026-11-15T02:10:58Z"
   }
 }

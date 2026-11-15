@@ -5,7 +5,7 @@
   "source_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/f76605c4-3372-458f-b443-765cba65564a/710766341_OUACHITA-COUNTY-MEDICAL-CENTER_standardcharges.csv",
   "source_sha256": "b663eed9b96e6eb5d3c5d3b9fec3223e789c13f016a9d5daaca067cabb84b45e",
   "download_bytes": 216725461,
-  "extracted_at": "2026-11-01T01:29:49Z",
+  "extracted_at": "2026-11-15T02:05:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ouachita_county_medical_center-8cc74__141897fc9884e1bd.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-14/oria-ouachita_county_medical_center-8cc74__141897fc9884e1bd.jsonl.gz",
     "asset_sha256": "141897fc9884e1bd66661545b395c7608f000986879860c358976c41b02fd0d1",
-    "published_at": "2026-11-01T01:34:49Z"
+    "published_at": "2026-11-15T02:10:22Z"
   }
 }

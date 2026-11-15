@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10988/383743549_post-acute-medical-at-luling-llc_standardcharges.csv",
   "source_sha256": "abeb1f2dc29f862beeac6e3fd886a0f96c7969e96fc6aa0541a04bc19fd8d3fa",
   "download_bytes": 123667665,
-  "extracted_at": "2026-11-01T01:28:28Z",
+  "extracted_at": "2026-11-15T02:04:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pam_specialty_hospital_of_luling-ab145__7568fa790486e8dd.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-75/oria-pam_specialty_hospital_of_luling-ab145__7568fa790486e8dd.jsonl.gz",
     "asset_sha256": "7568fa790486e8dda4f24cea69c0f5bbbcce94abaf1254309ab6b1494f94685c",
-    "published_at": "2026-11-01T01:36:28Z"
+    "published_at": "2026-11-15T02:10:50Z"
   }
 }

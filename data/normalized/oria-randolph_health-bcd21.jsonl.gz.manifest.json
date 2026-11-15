@@ -5,7 +5,7 @@
   "source_url": "https://www.randolphhealth.org/media/1636/854354835_randolphhealth_standardcharges.csv",
   "source_sha256": "66467e6b40f1be323093036a2fa6c07a13d57eda468559ae110892a8c0cb5d4b",
   "download_bytes": 9192462,
-  "extracted_at": "2026-11-01T16:54:58Z",
+  "extracted_at": "2026-11-15T02:07:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-randolph_health-bcd21__c4bed4fb44c69a50.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c4/oria-randolph_health-bcd21__c4bed4fb44c69a50.jsonl.gz",
     "asset_sha256": "c4bed4fb44c69a5072566cfc4ff702319dd552260f5bbffbb271e306add8f561",
-    "published_at": "2026-11-01T17:05:22Z"
+    "published_at": "2026-11-15T02:11:26Z"
   }
 }

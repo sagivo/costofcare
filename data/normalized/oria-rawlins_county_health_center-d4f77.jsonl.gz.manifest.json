@@ -5,7 +5,7 @@
   "source_url": "https://rchc.slicedhealth.io/pricer/480545181_rawlins-county-health-center_standardcharges.csv",
   "source_sha256": "e46133aba496c998b319f1a8a046f9510716e32cf06d282538c938825c824b8f",
   "download_bytes": 1553233,
-  "extracted_at": "2026-11-01T16:54:30Z",
+  "extracted_at": "2026-11-15T02:07:15Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-rawlins_county_health_center-d4f77__379b93d64f74b9ac.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-rawlins_county_health_center-d4f77__379b93d64f74b9ac.jsonl.gz",
     "asset_sha256": "379b93d64f74b9ac96a08e979f659cf8cbfa73192b053f7053b69a918f274f1a",
-    "published_at": "2026-11-01T17:05:27Z"
+    "published_at": "2026-11-15T02:11:29Z"
   }
 }

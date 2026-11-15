@@ -5,7 +5,7 @@
   "source_url": "https://orangecountyglobalmedicalcenter.com/csv/v3/550883862_orange-county-global-medical-center_standardcharges.csv",
   "source_sha256": "6dc87e8f7b3a5b7fef0371bde71d9da8ae7c13cfe4079089ce5263d8430bf949",
   "download_bytes": 426398553,
-  "extracted_at": "2026-11-01T01:30:57Z",
+  "extracted_at": "2026-11-15T02:07:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-orange_county_global_medical_center-1a8c0__78619c68ff4c0592.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-78/oria-orange_county_global_medical_center-1a8c0__78619c68ff4c0592.jsonl.gz",
     "asset_sha256": "78619c68ff4c05922690925e36eb57830bca2aae3efe764d8ea8cae5a3e85e66",
-    "published_at": "2026-11-01T01:34:38Z"
+    "published_at": "2026-11-15T02:10:18Z"
   }
 }

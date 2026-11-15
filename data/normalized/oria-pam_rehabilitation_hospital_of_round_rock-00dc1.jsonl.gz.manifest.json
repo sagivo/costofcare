@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11142/814265707_pam-rehabilitation-hospital-of-round-rock-llc_standardcharges.csv",
   "source_sha256": "02c3199bff1b2a20ba58609f68343ab37275ee0b0250b043b11f1f6ffd136246",
   "download_bytes": 120078576,
-  "extracted_at": "2026-11-01T01:28:15Z",
+  "extracted_at": "2026-11-15T02:03:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pam_rehabilitation_hospital_of_round_rock-00dc1__c2ccbe51b3228fef.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/oria-pam_rehabilitation_hospital_of_round_rock-00dc1__c2ccbe51b3228fef.jsonl.gz",
     "asset_sha256": "c2ccbe51b3228fef07ce17832238498814257d1e86bf1cb16c1105ce7be33541",
-    "published_at": "2026-11-01T01:36:12Z"
+    "published_at": "2026-11-15T02:10:48Z"
   }
 }

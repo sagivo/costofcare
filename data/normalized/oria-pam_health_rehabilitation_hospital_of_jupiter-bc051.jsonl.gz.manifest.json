@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10166/853967068_pam-rehabilitation-hospital-of-jupiter-llc_standardcharges.csv",
   "source_sha256": "1a534e79c31fc572c9374756dc57ddc670ed544126ea79fd32acaa7c165006c8",
   "download_bytes": 96883684,
-  "extracted_at": "2026-11-01T01:27:32Z",
+  "extracted_at": "2026-11-15T02:02:19Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pam_health_rehabilitation_hospital_of_jupiter-bc051__08201c296c01fa52.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/oria-pam_health_rehabilitation_hospital_of_jupiter-bc051__08201c296c01fa52.jsonl.gz",
     "asset_sha256": "08201c296c01fa52f017686b196f5bc55165cf1760b792101b921293f6e95bbe",
-    "published_at": "2026-11-01T01:35:20Z"
+    "published_at": "2026-11-15T02:10:32Z"
   }
 }

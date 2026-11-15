@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11782/742557820_sid-peterson-memorial-hospital_standardcharges.csv",
   "source_sha256": "faabfeac2b253a4f3e48021a8786edb534853969205cdf6cd6275f839f602557",
   "download_bytes": 114838958,
-  "extracted_at": "2026-11-01T01:28:08Z",
+  "extracted_at": "2026-11-15T02:03:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-peterson_regional_medical_center-a9366__342f250a75ee1d7b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-34/oria-peterson_regional_medical_center-a9366__342f250a75ee1d7b.jsonl.gz",
     "asset_sha256": "342f250a75ee1d7b3b1f4a85f245b5a3a76b7b1ab17798b10e176dc9f227f60f",
-    "published_at": "2026-11-01T01:37:41Z"
+    "published_at": "2026-11-15T02:10:59Z"
   }
 }

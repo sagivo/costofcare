@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-panorama-medical-center-standard-charges-scal-en.csv",
   "source_sha256": "4bd783f62de0dbb0576febb83ca44d8e430db4d944c5395ab3e67e1b82c111b5",
   "download_bytes": 209266337,
-  "extracted_at": "2026-11-01T01:29:32Z",
+  "extracted_at": "2026-11-15T02:05:51Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-panorama_city_medical_center-e7902__ad2d2dd3c560fe71.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/oria-panorama_city_medical_center-e7902__ad2d2dd3c560fe71.jsonl.gz",
     "asset_sha256": "ad2d2dd3c560fe71dc275bb9708a721f9df2b8f9869236b89e257552c188556f",
-    "published_at": "2026-11-01T01:36:50Z"
+    "published_at": "2026-11-15T02:10:53Z"
   }
 }

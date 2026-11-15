@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 212,
+  "records": 223,
   "source_url": "https://secure.claraprice.net/price-transparency/IXDF-1743091820455/machine-readable/476000999_rock-county-hospital_standardcharges.json",
-  "source_sha256": "74db0d95d842c48c7ad52188b85123f8761393045efac490a989fe4859a53567",
-  "download_bytes": 7911174,
-  "extracted_at": "2026-11-01T16:54:51Z",
+  "source_sha256": "3e0c42e9719aa4de226f44495c33c528ffdc9ef2aed49646fd80accbb5e0a6e5",
+  "download_bytes": 4817172,
+  "extracted_at": "2026-11-15T02:07:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-6c",
-    "asset_name": "oria-rock_county_hospital-cdb02__6c58f6415036cab3.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6c/oria-rock_county_hospital-cdb02__6c58f6415036cab3.jsonl.gz",
-    "asset_sha256": "6c58f6415036cab3ddfe30432d42c1c5daa1483b7c44e5950dcb51d01c54d242",
-    "published_at": "2026-11-01T17:06:01Z"
+    "release": "data-norm-99",
+    "asset_name": "oria-rock_county_hospital-cdb02__997d05e647f224f1.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/oria-rock_county_hospital-cdb02__997d05e647f224f1.jsonl.gz",
+    "asset_sha256": "997d05e647f224f14a6083aa30c58fb66322f12747c22cd4829ecc4e34f83ba7",
+    "published_at": "2026-11-15T02:11:57Z"
   }
 }

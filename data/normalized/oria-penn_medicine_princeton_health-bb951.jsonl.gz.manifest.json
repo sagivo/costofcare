@@ -5,7 +5,7 @@
   "source_url": "https://www1.pennmedicine.org/images/pricing/210635009_Penn-Medicine-Princeton-Medical-Center_standardcharges.csv",
   "source_sha256": "48c6470a28ac50915473c8f3ec83361b777f87299295d4cdc9798257b5897b4a",
   "download_bytes": 248501573,
-  "extracted_at": "2026-11-01T01:32:51Z",
+  "extracted_at": "2026-11-15T02:09:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-penn_medicine_princeton_health-bb951__156df2b371dafc6e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-15/oria-penn_medicine_princeton_health-bb951__156df2b371dafc6e.jsonl.gz",
     "asset_sha256": "156df2b371dafc6ecbfcb7ba45a1fc91d75c706417d8796b14375374e8b2c532",
-    "published_at": "2026-11-01T01:37:31Z"
+    "published_at": "2026-11-15T02:10:56Z"
   }
 }

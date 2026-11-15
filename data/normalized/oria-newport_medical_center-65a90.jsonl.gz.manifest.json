@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 659,
+  "records": 688,
   "source_url": "https://www.tennovanewport.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528314_tennova-newport-medical-center_standardcharges.csv",
-  "source_sha256": "59f7024bc403d562149114e91293c243a53901ec2e6850598d9bbe9a6772aaa7",
-  "download_bytes": 102551633,
-  "extracted_at": "2026-11-01T01:28:07Z",
+  "source_sha256": "3525acdb19f331d6ef9a8390ba20a7409ac4555f2dfaf23010f39440effcbc6a",
+  "download_bytes": 147469106,
+  "extracted_at": "2026-11-15T02:04:01Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-b7",
-    "asset_name": "oria-newport_medical_center-65a90__b767257798a21b37.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b7/oria-newport_medical_center-65a90__b767257798a21b37.jsonl.gz",
-    "asset_sha256": "b767257798a21b374f2c2447ab317bf2d2aa8b33fa1a4a16651a79c03c2589e7",
-    "published_at": "2026-11-01T01:33:18Z"
+    "release": "data-norm-eb",
+    "asset_name": "oria-newport_medical_center-65a90__eb85457bdf3821a4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-eb/oria-newport_medical_center-65a90__eb85457bdf3821a4.jsonl.gz",
+    "asset_sha256": "eb85457bdf3821a44970be6bf29327e267bf893d8b24fa425229a7ea31019736",
+    "published_at": "2026-11-15T02:09:53Z"
   }
 }

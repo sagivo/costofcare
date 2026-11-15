@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-irvine-medical-center-standard-charges-scal-en.csv",
   "source_sha256": "091dc234917a1bd9f184dc67f0d3c09c914d0c2838b452a2ad48519c55b3048f",
   "download_bytes": 209265785,
-  "extracted_at": "2026-11-01T01:29:40Z",
+  "extracted_at": "2026-11-15T02:05:46Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-orange_county_irvine_medical_center-ba518__87ec2ff601ec7acc.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-87/oria-orange_county_irvine_medical_center-ba518__87ec2ff601ec7acc.jsonl.gz",
     "asset_sha256": "87ec2ff601ec7accf1518d6a627da0c18dd207a271730a0dbf729cbe291ac50a",
-    "published_at": "2026-11-01T01:34:41Z"
+    "published_at": "2026-11-15T02:10:20Z"
   }
 }

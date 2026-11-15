@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11039/383743546_post-acute-medical-at-san-antonio-llc_standardcharges.csv",
   "source_sha256": "f437dc22806654ba207451fccec5c83d87cb257ee512ca038dd9a304aa82e4bb",
   "download_bytes": 125561042,
-  "extracted_at": "2026-11-01T01:28:39Z",
+  "extracted_at": "2026-11-15T02:04:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pam_health_rehabilitation_hospital_northeast_san_antonio-10d8d__eeeddfc41514e044.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-pam_health_rehabilitation_hospital_northeast_san_antonio-10d8d__eeeddfc41514e044.jsonl.gz",
     "asset_sha256": "eeeddfc41514e044d87c6a6ddfd0833913eafdc7ca99f81c3f80a2b047222852",
-    "published_at": "2026-11-01T01:35:00Z"
+    "published_at": "2026-11-15T02:10:27Z"
   }
 }

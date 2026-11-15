@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12740/474000401-1134186315_norton-healthcare-indiana-inc_standardcharges.csv",
   "source_sha256": "af39380f62b5f9de08c57de1147f420ac98ea75bb8ae3ccea9baeffa338b2e88",
   "download_bytes": 300643021,
-  "extracted_at": "2026-11-01T01:30:27Z",
+  "extracted_at": "2026-11-15T02:06:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-norton_clark_hospital-0b146__9e67c7f578a58134.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9e/oria-norton_clark_hospital-0b146__9e67c7f578a58134.jsonl.gz",
     "asset_sha256": "9e67c7f578a58134113d5ea7125c7240e7a87e51459fefddcd026efae4fa082a",
-    "published_at": "2026-11-01T01:34:07Z"
+    "published_at": "2026-11-15T02:10:04Z"
   }
 }

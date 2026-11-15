@@ -5,7 +5,7 @@
   "source_url": "https://uhsfilecdn.eskycity.net/ac/232238976_northwest-texas-healthcare-system-surgery-center_standardcharges.csv",
   "source_sha256": "9bcf567e9c81552af84a7bae4723e1e6c3fe2f0c01451f70aef40b7095ccfd9f",
   "download_bytes": 119228600,
-  "extracted_at": "2026-11-01T01:28:29Z",
+  "extracted_at": "2026-11-15T02:04:33Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-northwest_texas_healthcare_system_surgery_center-fb2ad__1d17b441a63fe619.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-northwest_texas_healthcare_system_surgery_center-fb2ad__1d17b441a63fe619.jsonl.gz",
     "asset_sha256": "1d17b441a63fe6190ebd566c8b6d35cb74d65ca4c9d6440c832f3ca5d1f07f8a",
-    "published_at": "2026-11-01T01:34:03Z"
+    "published_at": "2026-11-15T02:10:03Z"
   }
 }

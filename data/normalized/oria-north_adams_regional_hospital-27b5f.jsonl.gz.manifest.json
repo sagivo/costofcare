@@ -5,7 +5,7 @@
   "source_url": "https://bhs-publicdownload.s3.us-east-1.amazonaws.com/Public/932484732_North-Adams-Regional-Hospital_StandardCharges.csv",
   "source_sha256": "d348902deed79d9b0913d76b4a6070bf133e0563aabea76763a70076c15881c1",
   "download_bytes": 94597449,
-  "extracted_at": "2026-11-01T01:27:27Z",
+  "extracted_at": "2026-11-15T02:02:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-north_adams_regional_hospital-27b5f__11547e44d19ab564.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-11/oria-north_adams_regional_hospital-27b5f__11547e44d19ab564.jsonl.gz",
     "asset_sha256": "11547e44d19ab5643cb3f76b47f472d18bfb4bc714e5c4079d739722b72fc070",
-    "published_at": "2026-11-01T01:33:26Z"
+    "published_at": "2026-11-15T02:09:55Z"
   }
 }
