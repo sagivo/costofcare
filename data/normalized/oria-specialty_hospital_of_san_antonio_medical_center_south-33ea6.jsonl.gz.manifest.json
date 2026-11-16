@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11035/842809028_pam-specialty-hospital-of-san-antonio-llc_standardcharges.csv",
   "source_sha256": "71e866a8709f0df3f1d12d31d100c7f523c26524899acd70240090e654c35169",
   "download_bytes": 73109867,
-  "extracted_at": "2026-11-02T20:31:00Z",
+  "extracted_at": "2026-11-16T20:42:01Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-specialty_hospital_of_san_antonio_medical_center_south-33ea6__9ad2a9c9b3f0cf58.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9a/oria-specialty_hospital_of_san_antonio_medical_center_south-33ea6__9ad2a9c9b3f0cf58.jsonl.gz",
     "asset_sha256": "9ad2a9c9b3f0cf58679d80d2a861caceed0c4d225cb1e9da03e26ceb5d58b69f",
-    "published_at": "2026-11-02T20:45:41Z"
+    "published_at": "2026-11-16T20:51:18Z"
   }
 }

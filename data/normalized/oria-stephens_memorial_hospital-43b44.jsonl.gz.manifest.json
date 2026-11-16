@@ -5,7 +5,7 @@
   "source_url": "https://smhtx.slicedhealth.io/pricer/462931328_stephens-memorial-hospital_standardcharges.csv",
   "source_sha256": "d808662cc67f048078423e6850e76935dadd8fd20257f0bee5ff6b726475ab53",
   "download_bytes": 31789318,
-  "extracted_at": "2026-11-02T01:56:26Z",
+  "extracted_at": "2026-11-16T20:40:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-stephens_memorial_hospital-43b44__0e34b9efbde6c976.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0e/oria-stephens_memorial_hospital-43b44__0e34b9efbde6c976.jsonl.gz",
     "asset_sha256": "0e34b9efbde6c976bd56cb644e9bd25706f20d53fa7f81785298787c18fc2ded",
-    "published_at": "2026-11-02T02:02:02Z"
+    "published_at": "2026-11-16T20:52:42Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://mrfs.hyvehealthcare.com/CHSLI/111871039_st-charles-hospital_standardcharges.json",
   "source_sha256": "ebdabb24211c9a2177ad3993f0813e5c4ed70854ef9f4eeb8a736d231e25e82a",
   "download_bytes": 725179779,
-  "extracted_at": "2026-11-02T20:42:50Z",
+  "extracted_at": "2026-11-16T20:50:00Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-st_charles_hospital-d88a3__e6666080c6a35517.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e6/oria-st_charles_hospital-d88a3__e6666080c6a35517.jsonl.gz",
     "asset_sha256": "e6666080c6a35517a4fd5a30852478eccd4a20c45d4010eea3e0a5408bcd3bf4",
-    "published_at": "2026-11-02T20:46:06Z"
+    "published_at": "2026-11-16T20:51:32Z"
   }
 }

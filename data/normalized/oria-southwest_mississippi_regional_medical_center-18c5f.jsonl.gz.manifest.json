@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 314,
   "source_url": "https://cdn.accureg.net/trans/smrmc/640468873_Southwest-Mississippi-Regional-Medical-Center_standardcharges.csv",
-  "source_sha256": "fb43d5fccad5619cdfde6d8ae410501448f70da5810f34b08b775373f315c822",
-  "download_bytes": 31622281,
-  "extracted_at": "2026-11-02T01:56:27Z",
+  "source_sha256": "fb6508ecad68a7a6204b023cc2e080574a7c9c9429562cc3616761bd5c0c6297",
+  "download_bytes": 42020679,
+  "extracted_at": "2026-11-16T20:40:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-65",
-    "asset_name": "oria-southwest_mississippi_regional_medical_center-18c5f__65884220ced90557.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/oria-southwest_mississippi_regional_medical_center-18c5f__65884220ced90557.jsonl.gz",
-    "asset_sha256": "65884220ced90557e2df916b332e33b8bd4b009ce5ff848e64d0321f7acf9253",
-    "published_at": "2026-11-02T02:00:09Z"
+    "release": "data-norm-ff",
+    "asset_name": "oria-southwest_mississippi_regional_medical_center-18c5f__ff3c0d23c943f3f0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ff/oria-southwest_mississippi_regional_medical_center-18c5f__ff3c0d23c943f3f0.jsonl.gz",
+    "asset_sha256": "ff3c0d23c943f3f0bf3089a539cae44fc20a634c94ee19d5fa78736e67d3565f",
+    "published_at": "2026-11-16T20:51:15Z"
   }
 }

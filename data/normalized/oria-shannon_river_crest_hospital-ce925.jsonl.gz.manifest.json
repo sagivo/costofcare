@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12617/752559845_shannon-river-crest-hospital_standardcharges.csv",
   "source_sha256": "97491d5633f614fbebb225cb9770eaa0cd372e697fb49262497bbfa59e52e0bf",
   "download_bytes": 495658817,
-  "extracted_at": "2026-11-02T20:41:33Z",
+  "extracted_at": "2026-11-16T20:49:32Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-shannon_river_crest_hospital-ce925__363137e7f427d81e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-36/oria-shannon_river_crest_hospital-ce925__363137e7f427d81e.jsonl.gz",
     "asset_sha256": "363137e7f427d81e5d7b89a98d72488ed18ad59217daba4f240bdd867bfdc239",
-    "published_at": "2026-11-02T20:44:47Z"
+    "published_at": "2026-11-16T20:50:34Z"
   }
 }

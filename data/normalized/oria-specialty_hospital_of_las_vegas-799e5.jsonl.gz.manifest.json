@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10971/842783143_pam-specialty-hospital-of-las-vegas-llc_standardcharges.csv",
   "source_sha256": "cc891ed1d276ac2c6185586cce73a1e0af6589a46fc2055688d79e26f151974f",
   "download_bytes": 79712120,
-  "extracted_at": "2026-11-02T20:31:04Z",
+  "extracted_at": "2026-11-16T20:42:04Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-specialty_hospital_of_las_vegas-799e5__2e77f84afc826ba0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2e/oria-specialty_hospital_of_las_vegas-799e5__2e77f84afc826ba0.jsonl.gz",
     "asset_sha256": "2e77f84afc826ba07d4b573cd4fcbd49e150ec7f892c0548d3933153709dd66a",
-    "published_at": "2026-11-02T20:45:38Z"
+    "published_at": "2026-11-16T20:51:16Z"
   }
 }

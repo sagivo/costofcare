@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/100290/752559845-1497606438_shannon-medical-center-big-spring_standardcharges.csv",
   "source_sha256": "71fd55e5a601cfe893419fa1628a7c871b75881d4ce2120d6ac4e13fdabfd268",
   "download_bytes": 495658100,
-  "extracted_at": "2026-11-02T20:41:28Z",
+  "extracted_at": "2026-11-16T20:49:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-shannon_medical_center_big_spring-2bea6__ece86109569d73d9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/oria-shannon_medical_center_big_spring-2bea6__ece86109569d73d9.jsonl.gz",
     "asset_sha256": "ece86109569d73d91e8c5b600e1ea08dc7d3848b904656ac9a1656828dde1fdc",
-    "published_at": "2026-11-02T20:44:45Z"
+    "published_at": "2026-11-16T20:50:33Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://mrfs.hyvehealthcare.com/CHSLI/113438973_st-joseph-hospital_standardcharges.json",
   "source_sha256": "6519afd8266522370af6263e87acfedcf0fc0446829f065a712b1b8fa8bb7281",
   "download_bytes": 618831306,
-  "extracted_at": "2026-11-02T20:42:03Z",
+  "extracted_at": "2026-11-16T20:49:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-st_joseph_hospital-f7e5f__160dbf441a954581.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-16/oria-st_joseph_hospital-f7e5f__160dbf441a954581.jsonl.gz",
     "asset_sha256": "160dbf441a954581b9672d9feafb81318a75476d28234b570f67d049c804ee2a",
-    "published_at": "2026-11-02T20:46:34Z"
+    "published_at": "2026-11-16T20:51:54Z"
   }
 }

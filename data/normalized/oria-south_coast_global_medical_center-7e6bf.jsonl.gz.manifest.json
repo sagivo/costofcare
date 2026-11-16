@@ -5,7 +5,7 @@
   "source_url": "https://www.southcoastglobalmedicalcenter.com/csv/v3/550883863_south-coast-global-medical-center_standardcharges.csv",
   "source_sha256": "0836c098d27573bbe17625702f2ea5a1970863b80ce0f652efee4fbe0141a0e6",
   "download_bytes": 364384178,
-  "extracted_at": "2026-11-02T20:40:40Z",
+  "extracted_at": "2026-11-16T20:48:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-south_coast_global_medical_center-7e6bf__71afbf0563c2c122.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-south_coast_global_medical_center-7e6bf__71afbf0563c2c122.jsonl.gz",
     "asset_sha256": "71afbf0563c2c122c0d13fd4f67c6e6afdfc171518d2d653ea44f59e5e5ab77e",
-    "published_at": "2026-11-02T20:45:18Z"
+    "published_at": "2026-11-16T20:51:00Z"
   }
 }

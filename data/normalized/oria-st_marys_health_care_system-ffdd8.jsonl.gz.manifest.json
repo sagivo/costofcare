@@ -5,7 +5,7 @@
   "source_url": "https://hpt.trinity-health.org/580566223_st-marys-health-care-system_standardcharges.zip",
   "source_sha256": "b113e767216c18f804a02307b1ae1ea1573e0df0bc745e62ad8e4fbd6e286d55",
   "download_bytes": 81479894,
-  "extracted_at": "2026-11-02T20:33:52Z",
+  "extracted_at": "2026-11-16T20:43:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-st_marys_health_care_system-ffdd8__2be3e1dcc44de33b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-st_marys_health_care_system-ffdd8__2be3e1dcc44de33b.jsonl.gz",
     "asset_sha256": "2be3e1dcc44de33b23c4747b775e139d2bf1efcc3efcaaa7762478404e94cbf9",
-    "published_at": "2026-11-02T20:47:43Z"
+    "published_at": "2026-11-16T20:52:32Z"
   }
 }

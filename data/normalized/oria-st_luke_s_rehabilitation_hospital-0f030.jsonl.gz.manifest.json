@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10983/261207854_st-lukes-rehabilitation-hospital-llc_standardcharges.csv",
   "source_sha256": "f435e751928df479919893881e0bace1ec85df7a76d96fa5193c83d6cc0fd925",
   "download_bytes": 33119336,
-  "extracted_at": "2026-11-02T01:56:30Z",
+  "extracted_at": "2026-11-16T20:40:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-st_luke_s_rehabilitation_hospital-0f030__3dfea202e7013814.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3d/oria-st_luke_s_rehabilitation_hospital-0f030__3dfea202e7013814.jsonl.gz",
     "asset_sha256": "3dfea202e7013814a30133d87c84e707140752c10af9a49a40d4cd6857a47cb8",
-    "published_at": "2026-11-02T02:01:19Z"
+    "published_at": "2026-11-16T20:52:07Z"
   }
 }

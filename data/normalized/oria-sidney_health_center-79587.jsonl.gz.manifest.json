@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8028/810233499_sidney-health-center_standardcharges.csv",
   "source_sha256": "ded2adf3b57e78b69c43a29fb4dbab967bd6abbe968b4bb718d09ecbe2f6f682",
   "download_bytes": 117679393,
-  "extracted_at": "2026-11-02T20:31:58Z",
+  "extracted_at": "2026-11-16T20:42:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-sidney_health_center-79587__4ddfcfe29839fd27.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4d/oria-sidney_health_center-79587__4ddfcfe29839fd27.jsonl.gz",
     "asset_sha256": "4ddfcfe29839fd271ab93ccba492e81e812d88031a999ecf0fda829789038377",
-    "published_at": "2026-11-02T20:44:56Z"
+    "published_at": "2026-11-16T20:50:41Z"
   }
 }

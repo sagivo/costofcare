@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 278,
+  "records": 273,
   "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/383769889-1447406699_franciscan-health-system_standardcharges.json",
-  "source_sha256": "bcec5d980fb275334087d4cf13270abaaf7fd9cdd39913fa371130fbd1bc371a",
-  "download_bytes": 58309351,
-  "extracted_at": "2026-11-02T20:30:28Z",
+  "source_sha256": "c901b4a56b5af716ccb6c5a22592caf96db39890bd33c95db657ebb950fbf1d7",
+  "download_bytes": 58409146,
+  "extracted_at": "2026-11-16T20:41:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-b0",
-    "asset_name": "oria-st_anthony_hospital-2ef16__b04cb4fc7d85cd25.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/oria-st_anthony_hospital-2ef16__b04cb4fc7d85cd25.jsonl.gz",
-    "asset_sha256": "b04cb4fc7d85cd2551be2042d60e7fb7038f09b3e51b3938ea06c33aa64165ca",
-    "published_at": "2026-11-02T20:45:58Z"
+    "release": "data-norm-3e",
+    "asset_name": "oria-st_anthony_hospital-2ef16__3e8a82e1d6270581.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3e/oria-st_anthony_hospital-2ef16__3e8a82e1d6270581.jsonl.gz",
+    "asset_sha256": "3e8a82e1d6270581f09376c7ed1f80f2cdf7b3f680d453a48f0654f834b18660",
+    "published_at": "2026-11-16T20:51:28Z"
   }
 }

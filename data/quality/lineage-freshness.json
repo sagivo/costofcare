@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T02:32:18.968302+00:00",
+  "generated_at": "2026-11-16T20:54:12.009030+00:00",
   "normalized_files": 2767,
   "parser_versions": {
     "row-preserving-1.3": 2759,
@@ -7,12 +7,12 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1534,
-    "within_24h": 175,
-    "1_to_7_days": 1058
+    "over_7_days": 1453,
+    "1_to_7_days": 1145,
+    "within_24h": 169
   },
   "failed_attempt_classes": {
-    "other": 43,
+    "other": 49,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -187,13 +187,6 @@
       "summary_extracted_at": "2026-11-15T17:12:00Z"
     },
     {
-      "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhnev/celv/finance/price-transparency/941196203-1770626426_dignity-health_standardcharges.json",
-      "normalized_sha256": "55ae94d93b723cfb786dacc5bd7b103cda4263862f5024d08e11ce325907656d",
-      "summary_sha256": "315371c1888b51fcaff25c99e75becb5af8b8da581c15a737de3f4f8b11f5500",
-      "normalized_extracted_at": "2026-11-02T20:30:23Z",
-      "summary_extracted_at": "2026-11-15T18:27:56Z"
-    },
-    {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--eau-claire_standardcharges.zip",
       "normalized_sha256": "5141abfa293dde7677f271e9f8bf6b0527a1c3e6905ca501a73c1cd3d386a30d",
       "summary_sha256": "29fc14fcbd7599988871e9a45c93727512a22237266a9f057bf5563ed645000e",
@@ -278,13 +271,6 @@
       "summary_extracted_at": "2026-11-15T19:24:13Z"
     },
     {
-      "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910712166-1558333682_highline-medical-center_standardcharges.json",
-      "normalized_sha256": "3ccb518116e247212c511e12189bba3296a75ea950b11afe62f002ea266d48d5",
-      "summary_sha256": "07cf2042f49ceab95a2e9b5cf32a414a1905b1905dd1ffa4805c3966eafca207",
-      "normalized_extracted_at": "2026-11-02T20:30:36Z",
-      "summary_extracted_at": "2026-11-15T18:33:19Z"
-    },
-    {
       "source_url": "https://www.silverlakehospital.org/price-transparency/272315199-1104144641_silver-lake-hospital_standardcharges.csv",
       "normalized_sha256": "f632a032c1b8aa2c75b4a5fe6dfc7d1c0e8cec28d3d5ca45277c8a5f5dea5b8b",
       "summary_sha256": "31fd4b590527f81e03104ad460000439bacf1ad303687c90271a34c9389f7c31",
@@ -355,13 +341,6 @@
       "summary_extracted_at": "2026-11-15T18:59:42Z"
     },
     {
-      "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910715805-1073674040_enumclaw-regional-hospital-association_standardcharges.json",
-      "normalized_sha256": "79fa21ccbb29fec2dd9ad0360d0c720f06e4fd0d4201f50627bd2a554f942433",
-      "summary_sha256": "e7fc3310cb20e8977dae76b4fd7237764e2653bd6f073632bc2369afae90152b",
-      "normalized_extracted_at": "2026-11-02T20:32:02Z",
-      "summary_extracted_at": "2026-11-15T18:34:48Z"
-    },
-    {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751037591_baylor-scott--white-medical-center--mckinney_standardcharges.csv",
       "normalized_sha256": "b69864381ed06dd167f354b26b17089780871faadd9de82e3c6be9f467d2e79a",
       "summary_sha256": "8d3e99c481d517a28a5d607f3cf3f0c8d501c0c3474ef130403a0f820fe3d5dc",
@@ -411,13 +390,6 @@
       "summary_extracted_at": "2026-11-15T17:39:01Z"
     },
     {
-      "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910564491-1952309098_franciscan-health-system_standardcharges.json",
-      "normalized_sha256": "0d5c5feeca4a2551a15caa7ada0db55660a39cde271f3f98f8ba72bb0335dab0",
-      "summary_sha256": "2dc994e70f6d516a8d6d4486aaf2a86515b935f6d05e2dc126bd678343f662ee",
-      "normalized_extracted_at": "2026-11-02T20:30:31Z",
-      "summary_extracted_at": "2026-11-15T18:35:34Z"
-    },
-    {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251260215_jefferson-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "92886a9091175b55a466dbe02c93fdcb5957c644f1a0f944b4a9746f4f849305",
       "summary_sha256": "67d8daf347a0975f3a8f129d0fa350e743c7f3ebdd9ee9afa95cecc41db7c572",
@@ -437,13 +409,6 @@
       "summary_sha256": "5d1019bbf2ca9e8d028c2b79b228b51365941983b87b4c8dd817b843f8692974",
       "normalized_extracted_at": "2026-11-10T18:10:45Z",
       "summary_extracted_at": "2026-11-04T18:49:45Z"
-    },
-    {
-      "source_url": "https://cdn.accureg.net/trans/smrmc/640468873_Southwest-Mississippi-Regional-Medical-Center_standardcharges.csv",
-      "normalized_sha256": "fb43d5fccad5619cdfde6d8ae410501448f70da5810f34b08b775373f315c822",
-      "summary_sha256": "fb6508ecad68a7a6204b023cc2e080574a7c9c9429562cc3616761bd5c0c6297",
-      "normalized_extracted_at": "2026-11-02T01:56:27Z",
-      "summary_extracted_at": "2026-11-15T18:29:01Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741161944_baylor-scott--white-medical-center--hillcrest_standardcharges.csv",
@@ -528,20 +493,6 @@
       "summary_sha256": "f2fdeb22e325f49fba4a4a657e7a2240227c9bb00b190e3177c3e37ed347f151",
       "normalized_extracted_at": "2026-11-12T03:11:54Z",
       "summary_extracted_at": "2026-11-15T16:30:15Z"
-    },
-    {
-      "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/911267921-1093713091_st-francis-community-hospital_standardcharges.json",
-      "normalized_sha256": "2c7500039fb7c80c0171039220fc5aac0f652ecbd642b8a36282509f99cf1997",
-      "summary_sha256": "78b3d32aca38560c8834369d8314503d8053caf8e025fd8a0d84ae6ad714178c",
-      "normalized_extracted_at": "2026-11-02T20:30:33Z",
-      "summary_extracted_at": "2026-11-15T18:34:49Z"
-    },
-    {
-      "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/911487485-1689672693_saint-clare-hospital_standardcharges.json",
-      "normalized_sha256": "ce9cd61d603715f4fc61be35258f49709ddd1387e99e46845a78fe3b1ba4cbf9",
-      "summary_sha256": "4d0732d3f13473b083ed7e49e12278c4056ab6d3668958a3e9a350d371c4228d",
-      "normalized_extracted_at": "2026-11-02T20:30:33Z",
-      "summary_extracted_at": "2026-11-15T18:34:29Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/824052186_baylor-scott--white-medical-center--centennial_standardcharges.csv",
@@ -677,13 +628,6 @@
       "summary_extracted_at": "2026-11-15T16:39:53Z"
     },
     {
-      "source_url": "https://www.southeasthealth.org/wp-content/uploads/636004476_Southeast-Health-Medical-Center-_standardcharges.csv",
-      "normalized_sha256": "b0dba188567b74e05b2e66c013756268baa00eb4e1089dcd194fc8c26721b68b",
-      "summary_sha256": "fc4d16bceb8ad3cac696ecd06b35980f8146670ae2e3fb1e5d864a1851f5b3b6",
-      "normalized_extracted_at": "2026-11-02T20:30:31Z",
-      "summary_extracted_at": "2026-11-15T18:28:54Z"
-    },
-    {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752834135_baylor-scott--white-heart-and-vascular-hospital--dallas_standardcharges.csv",
       "normalized_sha256": "20e3f3662e6676b7262e548f2de25d8321bdf4c462cec7f6c74abce726afbc75",
       "summary_sha256": "9c382ed2cb2896e946da775c36372b059542c0c46e8f83f53c81aa531b32d677",
@@ -717,13 +661,6 @@
       "summary_sha256": "1ab9f5f001a0bb64a67d8be119db5550aa51b61a0af724f5e0344b5fc523814b",
       "normalized_extracted_at": "2026-11-07T02:25:10Z",
       "summary_extracted_at": "2026-11-15T19:26:11Z"
-    },
-    {
-      "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/383769889-1447406699_franciscan-health-system_standardcharges.json",
-      "normalized_sha256": "bcec5d980fb275334087d4cf13270abaaf7fd9cdd39913fa371130fbd1bc371a",
-      "summary_sha256": "c901b4a56b5af716ccb6c5a22592caf96db39890bd33c95db657ebb950fbf1d7",
-      "normalized_extracted_at": "2026-11-02T20:30:28Z",
-      "summary_extracted_at": "2026-11-15T18:33:35Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1679679146_saint-joseph-health-system-inc_standardcharges.csv",

@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/XGDZ-1751991682610/machine-readable/030179437_springfield-hospital_standardcharges.json",
   "source_sha256": "257b8734c8ec2f5f4ae3456e75a79cf4ab396df69e6acfb0fe484821770339ef",
   "download_bytes": 45524357,
-  "extracted_at": "2026-11-02T20:30:19Z",
+  "extracted_at": "2026-11-16T20:41:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-springfield_hospital-430b9__516b00b6aa48398a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-51/oria-springfield_hospital-430b9__516b00b6aa48398a.jsonl.gz",
     "asset_sha256": "516b00b6aa48398a22754e30dafe96c4a80a07b96ade01fe6628ebe0162305d1",
-    "published_at": "2026-11-02T20:45:44Z"
+    "published_at": "2026-11-16T20:51:20Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7966/160743192_soldiers-and-sailors-hospital_standardcharges.csv",
   "source_sha256": "b701412ea04cd276374befb8e17b75552d9a426daec3141998994d33a8af67f0",
   "download_bytes": 39263867,
-  "extracted_at": "2026-11-02T20:30:09Z",
+  "extracted_at": "2026-11-16T20:41:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-soldiers_sailors_memorial_hospital-6baea__586a161d08371aa8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-soldiers_sailors_memorial_hospital-6baea__586a161d08371aa8.jsonl.gz",
     "asset_sha256": "586a161d08371aa8607a099cd5600af2db812d3e510082141a3c1cb7f618002b",
-    "published_at": "2026-11-02T20:45:13Z"
+    "published_at": "2026-11-16T20:50:57Z"
   }
 }
