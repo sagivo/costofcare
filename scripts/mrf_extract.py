@@ -9,7 +9,6 @@ dollar amounts exactly as published (negotiated percentages/algorithms are count
 but not converted to dollars).
 """
 import csv, gzip, io, json, os, re, sys, tempfile, time, urllib.request, zipfile, hashlib
-csv.field_size_limit(734003200)  # align CSV field cap with the --max-mb 700 download guard; CMS MRFs can carry quoted fields far above the 128KB parser default
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_CODES = os.path.join(HERE, "target_codes.json")
