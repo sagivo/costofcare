@@ -5,7 +5,7 @@
   "source_url": "https://sths-org.s3.us-east-1.amazonaws.com/files/720478620_st-tammany-parish-hospital_standardcharges.csv",
   "source_sha256": "50fced6ff5495dc7afb4a47890d104c599bf3d3244649db9df54f22705329533",
   "download_bytes": 19204731,
-  "extracted_at": "2026-11-02T01:56:12Z",
+  "extracted_at": "2026-11-16T02:24:42Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-st_tammany_parish_hospital-558cb__1e3c146a416e8993.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1e/oria-st_tammany_parish_hospital-558cb__1e3c146a416e8993.jsonl.gz",
     "asset_sha256": "1e3c146a416e89939ddd7d706f4873698627e19ec18ac540b13238f71c6bddf8",
-    "published_at": "2026-11-02T02:01:37Z"
+    "published_at": "2026-11-16T02:30:51Z"
   }
 }

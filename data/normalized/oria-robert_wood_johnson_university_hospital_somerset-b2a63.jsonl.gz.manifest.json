@@ -5,7 +5,7 @@
   "source_url": "https://mrfs.hyvehealthcare.com/RWJBarnabasHealth/221487243_robert-wood-johnson-university-hospital-somerset_standardcharges.json",
   "source_sha256": "756805f8d9217411431a199fb90b0d4b79ac16462d14e6b5da8bb7fe05e3f409",
   "download_bytes": 361353027,
-  "extracted_at": "2026-11-02T01:51:54Z",
+  "extracted_at": "2026-11-16T02:23:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-robert_wood_johnson_university_hospital_somerset-b2a63__eec36180b3420cdc.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ee/oria-robert_wood_johnson_university_hospital_somerset-b2a63__eec36180b3420cdc.jsonl.gz",
     "asset_sha256": "eec36180b3420cdc7e97dffd32514c42147cee736519f4cf7dfb7d73492e44b5",
-    "published_at": "2026-11-02T01:57:50Z"
+    "published_at": "2026-11-16T02:28:38Z"
   }
 }

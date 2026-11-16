@@ -5,7 +5,7 @@
   "source_url": "https://mrfs.hyvehealthcare.com/RWJBarnabasHealth/221487243_robert-wood-johnson-university-hospital-new-brunswick_standardcharges.json",
   "source_sha256": "a980c36be66154a386abf5837d8a5a1ad1a99fe34f391f0010f68bb99abde304",
   "download_bytes": 373088038,
-  "extracted_at": "2026-11-02T01:51:53Z",
+  "extracted_at": "2026-11-16T02:22:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-robert_wood_johnson_university_hospital-db31a__3a3f0555e3f4642b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-robert_wood_johnson_university_hospital-db31a__3a3f0555e3f4642b.jsonl.gz",
     "asset_sha256": "3a3f0555e3f4642b995bfed38128d81a9b5ce1376f0191f074050bcd99b5fc60",
-    "published_at": "2026-11-02T01:57:43Z"
+    "published_at": "2026-11-16T02:28:32Z"
   }
 }

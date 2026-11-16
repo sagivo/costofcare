@@ -5,7 +5,7 @@
   "source_url": "https://www.scotthospital.net/docs/480812417_scott-county-hospital_standardcharges.csv",
   "source_sha256": "ca325a86edea85779c2d05a4f85e6f67f7050fe2c5ea9f22931912a7c101bd68",
   "download_bytes": 10659007,
-  "extracted_at": "2026-11-02T01:56:04Z",
+  "extracted_at": "2026-11-16T02:24:23Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-scott_county_hospital-54170__f98d613160a0340e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f9/oria-scott_county_hospital-54170__f98d613160a0340e.jsonl.gz",
     "asset_sha256": "f98d613160a0340ec938d2ebce3f91dbd6f7443f139c1486b05c06e9cec5980e",
-    "published_at": "2026-11-02T01:58:59Z"
+    "published_at": "2026-11-16T02:29:15Z"
   }
 }

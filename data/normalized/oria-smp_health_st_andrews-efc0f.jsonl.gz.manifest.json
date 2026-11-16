@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 195,
+  "records": 248,
   "source_url": "https://secure.claraprice.net/price-transparency/CKEC-1760711468288/machine-readable/450226426_smp-health---st-andrews_standardcharges.json",
-  "source_sha256": "6fe885a32812f659dcbbf9b44a63f31c7fbf007219bd791d375e53dfad5442b3",
-  "download_bytes": 4264233,
-  "extracted_at": "2026-11-02T01:55:14Z",
+  "source_sha256": "b87127f00a75086cb49fd2cd7342d95b19177f0378d7decb04c5e1625486c8e7",
+  "download_bytes": 3596504,
+  "extracted_at": "2026-11-16T02:23:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-90",
-    "asset_name": "oria-smp_health_st_andrews-efc0f__903781041e8a7c11.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-90/oria-smp_health_st_andrews-efc0f__903781041e8a7c11.jsonl.gz",
-    "asset_sha256": "903781041e8a7c115672953acb5bc9fd321bf6d87bca80ca6075f20185f5b11f",
-    "published_at": "2026-11-02T01:59:28Z"
+    "release": "data-norm-5c",
+    "asset_name": "oria-smp_health_st_andrews-efc0f__5c1e2c3c4df3bd26.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5c/oria-smp_health_st_andrews-efc0f__5c1e2c3c4df3bd26.jsonl.gz",
+    "asset_sha256": "5c1e2c3c4df3bd260ef9bcbf601c8776d25b15d0ba1b4d2815c0d5def1953e18",
+    "published_at": "2026-11-16T02:29:33Z"
   }
 }

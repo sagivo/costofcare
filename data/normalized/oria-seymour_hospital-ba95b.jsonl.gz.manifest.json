@@ -5,7 +5,7 @@
   "source_url": "https://seymourhospital.slicedhealth.io/pricer/75-2299922-1194893263_SeymourHospital_standardcharges.CSV",
   "source_sha256": "2948cd977c8e84fe029536046efc1f645348995d5f91c8b2f0dbc563aaf86742",
   "download_bytes": 11996491,
-  "extracted_at": "2026-11-02T01:56:07Z",
+  "extracted_at": "2026-11-16T02:24:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-seymour_hospital-ba95b__4412429aad7e9031.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-44/oria-seymour_hospital-ba95b__4412429aad7e9031.jsonl.gz",
     "asset_sha256": "4412429aad7e9031ce6c8246b5338960827ee0e7ce5727af99ba6de66dce2d40",
-    "published_at": "2026-11-02T01:59:07Z"
+    "published_at": "2026-11-16T02:29:21Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sedancityhospital.org/standardcharges.csv",
   "source_sha256": "3a789c3407679038de0e471661f32400a9c7b1b26499b75dc642575503409402",
   "download_bytes": 113946,
-  "extracted_at": "2026-11-02T01:54:40Z",
+  "extracted_at": "2026-11-16T02:23:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-sedan_city_hospital-b6f21__01e053b55a384424.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-01/oria-sedan_city_hospital-b6f21__01e053b55a384424.jsonl.gz",
     "asset_sha256": "01e053b55a38442466623a858a4fd0f15f98ba23ff40e548cba819a6f0ff4109",
-    "published_at": "2026-11-02T01:59:02Z"
+    "published_at": "2026-11-16T02:29:17Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-sacramento-medical-center-standard-charges-ncal-en.csv",
   "source_sha256": "9eebd97f6f56e1ba0dbaaac87a9fb4a49e4db44330faa449bb9c418f34b455db",
   "download_bytes": 215533270,
-  "extracted_at": "2026-11-02T01:51:27Z",
+  "extracted_at": "2026-11-16T02:22:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-sacramento_medical_center-dce04__53d9f4faf82b07a2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-53/oria-sacramento_medical_center-dce04__53d9f4faf82b07a2.jsonl.gz",
     "asset_sha256": "53d9f4faf82b07a2774e1f427672b630871ffbbfc03d3eb388bbea7842c64aab",
-    "published_at": "2026-11-02T01:57:55Z"
+    "published_at": "2026-11-16T02:28:42Z"
   }
 }

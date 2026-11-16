@@ -5,7 +5,7 @@
   "source_url": "https://specialistshospitalshreveport.slicedhealth.io/pricer/208810573_specialists-hospital-shreveport_standardcharges.csv",
   "source_sha256": "21c7a1e4a544c08b6eab8581680c13ac8be50988b6b3850481c5b61bbb8c158d",
   "download_bytes": 2538637,
-  "extracted_at": "2026-11-02T01:54:56Z",
+  "extracted_at": "2026-11-16T02:23:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-specialists_hospital_shreveport-401b7__3be691488c3a34ea.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/oria-specialists_hospital_shreveport-401b7__3be691488c3a34ea.jsonl.gz",
     "asset_sha256": "3be691488c3a34ea317dfc7108a4a9ff7d3001e8c801d08e090a1499f6c0f70e",
-    "published_at": "2026-11-02T02:00:20Z"
+    "published_at": "2026-11-16T02:30:09Z"
   }
 }

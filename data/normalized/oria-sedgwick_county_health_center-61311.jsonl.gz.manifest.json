@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/KWNF-1755280847857/machine-readable/840816593_sedgwick-county-health-center_standardcharges.json",
   "source_sha256": "0d2b1e88924004f1568d8405733d339fd34dece7989f7ab0c210816bbd03546d",
   "download_bytes": 3270526,
-  "extracted_at": "2026-11-02T01:55:02Z",
+  "extracted_at": "2026-11-16T02:23:33Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-sedgwick_county_health_center-61311__dc8e32961d3b2890.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dc/oria-sedgwick_county_health_center-61311__dc8e32961d3b2890.jsonl.gz",
     "asset_sha256": "dc8e32961d3b28902a66bf5666d8769689cf699b14191ed469a523cd277623ea",
-    "published_at": "2026-11-02T01:59:04Z"
+    "published_at": "2026-11-16T02:29:19Z"
   }
 }

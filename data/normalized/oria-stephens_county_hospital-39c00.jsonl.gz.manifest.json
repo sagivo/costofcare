@@ -5,7 +5,7 @@
   "source_url": "https://stephenscountyhospital.pg.quadax.revenuemasters.com/cdm-files/586001667_stephens-county-hospital_standardcharges.csv",
   "source_sha256": "8fc54d58f633737fd7a9d77ba00c03dc5eabfe6ae1f5f2a59952bb6eaa1ffab1",
   "download_bytes": 17845973,
-  "extracted_at": "2026-11-02T01:56:10Z",
+  "extracted_at": "2026-11-16T02:24:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-stephens_county_hospital-39c00__c9158bd34a89f59a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c9/oria-stephens_county_hospital-39c00__c9158bd34a89f59a.jsonl.gz",
     "asset_sha256": "c9158bd34a89f59a10844b58f7bd1746c9402d2f93758825c39439118eb39c31",
-    "published_at": "2026-11-02T02:01:59Z"
+    "published_at": "2026-11-16T02:31:06Z"
   }
 }

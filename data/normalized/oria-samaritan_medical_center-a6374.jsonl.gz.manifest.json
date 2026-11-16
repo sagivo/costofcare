@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8502/150533577_samaritan-medical-center_standardcharges.csv",
   "source_sha256": "2794b15551d67ff63fc14185b7f69694c51934bfe297bd96a6fefc1654198a53",
   "download_bytes": 355917538,
-  "extracted_at": "2026-11-02T01:51:53Z",
+  "extracted_at": "2026-11-16T02:23:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-samaritan_medical_center-a6374__b5ef4e5fdc9de9fb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b5/oria-samaritan_medical_center-a6374__b5ef4e5fdc9de9fb.jsonl.gz",
     "asset_sha256": "b5ef4e5fdc9de9fb85d03bf6da5ec5116c17b4e13652dda5f9a8ac0dd09178ae",
-    "published_at": "2026-11-02T01:58:18Z"
+    "published_at": "2026-11-16T02:28:50Z"
   }
 }

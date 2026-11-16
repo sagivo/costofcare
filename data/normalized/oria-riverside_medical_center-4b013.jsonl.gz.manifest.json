@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-riverside-medical-center-standard-charges-scal-en.csv",
   "source_sha256": "658ea675695c7d59060c57b117b80a662154630a909d1e537b75d331c29b91df",
   "download_bytes": 209266916,
-  "extracted_at": "2026-11-02T01:49:18Z",
+  "extracted_at": "2026-11-16T02:20:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-riverside_medical_center-4b013__c81d2a5cdac8d136.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c8/oria-riverside_medical_center-4b013__c81d2a5cdac8d136.jsonl.gz",
     "asset_sha256": "c81d2a5cdac8d136dd2949be9202742a7158adb528bea49a3b11b336c1502d4f",
-    "published_at": "2026-11-02T01:57:38Z"
+    "published_at": "2026-11-16T02:28:28Z"
   }
 }

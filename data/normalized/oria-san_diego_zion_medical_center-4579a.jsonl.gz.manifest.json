@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-diego-zion-medical-center-standard-charges-scal-en.csv",
   "source_sha256": "c9aaba599f26886e6e6127d1a930800502200869a1277d8cb17fa5d11f3ba51f",
   "download_bytes": 209266424,
-  "extracted_at": "2026-11-02T01:49:47Z",
+  "extracted_at": "2026-11-16T02:20:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-san_diego_zion_medical_center-4579a__ed0d780830644ad4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/oria-san_diego_zion_medical_center-4579a__ed0d780830644ad4.jsonl.gz",
     "asset_sha256": "ed0d780830644ad48121c6d4ca304a245b2739013477325b787290d673dcfb41",
-    "published_at": "2026-11-02T01:58:29Z"
+    "published_at": "2026-11-16T02:28:57Z"
   }
 }

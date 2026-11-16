@@ -5,7 +5,7 @@
   "source_url": "https://www.marywashingtonhealthcare.com/documents/134316364_stafford-hospital_standardcharges.csv",
   "source_sha256": "83d02fb1d8e10f6fe44bdb9d44f911f1d84f767bce2fb0bd4cf46040bbbe3122",
   "download_bytes": 6506116,
-  "extracted_at": "2026-11-02T01:55:19Z",
+  "extracted_at": "2026-11-16T02:23:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-stafford_hospital-49827__ed3d879cad4cc841.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ed/oria-stafford_hospital-49827__ed3d879cad4cc841.jsonl.gz",
     "asset_sha256": "ed3d879cad4cc8419789773840188bdb564821ab8076f47ef2b1779a2fca46ac",
-    "published_at": "2026-11-02T02:01:40Z"
+    "published_at": "2026-11-16T02:30:53Z"
   }
 }

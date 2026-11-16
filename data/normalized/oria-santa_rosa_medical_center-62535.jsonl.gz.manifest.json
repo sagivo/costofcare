@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-santa-rosa-medical-center-standard-charges-ncal-en.csv",
   "source_sha256": "9240db8e6e5e3fd34171c92c51582feb13483b8793cf5dcf9134305fded24442",
   "download_bytes": 215532633,
-  "extracted_at": "2026-11-02T01:50:41Z",
+  "extracted_at": "2026-11-16T02:21:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-santa_rosa_medical_center-62535__e76a1651159af2bc.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/oria-santa_rosa_medical_center-62535__e76a1651159af2bc.jsonl.gz",
     "asset_sha256": "e76a1651159af2bc39657cc462f23e90bbed7b4aa789a31d9c3035aa8d6b50ff",
-    "published_at": "2026-11-02T01:58:46Z"
+    "published_at": "2026-11-16T02:29:11Z"
   }
 }

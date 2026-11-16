@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-san-leandro-medical-center-standard-charges-ncal-en.csv",
   "source_sha256": "2d4f06769b80a85148855ec62cef52c3f5d74e59bf8b7f04960de5adc7926de4",
   "download_bytes": 215532338,
-  "extracted_at": "2026-11-02T01:50:23Z",
+  "extracted_at": "2026-11-16T02:20:54Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-san_leandro_med_center-cdf64__4341fd0442f8311b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-san_leandro_med_center-cdf64__4341fd0442f8311b.jsonl.gz",
     "asset_sha256": "4341fd0442f8311b57c2ce9a00b249e23c858bb9d4af764a48efdab34760b3a2",
-    "published_at": "2026-11-02T01:58:36Z"
+    "published_at": "2026-11-16T02:29:03Z"
   }
 }

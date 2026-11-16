@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-roseville-medical-center-standard-charges-ncal-en.csv",
   "source_sha256": "d1501c3e007e0cdff49ca088e55db81e40c9b14ec719498412e119d7880b884f",
   "download_bytes": 215533786,
-  "extracted_at": "2026-11-02T01:51:05Z",
+  "extracted_at": "2026-11-16T02:21:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-roseville_medical_center-f6a19__9f2ccc0de3910fc5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/oria-roseville_medical_center-f6a19__9f2ccc0de3910fc5.jsonl.gz",
     "asset_sha256": "9f2ccc0de3910fc5525a4b0fb88bf5f42c0065e7e6e12acc4878561abf4fa78c",
-    "published_at": "2026-11-02T01:57:53Z"
+    "published_at": "2026-11-16T02:28:40Z"
   }
 }

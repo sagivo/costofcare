@@ -5,7 +5,7 @@
   "source_url": "https://stlukehospital.slicedhealth.io/pricer/810657542_st-luke-hospital_standardcharges.csv",
   "source_sha256": "2fd5e075b821f3b003d5f93b7a6a8927ff4a9d6f294f126547d5359df5dc4665",
   "download_bytes": 12310377,
-  "extracted_at": "2026-11-02T01:56:07Z",
+  "extracted_at": "2026-11-16T02:24:33Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-st_luke_hospital-2852f__6e017c792fdae755.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6e/oria-st_luke_hospital-2852f__6e017c792fdae755.jsonl.gz",
     "asset_sha256": "6e017c792fdae7557b7f254a32872365e0b5ec3b37a3cd91e61a826a2d9bed06",
-    "published_at": "2026-11-02T02:01:17Z"
+    "published_at": "2026-11-16T02:30:43Z"
   }
 }
