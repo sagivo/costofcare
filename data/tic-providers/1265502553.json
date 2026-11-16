@@ -1,0 +1,25 @@
+{
+  "npi": "1265502553",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-16T21:15:19Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1265502553",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SALVATORE",
+      "last_name": "PRESTI",
+      "primary_taxonomy": "Pediatrics, Pediatric Cardiology",
+      "location": {
+        "address_1": "25 SCHERMERHORN ST",
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postal_code": "112014824"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

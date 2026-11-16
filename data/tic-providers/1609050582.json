@@ -1,0 +1,25 @@
+{
+  "npi": "1609050582",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-16T21:15:23Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1609050582",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "XUEMEI",
+      "last_name": "QU",
+      "primary_taxonomy": "Physical Medicine & Rehabilitation",
+      "location": {
+        "address_1": "185 CANAL ST # 501",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100134537"
+      },
+      "last_updated": "2023-08-16"
+    }
+  ]
+}

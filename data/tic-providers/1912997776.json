@@ -1,0 +1,25 @@
+{
+  "npi": "1912997776",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-16T21:15:28Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1912997776",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SALVATORE",
+      "last_name": "LENZO",
+      "primary_taxonomy": "Orthopaedic Surgery, Hand Surgery",
+      "location": {
+        "address_1": "955 5TH AVE",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100211738"
+      },
+      "last_updated": "2010-12-10"
+    }
+  ]
+}
