@@ -1,0 +1,25 @@
+{
+  "npi": "1457314973",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-17T20:01:15Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1457314973",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KYRIAKOS",
+      "last_name": "KIROU",
+      "primary_taxonomy": "Specialist",
+      "location": {
+        "address_1": "535 E 70TH ST",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100214872"
+      },
+      "last_updated": "2021-03-31"
+    }
+  ]
+}
