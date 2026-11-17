@@ -5,7 +5,7 @@
   "source_url": "https://www.uchealth.com/content/dam/uchealth/json-files/311588499_West-Chester-Hospital_StandardCharges.json",
   "source_sha256": "ba97799dce3154e2c78bf60af5ad697184b8f77edd511b9b5b2e6f93df411a8b",
   "download_bytes": 56965573,
-  "extracted_at": "2026-11-03T03:45:04Z",
+  "extracted_at": "2026-11-17T19:21:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-west_chester_hospital-6f0b1__6d5a85e4d6494232.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6d/oria-west_chester_hospital-6f0b1__6d5a85e4d6494232.jsonl.gz",
     "asset_sha256": "6d5a85e4d6494232d0e9251f278ca87c1c811a5831da3d05f6898edac479a74f",
-    "published_at": "2026-11-03T03:50:34Z"
+    "published_at": "2026-11-17T19:26:28Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/MMRL-1778188481466/machine-readable/470466032_webster-county-community-hospital_standardcharges.json",
   "source_sha256": "0eeb749ed73164d18cfeecd5116a9fef98a2edd8312e86314d7dc447acfd0af6",
   "download_bytes": 2155804,
-  "extracted_at": "2026-11-03T03:44:20Z",
+  "extracted_at": "2026-11-17T19:19:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-webster_county_community_hospital-ee12d__bc7f1cde0b9fba2f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/oria-webster_county_community_hospital-ee12d__bc7f1cde0b9fba2f.jsonl.gz",
     "asset_sha256": "bc7f1cde0b9fba2fecd9456e50b8ed7db97353e063e7a7e25db58e4d520eafe9",
-    "published_at": "2026-11-03T03:50:17Z"
+    "published_at": "2026-11-17T19:26:14Z"
   }
 }

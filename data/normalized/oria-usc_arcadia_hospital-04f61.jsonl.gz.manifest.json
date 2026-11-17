@@ -5,7 +5,7 @@
   "source_url": "https://www.keckmedicine.org/wp-content/uploads/2025/06/951643336_usc-arcadia-hospital_standardcharges.csv",
   "source_sha256": "d860170aff647f66d2242036067e6e241c621b483d981c126c465c807666a8a0",
   "download_bytes": 18500689,
-  "extracted_at": "2026-11-03T03:44:37Z",
+  "extracted_at": "2026-11-17T19:20:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-usc_arcadia_hospital-04f61__bb80a04b762af57a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bb/oria-usc_arcadia_hospital-04f61__bb80a04b762af57a.jsonl.gz",
     "asset_sha256": "bb80a04b762af57a9b8729e8110a2657e7011e2ffb183d30c2fc456e24a21260",
-    "published_at": "2026-11-03T03:49:12Z"
+    "published_at": "2026-11-17T19:25:17Z"
   }
 }

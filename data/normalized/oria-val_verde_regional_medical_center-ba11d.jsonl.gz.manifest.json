@@ -5,7 +5,7 @@
   "source_url": "https://vvrmc.slicedhealth.io/pricer/74-2941598-1104830900_ValVerdeRegionalMedicalCenter_standardcharges.CSV",
   "source_sha256": "3915dc3c2e91aa840688ce7c28c257e849acea72823188d0443f625f4161c308",
   "download_bytes": 32574604,
-  "extracted_at": "2026-11-03T03:44:56Z",
+  "extracted_at": "2026-11-17T19:20:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-val_verde_regional_medical_center-ba11d__99ea7a568f5a6ca7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/oria-val_verde_regional_medical_center-ba11d__99ea7a568f5a6ca7.jsonl.gz",
     "asset_sha256": "99ea7a568f5a6ca747da324d7ab538b89fdcd86f33b3c3664226eecd6e6ea43b",
-    "published_at": "2026-11-03T03:49:18Z"
+    "published_at": "2026-11-17T19:25:22Z"
   }
 }

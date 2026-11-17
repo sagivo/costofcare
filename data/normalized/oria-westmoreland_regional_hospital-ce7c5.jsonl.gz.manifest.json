@@ -5,7 +5,7 @@
   "source_url": "https://www.independence.health/documents/content/250965612_WestmorelandRegionalHospital_StandardCharges.csv",
   "source_sha256": "80ce3557300662377aeb22dec1fdb769405ad7461b30005c389b5fd8a1b914a5",
   "download_bytes": 17904153,
-  "extracted_at": "2026-11-03T03:44:38Z",
+  "extracted_at": "2026-11-17T19:20:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-westmoreland_regional_hospital-ce7c5__c7c1f6443ca711c8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c7/oria-westmoreland_regional_hospital-ce7c5__c7c1f6443ca711c8.jsonl.gz",
     "asset_sha256": "c7c1f6443ca711c8e6121f695a88b32018cfbd496586cb9ef63d2a94f6c0a167",
-    "published_at": "2026-11-03T03:51:03Z"
+    "published_at": "2026-11-17T19:26:52Z"
   }
 }

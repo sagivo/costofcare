@@ -5,7 +5,7 @@
   "source_url": "https://yumadistricthospital.pg.revenuemasters.com/cdm-files/840420041_yuma-district-hospital_standardcharges.csv",
   "source_sha256": "0638da41c59cc9e4fc381a91755c1550a3194e8441e55d6d5ac0b8ce127bb43d",
   "download_bytes": 13584155,
-  "extracted_at": "2026-11-03T03:44:29Z",
+  "extracted_at": "2026-11-17T19:19:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-yuma_disctrict_hospital-957e1__85f6f2d78113bb2c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-85/oria-yuma_disctrict_hospital-957e1__85f6f2d78113bb2c.jsonl.gz",
     "asset_sha256": "85f6f2d78113bb2c9d1bdb37a21ca8cfae1afe699c4d779c71834af8a0c680f8",
-    "published_at": "2026-11-03T03:51:56Z"
+    "published_at": "2026-11-17T19:27:33Z"
   }
 }

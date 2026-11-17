@@ -5,7 +5,7 @@
   "source_url": "https://cdn.accureg.net/trans/wickenburg/860096775_Wickenburg-Community-Hospital_standardcharges.csv",
   "source_sha256": "27ff20ddd7bb20d90938c301987563b0a163a7240c037288479944d0039a5c73",
   "download_bytes": 174819240,
-  "extracted_at": "2026-11-03T03:46:06Z",
+  "extracted_at": "2026-11-17T19:22:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-wickenburg_community_hospital-8c961__8c37a1bca3ec9014.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-wickenburg_community_hospital-8c961__8c37a1bca3ec9014.jsonl.gz",
     "asset_sha256": "8c37a1bca3ec901485d8ddba453a50c7129fa08fdf09479ca91499d07c7e0566",
-    "published_at": "2026-11-03T03:51:14Z"
+    "published_at": "2026-11-17T19:27:03Z"
   }
 }

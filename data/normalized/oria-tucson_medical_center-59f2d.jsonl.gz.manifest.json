@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8289/860137567_tucson-medical-center_standardcharges.csv",
   "source_sha256": "b2fa0a14152444f188c8cc0669663f55e43cb4094b352f8de2c9f43f62654707",
   "download_bytes": 510613074,
-  "extracted_at": "2026-11-03T03:44:32Z",
+  "extracted_at": "2026-11-17T19:20:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-tucson_medical_center-59f2d__7bc5216b245086f9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/oria-tucson_medical_center-59f2d__7bc5216b245086f9.jsonl.gz",
     "asset_sha256": "7bc5216b245086f9d146edc1e73255f66b91a6557bc3c8c4e534a01678438779",
-    "published_at": "2026-11-03T03:48:37Z"
+    "published_at": "2026-11-17T19:25:07Z"
   }
 }

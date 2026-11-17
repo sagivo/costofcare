@@ -5,7 +5,7 @@
   "source_url": "https://hph.pt.panaceainc.com/MRFDownload/hph/wilcox/990074365_Wilcox-Medical-Center_standardcharges.csv",
   "source_sha256": "31dcc9fd59fce725424e40601e45123a472cdc3da32a8799fdd06f06a8bc0636",
   "download_bytes": 200708906,
-  "extracted_at": "2026-11-03T03:46:21Z",
+  "extracted_at": "2026-11-17T19:22:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-wilcox_medical_center-9b45c__3ab17d209c523068.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-wilcox_medical_center-9b45c__3ab17d209c523068.jsonl.gz",
     "asset_sha256": "3ab17d209c5230683a5417fe1f33ea7a751cf20ee64c38fe48fb0e6af66136ec",
-    "published_at": "2026-11-03T03:51:16Z"
+    "published_at": "2026-11-17T19:27:05Z"
   }
 }

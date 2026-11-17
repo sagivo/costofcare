@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/10190/470485275_valley-county-hospital_standardcharges.csv",
   "source_sha256": "eaf76e5c134130512ab3510a1e398e23b4dac56cc53cdced0650a5ccbb6bcd61",
   "download_bytes": 59019900,
-  "extracted_at": "2026-11-03T03:45:08Z",
+  "extracted_at": "2026-11-17T19:21:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-valley_county_health_system-19d3e__24fe2b9d44b97940.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-24/oria-valley_county_health_system-19d3e__24fe2b9d44b97940.jsonl.gz",
     "asset_sha256": "24fe2b9d44b97940a3e3d3a649670fd2af2beac39e3fee5e6c5e60520fd467cb",
-    "published_at": "2026-11-03T03:49:22Z"
+    "published_at": "2026-11-17T19:25:26Z"
   }
 }

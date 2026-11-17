@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-vallejo-medical-center-standard-charges-ncal-en.csv",
   "source_sha256": "80556d040c7e2c1302235fe8022afe125b69f0694dff577275392ebe8aa28889",
   "download_bytes": 215533233,
-  "extracted_at": "2026-11-03T03:47:04Z",
+  "extracted_at": "2026-11-17T19:23:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-vallejo_medical_center-30bc3__4fbc4faaf2da05c2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4f/oria-vallejo_medical_center-30bc3__4fbc4faaf2da05c2.jsonl.gz",
     "asset_sha256": "4fbc4faaf2da05c2ece0af3635a4934d0e059832c4f905dfd07af88b34384efd",
-    "published_at": "2026-11-03T03:49:20Z"
+    "published_at": "2026-11-17T19:25:24Z"
   }
 }

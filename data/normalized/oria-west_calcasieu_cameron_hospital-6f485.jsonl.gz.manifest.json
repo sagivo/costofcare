@@ -5,7 +5,7 @@
   "source_url": "https://www.wcch.com/documents/Charges/726008355_west-calcasieu-cameron-hospital_standardcharges.csv",
   "source_sha256": "40fbff8d87f5ca1a5d7e137124bc22b3b8d5161f50aa03de314916f0e2aad063",
   "download_bytes": 34931360,
-  "extracted_at": "2026-11-03T03:45:00Z",
+  "extracted_at": "2026-11-17T19:20:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-west_calcasieu_cameron_hospital-6f485__506a7ce5061acd9a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-50/oria-west_calcasieu_cameron_hospital-6f485__506a7ce5061acd9a.jsonl.gz",
     "asset_sha256": "506a7ce5061acd9a105137518045b1ab552eaee3e5804237633ea0d1752981f6",
-    "published_at": "2026-11-03T03:50:28Z"
+    "published_at": "2026-11-17T19:26:23Z"
   }
 }

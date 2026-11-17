@@ -5,7 +5,7 @@
   "source_url": "https://www.waynehealthcare.org/documents/finance/34-4428598_Wayne-Healthcare_standardcharges-4.1.26.csv",
   "source_sha256": "33f4c9c94c4c7d49e0d37f49e73af819a51b4bb054b11eaa0ed7ea37163dd744",
   "download_bytes": 21072738,
-  "extracted_at": "2026-11-03T03:44:43Z",
+  "extracted_at": "2026-11-17T19:20:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-wayne_healthcare-345aa__7d31839e00ef9960.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-wayne_healthcare-345aa__7d31839e00ef9960.jsonl.gz",
     "asset_sha256": "7d31839e00ef9960443fe3acb57707ec2cb6fc07ac81e7fa9a55bbe772a541d5",
-    "published_at": "2026-11-03T03:50:10Z"
+    "published_at": "2026-11-17T19:26:08Z"
   }
 }

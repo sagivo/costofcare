@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8556/871759588_webster-memorial-hospital-inc_standardcharges.csv",
   "source_sha256": "cda0a8b21cd665401a71168a301ed40164f77e11595aab4072575cef50fb6f2e",
   "download_bytes": 107449068,
-  "extracted_at": "2026-11-03T03:45:27Z",
+  "extracted_at": "2026-11-17T19:21:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-webster_county_memorial_hospital-2f50a__2483f0541ab7f444.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-24/oria-webster_county_memorial_hospital-2f50a__2483f0541ab7f444.jsonl.gz",
     "asset_sha256": "2483f0541ab7f4448690116efe57f1bd6933e8d07c998b4ca628a0f163605e07",
-    "published_at": "2026-11-03T03:50:19Z"
+    "published_at": "2026-11-17T19:26:16Z"
   }
 }

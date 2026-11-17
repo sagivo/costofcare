@@ -5,7 +5,7 @@
   "source_url": "https://www.womans.org/sites/default/files/2024-12/720652905_womans-hospital_standardcharges.csv",
   "source_sha256": "e29162d27ce1f2abaa528b7a25d5817f8500ea7adcb72789f77b7a9393aa3daf",
   "download_bytes": 147685185,
-  "extracted_at": "2026-11-03T03:45:57Z",
+  "extracted_at": "2026-11-17T19:22:25Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-woman_s_hospital-abb37__d59bb4e727fedd53.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/oria-woman_s_hospital-abb37__d59bb4e727fedd53.jsonl.gz",
     "asset_sha256": "d59bb4e727fedd53db184d2839bd68b7f96f8ba00e23a034b20d2fb8d0f153e1",
-    "published_at": "2026-11-03T03:51:38Z"
+    "published_at": "2026-11-17T19:27:20Z"
   }
 }

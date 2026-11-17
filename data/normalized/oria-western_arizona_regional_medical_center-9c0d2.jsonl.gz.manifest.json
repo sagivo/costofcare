@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 412,
+  "records": 410,
   "source_url": "https://www.warmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/860982071_western-arizona-regional-medical-center_standardcharges.csv",
-  "source_sha256": "3a8539939e941ccc4f4b1f4aaa99868a6b89d955935d8b1c5c14dd80b0f718d5",
-  "download_bytes": 162026834,
-  "extracted_at": "2026-11-03T03:46:11Z",
+  "source_sha256": "1ef75746fc86d92141792d5e29cac7dc10832313e348c555e8192d39e2d46b37",
+  "download_bytes": 116445513,
+  "extracted_at": "2026-11-17T19:22:42Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ec",
-    "asset_name": "oria-western_arizona_regional_medical_center-9c0d2__ec4a731a4abfa0fb.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ec/oria-western_arizona_regional_medical_center-9c0d2__ec4a731a4abfa0fb.jsonl.gz",
-    "asset_sha256": "ec4a731a4abfa0fb1f4cab14890e72fce26ac71de9c5a8d63cf2c7676deffc30",
-    "published_at": "2026-11-03T03:50:59Z"
+    "release": "data-norm-63",
+    "asset_name": "oria-western_arizona_regional_medical_center-9c0d2__63bffb562557e4fe.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-63/oria-western_arizona_regional_medical_center-9c0d2__63bffb562557e4fe.jsonl.gz",
+    "asset_sha256": "63bffb562557e4fe5382712eb11e2a3f4bd3e45bdefaa7cfd82f641dad640a49",
+    "published_at": "2026-11-17T19:26:49Z"
   }
 }

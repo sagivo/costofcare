@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/264691864_louisiana-extended-care-hospital-of-kenner-llc__standardcharges.csv.csv",
   "source_sha256": "44d4a8e6d15b52c31a65bd1dd8965148c16e7e00db6b74b2e6d0b81a41ecaad5",
   "download_bytes": 11192181,
-  "extracted_at": "2026-11-03T18:02:55Z",
+  "extracted_at": "2026-11-17T19:23:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ochsner-extended-care-hospital__97f2018c6ab6e1d0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-97/ochsner-extended-care-hospital__97f2018c6ab6e1d0.jsonl.gz",
     "asset_sha256": "97f2018c6ab6e1d008774431ad47c7f73f6398b78cecbf7466dab6a230967901",
-    "published_at": "2026-11-03T18:37:46Z"
+    "published_at": "2026-11-17T19:25:03Z"
   }
 }

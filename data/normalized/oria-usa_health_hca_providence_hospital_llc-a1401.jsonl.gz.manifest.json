@@ -5,7 +5,7 @@
   "source_url": "https://marketingassetstorage.blob.core.windows.net/pdf/931394239_usa-health-hca-providence-hospital-llc_standardcharges.csv",
   "source_sha256": "2a9a9e3174bcc17f26e33896a4b4de2392190db05ea6b6ce3a32d5b1a83ec7a4",
   "download_bytes": 23437438,
-  "extracted_at": "2026-11-03T03:44:45Z",
+  "extracted_at": "2026-11-17T19:20:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-usa_health_hca_providence_hospital_llc-a1401__7adfe492c4f6dad1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7a/oria-usa_health_hca_providence_hospital_llc-a1401__7adfe492c4f6dad1.jsonl.gz",
     "asset_sha256": "7adfe492c4f6dad1dde52d2a955937b6ce9c3936dedd24e07d510c7f2819afd7",
-    "published_at": "2026-11-03T03:49:10Z"
+    "published_at": "2026-11-17T19:25:13Z"
   }
 }

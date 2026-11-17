@@ -5,7 +5,7 @@
   "source_url": "https://healthy.kaiserpermanente.org/content/dam/kporg/final/documents/health-plan-documents/coverage-information/machine-readable/941105628-woodland-hills-medical-center-standard-charges-scal-en.csv",
   "source_sha256": "b79c8b600c58e766133dec61369430503eeb61117b7d95dc6239149e4010e1c1",
   "download_bytes": 209266497,
-  "extracted_at": "2026-11-03T03:46:36Z",
+  "extracted_at": "2026-11-17T19:22:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-woodland_hills_medical_center-22829__fbf9197529075264.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fb/oria-woodland_hills_medical_center-22829__fbf9197529075264.jsonl.gz",
     "asset_sha256": "fbf91975290752641b970c943f540b6022e83db5b462061daf32f5e785728077",
-    "published_at": "2026-11-03T03:51:45Z"
+    "published_at": "2026-11-17T19:27:26Z"
   }
 }

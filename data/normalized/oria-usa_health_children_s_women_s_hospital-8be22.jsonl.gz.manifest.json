@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/12726/630477348_usa-health-children's-&-women's-hospital_standardcharges.csv",
   "source_sha256": "25be46d7df28d14f51c031725b0c690fc27f4122c532dc4a77d6684110666f6b",
   "download_bytes": 620898173,
-  "extracted_at": "2026-11-03T18:03:48Z",
+  "extracted_at": "2026-11-17T19:24:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-usa_health_children_s_women_s_hospital-8be22__7ce06272af5eedd3.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/oria-usa_health_children_s_women_s_hospital-8be22__7ce06272af5eedd3.jsonl.gz",
     "asset_sha256": "7ce06272af5eedd32cd172a03f97a77c5e95569157c68b2d28f8095407be3b81",
-    "published_at": "2026-11-03T18:40:45Z"
+    "published_at": "2026-11-17T19:25:11Z"
   }
 }
