@@ -5,7 +5,7 @@
   "source_url": "https://mrfs.hyvehealthcare.com/TriStateHealth/910545036_tri-state-memorial-hospital_standardcharges.csv",
   "source_sha256": "f3b7320415e1253975e7dd3df805ce72b5ac6e99c93ebb66dda1ea7d7daca5ee",
   "download_bytes": 196821873,
-  "extracted_at": "2026-11-03T03:43:04Z",
+  "extracted_at": "2026-11-17T04:45:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-tristate_health-2c77e__2543f048799840e4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-25/oria-tristate_health-2c77e__2543f048799840e4.jsonl.gz",
     "asset_sha256": "2543f048799840e4fb963c0e2a3a95bc70a20891d39ebd5ef6d508c88770189d",
-    "published_at": "2026-11-03T03:48:35Z"
+    "published_at": "2026-11-17T04:53:41Z"
   }
 }

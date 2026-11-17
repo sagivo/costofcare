@@ -5,7 +5,7 @@
   "source_url": "https://union.health/350876396_union-hospital-regional_standardcharges.csv",
   "source_sha256": "5328ec76a0cb3c479620cbcb5b6bbb1903b51c9d3b68ac0743bba6ce5cf7ea1b",
   "download_bytes": 67279600,
-  "extracted_at": "2026-11-03T03:41:20Z",
+  "extracted_at": "2026-11-17T04:43:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-union_hospital_regional-275ab__093243b4edc483e7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/oria-union_hospital_regional-275ab__093243b4edc483e7.jsonl.gz",
     "asset_sha256": "093243b4edc483e71cbd59b5a993ce45bd9cc63998d00edbb4cabdb262aa9157",
-    "published_at": "2026-11-03T03:49:01Z"
+    "published_at": "2026-11-17T04:54:02Z"
   }
 }

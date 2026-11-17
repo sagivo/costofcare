@@ -5,7 +5,7 @@
   "source_url": "https://hph.pt.panaceainc.com/MRFDownload/hph/straub/912151670_Straub-Benioff-Medical-Center_standardcharges.csv",
   "source_sha256": "46cb0377d2f93a8938cc05268112bd949fbb542c1b007f6e9be1cb9e5b4e7af3",
   "download_bytes": 321029013,
-  "extracted_at": "2026-11-03T03:43:48Z",
+  "extracted_at": "2026-11-17T04:46:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-straub_benioff_medical_center-4cd67__3dd21231a24b9323.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3d/oria-straub_benioff_medical_center-4cd67__3dd21231a24b9323.jsonl.gz",
     "asset_sha256": "3dd21231a24b9323ed1823010794990e9d96e7b8f43f187d8f2871b7e2af000d",
-    "published_at": "2026-11-03T03:47:56Z"
+    "published_at": "2026-11-17T04:52:46Z"
   }
 }

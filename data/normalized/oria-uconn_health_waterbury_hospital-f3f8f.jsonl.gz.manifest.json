@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7914/812181470_uconn-health,-waterbury-hospital_standardcharges.csv",
   "source_sha256": "9a33aa0b5c67cc2a3c5cee0115ffa2bcf15f6ad5dd0dc69044111bdfdc1064fc",
   "download_bytes": 150518718,
-  "extracted_at": "2026-11-03T03:42:17Z",
+  "extracted_at": "2026-11-17T04:45:03Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-uconn_health_waterbury_hospital-f3f8f__5ad8b48c6f42e955.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-uconn_health_waterbury_hospital-f3f8f__5ad8b48c6f42e955.jsonl.gz",
     "asset_sha256": "5ad8b48c6f42e955738ff47f188d6a85ee2c22f5dd05cb5d44cc27cc321e912a",
-    "published_at": "2026-11-03T03:48:46Z"
+    "published_at": "2026-11-17T04:53:51Z"
   }
 }

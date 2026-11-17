@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13805/751438726-1306870399_texas-health-harris-methodist-hospital-hursteulessbedford_standardcharges.csv",
   "source_sha256": "1bdb46ba645e8b459fb460d164a302f1625eb67860b8d5c64d67bf8c68c04182",
   "download_bytes": 90918819,
-  "extracted_at": "2026-11-03T03:41:35Z",
+  "extracted_at": "2026-11-17T04:44:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-texas_health_springwood_hospital_hurst_euless_bedford-e6143__db7fc5639c4bd251.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-texas_health_springwood_hospital_hurst_euless_bedford-e6143__db7fc5639c4bd251.jsonl.gz",
     "asset_sha256": "db7fc5639c4bd251a08b9b7187a946509247d65b3d45c6af91aa5826bbd8c569",
-    "published_at": "2026-11-03T03:48:14Z"
+    "published_at": "2026-11-17T04:53:08Z"
   }
 }

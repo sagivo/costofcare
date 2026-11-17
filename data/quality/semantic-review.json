@@ -1,22 +1,73 @@
 {
-  "generated_at": "2026-11-16T20:54:11.985949+00:00",
-  "records_scanned": 724076,
-  "flag_counts": {},
-  "review_examples": [],
+  "generated_at": "2026-11-17T04:55:34.889622+00:00",
+  "records_scanned": 504508,
+  "flag_counts": {
+    "large_published_amount_review": 6
+  },
+  "review_examples": [
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-turkey_creek_medical_center-23348",
+      "source_record_ordinal": 20902,
+      "source_sha256": "f4c6e576fc3d5dd60802d000cba5897cdf7f18ea5fe4399ef149a97b94298787",
+      "field": "standard_charge|max",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-turkey_creek_medical_center-23348",
+      "source_record_ordinal": 20902,
+      "source_sha256": "f4c6e576fc3d5dd60802d000cba5897cdf7f18ea5fe4399ef149a97b94298787",
+      "field": "standard_charge|NovaNet Work Comp TN|NovaNet Work Comp TN|negotiated_dollar",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-turkey_creek_medical_center-23348",
+      "source_record_ordinal": 20930,
+      "source_sha256": "f4c6e576fc3d5dd60802d000cba5897cdf7f18ea5fe4399ef149a97b94298787",
+      "field": "standard_charge|max",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-turkey_creek_medical_center-23348",
+      "source_record_ordinal": 20930,
+      "source_sha256": "f4c6e576fc3d5dd60802d000cba5897cdf7f18ea5fe4399ef149a97b94298787",
+      "field": "standard_charge|NovaNet Work Comp TN|NovaNet Work Comp TN|negotiated_dollar",
+      "raw_value": "1862163.27"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-turkey_creek_medical_center-23348",
+      "source_record_ordinal": 21106,
+      "source_sha256": "f4c6e576fc3d5dd60802d000cba5897cdf7f18ea5fe4399ef149a97b94298787",
+      "field": "standard_charge|max",
+      "raw_value": "1012224.51"
+    },
+    {
+      "flag": "large_published_amount_review",
+      "source_id": "oria-turkey_creek_medical_center-23348",
+      "source_record_ordinal": 21106,
+      "source_sha256": "f4c6e576fc3d5dd60802d000cba5897cdf7f18ea5fe4399ef149a97b94298787",
+      "field": "standard_charge|NovaNet Work Comp TN|NovaNet Work Comp TN|negotiated_dollar",
+      "raw_value": "1012224.51"
+    }
+  ],
   "populated_qualifier_counts": {
-    "setting": 724079,
-    "billing_class": 671124,
-    "payer_name": 704524,
-    "plan_name": 704524,
-    "json_payer_name": 291040,
-    "json_plan_name": 291040,
-    "json_methodology": 291040,
-    "json_source_records": 7847,
-    "modifiers": 214563
+    "setting": 490504,
+    "billing_class": 437508,
+    "payer_name": 463071,
+    "plan_name": 463071,
+    "modifiers": 117937,
+    "json_payer_name": 77836,
+    "json_plan_name": 77836,
+    "json_methodology": 77836,
+    "json_source_records": 5192
   },
   "coverage_note": {
-    "local_blob_files": 81,
-    "remote_only_files": 2686,
+    "local_blob_files": 82,
+    "remote_only_files": 2685,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

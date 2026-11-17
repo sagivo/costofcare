@@ -5,7 +5,7 @@
   "source_url": "https://www.umc.edu/Healthcare/Patients-and-Visitors/Bill%20Pay/Pricing%20Files/646008520-1194770404_university-of-mississippi-medical-center_standardcharges.csv",
   "source_sha256": "1095ee9ff8ef67401e79e80ee5b0fc8ec5dbbf7be4dcb4df698093755d2cb873",
   "download_bytes": 93360523,
-  "extracted_at": "2026-11-03T03:41:51Z",
+  "extracted_at": "2026-11-17T04:44:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ummc_madison-062d1__3a9945d1cbed8414.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-ummc_madison-062d1__3a9945d1cbed8414.jsonl.gz",
     "asset_sha256": "3a9945d1cbed8414ad826105f9477e3daeec4b654a48d57d7f6c60c0cb0400d1",
-    "published_at": "2026-11-03T03:48:53Z"
+    "published_at": "2026-11-17T04:53:55Z"
   }
 }

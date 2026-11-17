@@ -5,7 +5,7 @@
   "source_url": "https://cdn.ardenthealthservices.com/price-transparency/73-1600601_Tulsa-Spine-and-Specialty-Hospital_standardcharges.csv",
   "source_sha256": "2167b2f408d0f2c523cfac3e419c1774ef7941d3d379e2a50b17e3c7b189e7f3",
   "download_bytes": 177807721,
-  "extracted_at": "2026-11-03T03:42:38Z",
+  "extracted_at": "2026-11-17T04:45:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-tulsa_spine_specialty_hospital-e913f__cca6f82cf5c88ced.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/oria-tulsa_spine_specialty_hospital-e913f__cca6f82cf5c88ced.jsonl.gz",
     "asset_sha256": "cca6f82cf5c88ced2b76d6d3f135cd218c652cb0128177b3bf8c6f826e3bd5bf",
-    "published_at": "2026-11-03T03:48:39Z"
+    "published_at": "2026-11-17T04:53:45Z"
   }
 }

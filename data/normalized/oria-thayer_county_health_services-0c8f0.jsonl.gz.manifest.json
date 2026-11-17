@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/ZHMW-1745877193090/machine-readable/470627838_thayer-county-health-services_standardcharges.json",
   "source_sha256": "3802eda3388d0d24aec0ab651bb21a1ed0a644741cbb7d010d609f774d76a6a5",
   "download_bytes": 11840225,
-  "extracted_at": "2026-11-02T20:43:20Z",
+  "extracted_at": "2026-11-17T04:42:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-thayer_county_health_services-0c8f0__6e8dd2e89f6ab8cd.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6e/oria-thayer_county_health_services-0c8f0__6e8dd2e89f6ab8cd.jsonl.gz",
     "asset_sha256": "6e8dd2e89f6ab8cdfc512a0476ed182893c3ec0b0b541412e65f1dee9d1e1298",
-    "published_at": "2026-11-02T20:48:40Z"
+    "published_at": "2026-11-17T04:53:13Z"
   }
 }

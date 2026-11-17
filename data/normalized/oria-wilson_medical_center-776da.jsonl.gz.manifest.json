@@ -5,7 +5,7 @@
   "source_url": "https://www.wilsonmedical.com/docs/ahwilsonmedicalcenterlibraries/hcl/mrf2q26/464317222_wilson-medical-center_standardcharges.csv.zip",
   "source_sha256": "58b8c73b43ffa8a86da133f3d969d19fe1435b1c35bb39b78819de2cea916a32",
   "download_bytes": 341262,
-  "extracted_at": "2026-11-03T03:44:17Z",
+  "extracted_at": "2026-11-17T04:46:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-wilson_medical_center-776da__2df90fac68046dc8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2d/oria-wilson_medical_center-776da__2df90fac68046dc8.jsonl.gz",
     "asset_sha256": "2df90fac68046dc8b0ec465798e3d47c2bc82060107e68ac8165bb5df74dabbf",
-    "published_at": "2026-11-03T03:51:27Z"
+    "published_at": "2026-11-17T04:54:29Z"
   }
 }

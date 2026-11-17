@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/sturgis-hospital-inc/352362438_sturgis-hospital_standardcharges.csv",
   "source_sha256": "5b40a0e429cce39aaba65ef910efa74eef49804227dac53473b18679918155be",
   "download_bytes": 6025248,
-  "extracted_at": "2026-11-02T20:43:11Z",
+  "extracted_at": "2026-11-17T04:42:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-sturgis_hospital-7b925__e7ff04794e9a3d25.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/oria-sturgis_hospital-7b925__e7ff04794e9a3d25.jsonl.gz",
     "asset_sha256": "e7ff04794e9a3d25238fbbc4c0d4e75efba21a231f5f805ccad8171356c400d6",
-    "published_at": "2026-11-02T20:48:11Z"
+    "published_at": "2026-11-17T04:52:47Z"
   }
 }

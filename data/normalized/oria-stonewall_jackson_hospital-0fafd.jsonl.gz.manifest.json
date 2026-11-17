@@ -5,7 +5,7 @@
   "source_url": "https://stonewalljacksonhospital.pg.quadax.revenuemasters.com/cdm-files/550422958_stonewall-jackson-memorial-hospital_standardcharges.csv",
   "source_sha256": "b31a34f0afd88d0d7fd39e9aa9c45e372a82da5dcc300e8742a19bc46ff99dd3",
   "download_bytes": 54247817,
-  "extracted_at": "2026-11-03T03:41:07Z",
+  "extracted_at": "2026-11-17T04:43:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-stonewall_jackson_hospital-0fafd__96dd42b681bb97cd.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-96/oria-stonewall_jackson_hospital-0fafd__96dd42b681bb97cd.jsonl.gz",
     "asset_sha256": "96dd42b681bb97cd43c834eddb75fc32c9108e77f6b1537215cc77713d5c47d2",
-    "published_at": "2026-11-03T03:47:54Z"
+    "published_at": "2026-11-17T04:52:40Z"
   }
 }

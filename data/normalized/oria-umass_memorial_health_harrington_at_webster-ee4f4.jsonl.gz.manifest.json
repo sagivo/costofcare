@@ -5,7 +5,7 @@
   "source_url": "https://ummh-price-transparency.s3.us-east-2.amazonaws.com/042103577_umass-memorial-health-harrington-hospital-inc._standardcharges.csv",
   "source_sha256": "d53040c8a962c391edd99fd55b6a6cbe6933a82cf58fca68b4d3712ada9b3436",
   "download_bytes": 474252320,
-  "extracted_at": "2026-11-03T03:44:15Z",
+  "extracted_at": "2026-11-17T04:47:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-umass_memorial_health_harrington_at_webster-ee4f4__2590626018739a9a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-25/oria-umass_memorial_health_harrington_at_webster-ee4f4__2590626018739a9a.jsonl.gz",
     "asset_sha256": "2590626018739a9a8881280a4cc6332488c13b8a9e211d23def981f63074c092",
-    "published_at": "2026-11-03T03:48:48Z"
+    "published_at": "2026-11-17T04:53:52Z"
   }
 }

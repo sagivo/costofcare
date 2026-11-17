@@ -5,7 +5,7 @@
   "source_url": "https://www.trigghospital.org/docs/610471581_trigg-county-hospital-_standardcharges.csv",
   "source_sha256": "5c81200149e93120d12f398b7ea863c1c6cdbfcf35b507a7c87be3ddb4275b81",
   "download_bytes": 21194331,
-  "extracted_at": "2026-11-02T20:43:29Z",
+  "extracted_at": "2026-11-17T04:43:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-trigg_county_hospital-a97dc__86d5224b3306e346.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/oria-trigg_county_hospital-a97dc__86d5224b3306e346.jsonl.gz",
     "asset_sha256": "86d5224b3306e346e578408bbf127416e06cd84fc6694aebccb5223717597a8c",
-    "published_at": "2026-11-02T20:49:08Z"
+    "published_at": "2026-11-17T04:53:37Z"
   }
 }
