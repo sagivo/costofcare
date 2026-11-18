@@ -5,7 +5,7 @@
   "source_url": "https://standard-charges-prod.s3.amazonaws.com/pricing_files/133971298-1619341716_nyu-langone-brooklyn_standardcharges.csv",
   "source_sha256": "bb1587a6becb2d03b304782d57ebf177fef4fa1a2080552067ae0c59074bd25b",
   "download_bytes": 479224055,
-  "extracted_at": "2026-11-03T18:22:43Z",
+  "extracted_at": "2026-11-18T03:57:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "nyu-langone-hospital-brooklyn__9980a9108c6beab8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-99/nyu-langone-hospital-brooklyn__9980a9108c6beab8.jsonl.gz",
     "asset_sha256": "9980a9108c6beab8430ccb8594032ba985f11200367bf91bd9ab0b57f9bfbcc3",
-    "published_at": "2026-11-03T18:37:19Z"
+    "published_at": "2026-11-18T04:04:35Z"
   }
 }

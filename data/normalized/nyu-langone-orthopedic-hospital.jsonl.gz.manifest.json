@@ -5,7 +5,7 @@
   "source_url": "https://standard-charges-prod.s3.amazonaws.com/pricing_files/133971298-1669578324_nyu-langone-orthopedic-hospital_standardcharges.csv",
   "source_sha256": "768e2bac50dee41f5be455e3694a1710938cec050edbe77d1e8deefac06095f2",
   "download_bytes": 488869845,
-  "extracted_at": "2026-11-03T18:23:54Z",
+  "extracted_at": "2026-11-18T03:57:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "nyu-langone-orthopedic-hospital__c11a6f9933366a93.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c1/nyu-langone-orthopedic-hospital__c11a6f9933366a93.jsonl.gz",
     "asset_sha256": "c11a6f9933366a93ac02fd513bc0b5eaaec7e1ee1fa820894f7a49b286766650",
-    "published_at": "2026-11-03T18:37:29Z"
+    "published_at": "2026-11-18T04:04:40Z"
   }
 }

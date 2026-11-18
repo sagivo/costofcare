@@ -5,7 +5,7 @@
   "source_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2026/540620889_inova-fair-oaks-hospital_standardcharges.csv",
   "source_sha256": "b1fa6d1e1a06e2e781e08bc08584a8301d71f7035734e35e2aaa74c9ddc9cb8a",
   "download_bytes": 20530943,
-  "extracted_at": "2026-11-03T18:04:13Z",
+  "extracted_at": "2026-11-18T03:48:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "inova-fair-oaks-hospital__5677856cc71bd998.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-56/inova-fair-oaks-hospital__5677856cc71bd998.jsonl.gz",
     "asset_sha256": "5677856cc71bd9982c6407f37e115e836e2ac6e69f64b6340084ff327134e747",
-    "published_at": "2026-11-03T18:36:57Z"
+    "published_at": "2026-11-18T04:04:23Z"
   }
 }

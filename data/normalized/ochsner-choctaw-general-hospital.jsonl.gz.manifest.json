@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/640655993_rush-hospitalbutler-inc._standardcharges.csv.csv",
   "source_sha256": "f1fe82a5563bb764ff042df392bb6ee1fd26be542c69fc0c80fa137681eb767b",
   "download_bytes": 369516386,
-  "extracted_at": "2026-11-03T18:20:50Z",
+  "extracted_at": "2026-11-18T03:56:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ochsner-choctaw-general-hospital__ad547f5725c5af26.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ad/ochsner-choctaw-general-hospital__ad547f5725c5af26.jsonl.gz",
     "asset_sha256": "ad547f5725c5af2658c38e0541d5649e27556ecaffe2936917a82d4162a55a09",
-    "published_at": "2026-11-03T18:37:43Z"
+    "published_at": "2026-11-18T04:04:49Z"
   }
 }

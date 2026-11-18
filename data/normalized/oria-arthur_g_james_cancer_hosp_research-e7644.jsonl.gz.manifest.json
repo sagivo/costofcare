@@ -5,7 +5,7 @@
   "source_url": "https://wexnermedical.osu.edu/files/31-1322863_JAMES-CANCER-HOSPITAL_standardcharges.csv.zip",
   "source_sha256": "80786be09aac916e082dbf49a4887c3f25f661949e4e67817d9e47c2350adcaa",
   "download_bytes": 39277289,
-  "extracted_at": "2026-11-03T18:10:12Z",
+  "extracted_at": "2026-11-18T03:55:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-arthur_g_james_cancer_hosp_research-e7644__3b52d2d6624aeda1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/oria-arthur_g_james_cancer_hosp_research-e7644__3b52d2d6624aeda1.jsonl.gz",
     "asset_sha256": "3b52d2d6624aeda160687ef2d877498d9bb59f4a774cd2e06d6568dbe039be0f",
-    "published_at": "2026-11-03T18:38:47Z"
+    "published_at": "2026-11-18T04:05:20Z"
   }
 }

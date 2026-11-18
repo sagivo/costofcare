@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/726014606_-hospital-service-district-no.-1-of-the-parish-of-st.-charles-state-of-louisiana_standardcharges.csv.csv",
   "source_sha256": "6e0d51450e1bed69962a1f6cd4c81fbd00ec0db8c8af4f7d50cd1948ba0f6d9b",
   "download_bytes": 667994701,
-  "extracted_at": "2026-11-03T18:30:42Z",
+  "extracted_at": "2026-11-18T04:01:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "st-charles-parish-hospital__8ad10babd23d1eff.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8a/st-charles-parish-hospital__8ad10babd23d1eff.jsonl.gz",
     "asset_sha256": "8ad10babd23d1eff1fb219aa4c30af48e8684875aa8381d0c7637a543101739b",
-    "published_at": "2026-11-03T18:41:15Z"
+    "published_at": "2026-11-18T04:06:18Z"
   }
 }

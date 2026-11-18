@@ -5,7 +5,7 @@
   "source_url": "https://www.inova.org/sites/default/files/patient_visitor/price_transparency/2026/540620889_inova-fairfax-hospital_standardcharges.csv",
   "source_sha256": "57210a6ef1935181abae24ead47375787b1a2bc2a5a9b1ded5360de3787d9e43",
   "download_bytes": 20875742,
-  "extracted_at": "2026-11-03T18:04:16Z",
+  "extracted_at": "2026-11-18T03:48:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "inova-fairfax-hospital__bd7823285a2ff184.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bd/inova-fairfax-hospital__bd7823285a2ff184.jsonl.gz",
     "asset_sha256": "bd7823285a2ff18454ecd45d49889ad5ae51fcd81df455616b155256afb1be56",
-    "published_at": "2026-11-03T18:36:59Z"
+    "published_at": "2026-11-18T04:04:24Z"
   }
 }

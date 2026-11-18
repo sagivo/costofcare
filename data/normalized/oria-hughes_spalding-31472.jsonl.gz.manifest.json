@@ -5,7 +5,7 @@
   "source_url": "https://www.choa.org/-/media/Files/Childrens/billing/standard-charges/2026/204144787_childrens-healthcare-of-atl-at-hughes-spalding_standardcharges.csv",
   "source_sha256": "8d0585f4aa91f1df42345b138aa69683030454f8140c1c2444be36bd4ec95879",
   "download_bytes": 23323667,
-  "extracted_at": "2026-11-03T18:05:16Z",
+  "extracted_at": "2026-11-18T03:48:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-hughes_spalding-31472__ef88c400f860cacb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ef/oria-hughes_spalding-31472__ef88c400f860cacb.jsonl.gz",
     "asset_sha256": "ef88c400f860cacb7c646a9a0eab7e8dd6766b5533b470895f3d04ba33e3fb79",
-    "published_at": "2026-11-03T18:40:39Z"
+    "published_at": "2026-11-18T04:06:03Z"
   }
 }

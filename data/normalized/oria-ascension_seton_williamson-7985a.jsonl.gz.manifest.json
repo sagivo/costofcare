@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx-csv/741109643_seton-medical-center-williamson_standardcharges.csv",
   "source_sha256": "ae89809c083cc16643d5b7f13090c1e825dfeafdbbe587c12930e261905e8b2f",
   "download_bytes": 216988784,
-  "extracted_at": "2026-11-03T18:31:47Z",
+  "extracted_at": "2026-11-18T04:02:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-ascension_seton_williamson-7985a__78c8cb5a14dabc76.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-78/oria-ascension_seton_williamson-7985a__78c8cb5a14dabc76.jsonl.gz",
     "asset_sha256": "78c8cb5a14dabc768ff0a3085a82f907e5546ce5fbb1d314fa178e4697b3fb33",
-    "published_at": "2026-11-03T18:38:53Z"
+    "published_at": "2026-11-18T04:05:24Z"
   }
 }

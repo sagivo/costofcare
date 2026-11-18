@@ -5,7 +5,7 @@
   "source_url": "https://baptisthealth.net/-/media/Documents/Patient-Resources/Patient-Pricing/Apr-2026/43775926_doctors-hospital_standardcharges.zip",
   "source_sha256": "180d8e364c898a40fce7ea316f7c95a2eccce3cf5ad34536602e240097bc4a5b",
   "download_bytes": 22742687,
-  "extracted_at": "2026-11-03T18:06:18Z",
+  "extracted_at": "2026-11-18T03:51:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "doctors-hospital-2__820f58713a959109.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/doctors-hospital-2__820f58713a959109.jsonl.gz",
     "asset_sha256": "820f58713a9591096ee2c6b6666d944b79277ea0ccf791ee43c911de80902657",
-    "published_at": "2026-11-03T18:36:43Z"
+    "published_at": "2026-11-18T04:04:14Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/822869576_ochsner-medical-center-%E2%80%93-hancock-llc_standardcharges.csv.csv",
   "source_sha256": "1072c14b12dd596e04f349b8ff8e7de1c157c5a6338c713da3bcdb2475dfe275",
   "download_bytes": 438971833,
-  "extracted_at": "2026-11-03T18:21:53Z",
+  "extracted_at": "2026-11-18T03:56:47Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ochsner-medical-center-hancock__913349945ee8d903.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-91/ochsner-medical-center-hancock__913349945ee8d903.jsonl.gz",
     "asset_sha256": "913349945ee8d9033a10faa90e2c91a69d4bead984eb01c62b59d5d902fd9af7",
-    "published_at": "2026-11-03T18:37:58Z"
+    "published_at": "2026-11-18T04:04:54Z"
   }
 }

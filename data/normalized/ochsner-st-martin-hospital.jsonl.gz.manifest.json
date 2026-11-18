@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/264626264_st-martin-hospital-inc-_standardcharges.csv.csv",
   "source_sha256": "d77bb81f8fa13e98632a53b92df30d27ddbb044ae3336c0b86875d07e5a0248a",
   "download_bytes": 404973862,
-  "extracted_at": "2026-11-03T18:21:21Z",
+  "extracted_at": "2026-11-18T03:56:22Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ochsner-st-martin-hospital__760b7100fe1361fb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/ochsner-st-martin-hospital__760b7100fe1361fb.jsonl.gz",
     "asset_sha256": "760b7100fe1361fb7f14e8cfbe9c72416c8eacba4ea1e3b1c0d68db95d229b4e",
-    "published_at": "2026-11-03T18:38:09Z"
+    "published_at": "2026-11-18T04:04:59Z"
   }
 }

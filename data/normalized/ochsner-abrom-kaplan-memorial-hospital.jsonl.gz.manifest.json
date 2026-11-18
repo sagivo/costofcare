@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/472540179_kaplan-general-hospital-inc_standardcharges.csv.csv",
   "source_sha256": "af5649d84f76f509d3fe40e5fd10dd06f5e27110327bc59b9a8c4292c66eb3d0",
   "download_bytes": 429808626,
-  "extracted_at": "2026-11-03T18:21:33Z",
+  "extracted_at": "2026-11-18T03:57:09Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ochsner-abrom-kaplan-memorial-hospital__4bc36ae3f25b19fd.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4b/ochsner-abrom-kaplan-memorial-hospital__4bc36ae3f25b19fd.jsonl.gz",
     "asset_sha256": "4bc36ae3f25b19fdb33643d8df58e72fef379dd9859512612680d6c7ffbe318a",
-    "published_at": "2026-11-03T18:37:34Z"
+    "published_at": "2026-11-18T04:04:44Z"
   }
 }

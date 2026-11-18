@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/464958152_acadia-general-hospital-inc_standardcharges.csv.csv",
   "source_sha256": "8a5fade951e4ce1955c8e6789b54acb06a768cd81eded38a023cfef69d65cb80",
   "download_bytes": 502150953,
-  "extracted_at": "2026-11-03T18:24:41Z",
+  "extracted_at": "2026-11-18T03:58:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ochsner-acadia-general-hospital__220cb779aad7a1e6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/ochsner-acadia-general-hospital__220cb779aad7a1e6.jsonl.gz",
     "asset_sha256": "220cb779aad7a1e6f3fc7b0ad7245857ae3a7149e46183496fe2edada77fcd67",
-    "published_at": "2026-11-03T18:37:38Z"
+    "published_at": "2026-11-18T04:04:45Z"
   }
 }

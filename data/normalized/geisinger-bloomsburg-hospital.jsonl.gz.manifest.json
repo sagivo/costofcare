@@ -5,7 +5,7 @@
   "source_url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/23-2193572_Geisinger-Bloomsburg-Hospital_standardcharges",
   "source_sha256": "a71c0ecc3b9af9ec464d5e062b478a974b2c32962035b698c270dbc8d09cc5e0",
   "download_bytes": 137484176,
-  "extracted_at": "2026-11-03T18:10:59Z",
+  "extracted_at": "2026-11-18T03:54:30Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "geisinger-bloomsburg-hospital__139a5662dfec91d7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-13/geisinger-bloomsburg-hospital__139a5662dfec91d7.jsonl.gz",
     "asset_sha256": "139a5662dfec91d7de57c093b5755d904a3f4e21a4d1e2b92fdf3b015f380c6c",
-    "published_at": "2026-11-03T18:36:49Z"
+    "published_at": "2026-11-18T04:04:17Z"
   }
 }

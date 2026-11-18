@@ -5,7 +5,7 @@
   "source_url": "https://ochsner-craft.s3.amazonaws.com/core/720535375_lafayette-general-medical-center-inc-_standardcharges.csv.csv",
   "source_sha256": "ceba7d4388fd0d3443d915a82987efcb838c17f1054658cc24d7844247c9e8b1",
   "download_bytes": 588192758,
-  "extracted_at": "2026-11-03T18:26:57Z",
+  "extracted_at": "2026-11-18T03:59:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "ochsner-lafayette-general-medical-center-this-file-encompasses-multiple-faciliti__f6125c544747e45c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f6/ochsner-lafayette-general-medical-center-this-file-encompasses-multiple-faciliti__f6125c544747e45c.jsonl.gz",
     "asset_sha256": "f6125c544747e45c61219b11eefd209c605a3a28b41993d6a7b1ffab735ae455",
-    "published_at": "2026-11-03T18:37:49Z"
+    "published_at": "2026-11-18T04:04:51Z"
   }
 }
