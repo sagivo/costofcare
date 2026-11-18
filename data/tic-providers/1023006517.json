@@ -1,0 +1,25 @@
+{
+  "npi": "1023006517",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:36:49Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023006517",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ROBERT",
+      "last_name": "MOLLE",
+      "primary_taxonomy": "Otolaryngology",
+      "location": {
+        "address_1": "3066 35TH ST",
+        "city": "ASTORIA",
+        "state": "NY",
+        "postal_code": "111034702"
+      },
+      "last_updated": "2016-03-16"
+    }
+  ]
+}

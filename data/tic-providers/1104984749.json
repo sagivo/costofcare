@@ -1,0 +1,25 @@
+{
+  "npi": "1104984749",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:38:05Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1104984749",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CLIFFORD",
+      "last_name": "BUTTERMAN",
+      "primary_taxonomy": "Pediatrics",
+      "location": {
+        "address_1": "228 60TH ST",
+        "city": "WEST NEW YORK",
+        "state": "NJ",
+        "postal_code": "070935845"
+      },
+      "last_updated": "2016-01-30"
+    }
+  ]
+}

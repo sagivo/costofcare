@@ -1,0 +1,25 @@
+{
+  "npi": "1093771206",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:37:57Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1093771206",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "FERNAND",
+      "last_name": "THEOGENE",
+      "primary_taxonomy": "Family Medicine",
+      "location": {
+        "address_1": "650 ASHFORD ST",
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postal_code": "112077315"
+      },
+      "last_updated": "2018-07-09"
+    }
+  ]
+}

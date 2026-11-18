@@ -1,0 +1,25 @@
+{
+  "npi": "1073554721",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:37:41Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1073554721",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RITA",
+      "last_name": "JHAVERI",
+      "primary_taxonomy": "Internal Medicine",
+      "location": {
+        "address_1": "125-07 101 AVENUE",
+        "city": "RICHMOND HILL",
+        "state": "NY",
+        "postal_code": "114191411"
+      },
+      "last_updated": "2019-03-19"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1013018118",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:36:43Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1013018118",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SUSHIL",
+      "last_name": "DHAWAN",
+      "primary_taxonomy": "Orthopaedic Surgery",
+      "location": {
+        "address_1": "111 MALTESE DR",
+        "city": "MIDDLETOWN",
+        "state": "NY",
+        "postal_code": "109402115"
+      },
+      "last_updated": "2011-09-22"
+    }
+  ]
+}

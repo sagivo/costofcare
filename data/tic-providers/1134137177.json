@@ -1,0 +1,25 @@
+{
+  "npi": "1134137177",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:38:19Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1134137177",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JANETTE",
+      "last_name": "BASTA",
+      "primary_taxonomy": "Pediatrics",
+      "location": {
+        "address_1": "1035 US HIGHWAY 46",
+        "city": "CLIFTON",
+        "state": "NJ",
+        "postal_code": "070132468"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

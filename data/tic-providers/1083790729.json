@@ -1,0 +1,25 @@
+{
+  "npi": "1083790729",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:37:50Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1083790729",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RAMBHAI",
+      "last_name": "PATEL",
+      "primary_taxonomy": "Internal Medicine",
+      "location": {
+        "address_1": "224 E JERSEY ST",
+        "city": "ELIZABETH",
+        "state": "NJ",
+        "postal_code": "072062709"
+      },
+      "last_updated": "2011-04-19"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1063643641",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:37:35Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1063643641",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "HARRY",
+      "last_name": "PANTELIDES",
+      "primary_taxonomy": "Otolaryngology",
+      "location": {
+        "address_1": "170 BROADWAY",
+        "city": "BROOKLYN",
+        "state": "NY",
+        "postal_code": "112118755"
+      },
+      "last_updated": "2021-09-28"
+    }
+  ]
+}

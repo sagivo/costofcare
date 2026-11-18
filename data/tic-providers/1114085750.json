@@ -1,0 +1,25 @@
+{
+  "npi": "1114085750",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-18T19:38:09Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1114085750",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "STANLEY",
+      "last_name": "COHEN",
+      "primary_taxonomy": "Pediatrics",
+      "location": {
+        "address_1": "128 POST AVE",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "100343432"
+      },
+      "last_updated": "2010-12-12"
+    }
+  ]
+}
