@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx-csv/741109643_dell-childrens-medical-center-of-central-texas_standardcharges.csv",
   "source_sha256": "73a8475d2bdd362cc53a3d7d1f4c1b1bf7a38a95ded2183dcb1c71da6e913ec1",
   "download_bytes": 48188444,
-  "extracted_at": "2026-11-04T02:53:27Z",
+  "extracted_at": "2026-11-18T19:16:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-dell_children_s_medical_center_ascension_seton-99408__05372a3fd12407ef.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-dell_children_s_medical_center_ascension_seton-99408__05372a3fd12407ef.jsonl.gz",
     "asset_sha256": "05372a3fd12407efe5bbb4be70620379c0e2aee415fb4e9a0b79e802610a8dfc",
-    "published_at": "2026-11-04T03:06:04Z"
+    "published_at": "2026-11-18T19:21:12Z"
   }
 }

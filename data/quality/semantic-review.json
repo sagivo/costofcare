@@ -1,182 +1,23 @@
 {
-  "generated_at": "2026-11-18T04:08:05.424786+00:00",
-  "records_scanned": 903339,
-  "flag_counts": {
-    "large_published_amount_review": 152
-  },
-  "review_examples": [
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 408,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 416,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 417,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 630,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 645,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 668,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 699,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 703,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 704,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 705,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 706,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 707,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 729,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 731,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 796,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 818,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 819,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 853,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 854,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "oria-community_healthcare_system_hospital-da4ec",
-      "source_record_ordinal": 855,
-      "source_sha256": "848e6625eb3513af0cd05facce02518ae7cd0a538c94ef0a4a06ca979dedc277",
-      "field": "standard_charge|UHC|All_Commercial_Products|negotiated_dollar",
-      "raw_value": "9999999999"
-    }
-  ],
+  "generated_at": "2026-11-18T19:23:07.206015+00:00",
+  "records_scanned": 546065,
+  "flag_counts": {},
+  "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 597949,
-    "payer_name": 588143,
-    "plan_name": 588163,
-    "billing_class": 59134,
-    "row_width_mismatch_records_skipped": 264993,
-    "modifiers": 316103
+    "setting": 462195,
+    "billing_class": 296044,
+    "modifiers": 63264,
+    "payer_name": 444819,
+    "plan_name": 444819,
+    "json_payer_name": 149540,
+    "json_plan_name": 149540,
+    "json_methodology": 149540,
+    "json_source_records": 3122,
+    "row_width_mismatch_records_skipped": 84046
   },
   "coverage_note": {
-    "local_blob_files": 78,
-    "remote_only_files": 2689,
+    "local_blob_files": 65,
+    "remote_only_files": 2711,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."

@@ -5,7 +5,7 @@
   "source_url": "https://www.cincinnatichildrens.org/-/media/Cincinnati-Childrens/Home/patient-resources/billing/hospital-pricing/310833936_childrens-hospital-medical-center_standardcharges.csv",
   "source_sha256": "8c7a95ad2e557577c932aebde629419a15cdbead1d22dc4ff81641f7aedaf78a",
   "download_bytes": 108811188,
-  "extracted_at": "2026-11-03T18:33:50Z",
+  "extracted_at": "2026-11-18T19:02:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-children_s_hospital_medical_center_liberty-b3d6e__e549535eaa41405f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-children_s_hospital_medical_center_liberty-b3d6e__e549535eaa41405f.jsonl.gz",
     "asset_sha256": "e549535eaa41405f0aad02ead9d97e66118beb0774e8392602ae88e4678f7f6f",
-    "published_at": "2026-11-03T18:39:48Z"
+    "published_at": "2026-11-18T19:20:38Z"
   }
 }

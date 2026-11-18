@@ -5,7 +5,7 @@
   "source_url": "https://file.lacounty.gov/SDSInter/dhs/1157353_956000927_Harbor-UCLAMedicalCenter_standardcharges.csv",
   "source_sha256": "5acd45e48ab14f53fa4771592f04821d97326cf528b8d719caf36ea47121839a",
   "download_bytes": 43908422,
-  "extracted_at": "2026-11-04T02:58:39Z",
+  "extracted_at": "2026-11-18T19:19:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-harbor_ucla_medical_center-97363__ae2830e7089a8e5f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ae/oria-harbor_ucla_medical_center-97363__ae2830e7089a8e5f.jsonl.gz",
     "asset_sha256": "ae2830e7089a8e5f5a1b4a8c49470a991f3984a7dcfe5eef80a8fad82088d90e",
-    "published_at": "2026-11-04T03:07:39Z"
+    "published_at": "2026-11-18T19:21:46Z"
   }
 }

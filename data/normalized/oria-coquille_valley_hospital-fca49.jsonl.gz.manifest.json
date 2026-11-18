@@ -5,7 +5,7 @@
   "source_url": "https://www.cvhospital.org/wp-content/uploads/2026/07/930579541_coquille-valley-hospital_standardcharges.csv",
   "source_sha256": "38980ae4834ce93ae236438f3c8f411d752eb920e6b5aa5821a04433cba238af",
   "download_bytes": 18600719,
-  "extracted_at": "2026-11-04T02:50:43Z",
+  "extracted_at": "2026-11-18T19:14:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-coquille_valley_hospital-fca49__76bfdbb71092038a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-76/oria-coquille_valley_hospital-fca49__76bfdbb71092038a.jsonl.gz",
     "asset_sha256": "76bfdbb71092038a9eecd3e9045216139d1153d51530de0e1970853a47d36b69",
-    "published_at": "2026-11-04T03:05:31Z"
+    "published_at": "2026-11-18T19:20:42Z"
   }
 }
