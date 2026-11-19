@@ -5,7 +5,7 @@
   "source_url": "https://file.lacounty.gov/SDSInter/dhs/1157354_956000927_LosAngelesGeneralMedicalCenter_standardcharges.csv",
   "source_sha256": "675caaac571d2a670e1f4f78fe0a8dd3be31a9e915d830b9842dafe757805125",
   "download_bytes": 53526039,
-  "extracted_at": "2026-11-04T03:00:48Z",
+  "extracted_at": "2026-11-19T03:49:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-los_angeles_general_medical_center-51fa4__2b62aa63976b633e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-los_angeles_general_medical_center-51fa4__2b62aa63976b633e.jsonl.gz",
     "asset_sha256": "2b62aa63976b633e052ae876934a30e06bd10db4ef37703628b70c1192f4ca0c",
-    "published_at": "2026-11-04T03:08:24Z"
+    "published_at": "2026-11-19T03:55:42Z"
   }
 }

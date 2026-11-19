@@ -5,7 +5,7 @@
   "source_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/9372d935-a8ce-495b-bbed-e139e5c922cf/410785161_MILLE-LACS-HEALTH-SYSTEM_standardcharges.zip",
   "source_sha256": "d7a0b84a9d2ed148769a34a2094122248e33db42d475504a1f114568c789c648",
   "download_bytes": 105586014,
-  "extracted_at": "2026-11-04T18:25:08Z",
+  "extracted_at": "2026-11-19T03:54:20Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mille_lacs_health_system-8b20f__07998ca8d87df7ee.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/oria-mille_lacs_health_system-8b20f__07998ca8d87df7ee.jsonl.gz",
     "asset_sha256": "07998ca8d87df7ee1e26cc2fc48f73a43412c53c5153e7460b66f6a3c336c983",
-    "published_at": "2026-11-04T18:47:31Z"
+    "published_at": "2026-11-19T03:56:30Z"
   }
 }

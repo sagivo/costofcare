@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 12646,
   "source_url": "https://www.urmc.rochester.edu/getmedia/636ee711-58e5-4a53-abe8-aac528ae0614/222807681-JONES-MEMORIAL-HOSPITAL-standardcharges.csv",
-  "source_sha256": "785360c903d7a7d2970d657c0158aaae6f6673986c98a3a107c558515ebbca97",
-  "download_bytes": 135484704,
-  "extracted_at": "2026-11-04T03:01:55Z",
+  "source_sha256": "132039ce1fe0c358331db9b4940abd920d6fabf993f63511d729781e6e2f9619",
+  "download_bytes": 135484705,
+  "extracted_at": "2026-11-19T03:50:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid continuation byte at byte 3516",
+  "strict_utf8_failure": "invalid continuation byte at byte 3517",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-3a",
-    "asset_name": "oria-jones_memorial_hospital-1e61b__3ab7a802c2c2570d.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/oria-jones_memorial_hospital-1e61b__3ab7a802c2c2570d.jsonl.gz",
-    "asset_sha256": "3ab7a802c2c2570d637ab05f870e8f0856c978406991add1eeecbe36bd95da4b",
-    "published_at": "2026-11-04T03:08:14Z"
+    "release": "data-norm-c7",
+    "asset_name": "oria-jones_memorial_hospital-1e61b__c7b1db1a7e96a3da.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c7/oria-jones_memorial_hospital-1e61b__c7b1db1a7e96a3da.jsonl.gz",
+    "asset_sha256": "c7b1db1a7e96a3daab28bd0c27e6cd1d201021b42a7b6f3e85b5c5c1b7b8aa68",
+    "published_at": "2026-11-19T03:55:36Z"
   }
 }

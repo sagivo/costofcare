@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 13687,
   "source_url": "https://www.urmc.rochester.edu/getmedia/7431070f-e78c-434a-b517-59ac67e44f05/160743024-FREDERICK-FERRIS-THOMPSON-HOSPITAL-standardcharges.csv",
-  "source_sha256": "e3a9d87c35636e5ae7f8df55b2f59386edc2397e71590b656e3169d7a8cbcf20",
-  "download_bytes": 138827028,
-  "extracted_at": "2026-11-04T03:00:22Z",
+  "source_sha256": "c2e96938a3f441fe16899ebc0dc69239557afbc895dca63faf00d609b5441a24",
+  "download_bytes": 138827029,
+  "extracted_at": "2026-11-19T03:49:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid continuation byte at byte 6198",
+  "strict_utf8_failure": "invalid continuation byte at byte 6199",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-61",
-    "asset_name": "oria-f_f_thompson_hospital-4691f__61171f2914b28e78.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/oria-f_f_thompson_hospital-4691f__61171f2914b28e78.jsonl.gz",
-    "asset_sha256": "61171f2914b28e78e4d4928003d66bed390c969202872b855c536ad883252808",
-    "published_at": "2026-11-04T03:07:02Z"
+    "release": "data-norm-37",
+    "asset_name": "oria-f_f_thompson_hospital-4691f__3780a4becfefc388.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-37/oria-f_f_thompson_hospital-4691f__3780a4becfefc388.jsonl.gz",
+    "asset_sha256": "3780a4becfefc38881e9ed1f8336915ecdb5b75645b9bc9db11d66858fc702e3",
+    "published_at": "2026-11-19T03:55:01Z"
   }
 }

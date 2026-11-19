@@ -5,7 +5,7 @@
   "source_url": "https://www.northshore.org/globalassets/about-us/billing/standard-charges/362167060_glenbrook-hospital_standardcharges.csv",
   "source_sha256": "8e88de0cd52467a6dc9b70b11e1f20a559a00804deb30f9e1a303ca1e6faf372",
   "download_bytes": 161135300,
-  "extracted_at": "2026-11-04T02:59:38Z",
+  "extracted_at": "2026-11-19T03:48:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-glenbrook_hospital-48843__0fa2a0deb5dbfc5e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0f/oria-glenbrook_hospital-48843__0fa2a0deb5dbfc5e.jsonl.gz",
     "asset_sha256": "0fa2a0deb5dbfc5e99c2b739aae02cd193c5e2c6fcf844b91190ff7f97972411",
-    "published_at": "2026-11-04T03:07:36Z"
+    "published_at": "2026-11-19T03:55:15Z"
   }
 }

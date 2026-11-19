@@ -5,7 +5,7 @@
   "source_url": "https://highlanddistricthospital.pg.quadax.revenuemasters.com/cdm-files/310653685_highland-district-hospital_standardcharges.csv",
   "source_sha256": "548c8097a9476087e8e129b138e9beaabc414f6874d6a40c38ca41eb0dbad0fd",
   "download_bytes": 227434158,
-  "extracted_at": "2026-11-04T03:00:41Z",
+  "extracted_at": "2026-11-19T03:48:56Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-highland_district_hospital-ac2a2__70046c099d15c365.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/oria-highland_district_hospital-ac2a2__70046c099d15c365.jsonl.gz",
     "asset_sha256": "70046c099d15c3657a8e13579c7b2b60bcc560bcdd1a4e2db0829dcbbcf359b7",
-    "published_at": "2026-11-04T03:07:44Z"
+    "published_at": "2026-11-19T03:55:17Z"
   }
 }

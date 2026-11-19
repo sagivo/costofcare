@@ -5,7 +5,7 @@
   "source_url": "https://www.lhhs.org/getmedia/79a9cfb5-87d0-4d03-903a-5cb2435410cb/livingston-hospital-and-healthcare-services-inc_standardcharges.csv",
   "source_sha256": "fcbd046dbf4dadfdcbcb05442820527faa4de8587f736abc59be3336f6391375",
   "download_bytes": 54927846,
-  "extracted_at": "2026-11-04T03:00:54Z",
+  "extracted_at": "2026-11-19T03:49:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-livingston_hospital-f5cf8__9d955e0bb0f95dac.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/oria-livingston_hospital-f5cf8__9d955e0bb0f95dac.jsonl.gz",
     "asset_sha256": "9d955e0bb0f95dace26cc25f070a56add634b0b3f8862a8b65a99e6fb102b947",
-    "published_at": "2026-11-04T03:08:22Z"
+    "published_at": "2026-11-19T03:55:41Z"
   }
 }

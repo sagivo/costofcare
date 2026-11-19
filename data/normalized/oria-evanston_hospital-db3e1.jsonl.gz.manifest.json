@@ -5,7 +5,7 @@
   "source_url": "https://www.northshore.org/globalassets/about-us/billing/standard-charges/362167060_evanston-hospital_standardcharges.csv",
   "source_sha256": "340a77dbe8940335d14c0404f6517836612fcb00e5f5f3355df7c0ab88993ee6",
   "download_bytes": 161134982,
-  "extracted_at": "2026-11-04T02:59:10Z",
+  "extracted_at": "2026-11-19T03:48:01Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-evanston_hospital-db3e1__f5178b69b3c1904f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f5/oria-evanston_hospital-db3e1__f5178b69b3c1904f.jsonl.gz",
     "asset_sha256": "f5178b69b3c1904ff6f9b3021e65b0cb4d07fc598eef95fcd8c0312e3dff404a",
-    "published_at": "2026-11-04T03:06:59Z"
+    "published_at": "2026-11-19T03:54:58Z"
   }
 }
