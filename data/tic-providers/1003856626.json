@@ -1,0 +1,25 @@
+{
+  "npi": "1003856626",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:40:25Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1003856626",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MARGARET",
+      "last_name": "SMITH",
+      "primary_taxonomy": "Psychologist, Cognitive & Behavioral",
+      "location": {
+        "address_1": "955 OFFICERS ROW",
+        "city": "VANCOUVER",
+        "state": "WA",
+        "postal_code": "986613849"
+      },
+      "last_updated": "2008-05-20"
+    }
+  ]
+}

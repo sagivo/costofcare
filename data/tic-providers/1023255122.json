@@ -1,0 +1,25 @@
+{
+  "npi": "1023255122",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:48Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023255122",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "AMY",
+      "last_name": "EARNHEART",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "10 N MAIN ST",
+        "city": "BURNSVILLE",
+        "state": "NC",
+        "postal_code": "287142925"
+      },
+      "last_updated": "2024-07-07"
+    }
+  ]
+}

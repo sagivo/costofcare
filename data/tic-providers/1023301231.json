@@ -1,0 +1,25 @@
+{
+  "npi": "1023301231",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:49Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023301231",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KATHLEEN",
+      "last_name": "O'CONNOR",
+      "primary_taxonomy": "Counselor, Mental Health",
+      "location": {
+        "address_1": "3801 N 88TH ST",
+        "city": "MILWAUKEE",
+        "state": "WI",
+        "postal_code": "532222706"
+      },
+      "last_updated": "2015-04-29"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1023127651",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:42Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023127651",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RICHARD",
+      "last_name": "SULLIVAN",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "1662 ROUTE 300 STE 150",
+        "city": "NEWBURGH",
+        "state": "NY",
+        "postal_code": "125501819"
+      },
+      "last_updated": "2026-10-09"
+    }
+  ]
+}

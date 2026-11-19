@@ -1,0 +1,25 @@
+{
+  "npi": "1023124336",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:41Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023124336",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "TRISTAN",
+      "last_name": "SOPHIA",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "2550 PROSPECT AVE",
+        "city": "HELENA",
+        "state": "MT",
+        "postal_code": "596019757"
+      },
+      "last_updated": "2026-06-02"
+    }
+  ]
+}

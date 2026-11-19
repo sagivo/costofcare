@@ -1,0 +1,25 @@
+{
+  "npi": "1013927615",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:22Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1013927615",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "RAPHAEL",
+      "last_name": "SERRANO",
+      "primary_taxonomy": "Marriage & Family Therapist",
+      "location": {
+        "address_1": "401 MOBIL AVE",
+        "city": "CAMARILLO",
+        "state": "CA",
+        "postal_code": "930106344"
+      },
+      "last_updated": "2018-10-05"
+    }
+  ]
+}

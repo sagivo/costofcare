@@ -1,0 +1,25 @@
+{
+  "npi": "1013223874",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:05Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1013223874",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "COLLEEN",
+      "last_name": "PEARSON",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "2598 E SUNRISE BLVD STE 210A",
+        "city": "FORT LAUDERDALE",
+        "state": "FL",
+        "postal_code": "333043230"
+      },
+      "last_updated": "2022-04-18"
+    }
+  ]
+}

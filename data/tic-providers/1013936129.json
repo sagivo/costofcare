@@ -1,0 +1,25 @@
+{
+  "npi": "1013936129",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:26Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1013936129",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KATHLEEN",
+      "last_name": "BORNINO",
+      "primary_taxonomy": "Marriage & Family Therapist",
+      "location": {
+        "address_1": "1183 SHANNON LN",
+        "city": "ARROYO GRANDE",
+        "state": "CA",
+        "postal_code": "934205147"
+      },
+      "last_updated": "2024-01-20"
+    }
+  ]
+}

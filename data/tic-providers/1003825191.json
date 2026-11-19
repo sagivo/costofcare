@@ -1,0 +1,25 @@
+{
+  "npi": "1003825191",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:40:21Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1003825191",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JILL",
+      "last_name": "EDGAR",
+      "primary_taxonomy": "Clinical Neuropsychologist",
+      "location": {
+        "address_1": "63 SWEET BRIAR RD",
+        "city": "STAMFORD",
+        "state": "CT",
+        "postal_code": "069051513"
+      },
+      "last_updated": "2025-09-11"
+    }
+  ]
+}

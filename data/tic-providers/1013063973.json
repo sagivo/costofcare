@@ -1,0 +1,25 @@
+{
+  "npi": "1013063973",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:40:50Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1013063973",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SCOTT",
+      "last_name": "SCHNEE",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "222 STATION PLZ N",
+        "city": "MINEOLA",
+        "state": "NY",
+        "postal_code": "115013808"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

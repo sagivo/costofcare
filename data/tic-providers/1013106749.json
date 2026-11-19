@@ -1,0 +1,25 @@
+{
+  "npi": "1013106749",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:40:59Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1013106749",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "AMBER",
+      "last_name": "SMITH",
+      "primary_taxonomy": "Counselor, Professional",
+      "location": {
+        "address_1": "3121 INNOVATION DR STE A",
+        "city": "SAINT CLOUD",
+        "state": "FL",
+        "postal_code": "347696501"
+      },
+      "last_updated": "2018-03-17"
+    }
+  ]
+}

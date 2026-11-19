@@ -1,0 +1,25 @@
+{
+  "npi": "1013931948",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:41:24Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1013931948",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BARRY",
+      "last_name": "BINDER",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "7 ST LEONARD AVE",
+        "city": "GRANITE SPRINGS",
+        "state": "NY",
+        "postal_code": "105271017"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

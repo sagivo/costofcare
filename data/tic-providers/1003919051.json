@@ -1,0 +1,25 @@
+{
+  "npi": "1003919051",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-19T19:40:31Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1003919051",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "PETER",
+      "last_name": "LO IACONO",
+      "primary_taxonomy": "Counselor, Addiction (Substance Use Disorder)",
+      "location": {
+        "address_1": "800 PARK AVE.",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "03431"
+      },
+      "last_updated": "2025-08-22"
+    }
+  ]
+}
