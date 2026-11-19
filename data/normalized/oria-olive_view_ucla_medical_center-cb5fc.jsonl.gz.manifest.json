@@ -5,7 +5,7 @@
   "source_url": "https://file.lacounty.gov/SDSInter/dhs/1157355_956000927_OliveView-UCLAMedicalCenter_standardcharges.csv",
   "source_sha256": "78e818968462ba28de7536f079099fc71bb6e16a313ac28d2d51e9146aafbe12",
   "download_bytes": 52893405,
-  "extracted_at": "2026-11-04T18:26:12Z",
+  "extracted_at": "2026-11-19T19:17:18Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-olive_view_ucla_medical_center-cb5fc__0d5c0cf6e6ce731f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0d/oria-olive_view_ucla_medical_center-cb5fc__0d5c0cf6e6ce731f.jsonl.gz",
     "asset_sha256": "0d5c0cf6e6ce731f16fe9d636071328604df0d662099f1a3c3aa143a3da0c180",
-    "published_at": "2026-11-04T18:48:01Z"
+    "published_at": "2026-11-19T19:29:41Z"
   }
 }

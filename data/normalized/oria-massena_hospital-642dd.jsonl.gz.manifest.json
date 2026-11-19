@@ -5,7 +5,7 @@
   "source_url": "https://msc.rochesterregional.org/practitionerPortal/docs/843134268_massena-hospital_standardcharges.csv",
   "source_sha256": "673f773df37ecca91a8424f7244b5e1aa09d1ce31f1253d5e752b8a26ca2fe6c",
   "download_bytes": 602583054,
-  "extracted_at": "2026-11-04T18:26:19Z",
+  "extracted_at": "2026-11-19T19:23:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-massena_hospital-642dd__4354ecf9fe80c385.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-massena_hospital-642dd__4354ecf9fe80c385.jsonl.gz",
     "asset_sha256": "4354ecf9fe80c38539bbbb159218c81c3ca67ff8826e24b857620e05bfa33054",
-    "published_at": "2026-11-04T18:47:07Z"
+    "published_at": "2026-11-19T19:29:21Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.northshore.org/globalassets/about-us/billing/standard-charges/362167060_skokie-hospital_standardcharges.csv",
   "source_sha256": "3d4af204f5b8d3b3b2db3e56314b2eaa5ac6e84bb9d8928230df15f4fb897e4a",
   "download_bytes": 161135052,
-  "extracted_at": "2026-11-04T18:33:54Z",
+  "extracted_at": "2026-11-19T19:24:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-skokie_hospital-cbef9__69d981f04f584b86.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-skokie_hospital-cbef9__69d981f04f584b86.jsonl.gz",
     "asset_sha256": "69d981f04f584b86c02b1c94151abe397712197b5bf43d6eb21b7772c43813dd",
-    "published_at": "2026-11-04T18:48:57Z"
+    "published_at": "2026-11-19T19:30:32Z"
   }
 }

@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 12316,
   "source_url": "https://www.urmc.rochester.edu/getmedia/824004d0-5956-4624-bbd7-018711440b65/160743310-ST-JAMES-HOSPITAL-standardcharges.csv",
-  "source_sha256": "29589c1fc44ea51f0b0e78befea37df1dcae98f11ff0a3f058cb06a027677934",
-  "download_bytes": 122695590,
-  "extracted_at": "2026-11-04T18:34:08Z",
+  "source_sha256": "eb7d99a43fe4552c3373537238d6bfc87161f195f73baba017b0efef927b9977",
+  "download_bytes": 122695591,
+  "extracted_at": "2026-11-19T19:27:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid continuation byte at byte 4741",
+  "strict_utf8_failure": "invalid continuation byte at byte 4742",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-fc",
-    "asset_name": "oria-st_james_hospital-7c57b__fcd4d68509425fc8.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-st_james_hospital-7c57b__fcd4d68509425fc8.jsonl.gz",
-    "asset_sha256": "fcd4d68509425fc89b944cc48f215bb4ef7697ada43e04889f66cb812d37d786",
-    "published_at": "2026-11-04T18:49:08Z"
+    "release": "data-norm-48",
+    "asset_name": "oria-st_james_hospital-7c57b__4893cc73efddd155.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-48/oria-st_james_hospital-7c57b__4893cc73efddd155.jsonl.gz",
+    "asset_sha256": "4893cc73efddd15561c30ad60497cdd3eb3a1ceee02898401acd5804ebea6f6e",
+    "published_at": "2026-11-19T19:30:44Z"
   }
 }

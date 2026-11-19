@@ -5,7 +5,7 @@
   "source_url": "https://hpt.trinity-health.org/043398280_the-mercy-hospital-inc_standardcharges.zip",
   "source_sha256": "e7d7e01b0783662a98ddb4477eded054e6593f33f297725a0707739e9062ef10",
   "download_bytes": 357362824,
-  "extracted_at": "2026-11-04T18:29:45Z",
+  "extracted_at": "2026-11-19T19:26:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-mercy_hospital-61899__60a3dbe1852054ff.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-60/oria-mercy_hospital-61899__60a3dbe1852054ff.jsonl.gz",
     "asset_sha256": "60a3dbe1852054ff191e09b99ffd5fef690b30077fcfa5577eda0593988bded0",
-    "published_at": "2026-11-04T18:47:18Z"
+    "published_at": "2026-11-19T19:29:23Z"
   }
 }

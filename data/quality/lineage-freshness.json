@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:57:55.125777+00:00",
+  "generated_at": "2026-11-19T19:33:17.276898+00:00",
   "normalized_files": 2776,
   "parser_versions": {
     "row-preserving-1.3": 2768,
@@ -7,9 +7,9 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1624,
-    "1_to_7_days": 981,
-    "within_24h": 171
+    "over_7_days": 1638,
+    "1_to_7_days": 999,
+    "within_24h": 139
   },
   "failed_attempt_classes": {
     "other": 53,
@@ -33,13 +33,6 @@
       "summary_extracted_at": "2026-11-18T18:43:25Z"
     },
     {
-      "source_url": "https://www.umms.org/standard-charges/520610538_UM-Shore-Medical-Center-at-Easton_standardcharges.csv",
-      "normalized_sha256": "244bc46dcdc3719a74545a41f109fe75114e0afc591708670d973902c7ebb93a",
-      "summary_sha256": "46c7f497f9c6447543b67c7dbbb000856dc38ca7611c10941fd3767559f17638",
-      "normalized_extracted_at": "2026-11-04T18:40:24Z",
-      "summary_extracted_at": "2026-11-18T20:23:52Z"
-    },
-    {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820912090_upmc-memorial_standardcharges.csv?",
       "normalized_sha256": "70a18817fbaea41a68b1dfd77ae8a98192acecbfc25295ffd69c788351be38e8",
       "summary_sha256": "00b53aa10580adaf5fcda0e67988c26d1d21d1336fdcba59c2349cc2f33ea176",
@@ -61,13 +54,6 @@
       "summary_extracted_at": "2026-11-04T18:49:46Z"
     },
     {
-      "source_url": "https://www.umms.org/standard-charges/520591639_UM-Rehabilitation-and-Orthopaedic-Institute_standardcharges.csv",
-      "normalized_sha256": "19291ffbc75d7ba71c8d60a11d1ac588fe045fd616aa0d4ae1ab4d4faf2deb54",
-      "summary_sha256": "75c461d18e56798cac324f54fad82ed2b14c7390e40d9c852f692037cfa74f84",
-      "normalized_extracted_at": "2026-11-04T18:41:17Z",
-      "summary_extracted_at": "2026-11-18T20:23:41Z"
-    },
-    {
       "source_url": "https://www.umms.org/standard-charges/521362793_University-of-Maryland-Medical-Center_standardcharges.csv",
       "normalized_sha256": "b17d2e1fa8b0070cd0e8c590c2ae054cc9bdcdd4f1b865df7821f729883ff176",
       "summary_sha256": "51807147888b8dba2f9ecf4615693a5142a0f8804654c1212257b19bf5421f35",
@@ -82,13 +68,6 @@
       "summary_extracted_at": "2026-11-18T20:14:52Z"
     },
     {
-      "source_url": "https://www.urmc.rochester.edu/getmedia/824004d0-5956-4624-bbd7-018711440b65/160743310-ST-JAMES-HOSPITAL-standardcharges.csv",
-      "normalized_sha256": "29589c1fc44ea51f0b0e78befea37df1dcae98f11ff0a3f058cb06a027677934",
-      "summary_sha256": "eb7d99a43fe4552c3373537238d6bfc87161f195f73baba017b0efef927b9977",
-      "normalized_extracted_at": "2026-11-04T18:34:08Z",
-      "summary_extracted_at": "2026-11-18T20:05:30Z"
-    },
-    {
       "source_url": "https://www.wellstar.org/wellstar-north-fulton-hospital_standard-charges",
       "normalized_sha256": "7619fd88489c3e1d782e6ad77e8d8dd51eab29a42db1fb9568b5d5a8ce056fd2",
       "summary_sha256": "04fc6bede89a6f13f55148f5e9ddeb1c50d24ff11d5be3445d9919e4b51abf54",
@@ -101,13 +80,6 @@
       "summary_sha256": "3dcdad37710a5a3a7740262535534654f51843ccf0ad890277242af64107b019",
       "normalized_extracted_at": "2026-11-05T08:28:51Z",
       "summary_extracted_at": "2026-11-18T20:46:11Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/520689917_UM-Baltimore-Washington-Medical-Center_standardcharges.csv",
-      "normalized_sha256": "322a256dedeafa549ea5d5a9f878c20e1d064e470925c7fcc5294a8b21627e28",
-      "summary_sha256": "21b192d36d94b5d3c9de273c05b55bdbd4d54ce2743fee5d1a925d7e6f64db22",
-      "normalized_extracted_at": "2026-11-04T18:41:34Z",
-      "summary_extracted_at": "2026-11-18T20:23:08Z"
     },
     {
       "source_url": "https://www.tennovalafollette.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528273_tennova-lafollette-medical-center_standardcharges.csv",
@@ -208,13 +180,6 @@
       "summary_extracted_at": "2026-11-18T21:00:15Z"
     },
     {
-      "source_url": "https://www.umms.org/standard-charges/520445374_UM-Charles-Regional-Medical-Center_standardcharges.csv",
-      "normalized_sha256": "39b1fa484257aced6a6bc46d55371ada91909a4e17d64b02501e4bf21820c639",
-      "summary_sha256": "0fde21bdbda442dacb82ad5cd58766eaafba483bab69f4ec5661bbebf8c0ac46",
-      "normalized_extracted_at": "2026-11-04T18:39:35Z",
-      "summary_extracted_at": "2026-11-18T20:23:26Z"
-    },
-    {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741166904_baylor-scott--white-pavilion--temple_standardcharges.csv",
       "normalized_sha256": "2aecc15b700a39be80022f26b023652862c0b5f2f868ebb22458f0a02e2b01e7",
       "summary_sha256": "f53976029dffd6a11310c66089b442cea2e53166373f487777441209c63644ab",
@@ -262,13 +227,6 @@
       "summary_sha256": "c0f513047b7e571ef996b4d53deee0b725cc1047f73ce62d2c2df2846fe0f21f",
       "normalized_extracted_at": "2026-11-08T01:50:41Z",
       "summary_extracted_at": "2026-11-18T18:53:32Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/521289729_UM-Capital-Region-Medical-Center_standardcharges.csv",
-      "normalized_sha256": "698df4a65c8e00c479fc2b06ffdf388e595c3ff8967d12544ae20c447eaa8e37",
-      "summary_sha256": "9f3c3bf8a3479aeca3a5dcc4d56bfae0273530cc59841430ca857a2e9fb6ddde",
-      "normalized_extracted_at": "2026-11-04T18:39:49Z",
-      "summary_extracted_at": "2026-11-18T20:23:25Z"
     },
     {
       "source_url": "https://www.tennovanewport.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528314_tennova-newport-medical-center_standardcharges.csv",
@@ -418,25 +376,11 @@
       "summary_extracted_at": "2026-11-18T19:38:32Z"
     },
     {
-      "source_url": "https://www.umms.org/standard-charges/520610538_UM-Shore-Medical-Center-at-Cambridge_standardcharges.csv",
-      "normalized_sha256": "32dc1e93f68ecc679e5ba3f3d88874d8108854a23cf279d9139a490fc184ec1c",
-      "summary_sha256": "2713ba3ce062f183330ee44b6a437a13b407b869d24ded634ad2cd1276ee404a",
-      "normalized_extracted_at": "2026-11-04T18:38:16Z",
-      "summary_extracted_at": "2026-11-18T20:23:50Z"
-    },
-    {
       "source_url": "https://www.wellstar.org/wellstar-kennestone-hospital_standard-charges",
       "normalized_sha256": "7fab2ab8217f511cd23823c70e05216eaefc8c788c62c29333e7cc11da25a917",
       "summary_sha256": "b6e123b2091ccdc4c432685b84b4524ac4c931c77dee77d5241c9d4789047aa0",
       "normalized_extracted_at": "2026-11-06T17:41:38Z",
       "summary_extracted_at": "2026-11-18T18:09:21Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/521362793_UM-R-Adams-Cowley-Shock-Trauma-Center_standardcharges.csv",
-      "normalized_sha256": "7714f14766e75e37a5e3e7039ad5238ca087b3e7bc3ca24df71ca119f5880afa",
-      "summary_sha256": "9910e1105c6d6c200f4c3e1422c98d676514116acf15f8b7d76919eeb1056c4b",
-      "normalized_extracted_at": "2026-11-04T18:41:51Z",
-      "summary_extracted_at": "2026-11-18T20:23:40Z"
     },
     {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?",
@@ -551,13 +495,6 @@
       "summary_extracted_at": "2026-11-18T21:04:23Z"
     },
     {
-      "source_url": "https://www.umms.org/standard-charges/520610538_UM-Shore-Emergency-Center-at-Queenstown_standardcharges.csv",
-      "normalized_sha256": "7e828e4ba762613de74abe8a049a5be6c935daad8fc78f1bb2270b087801f678",
-      "summary_sha256": "232c7191c109e08a7f0e50540baceaeb6cb4b8f6f3ddc8af6f653a6e67314c28",
-      "normalized_extracted_at": "2026-11-04T18:38:15Z",
-      "summary_extracted_at": "2026-11-18T20:23:48Z"
-    },
-    {
       "source_url": "https://secure.claraprice.net/price-transparency/WJBE-1656005164598/machine-readable/741461220_frio-regional-hospital_standardcharges.json",
       "normalized_sha256": "5517216a212fc034155db9826ec0b671de126807b2e0e97dddfb1f26b24bd9e3",
       "summary_sha256": "3c0c77f669f2e147f4b3994db3db603afd026da0d9ba3c5d22085077cd5ea483",
@@ -570,13 +507,6 @@
       "summary_sha256": "62a673a6dab2836bfc1243c8fcbc7771256d5c991462eb2f06ebb207d06639da",
       "normalized_extracted_at": "2026-11-14T02:47:58Z",
       "summary_extracted_at": "2026-11-18T19:00:55Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/352445106_UM-St.-Joseph-Medical-Center_standardcharges.csv",
-      "normalized_sha256": "083f4c27dce3b01270e236fcabb21959328f7cb094f6bda529f054314f694eba",
-      "summary_sha256": "d89a1241bc48aa2b39061a71b069063007279b5a72e8d2e4308e528ffe1e375d",
-      "normalized_extracted_at": "2026-11-04T18:40:06Z",
-      "summary_extracted_at": "2026-11-18T20:24:01Z"
     },
     {
       "source_url": "https://www.wellstar.org/wellstar-douglas-hospital_standard-charges",
@@ -598,13 +528,6 @@
       "summary_sha256": "19a1257982702c619ec786e94f72ce17e34e7b27b2d8be661c938f39e64a3faa",
       "normalized_extracted_at": "2026-11-06T17:40:44Z",
       "summary_extracted_at": "2026-11-18T18:09:20Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/521253920_UM-Upper-Chesapeake-Behavior-Health-Pavilion-at-Aberdeen_standardcharges.csv",
-      "normalized_sha256": "9fb0434ec7bc0f846adae25f71ff1a20d52daceea3a831101e49ee300143646d",
-      "summary_sha256": "9568ee635d6ab997fbe05f8ed9bde5336bb5c9022df5edf4404f8051f769c398",
-      "normalized_extracted_at": "2026-11-04T18:38:16Z",
-      "summary_extracted_at": "2026-11-18T20:24:05Z"
     },
     {
       "source_url": "https://www.merithealthriverregion.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621752111_merit-health-river-region_standardcharges.csv",
@@ -810,13 +733,6 @@
       "summary_extracted_at": "2026-11-18T18:09:22Z"
     },
     {
-      "source_url": "https://www.umms.org/standard-charges/521289729_UM-Bowie-Health-Center_standardcharges.csv",
-      "normalized_sha256": "c5a4e4156a7118e44e880f4364c614143e1a824cc5baed96f44a6868ce03a171",
-      "summary_sha256": "91c256c27a6a2cd19f4299a6af307ce741a96beb2711993109c5e0442648bea4",
-      "normalized_extracted_at": "2026-11-04T18:38:15Z",
-      "summary_extracted_at": "2026-11-18T20:23:24Z"
-    },
-    {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-sewickley_standardcharges-April-2026.csv",
       "normalized_sha256": "ca2793d2f7891318b04ceb82c90316465b3dc5541b9c68432dec1ccc8d04bc36",
       "summary_sha256": "b90e507462203a88e0703011d9bc00cc0e153cc42fd5068d828e7f330577606d",
@@ -836,20 +752,6 @@
       "summary_sha256": "d81f34d756358b0d6851f332515aae16ec938e207aaa8a380453072266cbd67f",
       "normalized_extracted_at": "2026-11-06T17:50:14Z",
       "summary_extracted_at": "2026-11-18T20:59:11Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/521253920_UM-Upper-Chesapeake-Medical-Center_standardcharges.csv",
-      "normalized_sha256": "842c2b73799e402ad3a060f16582507ddc1a5042d63c743f1e3d2b84226ddc3c",
-      "summary_sha256": "ef39b1aa50e08eb34e7460560836166ece918c7d3360be82e3bc88ec3cc2c1c5",
-      "normalized_extracted_at": "2026-11-04T18:40:59Z",
-      "summary_extracted_at": "2026-11-18T20:24:06Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/521253920_UM-Upper-Chesapeake-Medical-Center-Aberdeen_standardcharges.csv",
-      "normalized_sha256": "0206f61a5ddcae24ba88f2aa50afcc48444dbeb01b1b2988e9912e88e585690c",
-      "summary_sha256": "a56ff10662fbb4e3978a7e29568c86259510526013eb6a4ddc387e8fde453ab5",
-      "normalized_extracted_at": "2026-11-04T18:38:16Z",
-      "summary_extracted_at": "2026-11-18T20:24:09Z"
     },
     {
       "source_url": "https://stanfordhealthcare.org/content/dam/valleycare/patients-visitors/941429628_stanford-health-care---tri-valley_standardcharges.json",
@@ -892,13 +794,6 @@
       "summary_sha256": "65d5a994af0aeb413942bc22f27a2fe8b0e1a87b19cccc4605d0eb0c685e0987",
       "normalized_extracted_at": "2026-11-08T01:42:14Z",
       "summary_extracted_at": "2026-11-18T19:10:45Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/521289729_UM-Laurel-Medical-Center_standardcharges.csv",
-      "normalized_sha256": "cd0bfe1a1f213928719934465e91d9f719a92b0d095012062b7135910e0c27b9",
-      "summary_sha256": "1f4e61abfe6352be2fa252a3858f2ff9c3b969035cc8dc0bb7ed561e9e4b2b87",
-      "normalized_extracted_at": "2026-11-04T18:39:03Z",
-      "summary_extracted_at": "2026-11-18T20:23:39Z"
     },
     {
       "source_url": "https://www.longviewregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762420_longview-regional-medical-center_standardcharges.csv",
@@ -948,13 +843,6 @@
       "summary_sha256": "9dd36bc3135c131446c533e4f1f30e9e554a7b7a2638458d937e7d45c262378c",
       "normalized_extracted_at": "2026-11-08T01:45:52Z",
       "summary_extracted_at": "2026-11-18T19:10:50Z"
-    },
-    {
-      "source_url": "https://www.urmc.rochester.edu/getmedia/016bb4df-9b94-41b6-a803-c44ad94a879c/160743979-NICHOLAS-H-NOYES-MEMORIAL-HOSPITAL-standardcharges.csv",
-      "normalized_sha256": "06efe9ded72d7bc20677562dba551873308f54c7637cb286ec0f9b445c513554",
-      "summary_sha256": "cb3b6483db0d0f97f4beed5ca3c08c76d3f77b50ce13a6d5e7cc718c0bf4ea5b",
-      "normalized_extracted_at": "2026-11-04T18:29:08Z",
-      "summary_extracted_at": "2026-11-18T19:21:23Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1447457775_saint-joseph-health-system-inc_standardcharges.csv",
@@ -1018,13 +906,6 @@
       "summary_sha256": "060d32755e361e56cbb7aa3645c82bab2ba6105c5b91a78a69ba1fd52635dc1d",
       "normalized_extracted_at": "2026-11-11T18:03:42Z",
       "summary_extracted_at": "2026-11-18T20:41:02Z"
-    },
-    {
-      "source_url": "https://www.umms.org/standard-charges/520591667_UMMC-Midtown-Campus_standardcharges.csv",
-      "normalized_sha256": "81a3520eb50bb0a30a7e67451a7937ee15631dcdeb72e423ba6e8815e2e254d5",
-      "summary_sha256": "6bf4ad22ce5e86161d758f65e4e880ad77b173c1c520ff551d9de208e88f580d",
-      "normalized_extracted_at": "2026-11-04T18:39:18Z",
-      "summary_extracted_at": "2026-11-18T20:24:24Z"
     },
     {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820880337_upmc-carlisle_standardcharges.csv?",
@@ -1125,13 +1006,6 @@
       "summary_extracted_at": "2026-11-18T19:09:50Z"
     },
     {
-      "source_url": "https://www.umms.org/standard-charges/520679694_UM-Shore-Medical-Center-at-Chestertown_standardcharges.csv",
-      "normalized_sha256": "3cc9f8f5de64e16e05001b5b7f0b7eb902bef6c858a069474a65bb84f0aefcbb",
-      "summary_sha256": "a00b5e89cfc48043e92d0ffd3835ee7482682402e90c9a0b620428f0e10fc582",
-      "normalized_extracted_at": "2026-11-04T18:40:41Z",
-      "summary_extracted_at": "2026-11-18T20:23:51Z"
-    },
-    {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--weston_standardcharges.zip",
       "normalized_sha256": "1fbe82a22872996bf64c1704bd4933109e97c19857d024897bf505deb60c47bb",
       "summary_sha256": "e7860bf492d58d60a4d02989bcc39164ff67d6c78ffc10746bb1a625c475587f",
@@ -1158,6 +1032,13 @@
       "summary_sha256": "7010045414ea5ae08f187fde6272026854a0c4b2488150dc5486f95c477ef789",
       "normalized_extracted_at": "2026-11-08T01:46:21Z",
       "summary_extracted_at": "2026-11-18T19:10:28Z"
+    },
+    {
+      "source_url": "https://www.stclair.org/wp-content/uploads/2026/03/251010303_st.-clair-hospital_standardcharges.csv",
+      "normalized_sha256": "a7a019459c64e4480f83b4e840b3b99f9a9abfca4c9bf1423b838b7f3994021c",
+      "summary_sha256": "c77d1948113d04d623134fce23a2b3c3d0921b867563f4cdc1886c449d3af38f",
+      "normalized_extracted_at": "2026-11-19T19:24:22Z",
+      "summary_extracted_at": "2026-11-16T21:04:11Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1679592380_west-penn-allegheny-health-system-inc_standardcharges.csv",

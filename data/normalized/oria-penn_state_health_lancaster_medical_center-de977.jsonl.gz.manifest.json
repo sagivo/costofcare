@@ -5,7 +5,7 @@
   "source_url": "https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/851620990_penn-state-health-lancaster-medical-center_standardcharges.csv",
   "source_sha256": "8f6d1382ddc4d6282043099a83dee98589b21bd376c5d1c151262813399029e6",
   "download_bytes": 95329238,
-  "extracted_at": "2026-11-04T18:27:04Z",
+  "extracted_at": "2026-11-19T19:18:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-penn_state_health_lancaster_medical_center-de977__8d6755a4f5f55de8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8d/oria-penn_state_health_lancaster_medical_center-de977__8d6755a4f5f55de8.jsonl.gz",
     "asset_sha256": "8d6755a4f5f55de86ae500e582b9791011a21b63ed99ced1a01e65fa55557917",
-    "published_at": "2026-11-04T18:48:19Z"
+    "published_at": "2026-11-19T19:29:56Z"
   }
 }

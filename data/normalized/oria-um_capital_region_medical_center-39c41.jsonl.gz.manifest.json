@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 135,
   "source_url": "https://www.umms.org/standard-charges/521289729_UM-Capital-Region-Medical-Center_standardcharges.csv",
-  "source_sha256": "698df4a65c8e00c479fc2b06ffdf388e595c3ff8967d12544ae20c447eaa8e37",
-  "download_bytes": 407592042,
-  "extracted_at": "2026-11-04T18:39:49Z",
+  "source_sha256": "9f3c3bf8a3479aeca3a5dcc4d56bfae0273530cc59841430ca857a2e9fb6ddde",
+  "download_bytes": 407592035,
+  "extracted_at": "2026-11-19T19:28:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid start byte at byte 2411",
+  "strict_utf8_failure": "invalid start byte at byte 2404",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-41",
-    "asset_name": "oria-um_capital_region_medical_center-39c41__41a9be531278a16b.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-41/oria-um_capital_region_medical_center-39c41__41a9be531278a16b.jsonl.gz",
-    "asset_sha256": "41a9be531278a16b40e4cffd47bb91e080cbdadd1ffc28c77d7844c091a61305",
-    "published_at": "2026-11-04T18:49:30Z"
+    "release": "data-norm-f7",
+    "asset_name": "oria-um_capital_region_medical_center-39c41__f7be8133c7e1ca84.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f7/oria-um_capital_region_medical_center-39c41__f7be8133c7e1ca84.jsonl.gz",
+    "asset_sha256": "f7be8133c7e1ca84a2dfaa2cb71f377df2ab3ea8b79ecad2111833d758c6c31e",
+    "published_at": "2026-11-19T19:31:08Z"
   }
 }

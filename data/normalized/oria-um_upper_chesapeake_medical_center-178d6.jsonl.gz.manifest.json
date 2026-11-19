@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 139,
   "source_url": "https://www.umms.org/standard-charges/521253920_UM-Upper-Chesapeake-Medical-Center_standardcharges.csv",
-  "source_sha256": "842c2b73799e402ad3a060f16582507ddc1a5042d63c743f1e3d2b84226ddc3c",
-  "download_bytes": 409988184,
-  "extracted_at": "2026-11-04T18:40:59Z",
+  "source_sha256": "ef39b1aa50e08eb34e7460560836166ece918c7d3360be82e3bc88ec3cc2c1c5",
+  "download_bytes": 409988178,
+  "extracted_at": "2026-11-19T19:28:32Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid start byte at byte 2418",
+  "strict_utf8_failure": "invalid start byte at byte 2412",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-8d",
-    "asset_name": "oria-um_upper_chesapeake_medical_center-178d6__8d697d1082bc220d.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8d/oria-um_upper_chesapeake_medical_center-178d6__8d697d1082bc220d.jsonl.gz",
-    "asset_sha256": "8d697d1082bc220d193b2c408a95626e62c2d8c6d294c054d2e4116787ad5bdc",
-    "published_at": "2026-11-04T18:49:52Z"
+    "release": "data-norm-58",
+    "asset_name": "oria-um_upper_chesapeake_medical_center-178d6__58b9948617874655.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-um_upper_chesapeake_medical_center-178d6__58b9948617874655.jsonl.gz",
+    "asset_sha256": "58b99486178746551e8dbb3edaad60be213d00bde56d5768313c97b9ef6bf44a",
+    "published_at": "2026-11-19T19:31:35Z"
   }
 }

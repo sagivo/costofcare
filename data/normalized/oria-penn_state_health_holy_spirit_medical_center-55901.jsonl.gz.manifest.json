@@ -5,7 +5,7 @@
   "source_url": "https://www.pennstatehealth.org/sites/default/files/Finance/Apr-2026/231512747_penn-state-health-holy-spirit-medical-center_standardcharges.csv",
   "source_sha256": "78fab727c1a827d174dcbfeee0d1698bf01c8287d16a4c7c20edf665414f15e2",
   "download_bytes": 98594871,
-  "extracted_at": "2026-11-04T18:28:29Z",
+  "extracted_at": "2026-11-19T19:19:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-penn_state_health_holy_spirit_medical_center-55901__7b93eab258f1d293.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/oria-penn_state_health_holy_spirit_medical_center-55901__7b93eab258f1d293.jsonl.gz",
     "asset_sha256": "7b93eab258f1d293db4060a3297855a8108782a180f5aaa47d84e580cc51d5bb",
-    "published_at": "2026-11-04T18:48:18Z"
+    "published_at": "2026-11-19T19:29:54Z"
   }
 }

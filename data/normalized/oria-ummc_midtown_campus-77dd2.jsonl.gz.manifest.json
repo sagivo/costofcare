@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 162,
   "source_url": "https://www.umms.org/standard-charges/520591667_UMMC-Midtown-Campus_standardcharges.csv",
-  "source_sha256": "81a3520eb50bb0a30a7e67451a7937ee15631dcdeb72e423ba6e8815e2e254d5",
-  "download_bytes": 402852369,
-  "extracted_at": "2026-11-04T18:39:18Z",
+  "source_sha256": "6bf4ad22ce5e86161d758f65e4e880ad77b173c1c520ff551d9de208e88f580d",
+  "download_bytes": 402852362,
+  "extracted_at": "2026-11-19T19:28:02Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid start byte at byte 2368",
+  "strict_utf8_failure": "invalid start byte at byte 2361",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-e5",
-    "asset_name": "oria-ummc_midtown_campus-77dd2__e5637c69ceaf2adb.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/oria-ummc_midtown_campus-77dd2__e5637c69ceaf2adb.jsonl.gz",
-    "asset_sha256": "e5637c69ceaf2adb089b47f38372dadf63fb6eab10040c106e759388b600359a",
-    "published_at": "2026-11-04T18:50:00Z"
+    "release": "data-norm-65",
+    "asset_name": "oria-ummc_midtown_campus-77dd2__65fad57df6510424.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-65/oria-ummc_midtown_campus-77dd2__65fad57df6510424.jsonl.gz",
+    "asset_sha256": "65fad57df6510424172e76945e32a52f5afd62bd2d712ab74f0737e114c7e748",
+    "published_at": "2026-11-19T19:31:43Z"
   }
 }

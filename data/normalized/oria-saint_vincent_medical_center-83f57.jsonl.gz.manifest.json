@@ -5,7 +5,7 @@
   "source_url": "https://hartfordhealthcare.org/file%20library/price%20data/832550272_st_vincents_medical_center_standardcharges.csv",
   "source_sha256": "395e3a3e923c17fa04e736faf930336f8bb62fb505e26271825bf28d122a115b",
   "download_bytes": 38275153,
-  "extracted_at": "2026-11-04T18:29:48Z",
+  "extracted_at": "2026-11-19T19:22:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-saint_vincent_medical_center-83f57__4d0762329cf70586.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4d/oria-saint_vincent_medical_center-83f57__4d0762329cf70586.jsonl.gz",
     "asset_sha256": "4d0762329cf7058659d75b8ac9bff81c4b9e7be8b0fb3ac75a0c6aa5783a5827",
-    "published_at": "2026-11-04T18:48:51Z"
+    "published_at": "2026-11-19T19:30:26Z"
   }
 }

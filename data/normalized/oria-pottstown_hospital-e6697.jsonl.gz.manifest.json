@@ -5,7 +5,7 @@
   "source_url": "https://towerhealth.org/sites/default/files/pricing/82-2132538_Pottstown-Hospital_StandardCharges.csv",
   "source_sha256": "0182c30937629f71a8051fb55072f32f946a3fe2bc1834d72df1d2e96c7757cb",
   "download_bytes": 38321887,
-  "extracted_at": "2026-11-04T18:29:57Z",
+  "extracted_at": "2026-11-19T19:22:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-pottstown_hospital-e6697__9bdfb993b57cafc2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9b/oria-pottstown_hospital-e6697__9bdfb993b57cafc2.jsonl.gz",
     "asset_sha256": "9bdfb993b57cafc28d640d3318da339deeac364d69e114cdc22cad6976182c24",
-    "published_at": "2026-11-04T18:48:29Z"
+    "published_at": "2026-11-19T19:30:04Z"
   }
 }

@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 89,
   "source_url": "https://www.umms.org/standard-charges/520610538_UM-Shore-Emergency-Center-at-Queenstown_standardcharges.csv",
-  "source_sha256": "7e828e4ba762613de74abe8a049a5be6c935daad8fc78f1bb2270b087801f678",
-  "download_bytes": 7006489,
-  "extracted_at": "2026-11-04T18:38:15Z",
+  "source_sha256": "232c7191c109e08a7f0e50540baceaeb6cb4b8f6f3ddc8af6f653a6e67314c28",
+  "download_bytes": 7006477,
+  "extracted_at": "2026-11-19T19:27:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid start byte at byte 2449",
+  "strict_utf8_failure": "invalid start byte at byte 2437",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-a9",
-    "asset_name": "oria-um_shore_emergency_center_at_queenstown-85cd0__a925fbcda8d6981a.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/oria-um_shore_emergency_center_at_queenstown-85cd0__a925fbcda8d6981a.jsonl.gz",
-    "asset_sha256": "a925fbcda8d6981a76ed871f1cc48a18f1eaa536b38d09321cb93ba15e241a94",
-    "published_at": "2026-11-04T18:49:40Z"
+    "release": "data-norm-26",
+    "asset_name": "oria-um_shore_emergency_center_at_queenstown-85cd0__264816368f658099.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-um_shore_emergency_center_at_queenstown-85cd0__264816368f658099.jsonl.gz",
+    "asset_sha256": "264816368f658099e6f8b369cd3c0bbaf369d52df1df5b56a5b1e7e00938c3ba",
+    "published_at": "2026-11-19T19:31:20Z"
   }
 }

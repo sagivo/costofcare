@@ -5,7 +5,7 @@
   "source_url": "https://www.northoaks.org/documents/2026/451834769_north-oaks-medical-center_standardcharges.csv",
   "source_sha256": "3fdbfbf8593cd9e86eecd58ead0cd4b01492bae0001c7fc3c5135c78c2d59e36",
   "download_bytes": 117500609,
-  "extracted_at": "2026-11-04T18:28:38Z",
+  "extracted_at": "2026-11-19T19:19:40Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-north_oaks_medical_center-2ea79__d0b42fd1e4be014e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/oria-north_oaks_medical_center-2ea79__d0b42fd1e4be014e.jsonl.gz",
     "asset_sha256": "d0b42fd1e4be014e71e6db37f83412214320d09cdc7ebce3506d2bccd4e39375",
-    "published_at": "2026-11-04T18:47:52Z"
+    "published_at": "2026-11-19T19:29:32Z"
   }
 }
