@@ -1,0 +1,25 @@
+{
+  "npi": "1023463718",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-20T19:17:18Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1023463718",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CASSANDRA",
+      "last_name": "LEN",
+      "primary_taxonomy": "Counselor, Mental Health",
+      "location": {
+        "address_1": "103 COMMERCIAL ST",
+        "city": "BROCKTON",
+        "state": "MA",
+        "postal_code": "023023101"
+      },
+      "last_updated": "2016-04-29"
+    }
+  ]
+}

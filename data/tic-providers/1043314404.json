@@ -1,0 +1,25 @@
+{
+  "npi": "1043314404",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-20T19:18:08Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1043314404",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DENNIS",
+      "last_name": "GOWANS",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "7624 PAINTER AVE",
+        "city": "WHITTIER",
+        "state": "CA",
+        "postal_code": "906022300"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

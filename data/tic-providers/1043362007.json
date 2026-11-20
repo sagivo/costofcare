@@ -1,0 +1,25 @@
+{
+  "npi": "1043362007",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-20T19:18:14Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1043362007",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MARLENE",
+      "last_name": "DENESSEN",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "715 OLD KINGS HIGHWAY",
+        "city": "WELLFLEET",
+        "state": "MA",
+        "postal_code": "02667"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

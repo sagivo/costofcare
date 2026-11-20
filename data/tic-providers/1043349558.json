@@ -1,0 +1,25 @@
+{
+  "npi": "1043349558",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-20T19:18:11Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1043349558",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CARA",
+      "last_name": "HOFFMANN GARSO",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "154 BROAD ST STE 1511",
+        "city": "NASHUA",
+        "state": "NH",
+        "postal_code": "030633205"
+      },
+      "last_updated": "2023-03-30"
+    }
+  ]
+}
