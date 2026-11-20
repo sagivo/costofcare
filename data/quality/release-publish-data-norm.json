@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:44:24Z",
+  "generated_at": "2026-11-20T16:50:15Z",
   "data_dir": "data/normalized",
   "release_prefix": "data-norm",
   "counts": {
@@ -7,13 +7,21 @@
     "already_published": 0,
     "uploaded_this_run": 0,
     "idempotent_skips": 0,
-    "quarantined_skips": 0,
+    "quarantined_skips": 7,
     "verified_this_run": 0,
     "errors": 0,
     "manifests_with_verified_assets": 0,
     "manifests_missing_verified_assets": 0
   },
   "missing_files": [],
-  "quarantined_files": [],
+  "quarantined_files": [
+    "oria-children_s_hospital_of_orange_county-54474.jsonl.gz",
+    "oria-forbes_hospital-0323b.jsonl.gz",
+    "oria-grove_city_hospital-25a5d.jsonl.gz",
+    "oria-saint_vincent_hospital-44cdc.jsonl.gz",
+    "oria-st_clair_hospital-8f1e2.jsonl.gz",
+    "oria-west_penn_hospital-fb1d2.jsonl.gz",
+    "oria-westfield_memorial_hospital_inc-69955.jsonl.gz"
+  ],
   "error_files": []
 }
