@@ -78,7 +78,7 @@ def write_rows(path,targets,dest,encoding,url,sha,sid,inferred):
 def main():
  p=argparse.ArgumentParser();p.add_argument('--url',required=True);p.add_argument('--id',required=True);p.add_argument('--out-dir',default='data/normalized');p.add_argument('--max-mb',type=int,default=700);a=p.parse_args()
  targets,_=m.load_codes(m.DEFAULT_CODES);os.makedirs(a.out_dir,exist_ok=True)
- path,total=m.download(a.url,a.max_mb*1024*1024)
+ path,total,evidence=m.download(a.url,a.max_mb*1024*1024)
  digest=hashlib.sha256()
  with open(path,'rb') as f:
   for b in iter(lambda:f.read(1024*1024),b''):digest.update(b)
@@ -94,7 +94,7 @@ def main():
    encoding='cp1252';inferred=True
    n,mismatched=write_rows(path,targets,dest,encoding,a.url,sha,a.id,True)
   os.replace(dest+'.tmp',dest)
-  manifest={'parser_version':PARSER_VERSION,'schema_version':'1.0.0','records':n,'source_url':a.url,'source_sha256':sha,'download_bytes':total,'extracted_at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'code_filter':sorted(targets),'complete_source_download':True,'complete_target_code_scan':True,'source_truth_independently_verified':False,'source_encoding':encoding,'source_encoding_inferred':inferred,'strict_utf8_failure':strict_utf8_error,'row_width_mismatch_records':mismatched,'preserves':'raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal'}
+  manifest={'parser_version':PARSER_VERSION,'schema_version':'1.0.0','records':n,'source_url':a.url,'source_sha256':sha,'download_bytes':total,'extracted_at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'code_filter':sorted(targets),'complete_source_download':evidence['method'] in ('content-length','chunked-framing'),'download_completeness':evidence,'complete_target_code_scan':True,'source_truth_independently_verified':False,'source_encoding':encoding,'source_encoding_inferred':inferred,'strict_utf8_failure':strict_utf8_error,'row_width_mismatch_records':mismatched,'preserves':'raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal'}
   json.dump(manifest,open(dest+'.manifest.json','w'),indent=2);print(json.dumps(manifest))
  finally:
   os.unlink(path)

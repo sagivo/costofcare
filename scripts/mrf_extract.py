@@ -114,12 +114,24 @@ class Acc:
 
 # ---------------- streaming download ----------------
 
+class IncompleteDownloadError(Exception):
+    pass
+
 def download(url, max_bytes, timeout=45):
     req = urllib.request.Request(url, headers={"User-Agent": "costofcare-research/1.0 (price transparency data collection)", "Accept-Encoding": "identity"})
     tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".mrf")
     total = 0
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
+            status = r.status
+            content_range = r.headers.get("Content-Range")
+            transfer_encoding = (r.headers.get("Transfer-Encoding") or "").lower()
+            try:
+                expected = int(r.headers.get("Content-Length"))
+            except (TypeError, ValueError):
+                expected = None
+            if expected is not None and expected > max_bytes:
+                raise OverflowError(f"file exceeds {max_bytes} bytes")
             while True:
                 chunk = r.read(1 << 20)
                 if not chunk: break
@@ -127,13 +139,23 @@ def download(url, max_bytes, timeout=45):
                 if total > max_bytes:
                     raise OverflowError(f"file exceeds {max_bytes} bytes")
                 tmp.write(chunk)
+            if status == 206 or content_range is not None:
+                raise IncompleteDownloadError(f"partial response to full-entity request: status={status} content-range={content_range}")
+            if expected is not None:
+                if total != expected:
+                    raise IncompleteDownloadError(f"expected {expected} bytes, received {total}")
+                evidence = {"method": "content-length", "expected": expected, "received": total}
+            elif "chunked" in transfer_encoding:
+                evidence = {"method": "chunked-framing", "expected": None, "received": total}
+            else:
+                evidence = {"method": "close-delimited-unverified", "expected": None, "received": total}
     except Exception:
         tmp.close()
         os.unlink(tmp.name)
         raise
     finally:
         tmp.close()
-    return tmp.name, total
+    return tmp.name, total, evidence
 
 def open_payload(path):
     """Return (binary_fileobj, kind) where kind in json|csv; unwraps gzip/zip."""
@@ -385,8 +407,9 @@ def main():
     t0 = time.time()
     result = {"mrf_url": url, "status": "failed", "extracted_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())}
     try:
-        path, total = download(url, max_bytes)
+        path, total, evidence = download(url, max_bytes)
         result["bytes"] = total
+        result["download_completeness"] = evidence
         digest = hashlib.sha256()
         with open(path, "rb") as source:
             for chunk in iter(lambda: source.read(1024 * 1024), b""):
