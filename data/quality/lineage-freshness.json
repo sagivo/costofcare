@@ -1,15 +1,16 @@
 {
-  "generated_at": "2026-11-20T04:05:11.742190+00:00",
-  "normalized_files": 2776,
+  "generated_at": "2026-11-20T13:44:57.611507+00:00",
+  "normalized_files": 2769,
+  "quarantined": 7,
   "parser_versions": {
-    "row-preserving-1.3": 2769,
+    "row-preserving-1.3": 2762,
     "row-preserving-1.2": 6,
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
     "over_7_days": 1656,
-    "1_to_7_days": 980,
-    "within_24h": 140
+    "1_to_7_days": 977,
+    "within_24h": 136
   },
   "failed_attempt_classes": {
     "other": 52,
@@ -68,13 +69,6 @@
       "summary_extracted_at": "2026-11-19T18:21:28Z"
     },
     {
-      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1194744805_west-penn-allegheny-health-system-inc_standardcharges.csv",
-      "normalized_sha256": "ed7b540a13d7245d13f6c97b962a1be9ccaf5b82e02ea6eef72e4c888d293613",
-      "summary_sha256": "1fd6c8628b6b842871450097c95e560a27865c3e3fd6dec985726cb633b8bd98",
-      "normalized_extracted_at": "2026-11-20T03:57:38Z",
-      "summary_extracted_at": "2026-11-19T20:49:15Z"
-    },
-    {
       "source_url": "https://www.tennovalafollette.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528273_tennova-lafollette-medical-center_standardcharges.csv",
       "normalized_sha256": "fd34d29d70d0cda75a52e8c2fa53a1363e0e23b8a41ac17f433988b27622df6e",
       "summary_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
@@ -87,13 +81,6 @@
       "summary_sha256": "fe2b3fcd46a78a978a100d23aeb18f48ee80344999fbaacda25987d9dc27732a",
       "normalized_extracted_at": "2026-11-12T18:37:08Z",
       "summary_extracted_at": "2026-11-19T18:53:37Z"
-    },
-    {
-      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/160743222_westfield-memorial-hospital-inc_standardcharges.csv",
-      "normalized_sha256": "ec31774de1e38382a97986a2773ecbc0ed29d9be06f47265e9a42a3b13536256",
-      "summary_sha256": "0808300ff1252315acda60477b7051c41b2bb265812ca74fb2b8722c7da32f92",
-      "normalized_extracted_at": "2026-11-20T03:56:28Z",
-      "summary_extracted_at": "2026-11-19T20:49:36Z"
     },
     {
       "source_url": "https://www.gibsonhospital.org/file/2582/370647938_gibson-area-hospital_standardcharges.csv",
@@ -178,13 +165,6 @@
       "summary_sha256": "b84acd78e6ab6cb2c53dfca1ea02aef731a7bd7faf67ecc43470a2a8f2468895",
       "normalized_extracted_at": "2026-11-17T04:40:42Z",
       "summary_extracted_at": "2026-11-10T19:11:11Z"
-    },
-    {
-      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251340370_grove-city-medical-center_standardcharges.csv",
-      "normalized_sha256": "b23585d5edabb23e6a41667b12a8b5782eaab5ec3b6564c307914b653114b4f5",
-      "summary_sha256": "3ab0f3f7de6861ecda547cd1745624d389df05578c4b480aa82e58351d59a505",
-      "normalized_extracted_at": "2026-11-14T02:39:21Z",
-      "summary_extracted_at": "2026-11-19T20:52:41Z"
     },
     {
       "source_url": "https://clariti-health.com/csp/clariti/machinereadable/v2/352194353_United-Surgeons-LLC-DBA-Unity-Physicians-Hospital_standardcharges.csv",
@@ -318,13 +298,6 @@
       "summary_sha256": "ef03557cfea91bbe4d2064951477caa727c7518e83f284448484ed8223108240",
       "normalized_extracted_at": "2026-11-08T01:47:31Z",
       "summary_extracted_at": "2026-11-19T19:17:15Z"
-    },
-    {
-      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250965547_saint-vincent-health-center_standardcharges.csv",
-      "normalized_sha256": "03b88de720e7b581353f0fe59263d910e9265b9f19ecf20ba04e3f110d3f3b9e",
-      "summary_sha256": "8984b3454f295fff85ee09e9d45f00c41e874ef2d6d80894c53cc8e6141398c4",
-      "normalized_extracted_at": "2026-11-15T17:31:26Z",
-      "summary_extracted_at": "2026-11-19T19:53:29Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752834135_baylor-scott--white-heart-and-vascular-hospital--waxahachie_standardcharges.csv",
@@ -810,13 +783,6 @@
       "summary_extracted_at": "2026-11-19T18:28:43Z"
     },
     {
-      "source_url": "https://choc.org/files/charges/952321786_Childrens-Hospital-of-Orange_standardcharges.csv",
-      "normalized_sha256": "6151caefb505d34430b20ea2899395a160f708cd1dd6846d9b0e387773862d62",
-      "summary_sha256": "a0568567b0921ebc9d632d6eefa6b4e0a4e59c5ab81050c2f84de1ea3827dce2",
-      "normalized_extracted_at": "2026-11-20T03:37:01Z",
-      "summary_extracted_at": "2026-11-19T19:39:45Z"
-    },
-    {
       "source_url": "https://www.merithealthwesley.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/522050792_merit-health-wesley_standardcharges.csv",
       "normalized_sha256": "749a7aacb5458b8649c2e9a6912a9db3980d5b83b3869377c0198764585345d5",
       "summary_sha256": "60021b283c677454ece3cff60c451cdc437af989935eae5b059e3d5962c736b2",
@@ -1032,20 +998,6 @@
       "summary_sha256": "7010045414ea5ae08f187fde6272026854a0c4b2488150dc5486f95c477ef789",
       "normalized_extracted_at": "2026-11-08T01:46:21Z",
       "summary_extracted_at": "2026-11-19T19:18:46Z"
-    },
-    {
-      "source_url": "https://www.stclair.org/wp-content/uploads/2026/03/251010303_st.-clair-hospital_standardcharges.csv",
-      "normalized_sha256": "a7a019459c64e4480f83b4e840b3b99f9a9abfca4c9bf1423b838b7f3994021c",
-      "summary_sha256": "c77d1948113d04d623134fce23a2b3c3d0921b867563f4cdc1886c449d3af38f",
-      "normalized_extracted_at": "2026-11-19T19:24:22Z",
-      "summary_extracted_at": "2026-11-16T21:04:11Z"
-    },
-    {
-      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1679592380_west-penn-allegheny-health-system-inc_standardcharges.csv",
-      "normalized_sha256": "4742a7fd7744def6221763044004107373bad5b4d8f211a314ac41f9b4a8f5d7",
-      "summary_sha256": "50b9b73f8a8dee3d8780de5bb12fd126c37e37cf2ea8334932fcc08c7bd417d2",
-      "normalized_extracted_at": "2026-11-14T02:44:19Z",
-      "summary_extracted_at": "2026-11-19T20:44:15Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1740488386_saint-joseph-health-system-inc_standardcharges.csv",
