@@ -17,7 +17,7 @@ def main():
    if isinstance(n,int) and not isinstance(n,bool):manifest_records+=n
    if 'quarantine' in mm:
     q=mm['quarantine']
-    if not isinstance(q,dict) or not isinstance(q.get('quarantined_at'),str) or not isinstance(q.get('reason'),str):errors.append({'path':os.path.basename(blob),'error':'invalid quarantine object'})
+    if not isinstance(q,dict) or not all(isinstance(q.get(k),str) and q[k] for k in ('quarantined_at','reason')):errors.append({'path':os.path.basename(blob),'error':'invalid quarantine object'})
     else:quarantined[mp]={'source_id':os.path.basename(blob)[:-len('.jsonl.gz')],'records':n,'source_sha256':mm.get('source_sha256'),'source_url':mm.get('source_url'),'extracted_at':mm.get('extracted_at'),'quarantined':True,'quarantined_at':q['quarantined_at'],'reason':q['reason']}
   except (OSError,ValueError,AttributeError):pass
  for path in blob_paths:
@@ -47,14 +47,11 @@ def main():
      seen.add(stable)
    if m.get('source_encoding_inferred'):inferred_files.append(os.path.basename(path))
    if n!=m['records']:raise ValueError('manifest count mismatch')
-   quarantined='quarantine' in m
-   if quarantined:
-    q=m['quarantine']
-    if not isinstance(q,dict) or not all(isinstance(q.get(k),str) and q[k] for k in ('quarantined_at','reason')):raise ValueError('invalid quarantine object')
-   elif not m.get('complete_source_download') or not m.get('complete_target_code_scan'):raise ValueError('incomplete scan')
-   sources.append({'source_id':r.get('source_id') if n else os.path.basename(path),'records':n,'source_sha256':m['source_sha256'],'source_url':m['source_url'],'extracted_at':m['extracted_at'],**({'quarantined':True} if quarantined else {})})
+   if 'quarantine' not in m:
+    if not m.get('complete_source_download') or not m.get('complete_target_code_scan'):raise ValueError('incomplete scan')
+    sources.append({'source_id':r.get('source_id') if n else os.path.basename(path),'records':n,'source_sha256':m['source_sha256'],'source_url':m['source_url'],'extracted_at':m['extracted_at']})
   except Exception as e:errors.append({'path':os.path.basename(path),'error':str(e)})
- out={'generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'status':'pass' if not errors else 'fail','validated_files':len(sources),'quarantined_files':len(quarantined),'validated_records':total,'quarantined_files':sum(1 for s in sources if s.get('quarantined')),'local_blob_files':len(blob_paths),'manifest_files':len(manifest_paths),'manifest_records':manifest_records,'remote_only_files':remote_only,'row_width_mismatch_records':mismatch_total,'inferred_encoding_files':sum(1 for x in inferred_files),'source_formats':dict(formats),'populated_field_counts':dict(fields),'sources':sources+list(quarantined.values()),'errors':errors,'scope':'Artifact integrity and source-preserving contract only; no independent clinical, coding, payer/network or amount validation'}
+ out={'generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'status':'pass' if not errors else 'fail','validated_files':len(sources),'quarantined_files':len(quarantined),'validated_records':total,'local_blob_files':len(blob_paths),'manifest_files':len(manifest_paths),'manifest_records':manifest_records,'remote_only_files':remote_only,'row_width_mismatch_records':mismatch_total,'inferred_encoding_files':sum(1 for x in inferred_files),'source_formats':dict(formats),'populated_field_counts':dict(fields),'sources':sources+list(quarantined.values()),'errors':errors,'scope':'Artifact integrity and source-preserving contract only; no independent clinical, coding, payer/network or amount validation'}
  os.makedirs(ROOT+'/data/quality',exist_ok=True);json.dump(out,open(ROOT+'/data/quality/normalized-validation.json','w'),indent=2)
  for e in errors:print(f"VALIDATION_ERROR {e['path']}: {e['error']}")
  print(out['status'],len(sources),'files',total,'records',len(errors),'errors');return bool(errors)

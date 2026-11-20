@@ -8,7 +8,7 @@ Never invents data: only rows matching the target code set are emitted, with the
 dollar amounts exactly as published (negotiated percentages/algorithms are counted
 but not converted to dollars).
 """
-import csv, gzip, io, json, os, re, sys, tempfile, time, urllib.request, zipfile, hashlib
+import csv, gzip, http.client, io, json, os, re, sys, tempfile, time, urllib.error, urllib.request, zipfile, hashlib
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DEFAULT_CODES = os.path.join(HERE, "target_codes.json")
@@ -117,15 +117,69 @@ class Acc:
 class IncompleteDownloadError(Exception):
     pass
 
+RESUME_CHUNK = 32 * 1024 * 1024
+RESUME_ATTEMPTS = 3
+
+def _ranged_resume(url, tmp, have, expected, etag, last_modified, max_bytes, timeout, cause):
+    """Sequentially fetch the missing suffix with validated 206 responses; return total bytes."""
+    if expected > max_bytes:
+        raise OverflowError(f"file exceeds {max_bytes} bytes")
+    def abort(why):
+        raise IncompleteDownloadError(f"{cause}; ranged resume aborted: {why}")
+    while have < expected:
+        start, end = have, min(have + RESUME_CHUNK, expected) - 1
+        want_range = f"bytes {start}-{end}/{expected}"
+        headers = {"User-Agent": "costofcare-research/1.0 (price transparency data collection)", "Accept-Encoding": "identity",
+                   "Range": f"bytes={start}-{end}", "If-Range": etag or last_modified}
+        data, last_err = None, None
+        for attempt in range(RESUME_ATTEMPTS):
+            if attempt:
+                time.sleep(2 ** (attempt - 1))
+            try:
+                with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=timeout) as r:
+                    if r.status != 206:
+                        abort(f"status={r.status} for bytes={start}-{end}")
+                    if r.headers.get("Content-Range") != want_range:
+                        abort(f"content-range={r.headers.get('Content-Range')} for requested {want_range}")
+                    new_etag, new_lm = r.headers.get("ETag"), r.headers.get("Last-Modified")
+                    if (new_etag is not None and new_etag != etag) or (new_lm is not None and new_lm != last_modified):
+                        abort(f"entity changed mid-download (etag={new_etag} last-modified={new_lm})")
+                    parts, got = [], 0
+                    while got <= end - start:
+                        part = r.read(min(1 << 20, end - start + 2 - got))
+                        if not part: break
+                        parts.append(part); got += len(part)
+                    body = b"".join(parts)
+            except urllib.error.HTTPError as e:
+                abort(f"status={e.code} for bytes={start}-{end}")
+            except (OSError, http.client.HTTPException) as e:
+                last_err = e
+                continue
+            if len(body) != end - start + 1:
+                last_err = f"short body: {len(body)} of {end - start + 1} bytes"
+                continue
+            data = body
+            break
+        if data is None:
+            raise IncompleteDownloadError(f"{cause}; ranged resume failed for bytes={start}-{end} after {RESUME_ATTEMPTS} attempts: {last_err}")
+        tmp.write(data)
+        have = end + 1
+    tmp.flush()
+    if os.fstat(tmp.fileno()).st_size != expected:
+        raise IncompleteDownloadError(f"{cause}; ranged resume assembled {os.fstat(tmp.fileno()).st_size} bytes, expected {expected}")
+    return have
+
 def download(url, max_bytes, timeout=45):
     req = urllib.request.Request(url, headers={"User-Agent": "costofcare-research/1.0 (price transparency data collection)", "Accept-Encoding": "identity"})
     tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".mrf")
     total = 0
+    resume = None
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             status = r.status
             content_range = r.headers.get("Content-Range")
             transfer_encoding = (r.headers.get("Transfer-Encoding") or "").lower()
+            etag, last_modified = r.headers.get("ETag"), r.headers.get("Last-Modified")
             try:
                 expected = int(r.headers.get("Content-Length"))
             except (TypeError, ValueError):
@@ -143,12 +197,20 @@ def download(url, max_bytes, timeout=45):
                 raise IncompleteDownloadError(f"partial response to full-entity request: status={status} content-range={content_range}")
             if expected is not None:
                 if total != expected:
-                    raise IncompleteDownloadError(f"expected {expected} bytes, received {total}")
+                    err = IncompleteDownloadError(f"expected {expected} bytes, received {total}")
+                    if total > expected or not (etag or last_modified):
+                        raise err
+                    resume = (expected, etag, last_modified, str(err))
                 evidence = {"method": "content-length", "expected": expected, "received": total}
             elif "chunked" in transfer_encoding:
                 evidence = {"method": "chunked-framing", "expected": None, "received": total}
             else:
                 evidence = {"method": "close-delimited-unverified", "expected": None, "received": total}
+        if resume:
+            expected, etag, last_modified, cause = resume
+            tmp.flush()
+            total = _ranged_resume(url, tmp, total, expected, etag, last_modified, max_bytes, timeout, cause)
+            evidence = {"method": "ranged-content-range-verified", "expected": expected, "received": total}
     except Exception:
         tmp.close()
         os.unlink(tmp.name)

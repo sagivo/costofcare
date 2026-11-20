@@ -94,7 +94,7 @@ def main():
    encoding='cp1252';inferred=True
    n,mismatched=write_rows(path,targets,dest,encoding,a.url,sha,a.id,True)
   os.replace(dest+'.tmp',dest)
-  manifest={'parser_version':PARSER_VERSION,'schema_version':'1.0.0','records':n,'source_url':a.url,'source_sha256':sha,'download_bytes':total,'extracted_at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'code_filter':sorted(targets),'complete_source_download':evidence['method'] in ('content-length','chunked-framing'),'download_completeness':evidence,'complete_target_code_scan':True,'source_truth_independently_verified':False,'source_encoding':encoding,'source_encoding_inferred':inferred,'strict_utf8_failure':strict_utf8_error,'row_width_mismatch_records':mismatched,'preserves':'raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal'}
+  manifest={'parser_version':PARSER_VERSION,'schema_version':'1.0.0','records':n,'source_url':a.url,'source_sha256':sha,'download_bytes':total,'extracted_at':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'code_filter':sorted(targets),'complete_source_download':evidence['method'] in ('content-length','chunked-framing','ranged-content-range-verified'),'download_completeness':evidence,'complete_target_code_scan':True,'source_truth_independently_verified':False,'source_encoding':encoding,'source_encoding_inferred':inferred,'strict_utf8_failure':strict_utf8_error,'row_width_mismatch_records':mismatched,'preserves':'raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal'}
   json.dump(manifest,open(dest+'.manifest.json','w'),indent=2);print(json.dumps(manifest))
  finally:
   os.unlink(path)

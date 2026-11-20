@@ -34,6 +34,7 @@ def main():
     run=subprocess.run([sys.executable,ROOT+'/scripts/normalize_mrf.py','--id',hid,'--url',d['mrf_url'],'--out-dir',temp,'--max-mb',str(a.max_mb)],capture_output=True,text=True,timeout=a.source_timeout,env=dict(os.environ,TMPDIR=temp))
     if run.returncode:raise ValueError(run.stderr[-700:])
     manifest_path=temp+'/'+hid+'.jsonl.gz.manifest.json';manifest=json.load(open(manifest_path))
+    # Quarantine recovery path: a verified-complete re-extraction replaces the manifest wholesale, so the 'quarantine' key (see quarantine_manifest.py) disappears naturally.
     # Install only complete verified-format output, then a manifest. Retain source history hash.
     for path in glob.glob(temp+'/*.jsonl.gz*'):os.replace(path,directory+'/'+os.path.basename(path))
     result.update(status='ok',records=manifest['records'],source_sha256=manifest['source_sha256'])
