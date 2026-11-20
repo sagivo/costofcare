@@ -1,8 +1,12 @@
 import json,os,tempfile,unittest
 from build_dataset import build
 OBS='2026-11-20T08:20:00Z'
-def hospital(i,extracted_at):
- return {'id':i,'status':'ok','mrf_url':'https://example.test/%s.csv'%i,'display_name':i,'city':'C','state':'ST','extracted_at':extracted_at,'codes':{'99213':{'cash_min':10.0}}}
+NEW='2026-11-21T00:00:00Z'
+VERIFIED={'method':'content-length','expected':100,'received':100}
+def hospital(i,extracted_at,download_completeness=None):
+ h={'id':i,'status':'ok','mrf_url':'https://example.test/%s.csv'%i,'display_name':i,'city':'C','state':'ST','extracted_at':extracted_at,'codes':{'99213':{'cash_min':10.0}}}
+ if download_completeness is not None: h['download_completeness']=download_completeness
+ return h
 class BuildDatasetTests(unittest.TestCase):
  def make(self,hospitals,listed=None):
   self.tmp=tempfile.TemporaryDirectory(); self.addCleanup(self.tmp.cleanup); r=self.tmp.name
@@ -27,10 +31,33 @@ class BuildDatasetTests(unittest.TestCase):
   self.assertEqual(summary['providers'],1); self.assertEqual(summary['rows'],1)
   self.assertEqual([a['id'] for a in out['attempts']],['bad','good'])
  def test_newer_artifact_lifts_exclusion(self):
-  r=self.make([hospital('redone','2026-11-21T00:00:00Z')],listed=['redone'])
+  r=self.make([hospital('redone','2026-11-21T00:00:00Z',VERIFIED)],listed=['redone'])
   out,summary=self.run_build(r)
   self.assertEqual([p['id'] for p in out['providers']],['redone'])
   self.assertEqual(out['excluded_incomplete'],[]); self.assertEqual(summary['excluded_incomplete'],0)
+ def assert_stays_excluded(self,h):
+  out,summary=self.run_build(self.make([h],listed=[h['id']]))
+  self.assertEqual(out['providers'],[]); self.assertEqual(out['excluded_incomplete'],[h['id']]); self.assertEqual(summary['excluded_incomplete'],1)
+ def test_d_newer_without_download_completeness_stays_excluded(self):
+  self.assert_stays_excluded(hospital('nodc',NEW))
+ def test_e_newer_close_delimited_unverified_stays_excluded(self):
+  self.assert_stays_excluded(hospital('cd',NEW,{'method':'close-delimited-unverified','expected':None,'received':100}))
+ def test_f_newer_verified_content_length_lifts(self):
+  out,summary=self.run_build(self.make([hospital('cl',NEW,{'method':'content-length','expected':100,'received':100})],listed=['cl']))
+  self.assertEqual([p['id'] for p in out['providers']],['cl']); self.assertEqual(out['excluded_incomplete'],[])
+ def test_g_newer_content_length_mismatch_stays_excluded(self):
+  self.assert_stays_excluded(hospital('mm',NEW,{'method':'content-length','expected':100,'received':99}))
+ def test_chunked_framing_lifts_without_sizes(self):
+  out,_=self.run_build(self.make([hospital('ch',NEW,{'method':'chunked-framing','expected':None,'received':100})],listed=['ch']))
+  self.assertEqual([p['id'] for p in out['providers']],['ch'])
+ def test_other_evidence_failures_stay_excluded(self):
+  bad=[('str',{'method':'content-length','expected':'100','received':'100'}),('bool',{'method':'content-length','expected':True,'received':True}),
+   ('none',{'method':'ranged-content-range-verified','expected':None,'received':None}),('unk',{'method':'bogus','expected':1,'received':1}),('notdict','content-length')]
+  for i,c in bad: self.assert_stays_excluded(hospital(i,NEW,c))
+ def test_verified_but_not_newer_or_unparseable_stays_excluded(self):
+  self.assert_stays_excluded(hospital('eq',OBS,VERIFIED))
+  self.assert_stays_excluded(hospital('old','2026-11-19T00:00:00Z',VERIFIED))
+  self.assert_stays_excluded(hospital('junk','not-a-time',VERIFIED))
  def test_missing_file_changes_nothing(self):
   r=self.make([hospital('a','2026-11-19T20:00:00Z'),hospital('b','2026-11-19T20:00:00Z')])
   out,summary=self.run_build(r)

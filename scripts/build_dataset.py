@@ -12,12 +12,21 @@ def load_truncated(root):
  try: entries=json.load(open(root+'/data/truncated-artifacts.json'))['artifacts']
  except FileNotFoundError: return {}
  return {e['id']:e for e in entries}
+VERIFIED_METHODS=('content-length','chunked-framing','ranged-content-range-verified')
+SIZE_CHECKED_METHODS=('content-length','ranged-content-range-verified')
+def is_int(v): return isinstance(v,int) and not isinstance(v,bool)
+def has_download_evidence(d):
+ c=d.get('download_completeness')
+ if not isinstance(c,dict) or c.get('method') not in VERIFIED_METHODS: return False
+ if c['method'] in SIZE_CHECKED_METHODS: return is_int(c.get('expected')) and is_int(c.get('received')) and c['expected']==c['received']
+ return True
 def is_excluded(d,truncated):
  e=truncated.get(d.get('id'))
  if not e: return False
  extracted,observed=parse_time(d.get('extracted_at')),parse_time(e.get('observed_at'))
- # Unparseable timestamps fail closed: the exclusion stays in force.
- return extracted is None or observed is None or extracted<=observed
+ # Lift only with a parseable, strictly newer timestamp AND verified download evidence; anything else fails closed.
+ newer=extracted is not None and observed is not None and extracted>observed
+ return not (newer and has_download_evidence(d))
 def build(root=ROOT):
  targets=json.load(open(root+'/scripts/target_codes.json'))['codes']; providers=[]; rows=[]; attempts=[]; seen=set(); excluded=[]; truncated=load_truncated(root)
  for p in sorted(glob.glob(root+'/data/hospitals/*.json')):
