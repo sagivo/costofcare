@@ -146,6 +146,7 @@ def main() -> int:
         "already_published": 0,
         "uploaded_this_run": 0,
         "idempotent_skips": 0,
+        "quarantined_skips": 0,
         "verified_this_run": 0,
         "errors": 0,
         "manifests_with_verified_assets": 0,
@@ -154,6 +155,7 @@ def main() -> int:
     hard_error = False
     file_hashes: dict[Path, str] = {}
     error_files: list[dict[str, str]] = []
+    quarantined_files: set[str] = set()
 
     for path in files:
         stem = path.name[: -len(".jsonl.gz")]
@@ -175,6 +177,12 @@ def main() -> int:
             counts["errors"] += 1
             error_files.append({"file": path.name, "error": "no sibling manifest found"})
             print(f"ERROR {path.name}: no sibling manifest found")
+            continue
+
+        if "quarantine" in manifest:
+            counts["quarantined_skips"] += 1
+            quarantined_files.add(path.name)
+            print(f"QUARANTINED {path.name}")
             continue
 
         try:
@@ -305,8 +313,12 @@ def main() -> int:
         counts["manifests_with_verified_assets" if ok else "manifests_missing_verified_assets"] += 1
         if not ok:
             missing_files.add(path.name)
-    counts["manifests_missing_verified_assets"] += counts["files_total"] - len(file_hashes)
-    missing_files.update(p.name for p in files if p not in file_hashes)
+    counts["manifests_missing_verified_assets"] += (
+        counts["files_total"] - len(file_hashes) - counts["quarantined_skips"]
+    )
+    missing_files.update(
+        p.name for p in files if p not in file_hashes and p.name not in quarantined_files
+    )
 
     report_path = data_dir.parent / "quality" / f"release-publish-{args.release_prefix}.json"
     write_json_atomic(report_path, {
@@ -315,6 +327,7 @@ def main() -> int:
         "release_prefix": args.release_prefix,
         "counts": counts,
         "missing_files": sorted(missing_files),
+        "quarantined_files": sorted(quarantined_files),
         "error_files": error_files,
     })
     print(f"report: {report_path}")

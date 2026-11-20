@@ -83,8 +83,9 @@ class ReportMissingAndErrorFilesTests(unittest.TestCase):
             report = json.loads((Path(tmp) / "quality" / "release-publish-t.json").read_text())
             self.assertEqual(report["missing_files"], [])
             self.assertEqual(report["error_files"], [])
+            self.assertEqual(report["quarantined_files"], [])
             self.assertEqual(set(report["counts"]), {
-                "files_total", "already_published", "uploaded_this_run", "idempotent_skips",
+                "files_total", "already_published", "uploaded_this_run", "idempotent_skips", "quarantined_skips",
                 "verified_this_run", "errors", "manifests_with_verified_assets",
                 "manifests_missing_verified_assets"})
 
@@ -111,6 +112,26 @@ class ReportMissingAndErrorFilesTests(unittest.TestCase):
             self.assertIn("cannot read manifest", errors["bad.jsonl.gz"])
             self.assertEqual(report["counts"]["errors"], 2)
             self.assertEqual(report["counts"]["manifests_missing_verified_assets"], 2)
+            self.assertEqual(report["counts"]["manifests_with_verified_assets"], 1)
+
+    def test_quarantined_files_listed_and_not_missing(self):
+        digest = hashlib.sha256(b"data").hexdigest()
+        with tempfile.TemporaryDirectory() as tmp:
+            d = Path(tmp) / "normalized"
+            d.mkdir()
+            (d / "ok.jsonl.gz").write_bytes(b"data")
+            (d / "ok.jsonl.gz.manifest.json").write_text(
+                json.dumps({"release_asset": {"asset_sha256": digest}}))
+            for name in ("q2.jsonl.gz", "q1.jsonl.gz"):
+                (d / name).write_bytes(b"data")
+                (d / f"{name}.manifest.json").write_text(json.dumps({"quarantine": {}}))
+            proc = run_publish(d)
+            self.assertEqual(proc.returncode, 0, proc.stdout + proc.stderr)
+            report = json.loads((Path(tmp) / "quality" / "release-publish-t.json").read_text())
+            self.assertEqual(report["quarantined_files"], ["q1.jsonl.gz", "q2.jsonl.gz"])
+            self.assertEqual(report["missing_files"], [])
+            self.assertEqual(report["counts"]["quarantined_skips"], 2)
+            self.assertEqual(report["counts"]["manifests_missing_verified_assets"], 0)
             self.assertEqual(report["counts"]["manifests_with_verified_assets"], 1)
 
     def test_failed_publish_is_missing_and_errored(self):

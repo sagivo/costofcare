@@ -8,10 +8,11 @@ A matching file hash proves repeatability of a snapshot, not hospital correctnes
 import csv,gzip,glob,hashlib,io,json,os,datetime,urllib.request,urllib.parse
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 def main():
- candidates=[]
+ candidates=[];quarantined=0
  holds={x['hostname'] for x in json.load(open(ROOT+'/data/source-holds.json'))['holds']}
  for p in glob.glob(ROOT+'/data/normalized/*.manifest.json'):
   m=json.load(open(p))
+  if 'quarantine' in m:quarantined+=1;continue
   if m.get('download_bytes',10**12)>3_000_000 or not m['source_url'].lower().endswith('.csv'):continue
   if urllib.parse.urlsplit(m['source_url']).hostname in holds:continue
   candidates.append((hashlib.sha256(m['source_url'].encode()).hexdigest(),p,m))
@@ -51,6 +52,6 @@ def main():
    result.update(status=('source_values_match_header_whitespace_trimmed' if header_trimmed else 'exact_source_readback_match'),records_compared=compared)
   except Exception as e:result.update(status='failed',error=str(e)[:300])
   results.append(result)
- report={'checked_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'sampling':'up to twelve distinct-host direct CSV sources <=3MB, deterministic URL-hash ordering; first/middle/last preserved record per file; excludes source holds; not random or representative','scope':'independent full original CSV header/value readback and source hash; not clinical equivalence, provider attribution or source truth certification','results':results}
+ report={'checked_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'quarantined':quarantined,'sampling':'up to twelve distinct-host direct CSV sources <=3MB, deterministic URL-hash ordering; first/middle/last preserved record per file; excludes source holds; not random or representative','scope':'independent full original CSV header/value readback and source hash; not clinical equivalence, provider attribution or source truth certification','results':results}
  json.dump(report,open(ROOT+'/data/quality/source-readback.json','w'),indent=2);print([(x['status'],x.get('records_compared')) for x in results])
 if __name__=='__main__':main()
