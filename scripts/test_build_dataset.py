@@ -1,5 +1,5 @@
 import json,os,tempfile,unittest
-from build_dataset import build
+from build_dataset import build,TruncatedArtifactsError
 OBS='2026-11-20T08:20:00Z'
 NEW='2026-11-21T00:00:00Z'
 VERIFIED={'method':'content-length','expected':100,'received':100}
@@ -58,8 +58,22 @@ class BuildDatasetTests(unittest.TestCase):
   self.assert_stays_excluded(hospital('eq',OBS,VERIFIED))
   self.assert_stays_excluded(hospital('old','2026-11-19T00:00:00Z',VERIFIED))
   self.assert_stays_excluded(hospital('junk','not-a-time',VERIFIED))
- def test_missing_file_changes_nothing(self):
-  r=self.make([hospital('a','2026-11-19T20:00:00Z'),hospital('b','2026-11-19T20:00:00Z')])
+ def write_raw(self,r,text): open(r+'/data/truncated-artifacts.json','w').write(text)
+ def assert_refuses(self,r):
+  with self.assertRaises(TruncatedArtifactsError): self.run_build(r)
+  self.assertFalse(os.path.exists(r+'/public/data/dataset.json')); self.assertFalse(os.path.exists(r+'/src/data/summary.json'))
+ def test_missing_file_raises(self):
+  self.assert_refuses(self.make([hospital('a','2026-11-19T20:00:00Z')]))
+ def test_malformed_json_raises(self):
+  r=self.make([hospital('a','2026-11-19T20:00:00Z')]); self.write_raw(r,'{"artifacts": ['); self.assert_refuses(r)
+ def test_artifacts_not_a_list_raises(self):
+  for v in ['{"artifacts": {}}','{"artifacts": null}','{"artifacts": "a"}','{}','[]']:
+   r=self.make([hospital('a','2026-11-19T20:00:00Z')]); self.write_raw(r,v); self.assert_refuses(r)
+ def test_entry_missing_or_invalid_fields_raises(self):
+  for e in [{'observed_at':OBS},{'id':'','observed_at':OBS},{'id':5,'observed_at':OBS},{'id':'a'},{'id':'a','observed_at':''},{'id':'a','observed_at':None},'a']:
+   r=self.make([hospital('a','2026-11-19T20:00:00Z')]); self.write_raw(r,json.dumps({'artifacts':[e]})); self.assert_refuses(r)
+ def test_explicit_empty_list_builds_with_no_exclusions(self):
+  r=self.make([hospital('a','2026-11-19T20:00:00Z'),hospital('b','2026-11-19T20:00:00Z')],listed=[])
   out,summary=self.run_build(r)
   self.assertEqual([p['id'] for p in out['providers']],['a','b'])
   self.assertEqual(out['excluded_incomplete'],[]); self.assertEqual(summary['excluded_incomplete'],0)

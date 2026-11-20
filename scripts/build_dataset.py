@@ -8,9 +8,21 @@ def parse_time(v):
   t=datetime.datetime.fromisoformat(str(v).replace('Z','+00:00'))
   return t if t.tzinfo else t.replace(tzinfo=datetime.timezone.utc)
  except ValueError: return None
+class TruncatedArtifactsError(RuntimeError): pass
 def load_truncated(root):
- try: entries=json.load(open(root+'/data/truncated-artifacts.json'))['artifacts']
- except FileNotFoundError: return {}
+ # Fail closed: only an explicit {"artifacts": []} means "no exclusions".
+ path=root+'/data/truncated-artifacts.json'
+ def bad(why): return TruncatedArtifactsError('refusing to generate: %s %s' % (path,why))
+ try:
+  with open(path) as f: data=json.load(f)
+ except FileNotFoundError: raise bad('is missing; the truncated-artifact exclusion list is required (use {"artifacts": []} for no exclusions)') from None
+ except (ValueError,OSError) as ex: raise bad('is unreadable or not valid JSON: %s' % ex) from None
+ entries=data.get('artifacts') if isinstance(data,dict) else None
+ if not isinstance(entries,list): raise bad("must be an object whose top-level 'artifacts' is a list")
+ for n,e in enumerate(entries):
+  if not isinstance(e,dict): raise bad('entry %d is not an object' % n)
+  for k in ('id','observed_at'):
+   if not isinstance(e.get(k),str) or not e[k].strip(): raise bad("entry %d is missing a non-empty string '%s'" % (n,k))
  return {e['id']:e for e in entries}
 VERIFIED_METHODS=('content-length','chunked-framing','ranged-content-range-verified')
 SIZE_CHECKED_METHODS=('content-length','ranged-content-range-verified')
