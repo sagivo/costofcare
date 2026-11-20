@@ -5,7 +5,7 @@
   "source_url": "https://hospital.uillinois.edu/documents/PatientAndVisitors/billing/376000511_University-of-Illinois-Hospital-and-Clinics_standardcharges.csv",
   "source_sha256": "f800650631bb9c41b563a235338bbd8c6463634e784af3943980712eedfae629",
   "download_bytes": 540592503,
-  "extracted_at": "2026-11-05T08:25:57Z",
+  "extracted_at": "2026-11-20T03:53:31Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-university_of_illinois_hospital_clinics-1dd2d__e8c1afb37a67a1ed.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e8/oria-university_of_illinois_hospital_clinics-1dd2d__e8c1afb37a67a1ed.jsonl.gz",
     "asset_sha256": "e8c1afb37a67a1ed3b1a1203b150b03b14398303869c3e7231897173b4457f98",
-    "published_at": "2026-11-05T08:43:19Z"
+    "published_at": "2026-11-20T04:02:16Z"
   }
 }

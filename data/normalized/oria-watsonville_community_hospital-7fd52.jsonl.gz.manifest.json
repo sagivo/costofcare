@@ -5,7 +5,7 @@
   "source_url": "https://s3.amazonaws.com/ycubaa-production-marlin-1-charge-management-public/facilities/e21d6544-b3b7-44c8-8df0-60cd8284ed13/911894113_WATSONVILLE-COMMUNITY-HOSPITAL_standardcharges.zip",
   "source_sha256": "b95e280af63bab8d91d07cab442258b460eba83fb35cc622f682c42ee763c0d5",
   "download_bytes": 115190724,
-  "extracted_at": "2026-11-05T08:27:38Z",
+  "extracted_at": "2026-11-20T03:56:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-watsonville_community_hospital-7fd52__225cd2fc3bf2899e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-22/oria-watsonville_community_hospital-7fd52__225cd2fc3bf2899e.jsonl.gz",
     "asset_sha256": "225cd2fc3bf2899e2d591c976430334dee07c930f531a9c5a7a98bfe159b922e",
-    "published_at": "2026-11-05T08:43:24Z"
+    "published_at": "2026-11-20T04:02:24Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.geisinger.org/-/media/OneGeisinger/pdfs/ghs/patient-care/patients-and-visitors/billing-and-insurance/hosp-charges-csv/24-0862246_Geisinger-Community-Medical-Center_standardcharges",
   "source_sha256": "4f82d7394da7c980b143269dc5c368ecf3fcd6fd5bc846a57d883751145e5637",
   "download_bytes": 221203877,
-  "extracted_at": "2026-11-05T08:29:02Z",
+  "extracted_at": "2026-11-20T03:58:19Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "geisinger-community-medical-center__93d9c2501440f3df.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-93/geisinger-community-medical-center__93d9c2501440f3df.jsonl.gz",
     "asset_sha256": "93d9c2501440f3df74dface1e1e927c1f4b3cf867abf6b988f59ada3f79fccac",
-    "published_at": "2026-11-05T08:40:59Z"
+    "published_at": "2026-11-20T04:00:49Z"
   }
 }

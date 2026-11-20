@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 290,
   "source_url": "https://www.umms.org/standard-charges/521362793_University-of-Maryland-Medical-Center_standardcharges.csv",
-  "source_sha256": "b17d2e1fa8b0070cd0e8c590c2ae054cc9bdcdd4f1b865df7821f729883ff176",
-  "download_bytes": 419881323,
-  "extracted_at": "2026-11-04T18:42:09Z",
+  "source_sha256": "51807147888b8dba2f9ecf4615693a5142a0f8804654c1212257b19bf5421f35",
+  "download_bytes": 419881321,
+  "extracted_at": "2026-11-20T03:40:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -181,14 +181,14 @@
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
-  "strict_utf8_failure": "invalid start byte at byte 2422",
+  "strict_utf8_failure": "invalid start byte at byte 2420",
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-4e",
-    "asset_name": "oria-university_of_maryland_medical_center-7780b__4eb862123dcd94b6.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4e/oria-university_of_maryland_medical_center-7780b__4eb862123dcd94b6.jsonl.gz",
-    "asset_sha256": "4eb862123dcd94b60f0849953fcafe6e0a8910750d5c9c9ff723889a9bbc7c27",
-    "published_at": "2026-11-04T18:50:12Z"
+    "release": "data-norm-c7",
+    "asset_name": "oria-university_of_maryland_medical_center-7780b__c7a98e6d86ba20ed.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c7/oria-university_of_maryland_medical_center-7780b__c7a98e6d86ba20ed.jsonl.gz",
+    "asset_sha256": "c7a98e6d86ba20ed42430c3b71c8fab048fc0e3569d742c54aeca87c1099c667",
+    "published_at": "2026-11-20T04:02:18Z"
   }
 }

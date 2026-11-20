@@ -5,7 +5,7 @@
   "source_url": "https://www.urmc.rochester.edu/getmedia/b1fa98a4-bf2c-4b54-883d-edbc50653e7a/161029490-STRONG-MEMORIAL-HOSPITAL-standardcharges.csv",
   "source_sha256": "b3cb782a58cea8fba4af6ca28d0a03a0d710541b3e241c2ded866a118d858989",
   "download_bytes": 505895677,
-  "extracted_at": "2026-11-05T08:24:29Z",
+  "extracted_at": "2026-11-20T03:55:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-strong_memorial_hospital-8b346__e09f121e9286b967.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e0/oria-strong_memorial_hospital-8b346__e09f121e9286b967.jsonl.gz",
     "asset_sha256": "e09f121e9286b9670e5c1bfe9f35426f87ad8ac0ac4d787430129170a9ed44a2",
-    "published_at": "2026-11-05T08:43:05Z"
+    "published_at": "2026-11-20T04:02:06Z"
   }
 }

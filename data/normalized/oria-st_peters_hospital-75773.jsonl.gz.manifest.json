@@ -5,7 +5,7 @@
   "source_url": "https://hpt.trinity-health.org/141348692_st-peters-hospital_standardcharges.zip",
   "source_sha256": "ed5f3e8fb8abd81161778ea277c3cbe512e6bff2847ffaf810776bc1aad67c2e",
   "download_bytes": 362660542,
-  "extracted_at": "2026-11-05T08:19:48Z",
+  "extracted_at": "2026-11-20T03:52:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -189,6 +189,6 @@
     "asset_name": "oria-st_peters_hospital-75773__2166c7979a1473cd.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-21/oria-st_peters_hospital-75773__2166c7979a1473cd.jsonl.gz",
     "asset_sha256": "2166c7979a1473cdcbf1a91b97383f541b3e396df258a1edd54bc7773d47a390",
-    "published_at": "2026-11-05T08:43:03Z"
+    "published_at": "2026-11-20T04:02:04Z"
   }
 }

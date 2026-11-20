@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 209885,
   "source_url": "https://hpt.trinity-health.org/820200895_saint-alphonsus-regional-medical-center-boise_standardcharges.zip",
-  "source_sha256": "efa0c86099934e73f4dc90047f6498a7fa0a03c520ac106c40fc11af27c359d5",
-  "download_bytes": 308515332,
-  "extracted_at": "2026-11-05T08:00:11Z",
+  "source_sha256": "5fe23e5cdbd6cb85376eb157425a5cc5da423697287180ce95cb29c18ad4b616",
+  "download_bytes": 283292354,
+  "extracted_at": "2026-11-20T03:43:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -185,10 +185,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ab",
-    "asset_name": "oria-saint_alphonsus_eagle-df4a7__abd81abdffcf8deb.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ab/oria-saint_alphonsus_eagle-df4a7__abd81abdffcf8deb.jsonl.gz",
-    "asset_sha256": "abd81abdffcf8debad220c86254e8f17fa2c443449fe6e29a23acbfae2bf9efb",
-    "published_at": "2026-11-05T08:42:49Z"
+    "release": "data-norm-2b",
+    "asset_name": "oria-saint_alphonsus_eagle-df4a7__2bf9af8dbae332e2.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2b/oria-saint_alphonsus_eagle-df4a7__2bf9af8dbae332e2.jsonl.gz",
+    "asset_sha256": "2bf9af8dbae332e2ded1de27f7c88e05b3d706c98690d29a8d0663b1602e8d2b",
+    "published_at": "2026-11-20T04:01:55Z"
   }
 }
