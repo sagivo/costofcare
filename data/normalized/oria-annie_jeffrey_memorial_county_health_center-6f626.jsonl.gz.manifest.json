@@ -5,7 +5,7 @@
   "source_url": "http://www.ajhc.org/476000710_annie-jeffrey-memorial-county-health-center_standardcharges.csv",
   "source_sha256": "0dd7a69cb513cb75b9bd324609b4b4498041730042cea623d702a853da12c8ef",
   "download_bytes": 6767024,
-  "extracted_at": "2026-11-05T08:32:59Z",
+  "extracted_at": "2026-11-20T18:46:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 6767024,
+    "received": 6767024
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-annie_jeffrey_memorial_county_health_center-6f626__5fb3cf57ce9c5d10.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5f/oria-annie_jeffrey_memorial_county_health_center-6f626__5fb3cf57ce9c5d10.jsonl.gz",
     "asset_sha256": "5fb3cf57ce9c5d1021f89feed830eebc9e53249f906659f2e63b6a10b3e6e88a",
-    "published_at": "2026-11-05T08:42:30Z"
+    "published_at": "2026-11-20T18:53:36Z"
   }
 }

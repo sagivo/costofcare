@@ -5,7 +5,7 @@
   "source_url": "https://memorialregionalhealth.com/wp-content/uploads/840399209_The-Memorial-Hospital_StandardCharges_04.26.csv",
   "source_sha256": "3cc89291647607435c4d42dfa14e5f92f8f9a5c9a44fa0283deb9456d9defe1e",
   "download_bytes": 32396794,
-  "extracted_at": "2026-11-05T08:03:15Z",
+  "extracted_at": "2026-11-20T18:46:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 32396794,
+    "received": 32396794
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-memorial_regional_health-2e529__b04392d6d99e2597.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/oria-memorial_regional_health-2e529__b04392d6d99e2597.jsonl.gz",
     "asset_sha256": "b04392d6d99e2597251b650578dfd8a8f882f5e400c9ba4be0045d3bbd506cfa",
-    "published_at": "2026-11-05T08:42:44Z"
+    "published_at": "2026-11-20T18:53:40Z"
   }
 }

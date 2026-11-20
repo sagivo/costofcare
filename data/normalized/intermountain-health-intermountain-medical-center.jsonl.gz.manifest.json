@@ -5,7 +5,7 @@
   "source_url": "https://intermountainhealthcare.org/-/media/files/intermountain-health/locations/hospital-prices/942854057_intermountain-medical-center_standardcharges.ashx",
   "source_sha256": "a7adf51ff0ffcd7b904391165a5376327178ed3ad28453cf8d08f6b13f280f1d",
   "download_bytes": 9351214,
-  "extracted_at": "2026-11-05T08:38:38Z",
+  "extracted_at": "2026-11-20T18:51:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "chunked-framing",
+    "expected": null,
+    "received": 9351214
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "intermountain-health-intermountain-medical-center__e71e956fc3b91748.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e7/intermountain-health-intermountain-medical-center__e71e956fc3b91748.jsonl.gz",
     "asset_sha256": "e71e956fc3b9174888507b30467de1d6e74c109852476af989f7db0d3208460c",
-    "published_at": "2026-11-05T08:41:17Z"
+    "published_at": "2026-11-20T18:52:56Z"
   }
 }

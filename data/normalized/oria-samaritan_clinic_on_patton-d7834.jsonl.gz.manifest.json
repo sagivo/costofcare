@@ -5,7 +5,7 @@
   "source_url": "https://wearesamaritan.org/wp-content/uploads/2026/06/916001698_grant-county-public-hospital-district-1-dba-samaritan_standardcharges.zip",
   "source_sha256": "dda9a7e4bbae4e8907e73c52365105a080200ddb4c0fced3e6a4f921f938fd45",
   "download_bytes": 10760614,
-  "extracted_at": "2026-11-05T08:38:05Z",
+  "extracted_at": "2026-11-20T18:50:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 10760614,
+    "received": 10760614
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-samaritan_clinic_on_patton-d7834__3031497444f5dd83.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-30/oria-samaritan_clinic_on_patton-d7834__3031497444f5dd83.jsonl.gz",
     "asset_sha256": "3031497444f5dd83266d06266c30caca39cf898988ef0af82c2ef20000ea7eec",
-    "published_at": "2026-11-05T08:42:51Z"
+    "published_at": "2026-11-20T18:53:42Z"
   }
 }

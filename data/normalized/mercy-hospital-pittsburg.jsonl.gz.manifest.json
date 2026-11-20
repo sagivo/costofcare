@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/480543778_mercy-hospital-pittsburg-inc_standardcharges.zip",
   "source_sha256": "ac1d1029a809334edb1e10d56f226a3dd928899c2d3343154eb67bc1290f4d66",
   "download_bytes": 8970414,
-  "extracted_at": "2026-11-05T08:35:31Z",
+  "extracted_at": "2026-11-20T18:48:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 8970414,
+    "received": 8970414
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "mercy-hospital-pittsburg__626bdba185b27ede.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-62/mercy-hospital-pittsburg__626bdba185b27ede.jsonl.gz",
     "asset_sha256": "626bdba185b27edee923f0d652a3c09247cabfcacafe8db345d13d20ec33c10c",
-    "published_at": "2026-11-05T08:42:05Z"
+    "published_at": "2026-11-20T18:53:22Z"
   }
 }

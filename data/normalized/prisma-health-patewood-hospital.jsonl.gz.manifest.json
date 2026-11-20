@@ -5,7 +5,7 @@
   "source_url": "https://www.prismahealth.org/getmedia/d60bdc1a-f9dc-4736-ae9f-1b0b2b65d620/811723202_prisma-health-patewood-hospital_standardcharges.zip",
   "source_sha256": "5bd7dcf778532291d1dccf59e4cf25e20f95bfabf4befe261bf7beb5ed5df96b",
   "download_bytes": 13261152,
-  "extracted_at": "2026-11-05T18:15:28Z",
+  "extracted_at": "2026-11-20T18:51:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 13261152,
+    "received": 13261152
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "prisma-health-patewood-hospital__7cc6101848032f49.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7c/prisma-health-patewood-hospital__7cc6101848032f49.jsonl.gz",
     "asset_sha256": "7cc6101848032f49ffc2d801582e1d53b037f2fa7d45a04eef20d04339ab07c1",
-    "published_at": "2026-11-05T18:31:40Z"
+    "published_at": "2026-11-20T18:54:03Z"
   }
 }

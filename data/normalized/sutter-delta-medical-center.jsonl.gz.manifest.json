@@ -5,7 +5,7 @@
   "source_url": "https://edge.sitecorecloud.io/sutterhealt962c-sutterhealt8fce-production57cc-4860/media/Project/SutterHealth/SutterHealth/Files/billing-insurance/costs-and-charges/940562680-1467808659_sutter-delta-medical-center_standardcharges.csv",
   "source_sha256": "1fbd03f220cb2e2124690e09c93941b02b1833ffa807d2e359f7981675a3da73",
   "download_bytes": 16153966,
-  "extracted_at": "2026-11-05T18:18:06Z",
+  "extracted_at": "2026-11-20T18:52:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 16153966,
+    "received": 16153966
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "sutter-delta-medical-center__c27fd76829d36bad.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c2/sutter-delta-medical-center__c27fd76829d36bad.jsonl.gz",
     "asset_sha256": "c27fd76829d36badc11bf2e00f94bbbb3614f7387fe62cb2c9093d032cfeb027",
-    "published_at": "2026-11-05T18:32:11Z"
+    "published_at": "2026-11-20T18:54:17Z"
   }
 }
