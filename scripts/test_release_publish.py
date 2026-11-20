@@ -134,6 +134,49 @@ class ReportMissingAndErrorFilesTests(unittest.TestCase):
             self.assertEqual(report["counts"]["manifests_missing_verified_assets"], 0)
             self.assertEqual(report["counts"]["manifests_with_verified_assets"], 1)
 
+    def _report(self, d: Path) -> dict:
+        proc = run_publish(d)
+        self.assertEqual(proc.returncode, 0, proc.stdout + proc.stderr)
+        return json.loads((d.parent / "quality" / "release-publish-t.json").read_text())
+
+    def test_manifest_only_quarantine_is_disclosed(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            d = Path(tmp) / "normalized"
+            d.mkdir()
+            (d / "q.jsonl.gz.manifest.json").write_text(json.dumps({"quarantine": {"reason": "x"}}))
+            report = self._report(d)
+            self.assertEqual(report["quarantined_files"], ["q.jsonl.gz"])
+            self.assertEqual(report["counts"]["quarantined_skips"], 1)
+            self.assertEqual(report["missing_files"], [])
+            self.assertEqual(report["error_files"], [])
+            self.assertEqual(report["counts"]["manifests_missing_verified_assets"], 0)
+
+    def test_blob_and_manifest_quarantine_counted_once(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            d = Path(tmp) / "normalized"
+            d.mkdir()
+            (d / "q.jsonl.gz").write_bytes(b"data")
+            (d / "q.jsonl.gz.manifest.json").write_text(json.dumps({"quarantine": {}}))
+            (d / "m.jsonl.gz.manifest.json").write_text(json.dumps({"quarantine": {}}))
+            report = self._report(d)
+            self.assertEqual(report["quarantined_files"], ["m.jsonl.gz", "q.jsonl.gz"])
+            self.assertEqual(report["counts"]["quarantined_skips"], 2)
+            self.assertEqual(report["counts"]["files_total"], 1)
+            self.assertEqual(report["missing_files"], [])
+            self.assertEqual(report["counts"]["manifests_missing_verified_assets"], 0)
+
+    def test_healthy_manifest_only_file_is_not_quarantined(self):
+        # Blob-free healthy manifests are not enumerated into missing_files
+        # (missing_files is blob-driven); they must not be reported quarantined.
+        with tempfile.TemporaryDirectory() as tmp:
+            d = Path(tmp) / "normalized"
+            d.mkdir()
+            (d / "h.jsonl.gz.manifest.json").write_text("{}")
+            report = self._report(d)
+            self.assertEqual(report["quarantined_files"], [])
+            self.assertEqual(report["counts"]["quarantined_skips"], 0)
+            self.assertEqual(report["missing_files"], [])
+
     def test_failed_publish_is_missing_and_errored(self):
         with tempfile.TemporaryDirectory() as tmp:
             bindir = Path(tmp) / "bin"

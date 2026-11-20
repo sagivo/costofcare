@@ -156,6 +156,20 @@ def main() -> int:
     file_hashes: dict[Path, str] = {}
     error_files: list[dict[str, str]] = []
     quarantined_files: set[str] = set()
+    blob_quarantined: set[str] = set()
+
+    # Manifest-driven disclosure: quarantine must be visible even when the
+    # blob is absent (blob-free checkout), so scan manifests independently.
+    if data_dir.is_dir():
+        suffix = ".manifest.json"
+        for manifest_file in sorted(data_dir.glob("*.jsonl.gz.manifest.json")):
+            try:
+                scanned = read_manifest(manifest_file)
+            except ValueError:
+                continue
+            if scanned is not None and "quarantine" in scanned:
+                quarantined_files.add(manifest_file.name[: -len(suffix)])
+    counts["quarantined_skips"] = len(quarantined_files)
 
     for path in files:
         stem = path.name[: -len(".jsonl.gz")]
@@ -180,8 +194,9 @@ def main() -> int:
             continue
 
         if "quarantine" in manifest:
-            counts["quarantined_skips"] += 1
+            blob_quarantined.add(path.name)
             quarantined_files.add(path.name)
+            counts["quarantined_skips"] = len(quarantined_files)
             print(f"QUARANTINED {path.name}")
             continue
 
@@ -314,7 +329,7 @@ def main() -> int:
         if not ok:
             missing_files.add(path.name)
     counts["manifests_missing_verified_assets"] += (
-        counts["files_total"] - len(file_hashes) - counts["quarantined_skips"]
+        counts["files_total"] - len(file_hashes) - len(blob_quarantined)
     )
     missing_files.update(
         p.name for p in files if p not in file_hashes and p.name not in quarantined_files
