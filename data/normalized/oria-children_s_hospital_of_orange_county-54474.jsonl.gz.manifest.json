@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,25 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-children_s_hospital_of_orange_county-54474__dd0af540e607fce9.jsonl.gz",
     "asset_sha256": "dd0af540e607fce924eb35b3a1a17c2ed04653a5fd5ce4e856bfb705792c2c57",
     "published_at": "2026-11-20T04:01:45Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-dd",
+      "asset_name": "oria-children_s_hospital_of_orange_county-54474__dd0af540e607fce9.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/oria-children_s_hospital_of_orange_county-54474__dd0af540e607fce9.jsonl.gz",
+      "asset_sha256": "dd0af540e607fce924eb35b3a1a17c2ed04653a5fd5ce4e856bfb705792c2c57",
+      "published_at": "2026-11-20T04:01:45Z"
+    },
+    "quarantined_at": "2026-11-20T08:27:07Z",
+    "reason": "silent download truncation published as complete (false-complete); contained by Nov 20 audit",
+    "evidence": {
+      "audit_date": "2026-11-20",
+      "observed_download_bytes": 29818880,
+      "live_content_length": 568640055,
+      "live_sha256": "a0568567b0921ebc9d632d6eefa6b4e0a4e59c5ab81050c2f84de1ea3827dce2",
+      "prior_complete_records": 739,
+      "prior_asset_release": "data-norm-15",
+      "note": "published 3 records from 5.2% prefix; live source byte-identical to Oct 22 complete extraction (sha256 verified); full re-extraction blocked by 18MB output budget (no relaxation authorized)"
+    }
   }
 }

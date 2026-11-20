@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3f/oria-saint_vincent_hospital-44cdc__3fd565d6f1139a51.jsonl.gz",
     "asset_sha256": "3fd565d6f1139a5187171ad03889aa2524cc6a5972209ff88129be9334055152",
     "published_at": "2026-11-15T17:38:08Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-3f",
+      "asset_name": "oria-saint_vincent_hospital-44cdc__3fd565d6f1139a51.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3f/oria-saint_vincent_hospital-44cdc__3fd565d6f1139a51.jsonl.gz",
+      "asset_sha256": "3fd565d6f1139a5187171ad03889aa2524cc6a5972209ff88129be9334055152",
+      "published_at": "2026-11-15T17:38:08Z"
+    },
+    "quarantined_at": "2026-11-20T08:27:07Z",
+    "reason": "silent download truncation published as complete (false-complete); contained by Nov 20 audit",
+    "evidence": {
+      "audit_date": "2026-11-20",
+      "observed_download_bytes": 252545073,
+      "live_content_length": 388285343,
+      "prior_records": 42443,
+      "note": "AHN DAM truncation; last-modified Nov 11 predates Nov 15 extraction"
+    }
   }
 }

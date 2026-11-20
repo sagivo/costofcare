@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-west_penn_hospital-fb1d2__8c9fdf2bec834fcc.jsonl.gz",
     "asset_sha256": "8c9fdf2bec834fcc52db7bedab6345ca4021337dbc1a0d5009b2a31c5e9a2815",
     "published_at": "2026-11-20T04:02:26Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-8c",
+      "asset_name": "oria-west_penn_hospital-fb1d2__8c9fdf2bec834fcc.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-west_penn_hospital-fb1d2__8c9fdf2bec834fcc.jsonl.gz",
+      "asset_sha256": "8c9fdf2bec834fcc52db7bedab6345ca4021337dbc1a0d5009b2a31c5e9a2815",
+      "published_at": "2026-11-20T04:02:26Z"
+    },
+    "quarantined_at": "2026-11-20T08:27:07Z",
+    "reason": "silent download truncation published as complete (false-complete); contained by Nov 20 audit",
+    "evidence": {
+      "audit_date": "2026-11-20",
+      "observed_download_bytes": 108441457,
+      "live_content_length": 333732629,
+      "prior_records": 35698,
+      "note": "AHN DAM truncates plain GET (~60MB observed from sandbox); last-modified Nov 11 predates Nov 20 extraction"
+    }
   }
 }

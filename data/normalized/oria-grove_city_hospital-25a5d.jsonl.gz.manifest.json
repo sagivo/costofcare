@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1b/oria-grove_city_hospital-25a5d__1b3e1ac3457e7786.jsonl.gz",
     "asset_sha256": "1b3e1ac3457e77860fdf0c935e4b9398d22da11252dc610ad3671bac45f700fd",
     "published_at": "2026-11-14T02:50:05Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-1b",
+      "asset_name": "oria-grove_city_hospital-25a5d__1b3e1ac3457e7786.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1b/oria-grove_city_hospital-25a5d__1b3e1ac3457e7786.jsonl.gz",
+      "asset_sha256": "1b3e1ac3457e77860fdf0c935e4b9398d22da11252dc610ad3671bac45f700fd",
+      "published_at": "2026-11-14T02:50:05Z"
+    },
+    "quarantined_at": "2026-11-20T08:27:07Z",
+    "reason": "silent download truncation published as complete (false-complete); contained by Nov 20 audit",
+    "evidence": {
+      "audit_date": "2026-11-20",
+      "observed_download_bytes": 54729457,
+      "live_content_length": 339336611,
+      "prior_records": 39787,
+      "note": "AHN DAM truncation; last-modified Nov 11 predates Nov 14 extraction"
+    }
   }
 }

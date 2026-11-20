@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,24 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/oria-forbes_hospital-0323b__a9bb1df5de0f26bd.jsonl.gz",
     "asset_sha256": "a9bb1df5de0f26bde9d04d7c0168af766ce08ed8a3c1c3f2b82beb3e74b20b14",
     "published_at": "2026-11-14T02:50:01Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-a9",
+      "asset_name": "oria-forbes_hospital-0323b__a9bb1df5de0f26bd.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a9/oria-forbes_hospital-0323b__a9bb1df5de0f26bd.jsonl.gz",
+      "asset_sha256": "a9bb1df5de0f26bde9d04d7c0168af766ce08ed8a3c1c3f2b82beb3e74b20b14",
+      "published_at": "2026-11-14T02:50:01Z"
+    },
+    "quarantined_at": "2026-11-20T08:27:07Z",
+    "reason": "silent download truncation published as complete (false-complete); contained by Nov 20 audit",
+    "evidence": {
+      "audit_date": "2026-11-20",
+      "observed_download_bytes": 18498480,
+      "live_content_length": 368704052,
+      "prior_records": 39669,
+      "prior_asset_release": "data-norm-b9",
+      "note": "AHN DAM truncation; last-modified Nov 11 predates Nov 14 extraction"
+    }
   }
 }

@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
   "source_encoding_inferred": true,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-st_clair_hospital-8f1e2__822859b35ef983ba.jsonl.gz",
     "asset_sha256": "822859b35ef983ba571524e9a70ce37457616c7702b725665a01aa71006d4d5a",
     "published_at": "2026-11-19T19:30:41Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-82",
+      "asset_name": "oria-st_clair_hospital-8f1e2__822859b35ef983ba.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-st_clair_hospital-8f1e2__822859b35ef983ba.jsonl.gz",
+      "asset_sha256": "822859b35ef983ba571524e9a70ce37457616c7702b725665a01aa71006d4d5a",
+      "published_at": "2026-11-19T19:30:41Z"
+    },
+    "quarantined_at": "2026-11-20T08:27:10Z",
+    "reason": "silent download truncation published as complete (false-complete); contained by Nov 20 audit",
+    "evidence": {
+      "audit_date": "2026-11-20",
+      "observed_download_bytes": 1638400,
+      "live_content_length": 44893680,
+      "prior_records": 889,
+      "note": "downloaded bytes are byte-identical prefix of live file (sha256 prefix-verified); server truncates all full GETs; 0 records published"
+    }
   }
 }

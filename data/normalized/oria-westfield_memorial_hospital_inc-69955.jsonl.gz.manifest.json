@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-westfield_memorial_hospital_inc-69955__264073a91a5f6007.jsonl.gz",
     "asset_sha256": "264073a91a5f60072918d3e9c07c85b25e1d9b06494e776ba84962d82f251f04",
     "published_at": "2026-11-20T04:02:28Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-26",
+      "asset_name": "oria-westfield_memorial_hospital_inc-69955__264073a91a5f6007.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-26/oria-westfield_memorial_hospital_inc-69955__264073a91a5f6007.jsonl.gz",
+      "asset_sha256": "264073a91a5f60072918d3e9c07c85b25e1d9b06494e776ba84962d82f251f04",
+      "published_at": "2026-11-20T04:02:28Z"
+    },
+    "quarantined_at": "2026-11-20T08:27:07Z",
+    "reason": "silent download truncation published as complete (false-complete); contained by Nov 20 audit",
+    "evidence": {
+      "audit_date": "2026-11-20",
+      "observed_download_bytes": 109591923,
+      "live_content_length": 207125065,
+      "prior_records": 25722,
+      "note": "AHN DAM truncation; last-modified Nov 11 predates extraction"
+    }
   }
 }
