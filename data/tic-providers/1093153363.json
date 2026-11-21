@@ -1,0 +1,25 @@
+{
+  "npi": "1093153363",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:15:43Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1093153363",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SARA",
+      "last_name": "BATTER",
+      "primary_taxonomy": "Counselor, Mental Health",
+      "location": {
+        "address_1": "9239 W CENTER RD STE 223",
+        "city": "OMAHA",
+        "state": "NE",
+        "postal_code": "681241966"
+      },
+      "last_updated": "2023-10-17"
+    }
+  ]
+}

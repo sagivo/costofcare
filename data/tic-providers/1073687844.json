@@ -1,0 +1,25 @@
+{
+  "npi": "1073687844",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:14:40Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1073687844",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CLAIRE",
+      "last_name": "TOUTANT",
+      "primary_taxonomy": "Psychiatry & Neurology, Psychiatry",
+      "location": {
+        "address_1": "725 MAIN ST",
+        "city": "HALF MOON BAY",
+        "state": "CA",
+        "postal_code": "940191924"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

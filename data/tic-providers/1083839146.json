@@ -1,0 +1,25 @@
+{
+  "npi": "1083839146",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:15:29Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1083839146",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ANNA",
+      "last_name": "BRAZ",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "110 ARMISTICE BLVD STE 3",
+        "city": "PAWTUCKET",
+        "state": "RI",
+        "postal_code": "028605354"
+      },
+      "last_updated": "2022-03-29"
+    }
+  ]
+}

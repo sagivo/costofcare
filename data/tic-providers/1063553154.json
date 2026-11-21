@@ -1,0 +1,25 @@
+{
+  "npi": "1063553154",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:14:07Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1063553154",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "LINDSAY",
+      "last_name": "MEARS",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "188 N MAIN ST STE 1",
+        "city": "CONCORD",
+        "state": "NH",
+        "postal_code": "033015095"
+      },
+      "last_updated": "2024-06-24"
+    }
+  ]
+}

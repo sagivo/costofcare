@@ -1,0 +1,25 @@
+{
+  "npi": "1063613677",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:14:15Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1063613677",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "AARON",
+      "last_name": "PAWELEK",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "15 ERMER RD 215",
+        "city": "SALEM",
+        "state": "NH",
+        "postal_code": "030791273"
+      },
+      "last_updated": "2015-09-08"
+    }
+  ]
+}

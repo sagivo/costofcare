@@ -1,0 +1,25 @@
+{
+  "npi": "1083911473",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:15:34Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1083911473",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "IAN",
+      "last_name": "EDWARDS",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "350 N MAIN ST",
+        "city": "BUTLER",
+        "state": "PA",
+        "postal_code": "160014921"
+      },
+      "last_updated": "2011-02-21"
+    }
+  ]
+}

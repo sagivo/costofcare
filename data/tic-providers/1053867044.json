@@ -1,0 +1,25 @@
+{
+  "npi": "1053867044",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:13:59Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1053867044",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JENNIFER",
+      "last_name": "HODGKINS",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "50 MOODY ST",
+        "city": "SACO",
+        "state": "ME",
+        "postal_code": "040721536"
+      },
+      "last_updated": "2020-09-28"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1093769713",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:15:48Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1093769713",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ROSEMARIE",
+      "last_name": "CARDONE",
+      "primary_taxonomy": "Registered Nurse, Psych/Mental Health, Adult",
+      "location": {
+        "address_1": "111 GROSSMAN DR",
+        "city": "BRAINTREE",
+        "state": "MA",
+        "postal_code": "021844997"
+      },
+      "last_updated": "2009-04-07"
+    }
+  ]
+}

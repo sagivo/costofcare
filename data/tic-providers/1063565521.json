@@ -1,0 +1,25 @@
+{
+  "npi": "1063565521",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-21T18:14:08Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1063565521",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "EMILY",
+      "last_name": "KERR",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "25283 CABOT RD",
+        "city": "LAGUNA HILLS",
+        "state": "CA",
+        "postal_code": "926535522"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}
