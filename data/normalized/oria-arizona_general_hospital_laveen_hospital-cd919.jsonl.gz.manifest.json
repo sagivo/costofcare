@@ -5,7 +5,7 @@
   "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dharz/ceaz/finance/price-transparency/471587223-1154748416_agh-laveen-llc_standardcharges.json",
   "source_sha256": "36a2c67f933afe35170b7b13e4549dd08971888eb82b59547200544e18a1bc61",
   "download_bytes": 36117286,
-  "extracted_at": "2026-11-05T18:27:28Z",
+  "extracted_at": "2026-11-21T17:45:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 36117286,
+    "received": 36117286
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-arizona_general_hospital_laveen_hospital-cd919__15f21bcc2300d8de.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-15/oria-arizona_general_hospital_laveen_hospital-cd919__15f21bcc2300d8de.jsonl.gz",
     "asset_sha256": "15f21bcc2300d8de7bde98d08d17ab9526c49522c384b48b6402fccd92af0d95",
-    "published_at": "2026-11-05T18:31:11Z"
+    "published_at": "2026-11-21T17:49:53Z"
   }
 }

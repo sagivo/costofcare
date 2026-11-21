@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T03:30:59.671693+00:00",
+  "generated_at": "2026-11-21T17:51:22.968113+00:00",
   "normalized_files": 2769,
   "quarantined": 7,
   "parser_versions": {
@@ -8,12 +8,12 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 872,
-    "over_7_days": 1696,
-    "within_24h": 201
+    "1_to_7_days": 852,
+    "over_7_days": 1727,
+    "within_24h": 190
   },
   "failed_attempt_classes": {
-    "other": 57,
+    "other": 66,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -179,13 +179,6 @@
       "summary_sha256": "3526bd8fc8f8dfc810109a7647da763b1e63939946caa37da664e112c9d58574",
       "normalized_extracted_at": "2026-11-11T02:06:50Z",
       "summary_extracted_at": "2026-11-20T19:24:34Z"
-    },
-    {
-      "source_url": "https://www.mtnviewhospital.com/transparency/631050236_mountain-view-hospital_standardcharges.csv",
-      "normalized_sha256": "c3ff89002f2e6fef28f56980c3e36256fba77243034b2bd8a03294f11e39f903",
-      "summary_sha256": "775646b939a6daad3b1d53f4eb72c0e693e982fe4fc368446492bb603145df2c",
-      "normalized_extracted_at": "2026-11-06T02:42:54Z",
-      "summary_extracted_at": "2026-11-20T18:26:59Z"
     },
     {
       "source_url": "https://www.tennovanewport.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528314_tennova-newport-medical-center_standardcharges.csv",
@@ -496,13 +489,6 @@
       "summary_extracted_at": "2026-11-20T18:03:19Z"
     },
     {
-      "source_url": "https://www.wellstar.org/wellstar-sylvan-grove-hospital_standard-charges",
-      "normalized_sha256": "856046431eddf67b3a9c4cc7a70838f0d97fd91ed27b291fbba0a588f5c0eba0",
-      "summary_sha256": "37325c8b7e0dc3328026bd7066619fad51e583372ab6bf41325e33dd81dc8834",
-      "normalized_extracted_at": "2026-11-05T18:27:50Z",
-      "summary_extracted_at": "2026-11-20T17:52:01Z"
-    },
-    {
       "source_url": "https://www.wellstar.org/wellstar-west-georgia-medical-center_standard-charges",
       "normalized_sha256": "44a89e4988b6ec446ce4e992cadd173d4e34f66a10de7070c473f663133a0121",
       "summary_sha256": "b34a19c79e9982734238fb8a4370cc6320e64cf8e36e85ab856485e3e4e0105c",
@@ -718,13 +704,6 @@
       "summary_sha256": "ef03557cfea91bbe4d2064951477caa727c7518e83f284448484ed8223108240",
       "normalized_extracted_at": "2026-11-08T01:47:31Z",
       "summary_extracted_at": "2026-11-20T18:28:41Z"
-    },
-    {
-      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/463808276_1548698723_es-rehabilitation-llc_standardcharges.csv",
-      "normalized_sha256": "fe8f6e7d14c5c41fa54dacb822122a3e60cbc5e8d2704b5dc14a8312a096911d",
-      "summary_sha256": "78df0e733d30679768c630c32a56b694bb0217014802b0ba90bd4d171187c03d",
-      "normalized_extracted_at": "2026-11-05T18:28:08Z",
-      "summary_extracted_at": "2026-11-20T18:33:06Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751777119_baylor-scott--white-medical-center--grapevine_standardcharges.csv",

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8372/460388596_sanford-webster-hospital_standardcharges.csv",
   "source_sha256": "d250f4da55087c80f1bd78e91d437fadf6b87cdb19c8b2164e0e0259fdaf5428",
   "download_bytes": 37956915,
-  "extracted_at": "2026-11-06T02:42:37Z",
+  "extracted_at": "2026-11-21T17:48:33Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 37956915,
+    "received": 37956915
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "sanford-hospital-webster__8f51615e1966f939.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8f/sanford-hospital-webster__8f51615e1966f939.jsonl.gz",
     "asset_sha256": "8f51615e1966f939581727a2ea607ed0880f1c64d29b6d69331d49ee7bb9692f",
-    "published_at": "2026-11-06T02:50:37Z"
+    "published_at": "2026-11-21T17:50:06Z"
   }
 }

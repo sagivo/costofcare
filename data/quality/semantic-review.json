@@ -1,186 +1,23 @@
 {
-  "generated_at": "2026-11-21T03:30:59.646972+00:00",
-  "records_scanned": 623553,
+  "generated_at": "2026-11-21T17:51:22.946497+00:00",
+  "records_scanned": 346129,
   "quarantined": 7,
-  "flag_counts": {
-    "large_published_amount_review": 848
-  },
-  "review_examples": [
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693534,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693535,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693536,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693537,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693538,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693539,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693540,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693541,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693542,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693543,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693544,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693545,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693546,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693547,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693548,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693549,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693551,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|negotiated_dollar",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693551,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693552,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|max",
-      "raw_value": "4036081.00"
-    },
-    {
-      "flag": "large_published_amount_review",
-      "source_id": "mercy-hospital",
-      "source_record_ordinal": 693553,
-      "source_sha256": "5623ffe599e24a7f95067c0eb3fe90418723c281ad658c4cb7005e8a9cc8ac34",
-      "field": "standard_charge|negotiated_dollar",
-      "raw_value": "1276448.04"
-    }
-  ],
+  "flag_counts": {},
+  "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 624365,
-    "billing_class": 537341,
-    "json_payer_name": 12190,
-    "json_plan_name": 12190,
-    "json_methodology": 12190,
-    "json_source_records": 5184,
-    "payer_name": 611129,
-    "plan_name": 611129,
-    "modifiers": 50055
+    "setting": 346489,
+    "billing_class": 326177,
+    "payer_name": 332372,
+    "plan_name": 332372,
+    "modifiers": 70561,
+    "json_source_records": 4856,
+    "json_payer_name": 23774,
+    "json_plan_name": 23774,
+    "json_methodology": 23774
   },
   "coverage_note": {
-    "local_blob_files": 65,
-    "remote_only_files": 2704,
+    "local_blob_files": 56,
+    "remote_only_files": 2713,
     "note": "Only locally present .jsonl.gz blobs are scanned; remote_only_files are manifests whose blob is a published release asset and not present locally."
   },
   "interpretation": "Counts are field occurrences, not independent errors or comparable rates. Thresholds are review rules, not grounds to overwrite source facts. Original data is unchanged."
