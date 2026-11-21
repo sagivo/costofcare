@@ -5,7 +5,7 @@
   "source_url": "https://www.aslh.org/wp-content/uploads/2026/03/720643190_acadia-st-landry-hospital-service-district_standardcharges.csv",
   "source_sha256": "a8a2eab9f52ef9e0bbbbc8758fe21cbd3bec7be36814dddbe2c2b7bbf15a2513",
   "download_bytes": 21698034,
-  "extracted_at": "2026-11-05T18:25:15Z",
+  "extracted_at": "2026-11-21T03:25:19Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 21698034,
+    "received": 21698034
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-acadia_saint_landry_hospital-28c76__3936d2717696b5b6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-acadia_saint_landry_hospital-28c76__3936d2717696b5b6.jsonl.gz",
     "asset_sha256": "3936d2717696b5b6b1f00ef24aadfc0e8006106bce0936b8157ae68cac58b0e9",
-    "published_at": "2026-11-05T18:31:03Z"
+    "published_at": "2026-11-21T03:28:58Z"
   }
 }

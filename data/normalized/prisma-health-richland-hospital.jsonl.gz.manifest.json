@@ -5,7 +5,7 @@
   "source_url": "https://www.prismahealth.org/getmedia/00c3c12a-98d3-42af-8ef5-e7cb2df53d12/582296052_prisma-health-richland-hospital_standardcharges.zip",
   "source_sha256": "2b50ffb4b30e11802c7214e1665abdc5651ba0182a1490d2648ff8cf8eea5abd",
   "download_bytes": 15940229,
-  "extracted_at": "2026-11-05T18:18:51Z",
+  "extracted_at": "2026-11-21T03:20:15Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 15940229,
+    "received": 15940229
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "prisma-health-richland-hospital__d56437b2e8786c49.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d5/prisma-health-richland-hospital__d56437b2e8786c49.jsonl.gz",
     "asset_sha256": "d56437b2e8786c49cfefc27169fc9ad69a70baa6a159d81d1d8412b4c7b08694",
-    "published_at": "2026-11-05T18:31:42Z"
+    "published_at": "2026-11-21T03:29:20Z"
   }
 }
