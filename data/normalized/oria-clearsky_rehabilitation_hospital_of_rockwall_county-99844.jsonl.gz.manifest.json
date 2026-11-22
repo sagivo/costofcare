@@ -5,7 +5,7 @@
   "source_url": "https://clearskyhealth.com/cmt/934155290_ClearSky-Rehabilitation-Hospital-of-Rockwall-County_standardcharges.csv",
   "source_sha256": "e1d7aa5a2007722c75e72111cf4b51bf21fcdeb2c88b5526bd4181fec443167f",
   "download_bytes": 2553476,
-  "extracted_at": "2026-11-06T02:43:05Z",
+  "extracted_at": "2026-11-22T02:26:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 2553476,
+    "received": 2553476
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "cp1252",
@@ -189,6 +194,6 @@
     "asset_name": "oria-clearsky_rehabilitation_hospital_of_rockwall_county-99844__fe537e9e33633b83.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/oria-clearsky_rehabilitation_hospital_of_rockwall_county-99844__fe537e9e33633b83.jsonl.gz",
     "asset_sha256": "fe537e9e33633b83279328aba27839601bb00a1010626b9e2496dcfaea4b839b",
-    "published_at": "2026-11-06T02:49:22Z"
+    "published_at": "2026-11-22T02:30:33Z"
   }
 }

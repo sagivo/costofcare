@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-21T17:50:22Z",
+  "generated_at": "2026-11-22T02:31:20Z",
   "data_dir": "data/normalized",
   "release_prefix": "data-norm",
   "counts": {
-    "files_total": 56,
+    "files_total": 54,
     "already_published": 0,
     "uploaded_this_run": 3,
-    "idempotent_skips": 53,
+    "idempotent_skips": 51,
     "quarantined_skips": 7,
-    "verified_this_run": 56,
+    "verified_this_run": 54,
     "errors": 0,
-    "manifests_with_verified_assets": 56,
+    "manifests_with_verified_assets": 54,
     "manifests_missing_verified_assets": 0
   },
   "missing_files": [],

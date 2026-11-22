@@ -5,7 +5,7 @@
   "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611400619-1720162399_continuing-care-hospital-inc_standardcharges.json",
   "source_sha256": "a66d6a84b4bd29053f4720a54019fd1cc5bfea4a56be926d0561759b3cf0ee80",
   "download_bytes": 19444982,
-  "extracted_at": "2026-11-06T02:43:15Z",
+  "extracted_at": "2026-11-22T02:27:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 19444982,
+    "received": 19444982
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-continuing_care_hospital-3ee46__586075791e2844ec.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-continuing_care_hospital-3ee46__586075791e2844ec.jsonl.gz",
     "asset_sha256": "586075791e2844ecb7eca6786bd389ba18ae50999477adab2d5d087ecb9c369d",
-    "published_at": "2026-11-06T02:49:29Z"
+    "published_at": "2026-11-22T02:30:36Z"
   }
 }
