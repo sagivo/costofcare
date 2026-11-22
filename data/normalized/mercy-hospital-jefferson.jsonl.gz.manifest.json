@@ -5,7 +5,7 @@
   "source_url": "https://www.mercy.net/content/dam/mercy/en/web-assets/charge-files/430687077_mercy-hospital-jefferson_standardcharges.zip",
   "source_sha256": "7ecc19dd4ebb13ac8107c075c74de76c0b7f758a6a68329bcdb65c1253b9840b",
   "download_bytes": 43644288,
-  "extracted_at": "2026-11-06T17:40:21Z",
+  "extracted_at": "2026-11-22T18:05:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 43644288,
+    "received": 43644288
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "mercy-hospital-jefferson__868b43f93ecb8e57.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-86/mercy-hospital-jefferson__868b43f93ecb8e57.jsonl.gz",
     "asset_sha256": "868b43f93ecb8e57b69b751c85b4f5e2c4b9ee286f90f1e16e8e69d54c200d02",
-    "published_at": "2026-11-06T17:55:36Z"
+    "published_at": "2026-11-22T18:14:21Z"
   }
 }

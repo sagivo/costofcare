@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 2345,
+  "records": 477,
   "source_url": "https://www.wellstar.org/wellstar-spalding-regional-hospital_standard-charges",
-  "source_sha256": "a42080542bd840e0461867b6f12232297361b1d5affa6ee3071082fe20c76b17",
-  "download_bytes": 54807021,
-  "extracted_at": "2026-11-06T17:40:38Z",
+  "source_sha256": "c72e3eb85145eaf2729c56c2a29df364316f64a96fcc27798d2bed2b609b06ec",
+  "download_bytes": 16376553,
+  "extracted_at": "2026-11-22T18:05:57Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 16376553,
+    "received": 16376553
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-fe",
-    "asset_name": "wellstar-spalding-regional-hospital__fe99cecc5ddb1fc1.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fe/wellstar-spalding-regional-hospital__fe99cecc5ddb1fc1.jsonl.gz",
-    "asset_sha256": "fe99cecc5ddb1fc11e630ddd0fb105fb041f235e1b87b11968534a1a1b8e17ad",
-    "published_at": "2026-11-06T17:58:23Z"
+    "release": "data-norm-d1",
+    "asset_name": "wellstar-spalding-regional-hospital__d1ba55c16eaaf7f3.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d1/wellstar-spalding-regional-hospital__d1ba55c16eaaf7f3.jsonl.gz",
+    "asset_sha256": "d1ba55c16eaaf7f32dc47d93d19db73809942035777a3ac3b300d119e6ff7402",
+    "published_at": "2026-11-22T18:15:10Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/580566200_1144203563_crawford-long-hospital_standardcharges.csv",
   "source_sha256": "5d25d968885cb9f6f593ff832bcc508d5244d2a8655c42e3a79ba9d156019b52",
   "download_bytes": 54064494,
-  "extracted_at": "2026-11-06T17:40:34Z",
+  "extracted_at": "2026-11-22T18:05:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 54064494,
+    "received": 54064494
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "emory-university-hospital-midtown__9f7125b370fd1fbe.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/emory-university-hospital-midtown__9f7125b370fd1fbe.jsonl.gz",
     "asset_sha256": "9f7125b370fd1fbecc9692e9a8542e0b46aafa1f21f76b69675a268835a03439",
-    "published_at": "2026-11-06T17:54:54Z"
+    "published_at": "2026-11-22T18:14:08Z"
   }
 }

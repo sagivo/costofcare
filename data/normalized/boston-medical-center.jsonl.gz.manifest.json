@@ -5,7 +5,7 @@
   "source_url": "https://www.bmchealthsystem.org/wp-content/uploads/043314093_BostonMedicalCenter_standardcharges.csv.zip",
   "source_sha256": "77660f57289afcf250bc03eff8ef68819b813eb0b85d82e8e3a413c45c19ecde",
   "download_bytes": 43012814,
-  "extracted_at": "2026-11-06T02:46:29Z",
+  "extracted_at": "2026-11-22T18:04:06Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 43012814,
+    "received": 43012814
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "boston-medical-center__89a720928dbc3bf5.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/boston-medical-center__89a720928dbc3bf5.jsonl.gz",
     "asset_sha256": "89a720928dbc3bf5e45ecb41da7def35ea9e35803b1191724c085a19365d82de",
-    "published_at": "2026-11-06T02:47:39Z"
+    "published_at": "2026-11-22T18:13:57Z"
   }
 }

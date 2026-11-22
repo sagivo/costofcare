@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8371/460388596_sanford-vermillion-hospital_standardcharges.csv",
   "source_sha256": "2aaf212695efff1e05b1a53526b48651b90bbcad2c8689e24e3b4c59de33c518",
   "download_bytes": 53784260,
-  "extracted_at": "2026-11-06T17:40:30Z",
+  "extracted_at": "2026-11-22T18:05:46Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 53784260,
+    "received": 53784260
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "sanford-vermillion-hospital__1918e1c0319b2fa0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-19/sanford-vermillion-hospital__1918e1c0319b2fa0.jsonl.gz",
     "asset_sha256": "1918e1c0319b2fa0eb17807cb3c8b2a417da37410cbcbd76e9ce1a91e908817c",
-    "published_at": "2026-11-06T17:56:53Z"
+    "published_at": "2026-11-22T18:14:48Z"
   }
 }

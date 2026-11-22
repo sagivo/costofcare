@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T02:32:11.431320+00:00",
+  "generated_at": "2026-11-22T18:16:21.828002+00:00",
   "normalized_files": 2769,
   "quarantined": 7,
   "parser_versions": {
@@ -8,14 +8,14 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "1_to_7_days": 833,
-    "over_7_days": 1760,
-    "within_24h": 176
+    "1_to_7_days": 868,
+    "over_7_days": 1800,
+    "within_24h": 101
   },
   "failed_attempt_classes": {
-    "other": 67,
+    "other": 64,
     "strict_encoding": 6,
-    "timeout": 1,
+    "timeout": 12,
     "http_429": 1
   },
   "summary_hash_missing_count": 1,
@@ -378,13 +378,6 @@
       "summary_extracted_at": "2026-11-21T17:46:48Z"
     },
     {
-      "source_url": "https://www.wellstar.org/wellstar-kennestone-hospital_standard-charges",
-      "normalized_sha256": "7fab2ab8217f511cd23823c70e05216eaefc8c788c62c29333e7cc11da25a917",
-      "summary_sha256": "b6e123b2091ccdc4c432685b84b4524ac4c931c77dee77d5241c9d4789047aa0",
-      "normalized_extracted_at": "2026-11-06T17:41:38Z",
-      "summary_extracted_at": "2026-11-21T16:50:48Z"
-    },
-    {
       "source_url": "https://www.stanfordchildrens.org/content/dam/sch/config-public/charges/770003859-lucile-salter-packard-childrens-hospital-at-stanford-standardcharges.json",
       "normalized_sha256": "2dfe11562deb74155c408eb900bc9706cb8403a157b0d409d39a813b6b93474d",
       "summary_sha256": "c4eccb9dab95e0adf1e2e76467f92771e9cbfe38cceabdf21bb764343e5a5c98",
@@ -462,27 +455,6 @@
       "summary_extracted_at": "2026-11-21T18:21:52Z"
     },
     {
-      "source_url": "https://www.wellstar.org/wellstar-north-fulton-hospital_standard-charges",
-      "normalized_sha256": "7619fd88489c3e1d782e6ad77e8d8dd51eab29a42db1fb9568b5d5a8ce056fd2",
-      "summary_sha256": "04fc6bede89a6f13f55148f5e9ddeb1c50d24ff11d5be3445d9919e4b51abf54",
-      "normalized_extracted_at": "2026-11-06T17:40:39Z",
-      "summary_extracted_at": "2026-11-21T16:50:49Z"
-    },
-    {
-      "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741166904_baylor-scott--white-pavilion--temple_standardcharges.csv",
-      "normalized_sha256": "2aecc15b700a39be80022f26b023652862c0b5f2f868ebb22458f0a02e2b01e7",
-      "summary_sha256": "f53976029dffd6a11310c66089b442cea2e53166373f487777441209c63644ab",
-      "normalized_extracted_at": "2026-11-06T17:40:50Z",
-      "summary_extracted_at": "2026-11-21T17:56:44Z"
-    },
-    {
-      "source_url": "https://www.wellstar.org/wellstar-paulding-hospital_standard-charges",
-      "normalized_sha256": "a593b05ab87daf2518658f7c3f447d82d2d5920faa177dd70c9e7bbf66817c1e",
-      "summary_sha256": "45c91d0ca9bcda55cf630b704ed8ca2480df0e42ea1172b3902bd02ce08f0221",
-      "normalized_extracted_at": "2026-11-06T17:40:36Z",
-      "summary_extracted_at": "2026-11-21T16:50:49Z"
-    },
-    {
       "source_url": "https://www.silverlakehospital.org/price-transparency/272315199-1104144641_silver-lake-hospital_standardcharges.csv",
       "normalized_sha256": "f632a032c1b8aa2c75b4a5fe6dfc7d1c0e8cec28d3d5ca45277c8a5f5dea5b8b",
       "summary_sha256": "31fd4b590527f81e03104ad460000439bacf1ad303687c90271a34c9389f7c31",
@@ -546,13 +518,6 @@
       "summary_extracted_at": "2026-11-21T19:04:40Z"
     },
     {
-      "source_url": "https://www.wellstar.org/wellstar-west-georgia-medical-center_standard-charges",
-      "normalized_sha256": "44a89e4988b6ec446ce4e992cadd173d4e34f66a10de7070c473f663133a0121",
-      "summary_sha256": "b34a19c79e9982734238fb8a4370cc6320e64cf8e36e85ab856485e3e4e0105c",
-      "normalized_extracted_at": "2026-11-06T17:40:47Z",
-      "summary_extracted_at": "2026-11-21T16:50:52Z"
-    },
-    {
       "source_url": "https://bozemanhealth.org/wp-content/uploads/2025/01/01/474718253_big-sky-medical-center_standardcharges.json",
       "normalized_sha256": "5d34a9ea589d30ee442c675207c06e5e8abb5bd236fce2dc6411339ec0c03826",
       "summary_sha256": "31fd185e1da645865e94731f4afaa148ac2e9a4b771f2b8106c5cdbdf478e6a8",
@@ -579,13 +544,6 @@
       "summary_sha256": "03f47e33037f3c69473bd4fd565e29c0bbbb4ab80451e9f5e0fdbe242e87fba6",
       "normalized_extracted_at": "2026-11-13T02:51:02Z",
       "summary_extracted_at": "2026-11-21T17:21:41Z"
-    },
-    {
-      "source_url": "https://www.wellstar.org/wellstar-cobb-hospital_standard-charges",
-      "normalized_sha256": "3a2779fe24435fc5273ccb5eac5a548d98ea14cea5fef28264577e3ac4fd9433",
-      "summary_sha256": "19a1257982702c619ec786e94f72ce17e34e7b27b2d8be661c938f39e64a3faa",
-      "normalized_extracted_at": "2026-11-06T17:40:44Z",
-      "summary_extracted_at": "2026-11-21T16:50:46Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--minocqua_standardcharges.zip",
@@ -663,13 +621,6 @@
       "summary_sha256": "462a9ebb6290e1643039b6b0259470e0ece62d11954df300056b7b2f3405b693",
       "normalized_extracted_at": "2026-11-13T18:03:28Z",
       "summary_extracted_at": "2026-11-21T17:47:52Z"
-    },
-    {
-      "source_url": "https://www.wellstar.org/wellstar-spalding-regional-hospital_standard-charges",
-      "normalized_sha256": "a42080542bd840e0461867b6f12232297361b1d5affa6ee3071082fe20c76b17",
-      "summary_sha256": "c72e3eb85145eaf2729c56c2a29df364316f64a96fcc27798d2bed2b609b06ec",
-      "normalized_extracted_at": "2026-11-06T17:40:38Z",
-      "summary_extracted_at": "2026-11-21T16:50:50Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/5f6520a384/machine-readable/030343282_grace-cottage-hospital_standardcharges.json",
@@ -784,13 +735,6 @@
       "summary_extracted_at": "2026-11-21T17:23:14Z"
     },
     {
-      "source_url": "https://www.wellstar.org/wellstar-douglas-hospital_standard-charges",
-      "normalized_sha256": "0b4f84da814fae1855d973dd50eda4fb147741a9cc0301ccefd8cf2ad862ae4e",
-      "summary_sha256": "81eff8f731278287d8701a58c37bb6814c00af7c1be5c2608695d88a3745f60c",
-      "normalized_extracted_at": "2026-11-06T17:40:35Z",
-      "summary_extracted_at": "2026-11-21T16:50:48Z"
-    },
-    {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751844139_baylor-scott--white-medical-center-at-waxahachie_standardcharges.csv",
       "normalized_sha256": "e0f6c88199df65d0fba5b3a61d3f9ec985e412e2d6a740ce356a1644bcdc33c0",
       "summary_sha256": "7010045414ea5ae08f187fde6272026854a0c4b2488150dc5486f95c477ef789",
@@ -810,13 +754,6 @@
       "summary_sha256": "d4b41bc67d91f7a22f95ff4f8d20b7c4c39b0ab8fac40521cbb3eab39258a521",
       "normalized_extracted_at": "2026-11-13T02:47:36Z",
       "summary_extracted_at": "2026-11-21T17:26:36Z"
-    },
-    {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250998168_upmc-kane_standardcharges.csv?",
-      "normalized_sha256": "1d26c7155db765a80573e59795dc9b92d3c3330c79f6b32dea88cd96be4206eb",
-      "summary_sha256": "8753f52da1db44908409c8a8360d061ccb0f06befe3abcebd23d2967c70e5274",
-      "normalized_extracted_at": "2026-11-06T17:44:11Z",
-      "summary_extracted_at": "2026-11-21T19:34:31Z"
     },
     {
       "source_url": "https://www.uvmhealth.org/sites/default/files/141364513_elizabethtown-community-hospital_standardcharges.csv",
@@ -957,13 +894,6 @@
       "summary_sha256": "00e21cd5de1d48079bc45e5b8e51a1a4118fbf0240278e7e6f6dec327346beb7",
       "normalized_extracted_at": "2026-11-17T04:45:42Z",
       "summary_extracted_at": "2026-11-21T19:02:07Z"
-    },
-    {
-      "source_url": "https://www.emoryhealthcare.org/-/media/Project/EH/Emory/ui/pricing-transparency/csv/2026/580566256_1588640692_emory-university_standardcharges.csv",
-      "normalized_sha256": "03d57df5c9685bd11f112d2372eb87a3d3b8fb3b7d1ee058505a72a14cd792b6",
-      "summary_sha256": "405772a3d65d52a4e44a230662eaee5fe222123c8f50337918cec89a1a43d086",
-      "normalized_extracted_at": "2026-11-06T17:40:31Z",
-      "summary_extracted_at": "2026-11-21T18:02:08Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/202850920_baylor-scott--white-continuing-care-hospital_standardcharges.csv",

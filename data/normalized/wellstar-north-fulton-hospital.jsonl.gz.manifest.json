@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 2209,
+  "records": 477,
   "source_url": "https://www.wellstar.org/wellstar-north-fulton-hospital_standard-charges",
-  "source_sha256": "7619fd88489c3e1d782e6ad77e8d8dd51eab29a42db1fb9568b5d5a8ce056fd2",
-  "download_bytes": 54818024,
-  "extracted_at": "2026-11-06T17:40:39Z",
+  "source_sha256": "04fc6bede89a6f13f55148f5e9ddeb1c50d24ff11d5be3445d9919e4b51abf54",
+  "download_bytes": 17128569,
+  "extracted_at": "2026-11-22T18:05:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 17128569,
+    "received": 17128569
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-3b",
-    "asset_name": "wellstar-north-fulton-hospital__3b95d3a79e56fdac.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3b/wellstar-north-fulton-hospital__3b95d3a79e56fdac.jsonl.gz",
-    "asset_sha256": "3b95d3a79e56fdac92d7197712fc786bfdb2b9910910455ee6f1ca7d5d739340",
-    "published_at": "2026-11-06T17:58:19Z"
+    "release": "data-norm-de",
+    "asset_name": "wellstar-north-fulton-hospital__de8528da5604dd21.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-de/wellstar-north-fulton-hospital__de8528da5604dd21.jsonl.gz",
+    "asset_sha256": "de8528da5604dd2172982782bf3d55367929237ac7bfd76a383c67a5e4dd2095",
+    "published_at": "2026-11-22T18:15:06Z"
   }
 }
