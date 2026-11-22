@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T18:15:43.561804+00:00",
+  "generated_at": "2026-11-22T19:00:02.605305+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2777,
     "distinct_successful_mrf_urls": 2777,
-    "extracted_within_24h": 1419,
+    "extracted_within_24h": 2634,
     "sources_over_365_days_old": 188,
     "source_date_unparseable": 133,
     "hospital_code_aggregates": 359817,
@@ -14,8 +14,8 @@
   "quarantined": 7,
   "status_counts": {
     "ok": 2784,
-    "failed": 801,
-    "no_target_codes": 464
+    "failed": 804,
+    "no_target_codes": 461
   },
   "successful_entries_by_state": {
     "TX": 299,
@@ -173983,7 +173983,7 @@
       "code": "36415",
       "payer": "Medicare",
       "flag": "wide_payer_range_review",
-      "ratio": 525.0
+      "ratio": 600.0
     },
     {
       "id": "baylor-scott-white-medical-center-marble-falls",
