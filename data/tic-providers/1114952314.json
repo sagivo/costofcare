@@ -1,0 +1,25 @@
+{
+  "npi": "1114952314",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-22T18:40:27Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1114952314",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DIANE",
+      "last_name": "GOODMAN",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "515 JAMES ST STE 1",
+        "city": "GENEVA",
+        "state": "IL",
+        "postal_code": "601342187"
+      },
+      "last_updated": "2011-02-15"
+    }
+  ]
+}

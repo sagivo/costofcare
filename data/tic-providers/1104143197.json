@@ -1,0 +1,25 @@
+{
+  "npi": "1104143197",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-22T18:39:28Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1104143197",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "POONAM",
+      "last_name": "BANERJEE",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "20409 YORBA LINDA BLVD STE 129-K",
+        "city": "YORBA LINDA",
+        "state": "CA",
+        "postal_code": "928863042"
+      },
+      "last_updated": "2025-12-18"
+    }
+  ]
+}

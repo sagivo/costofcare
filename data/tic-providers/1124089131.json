@@ -1,0 +1,25 @@
+{
+  "npi": "1124089131",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-22T18:40:41Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1124089131",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CYNTHIA",
+      "last_name": "TAYLOR",
+      "primary_taxonomy": "Psychologist, Counseling",
+      "location": {
+        "address_1": "2045 WESTGATE DR",
+        "city": "BETHLEHEM",
+        "state": "PA",
+        "postal_code": "180177480"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

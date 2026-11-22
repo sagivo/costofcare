@@ -1,0 +1,25 @@
+{
+  "npi": "1114053865",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-22T18:40:05Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1114053865",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BRENDA",
+      "last_name": "LAVI",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "1155 PARK AVE",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "10128"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

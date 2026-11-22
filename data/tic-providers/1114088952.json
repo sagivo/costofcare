@@ -1,0 +1,25 @@
+{
+  "npi": "1114088952",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-22T18:40:09Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1114088952",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KIRK",
+      "last_name": "BROCKS",
+      "primary_taxonomy": "Marriage & Family Therapist",
+      "location": {
+        "address_1": "2103 REDWOOD ST",
+        "city": "VALLEJO",
+        "state": "CA",
+        "postal_code": "945903608"
+      },
+      "last_updated": "2015-03-20"
+    }
+  ]
+}
