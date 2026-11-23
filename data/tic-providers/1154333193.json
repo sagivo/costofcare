@@ -1,0 +1,25 @@
+{
+  "npi": "1154333193",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-23T22:57:22Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1154333193",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BECKY",
+      "last_name": "SIMONELIC",
+      "primary_taxonomy": "Psychologist, Counseling",
+      "location": {
+        "address_1": "4425 E AGAVE RD",
+        "city": "PHOENIX",
+        "state": "AZ",
+        "postal_code": "850440619"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1134145873",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-23T22:55:58Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1134145873",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "NICHOLAS",
+      "last_name": "KAROUTSOS",
+      "primary_taxonomy": "Podiatrist",
+      "location": {
+        "address_1": "22002 73RD AVE",
+        "city": "OAKLAND GARDENS",
+        "state": "NY",
+        "postal_code": "113642624"
+      },
+      "last_updated": "2011-04-06"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1154302032",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-23T22:57:17Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1154302032",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "AIMEE",
+      "last_name": "TELSEY",
+      "primary_taxonomy": "Pediatrics",
+      "location": {
+        "address_1": "BETH ISRAEL MED CTR",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "10003"
+      },
+      "last_updated": "2014-11-18"
+    }
+  ]
+}

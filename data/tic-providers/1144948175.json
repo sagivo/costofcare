@@ -1,0 +1,25 @@
+{
+  "npi": "1144948175",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-23T22:57:15Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1144948175",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CHRISTIAN",
+      "last_name": "WITHERELL",
+      "primary_taxonomy": "Nurse Practitioner, Psych/Mental Health",
+      "location": {
+        "address_1": "19995 SOUNDVIEW AVE",
+        "city": "SOUTHOLD",
+        "state": "NY",
+        "postal_code": "119712820"
+      },
+      "last_updated": "2025-04-15"
+    }
+  ]
+}

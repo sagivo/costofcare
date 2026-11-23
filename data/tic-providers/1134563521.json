@@ -1,0 +1,25 @@
+{
+  "npi": "1134563521",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-23T22:56:35Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1134563521",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "TROY",
+      "last_name": "KINDY",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "33881 SE DAVONA DR",
+        "city": "SCAPPOOSE",
+        "state": "OR",
+        "postal_code": "970564540"
+      },
+      "last_updated": "2024-04-22"
+    }
+  ]
+}

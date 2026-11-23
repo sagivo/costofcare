@@ -1,0 +1,25 @@
+{
+  "npi": "1134250616",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-23T22:56:16Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1134250616",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DEBRA",
+      "last_name": "DAVIS-JOHNSON",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "6206 W WIKIEUP LN",
+        "city": "GLENDALE",
+        "state": "AZ",
+        "postal_code": "853085207"
+      },
+      "last_updated": "2012-09-26"
+    }
+  ]
+}

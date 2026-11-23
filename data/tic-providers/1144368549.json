@@ -1,0 +1,25 @@
+{
+  "npi": "1144368549",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-23T22:56:56Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1144368549",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DIANE",
+      "last_name": "MARCHIAFAVA",
+      "primary_taxonomy": "Physician Assistant, Surgical",
+      "location": {
+        "address_1": "301 E MAIN ST",
+        "city": "BAY SHORE",
+        "state": "NY",
+        "postal_code": "117068408"
+      },
+      "last_updated": "2024-07-03"
+    }
+  ]
+}
