@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-allegheny_valley_hospital-cfacb__be964dadc7534439.jsonl.gz",
     "asset_sha256": "be964dadc7534439c44147848de4eb1398f1b81d858f76e727c8bac9b02dabc6",
     "published_at": "2026-11-06T17:56:07Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-be",
+      "asset_name": "oria-allegheny_valley_hospital-cfacb__be964dadc7534439.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-be/oria-allegheny_valley_hospital-cfacb__be964dadc7534439.jsonl.gz",
+      "asset_sha256": "be964dadc7534439c44147848de4eb1398f1b81d858f76e727c8bac9b02dabc6",
+      "published_at": "2026-11-06T17:56:07Z"
+    },
+    "quarantined_at": "2026-11-23T20:21:42Z",
+    "reason": "silent download truncation published as complete (false-complete); identified by Nov 23 monitoring via download-completeness enforcement",
+    "evidence": {
+      "audit_date": "2026-11-23",
+      "observed_download_bytes": 101698225,
+      "live_content_length": 337310113,
+      "prior_records": 3056,
+      "note": "AHN DAM truncates plain GET (61,088,689 of 337,310,113 bytes received Nov 23; ranged resume refused with status=200); same AHN DAM host family as quarantined AHN sources; Nov 6 pre-enforcement download 101,698,225 bytes published as complete"
+    }
   }
 }

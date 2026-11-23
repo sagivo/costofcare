@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-allegheny_general_hospital-88bcb__05cda686b81965f5.jsonl.gz",
     "asset_sha256": "05cda686b81965f5a27e1642cab2f977414c75a696ea4b38ee0e188809a48bab",
     "published_at": "2026-11-06T17:56:05Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-05",
+      "asset_name": "oria-allegheny_general_hospital-88bcb__05cda686b81965f5.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-05/oria-allegheny_general_hospital-88bcb__05cda686b81965f5.jsonl.gz",
+      "asset_sha256": "05cda686b81965f5a27e1642cab2f977414c75a696ea4b38ee0e188809a48bab",
+      "published_at": "2026-11-06T17:56:05Z"
+    },
+    "quarantined_at": "2026-11-23T20:21:42Z",
+    "reason": "silent download truncation published as complete (false-complete); identified by Nov 23 monitoring via download-completeness enforcement",
+    "evidence": {
+      "audit_date": "2026-11-23",
+      "observed_download_bytes": 102455537,
+      "live_content_length": 361230255,
+      "prior_records": 2897,
+      "note": "AHN DAM truncates plain GET (63,472,689 of 361,230,255 bytes received Nov 23; ranged resume refused with status=200); same west-penn-allegheny-health-system file family as quarantined west_penn; Nov 6 pre-enforcement download 102,455,537 bytes published as complete"
+    }
   }
 }

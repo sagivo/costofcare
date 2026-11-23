@@ -176,8 +176,8 @@
     "G0121",
     "G0439"
   ],
-  "complete_source_download": true,
-  "complete_target_code_scan": true,
+  "complete_source_download": false,
+  "complete_target_code_scan": false,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
   "source_encoding_inferred": false,
@@ -190,5 +190,23 @@
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-ahn_wexford_hospital-2bdd9__cf98979598b65fb4.jsonl.gz",
     "asset_sha256": "cf98979598b65fb449f372cf67b96b20700ad5eab3cebc2a2dd65e0f0b08553d",
     "published_at": "2026-11-06T17:56:01Z"
+  },
+  "quarantine": {
+    "prior_release_asset": {
+      "release": "data-norm-cf",
+      "asset_name": "oria-ahn_wexford_hospital-2bdd9__cf98979598b65fb4.jsonl.gz",
+      "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cf/oria-ahn_wexford_hospital-2bdd9__cf98979598b65fb4.jsonl.gz",
+      "asset_sha256": "cf98979598b65fb449f372cf67b96b20700ad5eab3cebc2a2dd65e0f0b08553d",
+      "published_at": "2026-11-06T17:56:01Z"
+    },
+    "quarantined_at": "2026-11-23T20:21:42Z",
+    "reason": "silent download truncation published as complete (false-complete); identified by Nov 23 monitoring via download-completeness enforcement",
+    "evidence": {
+      "audit_date": "2026-11-23",
+      "observed_download_bytes": 103167537,
+      "live_content_length": 298591926,
+      "prior_records": 3958,
+      "note": "AHN DAM truncates plain GET (63,801,072 of 298,591,926 bytes received Nov 23; ranged resume refused with status=200); same west-penn-allegheny-health-system file family as quarantined west_penn; Nov 6 pre-enforcement download 103,167,537 bytes published as complete"
+    }
   }
 }
