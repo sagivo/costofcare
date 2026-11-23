@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 3216,
   "source_url": "https://www.wellstar.org/wellstar-mcg-health_standard-charges",
-  "source_sha256": "6f18c389ff9c1940ad0a61bc7b0a4a96bee5cb45b17e6859743021ca482a1592",
-  "download_bytes": 73645571,
-  "extracted_at": "2026-11-06T17:49:15Z",
+  "source_sha256": "1166ad3de2336b0c3511d9ec6b49bdd7dd5fffed67811157c8be2bd6a4b4680d",
+  "download_bytes": 59334220,
+  "extracted_at": "2026-11-23T03:01:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 59334220,
+    "received": 59334220
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-7a",
-    "asset_name": "wellstar-mcg-health__7ac0740fa03fc56e.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7a/wellstar-mcg-health__7ac0740fa03fc56e.jsonl.gz",
-    "asset_sha256": "7ac0740fa03fc56e70005507a24b23e4a144bd98a84864a1fc5b43b8bc3bcbe6",
-    "published_at": "2026-11-06T17:58:16Z"
+    "release": "data-norm-7b",
+    "asset_name": "wellstar-mcg-health__7baa3e75e8071d7a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7b/wellstar-mcg-health__7baa3e75e8071d7a.jsonl.gz",
+    "asset_sha256": "7baa3e75e8071d7a455d66d812eee2b6390dab64208f86e0a89204c812590d74",
+    "published_at": "2026-11-23T03:08:06Z"
   }
 }

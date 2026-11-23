@@ -5,7 +5,7 @@
   "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcco/cacc/finance/price-transparency/941196203-1760510937_dignity-health-marian-regional-medical-center_standardcharges.json?target=%22_blank%22",
   "source_sha256": "da53d17b2987005d793fa523fad51fa0e7a3516b972d3a89c7339cdb1311f218",
   "download_bytes": 96000000,
-  "extracted_at": "2026-11-06T17:52:36Z",
+  "extracted_at": "2026-11-23T03:05:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 96000000,
+    "received": 96000000
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-arroyo_grande_hospital-08843__79a8ecb2d8f8743c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/oria-arroyo_grande_hospital-08843__79a8ecb2d8f8743c.jsonl.gz",
     "asset_sha256": "79a8ecb2d8f8743c0dfa730b1c05ca47a7670dee7e755a87d0b70dd17e04d68d",
-    "published_at": "2026-11-06T17:56:18Z"
+    "published_at": "2026-11-23T03:07:13Z"
   }
 }

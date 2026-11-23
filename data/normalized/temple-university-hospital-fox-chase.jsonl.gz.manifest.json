@@ -5,7 +5,7 @@
   "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/232825878_temple-university-hospital--fox-chase-campus_standardcharges.csv",
   "source_sha256": "4f7faeef9a88a3e2cff68b083db213a9c647b1ec5fd1c9c297367af8e9f24008",
   "download_bytes": 88404398,
-  "extracted_at": "2026-11-06T17:52:41Z",
+  "extracted_at": "2026-11-23T03:05:34Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 88404398,
+    "received": 88404398
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "temple-university-hospital-fox-chase__61fbc8d68a18f84d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-61/temple-university-hospital-fox-chase__61fbc8d68a18f84d.jsonl.gz",
     "asset_sha256": "61fbc8d68a18f84d73a0c08eb4b68339513b84709ac14af8d81e3b017bf2faae",
-    "published_at": "2026-11-06T17:57:23Z"
+    "published_at": "2026-11-23T03:07:42Z"
   }
 }

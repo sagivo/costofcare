@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7980/010238552-1346299815_mainehealth_standardcharges.csv",
   "source_sha256": "5c53bab19f7f4aa8d8df5988f18eb6040fb744284f067a233713ee2f61ed5254",
   "download_bytes": 63300782,
-  "extracted_at": "2026-11-06T17:47:39Z",
+  "extracted_at": "2026-11-23T03:00:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 63300782,
+    "received": 63300782
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "stephens-memorial-hospital__aab99bf20dbeb6b8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-aa/stephens-memorial-hospital__aab99bf20dbeb6b8.jsonl.gz",
     "asset_sha256": "aab99bf20dbeb6b851b11b22d422b93bb332e8877f885396645bb38e97fd284a",
-    "published_at": "2026-11-06T17:57:17Z"
+    "published_at": "2026-11-23T03:07:39Z"
   }
 }

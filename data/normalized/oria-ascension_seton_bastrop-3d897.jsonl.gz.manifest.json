@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/tx-csv/741109643-1619115383_ascension-seton_standardcharges.csv",
   "source_sha256": "e2c326bda9b7b873edc26bd5f460d927c046942ff31d005a1d8bac055104b21b",
   "download_bytes": 185082750,
-  "extracted_at": "2026-11-06T02:47:13Z",
+  "extracted_at": "2026-11-23T03:03:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 185082750,
+    "received": 185082750
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-ascension_seton_bastrop-3d897__0b62648c928d353b.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0b/oria-ascension_seton_bastrop-3d897__0b62648c928d353b.jsonl.gz",
     "asset_sha256": "0b62648c928d353b4558765dfc9e30034f2f93c237c054f5caad1ce7c6799970",
-    "published_at": "2026-11-06T02:49:04Z"
+    "published_at": "2026-11-23T03:07:16Z"
   }
 }
