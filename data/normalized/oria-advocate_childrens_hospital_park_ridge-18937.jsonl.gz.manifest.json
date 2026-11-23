@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 8160,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11262/362169147_advocate-childrens-hospital-park-ridge_standardcharges.csv",
-  "source_sha256": "ea5f09bfc9110c9d270371d8bdf6ea85aa49a79a4434c8166ec51d204d405d21",
-  "download_bytes": 142180824,
-  "extracted_at": "2026-11-07T02:09:37Z",
+  "source_sha256": "d1cce2830c0c3dfa4fc0bb28720eef158b7415475db694f40599d4de13471e9c",
+  "download_bytes": 142069201,
+  "extracted_at": "2026-11-23T22:16:05Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 142069201,
+    "received": 142069201
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-4a",
-    "asset_name": "oria-advocate_childrens_hospital_park_ridge-18937__4a4f1010844a98ea.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4a/oria-advocate_childrens_hospital_park_ridge-18937__4a4f1010844a98ea.jsonl.gz",
-    "asset_sha256": "4a4f1010844a98eab4bdc04c14fa207f2de78d09bf61a4d143b29bf23f63c0ea",
-    "published_at": "2026-11-07T02:31:15Z"
+    "release": "data-norm-1d",
+    "asset_name": "oria-advocate_childrens_hospital_park_ridge-18937__1dc756e19df41ae6.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1d/oria-advocate_childrens_hospital_park_ridge-18937__1dc756e19df41ae6.jsonl.gz",
+    "asset_sha256": "1dc756e19df41ae655fadc5a8de5819b64c4a5af997d81a52f05cb240373ef51",
+    "published_at": "2026-11-23T22:21:51Z"
   }
 }

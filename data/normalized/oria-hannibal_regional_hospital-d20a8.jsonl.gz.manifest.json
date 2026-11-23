@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8042/430662495_hannibal-regional-hospital_standardcharges.csv",
   "source_sha256": "ff7dafb982452a947311de72943e9169cecb3e281f069c599944d45ac65fb48b",
   "download_bytes": 76487808,
-  "extracted_at": "2026-11-07T02:06:43Z",
+  "extracted_at": "2026-11-23T22:15:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 76487808,
+    "received": 76487808
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-hannibal_regional_hospital-d20a8__9d26fae79c8bd5d2.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9d/oria-hannibal_regional_hospital-d20a8__9d26fae79c8bd5d2.jsonl.gz",
     "asset_sha256": "9d26fae79c8bd5d2e630a0baa907ebd76fa8097e5db55a0be1c2b0716ddb38b4",
-    "published_at": "2026-11-07T02:31:41Z"
+    "published_at": "2026-11-23T22:22:09Z"
   }
 }

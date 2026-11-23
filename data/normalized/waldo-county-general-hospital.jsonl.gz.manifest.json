@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7977/010238552-1841397932_mainehealth_standardcharges.csv",
   "source_sha256": "ef683889c6134d1a7a30c90b03c089a7f377113bdbdd4093c1276d21fa633be7",
   "download_bytes": 88110833,
-  "extracted_at": "2026-11-06T17:53:53Z",
+  "extracted_at": "2026-11-23T22:14:45Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 88110833,
+    "received": 88110833
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "waldo-county-general-hospital__b36fd8ae1fb721f9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/waldo-county-general-hospital__b36fd8ae1fb721f9.jsonl.gz",
     "asset_sha256": "b36fd8ae1fb721f94f454b49c6ec0044be3c5913a544192f56f7af8151f6a910",
-    "published_at": "2026-11-06T17:58:06Z"
+    "published_at": "2026-11-23T22:22:55Z"
   }
 }

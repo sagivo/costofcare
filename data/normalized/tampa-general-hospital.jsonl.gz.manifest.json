@@ -5,7 +5,7 @@
   "source_url": "https://www.tgh.org/-/media/files/patients-and-visitors/593458145_tampa-general-hospital_standardcharges.csv?rev=7c310c7c008b4517a240a5892e37ed20",
   "source_sha256": "b3e886ac1948d0977e4a45a77c805eefe0397aef4c3d3a6276ff59b21e78d6b3",
   "download_bytes": 94389279,
-  "extracted_at": "2026-11-06T17:53:57Z",
+  "extracted_at": "2026-11-23T22:14:48Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 94389279,
+    "received": 94389279
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "tampa-general-hospital__92142ac1cfa37e49.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-92/tampa-general-hospital__92142ac1cfa37e49.jsonl.gz",
     "asset_sha256": "92142ac1cfa37e492ef897effafa8f68e13e33100f46d892d30967a58e3fd2a6",
-    "published_at": "2026-11-06T17:57:19Z"
+    "published_at": "2026-11-23T22:22:22Z"
   }
 }

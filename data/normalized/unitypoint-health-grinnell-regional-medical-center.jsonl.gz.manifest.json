@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7944/420933383_grinnell-regional-medical-center_standardcharges.csv",
   "source_sha256": "1d2326e314a8895530f28474f141464d12d07fb372765ee30dcb6d0c23fb95c1",
   "download_bytes": 120944322,
-  "extracted_at": "2026-11-07T02:10:50Z",
+  "extracted_at": "2026-11-23T22:17:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 120944322,
+    "received": 120944322
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-grinnell-regional-medical-center__b8c4793ea6e20b14.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b8/unitypoint-health-grinnell-regional-medical-center__b8c4793ea6e20b14.jsonl.gz",
     "asset_sha256": "b8c4793ea6e20b1481067349cca4a4a042eca0a5cc6f114972aec328f3106f9f",
-    "published_at": "2026-11-07T02:32:51Z"
+    "published_at": "2026-11-23T22:22:30Z"
   }
 }

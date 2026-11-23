@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:26:19.206854+00:00",
+  "generated_at": "2026-11-23T22:24:00.537021+00:00",
   "normalized_files": 2766,
   "quarantined": 10,
   "parser_versions": {
@@ -8,14 +8,13 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1837,
-    "1_to_7_days": 882,
-    "within_24h": 47
+    "over_7_days": 1870,
+    "1_to_7_days": 800,
+    "within_24h": 96
   },
   "failed_attempt_classes": {
     "other": 74,
     "strict_encoding": 6,
-    "timeout": 1,
     "http_429": 1
   },
   "summary_hash_missing_count": 1,
@@ -119,13 +118,6 @@
       "summary_extracted_at": "2026-11-22T18:47:00Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7976/010238552-1982645305_mainehealth_standardcharges.csv",
-      "normalized_sha256": "01df9743b73340c070301736a1b1da465cd16998151c3d5a4f44923a363de692",
-      "summary_sha256": "54696b67b4b60b05ec5d5013252cb165698c9c8ac111243c319c5fb1b1ba52b3",
-      "normalized_extracted_at": "2026-11-07T02:11:54Z",
-      "summary_extracted_at": "2026-11-22T18:39:53Z"
-    },
-    {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965387_upmc-hamot_standardcharges.csv?",
       "normalized_sha256": "ae4ade5e1eb633b0f76c3e0ad4e4fe3d4c6680974406d8f789c8da148aeb96dc",
       "summary_sha256": "c9bab62cba92ddf26080d5935172bcf1e5cfe93687b7fb54fc16ad2c363e9607",
@@ -159,20 +151,6 @@
       "summary_sha256": "886a3c4a06fc42690000d823288cb039880189fb61876c8af9075c5c9a0ddbb1",
       "normalized_extracted_at": "2026-11-10T18:10:48Z",
       "summary_extracted_at": "2026-11-04T18:49:47Z"
-    },
-    {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/251778644_upmc-pinnacle-hospitals_standardcharges.csv?",
-      "normalized_sha256": "2121e6c0d9d34dab989281a682e199510990fb53420cbf8be9fba20aac6b442e",
-      "summary_sha256": "efc2dc37b9d64cc2dc8369a101551291b51940af2b2cb81e483426bab734797b",
-      "normalized_extracted_at": "2026-11-07T02:09:12Z",
-      "summary_extracted_at": "2026-11-22T18:55:26Z"
-    },
-    {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965423_upmc-mckeesport_standardcharges.csv?",
-      "normalized_sha256": "bf78db43122365f814f5d30d317d61fc5301920550419f1fbb1395c857eaa2c6",
-      "summary_sha256": "4aa9047dfbbda6f69896a4a8f115072b2f1f3b0286aa287b321acbe3a2897ea6",
-      "normalized_extracted_at": "2026-11-06T17:54:19Z",
-      "summary_extracted_at": "2026-11-22T18:56:40Z"
     },
     {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820912090_upmc-memorial_standardcharges.csv?",
@@ -210,13 +188,6 @@
       "summary_extracted_at": "2026-11-22T18:40:07Z"
     },
     {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250489010_upmc-northwest_standardcharges.csv?",
-      "normalized_sha256": "f595fb709b3a7789815adaa2ece534f4346f6296bd85d519b0e63833669c2038",
-      "summary_sha256": "00f81a946198c46a68dc50aa2697200333c71a478dd90b26d03ad10c06a22372",
-      "normalized_extracted_at": "2026-11-07T02:09:07Z",
-      "summary_extracted_at": "2026-11-20T19:33:20Z"
-    },
-    {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751837454_baylor-university-medical-center_standardcharges.csv",
       "normalized_sha256": "aa5a383a2249cd5d92d04ea0028a8633a6f7358e53769810544c1151cb450241",
       "summary_sha256": "c7b93e5499110d8d5bdad39be8be0074ad7528560dad3dda3f3ee4cfb604f0c2",
@@ -229,13 +200,6 @@
       "summary_sha256": "5029c90ba151b8596a1231344f2d7b4803cc0fe8fca3cf616c4ff5f7f1facc54",
       "normalized_extracted_at": "2026-11-10T04:14:32Z",
       "summary_extracted_at": "2026-11-22T17:55:44Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11262/362169147_advocate-childrens-hospital-park-ridge_standardcharges.csv",
-      "normalized_sha256": "ea5f09bfc9110c9d270371d8bdf6ea85aa49a79a4434c8166ec51d204d405d21",
-      "summary_sha256": "d1cce2830c0c3dfa4fc0bb28720eef158b7415475db694f40599d4de13471e9c",
-      "normalized_extracted_at": "2026-11-07T02:09:37Z",
-      "summary_extracted_at": "2026-11-22T17:20:42Z"
     },
     {
       "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109836_spohnhospitalcorpuschristisouth_standardcharges.json",
@@ -336,13 +300,6 @@
       "summary_extracted_at": "2026-11-22T17:48:26Z"
     },
     {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/250965570_upmc-somerset_standardcharges.csv?",
-      "normalized_sha256": "bf7c1cdab8fc9530f0b936136799277dea974e646298196d56be721bcf0c91ce",
-      "summary_sha256": "f89c525658ede2ae36f8e1183907c812e8a1a9354811b4f1607aabdab81de0a3",
-      "normalized_extracted_at": "2026-11-06T17:49:11Z",
-      "summary_extracted_at": "2026-11-21T19:36:25Z"
-    },
-    {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/stlum/soet/finance/price-transparency/750755367-1396746129_memorial-health-system-of-east-texas_standardcharges.json",
       "normalized_sha256": "960c81240077c0fb4b9ad6d77d2a9d43e9750d6bd8afea9f064ac91e999d13da",
       "summary_sha256": "2712d12c9aa218e6361a3afdf2c2f474d1f98347a1b012edd19331c4d1fb7936",
@@ -420,18 +377,18 @@
       "summary_extracted_at": "2026-11-22T18:39:37Z"
     },
     {
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250523970_upmc-horizon_standardcharges.csv?",
+      "normalized_sha256": "a0e7bd0b54bbcab5f9949f748c4a74b099b417107c239fd4e0d1875111f6235a",
+      "summary_sha256": "9c1d1035bbd4a3ad56df7b7d3a7579b21be9851a6dedaa295701e9b82aa88550",
+      "normalized_extracted_at": "2026-11-23T22:19:55Z",
+      "summary_extracted_at": "2026-11-19T21:03:45Z"
+    },
+    {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--marshfield_standardcharges.zip",
       "normalized_sha256": "76dc1f8e81f645c56cb6e045588a1770bfde400d42531059c2aa21749c5f2714",
       "summary_sha256": "7633197071850b9f2975d97eacfd84a2d59bcc0874b66b092a8a00eb46ad624c",
       "normalized_extracted_at": "2026-11-12T18:37:39Z",
       "summary_extracted_at": "2026-11-22T17:33:18Z"
-    },
-    {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/231360851_upmc-hanover_standardcharges.csv?",
-      "normalized_sha256": "57413c9e95650424513c0c2f38a33a63ed0eecfda15a1a063b079c52bdcc8974",
-      "summary_sha256": "a0511e38ddcc53a23432013a428ef4a7a86a395f84ea43ae4d885a53c6174278",
-      "normalized_extracted_at": "2026-11-07T02:12:24Z",
-      "summary_extracted_at": "2026-11-22T18:55:27Z"
     },
     {
       "source_url": "https://www.lorettohospital.org/documents/362200248_loretto-hospital_standardcharges.csv",
@@ -894,6 +851,13 @@
       "summary_sha256": "bbab876748681daa786be8d6d71e8ed83a2eae15e30d21c8e63f93671519796a",
       "normalized_extracted_at": "2026-11-09T21:06:10Z",
       "summary_extracted_at": "2026-11-22T18:08:15Z"
+    },
+    {
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820844453_upmc-lititz_standardcharges.csv?",
+      "normalized_sha256": "f7cfe205be9c12c1584a5bff28a236ac89313f2da659db46591733d82e1e527c",
+      "summary_sha256": "c8995733608cc36c6e092798cac21c4ee0bd66099e45770065dbeca6dfc2248c",
+      "normalized_extracted_at": "2026-11-23T22:21:17Z",
+      "summary_extracted_at": "2026-11-19T21:03:50Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8385/411266009_sanford-bemidji-medical-center_standardcharges.csv",

@@ -5,7 +5,7 @@
   "source_url": "https://www.templehealth.org/sites/default/files/file/2026-04/883577015_temple-health--chestnut-hill-hospital_standardcharges.csv",
   "source_sha256": "04f92f08c4a5f858cd693ddea43e5618d74259cec923f1c7d21cbd5804d95755",
   "download_bytes": 123928662,
-  "extracted_at": "2026-11-07T02:11:40Z",
+  "extracted_at": "2026-11-23T22:17:38Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 123928662,
+    "received": 123928662
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "temple-health-chestnut-hill-hospital__4b01c37f64e55446.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4b/temple-health-chestnut-hill-hospital__4b01c37f64e55446.jsonl.gz",
     "asset_sha256": "4b01c37f64e5544632ceb719c74897e9a706d1c9ac418af5ad735dccb1731627",
-    "published_at": "2026-11-07T02:32:33Z"
+    "published_at": "2026-11-23T22:22:23Z"
   }
 }

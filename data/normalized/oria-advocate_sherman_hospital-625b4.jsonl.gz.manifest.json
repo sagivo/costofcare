@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11269/362167920_advocate-sherman-hospital_standardcharges.csv",
   "source_sha256": "fdc6ab647d4aacd29497e32f825f9adc15f76e6592846ed39c86fd7a5fc97afd",
   "download_bytes": 102162748,
-  "extracted_at": "2026-11-06T17:54:04Z",
+  "extracted_at": "2026-11-23T22:14:54Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 102162748,
+    "received": 102162748
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-advocate_sherman_hospital-625b4__38fca3cc4173a3e3.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-38/oria-advocate_sherman_hospital-625b4__38fca3cc4173a3e3.jsonl.gz",
     "asset_sha256": "38fca3cc4173a3e3bf35f52bfeef48209ec21b9627cf7e55b0301886db11c92b",
-    "published_at": "2026-11-06T17:55:54Z"
+    "published_at": "2026-11-23T22:21:59Z"
   }
 }

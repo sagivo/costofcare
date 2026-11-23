@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11267/363196629_advocate-illinois-masonic-medical-center_standardcharges.csv",
   "source_sha256": "9ddafcaf7e6e7079abb7a42b9816efbe98f647ee5e4c0be294a1ca26998fc499",
   "download_bytes": 110341737,
-  "extracted_at": "2026-11-06T17:54:14Z",
+  "extracted_at": "2026-11-23T22:15:03Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 110341737,
+    "received": 110341737
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-advocate_illinois_masonic_medical_center-1da77__5abaadeaa178c4f1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-advocate_illinois_masonic_medical_center-1da77__5abaadeaa178c4f1.jsonl.gz",
     "asset_sha256": "5abaadeaa178c4f145f336bf42557a4ee31eb71281f92e8609eaa3eae7388d8a",
-    "published_at": "2026-11-06T17:55:52Z"
+    "published_at": "2026-11-23T22:21:58Z"
   }
 }

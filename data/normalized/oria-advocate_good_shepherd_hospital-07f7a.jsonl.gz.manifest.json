@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11266/362169147_advocate-good-shepherd-hospital_standardcharges.csv",
   "source_sha256": "f23b7c136c20d568d6f509d1b856ec6063adc6c037c20ca63db8b72cb2de9224",
   "download_bytes": 104283577,
-  "extracted_at": "2026-11-06T17:54:11Z",
+  "extracted_at": "2026-11-23T22:14:59Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 104283577,
+    "received": 104283577
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-advocate_good_shepherd_hospital-07f7a__d85552f2b0dc0b8c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d8/oria-advocate_good_shepherd_hospital-07f7a__d85552f2b0dc0b8c.jsonl.gz",
     "asset_sha256": "d85552f2b0dc0b8c0355468f85afe20253ed90881aad34cf061e86aae2fef2b6",
-    "published_at": "2026-11-06T17:55:49Z"
+    "published_at": "2026-11-23T22:21:56Z"
   }
 }

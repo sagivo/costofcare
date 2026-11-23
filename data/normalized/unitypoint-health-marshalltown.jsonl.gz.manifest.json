@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7948/815034179_unitypoint-health-marshalltown_standardcharges.csv",
   "source_sha256": "cb35cc9800b275411165be4576719168d27481201ceff028c0723cba439623f6",
   "download_bytes": 118393338,
-  "extracted_at": "2026-11-07T02:14:03Z",
+  "extracted_at": "2026-11-23T22:19:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 118393338,
+    "received": 118393338
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-marshalltown__bffc73611860f381.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bf/unitypoint-health-marshalltown__bffc73611860f381.jsonl.gz",
     "asset_sha256": "bffc73611860f3818c42c2e351ea9e4b5fbc4168f2a07fb9a6fc56939da1253d",
-    "published_at": "2026-11-07T02:32:53Z"
+    "published_at": "2026-11-23T22:22:32Z"
   }
 }
