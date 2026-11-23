@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-23T22:23:33.246423+00:00",
+  "generated_at": "2026-11-23T23:23:26.087782+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
-    "successful_entries": 2777,
-    "distinct_successful_mrf_urls": 2777,
-    "extracted_within_24h": 0,
-    "sources_over_365_days_old": 188,
+    "successful_entries": 2778,
+    "distinct_successful_mrf_urls": 2778,
+    "extracted_within_24h": 2618,
+    "sources_over_365_days_old": 176,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 359817,
+    "hospital_code_aggregates": 359909,
     "row_preserving_records": 24135016
   },
   "quarantined": 10,
   "status_counts": {
-    "ok": 2784,
+    "ok": 2785,
     "failed": 804,
-    "no_target_codes": 461
+    "no_target_codes": 460
   },
   "successful_entries_by_state": {
     "TX": 299,
     "WI": 94,
     "FL": 83,
     "CA": 206,
-    "IL": 100,
+    "IL": 101,
     "SC": 56,
     "PA": 142,
     "LA": 80,
@@ -78,7 +78,7 @@
     "27130": 1679,
     "27447": 1708,
     "29827": 1704,
-    "29848": 1417,
+    "29848": 1416,
     "29881": 1779,
     "30520": 1558,
     "42820": 1470,
@@ -87,145 +87,145 @@
     "52353": 1515,
     "58150": 1282,
     "59400": 1046,
-    "59410": 1006,
+    "59410": 1005,
     "59510": 996,
-    "59515": 998,
+    "59515": 997,
     "64721": 1830,
     "66984": 1489,
     "69436": 1535,
-    "88112": 2306,
+    "88112": 2307,
     "88175": 1817,
-    "90471": 2435,
+    "90471": 2436,
     "90834": 1675,
     "90837": 1666,
-    "92004": 1072,
-    "92014": 1046,
-    "92134": 1134,
-    "92557": 1289,
-    "93000": 1144,
+    "92004": 1071,
+    "92014": 1045,
+    "92134": 1133,
+    "92557": 1288,
+    "93000": 1143,
     "93015": 918,
-    "95810": 1944,
-    "97110": 2530,
-    "97161": 2499,
-    "97530": 2518,
+    "95810": 1945,
+    "97110": 2531,
+    "97161": 2500,
+    "97530": 2519,
     "99223": 1248,
     "99232": 1259,
-    "E0601": 450,
+    "E0601": 449,
     "19083": 2057,
-    "20610": 2505,
-    "36415": 2527,
-    "62323": 2084,
+    "20610": 2506,
+    "36415": 2528,
+    "62323": 2085,
     "64483": 2049,
-    "70450": 2550,
-    "70460": 2482,
-    "70486": 2525,
-    "70491": 2526,
-    "70544": 2406,
-    "70551": 2461,
-    "70552": 2331,
-    "70553": 2461,
-    "71250": 2533,
-    "71275": 2518,
-    "72125": 2528,
-    "72131": 2523,
-    "72141": 2452,
-    "72146": 2453,
-    "72148": 2465,
-    "72149": 2306,
-    "72156": 2434,
-    "72158": 2446,
-    "73218": 2340,
-    "73221": 2393,
-    "73222": 2217,
-    "73700": 2472,
-    "73718": 2365,
-    "73721": 2391,
-    "73722": 2176,
-    "73723": 2342,
-    "74150": 2520,
-    "74160": 2500,
-    "74176": 2536,
-    "76536": 2529,
-    "76642": 2323,
-    "76700": 2563,
-    "76805": 2377,
-    "77065": 2125,
-    "77066": 2183,
-    "77067": 2256,
+    "70450": 2551,
+    "70460": 2483,
+    "70486": 2526,
+    "70491": 2527,
+    "70544": 2407,
+    "70551": 2462,
+    "70552": 2332,
+    "70553": 2462,
+    "71250": 2534,
+    "71275": 2519,
+    "72125": 2529,
+    "72131": 2524,
+    "72141": 2453,
+    "72146": 2454,
+    "72148": 2466,
+    "72149": 2307,
+    "72156": 2435,
+    "72158": 2447,
+    "73218": 2341,
+    "73221": 2394,
+    "73222": 2218,
+    "73700": 2473,
+    "73718": 2366,
+    "73721": 2392,
+    "73722": 2177,
+    "73723": 2343,
+    "74150": 2521,
+    "74160": 2501,
+    "74176": 2537,
+    "76536": 2530,
+    "76642": 2324,
+    "76700": 2564,
+    "76805": 2378,
+    "77065": 2126,
+    "77066": 2184,
+    "77067": 2257,
     "78452": 2258,
-    "78815": 1772,
-    "80069": 2522,
-    "80074": 2485,
-    "82306": 2562,
-    "82947": 2545,
-    "83718": 2381,
-    "83735": 2577,
-    "84132": 2564,
-    "84295": 2551,
-    "84478": 2539,
-    "84520": 2543,
-    "85610": 2597,
-    "86580": 2060,
-    "87491": 2487,
-    "87591": 2472,
+    "78815": 1771,
+    "80069": 2523,
+    "80074": 2486,
+    "82306": 2563,
+    "82947": 2546,
+    "83718": 2382,
+    "83735": 2578,
+    "84132": 2565,
+    "84295": 2552,
+    "84478": 2540,
+    "84520": 2544,
+    "85610": 2598,
+    "86580": 2061,
+    "87491": 2488,
+    "87591": 2473,
     "87635": 2467,
-    "87804": 2170,
-    "93306": 2482,
-    "93970": 2527,
-    "93971": 2503,
+    "87804": 2171,
+    "93306": 2483,
+    "93970": 2528,
+    "93971": 2504,
     "93978": 2118,
-    "94010": 2407,
-    "94640": 2483,
-    "11042": 2429,
-    "12001": 2366,
-    "43235": 2122,
-    "43239": 2137,
-    "43249": 1923,
-    "45378": 2097,
-    "45380": 2092,
-    "45384": 1801,
-    "45385": 2081,
+    "94010": 2408,
+    "94640": 2484,
+    "11042": 2430,
+    "12001": 2367,
+    "43235": 2123,
+    "43239": 2138,
+    "43249": 1924,
+    "45378": 2098,
+    "45380": 2093,
+    "45384": 1802,
+    "45385": 2082,
     "55700": 1641,
-    "59025": 2033,
-    "71045": 2578,
-    "71046": 2578,
-    "71260": 2528,
-    "74177": 2542,
-    "76775": 2421,
-    "76830": 2495,
-    "76856": 2533,
-    "77014": 1221,
-    "77063": 2101,
-    "77080": 2314,
-    "77385": 1198,
-    "80048": 2581,
-    "80053": 2587,
-    "80061": 2579,
-    "80076": 2574,
-    "81001": 2532,
+    "59025": 2034,
+    "71045": 2579,
+    "71046": 2579,
+    "71260": 2529,
+    "74177": 2543,
+    "76775": 2422,
+    "76830": 2496,
+    "76856": 2534,
+    "77014": 1220,
+    "77063": 2102,
+    "77080": 2315,
+    "77385": 1188,
+    "80048": 2582,
+    "80053": 2588,
+    "80061": 2580,
+    "80076": 2575,
+    "81001": 2533,
     "81002": 2157,
-    "82310": 2531,
-    "82565": 2553,
-    "82607": 2560,
-    "82728": 2558,
-    "83036": 2594,
-    "84100": 2564,
-    "84153": 2546,
-    "84439": 2569,
-    "84443": 2590,
-    "84550": 2552,
-    "85025": 2575,
-    "85027": 2517,
-    "85652": 2222,
-    "86140": 2555,
-    "87086": 2491,
-    "88305": 2479,
-    "90686": 1505,
+    "82310": 2532,
+    "82565": 2554,
+    "82607": 2561,
+    "82728": 2559,
+    "83036": 2595,
+    "84100": 2565,
+    "84153": 2547,
+    "84439": 2570,
+    "84443": 2591,
+    "84550": 2553,
+    "85025": 2576,
+    "85027": 2518,
+    "85652": 2221,
+    "86140": 2556,
+    "87086": 2492,
+    "88305": 2480,
+    "90686": 1506,
     "90791": 1637,
-    "93303": 1703,
-    "93880": 2504,
-    "96372": 2522,
-    "96413": 2122,
+    "93303": 1702,
+    "93880": 2505,
+    "96372": 2523,
+    "96413": 2123,
     "99202": 1925,
     "99203": 1930,
     "99204": 1970,
@@ -234,15 +234,15 @@
     "99213": 2062,
     "99214": 2060,
     "99215": 2006,
-    "99281": 2406,
-    "99282": 2414,
-    "99283": 2422,
-    "99284": 2425,
-    "99285": 2428,
+    "99281": 2407,
+    "99282": 2415,
+    "99283": 2423,
+    "99284": 2426,
+    "99285": 2429,
     "99385": 1158,
     "99395": 1155,
-    "G0121": 1683,
-    "G0439": 1117
+    "G0121": 1684,
+    "G0439": 1118
   },
   "qa_flags": [
     {
@@ -4731,27 +4731,6 @@
     {
       "id": "black-hills-surgical-hospital",
       "flag": "unresolved_geography"
-    },
-    {
-      "id": "black-hills-surgical-hospital",
-      "code": "36415",
-      "payer": "first choice health network",
-      "flag": "wide_payer_range_review",
-      "ratio": 1767.0
-    },
-    {
-      "id": "black-hills-surgical-hospital",
-      "code": "87635",
-      "payer": "Medicare",
-      "flag": "wide_payer_range_review",
-      "ratio": 5131.0
-    },
-    {
-      "id": "black-hills-surgical-hospital",
-      "code": "87635",
-      "payer": "UnitedHealthcare",
-      "flag": "wide_payer_range_review",
-      "ratio": 5028.0
     },
     {
       "id": "oria-montefiore_mount_vernon_hospital-0fb68",
@@ -12235,15 +12214,10 @@
     },
     {
       "id": "uchealth-broomfield-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
-      "id": "uchealth-broomfield-hospital",
       "code": "96372",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 186.37
+      "ratio": 130.92
     },
     {
       "id": "oria-massena_hospital-642dd",
@@ -18606,11 +18580,6 @@
       "age_days": 706
     },
     {
-      "id": "uchealth-university-of-colorado-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
       "id": "oria-east_hospital-c185e",
       "code": "11042",
       "payer": "Aetna",
@@ -20494,29 +20463,38 @@
     },
     {
       "id": "uchealth-medical-center-of-the-rockies",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
-      "id": "uchealth-medical-center-of-the-rockies",
       "code": "19083",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 252.67
+      "ratio": 264.05
+    },
+    {
+      "id": "uchealth-medical-center-of-the-rockies",
+      "code": "77080",
+      "payer": "Anthem BCBS",
+      "flag": "wide_payer_range_review",
+      "ratio": 102.67
+    },
+    {
+      "id": "uchealth-medical-center-of-the-rockies",
+      "code": "86580",
+      "payer": "Aetna",
+      "flag": "wide_payer_range_review",
+      "ratio": 124.03
     },
     {
       "id": "uchealth-medical-center-of-the-rockies",
       "code": "96372",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 117.85
+      "ratio": 111.83
     },
     {
       "id": "uchealth-medical-center-of-the-rockies",
       "code": "96372",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 289.79
+      "ratio": 314.82
     },
     {
       "id": "scripps-green-hospital",
@@ -69117,11 +69095,6 @@
       "ratio": 149.55
     },
     {
-      "id": "uchealth-highlands-ranch-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
       "id": "morrow-county-hospital",
       "flag": "unresolved_geography"
     },
@@ -72583,11 +72556,6 @@
       "flag": "unresolved_geography"
     },
     {
-      "id": "uchealth-estes-valley-medical-center",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
       "id": "oria-middle_park_health_kremmling-e3675",
       "code": "11042",
       "payer": "Medicare",
@@ -74694,11 +74662,6 @@
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
       "ratio": 101.46
-    },
-    {
-      "id": "uchealth-memorial-hospital-central",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
     },
     {
       "id": "oria-anmed_health-a4e50",
@@ -98165,11 +98128,6 @@
       "ratio": 134.06
     },
     {
-      "id": "uchealth-yampa-valley-medical-center",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
       "id": "oria-pike_county_memorial_hospital-6c5e7",
       "code": "90471",
       "payer": "Aetna",
@@ -105583,11 +105541,6 @@
       "payer": "WORKERS COMP [600]",
       "flag": "wide_payer_range_review",
       "ratio": 1260.0
-    },
-    {
-      "id": "uchealth-longs-peak-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
     },
     {
       "id": "oria-mease_dunedin_hospital-ea47c",
@@ -122154,11 +122107,6 @@
       "ratio": 562.93
     },
     {
-      "id": "uchealth-pikes-peak-regional-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
       "id": "oria-riverside_university_health_system_previously_known_as_riverside_county_regional-7b28e",
       "code": "70450",
       "payer": "INLAND EMPIRE HEALTH PLAN MCAL HMO",
@@ -125464,11 +125412,6 @@
       "id": "oria-hardtner_medical_center-3323a",
       "flag": "source_over_365_days_old",
       "age_days": 690
-    },
-    {
-      "id": "uchealth-memorial-hospital-north",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
     },
     {
       "id": "sharp-mary-birch-hospital-for-women-and-newborns",
@@ -131785,6 +131728,13 @@
       "payer": "UnitedHealthcare",
       "flag": "wide_payer_range_review",
       "ratio": 152.36
+    },
+    {
+      "id": "upmc-carlisle",
+      "code": "90471",
+      "payer": "UPMC Health Plan",
+      "flag": "wide_payer_range_review",
+      "ratio": 113.9
     },
     {
       "id": "oria-chadron_community_hospital-2da05",
@@ -147338,6 +147288,13 @@
       "payer": "Aetna",
       "flag": "wide_payer_range_review",
       "ratio": 321.27
+    },
+    {
+      "id": "upmc-horizon-greenville",
+      "code": "36415",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 650.0
     },
     {
       "id": "henry-ford-st-john-hospital",
@@ -172412,22 +172369,17 @@
     },
     {
       "id": "uchealth-grandview-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
-      "id": "uchealth-grandview-hospital",
       "code": "96372",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 113.49
+      "ratio": 111.98
     },
     {
       "id": "uchealth-grandview-hospital",
       "code": "96372",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 254.35
+      "ratio": 188.15
     },
     {
       "id": "sanford-thief-river-falls-medical-center",
@@ -176430,29 +176382,24 @@
     },
     {
       "id": "uchealth-greeley-hospital",
-      "flag": "source_over_365_days_old",
-      "age_days": 387
-    },
-    {
-      "id": "uchealth-greeley-hospital",
       "code": "19083",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 134.41
+      "ratio": 140.12
     },
     {
       "id": "uchealth-greeley-hospital",
       "code": "96372",
       "payer": "Anthem BCBS",
       "flag": "wide_payer_range_review",
-      "ratio": 143.74
+      "ratio": 141.81
     },
     {
       "id": "uchealth-greeley-hospital",
       "code": "96372",
       "payer": "Cigna",
       "flag": "wide_payer_range_review",
-      "ratio": 150.76
+      "ratio": 165.62
     },
     {
       "id": "oria-highland_park_hospital-2d1fd",
