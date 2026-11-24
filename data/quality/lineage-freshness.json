@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-24T06:24:42.154919+00:00",
-  "normalized_files": 2767,
-  "quarantined": 10,
+  "generated_at": "2026-11-24T20:57:54.453729+00:00",
+  "normalized_files": 2768,
+  "quarantined": 9,
   "parser_versions": {
-    "row-preserving-1.3": 2760,
+    "row-preserving-1.3": 2761,
     "row-preserving-1.2": 6,
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1907,
-    "1_to_7_days": 765,
-    "within_24h": 95
+    "over_7_days": 1942,
+    "1_to_7_days": 683,
+    "within_24h": 143
   },
   "failed_attempt_classes": {
-    "other": 76,
+    "other": 74,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -53,6 +53,13 @@
       "summary_sha256": "de57bfc9554d1f2c318b2181c651980c2c78d57a5b95710e07f0d7bc372f129c",
       "normalized_extracted_at": "2026-11-12T18:37:12Z",
       "summary_extracted_at": "2026-11-23T21:51:12Z"
+    },
+    {
+      "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv",
+      "normalized_sha256": "18bef5c8ddf71f6c368a8f372e38ce465981e062d5fa0fde941395be8e4c7987",
+      "summary_sha256": "b4e48977224e826722342d971d29713f8988470392e3fd562e9c80d57ee3a8b5",
+      "normalized_extracted_at": "2026-11-24T20:51:53Z",
+      "summary_extracted_at": "2026-11-19T18:33:21Z"
     },
     {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965480_upmc-presbyterian-shadyside_standardcharges.csv?",
@@ -111,13 +118,6 @@
       "summary_extracted_at": "2026-11-23T23:08:04Z"
     },
     {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965387_upmc-hamot_standardcharges.csv?",
-      "normalized_sha256": "ae4ade5e1eb633b0f76c3e0ad4e4fe3d4c6680974406d8f789c8da148aeb96dc",
-      "summary_sha256": "c9bab62cba92ddf26080d5935172bcf1e5cfe93687b7fb54fc16ad2c363e9607",
-      "normalized_extracted_at": "2026-11-07T02:25:10Z",
-      "summary_extracted_at": "2026-11-23T23:17:16Z"
-    },
-    {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/203749695_baylor-scott--white-medical-center--round-rock_standardcharges.csv",
       "normalized_sha256": "711b268fea8a3bbb8d82fb7a30953025bea341ac29607345ba7e766fa8f92561",
       "summary_sha256": "73c0572408bf0ab3e42e3afb791759f201cd1e0e2a755468449a52f15422c09e",
@@ -151,6 +151,13 @@
       "summary_sha256": "886a3c4a06fc42690000d823288cb039880189fb61876c8af9075c5c9a0ddbb1",
       "normalized_extracted_at": "2026-11-10T18:10:48Z",
       "summary_extracted_at": "2026-11-04T18:49:47Z"
+    },
+    {
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250402510_upmc-childrens_standardcharges.csv?",
+      "normalized_sha256": "9d8cfcfaa860972679544336ed1afeb6527026f9c89f699dfa391290327dfef0",
+      "summary_sha256": "d8e0595d729ac411da5bde7c2b3eb2a9e4cde083b75a8dfcb1dde13d73071813",
+      "normalized_extracted_at": "2026-11-24T20:55:21Z",
+      "summary_extracted_at": "2026-11-19T21:03:30Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--weston_standardcharges.zip",
@@ -293,13 +300,6 @@
       "summary_extracted_at": "2026-11-23T22:07:17Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8187/393395823_uchealth-estes-valley-medical-center_standardcharges.csv",
-      "normalized_sha256": "96a0a7d7f75b9263eb13b7e13144b024b96a78b19f16b1295d69ff1fb39f8121",
-      "summary_sha256": "a8aa8d574d03858c01afe61196a7144b317fb44f9945f53820994680c6665e83",
-      "normalized_extracted_at": "2026-11-07T02:26:09Z",
-      "summary_extracted_at": "2026-11-23T23:14:18Z"
-    },
-    {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/stlum/soet/finance/price-transparency/750755367-1396746129_memorial-health-system-of-east-texas_standardcharges.json",
       "normalized_sha256": "960c81240077c0fb4b9ad6d77d2a9d43e9750d6bd8afea9f064ac91e999d13da",
       "summary_sha256": "2712d12c9aa218e6361a3afdf2c2f474d1f98347a1b012edd19331c4d1fb7936",
@@ -440,13 +440,6 @@
       "summary_extracted_at": "2026-11-23T22:18:14Z"
     },
     {
-      "source_url": "https://www.sanfordhealth.org/-/media/org/files/patients-and-visitors/billing-insurance/price-estimates/black-hills-surgical-hospital_standard-charges.csv",
-      "normalized_sha256": "dbb819ff50f3fd5afc3872b15e00ef260ca546b9a7f1e0a62ab73aad70c602b2",
-      "summary_sha256": "429236e5e62feb69e685aab15eb3ca1f917af790b184e8e449d13cfcaa96e713",
-      "normalized_extracted_at": "2026-11-07T16:37:38Z",
-      "summary_extracted_at": "2026-11-23T22:09:41Z"
-    },
-    {
       "source_url": "https://www.merithealthwesley.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/522050792_merit-health-wesley_standardcharges.csv",
       "normalized_sha256": "749a7aacb5458b8649c2e9a6912a9db3980d5b83b3869377c0198764585345d5",
       "summary_sha256": "60021b283c677454ece3cff60c451cdc437af989935eae5b059e3d5962c736b2",
@@ -543,13 +536,6 @@
       "summary_sha256": "5fcaa26908ff57b9b6013e8be7b01c0d101ee652726d885d580de99c34a6d978",
       "normalized_extracted_at": "2026-11-14T02:42:46Z",
       "summary_extracted_at": "2026-11-23T22:02:06Z"
-    },
-    {
-      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/240795508_upmc-williamsport_standardcharges.csv?",
-      "normalized_sha256": "49ef05f29c6b13adff6215cbcc9f539a2cd0dc41bb53c8a816473f0c09f672eb",
-      "summary_sha256": "f5c87373c445b60274cb0e9583f5de32ecbc79d01cc55b57b481533234b263c8",
-      "normalized_extracted_at": "2026-11-07T02:20:41Z",
-      "summary_extracted_at": "2026-11-23T21:29:47Z"
     },
     {
       "source_url": "https://www.lakegranburymedicalcenter.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/752682017_lake-granbury-medical-center_standardcharges.csv",

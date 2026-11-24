@@ -5,7 +5,7 @@
   "source_url": "https://www.henryford.com/-/media/files/henry-ford/patients-visitors/price-transparency-2026/legacy-ascension/381359247_henry-ford-rochester-hospital_standardcharges.csv",
   "source_sha256": "4677e0b25070481bfd97956706a08eafd7b14082dea1dd1aa33ef15802c2bb7d",
   "download_bytes": 189939915,
-  "extracted_at": "2026-11-07T02:26:51Z",
+  "extracted_at": "2026-11-24T20:53:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 189939915,
+    "received": 189939915
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "henry-ford-rochester-hospital__3af456ee945a3ed0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-3a/henry-ford-rochester-hospital__3af456ee945a3ed0.jsonl.gz",
     "asset_sha256": "3af456ee945a3ed01c539383a6322ee7d25d7a40c3105da76cf2ba9c4948b7f8",
-    "published_at": "2026-11-07T02:30:52Z"
+    "published_at": "2026-11-24T20:55:42Z"
   }
 }

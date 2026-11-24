@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7942/420698265_allen-memorial-hospital-corporation_standardcharges.csv",
   "source_sha256": "0eda2de1c77bba67bb3db46e8ec2815007568c2a80626e071fa86de490ff3b8a",
   "download_bytes": 169589365,
-  "extracted_at": "2026-11-07T02:25:32Z",
+  "extracted_at": "2026-11-24T20:52:18Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 169589365,
+    "received": 169589365
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-allen-hospital__791dd1d3648c3081.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-79/unitypoint-health-allen-hospital__791dd1d3648c3081.jsonl.gz",
     "asset_sha256": "791dd1d3648c3081c9715c735cf19196bb791eeb57d407d7ea6674c3496c09c2",
-    "published_at": "2026-11-07T02:32:46Z"
+    "published_at": "2026-11-24T20:56:47Z"
   }
 }

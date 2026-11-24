@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/socal/live/951643325_providence-st-jude-medical-center_standardcharges.json",
   "source_sha256": "43245cc6df93124a78580eb06f32ddc1ab1cd7aa1788238a2b76cddcbea065e3",
   "download_bytes": 202904353,
-  "extracted_at": "2026-11-07T16:37:10Z",
+  "extracted_at": "2026-11-24T20:53:46Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 202904353,
+    "received": 202904353
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "st-jude-medical-center__a710a8e0b9bd8576.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/st-jude-medical-center__a710a8e0b9bd8576.jsonl.gz",
     "asset_sha256": "a710a8e0b9bd8576746b5d0e3ff789b447103089d52ab6b2acf7d800c9ff09b0",
-    "published_at": "2026-11-07T16:56:01Z"
+    "published_at": "2026-11-24T20:56:37Z"
   }
 }

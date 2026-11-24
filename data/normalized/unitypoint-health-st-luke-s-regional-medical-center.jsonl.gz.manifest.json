@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7954/421019872_northwest-iowa-hospital-corporation_standardcharges.csv",
   "source_sha256": "b29f36fe360bb1544259bca8776bb10c9eb213985b2cf8ae51e427b433053a16",
   "download_bytes": 195664609,
-  "extracted_at": "2026-11-07T02:26:32Z",
+  "extracted_at": "2026-11-24T20:53:12Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 195664609,
+    "received": 195664609
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-st-luke-s-regional-medical-center__692b64342f349872.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/unitypoint-health-st-luke-s-regional-medical-center__692b64342f349872.jsonl.gz",
     "asset_sha256": "692b64342f349872f8682c88f402513a861874497c3e2a343ff44f86293a44c2",
-    "published_at": "2026-11-07T02:32:56Z"
+    "published_at": "2026-11-24T20:56:50Z"
   }
 }

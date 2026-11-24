@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/socal/live/951643359_providence-st-joseph-hospital-orange_standardcharges.json",
   "source_sha256": "a97be34dd5a153081b80692ffd1bba0b605ed6c9f768a8a8fa751cb3f8ffe4e2",
   "download_bytes": 207041243,
-  "extracted_at": "2026-11-07T16:38:07Z",
+  "extracted_at": "2026-11-24T20:54:29Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 207041243,
+    "received": 207041243
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "providence-st-joseph-hospital-orange__ccfe8b99fd450dd0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cc/providence-st-joseph-hospital-orange__ccfe8b99fd450dd0.jsonl.gz",
     "asset_sha256": "ccfe8b99fd450dd048c71a40b23984d64be681a2c0c46f709befb98ba5f0e45e",
-    "published_at": "2026-11-07T16:55:52Z"
+    "published_at": "2026-11-24T20:56:23Z"
   }
 }

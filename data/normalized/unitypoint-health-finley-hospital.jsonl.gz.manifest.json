@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7943/420680354_the-finley-hospital_standardcharges.csv",
   "source_sha256": "86f141f0926f9686000667a25bfb14543e5fd3923102f6b0e5c4e94283f2a690",
   "download_bytes": 169998091,
-  "extracted_at": "2026-11-07T02:26:33Z",
+  "extracted_at": "2026-11-24T20:53:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 169998091,
+    "received": 169998091
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-finley-hospital__df1054908e26cc85.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-df/unitypoint-health-finley-hospital__df1054908e26cc85.jsonl.gz",
     "asset_sha256": "df1054908e26cc85a7f2c37ecb0178ac6cc010897a7fb8de11e642cec3ac92a8",
-    "published_at": "2026-11-07T02:32:49Z"
+    "published_at": "2026-11-24T20:56:48Z"
   }
 }
