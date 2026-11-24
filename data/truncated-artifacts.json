@@ -1,7 +1,60 @@
-{"artifacts":[
-{"id":"oria-west_penn_hospital-fb1d2","artifact_bytes":56215537,"live_content_length":333697298,"observed_at":"2026-11-20T08:20:00Z","note":"artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"},
-{"id":"oria-westfield_memorial_hospital_inc-69955","artifact_bytes":53623922,"live_content_length":207125065,"observed_at":"2026-11-20T08:20:00Z","note":"artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"},
-{"id":"oria-forbes_hospital-0323b","artifact_bytes":45953457,"live_content_length":368732741,"observed_at":"2026-11-20T08:20:00Z","note":"artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"},
-{"id":"oria-grove_city_hospital-25a5d","artifact_bytes":52815537,"live_content_length":339327488,"observed_at":"2026-11-20T08:20:00Z","note":"artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"},
-{"id":"oria-saint_vincent_hospital-44cdc","artifact_bytes":53480692,"live_content_length":388314112,"observed_at":"2026-11-20T08:20:00Z","note":"artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"}
-]}
+{
+  "artifacts": [
+    {
+      "id": "oria-west_penn_hospital-fb1d2",
+      "artifact_bytes": 56215537,
+      "live_content_length": 333697298,
+      "observed_at": "2026-11-20T08:20:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    },
+    {
+      "id": "oria-westfield_memorial_hospital_inc-69955",
+      "artifact_bytes": 53623922,
+      "live_content_length": 207125065,
+      "observed_at": "2026-11-20T08:20:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    },
+    {
+      "id": "oria-forbes_hospital-0323b",
+      "artifact_bytes": 45953457,
+      "live_content_length": 368732741,
+      "observed_at": "2026-11-20T08:20:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    },
+    {
+      "id": "oria-grove_city_hospital-25a5d",
+      "artifact_bytes": 52815537,
+      "live_content_length": 339327488,
+      "observed_at": "2026-11-20T08:20:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    },
+    {
+      "id": "oria-saint_vincent_hospital-44cdc",
+      "artifact_bytes": 53480692,
+      "live_content_length": 388314112,
+      "observed_at": "2026-11-20T08:20:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    },
+    {
+      "id": "oria-ahn_wexford_hospital-2bdd9",
+      "artifact_bytes": 103167537,
+      "live_content_length": 298591926,
+      "observed_at": "2026-11-23T20:21:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    },
+    {
+      "id": "oria-allegheny_general_hospital-88bcb",
+      "artifact_bytes": 102455537,
+      "live_content_length": 361230255,
+      "observed_at": "2026-11-23T20:21:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    },
+    {
+      "id": "oria-allegheny_valley_hospital-cfacb",
+      "artifact_bytes": 101698225,
+      "live_content_length": 337310113,
+      "observed_at": "2026-11-23T20:21:00Z",
+      "note": "artifact extracted from truncated download before completeness enforcement; excluded from generated search coverage until a verified-complete re-extraction supersedes it"
+    }
+  ]
+}
