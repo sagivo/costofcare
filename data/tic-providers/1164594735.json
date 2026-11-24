@@ -1,0 +1,25 @@
+{
+  "npi": "1164594735",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:32:56Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1164594735",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ELLEN",
+      "last_name": "BLACK",
+      "primary_taxonomy": "Internal Medicine",
+      "location": {
+        "address_1": "273 AVENUE A",
+        "city": "BAYONNE",
+        "state": "NJ",
+        "postal_code": "070021367"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

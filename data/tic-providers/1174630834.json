@@ -1,0 +1,25 @@
+{
+  "npi": "1174630834",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:33:32Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1174630834",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SONJA",
+      "last_name": "STRAUB",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "325 NW 21ST AVE STE 102",
+        "city": "PORTLAND",
+        "state": "OR",
+        "postal_code": "972091179"
+      },
+      "last_updated": "2009-11-25"
+    }
+  ]
+}

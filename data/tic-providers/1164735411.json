@@ -1,0 +1,25 @@
+{
+  "npi": "1164735411",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:32:58Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1164735411",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ESTELLE",
+      "last_name": "PARNES",
+      "primary_taxonomy": "Behavior Analyst",
+      "location": {
+        "address_1": "6 MARTHA RD",
+        "city": "MONSEY",
+        "state": "NY",
+        "postal_code": "109521406"
+      },
+      "last_updated": "2019-12-19"
+    }
+  ]
+}

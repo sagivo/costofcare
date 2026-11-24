@@ -1,0 +1,25 @@
+{
+  "npi": "1154419851",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:32:02Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1154419851",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DAVID",
+      "last_name": "BRESCH",
+      "primary_taxonomy": "Psychiatry & Neurology, Psychiatry",
+      "location": {
+        "address_1": "1225 WHITEHORSE MERCERVILLE RD",
+        "city": "HAMILTON",
+        "state": "NJ",
+        "postal_code": "086193882"
+      },
+      "last_updated": "2015-05-08"
+    }
+  ]
+}

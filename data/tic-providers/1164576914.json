@@ -1,0 +1,25 @@
+{
+  "npi": "1164576914",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:32:51Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1164576914",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MARGUERITE",
+      "last_name": "GAREAU",
+      "primary_taxonomy": "Nurse Practitioner, Psych/Mental Health",
+      "location": {
+        "address_1": "2929 SW MULTNOMAH BLVD",
+        "city": "PORTLAND",
+        "state": "OR",
+        "postal_code": "972194025"
+      },
+      "last_updated": "2013-06-06"
+    }
+  ]
+}

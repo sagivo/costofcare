@@ -1,0 +1,25 @@
+{
+  "npi": "1164804092",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:33:01Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1164804092",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "PIERRETTE",
+      "last_name": "BEGENT",
+      "primary_taxonomy": "Nurse Practitioner, Psych/Mental Health",
+      "location": {
+        "address_1": "122 W ROE BLVD",
+        "city": "PATCHOGUE",
+        "state": "NY",
+        "postal_code": "117722569"
+      },
+      "last_updated": "2018-05-02"
+    }
+  ]
+}

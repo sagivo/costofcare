@@ -1,0 +1,25 @@
+{
+  "npi": "1174532352",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:33:16Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1174532352",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JEAN",
+      "last_name": "SCURRIA",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "855 MAIN ST",
+        "city": "PLEASANTON",
+        "state": "CA",
+        "postal_code": "945666668"
+      },
+      "last_updated": "2025-04-22"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1164572210",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-24T21:32:49Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1164572210",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "PRAMILA",
+      "last_name": "VISHVANATH",
+      "primary_taxonomy": "Naturopath",
+      "location": {
+        "address_1": "2324 POST RD",
+        "city": "FAIRFIELD",
+        "state": "CT",
+        "postal_code": "068245656"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}
