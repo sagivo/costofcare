@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 6934,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8025/010238552-1932164795_mainehealth_standardcharges.csv",
-  "source_sha256": "e5d0a991dde260d5f27855eed61dbf5bbd3a9c9b212ceadf248bc01f5f66d0da",
-  "download_bytes": 133259582,
-  "extracted_at": "2026-11-07T02:19:35Z",
+  "source_sha256": "77fcd28b6221bf1dbd2192be2b301c8ce1786c7f15b3195006548afd8f5ddb39",
+  "download_bytes": 135215710,
+  "extracted_at": "2026-11-24T06:17:19Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 135215710,
+    "received": 135215710
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ea",
-    "asset_name": "mid-coast-hospital__eac9ec3d41aa6bb9.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ea/mid-coast-hospital__eac9ec3d41aa6bb9.jsonl.gz",
-    "asset_sha256": "eac9ec3d41aa6bb929b3083346a673a2f2fe66c970805b1a7d6c2ee127f06e21",
-    "published_at": "2026-11-07T02:31:08Z"
+    "release": "data-norm-52",
+    "asset_name": "mid-coast-hospital__52d44b7007b75e59.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-52/mid-coast-hospital__52d44b7007b75e59.jsonl.gz",
+    "asset_sha256": "52d44b7007b75e59f660e9c799684ef61b0c70a642b230ca66d556666f487bec",
+    "published_at": "2026-11-24T06:22:26Z"
   }
 }

@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 13576,
+  "records": 14040,
   "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/machine-readable-csv-not-json/820880337_upmc-carlisle_standardcharges.csv?",
-  "source_sha256": "6cde62b1ab1205e0260de8b91e4a0e6f70ee4ef7fc01053bbc8f210bf2bb3a83",
-  "download_bytes": 134676058,
-  "extracted_at": "2026-11-07T02:18:23Z",
+  "source_sha256": "a33fdc6afa0b28d22a5c98a2e4f35b8bf82bdb7331ca1a81ecc6b9aa462284da",
+  "download_bytes": 145231905,
+  "extracted_at": "2026-11-24T06:16:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 145231905,
+    "received": 145231905
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-a8",
-    "asset_name": "upmc-carlisle__a86e110abb6c9c66.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a8/upmc-carlisle__a86e110abb6c9c66.jsonl.gz",
-    "asset_sha256": "a86e110abb6c9c66f73a54e11c9b659a65093e0b402a5ee64e3140444454c2b4",
-    "published_at": "2026-11-07T02:33:02Z"
+    "release": "data-norm-dd",
+    "asset_name": "upmc-carlisle__dd45be3c72e2359a.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-dd/upmc-carlisle__dd45be3c72e2359a.jsonl.gz",
+    "asset_sha256": "dd45be3c72e2359ab53359031569e33db7bccd0e511150f5ed33127f9d220edb",
+    "published_at": "2026-11-24T06:23:30Z"
   }
 }

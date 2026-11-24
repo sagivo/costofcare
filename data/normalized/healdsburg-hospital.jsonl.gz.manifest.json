@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/norcal/live/852390012_healdsburg-hospital_standardcharges.json",
   "source_sha256": "d8ec69442065dca8abc6b3476085ac8dc8a6cc63741f11febc5087f6d1517f1f",
   "download_bytes": 157202460,
-  "extracted_at": "2026-11-07T02:19:19Z",
+  "extracted_at": "2026-11-24T06:16:52Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 157202460,
+    "received": 157202460
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "healdsburg-hospital__23cd3fe7e91ffe79.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-23/healdsburg-hospital__23cd3fe7e91ffe79.jsonl.gz",
     "asset_sha256": "23cd3fe7e91ffe79c166074d8ef16d8294f828431deb1f841b0b3534ea5def1b",
-    "published_at": "2026-11-07T02:30:49Z"
+    "published_at": "2026-11-24T06:22:18Z"
   }
 }

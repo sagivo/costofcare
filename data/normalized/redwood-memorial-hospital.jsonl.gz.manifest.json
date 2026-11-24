@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/norcal/live/814791043_providence-redwood-memorial-hospital_standardcharges.json",
   "source_sha256": "6d95f59b79091791f4347041848a26557b1d0ce9632afcf01ba8f87c81ff1374",
   "download_bytes": 161042565,
-  "extracted_at": "2026-11-07T02:21:33Z",
+  "extracted_at": "2026-11-24T06:18:28Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 161042565,
+    "received": 161042565
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "redwood-memorial-hospital__fdfbd7776ba77e99.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/redwood-memorial-hospital__fdfbd7776ba77e99.jsonl.gz",
     "asset_sha256": "fdfbd7776ba77e99d28734e9e9174fd4307efe73cfc743f77cd891a87010d0f8",
-    "published_at": "2026-11-07T02:32:19Z"
+    "published_at": "2026-11-24T06:23:06Z"
   }
 }

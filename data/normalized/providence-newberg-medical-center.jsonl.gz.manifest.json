@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/oregon/live/931146501_providence-newberg-medical-center_standardcharges.json",
   "source_sha256": "de84c5ad8a182dd0c96df7dc755be7c1af2c5d5c0b6c54b993b4e60de37f7515",
   "download_bytes": 161066319,
-  "extracted_at": "2026-11-07T02:21:51Z",
+  "extracted_at": "2026-11-24T06:19:44Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 161066319,
+    "received": 161066319
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "providence-newberg-medical-center__e4d6897e598cbab6.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e4/providence-newberg-medical-center__e4d6897e598cbab6.jsonl.gz",
     "asset_sha256": "e4d6897e598cbab6c115280d17e4bf45214b2ef0a44716023ae1dfe765842fdc",
-    "published_at": "2026-11-07T02:32:06Z"
+    "published_at": "2026-11-24T06:22:58Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11263/362169147_advocate-christ-medical-center_standardcharges.csv",
   "source_sha256": "3bdac2d5973916ff39c31ec97070a4eadd8f94cdae635a2a7fe95ff2941e2ef8",
   "download_bytes": 149588164,
-  "extracted_at": "2026-11-07T02:16:51Z",
+  "extracted_at": "2026-11-24T06:15:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 149588164,
+    "received": 149588164
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-advocate_christ_medical_center-48381__071705ef694d7450.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-07/oria-advocate_christ_medical_center-48381__071705ef694d7450.jsonl.gz",
     "asset_sha256": "071705ef694d74509571bfce2c19500d5b4d60c2d6ff42cdb85acc642de47d39",
-    "published_at": "2026-11-07T02:31:17Z"
+    "published_at": "2026-11-24T06:22:28Z"
   }
 }
