@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-11-24T20:57:26.321375+00:00",
+  "generated_at": "2026-11-24T22:48:28.719529+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2778,
     "distinct_successful_mrf_urls": 2778,
-    "extracted_within_24h": 2618,
+    "extracted_within_24h": 2612,
     "sources_over_365_days_old": 176,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 359909,
+    "hospital_code_aggregates": 359911,
     "row_preserving_records": 24144053
   },
   "quarantined": 9,
   "status_counts": {
     "ok": 2785,
-    "failed": 804,
-    "no_target_codes": 460
+    "failed": 801,
+    "no_target_codes": 463
   },
   "successful_entries_by_state": {
     "TX": 299,
@@ -108,8 +108,8 @@
     "97110": 2531,
     "97161": 2500,
     "97530": 2519,
-    "99223": 1248,
-    "99232": 1259,
+    "99223": 1249,
+    "99232": 1260,
     "E0601": 449,
     "19083": 2057,
     "20610": 2506,
