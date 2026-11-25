@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 13373,
+  "records": 14270,
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752834135_baylor-scott--white-heart-and-vascular-hospital--waxahachie_standardcharges.csv",
-  "source_sha256": "6efe35e9477747ea62624138b8048fb78017b32048ee2d4b0b95f22639288407",
-  "download_bytes": 347066507,
-  "extracted_at": "2026-11-07T16:51:18Z",
+  "source_sha256": "484483cf02cc6919c7145f47a6002f4786aa1f2286c7a43652e385dc1d8bacef",
+  "download_bytes": 360715671,
+  "extracted_at": "2026-11-25T20:12:13Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 360715671,
+    "received": 360715671
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-d9",
-    "asset_name": "baylor-scott-white-heart-and-vascular-hospital-waxahachie__d9ddfedc421f7e12.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d9/baylor-scott-white-heart-and-vascular-hospital-waxahachie__d9ddfedc421f7e12.jsonl.gz",
-    "asset_sha256": "d9ddfedc421f7e12f4df4d92fee2e0335e5abd184cf7f80383d87ba2fae57760",
-    "published_at": "2026-11-07T16:53:50Z"
+    "release": "data-norm-b0",
+    "asset_name": "baylor-scott-white-heart-and-vascular-hospital-waxahachie__b00c6750b49ceb86.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b0/baylor-scott-white-heart-and-vascular-hospital-waxahachie__b00c6750b49ceb86.jsonl.gz",
+    "asset_sha256": "b00c6750b49ceb86b841ae1e0edce5ab654287730f6f6cf2f98aa04655b4152c",
+    "published_at": "2026-11-25T20:14:46Z"
   }
 }

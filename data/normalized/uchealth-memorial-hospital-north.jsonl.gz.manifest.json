@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 19603,
+  "records": 16946,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8077/460796114-1750940987_uchmhs_standardcharges.csv",
-  "source_sha256": "96b050590bd70a2011458e0b99ca34bf28f1da6c0a279c03186211809a546742",
-  "download_bytes": 280040902,
-  "extracted_at": "2026-11-07T16:47:32Z",
+  "source_sha256": "84d28d13e9d6ddfadfe0df9523f5c9fd3b794321ec8af7554e060ed85f6c69df",
+  "download_bytes": 271130632,
+  "extracted_at": "2026-11-25T20:09:10Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 271130632,
+    "received": 271130632
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-d0",
-    "asset_name": "uchealth-memorial-hospital-north__d02981c9130c91e3.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/uchealth-memorial-hospital-north__d02981c9130c91e3.jsonl.gz",
-    "asset_sha256": "d02981c9130c91e30d4cabfda676ce3c33a7bdd2dded5e3e44d93ba32e7f1d15",
-    "published_at": "2026-11-07T16:56:27Z"
+    "release": "data-norm-95",
+    "asset_name": "uchealth-memorial-hospital-north__95f5cbace5c137b0.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-95/uchealth-memorial-hospital-north__95f5cbace5c137b0.jsonl.gz",
+    "asset_sha256": "95f5cbace5c137b0af7efdc2e79a892aaf86ffcefa01cef697593db2078254a6",
+    "published_at": "2026-11-25T20:15:53Z"
   }
 }

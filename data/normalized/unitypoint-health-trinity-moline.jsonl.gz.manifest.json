@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7959/362739299-1316047632_trinity-medical-center_standardcharges.csv",
   "source_sha256": "fd6eb79b9a39f504394752b08a43d1f13dc02db13eb7cb935d8d086dd51695af",
   "download_bytes": 265846670,
-  "extracted_at": "2026-11-07T16:48:24Z",
+  "extracted_at": "2026-11-25T20:09:48Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 265846670,
+    "received": 265846670
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-trinity-moline__b397002d820d1e73.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/unitypoint-health-trinity-moline__b397002d820d1e73.jsonl.gz",
     "asset_sha256": "b397002d820d1e73c5c23ec608854c811737088ace9da804ceeeaef1156013d2",
-    "published_at": "2026-11-07T16:56:38Z"
+    "published_at": "2026-11-25T20:15:55Z"
   }
 }

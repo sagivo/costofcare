@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 18035,
+  "records": 14979,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8083/611786722_longs-peak-hospital_standardcharges.csv",
-  "source_sha256": "a66e35bb8a25846dba3e7eb20172e7f6740dd147b35af300fb85e5208c45392b",
-  "download_bytes": 317747725,
-  "extracted_at": "2026-11-07T16:49:50Z",
+  "source_sha256": "ecdbbd388dca08d6dc502ceac559078d18a2c6dcd799f310e89a4c14a1550cc0",
+  "download_bytes": 292229385,
+  "extracted_at": "2026-11-25T20:10:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 292229385,
+    "received": 292229385
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-08",
-    "asset_name": "uchealth-longs-peak-hospital__08b169fef9d675ff.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-08/uchealth-longs-peak-hospital__08b169fef9d675ff.jsonl.gz",
-    "asset_sha256": "08b169fef9d675ff1f4be409e8f7dc1aa01c36cade67016d1df9c4bc1aaca323",
-    "published_at": "2026-11-07T16:56:22Z"
+    "release": "data-norm-09",
+    "asset_name": "uchealth-longs-peak-hospital__09fe4d2dc2b097c7.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-09/uchealth-longs-peak-hospital__09fe4d2dc2b097c7.jsonl.gz",
+    "asset_sha256": "09fe4d2dc2b097c7773fb46c574006270bac93307ab9298dbce4ebd94850e4e9",
+    "published_at": "2026-11-25T20:15:47Z"
   }
 }

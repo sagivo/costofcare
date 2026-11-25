@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 8515,
+  "records": 9184,
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/202850920_baylor-scott--white-continuing-care-hospital_standardcharges.csv",
-  "source_sha256": "4ac8e6d2607355efc556f01e9f4c38eb09cb0958934346ce6d718ed10d6d944a",
-  "download_bytes": 315324252,
-  "extracted_at": "2026-11-07T16:50:04Z",
+  "source_sha256": "ebeaa177cd4f46a28d8a5e541968fc389ddc6f1d9607da0eea52cb53017f6b41",
+  "download_bytes": 332784198,
+  "extracted_at": "2026-11-25T20:11:09Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 332784198,
+    "received": 332784198
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-c1",
-    "asset_name": "baylor-scott-white-continuing-care-hospital__c12410ecea830ed7.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c1/baylor-scott-white-continuing-care-hospital__c12410ecea830ed7.jsonl.gz",
-    "asset_sha256": "c12410ecea830ed772410e4bcce4851c30f11b09bbb2130f4e4755348c5f3412",
-    "published_at": "2026-11-07T16:53:48Z"
+    "release": "data-norm-af",
+    "asset_name": "baylor-scott-white-continuing-care-hospital__af70fb5732334cd9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-af/baylor-scott-white-continuing-care-hospital__af70fb5732334cd9.jsonl.gz",
+    "asset_sha256": "af70fb5732334cd9ddb31828cc46faef5397fbe6136d2736b89914eaad6c5727",
+    "published_at": "2026-11-25T20:14:44Z"
   }
 }

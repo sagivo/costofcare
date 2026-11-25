@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 15041,
+  "records": 16331,
   "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965420_upmc-magee_standardcharges.csv?",
-  "source_sha256": "b84088fb75b690437202b699baa357068f2a6beee850eb89c0ce188f5d610192",
-  "download_bytes": 199964754,
-  "extracted_at": "2026-11-07T16:39:40Z",
+  "source_sha256": "546da576e50890d28ed2fb66cd5f80aff034fa842f557bf46ac636bb2c23c962",
+  "download_bytes": 218102397,
+  "extracted_at": "2026-11-25T20:09:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 218102397,
+    "received": 218102397
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-67",
-    "asset_name": "upmc-magee__6770cd5d7d87ebf5.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-67/upmc-magee__6770cd5d7d87ebf5.jsonl.gz",
-    "asset_sha256": "6770cd5d7d87ebf53c9780616377094014905fe740649e1647b0703753684468",
-    "published_at": "2026-11-07T16:56:41Z"
+    "release": "data-norm-89",
+    "asset_name": "upmc-magee__897393a40831b3ee.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-89/upmc-magee__897393a40831b3ee.jsonl.gz",
+    "asset_sha256": "897393a40831b3ee6600377d197adf47d10d0b5c3a7c750f42c41b879e6acb3e",
+    "published_at": "2026-11-25T20:15:57Z"
   }
 }
