@@ -1,0 +1,25 @@
+{
+  "npi": "1184178980",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:39:58Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1184178980",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ANNE",
+      "last_name": "BEAUFORT",
+      "primary_taxonomy": "Counselor, Mental Health",
+      "location": {
+        "address_1": "129 E HERSEY ST",
+        "city": "ASHLAND",
+        "state": "OR",
+        "postal_code": "975201212"
+      },
+      "last_updated": "2019-09-30"
+    }
+  ]
+}

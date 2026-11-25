@@ -1,0 +1,25 @@
+{
+  "npi": "1194826040",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:41:21Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1194826040",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ELISSA",
+      "last_name": "ELY",
+      "primary_taxonomy": "Psychiatry & Neurology, Psychiatry",
+      "location": {
+        "address_1": "180 MORTON ST",
+        "city": "JAMAICA PLAIN",
+        "state": "MA",
+        "postal_code": "021303735"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

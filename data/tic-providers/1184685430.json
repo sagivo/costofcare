@@ -1,0 +1,25 @@
+{
+  "npi": "1184685430",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:40:13Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1184685430",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BARBARA",
+      "last_name": "SMITH",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "1664 MAIN RD",
+        "city": "WESTPORT",
+        "state": "MA",
+        "postal_code": "027904411"
+      },
+      "last_updated": "2026-07-13"
+    }
+  ]
+}

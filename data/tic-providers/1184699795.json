@@ -1,0 +1,25 @@
+{
+  "npi": "1184699795",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:40:17Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1184699795",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "GARY",
+      "last_name": "GUGLIADA",
+      "primary_taxonomy": null,
+      "location": {
+        "address_1": "89 CROMWELL AVE",
+        "city": "STATEN ISLAND",
+        "state": "NY",
+        "postal_code": "103043944"
+      },
+      "last_updated": "2012-02-15"
+    }
+  ]
+}

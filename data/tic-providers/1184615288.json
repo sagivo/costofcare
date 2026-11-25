@@ -1,0 +1,25 @@
+{
+  "npi": "1184615288",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:40:00Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1184615288",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ROSS",
+      "last_name": "QUACKENBUSH",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "2493 STATE ST",
+        "city": "SALEM",
+        "state": "OR",
+        "postal_code": "973014543"
+      },
+      "last_updated": "2026-07-13"
+    }
+  ]
+}

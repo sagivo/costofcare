@@ -1,0 +1,25 @@
+{
+  "npi": "1194211060",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:41:01Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1194211060",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JAMIRE",
+      "last_name": "MERRICK",
+      "primary_taxonomy": "Social Worker",
+      "location": {
+        "address_1": "822 GUILFORD AVE # 1637",
+        "city": "BALTIMORE",
+        "state": "MD",
+        "postal_code": "212023707"
+      },
+      "last_updated": "2022-11-22"
+    }
+  ]
+}

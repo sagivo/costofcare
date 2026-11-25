@@ -1,0 +1,25 @@
+{
+  "npi": "1194766337",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:41:13Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1194766337",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ROBERT",
+      "last_name": "HOROWITZ",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "777 NW WALL ST",
+        "city": "BEND",
+        "state": "OR",
+        "postal_code": "977012731"
+      },
+      "last_updated": "2007-10-28"
+    }
+  ]
+}

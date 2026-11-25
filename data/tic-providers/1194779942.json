@@ -1,0 +1,25 @@
+{
+  "npi": "1194779942",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-25T20:41:16Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1194779942",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CYNTHIA",
+      "last_name": "CHASE",
+      "primary_taxonomy": "Counselor, Mental Health",
+      "location": {
+        "address_1": "39 BARIBEAU DR",
+        "city": "BRUNSWICK",
+        "state": "ME",
+        "postal_code": "040113242"
+      },
+      "last_updated": "2019-04-03"
+    }
+  ]
+}
