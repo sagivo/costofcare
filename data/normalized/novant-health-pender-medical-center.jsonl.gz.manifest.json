@@ -5,7 +5,7 @@
   "source_url": "https://www2.novanthealth.org/Public_Files/regulatory/560653348_pender-memorial-hospital-incorporated-dba-novant-health-pender-medical-center_standardcharges.json",
   "source_sha256": "cd9dd5e19482a10124d4399c988b8339a2b34604c9f134637c3a6e503853ac80",
   "download_bytes": 266161887,
-  "extracted_at": "2026-11-07T16:45:31Z",
+  "extracted_at": "2026-11-25T05:06:32Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 266161887,
+    "received": 266161887
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "novant-health-pender-medical-center__1f0e0f1af51aaa58.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-1f/novant-health-pender-medical-center__1f0e0f1af51aaa58.jsonl.gz",
     "asset_sha256": "1f0e0f1af51aaa58da5a1f2557bbf614c44cb7460dc885c63d58d91f9d518367",
-    "published_at": "2026-11-07T16:54:55Z"
+    "published_at": "2026-11-25T05:10:29Z"
   }
 }

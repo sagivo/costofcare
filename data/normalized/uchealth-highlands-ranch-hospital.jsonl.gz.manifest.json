@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 16041,
+  "records": 13198,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8087/821885403_uchealth-highlands-ranch-hospital_standardcharges.csv",
-  "source_sha256": "4e2c4bc6362292282d10aa08feee4fc2204b86aaa64f9c30cd9c351dd5ee7b44",
-  "download_bytes": 276985448,
-  "extracted_at": "2026-11-07T16:46:48Z",
+  "source_sha256": "0fe10c5c375819cb0d2791434d820454f7a922ca316962be0a5e4eb6532b3be9",
+  "download_bytes": 252327281,
+  "extracted_at": "2026-11-25T05:08:43Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 252327281,
+    "received": 252327281
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-95",
-    "asset_name": "uchealth-highlands-ranch-hospital__951a1b934ee8081b.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-95/uchealth-highlands-ranch-hospital__951a1b934ee8081b.jsonl.gz",
-    "asset_sha256": "951a1b934ee8081bd9f4d1e4fd44d72c4fa204a7a398df49451f1b0d3a7d9930",
-    "published_at": "2026-11-07T16:56:20Z"
+    "release": "data-norm-9e",
+    "asset_name": "uchealth-highlands-ranch-hospital__9ea2001b3f3ef4b4.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9e/uchealth-highlands-ranch-hospital__9ea2001b3f3ef4b4.jsonl.gz",
+    "asset_sha256": "9ea2001b3f3ef4b4edc8473fa4f5aa226c290ca78a714f5b8b6885206b89cfee",
+    "published_at": "2026-11-25T05:11:08Z"
   }
 }

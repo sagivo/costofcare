@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T20:57:54.453729+00:00",
+  "generated_at": "2026-11-25T05:12:46.942401+00:00",
   "normalized_files": 2768,
   "quarantined": 9,
   "parser_versions": {
@@ -8,13 +8,14 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 1942,
-    "1_to_7_days": 683,
-    "within_24h": 143
+    "over_7_days": 1975,
+    "1_to_7_days": 653,
+    "within_24h": 140
   },
   "failed_attempt_classes": {
-    "other": 74,
+    "other": 76,
     "strict_encoding": 6,
+    "timeout": 1,
     "http_429": 1
   },
   "summary_hash_missing_count": 1,
@@ -24,14 +25,14 @@
       "normalized_sha256": "a2ec8c4d53081d883518b30f1fd5338934ef982018ea3c33a549e4e7b07ae5fb",
       "summary_sha256": "c0f513047b7e571ef996b4d53deee0b725cc1047f73ce62d2c2df2846fe0f21f",
       "normalized_extracted_at": "2026-11-08T01:50:41Z",
-      "summary_extracted_at": "2026-11-23T21:57:37Z"
+      "summary_extracted_at": "2026-11-24T20:52:30Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/260194016_baylor-scott--white-medical-center--lake-pointe_standardcharges.csv",
       "normalized_sha256": "c6efa8bde72673a3ba843fb9cb086205b803a607a62eae2d0c8fde5f77dabcb8",
       "summary_sha256": "b798983deedf82c94839071893baba90739695e16a6d6a76f82087b8e2d7b70e",
       "normalized_extracted_at": "2026-11-08T01:49:52Z",
-      "summary_extracted_at": "2026-11-23T22:06:50Z"
+      "summary_extracted_at": "2026-11-24T21:07:32Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611345363-1871588772_flaget-healthcare-inc_standardcharges.csv",
@@ -45,14 +46,14 @@
       "normalized_sha256": "1088ccef955fa3d933d386585713c5350d88bc10b5ac1a7dec293d88aa343c97",
       "summary_sha256": "82555170e0d6f37c0d79e5400b346aa5f6d0b3bb0f7157720a13f2fd9fc54b33",
       "normalized_extracted_at": "2026-11-08T16:58:07Z",
-      "summary_extracted_at": "2026-11-23T21:48:24Z"
+      "summary_extracted_at": "2026-11-24T20:39:51Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/390973724_marshfield-medical-center--park-falls_standardcharges.zip",
       "normalized_sha256": "a35fd76c88fe897e57fe8a6d0b4a23f298fc7e4c153498ceb5ec4f2731e9cfa6",
       "summary_sha256": "de57bfc9554d1f2c318b2181c651980c2c78d57a5b95710e07f0d7bc372f129c",
       "normalized_extracted_at": "2026-11-12T18:37:12Z",
-      "summary_extracted_at": "2026-11-23T21:51:12Z"
+      "summary_extracted_at": "2026-11-24T20:44:10Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/250969492-1588269898_west-penn-allegheny-health-system-inc_standardcharges.csv",
@@ -73,7 +74,7 @@
       "normalized_sha256": "87d16227cf91801c390a9b6416307d4e43e615b9d0153f0da17576dd7c9f165f",
       "summary_sha256": "7544fdd0347c63a5ac2d08c594c795813e0598abed18c3f54146cb961a4b7dc1",
       "normalized_extracted_at": "2026-11-15T02:05:03Z",
-      "summary_extracted_at": "2026-11-23T22:15:54Z"
+      "summary_extracted_at": "2026-11-24T21:18:39Z"
     },
     {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965429_upmc-mercy_standardcharges.csv?",
@@ -87,14 +88,14 @@
       "normalized_sha256": "25e1d36d3a96fddd021d44ac04eeae187e1228ded2c5e64e764858c18cea31f9",
       "summary_sha256": "14f1166134bf2e4b2e436d63543b5a2c714a59cfeaf00f970bcaf0a6de4d3dcd",
       "normalized_extracted_at": "2026-11-13T02:54:28Z",
-      "summary_extracted_at": "2026-11-23T21:49:04Z"
+      "summary_extracted_at": "2026-11-24T20:40:56Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741166904_baylor-scott--white-medical-center--temple_standardcharges.csv",
       "normalized_sha256": "1df2b0cc725c15dd16898caf7c7705d91e5cd3bfc24c9baef5f23682cbc4d257",
       "summary_sha256": "68d22ef57a7c13a5c319857a61d76c5c3bb47c93cb0f97409895cfa2552cf9e5",
       "normalized_extracted_at": "2026-11-08T01:58:54Z",
-      "summary_extracted_at": "2026-11-23T22:08:33Z"
+      "summary_extracted_at": "2026-11-24T21:08:51Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisv/soar/finance/price-transparency/710236913-1689628232_chi-st-vincent-hospital-hot-springs_standardcharges.csv",
@@ -108,42 +109,42 @@
       "normalized_sha256": "67de51e1319555727a2f639690a0c1a8ec948fa7ba840d65ae2072f724181bc4",
       "summary_sha256": "ed6eb0aaf6ae89b3489ccb87c1834a4cb7ff6478d4e1551b75c683357f1daa54",
       "normalized_extracted_at": "2026-11-11T18:10:34Z",
-      "summary_extracted_at": "2026-11-23T21:35:40Z"
+      "summary_extracted_at": "2026-11-24T20:21:34Z"
     },
     {
       "source_url": "https://www.warmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/860982071_western-arizona-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "1ef75746fc86d92141792d5e29cac7dc10832313e348c555e8192d39e2d46b37",
       "summary_sha256": "3a8539939e941ccc4f4b1f4aaa99868a6b89d955935d8b1c5c14dd80b0f718d5",
       "normalized_extracted_at": "2026-11-17T19:22:42Z",
-      "summary_extracted_at": "2026-11-23T23:08:04Z"
+      "summary_extracted_at": "2026-11-24T22:32:42Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/203749695_baylor-scott--white-medical-center--round-rock_standardcharges.csv",
       "normalized_sha256": "711b268fea8a3bbb8d82fb7a30953025bea341ac29607345ba7e766fa8f92561",
       "summary_sha256": "73c0572408bf0ab3e42e3afb791759f201cd1e0e2a755468449a52f15422c09e",
       "normalized_extracted_at": "2026-11-08T01:52:28Z",
-      "summary_extracted_at": "2026-11-23T22:08:26Z"
+      "summary_extracted_at": "2026-11-24T21:08:25Z"
+    },
+    {
+      "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/850138775_geraldchampionregionalmedicalcenter_standardcharges.ashx",
+      "normalized_sha256": "8cdf66a6625e7032e61e54429e5d36e2cd64368bfb60cf3b6095bb7b29bc17e2",
+      "summary_sha256": "7fec05bf4e0efaa8f530b9407d5e75e2341abd4660ab84c8fed9c813847f1346",
+      "normalized_extracted_at": "2026-11-11T18:02:22Z",
+      "summary_extracted_at": "2026-11-24T22:33:52Z"
     },
     {
       "source_url": "https://cdn.hs.uab.edu/static/63-6005396_University-of-Alabama-Hospital_standardcharges.zip",
       "normalized_sha256": "d81f34d756358b0d6851f332515aae16ec938e207aaa8a380453072266cbd67f",
       "summary_sha256": "0d4bc183a4b2b7e78ebbceccb6917cd948d1c2076625ce5be8b9f12f3d25c62c",
       "normalized_extracted_at": "2026-11-23T03:03:31Z",
-      "summary_extracted_at": "2026-11-23T23:15:42Z"
+      "summary_extracted_at": "2026-11-24T22:43:34Z"
     },
     {
       "source_url": "https://www.physiciansregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/204401957_physicians-regional-healthcare-system-collier_standardcharges.csv",
       "normalized_sha256": "974db0cdd61151e482a7c46d1f6c157e63e53e193b6dfa7f8c8966485bc341bd",
       "summary_sha256": "298730e4c513109e5195c0df2535c2bb54c8e94331b139d50945280cc266bda6",
       "normalized_extracted_at": "2026-11-16T02:19:09Z",
-      "summary_extracted_at": "2026-11-23T22:31:35Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8085/473393862_uchealth-broomfield-hospital_standardcharges.csv",
-      "normalized_sha256": "84feff50d616e1051d868342cbed45af32bb86b4bd806052ca75119d0b33a3d5",
-      "summary_sha256": "952b0de301f638091583c8178cad80a5a6a516dfc0af6af4b3fd73a283b5403f",
-      "normalized_extracted_at": "2026-11-07T16:46:36Z",
-      "summary_extracted_at": "2026-11-23T23:14:18Z"
+      "summary_extracted_at": "2026-11-24T21:37:53Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1679679146_saint-joseph-health-system-inc_standardcharges.csv",
@@ -164,147 +165,140 @@
       "normalized_sha256": "1fbe82a22872996bf64c1704bd4933109e97c19857d024897bf505deb60c47bb",
       "summary_sha256": "e7860bf492d58d60a4d02989bcc39164ff67d6c78ffc10746bb1a625c475587f",
       "normalized_extracted_at": "2026-11-12T18:37:44Z",
-      "summary_extracted_at": "2026-11-23T21:51:31Z"
+      "summary_extracted_at": "2026-11-24T20:44:27Z"
     },
     {
       "source_url": "https://www.gibsonhospital.org/file/2582/370647938_gibson-area-hospital_standardcharges.csv",
       "normalized_sha256": "52cdf34e65fa9dddd756801590ab126014dc09a935cd6a20d36abcc94265984c",
       "summary_sha256": "3526bd8fc8f8dfc810109a7647da763b1e63939946caa37da664e112c9d58574",
       "normalized_extracted_at": "2026-11-11T02:06:50Z",
-      "summary_extracted_at": "2026-11-23T23:09:10Z"
+      "summary_extracted_at": "2026-11-24T22:33:53Z"
     },
     {
       "source_url": "https://www.tennovanewport.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528314_tennova-newport-medical-center_standardcharges.csv",
       "normalized_sha256": "3525acdb19f331d6ef9a8390ba20a7409ac4555f2dfaf23010f39440effcbc6a",
       "summary_sha256": "59f7024bc403d562149114e91293c243a53901ec2e6850598d9bbe9a6772aaa7",
       "normalized_extracted_at": "2026-11-15T02:04:01Z",
-      "summary_extracted_at": "2026-11-23T22:15:25Z"
-    },
-    {
-      "source_url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/210635009_penn-medicine-princeton-medical-center_standardcharges.csv",
-      "normalized_sha256": "085c199106ca7e38aa616377a1de400fdf40a04b951c9379421d73ec3e6e18e2",
-      "summary_sha256": "55b8ecbd2da66308f5dccf6bf885c30486be917272893e058fb8893a446f5fa7",
-      "normalized_extracted_at": "2026-11-07T16:44:54Z",
-      "summary_extracted_at": "2026-11-23T23:01:10Z"
+      "summary_extracted_at": "2026-11-24T21:17:56Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751837454_baylor-university-medical-center_standardcharges.csv",
       "normalized_sha256": "aa5a383a2249cd5d92d04ea0028a8633a6f7358e53769810544c1151cb450241",
       "summary_sha256": "c7b93e5499110d8d5bdad39be8be0074ad7528560dad3dda3f3ee4cfb604f0c2",
       "normalized_extracted_at": "2026-11-08T01:55:40Z",
-      "summary_extracted_at": "2026-11-23T22:09:35Z"
+      "summary_extracted_at": "2026-11-24T21:09:42Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8081/430730045_medical-center-of-the-rockies_standardcharges.csv",
       "normalized_sha256": "a24cc945b866e3b4233f103d31046b4dadf6a3b78f7eb29ecc3a2ef70baa46f0",
       "summary_sha256": "96dd5b2398a5f390ec9e3c69ca4f4ce3368702401c27fa71f823d452f1fbb76d",
       "normalized_extracted_at": "2026-11-07T16:49:25Z",
-      "summary_extracted_at": "2026-11-23T23:14:28Z"
+      "summary_extracted_at": "2026-11-24T22:41:44Z"
     },
     {
       "source_url": "https://www.uvmhealth.org/sites/default/files/141338471_champlain-valley-physicians-hospital-medical-center_standardcharges.csv",
       "normalized_sha256": "2df1b0a5482e5a5070f329372794891c2d9d8226dba5bfbdebc903b3628109d3",
       "summary_sha256": "5029c90ba151b8596a1231344f2d7b4803cc0fe8fca3cf616c4ff5f7f1facc54",
       "normalized_extracted_at": "2026-11-10T04:14:32Z",
-      "summary_extracted_at": "2026-11-23T22:14:31Z"
+      "summary_extracted_at": "2026-11-24T21:16:46Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8076/460796114-1144397134_uchmhs_standardcharges.csv",
       "normalized_sha256": "a15b0a1781bcc4dcbed02148ff6764b269100bde87aa7922977eb694221c7248",
       "summary_sha256": "6f97493304d801949cb57ca24abc41086fa99d45e07b64b464c4f25461738fe6",
       "normalized_extracted_at": "2026-11-07T16:47:56Z",
-      "summary_extracted_at": "2026-11-23T23:14:30Z"
+      "summary_extracted_at": "2026-11-24T22:41:45Z"
     },
     {
       "source_url": "https://www.christushealth.org/-/media/christus-health/plan-care/files/bill-pay/machine-readable-files/741109836_spohnhospitalcorpuschristisouth_standardcharges.json",
       "normalized_sha256": "991be3e080c95d6e128a2b35fb47a1b3fc3056382a3f40a30444ac4f9fb74c48",
       "summary_sha256": "31dd5fed1920833ad09c42b72fa987db3892881b3abaa8c044157a566c1e7f76",
       "normalized_extracted_at": "2026-11-10T04:15:26Z",
-      "summary_extracted_at": "2026-11-23T22:29:48Z"
+      "summary_extracted_at": "2026-11-24T21:35:53Z"
     },
     {
       "source_url": "https://www.pbrmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/431238701_poplar-bluff-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "4d8d00f7cc46557bd89bde373ddbb14e98af23cb68fbd98a9123a9b61da89681",
       "summary_sha256": "dc1b0fc8019573da42c410a327881ac82d660c03c50b280b65d9602aac5c1487",
       "normalized_extracted_at": "2026-11-16T02:24:18Z",
-      "summary_extracted_at": "2026-11-23T22:32:45Z"
+      "summary_extracted_at": "2026-11-24T21:39:47Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/IWPW-1774366795883/machine-readable/751246166_mccamey-county-hospital-district_standardcharges.json",
       "normalized_sha256": "c214e45e46b30dfce9bfd7565327962b9bfd47dab197e569d68a9ff5077ff206",
       "summary_sha256": "6867125d4e0d161244dbc90796d999e7ddfbac67b8ea5efe2bd0f5c9733a8284",
       "normalized_extracted_at": "2026-11-12T18:36:11Z",
-      "summary_extracted_at": "2026-11-23T21:52:09Z"
+      "summary_extracted_at": "2026-11-24T20:45:15Z"
     },
     {
       "source_url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/231365353_lancaster-general-hospital_standardcharges.csv",
       "normalized_sha256": "0500d5b01592c28fc0485a8e6a919025ce8286ca87810397a54981eb4bcaeaaa",
       "summary_sha256": "6aa6a46f496ca6e2cc288de0e63fe4f9c10b92774cffd01c0c0d33224d0d2fbb",
       "normalized_extracted_at": "2026-11-08T01:52:50Z",
-      "summary_extracted_at": "2026-11-23T23:01:03Z"
+      "summary_extracted_at": "2026-11-24T22:22:57Z"
     },
     {
       "source_url": "https://www.grandviewhealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/203391873_grandview-medical-center_standardcharges.csv",
       "normalized_sha256": "0dba194cf2de946d1f3dffcbc3005ef06c15f3b6de096015ac038d544f0f4f90",
       "summary_sha256": "f6d5614d80a3809efe387d7e552a2967531ece43731c6f7788c2b1ba6b0fe2e6",
       "normalized_extracted_at": "2026-11-11T18:03:59Z",
-      "summary_extracted_at": "2026-11-23T23:09:51Z"
+      "summary_extracted_at": "2026-11-24T22:34:42Z"
     },
     {
       "source_url": "https://www.merithealthriveroaks.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640626874_merit-health-river-oaks_standardcharges.csv",
       "normalized_sha256": "a8298dda4e4e024e20ebbde2b673e0eddb2a36de4a7e527ad981b403379cdfce",
       "summary_sha256": "62a673a6dab2836bfc1243c8fcbc7771256d5c991462eb2f06ebb207d06639da",
       "normalized_extracted_at": "2026-11-14T02:47:58Z",
-      "summary_extracted_at": "2026-11-23T22:02:18Z"
+      "summary_extracted_at": "2026-11-24T21:00:07Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/IIVO-1760710869693/machine-readable/450227391_smp-health---st-kateri_standardcharges.json",
       "normalized_sha256": "f570986f029241cafd565479fea51cc4bb63bbf413e9439f64e25ee0c67b58e4",
       "summary_sha256": "05cd817eabfc345ad8886a0960ee0d489838383863e111b66f764fc7d0ae56bb",
       "normalized_extracted_at": "2026-11-16T02:23:34Z",
-      "summary_extracted_at": "2026-11-23T22:46:57Z"
+      "summary_extracted_at": "2026-11-24T22:02:38Z"
     },
     {
       "source_url": "https://apps.nmhs.net/files/pt_mrf/640668465_clay-county-medical-corporation_standardcharges.json",
       "normalized_sha256": "b218dec1e395ddeefc3f4db99b0fcd77ec2b8c5e406012a6cfb5fb3ed0edc0c1",
       "summary_sha256": "d68b515255f5265ed46c2d2bfd3215f71124d2fa756fb9a2f5a9b62f10262f19",
       "normalized_extracted_at": "2026-11-09T21:01:47Z",
-      "summary_extracted_at": "2026-11-23T22:30:13Z"
+      "summary_extracted_at": "2026-11-24T21:36:31Z"
     },
     {
       "source_url": "https://apps.nmhs.net/files/pt_mrf/334053320_marion-regional-health-winfield,-inc_standardcharges.json",
       "normalized_sha256": "ee914e54fd55fff739b4bf75c5a157ddfe37339b29758afaf1bc31f9b259b273",
       "summary_sha256": "78b221d2630526f887a1c0034c9c444acca0e003a6113743f2c9ac5952c26240",
       "normalized_extracted_at": "2026-11-12T18:36:52Z",
-      "summary_extracted_at": "2026-11-23T21:50:23Z"
+      "summary_extracted_at": "2026-11-24T20:43:02Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/BILX-1758056023835/machine-readable/481058737_pratt-regional-medical-center_standardcharges.json",
       "normalized_sha256": "df00f0c28e399dde1a57e35343a79995f9a8afee6c3a0e23f46a413a1090c994",
       "summary_sha256": "edd62378b3b4c43e1944f841736defe317c46edbdfe7863499d47125aa8c6253",
       "normalized_extracted_at": "2026-11-15T17:26:02Z",
-      "summary_extracted_at": "2026-11-23T22:32:55Z"
+      "summary_extracted_at": "2026-11-24T21:40:02Z"
     },
     {
       "source_url": "https://www.gadsdenregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/631102774_gadsden-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "b61b95d29fcfb5960486d8fb39f0c7728e6796fa131c6049a10039c13ca8c011",
       "summary_sha256": "2deeea276770aec3d7bd2a835277a444930f6d6659094263cf13c81edba24bac",
       "normalized_extracted_at": "2026-11-11T18:03:07Z",
-      "summary_extracted_at": "2026-11-23T23:05:19Z"
+      "summary_extracted_at": "2026-11-24T22:29:26Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/203749695_baylor-scott--white-medical-center--lakeway_standardcharges.csv",
       "normalized_sha256": "f0a130a712e1c34ccfc554867cac1e8c89f6165a69d73431982b4eb54e91c9c5",
       "summary_sha256": "f3ff971f13b9fa1394df2ea15d2df8de39c87bf05ad324f0a147019bd6dbe157",
       "normalized_extracted_at": "2026-11-08T01:48:24Z",
-      "summary_extracted_at": "2026-11-23T22:07:17Z"
+      "summary_extracted_at": "2026-11-24T21:07:43Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/stlum/soet/finance/price-transparency/750755367-1396746129_memorial-health-system-of-east-texas_standardcharges.json",
       "normalized_sha256": "960c81240077c0fb4b9ad6d77d2a9d43e9750d6bd8afea9f064ac91e999d13da",
       "summary_sha256": "2712d12c9aa218e6361a3afdf2c2f474d1f98347a1b012edd19331c4d1fb7936",
       "normalized_extracted_at": "2026-11-09T21:05:58Z",
-      "summary_extracted_at": "2026-11-23T22:28:00Z"
+      "summary_extracted_at": "2026-11-24T21:34:07Z"
     },
     {
       "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965451_upmc-passavant_standardcharges.csv?",
@@ -318,84 +312,84 @@
       "normalized_sha256": "eb497e25c8b3ade22156664aad45abc698848421a88c2e6e517960ba4e469413",
       "summary_sha256": "de8f48b56d5b5d033c39c4bab007206f44445bc8cd267ba8bae972908bdc4257",
       "normalized_extracted_at": "2026-11-10T18:14:51Z",
-      "summary_extracted_at": "2026-11-23T22:53:15Z"
+      "summary_extracted_at": "2026-11-24T22:11:46Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752834135_baylor-scott--white-heart-and-vascular-hospital--waxahachie_standardcharges.csv",
       "normalized_sha256": "6efe35e9477747ea62624138b8048fb78017b32048ee2d4b0b95f22639288407",
       "summary_sha256": "484483cf02cc6919c7145f47a6002f4786aa1f2286c7a43652e385dc1d8bacef",
       "normalized_extracted_at": "2026-11-07T16:51:18Z",
-      "summary_extracted_at": "2026-11-23T21:57:54Z"
+      "summary_extracted_at": "2026-11-24T20:52:52Z"
     },
     {
       "source_url": "https://www.flowershospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762412_flowers-hospital_standardcharges.csv",
       "normalized_sha256": "dbf672fd23f51177f110cbf606563943963df802ca3e905cfeb526d461099ec9",
       "summary_sha256": "060d32755e361e56cbb7aa3645c82bab2ba6105c5b91a78a69ba1fd52635dc1d",
       "normalized_extracted_at": "2026-11-11T18:03:42Z",
-      "summary_extracted_at": "2026-11-23T23:03:58Z"
+      "summary_extracted_at": "2026-11-24T22:28:02Z"
     },
     {
       "source_url": "https://www.moberlyregionalmedicalcenter.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/431651906_moberly-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "331353664085f977081bdda7bd1cabe4f186b816ab7753661d86a9f38b7c9119",
       "summary_sha256": "1a3c5148c11b7204de93161a2152799144f536ef04ba20806f71ffdacf1c352a",
       "normalized_extracted_at": "2026-11-13T18:03:37Z",
-      "summary_extracted_at": "2026-11-23T22:03:52Z"
+      "summary_extracted_at": "2026-11-24T21:02:35Z"
     },
     {
       "source_url": "https://www.stanfordchildrens.org/content/dam/sch/config-public/charges/770003859-lucile-salter-packard-childrens-hospital-at-stanford-standardcharges.json",
       "normalized_sha256": "2dfe11562deb74155c408eb900bc9706cb8403a157b0d409d39a813b6b93474d",
       "summary_sha256": "c4eccb9dab95e0adf1e2e76467f92771e9cbfe38cceabdf21bb764343e5a5c98",
       "normalized_extracted_at": "2026-11-13T02:50:26Z",
-      "summary_extracted_at": "2026-11-23T21:49:56Z"
+      "summary_extracted_at": "2026-11-24T20:42:20Z"
     },
     {
       "source_url": "https://www.tennovajefferson.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528414_tennova-jefferson-memorial-hospital_standardcharges.csv",
       "normalized_sha256": "7a365fe82682714a4a6660154258bfb38acac0c6406219d61fb3812ef17181de",
       "summary_sha256": "e2959fafb7cb8651c08762a7b523d166930dc1f78fabb7d5f5465df9536bba9f",
       "normalized_extracted_at": "2026-11-12T03:15:25Z",
-      "summary_extracted_at": "2026-11-23T21:35:23Z"
+      "summary_extracted_at": "2026-11-24T20:21:07Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/WJBE-1656005164598/machine-readable/741461220_frio-regional-hospital_standardcharges.json",
       "normalized_sha256": "5517216a212fc034155db9826ec0b671de126807b2e0e97dddfb1f26b24bd9e3",
       "summary_sha256": "3c0c77f669f2e147f4b3994db3db603afd026da0d9ba3c5d22085077cd5ea483",
       "normalized_extracted_at": "2026-11-11T02:06:39Z",
-      "summary_extracted_at": "2026-11-23T23:05:17Z"
+      "summary_extracted_at": "2026-11-24T22:29:24Z"
     },
     {
       "source_url": "https://www.woodlandheights.net/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762559_woodland-heights-medical-center_standardcharges.csv",
       "normalized_sha256": "ab6f04460550bb9fe54b08adb4d7b25fba555eb237e60b503ba396c55d41d861",
       "summary_sha256": "b0e967c83e85dea0bf16179c223575d631d4954314b9cf5653cb39cd76edc3b8",
       "normalized_extracted_at": "2026-11-17T19:21:27Z",
-      "summary_extracted_at": "2026-11-23T23:08:50Z"
+      "summary_extracted_at": "2026-11-24T22:33:28Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/RNAV-1731102747513/machine-readable/470379834_beatrice-community-hospital_standardcharges.json",
       "normalized_sha256": "1abf4a10eca8866e0f8f3999188dc965e7b7efd3be3b0b1924d3090ba20f783e",
       "summary_sha256": "7a38fd204c1d910776b5c34cd9993d44491a26e9ecb39a765be02dfac47a6c34",
       "normalized_extracted_at": "2026-11-08T01:59:00Z",
-      "summary_extracted_at": "2026-11-23T21:56:04Z"
+      "summary_extracted_at": "2026-11-24T20:51:07Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8079/824191576_uchealth-pikes-peak-regional-hospital_standardcharges.csv",
       "normalized_sha256": "8455a0d349660bfd3aa69ec4753c955a676d74384dcdf81682fa49d2071e96c8",
       "summary_sha256": "670510d9991f18c0406ac6237c9790e5b50833ad6c33b931567d54e30a9f4dad",
       "normalized_extracted_at": "2026-11-23T02:59:13Z",
-      "summary_extracted_at": "2026-11-23T23:14:37Z"
+      "summary_extracted_at": "2026-11-24T22:42:01Z"
     },
     {
       "source_url": "https://www.ohsu.edu/sites/default/files/custom/931176109_Oregon-Health-and-Science-University_standardcharges.zip",
       "normalized_sha256": "7c1720fc0fa6b25d6bafe43e483487fe735e14acc310bb85fdc2a25c2dcc8900",
       "summary_sha256": "6af1090de2376bb7b09770e9dd99af116f99879b1370eae46053ebb2df78744f",
       "normalized_extracted_at": "2026-11-18T03:48:55Z",
-      "summary_extracted_at": "2026-11-23T23:00:41Z"
+      "summary_extracted_at": "2026-11-24T22:22:24Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--marshfield_standardcharges.zip",
       "normalized_sha256": "76dc1f8e81f645c56cb6e045588a1770bfde400d42531059c2aa21749c5f2714",
       "summary_sha256": "7633197071850b9f2975d97eacfd84a2d59bcc0874b66b092a8a00eb46ad624c",
       "normalized_extracted_at": "2026-11-12T18:37:39Z",
-      "summary_extracted_at": "2026-11-23T21:50:54Z"
+      "summary_extracted_at": "2026-11-24T20:43:38Z"
     },
     {
       "source_url": "https://www.lorettohospital.org/documents/362200248_loretto-hospital_standardcharges.csv",
@@ -409,14 +403,14 @@
       "normalized_sha256": "abedc3ab58cb089bc6e7dbf099339c9a49be51fa1e857c9d7e8d60a208a1dcab",
       "summary_sha256": "973fc525d677e1130d2ee9858d4dc46a0f0aa505ddbdb77c316787f036714bfd",
       "normalized_extracted_at": "2026-11-10T18:14:33Z",
-      "summary_extracted_at": "2026-11-23T22:52:35Z"
+      "summary_extracted_at": "2026-11-24T22:10:49Z"
     },
     {
       "source_url": "https://www.physiciansregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/204401957_physicians-regional-healthcare-system-north_standardcharges.csv",
       "normalized_sha256": "0f7ea84129492d4aef2ec680c92760749991daa34e190ad75be92f95322271e2",
       "summary_sha256": "fe7892f16210a2dc201deb2dd8759c7b142a8fa7100383a9ab9ea30719a0e179",
       "normalized_extracted_at": "2026-11-15T17:34:00Z",
-      "summary_extracted_at": "2026-11-23T22:31:35Z"
+      "summary_extracted_at": "2026-11-24T21:37:53Z"
     },
     {
       "source_url": "https://www.silverlakehospital.org/price-transparency/272315199-1104144641_silver-lake-hospital_standardcharges.csv",
@@ -430,161 +424,154 @@
       "normalized_sha256": "211c9937825c7bb67ec9b6f05adb8bcd32e32fbed7f2ae42521e32b865d0c854",
       "summary_sha256": "872b0a49f17b5261915d39311ac062fe9b630f1fd3b59fcd728cd48637b7c7ab",
       "normalized_extracted_at": "2026-11-16T02:18:50Z",
-      "summary_extracted_at": "2026-11-23T22:31:36Z"
+      "summary_extracted_at": "2026-11-24T21:37:54Z"
     },
     {
       "source_url": "https://pellahealth.slicedhealth.io/pricer/42-0842204-1578520888_PellaRegionalHealthCenter_standardcharges.CSV",
       "normalized_sha256": "720ee34eb8bd9ebaecd952a06fb6e1d0098c0f3bf60021c8851feb901b1e64f5",
       "summary_sha256": "40fbe2cbee24f5b24b1ce874b4bf9a6a478d528ad32983d1a6c1d895f44e0b08",
       "normalized_extracted_at": "2026-11-14T16:46:36Z",
-      "summary_extracted_at": "2026-11-23T22:18:14Z"
+      "summary_extracted_at": "2026-11-24T21:22:03Z"
     },
     {
       "source_url": "https://www.merithealthwesley.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/522050792_merit-health-wesley_standardcharges.csv",
       "normalized_sha256": "749a7aacb5458b8649c2e9a6912a9db3980d5b83b3869377c0198764585345d5",
       "summary_sha256": "60021b283c677454ece3cff60c451cdc437af989935eae5b059e3d5962c736b2",
       "normalized_extracted_at": "2026-11-14T02:41:49Z",
-      "summary_extracted_at": "2026-11-23T22:02:27Z"
+      "summary_extracted_at": "2026-11-24T21:00:21Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13373/391027676_aurora-medical-center-fond-du-lac_standardcharges.csv",
       "normalized_sha256": "2218d31d6b93fb409a8c1c38d2d50796ee042d4ccb113d1691a07930b6c5ca78",
       "summary_sha256": "02aeb434a8a0b75cc997f9f6ccefd359d42c0fa6441bac6fada6896e21df2b62",
       "normalized_extracted_at": "2026-11-08T16:55:08Z",
-      "summary_extracted_at": "2026-11-23T21:48:19Z"
+      "summary_extracted_at": "2026-11-24T20:39:43Z"
     },
     {
       "source_url": "https://www.enmmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/742870118_eastern-new-mexico-medical-center_standardcharges.csv",
       "normalized_sha256": "06c3b8248cdcc84257af25cdb50520a0332076afedca37a98b5d10135e5ebc74",
       "summary_sha256": "5b0d125a15435c4d0b8f0da40e7e004606b436215938da6178d92d1e79e225cf",
       "normalized_extracted_at": "2026-11-11T02:06:39Z",
-      "summary_extracted_at": "2026-11-23T22:53:30Z"
+      "summary_extracted_at": "2026-11-24T22:12:06Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/813040663_baylor-scott--white-medical-center--austin_standardcharges.csv",
       "normalized_sha256": "b545804f6108d82cf280b579649de17af941f281d80403da9e359fb5e3af9ba4",
       "summary_sha256": "d2a246381766847a161bbe893f25b0ab2ea0c8c320c04f54553de0de0f8adac3",
       "normalized_extracted_at": "2026-11-08T01:40:35Z",
-      "summary_extracted_at": "2026-11-23T21:42:22Z"
+      "summary_extracted_at": "2026-11-24T20:31:01Z"
     },
     {
       "source_url": "https://bozemanhealth.org/wp-content/uploads/2025/01/01/474718253_big-sky-medical-center_standardcharges.json",
       "normalized_sha256": "5d34a9ea589d30ee442c675207c06e5e8abb5bd236fce2dc6411339ec0c03826",
       "summary_sha256": "31fd185e1da645865e94731f4afaa148ac2e9a4b771f2b8106c5cdbdf478e6a8",
       "normalized_extracted_at": "2026-11-08T16:57:52Z",
-      "summary_extracted_at": "2026-11-23T21:56:34Z"
+      "summary_extracted_at": "2026-11-24T20:51:49Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/390837206_marshfield-medical-center--rice-lake_standardcharges.zip",
       "normalized_sha256": "e51a2bc7188d7090dac4871d06e52e5c29e68c177463afa7a3d2a0bc73b51f97",
       "summary_sha256": "fe2b3fcd46a78a978a100d23aeb18f48ee80344999fbaacda25987d9dc27732a",
       "normalized_extracted_at": "2026-11-12T18:37:08Z",
-      "summary_extracted_at": "2026-11-23T21:51:21Z"
+      "summary_extracted_at": "2026-11-24T20:44:12Z"
     },
     {
       "source_url": "https://www.longviewregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762420_longview-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "be78e45223867e7ee623fce58c917ea6819f2e7fa8fa2d2137249ffb01ee692f",
       "summary_sha256": "03f47e33037f3c69473bd4fd565e29c0bbbb4ab80451e9f5e0fdbe242e87fba6",
       "normalized_extracted_at": "2026-11-13T02:51:02Z",
-      "summary_extracted_at": "2026-11-23T21:49:42Z"
+      "summary_extracted_at": "2026-11-24T20:41:54Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--minocqua_standardcharges.zip",
       "normalized_sha256": "3b38be96964898bee2e0bc9da9b971198e03d218dda28565b61bae39eee2d7c7",
       "summary_sha256": "3a9c665d99eb35d9666a142d2dc8d413dfee9925131ad75685043def1c0abe9f",
       "normalized_extracted_at": "2026-11-12T18:37:28Z",
-      "summary_extracted_at": "2026-11-23T21:50:55Z"
+      "summary_extracted_at": "2026-11-24T20:43:53Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8084/473455146_uchealth-grandview-hospital_standardcharges.csv",
       "normalized_sha256": "40df380a792212b72d4227be829f790ae045792dfcd41cafb8ac94c72d7e5b16",
       "summary_sha256": "029e007008abebbd977c0988c4f0c5a0367212af693ddd016b71df95ac4cbde5",
       "normalized_extracted_at": "2026-11-07T16:46:59Z",
-      "summary_extracted_at": "2026-11-23T23:14:19Z"
+      "summary_extracted_at": "2026-11-24T22:41:28Z"
     },
     {
       "source_url": "https://www.matsuregional.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/721563402_mat-su-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "f072332f5abf0c8a61aa179c1a1c4d6c753cd8dbe33ee7db049b8a113dbad045",
       "summary_sha256": "d1770fafd26d38022bc1cdd6257056eabc7162f1c50d05aa4a6cd2bb1575cf9a",
       "normalized_extracted_at": "2026-11-13T02:54:38Z",
-      "summary_extracted_at": "2026-11-23T21:51:47Z"
+      "summary_extracted_at": "2026-11-24T20:44:47Z"
     },
     {
       "source_url": "https://www.detar.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621754940_detar-healthcare-system-north_standardcharges.csv",
       "normalized_sha256": "d3b62264ddd02df2d7a30e580687ef173701958023e62afceea2d46e838e6596",
       "summary_sha256": "7978d3358129340ac077836a929a03686f8da3240ba91b8e26d8c92da26c324b",
       "normalized_extracted_at": "2026-11-10T18:15:18Z",
-      "summary_extracted_at": "2026-11-23T22:52:55Z"
+      "summary_extracted_at": "2026-11-24T22:11:23Z"
     },
     {
       "source_url": "https://www.tennovalafollette.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452528273_tennova-lafollette-medical-center_standardcharges.csv",
       "normalized_sha256": "fd34d29d70d0cda75a52e8c2fa53a1363e0e23b8a41ac17f433988b27622df6e",
       "summary_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
       "normalized_extracted_at": "2026-11-13T02:50:29Z",
-      "summary_extracted_at": "2026-11-23T21:48:43Z"
+      "summary_extracted_at": "2026-11-24T20:40:28Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11258/390806181_aurora-st-lukes-south-shore-of-aurora-health-care-metro-inc_standardcharges.csv",
       "normalized_sha256": "479aa507feea8c1fc4f22fa9aa305ce125ef919424fd6cdbbf3cf17fa3640dbd",
       "summary_sha256": "8d9d5d24bf611753da15dceb67c91f7cb6f1826c341a46c490f778d0a4e654dc",
       "normalized_extracted_at": "2026-11-08T16:58:10Z",
-      "summary_extracted_at": "2026-11-23T21:53:05Z"
+      "summary_extracted_at": "2026-11-24T20:46:21Z"
     },
     {
       "source_url": "https://www.merithealthcentral.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640907122_merit-health-central_standardcharges.csv",
       "normalized_sha256": "d8c6464336d2c3b62032a1a3c6f8bab5de5fa45c163aebdc27e1f975e7bbb769",
       "summary_sha256": "5fcaa26908ff57b9b6013e8be7b01c0d101ee652726d885d580de99c34a6d978",
       "normalized_extracted_at": "2026-11-14T02:42:46Z",
-      "summary_extracted_at": "2026-11-23T22:02:06Z"
+      "summary_extracted_at": "2026-11-24T20:59:39Z"
     },
     {
       "source_url": "https://www.lakegranburymedicalcenter.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/752682017_lake-granbury-medical-center_standardcharges.csv",
       "normalized_sha256": "643143807c90e77aac548d8022e252ca62e37530f138e5cdd84f6cbed4e6c09e",
       "summary_sha256": "c68d41a120ed2f0272dc5dc5252e46282463c8264f11bb8dcd4e3593ce30a98b",
       "normalized_extracted_at": "2026-11-13T02:49:46Z",
-      "summary_extracted_at": "2026-11-23T21:48:49Z"
+      "summary_extracted_at": "2026-11-24T20:40:32Z"
     },
     {
       "source_url": "https://www.merithealthnatchez.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640833457_merit-health-natchez_standardcharges.csv",
       "normalized_sha256": "73134f670bb4e020a4147ea1bd9ef464d4b2e61dad947d39c11cc7ac59f1cbf5",
       "summary_sha256": "a063f9a6ac35689813c4f2a27f275e4581fb6ca12fc6b39cc837870b9f6f4431",
       "normalized_extracted_at": "2026-11-14T02:41:49Z",
-      "summary_extracted_at": "2026-11-23T22:02:15Z"
+      "summary_extracted_at": "2026-11-24T21:00:00Z"
     },
     {
       "source_url": "https://apps.nmhs.net/files/pt_mrf/640926753_marion-regional-medical-center,-inc_standardcharges.json",
       "normalized_sha256": "3209f0428f8d47d61974f12036a591957231fb71ca3d02581e7fe403a1b74d60",
       "summary_sha256": "8cc3bba3427dc64f2530560cb36e7ae6cb584429fa01f10a9fc2083c9f0ef6c7",
       "normalized_extracted_at": "2026-11-12T18:36:24Z",
-      "summary_extracted_at": "2026-11-23T21:50:23Z"
+      "summary_extracted_at": "2026-11-24T20:43:06Z"
     },
     {
       "source_url": "https://apps.nmhs.net/files/pt_mrf/320583236_monroe-health-services-inc_standardcharges.json",
       "normalized_sha256": "d81b1f6a40a01b48e3ed675752dd9bb6187fbf51c9130ffb0b98fdfdee034d73",
       "summary_sha256": "462a9ebb6290e1643039b6b0259470e0ece62d11954df300056b7b2f3405b693",
       "normalized_extracted_at": "2026-11-13T18:03:28Z",
-      "summary_extracted_at": "2026-11-23T22:04:21Z"
+      "summary_extracted_at": "2026-11-24T21:03:35Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/5f6520a384/machine-readable/030343282_grace-cottage-hospital_standardcharges.json",
       "normalized_sha256": "3a715fec31c8f270cd07e2e2f167b1196579bcb6d84dd4346a10e75b04260e6d",
       "summary_sha256": "6a39ade4f4e08d5fe8b8d5292cc609f3eea0881921f7d3d46478d794549e1cf6",
       "normalized_extracted_at": "2026-11-11T02:06:06Z",
-      "summary_extracted_at": "2026-11-23T23:09:44Z"
+      "summary_extracted_at": "2026-11-24T22:34:34Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8083/611786722_longs-peak-hospital_standardcharges.csv",
       "normalized_sha256": "a66e35bb8a25846dba3e7eb20172e7f6740dd147b35af300fb85e5208c45392b",
       "summary_sha256": "ecdbbd388dca08d6dc502ceac559078d18a2c6dcd799f310e89a4c14a1550cc0",
       "normalized_extracted_at": "2026-11-07T16:49:50Z",
-      "summary_extracted_at": "2026-11-23T23:14:26Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8082/822666059_uchealth-greeley-hospital_standardcharges.csv",
-      "normalized_sha256": "732e2668460640fcc9530878d2065fdeb6219e632f043a5ca6b96ecf9528d309",
-      "summary_sha256": "873a438387df5b99a1c786efb802b82e793b110084c4a5f02cadac8d572d739b",
-      "normalized_extracted_at": "2026-11-07T16:43:59Z",
-      "summary_extracted_at": "2026-11-23T23:14:21Z"
+      "summary_extracted_at": "2026-11-24T22:41:41Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1437150984_saint-joseph-health-system-inc-saint-joseph-jessamine_standardcharges.csv",
@@ -605,133 +592,140 @@
       "normalized_sha256": "d3aefe7bc8f7096695276c46272eb893b83aebcadcaf07b22ea9058a5725f9b9",
       "summary_sha256": "ed0f858073b6e9b706e304a26eb3450ada056f6c389cbeddb8c34ac7482ce23f",
       "normalized_extracted_at": "2026-11-10T18:14:30Z",
-      "summary_extracted_at": "2026-11-23T22:52:51Z"
+      "summary_extracted_at": "2026-11-24T22:11:13Z"
     },
     {
       "source_url": "https://www.carlsbadmedicalcenter.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621762526_carlsbad-medical-center_standardcharges.csv",
       "normalized_sha256": "1b219eb34ef5d85c8bcb2ecce010b0b7751c06da9ddd216744c4d94c045963e2",
       "summary_sha256": "7a7de6dcbaddb55705a1035e4947a3f048c0b48c3260bb0156cbf3b711510397",
       "normalized_extracted_at": "2026-11-13T18:06:04Z",
-      "summary_extracted_at": "2026-11-23T22:14:07Z"
+      "summary_extracted_at": "2026-11-24T21:16:21Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/412101361_baylor-scott--white-the-heart-hospital--mckinney_standardcharges.csv",
       "normalized_sha256": "864845967ae4c98361cc05d442a7f2efba2b1a8eeabc01f2f393bd0543e2c155",
       "summary_sha256": "65d5a994af0aeb413942bc22f27a2fe8b0e1a87b19cccc4605d0eb0c685e0987",
       "normalized_extracted_at": "2026-11-08T01:42:14Z",
-      "summary_extracted_at": "2026-11-23T22:08:55Z"
+      "summary_extracted_at": "2026-11-24T21:09:26Z"
     },
     {
       "source_url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/230469150_the-chester-county-hospital_standardcharges.csv",
       "normalized_sha256": "ae67500331f3cb02ecaf4dcb4ecac03917e718020c517c5becfe1aaf40732590",
       "summary_sha256": "22df542ab7103820d3e868fd4dbd06c9101955d6063546135ef960dffe4cc94e",
       "normalized_extracted_at": "2026-11-08T01:45:12Z",
-      "summary_extracted_at": "2026-11-23T23:01:01Z"
+      "summary_extracted_at": "2026-11-24T22:22:54Z"
     },
     {
       "source_url": "https://www.baldwinhealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621811413_south-baldwin-regional-medical-center_standardcharges.csv",
       "normalized_sha256": "193fa945e88b6bae8829abced2fa2674f02eb6f5018402fcf554276afffe8bd0",
       "summary_sha256": "79cb462bdb250e0e640c396e462b3db314ecf2d087d104f1c16102834d1c2978",
       "normalized_extracted_at": "2026-11-08T16:54:04Z",
-      "summary_extracted_at": "2026-11-23T21:53:38Z"
+      "summary_extracted_at": "2026-11-24T20:47:04Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752834135_baylor-scott--white-heart-and-vascular-hospital--dallas_standardcharges.csv",
       "normalized_sha256": "20e3f3662e6676b7262e548f2de25d8321bdf4c462cec7f6c74abce726afbc75",
       "summary_sha256": "9c382ed2cb2896e946da775c36372b059542c0c46e8f83f53c81aa531b32d677",
       "normalized_extracted_at": "2026-11-08T01:43:55Z",
-      "summary_extracted_at": "2026-11-23T21:57:46Z"
+      "summary_extracted_at": "2026-11-24T20:52:51Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/EYUF-1731106135200/machine-readable/742425482_hill-regional-hospital_standardcharges.json",
       "normalized_sha256": "78453dd8a7e4e8008ad61aec469cab7e881b8412f4a07f283e4bb45656436760",
       "summary_sha256": "7178e244c160eb72bf8ec255a4f7b0f690a8771c72bfd2949b50c2ad128d053c",
       "normalized_extracted_at": "2026-11-12T03:12:01Z",
-      "summary_extracted_at": "2026-11-23T21:32:48Z"
+      "summary_extracted_at": "2026-11-24T20:17:14Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--river-region-at-stevens-point_standardcharges.zip",
       "normalized_sha256": "bb169ac307bb9b5327b0b55255134ab9d4f45c3a838ae5ecf1a59af8aae8b94a",
       "summary_sha256": "eb8a81ad9a29a134b8cd85d29e567fba73d1a5e372ef3e8efeee2893c851e9a9",
       "normalized_extracted_at": "2026-11-12T18:37:19Z",
-      "summary_extracted_at": "2026-11-23T21:51:25Z"
+      "summary_extracted_at": "2026-11-24T20:44:27Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/464007700_baylor-scott--white-medical-center--marble-falls_standardcharges.csv",
       "normalized_sha256": "995fa853c568a173262b21efcf4a4a35ff407e316691fe20c673b0863e36f633",
       "summary_sha256": "ef03557cfea91bbe4d2064951477caa727c7518e83f284448484ed8223108240",
       "normalized_extracted_at": "2026-11-08T01:47:31Z",
-      "summary_extracted_at": "2026-11-23T22:07:37Z"
+      "summary_extracted_at": "2026-11-24T21:07:55Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751777119_baylor-scott--white-medical-center--grapevine_standardcharges.csv",
       "normalized_sha256": "85441de64f0729d7bed3c4dc046914c18648230471af79eacd14238384780d36",
       "summary_sha256": "d1a7b81d46269dd47e1562e36fac35ea1eebf26dfcaf1f76af6b5dde0885e368",
       "normalized_extracted_at": "2026-11-08T01:49:00Z",
-      "summary_extracted_at": "2026-11-23T22:06:21Z"
+      "summary_extracted_at": "2026-11-24T21:06:45Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/ZZKG-1724785095238/machine-readable/94-1634554_oroville-hospital_standardcharges.json",
       "normalized_sha256": "811ced2459b82bad415c297f9b76e9074492c0511f62bf367afcfd9c0098ddc4",
       "summary_sha256": "f00df0e5ab7465b5a1294f69b8ff2d85adb8d6376ad2c477226098444408af0b",
       "normalized_extracted_at": "2026-11-14T16:47:58Z",
-      "summary_extracted_at": "2026-11-23T22:17:02Z"
+      "summary_extracted_at": "2026-11-24T21:20:18Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/810977948_marshfield-medical-center--eau-claire_standardcharges.zip",
       "normalized_sha256": "5141abfa293dde7677f271e9f8bf6b0527a1c3e6905ca501a73c1cd3d386a30d",
       "summary_sha256": "29fc14fcbd7599988871e9a45c93727512a22237266a9f057bf5563ed645000e",
       "normalized_extracted_at": "2026-11-12T18:37:52Z",
-      "summary_extracted_at": "2026-11-23T21:50:39Z"
+      "summary_extracted_at": "2026-11-24T20:43:25Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751844139_baylor-scott--white-medical-center-at-waxahachie_standardcharges.csv",
       "normalized_sha256": "e0f6c88199df65d0fba5b3a61d3f9ec985e412e2d6a740ce356a1644bcdc33c0",
       "summary_sha256": "7010045414ea5ae08f187fde6272026854a0c4b2488150dc5486f95c477ef789",
       "normalized_extracted_at": "2026-11-08T01:46:21Z",
-      "summary_extracted_at": "2026-11-23T22:08:37Z"
+      "summary_extracted_at": "2026-11-24T21:08:58Z"
     },
     {
       "source_url": "https://cueroregionalhospital.slicedhealth.io/pricer/746075588_cuero-regional-hospital_standardcharges.csv",
       "normalized_sha256": "8fb84f27e25935b7e9dbadf39a8f3045a0288ad2063fec93a48fd62fac869b1c",
       "summary_sha256": "412499a40eccd7ed4ea1eb7853b6aa755b11db0209d1c7268b2adf0c3f068fae",
       "normalized_extracted_at": "2026-11-10T04:20:43Z",
-      "summary_extracted_at": "2026-11-23T22:52:04Z"
+      "summary_extracted_at": "2026-11-24T22:09:56Z"
     },
     {
       "source_url": "https://www.mcehospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/631159023_medical-center-enterprise_standardcharges.csv",
       "normalized_sha256": "9c5544a4d6127d93cebef93de9b86144acfc80a503dcecde31187669bf1c2577",
       "summary_sha256": "d4b41bc67d91f7a22f95ff4f8d20b7c4c39b0ab8fac40521cbb3eab39258a521",
       "normalized_extracted_at": "2026-11-13T02:47:36Z",
-      "summary_extracted_at": "2026-11-23T21:52:49Z"
+      "summary_extracted_at": "2026-11-24T20:46:01Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8086/841179794_university-of-colorado-hospital-authority_standardcharges.csv",
       "normalized_sha256": "9b9c1ec84244a9277e23eb1acb384615e04a907d1996c5e84c239bd259950e7f",
       "summary_sha256": "08632880481e4848d88257ae1a4c26ad372c847d5d0a4d6edd1c8d98174b4fb1",
       "normalized_extracted_at": "2026-11-08T01:42:47Z",
-      "summary_extracted_at": "2026-11-23T23:14:39Z"
+      "summary_extracted_at": "2026-11-24T22:42:04Z"
+    },
+    {
+      "source_url": "https://secure.claraprice.net/price-transparency/ZVEI-1742918921118/machine-readable/810291695_big-sandy-medical-center_standardcharges.json",
+      "normalized_sha256": "370a46907b02e590bb602a8d5cdb2e7327115ce3083d39e49a2890bea7da3ed5",
+      "summary_sha256": "e7429afda4bf50b20a2417ed2440cc73f1949d8946275897b6f9b82140e2c8ac",
+      "normalized_extracted_at": "2026-11-08T01:58:28Z",
+      "summary_extracted_at": "2026-11-24T20:51:47Z"
     },
     {
       "source_url": "https://www.uvmhealth.org/sites/default/files/141364513_elizabethtown-community-hospital_standardcharges.csv",
       "normalized_sha256": "a27e9069b0c4a35decdf23d0e84818bbe0692ae56573c3d75f82be479935e82e",
       "summary_sha256": "e6647598311fcb6db947e8aafb484f6372c25ffba7bdf2877567f285aba2abda",
       "normalized_extracted_at": "2026-11-10T18:13:23Z",
-      "summary_extracted_at": "2026-11-23T22:53:37Z"
+      "summary_extracted_at": "2026-11-24T22:12:19Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/813040663_baylor-scott--white-medical-center--pflugerville_standardcharges.csv",
       "normalized_sha256": "2424389a4c870212922348db46b2cc702f9aabe3f590f4cd1a73c91ba7b7fe73",
       "summary_sha256": "59c348182e4240f04ee684cae1369403703dac5a164373eedcbac530870bd15c",
       "normalized_extracted_at": "2026-11-08T01:46:17Z",
-      "summary_extracted_at": "2026-11-23T22:07:46Z"
+      "summary_extracted_at": "2026-11-24T21:08:08Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741161944_baylor-scott--white-medical-center--hillcrest_standardcharges.csv",
       "normalized_sha256": "55a8cad339e7517494ba58e88e6c79bb2664c9ca10b7aa1fe9f86a8d13cbc590",
       "summary_sha256": "ad30d876b1e5c5390627e3205bc450bde2a4a698ed440ae4db11a382c4526a03",
       "normalized_extracted_at": "2026-11-08T01:54:58Z",
-      "summary_extracted_at": "2026-11-23T22:06:36Z"
+      "summary_extracted_at": "2026-11-24T21:06:59Z"
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-sewickley_standardcharges-April-2026.csv",
@@ -745,42 +739,42 @@
       "normalized_sha256": "c2c0e2d08c74e1afad106fadbff517fc2442da7697c618418f6fe16cecfbce39",
       "summary_sha256": "a17d99195673db534baa9bfc3e0367d848b2ddf4b0ac32fd67f7c65bde7f5042",
       "normalized_extracted_at": "2026-11-14T02:35:07Z",
-      "summary_extracted_at": "2026-11-23T22:05:42Z"
+      "summary_extracted_at": "2026-11-24T21:05:30Z"
     },
     {
       "source_url": "https://csdam.widen.net/content/dhzssnfvo0/original/840405257-1932112125_catholic-health-initiatives-colorado-st-francis-medical-center_standardcharges.csv",
       "normalized_sha256": "e2b6b156a2a7308aa5686dd5083e5793305c8ae8b1104e649b2cb9797e64deee",
       "summary_sha256": "d81dbac8eac7a2b152ac06135e6215943417ab2b33b35fb2c8bbbf353125e16f",
       "normalized_extracted_at": "2026-11-10T04:20:54Z",
-      "summary_extracted_at": "2026-11-23T22:30:43Z"
+      "summary_extracted_at": "2026-11-24T21:37:13Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/263603862_baylor-scott--white-the-heart-hospital--denton_standardcharges.csv",
       "normalized_sha256": "5a1de3d42405a6daa08dfd51720fb0c672611e9aa7ab9859447987c465864e46",
       "summary_sha256": "1b3dd66365e24bd67c319a8c2691e928872a903df211563c4caa9331903c1e7d",
       "normalized_extracted_at": "2026-11-08T01:45:15Z",
-      "summary_extracted_at": "2026-11-23T22:08:52Z"
+      "summary_extracted_at": "2026-11-24T21:09:17Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/813040663_baylor-scott--white-medical-center--buda_standardcharges.csv",
       "normalized_sha256": "0c7d7f982d26e912b88915c78ee1d72349c330ffb896be5185754966e73c7cbe",
       "summary_sha256": "1ffcf7e00430d9b3723079d5847e00a7aceb8830fb534c75cf80ba0bb0a60b9e",
       "normalized_extracted_at": "2026-11-08T01:40:07Z",
-      "summary_extracted_at": "2026-11-23T21:58:31Z"
+      "summary_extracted_at": "2026-11-24T20:53:17Z"
     },
     {
       "source_url": "https://www.heritagevalley.org/wp-content/uploads/2026/04/251801532_heritage-valley-beaver_standardcharges-April-2026.csv",
       "normalized_sha256": "ba8338028d3e89bb2af9af1272f3dcb93165398762be15474e8f91c91b5bfc6d",
       "summary_sha256": "8d6411790a7f195bdeaf4555e9e6c0d6fdc6b55f96b763133a5ede9e60ef18ba",
       "normalized_extracted_at": "2026-11-11T18:10:17Z",
-      "summary_extracted_at": "2026-11-23T21:32:41Z"
+      "summary_extracted_at": "2026-11-24T20:17:03Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/824052186_baylor-scott--white-medical-center--centennial_standardcharges.csv",
       "normalized_sha256": "62af0581b07a7dcdb8e4aa8aaa61636e70e7cd558f9e38dfd001db4a3cea5181",
       "summary_sha256": "d6079a9de3d126c669b9a0c0fe7a51a3398a04134daffc79e3921a98f5a2ccec",
       "normalized_extracted_at": "2026-11-08T01:48:54Z",
-      "summary_extracted_at": "2026-11-23T21:58:34Z"
+      "summary_extracted_at": "2026-11-24T20:53:34Z"
     },
     {
       "source_url": "https://www.vmfh.org/content/dam/vmfhorg/documents/price-transparency/910565546-1518912609_commonspirit-washington-community-care_standardcharges.json",
@@ -790,18 +784,11 @@
       "summary_extracted_at": "2026-11-10T19:11:11Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8087/821885403_uchealth-highlands-ranch-hospital_standardcharges.csv",
-      "normalized_sha256": "4e2c4bc6362292282d10aa08feee4fc2204b86aaa64f9c30cd9c351dd5ee7b44",
-      "summary_sha256": "0fe10c5c375819cb0d2791434d820454f7a922ca316962be0a5e4eb6532b3be9",
-      "normalized_extracted_at": "2026-11-07T16:46:48Z",
-      "summary_extracted_at": "2026-11-23T23:14:25Z"
-    },
-    {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/274434451_baylor-scott--white-medical-center--college-station_standardcharges.csv",
       "normalized_sha256": "0828cc0ac51532824ddf73040f0d4759dd59af534f373f1a56e245d125d7e8c0",
       "summary_sha256": "a2195841070ea9fdf99b0aac2d7b8a584f22aefbc6d6b53a9eeedae665fc3b3a",
       "normalized_extracted_at": "2026-11-08T01:47:33Z",
-      "summary_extracted_at": "2026-11-23T21:58:37Z"
+      "summary_extracted_at": "2026-11-24T20:53:42Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1447457775_saint-joseph-health-system-inc_standardcharges.csv",
@@ -815,21 +802,21 @@
       "normalized_sha256": "246a3e87e54fef31de0590b8b1abc43346be6461b64ca4b28fec0d3570b6b87a",
       "summary_sha256": "087ba24193c0656f50d5621c3b52e223e73e96de7c9fe253cbdac244017f7be3",
       "normalized_extracted_at": "2026-11-10T18:13:24Z",
-      "summary_extracted_at": "2026-11-23T22:52:01Z"
+      "summary_extracted_at": "2026-11-24T22:09:51Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/820551704_baylor-scott--white-medical-center--plano_standardcharges.csv",
       "normalized_sha256": "ccfc703152b84b170e2c606a349df937c18359c757a1796e5da6efc37564615d",
       "summary_sha256": "3a4eeb65622bcf4a7a79912e844338b7d7b967d55108ef9304f27682386f84ea",
       "normalized_extracted_at": "2026-11-08T01:49:30Z",
-      "summary_extracted_at": "2026-11-23T22:08:08Z"
+      "summary_extracted_at": "2026-11-24T21:08:23Z"
     },
     {
       "source_url": "https://www.carilionclinic.org/540549603_Carilion-Giles-Community-Hospital_StandardCharges.csv",
       "normalized_sha256": "427378d6fc0d60c2ed04d83d7ee91b6a91b08abb8ecbbc2872146a2011f7a233",
       "summary_sha256": "b11e4e7ba31504291c2a33f50ef89a8697b756042e7ad9829711ae9cc363b15a",
       "normalized_extracted_at": "2026-11-09T21:02:17Z",
-      "summary_extracted_at": "2026-11-23T22:13:08Z"
+      "summary_extracted_at": "2026-11-24T21:14:57Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1437150984_saint-joseph-health-system-inc-saint-joseph-hospital_standardcharges.csv",
@@ -843,63 +830,70 @@
       "normalized_sha256": "8b338e10c2492252bb3da226144edc5cad4dee333474947459a49245ba7e1bc7",
       "summary_sha256": "598e38d618c8c1fc456028f2c317570f41409fe18655a1de8baefd3a3932c0a6",
       "normalized_extracted_at": "2026-11-09T21:02:30Z",
-      "summary_extracted_at": "2026-11-23T22:14:19Z"
+      "summary_extracted_at": "2026-11-24T21:16:31Z"
     },
     {
       "source_url": "https://www.tennovaturkeycreek.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/452535623_tennova-turkey-creek-medical-center_standardcharges.csv",
       "normalized_sha256": "f4c6e576fc3d5dd60802d000cba5897cdf7f18ea5fe4399ef149a97b94298787",
       "summary_sha256": "00e21cd5de1d48079bc45e5b8e51a1a4118fbf0240278e7e6f6dec327346beb7",
       "normalized_extracted_at": "2026-11-17T04:45:42Z",
-      "summary_extracted_at": "2026-11-23T22:56:10Z"
+      "summary_extracted_at": "2026-11-24T22:15:54Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8077/460796114-1750940987_uchmhs_standardcharges.csv",
       "normalized_sha256": "96b050590bd70a2011458e0b99ca34bf28f1da6c0a279c03186211809a546742",
       "summary_sha256": "84d28d13e9d6ddfadfe0df9523f5c9fd3b794321ec8af7554e060ed85f6c69df",
       "normalized_extracted_at": "2026-11-07T16:47:32Z",
-      "summary_extracted_at": "2026-11-23T23:14:34Z"
+      "summary_extracted_at": "2026-11-24T22:41:55Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/202850920_baylor-scott--white-continuing-care-hospital_standardcharges.csv",
       "normalized_sha256": "4ac8e6d2607355efc556f01e9f4c38eb09cb0958934346ce6d718ed10d6d944a",
       "summary_sha256": "ebeaa177cd4f46a28d8a5e541968fc389ddc6f1d9607da0eea52cb53017f6b41",
       "normalized_extracted_at": "2026-11-07T16:50:04Z",
-      "summary_extracted_at": "2026-11-23T21:57:38Z"
+      "summary_extracted_at": "2026-11-24T20:52:42Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/stlum/soet/finance/price-transparency/752663904-1578547345_memorial-medical-center-san-augustine_standardcharges.json",
       "normalized_sha256": "67b9fcf31870816b89b87bde07e9230ba1f8f5c435e15ee8c14da143ad5a49dc",
       "summary_sha256": "d3aa892e1deaf146aef6a1540f70a1e6d108c3edf894d4577f5c47c0ca037a8b",
       "normalized_extracted_at": "2026-11-09T21:05:56Z",
-      "summary_extracted_at": "2026-11-23T22:28:02Z"
+      "summary_extracted_at": "2026-11-24T21:34:09Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/stlum/soet/finance/price-transparency/760436439-1689650616_memorial-hospital-of-polk-county_standardcharges.json",
       "normalized_sha256": "0f23ccc56705018b6affd0ce0f878fca0e262d6bb8592829078c3d8fd99d81ad",
       "summary_sha256": "bbab876748681daa786be8d6d71e8ed83a2eae15e30d21c8e63f93671519796a",
       "normalized_extracted_at": "2026-11-09T21:06:10Z",
-      "summary_extracted_at": "2026-11-23T22:27:58Z"
+      "summary_extracted_at": "2026-11-24T21:34:06Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8385/411266009_sanford-bemidji-medical-center_standardcharges.csv",
       "normalized_sha256": "ceaad10b314a9c28141fe5f89f7ea4fefb9941430e77f56d29dcbce46fa35adb",
       "summary_sha256": "39782d10bb3a06977e08f1de3dac1f39cf88bf3b00a05cee55f9adf9634f2d7d",
       "normalized_extracted_at": "2026-11-08T01:53:30Z",
-      "summary_extracted_at": "2026-11-23T23:11:28Z"
+      "summary_extracted_at": "2026-11-24T22:37:17Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/412101361_baylor-scott--white-the-heart-hospital--plano_standardcharges.csv",
       "normalized_sha256": "6e972ed9d6ca124d360d06ed279b939f1eb50b531b0f2bdce68d03f41e17b27b",
       "summary_sha256": "9dd36bc3135c131446c533e4f1f30e9e554a7b7a2638458d937e7d45c262378c",
       "normalized_extracted_at": "2026-11-08T01:45:52Z",
-      "summary_extracted_at": "2026-11-23T22:09:25Z"
+      "summary_extracted_at": "2026-11-24T21:09:30Z"
+    },
+    {
+      "source_url": "https://dam.upmc.com/-/media/upmc/locations/hospitals/documents/cdm-json-files/250965420_upmc-magee_standardcharges.csv?",
+      "normalized_sha256": "b84088fb75b690437202b699baa357068f2a6beee850eb89c0ce188f5d610192",
+      "summary_sha256": "546da576e50890d28ed2fb66cd5f80aff034fa842f557bf46ac636bb2c23c962",
+      "normalized_extracted_at": "2026-11-07T16:39:40Z",
+      "summary_extracted_at": "2026-11-24T22:44:40Z"
     },
     {
       "source_url": "https://www.merithealthriverregion.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621752111_merit-health-river-region_standardcharges.csv",
       "normalized_sha256": "662ac50491bafe12f3ff82f46efabd038df426657a3fce34a65dde89a034330d",
       "summary_sha256": "0f2dbdb7a127ee57fca62bd34ae7489767246c5ee8760aee429e70b6285c7f27",
       "normalized_extracted_at": "2026-11-14T02:43:02Z",
-      "summary_extracted_at": "2026-11-23T22:02:19Z"
+      "summary_extracted_at": "2026-11-24T21:00:09Z"
     },
     {
       "source_url": "https://www.ahn.org/content/dam/ahn/en/dmxahn/documents/patients-visitors/patients/financial-services/hospital-charges/251260215_jefferson-regional-medical-center_standardcharges.csv",
@@ -920,49 +914,56 @@
       "normalized_sha256": "cc8adeb6bd53fd7ae3848c8d002886208d8cf12caa4eb01aaadd2dbb130a475c",
       "summary_sha256": "c033545cc6b9f66863f1443b90b834f00eef07a474beaca70ea295eb200268bb",
       "normalized_extracted_at": "2026-11-11T18:09:57Z",
-      "summary_extracted_at": "2026-11-23T21:33:19Z"
+      "summary_extracted_at": "2026-11-24T20:17:58Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741595711_baylor-scott--white-medical-center--taylor_standardcharges.csv",
       "normalized_sha256": "3bfa2b60e641ef53a16aa2cd24e44e2591b74cacc6fa3db1322c3ee91407968f",
       "summary_sha256": "d6c3f43bae1cc9d29db47c66496c96aafe0afbbb78bf4cad2550ec4d73f0b3ba",
       "normalized_extracted_at": "2026-11-08T01:56:59Z",
-      "summary_extracted_at": "2026-11-23T22:08:28Z"
+      "summary_extracted_at": "2026-11-24T21:08:31Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751037591_baylor-scott--white-medical-center--frisco-at-pga-parkway_standardcharges.csv",
       "normalized_sha256": "4c1c2ca44692060e1bc0ed1c6c3ed96e46af38418230e83c39ababa008d01fa9",
       "summary_sha256": "9dcf13ca168d5c0ae8017c37d9b758a09422c7dc86045d79a3ee3c0611b2bdeb",
       "normalized_extracted_at": "2026-11-08T01:42:58Z",
-      "summary_extracted_at": "2026-11-23T21:58:46Z"
+      "summary_extracted_at": "2026-11-24T20:53:44Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/742519752_baylor-scott--white-medical-center--brenham_standardcharges.csv",
       "normalized_sha256": "2dd68424f1eb0f8271e69f544c67ce6b6222fdfee2b87d72a5d811bec4225c94",
       "summary_sha256": "f2b9f929714da9ee8f8c5b25c431e0ca6909832478d16959c740d2c2559a6c6c",
       "normalized_extracted_at": "2026-11-08T01:58:08Z",
-      "summary_extracted_at": "2026-11-23T21:58:12Z"
+      "summary_extracted_at": "2026-11-24T20:53:02Z"
+    },
+    {
+      "source_url": "https://www.henrycountyhospital.org/documents/344477047_henry-county-hospital_standardcharges.csv",
+      "normalized_sha256": "e0e2bfab09fa4dabf16e3eea4746c5dacdf8af8e157b45fff316057f714f010d",
+      "summary_sha256": "1aeceaaecc1e15955e901443ad15d25e96e2826ee6606b6b083ff6dd4c562d7e",
+      "normalized_extracted_at": "2026-11-12T03:11:56Z",
+      "summary_extracted_at": "2026-11-24T20:17:02Z"
     },
     {
       "source_url": "https://www.detar.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621754940_detar-healthcare-system-navarro_standardcharges.csv",
       "normalized_sha256": "cb8b1ec9ac175a022e9c1235a48664267eee6d7a140ab2bbb1222be5e49a6ce8",
       "summary_sha256": "d9b31af2763e001cb95f9175016f1f238ecd4e2aae06de67a92fd3ccf48babfd",
       "normalized_extracted_at": "2026-11-11T02:03:25Z",
-      "summary_extracted_at": "2026-11-23T22:52:55Z"
+      "summary_extracted_at": "2026-11-24T22:11:23Z"
     },
     {
       "source_url": "https://whidbeyhealth.org/wp-content/uploads/CMS/910843135_whidbeyhealth-medical-center_standardcharges.csv",
       "normalized_sha256": "74a659458c80b912cd83fec37222b67cd88726c05c596a352c2176e690b530fe",
       "summary_sha256": "062ad8a8bc6d0f9abe36e15edb89d95c357affe3fcf7ac180ea0a7f7504872ac",
       "normalized_extracted_at": "2026-11-17T19:20:13Z",
-      "summary_extracted_at": "2026-11-23T23:08:26Z"
+      "summary_extracted_at": "2026-11-24T22:32:49Z"
     },
     {
       "source_url": "https://www.alliancehealthdurant.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/581725656_alliancehealth-durant_standardcharges.csv",
       "normalized_sha256": "161dd1ebc8e532bd511213b11a78e402a0ee7a60db69ba4a311b72a7b9a6e537",
       "summary_sha256": "c881616b8727bb1c25befb3c44087515e4d8252e6d4621f2f8b4e1be8e2a9924",
       "normalized_extracted_at": "2026-11-07T16:53:05Z",
-      "summary_extracted_at": "2026-11-23T21:39:07Z"
+      "summary_extracted_at": "2026-11-24T20:26:16Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisj/soky/finance/price-transparency/611334601-1992701429_saint-joseph-health-system-inc_standardcharges.csv",
@@ -976,28 +977,28 @@
       "normalized_sha256": "e03fcf64902d7c08f1077e8ec6d3a59e1341e494b741a6973a192884051eb0ee",
       "summary_sha256": "48906b3a20a291a0f2b301bbea508e55e85cb0cc8a70d0a087df424b10ef38dd",
       "normalized_extracted_at": "2026-11-08T01:52:04Z",
-      "summary_extracted_at": "2026-11-23T21:57:58Z"
+      "summary_extracted_at": "2026-11-24T20:53:02Z"
     },
     {
       "source_url": "https://www.merithealthwomanshospital.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640780035_merit-health-womans-hospital_standardcharges.csv",
       "normalized_sha256": "f87ca0f8ca6405a8776414ac9a46cc1d5c74ebb3876e08c223762bdb44005392",
       "summary_sha256": "359db5888973d9c8bfeb9d7111c744bb93fa7ce691d84425504f3e30f7e31c6a",
       "normalized_extracted_at": "2026-11-14T02:39:54Z",
-      "summary_extracted_at": "2026-11-23T22:02:32Z"
+      "summary_extracted_at": "2026-11-24T21:00:27Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/752586857_baylor-scott--white-medical-center--irving_standardcharges.csv",
       "normalized_sha256": "865f35ffc9b9f4e0bc5d450fa586f78dcf570043eb6d6390d8205dc5a77ed68a",
       "summary_sha256": "84cb2ca4b9ddb200f7ffe5c3b632f30a4398b3db93a5de007d599afaab600e81",
       "normalized_extracted_at": "2026-11-08T01:47:55Z",
-      "summary_extracted_at": "2026-11-23T22:06:44Z"
+      "summary_extracted_at": "2026-11-24T21:07:25Z"
     },
     {
       "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751037591_baylor-scott--white-medical-center--mckinney_standardcharges.csv",
       "normalized_sha256": "b69864381ed06dd167f354b26b17089780871faadd9de82e3c6be9f467d2e79a",
       "summary_sha256": "8d3e99c481d517a28a5d607f3cf3f0c8d501c0c3474ef130403a0f820fe3d5dc",
       "normalized_extracted_at": "2026-11-08T01:46:53Z",
-      "summary_extracted_at": "2026-11-23T22:07:38Z"
+      "summary_extracted_at": "2026-11-24T21:07:59Z"
     }
   ],
   "normalized_without_successful_summary": [],

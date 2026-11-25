@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7945/420680452-1356433049_central-iowa-hospital-corporation_standardcharges.csv",
   "source_sha256": "a03260f25f9b395c54022581a2951638b5bac08be54f9d689eb6431bfcdb7a86",
   "download_bytes": 220797591,
-  "extracted_at": "2026-11-07T16:44:26Z",
+  "extracted_at": "2026-11-25T05:05:39Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 220797591,
+    "received": 220797591
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-iowa-lutheran-hospital__ac5a2766ad2778f7.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/unitypoint-health-iowa-lutheran-hospital__ac5a2766ad2778f7.jsonl.gz",
     "asset_sha256": "ac5a2766ad2778f75a6548c0d07aab3654a940ea7ab763f57677813cae9eee5a",
-    "published_at": "2026-11-07T16:56:31Z"
+    "published_at": "2026-11-25T05:11:10Z"
   }
 }

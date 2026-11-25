@@ -5,7 +5,7 @@
   "source_url": "https://pricetransparency.providence.org/socal/live/421672806_providence-little-co-of-mary-med-center-san-pedro_standardcharges.json",
   "source_sha256": "46193121b1ff59cf98c8aeb8716d42fb1dbf24912daa4b3a3e1c069c6a51faf2",
   "download_bytes": 219651353,
-  "extracted_at": "2026-11-07T16:39:24Z",
+  "extracted_at": "2026-11-25T04:59:07Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 219651353,
+    "received": 219651353
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "providence-little-co-of-mary-med-center-san-pedro__cbaf360d73adbd42.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-cb/providence-little-co-of-mary-med-center-san-pedro__cbaf360d73adbd42.jsonl.gz",
     "asset_sha256": "cbaf360d73adbd42f4f37af707a885fc817b9ba070637d0ea1f54c61ee3eab6c",
-    "published_at": "2026-11-07T16:55:40Z"
+    "published_at": "2026-11-25T05:10:46Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/7946/420680452-1396837951_central-iowa-hospital-corporation_standardcharges.csv",
   "source_sha256": "7750655541752464e0eafb3605933e4664b46d7cccc9135b016a7bfa053ed951",
   "download_bytes": 219249854,
-  "extracted_at": "2026-11-07T16:44:14Z",
+  "extracted_at": "2026-11-25T05:05:09Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 219249854,
+    "received": 219249854
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "unitypoint-health-iowa-methodist-medical-center__e390b9d90b3e8ac4.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e3/unitypoint-health-iowa-methodist-medical-center__e390b9d90b3e8ac4.jsonl.gz",
     "asset_sha256": "e390b9d90b3e8ac4f91ba151d9eb5a1ace45c7556b351369af10266c9261c697",
-    "published_at": "2026-11-07T16:56:33Z"
+    "published_at": "2026-11-25T05:11:12Z"
   }
 }
