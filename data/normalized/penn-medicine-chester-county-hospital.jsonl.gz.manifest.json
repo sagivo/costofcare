@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 436,
   "source_url": "https://tupa-q-001.sitecorecontenthub.cloud/api/public/content/230469150_the-chester-county-hospital_standardcharges.csv",
-  "source_sha256": "ae67500331f3cb02ecaf4dcb4ecac03917e718020c517c5becfe1aaf40732590",
-  "download_bytes": 476216540,
-  "extracted_at": "2026-11-08T01:45:12Z",
+  "source_sha256": "22df542ab7103820d3e868fd4dbd06c9101955d6063546135ef960dffe4cc94e",
+  "download_bytes": 476269826,
+  "extracted_at": "2026-11-26T04:21:36Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 476269826,
+    "received": 476269826
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-c5",
-    "asset_name": "penn-medicine-chester-county-hospital__c54f38df6cc97b19.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-c5/penn-medicine-chester-county-hospital__c54f38df6cc97b19.jsonl.gz",
-    "asset_sha256": "c54f38df6cc97b1975317685eea90f4586a50a95afcc7d35d00a2f3933eda253",
-    "published_at": "2026-11-08T02:04:28Z"
+    "release": "data-norm-e5",
+    "asset_name": "penn-medicine-chester-county-hospital__e5aa98fed4f3b5ce.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-e5/penn-medicine-chester-county-hospital__e5aa98fed4f3b5ce.jsonl.gz",
+    "asset_sha256": "e5aa98fed4f3b5cec4dab13477d64460d5aa22ffd5462e377a09374700a2a7c1",
+    "published_at": "2026-11-26T04:34:06Z"
   }
 }

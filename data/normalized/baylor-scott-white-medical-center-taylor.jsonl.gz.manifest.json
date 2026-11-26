@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 16126,
+  "records": 17554,
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741595711_baylor-scott--white-medical-center--taylor_standardcharges.csv",
-  "source_sha256": "3bfa2b60e641ef53a16aa2cd24e44e2591b74cacc6fa3db1322c3ee91407968f",
-  "download_bytes": 626525496,
-  "extracted_at": "2026-11-08T01:56:59Z",
+  "source_sha256": "d6c3f43bae1cc9d29db47c66496c96aafe0afbbb78bf4cad2550ec4d73f0b3ba",
+  "download_bytes": 671558295,
+  "extracted_at": "2026-11-26T04:32:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 671558295,
+    "received": 671558295
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-2d",
-    "asset_name": "baylor-scott-white-medical-center-taylor__2da6bbe437bc3307.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2d/baylor-scott-white-medical-center-taylor__2da6bbe437bc3307.jsonl.gz",
-    "asset_sha256": "2da6bbe437bc33073cc335fb09ba6955a17ba29ac9c6336f8beefa6b12cdd245",
-    "published_at": "2026-11-08T02:02:45Z"
+    "release": "data-norm-70",
+    "asset_name": "baylor-scott-white-medical-center-taylor__70e84ab1a2d558b9.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-70/baylor-scott-white-medical-center-taylor__70e84ab1a2d558b9.jsonl.gz",
+    "asset_sha256": "70e84ab1a2d558b9606e855263e5272c5f6f3f9636a1ec33c6dffcf9bdcd0c5c",
+    "published_at": "2026-11-26T04:33:39Z"
   }
 }

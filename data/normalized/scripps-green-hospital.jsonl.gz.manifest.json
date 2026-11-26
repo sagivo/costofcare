@@ -5,7 +5,7 @@
   "source_url": "https://apps.scripps.org/pricetransparency/951684089_Scripps-Green-Hospital_standardcharges.csv",
   "source_sha256": "e96bb9c8634bf6361e8234d1eeef796cf1da3b1ef06925354868381b83bee613",
   "download_bytes": 537741430,
-  "extracted_at": "2026-11-08T01:51:29Z",
+  "extracted_at": "2026-11-26T04:27:27Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 537741430,
+    "received": 537741430
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "scripps-green-hospital__7ef34831af4f11e9.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7e/scripps-green-hospital__7ef34831af4f11e9.jsonl.gz",
     "asset_sha256": "7ef34831af4f11e913593bd653685bfd0d82ae320ccc34ae61a196641dd016ae",
-    "published_at": "2026-11-08T02:04:41Z"
+    "published_at": "2026-11-26T04:34:20Z"
   }
 }

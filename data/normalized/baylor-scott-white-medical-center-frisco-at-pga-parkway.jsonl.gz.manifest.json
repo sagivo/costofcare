@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 17133,
+  "records": 16055,
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/751037591_baylor-scott--white-medical-center--frisco-at-pga-parkway_standardcharges.csv",
-  "source_sha256": "4c1c2ca44692060e1bc0ed1c6c3ed96e46af38418230e83c39ababa008d01fa9",
-  "download_bytes": 438304966,
-  "extracted_at": "2026-11-08T01:42:58Z",
+  "source_sha256": "9dcf13ca168d5c0ae8017c37d9b758a09422c7dc86045d79a3ee3c0611b2bdeb",
+  "download_bytes": 446643970,
+  "extracted_at": "2026-11-26T04:19:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 446643970,
+    "received": 446643970
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-ca",
-    "asset_name": "baylor-scott-white-medical-center-frisco-at-pga-parkway__ca926eeb1913a735.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ca/baylor-scott-white-medical-center-frisco-at-pga-parkway__ca926eeb1913a735.jsonl.gz",
-    "asset_sha256": "ca926eeb1913a73519bfd27926eb8447413d7364ba0673b54b638445d95825ae",
-    "published_at": "2026-11-08T02:02:27Z"
+    "release": "data-norm-8d",
+    "asset_name": "baylor-scott-white-medical-center-frisco-at-pga-parkway__8da6c7a9f4ab7205.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8d/baylor-scott-white-medical-center-frisco-at-pga-parkway__8da6c7a9f4ab7205.jsonl.gz",
+    "asset_sha256": "8da6c7a9f4ab720562196689961abd17296cb9836a53347ef97a9d38ddb64f67",
+    "published_at": "2026-11-26T04:33:10Z"
   }
 }

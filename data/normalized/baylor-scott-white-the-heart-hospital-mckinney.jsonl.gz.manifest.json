@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 13922,
+  "records": 11989,
   "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/412101361_baylor-scott--white-the-heart-hospital--mckinney_standardcharges.csv",
-  "source_sha256": "864845967ae4c98361cc05d442a7f2efba2b1a8eeabc01f2f393bd0543e2c155",
-  "download_bytes": 375295080,
-  "extracted_at": "2026-11-08T01:42:14Z",
+  "source_sha256": "65d5a994af0aeb413942bc22f27a2fe8b0e1a87b19cccc4605d0eb0c685e0987",
+  "download_bytes": 380071555,
+  "extracted_at": "2026-11-26T04:18:21Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 380071555,
+    "received": 380071555
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-4f",
-    "asset_name": "baylor-scott-white-the-heart-hospital-mckinney__4fafd14aa8306a05.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-4f/baylor-scott-white-the-heart-hospital-mckinney__4fafd14aa8306a05.jsonl.gz",
-    "asset_sha256": "4fafd14aa8306a057cf71e5b454d4daae01d3108021d40487e2ccc3e98e5b787",
-    "published_at": "2026-11-08T02:02:51Z"
+    "release": "data-norm-9f",
+    "asset_name": "baylor-scott-white-the-heart-hospital-mckinney__9fab4d5cd6bcf954.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-9f/baylor-scott-white-the-heart-hospital-mckinney__9fab4d5cd6bcf954.jsonl.gz",
+    "asset_sha256": "9fab4d5cd6bcf9543d1aee10e3501ae9d42fefc23b35385d6f8ce07f4d74097b",
+    "published_at": "2026-11-26T04:33:47Z"
   }
 }
