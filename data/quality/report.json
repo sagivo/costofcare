@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-26T19:52:24.254436+00:00",
+  "generated_at": "2026-11-26T21:37:37.449855+00:00",
   "definition": "Measured pipeline coverage and structural QA, NOT independently verified price accuracy",
   "counts": {
     "attempted_registry_entries": 4049,
     "successful_entries": 2778,
     "distinct_successful_mrf_urls": 2778,
-    "extracted_within_24h": 2229,
-    "sources_over_365_days_old": 178,
+    "extracted_within_24h": 2609,
+    "sources_over_365_days_old": 177,
     "source_date_unparseable": 133,
-    "hospital_code_aggregates": 359920,
+    "hospital_code_aggregates": 359918,
     "row_preserving_records": 24117554
   },
   "quarantined": 9,
@@ -185,7 +185,7 @@
     "45380": 2093,
     "45384": 1802,
     "45385": 2082,
-    "55700": 1641,
+    "55700": 1640,
     "59025": 2034,
     "71045": 2579,
     "71046": 2579,
@@ -194,7 +194,7 @@
     "76775": 2422,
     "76830": 2496,
     "76856": 2534,
-    "77014": 1220,
+    "77014": 1219,
     "77063": 2102,
     "77080": 2315,
     "77385": 1188,
@@ -96841,11 +96841,6 @@
       "ratio": 595.13
     },
     {
-      "id": "oria-ivinson_memorial_hospital-4e8e8",
-      "flag": "source_over_365_days_old",
-      "age_days": 390
-    },
-    {
       "id": "oria-ascension_saint_thomas_river_park-a05b9",
       "code": "12001",
       "payer": "Cigna",
@@ -172952,6 +172947,41 @@
       "payer": "Humana",
       "flag": "wide_payer_range_review",
       "ratio": 108.35
+    },
+    {
+      "id": "upmc-montefiore",
+      "code": "36415",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 1087.5
+    },
+    {
+      "id": "upmc-montefiore",
+      "code": "71045",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 132.2
+    },
+    {
+      "id": "upmc-montefiore",
+      "code": "81001",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 184.78
+    },
+    {
+      "id": "upmc-montefiore",
+      "code": "81001",
+      "payer": "Multiplan",
+      "flag": "wide_payer_range_review",
+      "ratio": 171.65
+    },
+    {
+      "id": "upmc-montefiore",
+      "code": "86140",
+      "payer": "Medicare",
+      "flag": "wide_payer_range_review",
+      "ratio": 100.34
     },
     {
       "id": "oria-arizona_general_hospital_mesa_hospital-3b786",
