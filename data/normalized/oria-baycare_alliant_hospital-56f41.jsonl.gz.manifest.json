@@ -5,7 +5,7 @@
   "source_url": "https://baycare.org/-/media/project/baycare/consumer-portal/billing-and-insurance/pricing-files-compressed/050615150_baycareallianthospital_standardcharges.zip",
   "source_sha256": "ba77953b2d4d440e87d268bc3a1a2fb90e1dba21f6bb76f2de8e535538f9c5f0",
   "download_bytes": 2480052,
-  "extracted_at": "2026-11-08T01:59:11Z",
+  "extracted_at": "2026-11-26T19:49:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 2480052,
+    "received": 2480052
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-baycare_alliant_hospital-56f41__f44141acaf188b7e.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f4/oria-baycare_alliant_hospital-56f41__f44141acaf188b7e.jsonl.gz",
     "asset_sha256": "f44141acaf188b7e6815708eb85afab0f549648eea55fe05e711f6bcc4990fb5",
-    "published_at": "2026-11-08T02:03:49Z"
+    "published_at": "2026-11-26T19:51:27Z"
   }
 }

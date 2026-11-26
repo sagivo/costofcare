@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T04:36:13.270602+00:00",
+  "generated_at": "2026-11-26T19:52:44.073711+00:00",
   "normalized_files": 2768,
   "quarantined": 9,
   "parser_versions": {
@@ -8,12 +8,12 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 2016,
-    "within_24h": 139,
-    "1_to_7_days": 613
+    "over_7_days": 2041,
+    "within_24h": 137,
+    "1_to_7_days": 590
   },
   "failed_attempt_classes": {
-    "other": 75,
+    "other": 79,
     "strict_encoding": 6,
     "http_429": 1
   },
@@ -74,13 +74,6 @@
       "summary_sha256": "14f1166134bf2e4b2e436d63543b5a2c714a59cfeaf00f970bcaf0a6de4d3dcd",
       "normalized_extracted_at": "2026-11-13T02:54:28Z",
       "summary_extracted_at": "2026-11-25T19:53:09Z"
-    },
-    {
-      "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/741166904_baylor-scott--white-medical-center--temple_standardcharges.csv",
-      "normalized_sha256": "1df2b0cc725c15dd16898caf7c7705d91e5cd3bfc24c9baef5f23682cbc4d257",
-      "summary_sha256": "68d22ef57a7c13a5c319857a61d76c5c3bb47c93cb0f97409895cfa2552cf9e5",
-      "normalized_extracted_at": "2026-11-08T01:58:54Z",
-      "summary_extracted_at": "2026-11-25T20:29:41Z"
     },
     {
       "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/chisv/soar/finance/price-transparency/710236913-1689628232_chi-st-vincent-hospital-hot-springs_standardcharges.csv",
@@ -291,13 +284,6 @@
       "summary_sha256": "b0e967c83e85dea0bf16179c223575d631d4954314b9cf5653cb39cd76edc3b8",
       "normalized_extracted_at": "2026-11-17T19:21:27Z",
       "summary_extracted_at": "2026-11-25T22:06:26Z"
-    },
-    {
-      "source_url": "https://secure.claraprice.net/price-transparency/RNAV-1731102747513/machine-readable/470379834_beatrice-community-hospital_standardcharges.json",
-      "normalized_sha256": "1abf4a10eca8866e0f8f3999188dc965e7b7efd3be3b0b1924d3090ba20f783e",
-      "summary_sha256": "7a38fd204c1d910776b5c34cd9993d44491a26e9ecb39a765be02dfac47a6c34",
-      "normalized_extracted_at": "2026-11-08T01:59:00Z",
-      "summary_extracted_at": "2026-11-25T20:05:37Z"
     },
     {
       "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/8079/824191576_uchealth-pikes-peak-regional-hospital_standardcharges.csv",
@@ -566,13 +552,6 @@
       "summary_extracted_at": "2026-11-25T19:59:59Z"
     },
     {
-      "source_url": "https://secure.claraprice.net/price-transparency/ZVEI-1742918921118/machine-readable/810291695_big-sandy-medical-center_standardcharges.json",
-      "normalized_sha256": "370a46907b02e590bb602a8d5cdb2e7327115ce3083d39e49a2890bea7da3ed5",
-      "summary_sha256": "e7429afda4bf50b20a2417ed2440cc73f1949d8946275897b6f9b82140e2c8ac",
-      "normalized_extracted_at": "2026-11-08T01:58:28Z",
-      "summary_extracted_at": "2026-11-25T20:06:31Z"
-    },
-    {
       "source_url": "https://www.uvmhealth.org/sites/default/files/141364513_elizabethtown-community-hospital_standardcharges.csv",
       "normalized_sha256": "a27e9069b0c4a35decdf23d0e84818bbe0692ae56573c3d75f82be479935e82e",
       "summary_sha256": "e6647598311fcb6db947e8aafb484f6372c25ffba7bdf2877567f285aba2abda",
@@ -704,13 +683,6 @@
       "summary_sha256": "bdcb6d17e01e6aab625e429a0735cf78a9715ce7ac20bb0888f4444594dcfbbb",
       "normalized_extracted_at": "2026-11-09T01:52:58Z",
       "summary_extracted_at": "2026-11-25T20:38:41Z"
-    },
-    {
-      "source_url": "https://wadcdn.azureedge.net/bswhealth/com/siteassets/pricing-transparency/742519752_baylor-scott--white-medical-center--brenham_standardcharges.csv",
-      "normalized_sha256": "2dd68424f1eb0f8271e69f544c67ce6b6222fdfee2b87d72a5d811bec4225c94",
-      "summary_sha256": "f2b9f929714da9ee8f8c5b25c431e0ca6909832478d16959c740d2c2559a6c6c",
-      "normalized_extracted_at": "2026-11-08T01:58:08Z",
-      "summary_extracted_at": "2026-11-25T20:09:46Z"
     },
     {
       "source_url": "https://www.henrycountyhospital.org/documents/344477047_henry-county-hospital_standardcharges.csv",

@@ -5,7 +5,7 @@
   "source_url": "https://aultman.org/pricing-transparency/2026/1891718375_aultman-orrville-hospital_standardcharges.json",
   "source_sha256": "bb99937273e3ca82d0bde213683ead97373bc111ef0c09ba0e3609c89db71523",
   "download_bytes": 24376292,
-  "extracted_at": "2026-11-08T02:00:08Z",
+  "extracted_at": "2026-11-26T19:50:35Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 24376292,
+    "received": 24376292
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aultman_orrville_hospital-57673__5a119c2fd8668f7a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-5a/oria-aultman_orrville_hospital-57673__5a119c2fd8668f7a.jsonl.gz",
     "asset_sha256": "5a119c2fd8668f7ab6024f789ac5bb980c726c565107eb5fd5998b5114cd7172",
-    "published_at": "2026-11-08T02:03:27Z"
+    "published_at": "2026-11-26T19:51:08Z"
   }
 }

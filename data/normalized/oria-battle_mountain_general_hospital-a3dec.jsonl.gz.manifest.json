@@ -5,7 +5,7 @@
   "source_url": "https://bmgh.org/resources/public-pricing/880186024_BattleMountainGeneralHospital_standardcharges-2026.csv",
   "source_sha256": "af7d1e821a066de48d6a03ad42231bf89b539fd9020a23e9c5f5218fc9132eb6",
   "download_bytes": 1411845,
-  "extracted_at": "2026-11-08T01:58:18Z",
+  "extracted_at": "2026-11-26T19:48:46Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 1411845,
+    "received": 1411845
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-battle_mountain_general_hospital-a3dec__a45dbf6864b3ffb8.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a4/oria-battle_mountain_general_hospital-a3dec__a45dbf6864b3ffb8.jsonl.gz",
     "asset_sha256": "a45dbf6864b3ffb8ce8ec19794793411c772894bea1f208a0db448a23d527fe4",
-    "published_at": "2026-11-08T02:03:48Z"
+    "published_at": "2026-11-26T19:51:25Z"
   }
 }

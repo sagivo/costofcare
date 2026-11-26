@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/TDCQ-1707436189518/machine-readable/262835957_aspire-behavioral-health_standardcharges.json",
   "source_sha256": "af61da6da83d2f585a372de5ca25a9d98bb01d5179bdcbea1113db02cc84e526",
   "download_bytes": 3761399,
-  "extracted_at": "2026-11-08T01:58:38Z",
+  "extracted_at": "2026-11-26T19:49:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 3761399,
+    "received": 3761399
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aspire_behavioral_health_hospital-8df3d__69be4dfd46c5d1f0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-69/oria-aspire_behavioral_health_hospital-8df3d__69be4dfd46c5d1f0.jsonl.gz",
     "asset_sha256": "69be4dfd46c5d1f0e816972415bda5db145f07e909a63939d055bad790d8c6ae",
-    "published_at": "2026-11-08T02:03:22Z"
+    "published_at": "2026-11-26T19:51:04Z"
   }
 }
