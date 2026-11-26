@@ -1,0 +1,25 @@
+{
+  "npi": "1215373998",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:34:02Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1215373998",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JENNIFER",
+      "last_name": "MELNICK",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "2174 HEWLETT AVE",
+        "city": "MERRICK",
+        "state": "NY",
+        "postal_code": "115663606"
+      },
+      "last_updated": "2021-02-04"
+    }
+  ]
+}

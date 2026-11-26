@@ -1,0 +1,25 @@
+{
+  "npi": "1215154133",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:33:51Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1215154133",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "NILOUFER",
+      "last_name": "MERCHANT",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "22 WILSON AVE NE",
+        "city": "SAINT CLOUD",
+        "state": "MN",
+        "postal_code": "563040440"
+      },
+      "last_updated": "2018-03-17"
+    }
+  ]
+}

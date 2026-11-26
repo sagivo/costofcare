@@ -1,0 +1,25 @@
+{
+  "npi": "1215231188",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:33:55Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1215231188",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MARGARET",
+      "last_name": "MALONE",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "1190 STAFFORD RD",
+        "city": "FALL RIVER",
+        "state": "MA",
+        "postal_code": "027213228"
+      },
+      "last_updated": "2011-01-06"
+    }
+  ]
+}

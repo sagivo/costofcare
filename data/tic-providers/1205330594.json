@@ -1,0 +1,25 @@
+{
+  "npi": "1205330594",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:32:53Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1205330594",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JEFFREY",
+      "last_name": "SHENFELD",
+      "primary_taxonomy": "Internal Medicine",
+      "location": {
+        "address_1": "41 E POST RD",
+        "city": "WHITE PLAINS",
+        "state": "NY",
+        "postal_code": "106014699"
+      },
+      "last_updated": "2025-02-26"
+    }
+  ]
+}

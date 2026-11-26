@@ -1,0 +1,25 @@
+{
+  "npi": "1205966702",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:33:18Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1205966702",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "PHYLLIS",
+      "last_name": "SHAPIRO",
+      "primary_taxonomy": "Acupuncturist",
+      "location": {
+        "address_1": "250 W 57TH ST",
+        "city": "NEW YORK",
+        "state": "NY",
+        "postal_code": "101070001"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

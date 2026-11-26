@@ -1,0 +1,25 @@
+{
+  "npi": "1215954722",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:34:13Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1215954722",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "PHILIP",
+      "last_name": "SHAIN",
+      "primary_taxonomy": "Psychiatry & Neurology, Child & Adolescent Psychiatry",
+      "location": {
+        "address_1": "2630 SALVIO ST",
+        "city": "CONCORD",
+        "state": "CA",
+        "postal_code": "945192532"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

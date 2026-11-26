@@ -1,0 +1,25 @@
+{
+  "npi": "1205289527",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:32:51Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1205289527",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ELAINE",
+      "last_name": "AMOND",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "3307 S COLLEGE AVE UNIT 200-13",
+        "city": "FORT COLLINS",
+        "state": "CO",
+        "postal_code": "805254196"
+      },
+      "last_updated": "2019-07-02"
+    }
+  ]
+}

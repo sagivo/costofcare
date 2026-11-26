@@ -1,0 +1,25 @@
+{
+  "npi": "1215246442",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:33:58Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1215246442",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DIANNA",
+      "last_name": "HAAS",
+      "primary_taxonomy": "Counselor, Mental Health",
+      "location": {
+        "address_1": "620 IRIS DR",
+        "city": "STERLING",
+        "state": "CO",
+        "postal_code": "807514716"
+      },
+      "last_updated": "2016-03-14"
+    }
+  ]
+}

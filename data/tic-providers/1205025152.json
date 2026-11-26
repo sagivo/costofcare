@@ -1,0 +1,25 @@
+{
+  "npi": "1205025152",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-26T20:32:41Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1205025152",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MARY",
+      "last_name": "MC DONALD",
+      "primary_taxonomy": "Psychologist, Clinical Child & Adolescent",
+      "location": {
+        "address_1": "1914 S COURT ST",
+        "city": "VISALIA",
+        "state": "CA",
+        "postal_code": "932775426"
+      },
+      "last_updated": "2007-10-16"
+    }
+  ]
+}
