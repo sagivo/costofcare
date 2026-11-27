@@ -3,9 +3,9 @@
   "schema_version": "1.0.0",
   "records": 10826,
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11258/390806181_aurora-st-lukes-south-shore-of-aurora-health-care-metro-inc_standardcharges.csv",
-  "source_sha256": "479aa507feea8c1fc4f22fa9aa305ce125ef919424fd6cdbbf3cf17fa3640dbd",
+  "source_sha256": "8d9d5d24bf611753da15dceb67c91f7cb6f1826c341a46c490f778d0a4e654dc",
   "download_bytes": 132621330,
-  "extracted_at": "2026-11-08T16:58:10Z",
+  "extracted_at": "2026-11-27T19:44:53Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 132621330,
+    "received": 132621330
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-58",
-    "asset_name": "oria-aurora_st_luke_s_south_shore_of_aurora_health_care_metro-a0879__58c4478c92ddabda.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-58/oria-aurora_st_luke_s_south_shore_of_aurora_health_care_metro-a0879__58c4478c92ddabda.jsonl.gz",
-    "asset_sha256": "58c4478c92ddabdaaaf8335672766743f17b2108654266e688f8730834639ffe",
-    "published_at": "2026-11-08T17:05:48Z"
+    "release": "data-norm-db",
+    "asset_name": "oria-aurora_st_luke_s_south_shore_of_aurora_health_care_metro-a0879__db485fed994efd95.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-aurora_st_luke_s_south_shore_of_aurora_health_care_metro-a0879__db485fed994efd95.jsonl.gz",
+    "asset_sha256": "db485fed994efd958fc3c0b7a32dd8c8575e7623d5ca33a808300a0cc18f72ba",
+    "published_at": "2026-11-27T19:46:22Z"
   }
 }

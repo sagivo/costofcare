@@ -1,11 +1,11 @@
 {
   "parser_version": "row-preserving-1.3",
   "schema_version": "1.0.0",
-  "records": 191,
+  "records": 196,
   "source_url": "https://bozemanhealth.org/wp-content/uploads/2025/01/01/474718253_big-sky-medical-center_standardcharges.json",
-  "source_sha256": "5d34a9ea589d30ee442c675207c06e5e8abb5bd236fce2dc6411339ec0c03826",
-  "download_bytes": 122862244,
-  "extracted_at": "2026-11-08T16:57:52Z",
+  "source_sha256": "31fd185e1da645865e94731f4afaa148ac2e9a4b771f2b8106c5cdbdf478e6a8",
+  "download_bytes": 124895881,
+  "extracted_at": "2026-11-27T19:44:18Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 124895881,
+    "received": 124895881
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -185,10 +190,10 @@
   "row_width_mismatch_records": 0,
   "preserves": "raw source fields, original payer and plan strings, modifiers, setting, billing class, methodology and source ordinal",
   "release_asset": {
-    "release": "data-norm-b3",
-    "asset_name": "oria-big_sky_medical_center-10e82__b3fd40a94c881ef6.jsonl.gz",
-    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-b3/oria-big_sky_medical_center-10e82__b3fd40a94c881ef6.jsonl.gz",
-    "asset_sha256": "b3fd40a94c881ef6c709116c373b72f67b28d8a9ce1128c40621f787f34a3ba3",
-    "published_at": "2026-11-08T17:07:26Z"
+    "release": "data-norm-7d",
+    "asset_name": "oria-big_sky_medical_center-10e82__7dd7d3dbd0452b74.jsonl.gz",
+    "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7d/oria-big_sky_medical_center-10e82__7dd7d3dbd0452b74.jsonl.gz",
+    "asset_sha256": "7dd7d3dbd0452b7405b21a10896ca55d2296a01a0c599c8a6de9057526c187a1",
+    "published_at": "2026-11-27T19:46:59Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11252/391027676_aurora-medical-center-oshkosh_standardcharges.csv",
   "source_sha256": "6653d801cc96c9d047b814f3e928cd1565840600e5a16796ad24c38d07258f8b",
   "download_bytes": 131298063,
-  "extracted_at": "2026-11-08T16:58:49Z",
+  "extracted_at": "2026-11-27T19:45:24Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 131298063,
+    "received": 131298063
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_medical_center_oshkosh-e710e__fc208937fd88ee8a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fc/oria-aurora_medical_center_oshkosh-e710e__fc208937fd88ee8a.jsonl.gz",
     "asset_sha256": "fc208937fd88ee8a2dca69b4bd600c5a39edf96ade650309355750d7e99fe03d",
-    "published_at": "2026-11-08T17:05:34Z"
+    "published_at": "2026-11-27T19:46:16Z"
   }
 }

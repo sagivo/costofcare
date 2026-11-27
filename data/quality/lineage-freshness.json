@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:29:10.148406+00:00",
+  "generated_at": "2026-11-27T19:48:18.150814+00:00",
   "normalized_files": 2768,
   "quarantined": 9,
   "parser_versions": {
@@ -8,9 +8,9 @@
     "row-preserving-1.1": 1
   },
   "extraction_age_buckets": {
-    "over_7_days": 2065,
-    "1_to_7_days": 607,
-    "within_24h": 96
+    "over_7_days": 2090,
+    "1_to_7_days": 548,
+    "within_24h": 130
   },
   "failed_attempt_classes": {
     "other": 79,
@@ -25,13 +25,6 @@
       "summary_sha256": "7b2d1939aa69a7a373fecad62240b5a1c8a16d48699255c2cff04fce15a3a436",
       "normalized_extracted_at": "2026-11-10T18:11:27Z",
       "summary_extracted_at": "2026-11-04T18:49:38Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11245/390806347_aurora-medical-center-mount-pleasant_standardcharges.csv",
-      "normalized_sha256": "1088ccef955fa3d933d386585713c5350d88bc10b5ac1a7dec293d88aa343c97",
-      "summary_sha256": "82555170e0d6f37c0d79e5400b346aa5f6d0b3bb0f7157720a13f2fd9fc54b33",
-      "normalized_extracted_at": "2026-11-08T16:58:07Z",
-      "summary_extracted_at": "2026-11-26T19:32:00Z"
     },
     {
       "source_url": "https://unmhealth.org/patients-visitors/_files/856003005_university-of-new-mexico-hospital_standardcharges.csv",
@@ -370,25 +363,11 @@
       "summary_extracted_at": "2026-11-26T19:53:04Z"
     },
     {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/13373/391027676_aurora-medical-center-fond-du-lac_standardcharges.csv",
-      "normalized_sha256": "2218d31d6b93fb409a8c1c38d2d50796ee042d4ccb113d1691a07930b6c5ca78",
-      "summary_sha256": "02aeb434a8a0b75cc997f9f6ccefd359d42c0fa6441bac6fada6896e21df2b62",
-      "normalized_extracted_at": "2026-11-08T16:55:08Z",
-      "summary_extracted_at": "2026-11-26T19:31:51Z"
-    },
-    {
       "source_url": "https://www.enmmc.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/742870118_eastern-new-mexico-medical-center_standardcharges.csv",
       "normalized_sha256": "06c3b8248cdcc84257af25cdb50520a0332076afedca37a98b5d10135e5ebc74",
       "summary_sha256": "5b0d125a15435c4d0b8f0da40e7e004606b436215938da6178d92d1e79e225cf",
       "normalized_extracted_at": "2026-11-11T02:06:39Z",
       "summary_extracted_at": "2026-11-26T21:01:23Z"
-    },
-    {
-      "source_url": "https://bozemanhealth.org/wp-content/uploads/2025/01/01/474718253_big-sky-medical-center_standardcharges.json",
-      "normalized_sha256": "5d34a9ea589d30ee442c675207c06e5e8abb5bd236fce2dc6411339ec0c03826",
-      "summary_sha256": "31fd185e1da645865e94731f4afaa148ac2e9a4b771f2b8106c5cdbdf478e6a8",
-      "normalized_extracted_at": "2026-11-08T16:57:52Z",
-      "summary_extracted_at": "2026-11-26T19:44:26Z"
     },
     {
       "source_url": "https://www.marshfieldclinic.org/-/media/marshfieldclinic/files/patient%20resources/cms-hpt-documents/390837206_marshfield-medical-center--rice-lake_standardcharges.zip",
@@ -431,13 +410,6 @@
       "summary_sha256": "06c888e4fddb731558548614b87f3c0920749ac46eff5a93ef0c1b11aff420e9",
       "normalized_extracted_at": "2026-11-13T02:50:29Z",
       "summary_extracted_at": "2026-11-26T19:32:33Z"
-    },
-    {
-      "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11258/390806181_aurora-st-lukes-south-shore-of-aurora-health-care-metro-inc_standardcharges.csv",
-      "normalized_sha256": "479aa507feea8c1fc4f22fa9aa305ce125ef919424fd6cdbbf3cf17fa3640dbd",
-      "summary_sha256": "8d9d5d24bf611753da15dceb67c91f7cb6f1826c341a46c490f778d0a4e654dc",
-      "normalized_extracted_at": "2026-11-08T16:58:10Z",
-      "summary_extracted_at": "2026-11-26T19:38:56Z"
     },
     {
       "source_url": "https://www.merithealthcentral.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/640907122_merit-health-central_standardcharges.csv",
@@ -508,13 +480,6 @@
       "summary_sha256": "7a7de6dcbaddb55705a1035e4947a3f048c0b48c3260bb0156cbf3b711510397",
       "normalized_extracted_at": "2026-11-13T18:06:04Z",
       "summary_extracted_at": "2026-11-26T20:08:51Z"
-    },
-    {
-      "source_url": "https://www.baldwinhealth.com/Uploads/Public/Documents/charge-masters/charge-masters-2024/621811413_south-baldwin-regional-medical-center_standardcharges.csv",
-      "normalized_sha256": "193fa945e88b6bae8829abced2fa2674f02eb6f5018402fcf554276afffe8bd0",
-      "summary_sha256": "79cb462bdb250e0e640c396e462b3db314ecf2d087d104f1c16102834d1c2978",
-      "normalized_extracted_at": "2026-11-08T16:54:04Z",
-      "summary_extracted_at": "2026-11-26T19:39:24Z"
     },
     {
       "source_url": "https://secure.claraprice.net/price-transparency/EYUF-1731106135200/machine-readable/742425482_hill-regional-hospital_standardcharges.json",

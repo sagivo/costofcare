@@ -5,7 +5,7 @@
   "source_url": "https://cdn.ardenthealthservices.com/price-transparency/20-1547519_Bailey-Medical-Center_standardcharges.csv",
   "source_sha256": "939f3b2b832ec55046a02157b40ccb743aeb7171b79c949f6f229e36c263e6b2",
   "download_bytes": 98810545,
-  "extracted_at": "2026-11-08T16:54:24Z",
+  "extracted_at": "2026-11-27T19:40:15Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 98810545,
+    "received": 98810545
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-bailey_medical_center-d1be4__83ab6fc92e54dee1.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-83/oria-bailey_medical_center-d1be4__83ab6fc92e54dee1.jsonl.gz",
     "asset_sha256": "83ab6fc92e54dee1bce6f314870a9ecb0cb167568d1869859af382f29fec869f",
-    "published_at": "2026-11-08T17:05:53Z"
+    "published_at": "2026-11-27T19:46:24Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11256/390806181_aurora-sinai-medical-center-of-aurora-health-care-metro-inc_standardcharges.csv",
   "source_sha256": "b0a2911f88ade4e56109d06a0ec4cc88c1ac693cb8a9bb24e6acabfd772adf23",
   "download_bytes": 133255071,
-  "extracted_at": "2026-11-08T16:58:28Z",
+  "extracted_at": "2026-11-27T19:45:08Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 133255071,
+    "received": 133255071
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_sinai_medical_center_of_aurora_health_care_metro-57090__43bc2cd923faca7a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-43/oria-aurora_sinai_medical_center_of_aurora_health_care_metro-57090__43bc2cd923faca7a.jsonl.gz",
     "asset_sha256": "43bc2cd923faca7aa193c24d6a6289064a73886c7e18b20ea7fc75292f9ed4d2",
-    "published_at": "2026-11-08T17:05:45Z"
+    "published_at": "2026-11-27T19:46:20Z"
   }
 }

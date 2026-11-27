@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11259/391022464_aurora-west-allis-medical-center_standardcharges.csv",
   "source_sha256": "2320c2f83fea8b5f686be88463184c10f33667d1352b9c8bdd5c22cc12f4e607",
   "download_bytes": 136702039,
-  "extracted_at": "2026-11-08T16:59:07Z",
+  "extracted_at": "2026-11-27T19:45:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 136702039,
+    "received": 136702039
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_west_allis_medical_center-641d9__39d763b6ec8e5a7a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-39/oria-aurora_west_allis_medical_center-641d9__39d763b6ec8e5a7a.jsonl.gz",
     "asset_sha256": "39d763b6ec8e5a7a38dd3f926be4f02d945999ef9da0600cc98944e29cff4841",
-    "published_at": "2026-11-08T17:05:50Z"
+    "published_at": "2026-11-27T19:46:23Z"
   }
 }

@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-27T04:29:10.132259+00:00",
-  "records_scanned": 378080,
+  "generated_at": "2026-11-27T19:48:18.125575+00:00",
+  "records_scanned": 473934,
   "quarantined": 9,
   "flag_counts": {},
   "review_examples": [],
   "populated_qualifier_counts": {
-    "setting": 378091,
-    "billing_class": 299410,
-    "payer_name": 370348,
-    "plan_name": 370348,
-    "modifiers": 36852,
-    "json_source_records": 3307,
-    "json_payer_name": 26246,
-    "json_plan_name": 26246,
-    "json_methodology": 26246
+    "setting": 473934,
+    "billing_class": 445308,
+    "payer_name": 469963,
+    "plan_name": 469963,
+    "modifiers": 38771,
+    "json_payer_name": 16700,
+    "json_plan_name": 16700,
+    "json_methodology": 16700,
+    "json_source_records": 650
   },
   "coverage_note": {
     "local_blob_files": 43,

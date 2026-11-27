@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T04:28:17Z",
+  "generated_at": "2026-11-27T19:46:59Z",
   "data_dir": "data/normalized",
   "release_prefix": "data-norm",
   "counts": {
     "files_total": 43,
     "already_published": 0,
-    "uploaded_this_run": 0,
-    "idempotent_skips": 43,
+    "uploaded_this_run": 5,
+    "idempotent_skips": 38,
     "quarantined_skips": 9,
     "verified_this_run": 43,
     "errors": 0,

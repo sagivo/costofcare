@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11246/390806347_aurora-medical-center-burlington_standardcharges.csv",
   "source_sha256": "b624cc1450837e54fecd88acef338e08b658afbe56543d465d5747e6b3db47ce",
   "download_bytes": 116725059,
-  "extracted_at": "2026-11-08T16:57:31Z",
+  "extracted_at": "2026-11-27T19:43:54Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 116725059,
+    "received": 116725059
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_medical_center_burlington-0460b__db934992a1661e5d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-db/oria-aurora_medical_center_burlington-0460b__db934992a1661e5d.jsonl.gz",
     "asset_sha256": "db934992a1661e5dea1d80886c29730c6ab732aa8aff201714c7674c6d1f1fa8",
-    "published_at": "2026-11-08T17:05:21Z"
+    "published_at": "2026-11-27T19:46:09Z"
   }
 }

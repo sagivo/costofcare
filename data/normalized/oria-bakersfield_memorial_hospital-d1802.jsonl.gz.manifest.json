@@ -5,7 +5,7 @@
   "source_url": "https://www.commonspirit.org/content/dam/commonspiritorg/en/dhcva/cacv/finance/price-transparency/951802779-1467538520_bakersfield-memorial-hospital_standardcharges.json",
   "source_sha256": "5907125f5bd58526d5a316db1c90b4661b56aedc8c3840516b8ad9b83be7e3bb",
   "download_bytes": 137595993,
-  "extracted_at": "2026-11-08T16:58:12Z",
+  "extracted_at": "2026-11-27T19:44:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 137595993,
+    "received": 137595993
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-bakersfield_memorial_hospital-d1802__828e990fd3f3800a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-82/oria-bakersfield_memorial_hospital-d1802__828e990fd3f3800a.jsonl.gz",
     "asset_sha256": "828e990fd3f3800a75fa21081dd48ed282cc2d01f1bed31a5b2ae6ae73b78a4a",
-    "published_at": "2026-11-08T17:05:56Z"
+    "published_at": "2026-11-27T19:46:26Z"
   }
 }

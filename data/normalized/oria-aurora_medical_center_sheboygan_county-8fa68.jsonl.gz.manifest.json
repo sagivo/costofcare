@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11255/390930748_aurora-medical-center-sheboygan-county_standardcharges.csv",
   "source_sha256": "66e2395110c0aa206f5be2554039cf0916b99beb5b6b0c921bcd2a564ddeee92",
   "download_bytes": 133571998,
-  "extracted_at": "2026-11-08T16:58:09Z",
+  "extracted_at": "2026-11-27T19:44:49Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 133571998,
+    "received": 133571998
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_medical_center_sheboygan_county-8fa68__7133d62fe29bd83a.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-71/oria-aurora_medical_center_sheboygan_county-8fa68__7133d62fe29bd83a.jsonl.gz",
     "asset_sha256": "7133d62fe29bd83a365ce364642c87d6c2437546ce2f080886315a831cd3c6ab",
-    "published_at": "2026-11-08T17:05:36Z"
+    "published_at": "2026-11-27T19:46:17Z"
   }
 }
