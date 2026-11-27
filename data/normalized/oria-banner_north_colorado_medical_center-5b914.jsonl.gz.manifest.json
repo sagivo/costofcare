@@ -5,7 +5,7 @@
   "source_url": "https://images.pricetransparency.healthcare/public-mrfs/banner/841287638_banner-north-colorado-medical-center_standardcharges.csv",
   "source_sha256": "505667e76aaa7803d44a670ee04ddc3b07b81da8702657983a40c1eb1f168997",
   "download_bytes": 81066167,
-  "extracted_at": "2026-11-08T16:52:09Z",
+  "extracted_at": "2026-11-27T04:26:32Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 81066167,
+    "received": 81066167
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-banner_north_colorado_medical_center-5b914__2cca2b52054b9360.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-2c/oria-banner_north_colorado_medical_center-5b914__2cca2b52054b9360.jsonl.gz",
     "asset_sha256": "2cca2b52054b9360116999104e11b6e5197d70d87e36e7558b703079ee934eb9",
-    "published_at": "2026-11-08T17:06:20Z"
+    "published_at": "2026-11-27T04:27:31Z"
   }
 }

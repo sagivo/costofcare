@@ -5,7 +5,7 @@
   "source_url": "https://toppenish.pg.revenuemasters.com/cdm-files/814670687_astria-toppenish-hospital_standardcharges.csv",
   "source_sha256": "c354a63f161b24ef3989b0421139c65e5fc62dda4931982f53b53f11760179c2",
   "download_bytes": 38606204,
-  "extracted_at": "2026-11-08T16:47:09Z",
+  "extracted_at": "2026-11-27T04:24:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 38606204,
+    "received": 38606204
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-astria_toppenish_hospital-ec292__8c348476d70ffd7f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-8c/oria-astria_toppenish_hospital-ec292__8c348476d70ffd7f.jsonl.gz",
     "asset_sha256": "8c348476d70ffd7f3c6369a85370bec4e97f59ef0df7f95d0f58f1b9ec195203",
-    "published_at": "2026-11-08T17:05:11Z"
+    "published_at": "2026-11-27T04:27:17Z"
   }
 }

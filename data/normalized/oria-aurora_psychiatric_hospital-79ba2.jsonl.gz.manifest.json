@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11254/390872192_aurora-psychiatric-hospital_standardcharges.csv",
   "source_sha256": "e122ad02f3727709fd95b17eacebe2bea11fe1b7da82177707f395e85220740d",
   "download_bytes": 61044563,
-  "extracted_at": "2026-11-08T16:50:31Z",
+  "extracted_at": "2026-11-27T04:25:41Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 61044563,
+    "received": 61044563
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_psychiatric_hospital-79ba2__bc1219973836ea0f.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-bc/oria-aurora_psychiatric_hospital-79ba2__bc1219973836ea0f.jsonl.gz",
     "asset_sha256": "bc1219973836ea0fe3f3adf19a5b40b4634211695097ca2bb4eef4c608925553",
-    "published_at": "2026-11-08T17:05:43Z"
+    "published_at": "2026-11-27T04:27:20Z"
   }
 }

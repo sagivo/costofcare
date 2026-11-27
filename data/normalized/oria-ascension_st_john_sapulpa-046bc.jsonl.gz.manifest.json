@@ -5,7 +5,7 @@
   "source_url": "https://healthcare.ascension.org/-/media/project/ascension/healthcare/price-transparency-files/ok-csv/730662663_st-john-sapulpa-inc_standardcharges.csv",
   "source_sha256": "a65ea8f0fdfbe06b6f0881ff9330766ea6c7efd1335ff5241c6b6be57295af96",
   "download_bytes": 22530419,
-  "extracted_at": "2026-11-08T02:01:35Z",
+  "extracted_at": "2026-11-27T04:24:17Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 22530419,
+    "received": 22530419
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-ascension_st_john_sapulpa-046bc__a756f1ac96956f6c.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-a7/oria-ascension_st_john_sapulpa-046bc__a756f1ac96956f6c.jsonl.gz",
     "asset_sha256": "a756f1ac96956f6c6428e7825383f96b78fb6c08c41e42acba85d7d34fbd9ada",
-    "published_at": "2026-11-08T02:03:12Z"
+    "published_at": "2026-11-27T04:27:06Z"
   }
 }
