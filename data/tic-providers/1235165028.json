@@ -1,0 +1,25 @@
+{
+  "npi": "1235165028",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-27T20:20:13Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1235165028",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "IRIS",
+      "last_name": "NEWBURY",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "23276 S POINTE DR",
+        "city": "LAGUNA HILLS",
+        "state": "CA",
+        "postal_code": "926531432"
+      },
+      "last_updated": "2012-07-30"
+    }
+  ]
+}

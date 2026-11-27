@@ -1,0 +1,25 @@
+{
+  "npi": "1225436397",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-27T20:20:04Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1225436397",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JENNIFER",
+      "last_name": "STORLIE",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "5201 GREAT AMERICA PKWY STE 320",
+        "city": "SANTA CLARA",
+        "state": "CA",
+        "postal_code": "95054"
+      },
+      "last_updated": "2019-01-23"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1225106578",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-27T20:19:44Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1225106578",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SHARON",
+      "last_name": "WALKER",
+      "primary_taxonomy": "Psychologist, Clinical",
+      "location": {
+        "address_1": "197 WATER ST",
+        "city": "KEENE",
+        "state": "NH",
+        "postal_code": "034314240"
+      },
+      "last_updated": "2013-02-05"
+    }
+  ]
+}

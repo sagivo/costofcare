@@ -1,0 +1,25 @@
+{
+  "npi": "1225309578",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-27T20:20:01Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1225309578",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "DAFNAH",
+      "last_name": "MERON",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "150 LOWER WESTFIELD RD STE 1",
+        "city": "HOLYOKE",
+        "state": "MA",
+        "postal_code": "010402676"
+      },
+      "last_updated": "2024-04-24"
+    }
+  ]
+}

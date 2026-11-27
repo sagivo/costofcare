@@ -1,0 +1,25 @@
+{
+  "npi": "1225163231",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-27T20:19:53Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1225163231",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "KIMBERLY",
+      "last_name": "COOKE",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "1180 BEACON ST",
+        "city": "BROOKLINE",
+        "state": "MA",
+        "postal_code": "024463885"
+      },
+      "last_updated": "2008-06-25"
+    }
+  ]
+}

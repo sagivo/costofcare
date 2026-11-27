@@ -1,0 +1,25 @@
+{
+  "npi": "1225055775",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-27T20:19:32Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1225055775",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SUHAILA",
+      "last_name": "HUSSAIN",
+      "primary_taxonomy": "Pediatrics",
+      "location": {
+        "address_1": "512 HAMILTON AVE",
+        "city": "TRENTON",
+        "state": "NJ",
+        "postal_code": "08609"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}
