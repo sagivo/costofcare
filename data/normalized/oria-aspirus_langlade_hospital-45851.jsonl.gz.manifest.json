@@ -5,7 +5,7 @@
   "source_url": "https://www.aspirus.org/Uploads/Public/Documents/PriceEstimate/TransparencyFY26/390806429_aspirus-langlade-hospital_standardcharges.json",
   "source_sha256": "f4e538af4d13e5f53f1ef82bf4259bb998f98d87bc8aafbeb0fecee6c03473f4",
   "download_bytes": 153520320,
-  "extracted_at": "2026-11-08T17:00:52Z",
+  "extracted_at": "2026-11-28T04:04:58Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 153520320,
+    "received": 153520320
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aspirus_langlade_hospital-45851__0e267f3652cb717d.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-0e/oria-aspirus_langlade_hospital-45851__0e267f3652cb717d.jsonl.gz",
     "asset_sha256": "0e267f3652cb717db77bbb49c9d615d7c96477798e8207d004092564f1a7e921",
-    "published_at": "2026-11-08T17:04:51Z"
+    "published_at": "2026-11-28T04:10:47Z"
   }
 }

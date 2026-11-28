@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11257/390806181_aurora-st-lukes-medical-center-of-aurora-health-care-metro-inc_standardcharges.csv",
   "source_sha256": "f017985f1157d23738f2a2cf840f7f4da2196aa10e0fd9e542df2b4315dcc03e",
   "download_bytes": 218904189,
-  "extracted_at": "2026-11-09T01:49:57Z",
+  "extracted_at": "2026-11-28T04:06:16Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 218904189,
+    "received": 218904189
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_st_luke_s_medical_center_of_aurora_health_care_metro-bb20c__d0a2adfb5e236433.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/oria-aurora_st_luke_s_medical_center_of_aurora_health_care_metro-bb20c__d0a2adfb5e236433.jsonl.gz",
     "asset_sha256": "d0a2adfb5e2364330599ffd3fdeabd04d39f6ef53ff37f30795d4d86d51dc44c",
-    "published_at": "2026-11-09T02:00:53Z"
+    "published_at": "2026-11-28T04:11:07Z"
   }
 }

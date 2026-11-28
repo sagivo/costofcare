@@ -5,7 +5,7 @@
   "source_url": "https://sthpiprd.blob.core.windows.net/machine-readable-files/11247/272953799_aurora-medical-center-grafton_standardcharges.csv",
   "source_sha256": "28158f6d0fcf1e230ea2a976cad20fcc050290e83493756f9eb5987c59922af1",
   "download_bytes": 167968645,
-  "extracted_at": "2026-11-08T17:01:11Z",
+  "extracted_at": "2026-11-28T04:05:11Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 167968645,
+    "received": 167968645
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-aurora_medical_center_grafton-16ca2__7a131dae28d6aeaf.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-7a/oria-aurora_medical_center_grafton-16ca2__7a131dae28d6aeaf.jsonl.gz",
     "asset_sha256": "7a131dae28d6aeaf8b498d1512b7f334d2d70f795e8dd40849f7849e08be45fa",
-    "published_at": "2026-11-08T17:05:26Z"
+    "published_at": "2026-11-28T04:11:04Z"
   }
 }
