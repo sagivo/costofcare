@@ -1,0 +1,25 @@
+{
+  "npi": "1275158792",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:09:56Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1275158792",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "SAYWARD",
+      "last_name": "MCCULLOUGH",
+      "primary_taxonomy": "Nurse Practitioner, Psych/Mental Health",
+      "location": {
+        "address_1": "400 N CENTER DR STE 100",
+        "city": "NORFOLK",
+        "state": "VA",
+        "postal_code": "235020002"
+      },
+      "last_updated": "2025-07-24"
+    }
+  ]
+}

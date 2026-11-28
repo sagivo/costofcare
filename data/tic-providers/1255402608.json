@@ -1,0 +1,25 @@
+{
+  "npi": "1255402608",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:08:38Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1255402608",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JOHN",
+      "last_name": "WEINSTEIN",
+      "primary_taxonomy": "Psychiatry & Neurology, Psychiatry",
+      "location": {
+        "address_1": "12373 LEWIS ST",
+        "city": "GARDEN GROVE",
+        "state": "CA",
+        "postal_code": "928404676"
+      },
+      "last_updated": "2016-12-13"
+    }
+  ]
+}

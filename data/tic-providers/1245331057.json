@@ -1,0 +1,25 @@
+{
+  "npi": "1245331057",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:08:11Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1245331057",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "URMIL",
+      "last_name": "GUPTA",
+      "primary_taxonomy": "Internal Medicine, Geriatric Medicine",
+      "location": {
+        "address_1": "340 ROUTE 202",
+        "city": "SOMERS",
+        "state": "NY",
+        "postal_code": "105893237"
+      },
+      "last_updated": "2015-07-28"
+    }
+  ]
+}

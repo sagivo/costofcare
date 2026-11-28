@@ -1,0 +1,25 @@
+{
+  "npi": "1255495693",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:08:55Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1255495693",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JOHN",
+      "last_name": "KRATZER",
+      "primary_taxonomy": "Psychiatry & Neurology, Psychiatry",
+      "location": {
+        "address_1": "3181 SW SAM JACKSON PARK RD",
+        "city": "PORTLAND",
+        "state": "OR",
+        "postal_code": "972393011"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}

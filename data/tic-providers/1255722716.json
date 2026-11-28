@@ -1,0 +1,25 @@
+{
+  "npi": "1255722716",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:09:10Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1255722716",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "CAROL",
+      "last_name": "VIVORI",
+      "primary_taxonomy": "Clinical Nurse Specialist, Psych/Mental Health, Adult",
+      "location": {
+        "address_1": "132 MASS MOCA WAY",
+        "city": "NORTH ADAMS",
+        "state": "MA",
+        "postal_code": "012472446"
+      },
+      "last_updated": "2016-01-08"
+    }
+  ]
+}

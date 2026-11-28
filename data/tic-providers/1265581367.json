@@ -1,0 +1,25 @@
+{
+  "npi": "1265581367",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:09:42Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1265581367",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MELISSA",
+      "last_name": "BAILEY",
+      "primary_taxonomy": null,
+      "location": {
+        "address_1": "37 HILLSIDE AVE",
+        "city": "PRINCETON",
+        "state": "NJ",
+        "postal_code": "085401403"
+      },
+      "last_updated": "2025-09-11"
+    }
+  ]
+}

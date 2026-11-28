@@ -1,0 +1,25 @@
+{
+  "npi": "1265606719",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:09:45Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1265606719",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "JO ANN",
+      "last_name": "TELFAIR RICHARDS",
+      "primary_taxonomy": "Counselor, Professional",
+      "location": {
+        "address_1": "27 RIVER RD",
+        "city": "NEWCASTLE",
+        "state": "ME",
+        "postal_code": "045533845"
+      },
+      "last_updated": "2008-04-16"
+    }
+  ]
+}

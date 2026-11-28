@@ -1,0 +1,25 @@
+{
+  "npi": "1255741237",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:09:11Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1255741237",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "ANN",
+      "last_name": "BOMBERG",
+      "primary_taxonomy": "Social Worker, Clinical",
+      "location": {
+        "address_1": "1630 DRY CREEK DR STE 100-B",
+        "city": "LONGMONT",
+        "state": "CO",
+        "postal_code": "805036409"
+      },
+      "last_updated": "2026-03-31"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1265899710",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:09:52Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1265899710",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MAGGIE",
+      "last_name": "ANKENY",
+      "primary_taxonomy": "Nurse Practitioner, Psych/Mental Health",
+      "location": {
+        "address_1": "1200 HILYARD ST STE 420",
+        "city": "EUGENE",
+        "state": "OR",
+        "postal_code": "974018161"
+      },
+      "last_updated": "2019-04-01"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "npi": "1255470696",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:08:51Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1255470696",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "BRUCE",
+      "last_name": "ALTMAN",
+      "primary_taxonomy": "Psychologist",
+      "location": {
+        "address_1": "500 MARKET ST UNIT 1G",
+        "city": "PORTSMOUTH",
+        "state": "NH",
+        "postal_code": "038013456"
+      },
+      "last_updated": "2016-03-24"
+    }
+  ]
+}

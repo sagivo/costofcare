@@ -1,0 +1,25 @@
+{
+  "npi": "1265599880",
+  "source": "NPPES public registry API v2.1",
+  "source_url": "https://npiregistry.cms.hhs.gov/api/",
+  "looked_up_at": "2026-11-28T19:09:44Z",
+  "join_semantics": "registry facts for this NPI only; not a verified hospital-identity join",
+  "result_count": 1,
+  "results": [
+    {
+      "number": "1265599880",
+      "enumeration_type": "NPI-1",
+      "organization_name": null,
+      "first_name": "MICHELLE",
+      "last_name": "BURKE",
+      "primary_taxonomy": "Counselor, Mental Health",
+      "location": {
+        "address_1": "30 MAN MAR DR",
+        "city": "PLAINVILLE",
+        "state": "MA",
+        "postal_code": "027622271"
+      },
+      "last_updated": "2007-07-08"
+    }
+  ]
+}
