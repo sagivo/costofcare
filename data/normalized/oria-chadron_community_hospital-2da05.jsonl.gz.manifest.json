@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/KBWK-1689286808990/machine-readable/470482234_chadron-community-ne_standardcharges.json",
   "source_sha256": "dae33843a83c30b73511e956b6862a3707a0161a16d26d04d6954a5a138fff70",
   "download_bytes": 9166464,
-  "extracted_at": "2026-11-09T01:52:53Z",
+  "extracted_at": "2026-11-28T18:25:37Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 9166464,
+    "received": 9166464
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-chadron_community_hospital-2da05__fd35c1a0023ce760.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fd/oria-chadron_community_hospital-2da05__fd35c1a0023ce760.jsonl.gz",
     "asset_sha256": "fd35c1a0023ce7608137b3fd0b9ef54274ed8309e3c6e7e80085ce58c97a59e4",
-    "published_at": "2026-11-09T02:02:30Z"
+    "published_at": "2026-11-28T18:26:15Z"
   }
 }

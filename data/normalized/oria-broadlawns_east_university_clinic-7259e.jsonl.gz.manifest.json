@@ -5,7 +5,7 @@
   "source_url": "https://files.trueaccess.care/broadlawns/426005830_eastuniversity_standardcharges.csv",
   "source_sha256": "a1ee306dc1ef60f9eab524e4fbe896135dcfdb6a02313c0a03a54a2d8422f825",
   "download_bytes": 730228,
-  "extracted_at": "2026-11-09T01:52:01Z",
+  "extracted_at": "2026-11-28T18:24:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 730228,
+    "received": 730228
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-broadlawns_east_university_clinic-7259e__faf43fb53bb838eb.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-fa/oria-broadlawns_east_university_clinic-7259e__faf43fb53bb838eb.jsonl.gz",
     "asset_sha256": "faf43fb53bb838eb7dbe82da51496bcb486fe7748f17a5e7080697e263f314f5",
-    "published_at": "2026-11-09T02:01:34Z"
+    "published_at": "2026-11-28T18:26:00Z"
   }
 }

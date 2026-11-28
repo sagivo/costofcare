@@ -5,7 +5,7 @@
   "source_url": "https://files.trueaccess.care/broadlawns/426005830_broadlawnsclinic_standardcharges.csv",
   "source_sha256": "e34519a23a3a909ea08c9edaa2de0a5f4ba9f240c3e70655342c8501bb353068",
   "download_bytes": 3206107,
-  "extracted_at": "2026-11-09T01:52:37Z",
+  "extracted_at": "2026-11-28T18:25:26Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 3206107,
+    "received": 3206107
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-broadlawns_clinics-206b4__f38eb9c624278a73.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-f3/oria-broadlawns_clinics-206b4__f38eb9c624278a73.jsonl.gz",
     "asset_sha256": "f38eb9c624278a73b6fd07a293efe05bcfb29b98c0d24b9606bf3dbd6de6b52c",
-    "published_at": "2026-11-09T02:01:30Z"
+    "published_at": "2026-11-28T18:25:57Z"
   }
 }

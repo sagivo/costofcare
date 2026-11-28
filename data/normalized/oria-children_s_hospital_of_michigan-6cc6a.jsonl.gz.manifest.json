@@ -5,7 +5,7 @@
   "source_url": "https://mrfs.hyvehealthcare.com/TenetHealth/272845064_vhs-childrens-hospital-of-michigan-inc_standardcharges.json",
   "source_sha256": "ca637e19fae1aef41b056e3dd67511affb2ae45b058328f6c3116606bac2a5cd",
   "download_bytes": 3165689,
-  "extracted_at": "2026-11-09T01:52:35Z",
+  "extracted_at": "2026-11-28T18:25:23Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 3165689,
+    "received": 3165689
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-children_s_hospital_of_michigan-6cc6a__6f58881383655178.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-6f/oria-children_s_hospital_of_michigan-6cc6a__6f58881383655178.jsonl.gz",
     "asset_sha256": "6f58881383655178968191256a5ccd954ed553048047d14ea25e62f9b4f5d39f",
-    "published_at": "2026-11-09T02:02:59Z"
+    "published_at": "2026-11-28T18:26:24Z"
   }
 }

@@ -5,7 +5,7 @@
   "source_url": "https://secure.claraprice.net/price-transparency/RSPS-1743612723843/machine-readable/736060907_cimarron-memorial-hospital_standardcharges.json",
   "source_sha256": "6575fb9b2cf7637e096fca563d3562b1126110c522a8bbcc40daf74422c373d4",
   "download_bytes": 6562142,
-  "extracted_at": "2026-11-09T01:52:46Z",
+  "extracted_at": "2026-11-28T18:25:33Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 6562142,
+    "received": 6562142
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-cimarron_memorial_hospital-3c194__d01847e50b7d91e0.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-d0/oria-cimarron_memorial_hospital-3c194__d01847e50b7d91e0.jsonl.gz",
     "asset_sha256": "d01847e50b7d91e0c98380e4e8471377573a6df6da3053fd0c4315ce1cbe5f29",
-    "published_at": "2026-11-09T02:03:10Z"
+    "published_at": "2026-11-28T18:26:28Z"
   }
 }

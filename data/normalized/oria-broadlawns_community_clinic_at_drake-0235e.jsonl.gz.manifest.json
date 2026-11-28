@@ -5,7 +5,7 @@
   "source_url": "https://files.trueaccess.care/broadlawns/426005830_drake_standardcharges.csv",
   "source_sha256": "3961485928136f5cad128f2a27ab84346098c3282b6f8780a9c547ce9359f231",
   "download_bytes": 734261,
-  "extracted_at": "2026-11-09T01:52:03Z",
+  "extracted_at": "2026-11-28T18:24:55Z",
   "code_filter": [
     "11042",
     "12001",
@@ -177,6 +177,11 @@
     "G0439"
   ],
   "complete_source_download": true,
+  "download_completeness": {
+    "method": "content-length",
+    "expected": 734261,
+    "received": 734261
+  },
   "complete_target_code_scan": true,
   "source_truth_independently_verified": false,
   "source_encoding": "utf-8-sig",
@@ -189,6 +194,6 @@
     "asset_name": "oria-broadlawns_community_clinic_at_drake-0235e__ace21957dc3db8ee.jsonl.gz",
     "download_url": "https://github.com/sagivo/costofcare/releases/download/data-norm-ac/oria-broadlawns_community_clinic_at_drake-0235e__ace21957dc3db8ee.jsonl.gz",
     "asset_sha256": "ace21957dc3db8ee102fe9fc5f22df5f967812f5a3749850538c378bc79def42",
-    "published_at": "2026-11-09T02:01:32Z"
+    "published_at": "2026-11-28T18:25:59Z"
   }
 }
